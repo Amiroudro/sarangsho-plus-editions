@@ -1,0 +1,2357 @@
+{
+  "edition_date": "2026-11-02",
+  "edition_day": "Monday",
+  "coverage": "2 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Garment unrest spreads as 264 factories shut in Savar-Ashulia",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Garment unrest spread on 2 November as 264 factories in Savar and Ashulia declared holidays and more than 150 shut in Gazipur, a day after the wage board was formed. Ten Border Guard Bangladesh platoons and 21 executive magistrates were deployed in Gazipur, and the Dhaka-Tangail highway was blocked for hours, causing 10km tailbacks. Protesters torched police vehicles and a covered van, and police used tear gas and water cannons.",
+      "why_it_matters": "The unrest is now the biggest domestic story, hitting the export sector directly; the scale of closures and the security response are exam-relevant facts.",
+      "exam_facts": "264 factories shut in Savar-Ashulia; more than 150 shut in Gazipur; 10 BGB platoons and 21 executive magistrates deployed in Gazipur; Dhaka-Tangail highway blocked, 10km tailbacks; police vehicles and a covered van torched; workers demand Tk 30,000 minimum wage, an end to blacklisting and reinstatement of dismissed workers.",
+      "exam_relevance": "High — RMG, labour unrest, law and order.",
+      "key_people": "Mohammad Mominul Islam Bhuiyan, Superintendent, Ashulia Industrial Police-1; Amzad Hossain, Gazipur Industrial Police Superintendent; Md Nurul Karim Bhuiyan, Gazipur Deputy Commissioner.",
+      "figures": "264 factories shut (Savar-Ashulia); 150+ shut (Gazipur); 10 BGB platoons; 21 executive magistrates; 10km tailbacks.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "264 factories in Ashulia, Savar shut amid labour unrest",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/news/264-factories-ashulia-savar-shut-amid-labour-unrest-4313511"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Garment workers’ protests: More than 150 factories closed in Gazipur",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/xlw063dfid"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "10 BGB platoons deployed in Gazipur amid RMG workers’ unrest",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/news/10-bgb-platoons-deployed-gazipur-amid-rmg-workers-unrest-4313401"
+        }
+      ],
+      "one_liner": "Garment unrest spread on 2 November as 264 factories in Savar and Ashulia declared holidays and more than 150 shut…",
+      "key_facts": [
+        {
+          "label": "Savar-Ashulia",
+          "value": "264 factories shut",
+          "original": "264 factories shut (Savar-Ashulia)"
+        },
+        {
+          "label": "Gazipur",
+          "value": "150+ shut",
+          "original": "150+ shut (Gazipur)"
+        },
+        {
+          "label": "BGB platoons",
+          "value": "10",
+          "original": "10 BGB platoons"
+        },
+        {
+          "label": "factories shut in Savar-Ashulia",
+          "value": "264",
+          "original": "264 factories shut in Savar-Ashulia"
+        }
+      ],
+      "what_happened": [
+        "Ten Border Guard Bangladesh platoons and 21 executive magistrates were deployed in Gazipur, and the Dhaka-Tangail highway was blocked for hours, causing 10km tailbacks.",
+        "Protesters torched police vehicles and a covered van, and police used tear gas and water cannons."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Savar-Ashulia?",
+          "a": "264 factories shut"
+        },
+        {
+          "q": "What is Gazipur?",
+          "a": "150+ shut"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garment unrest spread on ______ as 264 factories in Savar and Ashulia declared holidays and more than 150 shut in Gazipur, a day after the wage board was formed.",
+          "answer": "2 November"
+        },
+        {
+          "cloze": "Ten Border Guard Bangladesh platoons and ______ executive magistrates were deployed in Gazipur, and the Dhaka-Tangail highway was blocked for hours, causing 10km tailbacks.",
+          "answer": "21"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "unrest",
+        "spreads",
+        "factories",
+        "shut",
+        "savar",
+        "ashulia"
+      ],
+      "detail": "Garment unrest spread on 2 November as 264 factories in Savar and Ashulia declared holidays and more than 150 shut in Gazipur, a day after the wage board was formed. Ten Border Guard Bangladesh platoons and 21 executive magistrates were deployed in Gazipur, and the Dhaka-Tangail highway was blocked for hours, causing 10km tailbacks. Protesters torched police vehicles and a covered van, and police used tear gas and water cannons."
+    },
+    {
+      "id": "CA02",
+      "headline": "Ministers allege masked outsiders and conspiracies behind garment unrest",
+      "category": "Politics",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Home Minister Salahuddin Ahmed alleged that factory owners linked to the Awami League, former MPs and former state ministers were behind the garment unrest, and said video footage showed masked men who were not workers infiltrating the protests to create disorder. The Prime Minister's adviser Mahdi Amin said evidence showed 'fugitive malign forces' infiltrating the labour movement, while senior police alleged domestic and foreign conspiracies and third-party instigation.",
+      "why_it_matters": "The government's framing of the unrest — sabotage rather than a wage dispute — shapes the political story and is a governance exam topic; all claims are allegations, not findings.",
+      "exam_facts": "Home Minister Salahuddin Ahmed: factory owners linked to the Awami League, former MPs and state ministers involved; masked men infiltrated protests (video footage); 24-hour surveillance and a control room at police headquarters; Mahdi Amin: 'fugitive malign forces' infiltrating; DIG Mostafizur Rahman and SP Shamima Parveen: domestic and foreign conspiracies, third-party instigation.",
+      "exam_relevance": "High — governance, labour politics, law and order.",
+      "key_people": "Salahuddin Ahmed, Home Minister; Mahdi Amin, Prime Minister's Adviser on Labour and Employment Affairs; Md Mostafizur Rahman, DIG, Dhaka Range; Shamima Parveen, SP, Dhaka.",
+      "figures": "24-hour surveillance ordered; control room at police headquarters.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/bangladesh/48pn06ucxj"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776"
+        }
+      ],
+      "one_liner": "Home Minister Salahuddin Ahmed alleged that factory owners linked to the Awami League, former MPs and former state ministers were…",
+      "key_facts": [
+        {
+          "label": "hour surveillance ordered",
+          "value": "24",
+          "original": "24-hour surveillance ordered"
+        },
+        {
+          "label": "",
+          "value": "control room at police headquarters",
+          "original": "control room at police headquarters"
+        },
+        {
+          "label": "Home Minister Salahuddin Ahmed",
+          "value": "factory owners linked to the Awami League, former MPs and state ministers involved",
+          "original": "Home Minister Salahuddin Ahmed: factory owners linked to the Awami League, former MPs and state ministers involved"
+        },
+        {
+          "label": "video footage",
+          "value": "masked men infiltrated protests",
+          "original": "masked men infiltrated protests (video footage)"
+        }
+      ],
+      "what_happened": [
+        "The Prime Minister's adviser Mahdi Amin said evidence showed 'fugitive malign forces' infiltrating the labour movement, while senior police alleged domestic and foreign conspiracies and third-party instigation."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is hour surveillance ordered?",
+          "a": "24"
+        },
+        {
+          "q": "What is video footage?",
+          "a": "masked men infiltrated protests"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "politics",
+        "ministers",
+        "allege",
+        "masked",
+        "outsiders",
+        "conspiracies",
+        "behind",
+        "garment",
+        "unrest"
+      ],
+      "detail": "Home Minister Salahuddin Ahmed alleged that factory owners linked to the Awami League, former MPs and former state ministers were behind the garment unrest, and said video footage showed masked men who were not workers infiltrating the protests to create disorder. The Prime Minister's adviser Mahdi Amin said evidence showed 'fugitive malign forces' infiltrating the labour movement, while senior police alleged domestic and foreign conspiracies and third-party instigation."
+    },
+    {
+      "id": "CA03",
+      "headline": "Exports rise 4.4 percent to nearly $4 billion in October",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Bangladesh's merchandise exports rose 4.4 percent year-on-year to nearly $4 billion in October, the slowest growth since August, according to Export Promotion Bureau data. Garment exports rose 4.9 percent to $3.17 billion, with knitwear up 6.48 percent to $1.77 billion and woven garments up 2.96 percent to $1.4 billion. Exporters warned that rising costs, fuel shortages and industrial unrest could undermine growth.",
+      "why_it_matters": "Monthly export data is a staple of BCS/Bank economics questions, and the garment split shows which segments drive growth.",
+      "exam_facts": "October exports: $3.99 billion, up 4.4 percent year-on-year (slowest since August); RMG $3.17 billion (up 4.9 percent, nearly 80 percent of exports); knitwear $1.77 billion (up 6.48 percent); woven $1.4 billion (up 2.96 percent); July-October exports up 6 percent; source: Export Promotion Bureau.",
+      "exam_relevance": "High — exports, RMG, EPB data.",
+      "key_people": "Asif Ibrahim, Vice Chairman, New Age Group.",
+      "figures": "$3.99 billion in October; up 4.4 percent; RMG $3.17 billion; knitwear $1.77 billion; woven $1.4 billion.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Exports rise 4.4% to nearly $4b in October",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/business/economy/news/exports-rise-44-nearly-4b-october-4313131"
+        }
+      ],
+      "one_liner": "Bangladesh's merchandise exports rose 4.4 percent year-on-year to nearly $4 billion in October, the slowest growth since August, according to…",
+      "key_facts": [
+        {
+          "label": "in October",
+          "value": "$3.99 billion",
+          "original": "$3.99 billion in October"
+        },
+        {
+          "label": "up",
+          "value": "4.4 percent",
+          "original": "up 4.4 percent"
+        },
+        {
+          "label": "RMG",
+          "value": "$3.17 billion",
+          "original": "RMG $3.17 billion"
+        },
+        {
+          "label": "knitwear",
+          "value": "$1.77 billion",
+          "original": "knitwear $1.77 billion"
+        }
+      ],
+      "what_happened": [
+        "Garment exports rose 4.9 percent to $3.17 billion, with knitwear up 6.48 percent to $1.77 billion and woven garments up 2.96 percent to $1.4 billion.",
+        "Exporters warned that rising costs, fuel shortages and industrial unrest could undermine growth."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is up?",
+          "a": "4.4 percent"
+        },
+        {
+          "q": "What is RMG?",
+          "a": "$3.17 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's merchandise exports rose ______ percent year-on-year to nearly $4 billion in October, the slowest growth since August, according to Export Promotion Bureau data.",
+          "answer": "4.4"
+        },
+        {
+          "cloze": "Garment exports rose ______ percent to $3.17 billion, with knitwear up 6.48 percent to $1.77 billion and woven garments up 2.96 percent to $1.4 billion.",
+          "answer": "4.9"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "exports",
+        "rise",
+        "percent",
+        "nearly",
+        "billion",
+        "october"
+      ],
+      "detail": "Bangladesh's merchandise exports rose 4.4 percent year-on-year to nearly $4 billion in October, the slowest growth since August, according to Export Promotion Bureau data. Garment exports rose 4.9 percent to $3.17 billion, with knitwear up 6.48 percent to $1.77 billion and woven garments up 2.96 percent to $1.4 billion. Exporters warned that rising costs, fuel shortages and industrial unrest could undermine growth."
+    },
+    {
+      "id": "CA04",
+      "headline": "Supplementary HSC exams from 1 December as 800,000 higher-education seats may stay vacant",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Supplementary HSC examinations for students who failed one or two subjects will begin on 1 December, with results by 31 December, the inter-education board committee said. Of 594,113 students who failed this year's HSC and equivalent exams, 422,905 failed one or two subjects. With only 646,685 of 1,240,798 candidates passing, over 800,000 higher-education seats may remain vacant, UGC data shows.",
+      "why_it_matters": "The supplementary exam is a new second-chance system and the vacant-seats figure shows the scale of the results crisis — both are education-policy exam material.",
+      "exam_facts": "Supplementary exams 1-31 December for students failing one or two subjects; 594,113 failed HSC/equivalent; 422,905 failed one or two subjects (298,040 one, 124,865 two); 646,685 passed of 1,240,798 (52.12 percent); GPA-5: 40,084 across 11 boards; higher-education seats 1.492 million, over 800,000 may stay vacant; Dhaka city pass rate 79.33 percent vs Manikganj 38.25 percent.",
+      "exam_relevance": "High — education policy, HSC, UGC.",
+      "key_people": "Prof Syed Akhtaruzzaman, Chairman, Dhaka Education Board; ANM Ehsanul Hoque Milon, Education Minister.",
+      "figures": "Exams 1 December, results by 31 December; 422,905 eligible for supplementary exams; 646,685 passed; 800,000+ seats may stay vacant.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Supplementary HSC exams from Dec 2, results likely by Dec 31",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/education/news/supplementary-hsc-exams-dec-2-results-likely-dec-31-4313516"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "HSC results: Fewer pass, over 800,000 seats in higher education to remain vacant",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/youth/education/fyufu3wz3x"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "HSC Results: Urban-rural divide widens, with 79pc pass rate in Dhaka, 38pc in Manikganj",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/youth/education/o3gaxieblk"
+        }
+      ],
+      "one_liner": "",
+      "key_facts": [],
+      "what_happened": [],
+      "exam_qa": [],
+      "recall_cards": [],
+      "keywords": [
+        "jobs & education"
+      ]
+    },
+    {
+      "id": "CA05",
+      "headline": "LPG price raised by Tk 223 as 12kg cylinder now costs Tk 2,060",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "The Bangladesh Energy Regulatory Commission raised the price of a 12kg LPG cylinder by Tk 223 to Tk 2,060 for November, up Tk 475 in two months. Autogas rose to Tk 91.95 a litre from Tk 84.62. LPG has been in short supply for over a month, with consumers paying Tk 2,200-2,300 in the market against the official price, while about 10 million consumers use LPG, mostly for household cooking.",
+      "why_it_matters": "Fuel prices feed directly into inflation and household budgets, and BERC's monthly price-setting is a standard exam topic.",
+      "exam_facts": "12kg LPG cylinder: Tk 2,060 (up Tk 223 from Tk 1,837; up Tk 475 in two months); autogas Tk 91.95 per litre (from Tk 84.62); market price Tk 2,200-2,300; about 10 million consumers; 80 percent household cooking; private sector 99 percent of the market; BERC sets prices monthly since April 2021.",
+      "exam_relevance": "High — energy prices, BERC, inflation.",
+      "key_people": "Bangladesh Energy Regulatory Commission (BERC).",
+      "figures": "Tk 2,060 per 12kg cylinder; up Tk 223; up Tk 475 in two months; autogas Tk 91.95 per litre; Tk 171.68 per kg.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "LPG price hiked by Tk 223",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/business/local/j8vs038a5d"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "LPG price jumps Tk 475 in two months, 12kg cylinder now Tk 2,060",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/power-and-energy/news/lpg-price-jumps-tk-475-two-months-12kg-cylinder-now-tk-2060-4313791"
+        }
+      ],
+      "one_liner": "The Bangladesh Energy Regulatory Commission raised the price of a 12kg LPG cylinder by Tk 223 to Tk 2,060 for…",
+      "key_facts": [
+        {
+          "label": "per 12kg cylinder",
+          "value": "Tk 2,060",
+          "original": "Tk 2,060 per 12kg cylinder"
+        },
+        {
+          "label": "up",
+          "value": "Tk 223",
+          "original": "up Tk 223"
+        },
+        {
+          "label": "up in two months",
+          "value": "Tk 475",
+          "original": "up Tk 475 in two months"
+        },
+        {
+          "label": "autogas per litre",
+          "value": "Tk 91.95",
+          "original": "autogas Tk 91.95 per litre"
+        }
+      ],
+      "what_happened": [
+        "Autogas rose to Tk 91.95 a litre from Tk 84.62.",
+        "LPG has been in short supply for over a month, with consumers paying Tk 2,200-2,300 in the market against the official price,",
+        "while about 10 million consumers use LPG, mostly for household cooking."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is up?",
+          "a": "Tk 223"
+        },
+        {
+          "q": "What is autogas per litre?",
+          "a": "Tk 91.95"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Bangladesh Energy Regulatory Commission raised the price of a ______kg LPG cylinder by Tk 223 to Tk 2,060 for November, up Tk 475 in two months.",
+          "answer": "12"
+        },
+        {
+          "cloze": "Autogas rose to Tk ______ a litre from Tk 84.62.",
+          "answer": "91.95"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "price",
+        "raised",
+        "cylinder",
+        "costs"
+      ],
+      "detail": "The Bangladesh Energy Regulatory Commission raised the price of a 12kg LPG cylinder by Tk 223 to Tk 2,060 for November, up Tk 475 in two months. Autogas rose to Tk 91.95 a litre from Tk 84.62. LPG has been in short supply for over a month, with consumers paying Tk 2,200-2,300 in the market against the official price, while about 10 million consumers use LPG, mostly for household cooking."
+    },
+    {
+      "id": "CA06",
+      "headline": "PM orders comprehensive preparations for earthquake risks",
+      "category": "Bangladesh",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Prime Minister Tarique Rahman directed officials to strengthen earthquake preparedness, identify vulnerable and old buildings, enforce the National Building Code and improve emergency rescue capacity. At a meeting at the Prime Minister's Office, he stressed coordinated action by ministries, local government, RAJUK and the Fire Service to protect hospitals, schools and other important establishments in Dhaka and other earthquake-prone areas.",
+      "why_it_matters": "Dhaka is one of the world's most earthquake-vulnerable cities, so preparedness policy is a disaster-management exam topic.",
+      "exam_facts": "Meeting on earthquake preparedness at the Prime Minister's Office, 2 November; directives: identify vulnerable buildings, enforce the National Building Code, enhance rescue capacity, raise public awareness; coordination among ministries, local government, RAJUK and Fire Service; attendees included Disaster Management Minister Asadul Habib Dulu and RAJUK Chairman Engr Md Reazul Islam.",
+      "exam_relevance": "Medium-high — disaster management, urban planning.",
+      "key_people": "Tarique Rahman, Prime Minister; Asadul Habib Dulu, Disaster Management and Relief Minister; Mir Shahe Alam, State Minister for LGRD; Engr Md Reazul Islam, RAJUK Chairman.",
+      "figures": "Meeting held 2 November 2026 at the Prime Minister's Office.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "PM for comprehensive preparations to address earthquake risks",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman directed officials to strengthen earthquake preparedness, identify vulnerable and old buildings, enforce the National Building Code…",
+      "key_facts": [
+        {
+          "label": "directives",
+          "value": "identify vulnerable buildings, enforce the National Building Code, enhance rescue capacity, raise public awareness",
+          "original": "directives: identify vulnerable buildings, enforce the National Building Code, enhance rescue capacity, raise public awareness"
+        }
+      ],
+      "what_happened": [
+        "At a meeting at the Prime Minister's Office, he stressed coordinated action by ministries, local government,",
+        "RAJUK and the Fire Service to protect hospitals, schools and other important establishments in Dhaka and other earthquake-prone areas."
+      ],
+      "exam_qa": [],
+      "recall_cards": [],
+      "keywords": [
+        "bangladesh",
+        "orders",
+        "comprehensive",
+        "preparations",
+        "earthquake",
+        "risks"
+      ],
+      "detail": "Prime Minister Tarique Rahman directed officials to strengthen earthquake preparedness, identify vulnerable and old buildings, enforce the National Building Code and improve emergency rescue capacity. At a meeting at the Prime Minister's Office, he stressed coordinated action by ministries, local government, RAJUK and the Fire Service to protect hospitals, schools and other important establishments in Dhaka and other earthquake-prone areas."
+    },
+    {
+      "id": "CA07",
+      "headline": "Six more die of dengue as toll reaches 433",
+      "category": "Bangladesh",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "At least six dengue patients died and 1,970 were hospitalised in 24 hours, taking the year's death toll to 433 and cases to 138,899, the Directorate General of Health Services said. Three deaths were reported in Dhaka division, two in Mymensingh and one in Sylhet. A day earlier, eight more patients had died and 1,929 were hospitalised, with 6,114 patients under treatment across the country.",
+      "why_it_matters": "Dengue is Bangladesh's recurring public-health emergency; the daily toll and cumulative figures are standard general-knowledge data.",
+      "exam_facts": "6 deaths and 1,970 hospitalisations in 24 hours to 8am, 2 November; total deaths 433, total cases 138,899; 6,017 patients under treatment; previous day: 8 deaths, 1,929 hospitalised, total deaths 427; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium-high — public health, DGHS data.",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "figures": "6 deaths in 24 hours; 1,970 hospitalised; total deaths 433; total cases 138,899.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "6 die of dengue, 1,970 hospitalised in 24 hours",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-die-dengue-1970-hospitalised-24-hours-4313826"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Eight more die of dengue",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/eight-more-die-dengue-4313191"
+        }
+      ],
+      "one_liner": "At least six dengue patients died and 1,970 were hospitalised in 24 hours, taking the year's death toll to 433…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "6",
+          "original": "6 deaths in 24 hours"
+        },
+        {
+          "label": "hospitalised",
+          "value": "1,970",
+          "original": "1,970 hospitalised"
+        },
+        {
+          "label": "total deaths",
+          "value": "433",
+          "original": "total deaths 433"
+        },
+        {
+          "label": "total cases",
+          "value": "138,899",
+          "original": "total cases 138,899"
+        }
+      ],
+      "what_happened": [
+        "Three deaths were reported in Dhaka division, two in Mymensingh and one in Sylhet.",
+        "A day earlier, eight more patients had died and 1,929 were hospitalised, with 6,114 patients under treatment across the country."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is hospitalised?",
+          "a": "1,970"
+        },
+        {
+          "q": "What is total deaths?",
+          "a": "433"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least six dengue patients died and ______ were hospitalised in 24 hours, taking the year's death toll to 433 and cases to 138,899, the Directorate General of Health Services said.",
+          "answer": "1,970"
+        },
+        {
+          "cloze": "A day earlier, eight more patients had died and ______ were hospitalised, with 6,114 patients under treatment across the country.",
+          "answer": "1,929"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "dengue",
+        "toll",
+        "reaches"
+      ],
+      "detail": "At least six dengue patients died and 1,970 were hospitalised in 24 hours, taking the year's death toll to 433 and cases to 138,899, the Directorate General of Health Services said. Three deaths were reported in Dhaka division, two in Mymensingh and one in Sylhet. A day earlier, eight more patients had died and 1,929 were hospitalised, with 6,114 patients under treatment across the country."
+    },
+    {
+      "id": "CA08",
+      "headline": "ACC approves three cases against Salman and son over Tk 1,121 crore",
+      "category": "Bangladesh",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "The Anti-Corruption Commission approved three cases against former prime minister Sheikh Hasina's adviser Salman F Rahman, his son Ahmed Shayan Fazlur Rahman and 35 others over the alleged embezzlement and laundering of Tk 1,121.49 crore from Janata Bank through fake import and export transactions. The ACC said loans were taken in the names of three companies with no prior business experience, in collusion with bank officials.",
+      "why_it_matters": "One of the largest bank-fraud allegations in Bangladesh's history, linking a former PM's adviser, Janata Bank and the Export Development Fund — core anti-corruption exam material.",
+      "exam_facts": "Amount: Tk 1,121.49 crore allegedly embezzled and laundered; companies: Springful Apparels (Tk 141.28 crore), Urban Fashions (Tk 417.04 crore), Midwest Garments (Tk 563.16 crore); loans from Janata Bank Dhaka Local Office, including Export Development Fund facilities; cases name 22, 22 and 25 accused; Salman is vice-chairman of Beximco Group.",
+      "exam_relevance": "High — corruption, banking, ACC.",
+      "key_people": "Salman F Rahman, former adviser to Sheikh Hasina; Ahmed Shayan Fazlur Rahman, his son; Saidur Rahman Khan, ACC Secretary.",
+      "figures": "Tk 1,121.49 crore; three cases; 37 accused in total across the cases.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846"
+        }
+      ],
+      "one_liner": "The Anti-Corruption Commission approved three cases against former prime minister Sheikh Hasina's adviser Salman F Rahman, his son Ahmed Shayan…",
+      "key_facts": [
+        {
+          "label": "crore",
+          "value": "Tk 1,121.49",
+          "original": "Tk 1,121.49 crore"
+        },
+        {
+          "label": "accused in total across the cases",
+          "value": "37",
+          "original": "37 accused in total across the cases"
+        },
+        {
+          "label": "Amount",
+          "value": "Tk 1,121.49 crore allegedly embezzled and laundered",
+          "original": "Amount: Tk 1,121.49 crore allegedly embezzled and laundered"
+        },
+        {
+          "label": "Tk 563.16 crore",
+          "value": "companies: Springful Apparels (Tk 141.28 crore), Urban Fashions (Tk 417.04 crore), Midwest Garments",
+          "original": "companies: Springful Apparels (Tk 141.28 crore), Urban Fashions (Tk 417.04 crore), Midwest Garments (Tk 563.16 crore)"
+        }
+      ],
+      "what_happened": [
+        "The ACC said loans were taken in the names of three companies with no prior business experience, in collusion with bank officials."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is crore?",
+          "a": "Tk 1,121.49"
+        },
+        {
+          "q": "What is accused in total across the cases?",
+          "a": "37"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Anti-Corruption Commission approved three cases against former prime minister Sheikh Hasina's adviser Salman F Rahman, his son Ahmed Shayan Fazlur Rahman and ______ others over the alleged embezzlement and laundering of Tk 1,121.49 crore from Janata Bank through fake import and export transactions.",
+          "answer": "35"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "approves",
+        "cases",
+        "salman",
+        "crore"
+      ],
+      "detail": "The Anti-Corruption Commission approved three cases against former prime minister Sheikh Hasina's adviser Salman F Rahman, his son Ahmed Shayan Fazlur Rahman and 35 others over the alleged embezzlement and laundering of Tk 1,121.49 crore from Janata Bank through fake import and export transactions. The ACC said loans were taken in the names of three companies with no prior business experience, in collusion with bank officials."
+    },
+    {
+      "id": "CA09",
+      "headline": "Sagar-Runi probe still unfinished after 131 missed deadlines",
+      "category": "Bangladesh",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Investigators have failed to complete the probe into the murders of journalist Sagar Sarowar and Meherun Runi nearly 15 years ago despite 131 deadlines for submitting the investigation report, leaving their families waiting for justice. The task force has been given another six months, but Sagar's 74-year-old mother Saleha Monir said no one from the team had contacted her, and the High Court has summoned the ICT prosecutor and the task force head.",
+      "why_it_matters": "The Sagar-Runi case is Bangladesh's most famous unsolved journalist murder; the missed deadlines are a symbol of investigative failure and a governance exam topic.",
+      "exam_facts": "Victims: journalist Sagar Sarowar and Meherun Runi, murdered in February 2012; 131 deadlines missed for the investigation report (132 set); task force given another six months; High Court summoned ICT Prosecutor Tanvir Hassan Zoha and the task force head; case filed at Sher-e-Bangla Nagar Police Station by Runi's brother Nowsher Alam Roman.",
+      "exam_relevance": "High — justice, press freedom, governance.",
+      "key_people": "Saleha Monir, Sagar's mother (74); Nowsher Alam Roman, Runi's brother; Tanvir Hassan Zoha, ICT Prosecutor.",
+      "figures": "131 deadlines missed; nearly 15 years since the murders; six more months granted to the task force.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "131 deadlines missed, Sagar-Runi families still wait for justice",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/131-deadlines-missed-sagar-runi-families-still-wait-justice-4313496"
+        }
+      ],
+      "one_liner": "Investigators have failed to complete the probe into the murders of journalist Sagar Sarowar and Meherun Runi nearly 15 years…",
+      "key_facts": [
+        {
+          "label": "deadlines missed",
+          "value": "131",
+          "original": "131 deadlines missed"
+        },
+        {
+          "label": "nearly years since the murders",
+          "value": "15",
+          "original": "nearly 15 years since the murders"
+        },
+        {
+          "label": "",
+          "value": "six more months granted to the task force",
+          "original": "six more months granted to the task force"
+        },
+        {
+          "label": "Victims",
+          "value": "journalist Sagar Sarowar and Meherun Runi, murdered in February 2012",
+          "original": "Victims: journalist Sagar Sarowar and Meherun Runi, murdered in February 2012"
+        }
+      ],
+      "what_happened": [
+        "The task force has been given another six months, but Sagar's 74-year-old mother Saleha Monir said no one from the team had contacted her,",
+        "and the High Court has summoned the ICT prosecutor and the task force head."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is deadlines missed?",
+          "a": "131"
+        },
+        {
+          "q": "What is Victims?",
+          "a": "journalist Sagar Sarowar and Meherun Runi, murdered in February 2012"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Investigators have failed to complete the probe into the murders of journalist Sagar Sarowar and Meherun Runi nearly ______ years ago despite 131 deadlines for submitting the investigation report, leaving their families waiting for justice.",
+          "answer": "15"
+        },
+        {
+          "cloze": "The task force has been given another six months, but Sagar's ______-year-old mother Saleha Monir said no one from the team had contacted her, and the High Court has summoned the ICT prosecutor and the task force head.",
+          "answer": "74"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "sagar",
+        "runi",
+        "probe",
+        "still",
+        "unfinished",
+        "missed",
+        "deadlines"
+      ],
+      "detail": "Investigators have failed to complete the probe into the murders of journalist Sagar Sarowar and Meherun Runi nearly 15 years ago despite 131 deadlines for submitting the investigation report, leaving their families waiting for justice. The task force has been given another six months, but Sagar's 74-year-old mother Saleha Monir said no one from the team had contacted her, and the High Court has summoned the ICT prosecutor and the task force head."
+    },
+    {
+      "id": "CA10",
+      "headline": "ICT files formal charge against seven Awami League leaders",
+      "category": "Bangladesh",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "The prosecution submitted a formal charge to the International Crimes Tribunal against seven Awami League leaders over alleged crimes against humanity during the July 2024 uprising. The accused include former ministers Amir Hossain Amu, Abdur Razzaque, Shahjahan Khan, Dipu Moni, Mirza Azam and Faruk Khan, and former energy adviser Taufiq-e-Elahi Chowdhury. Six are in jail; Mirza Azam is absconding. The crackdown left around 1,400 protesters dead and 25,000 injured, the prosecution said.",
+      "why_it_matters": "The July uprising trials are the defining legal process of the post-2024 period; the charges, the accused and the casualty figures are directly askable.",
+      "exam_facts": "Formal charge submitted to the ICT registrar; accused: Amir Hossain Amu, Abdur Razzaque, Shahjahan Khan, Dipu Moni, Mirza Azam, Faruk Khan, Taufiq-e-Elahi Chowdhury; six in jail, Mirza Azam absconding; alleged crackdown left about 1,400 protesters dead and 25,000 injured; evidence includes the UN fact-finding report and recorded conversations.",
+      "exam_relevance": "High — ICT, July uprising, crimes against humanity.",
+      "key_people": "Gazi Monawar Hossain Tamim, ICT Prosecutor.",
+      "figures": "Seven accused; about 1,400 dead; 25,000 injured; six in jail, one absconding.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "ICT prosecution submits formal charge against seven AL leaders",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591"
+        }
+      ],
+      "one_liner": "The prosecution submitted a formal charge to the International Crimes Tribunal against seven Awami League leaders over alleged crimes against…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Seven accused",
+          "original": "Seven accused"
+        },
+        {
+          "label": "about dead",
+          "value": "1,400",
+          "original": "about 1,400 dead"
+        },
+        {
+          "label": "",
+          "value": "six in jail, one absconding",
+          "original": "six in jail, one absconding"
+        },
+        {
+          "label": "",
+          "value": "Formal charge submitted to the ICT registrar",
+          "original": "Formal charge submitted to the ICT registrar"
+        }
+      ],
+      "what_happened": [
+        "The accused include former ministers Amir Hossain Amu, Abdur Razzaque, Shahjahan Khan, Dipu Moni, Mirza Azam and Faruk Khan, and former energy adviser Taufiq-e-Elahi Chowdhury.",
+        "Six are in jail; Mirza Azam is absconding.",
+        "The crackdown left around 1,400 protesters dead and 25,000 injured, the prosecution said."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is about dead?",
+          "a": "1,400"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The prosecution submitted a formal charge to the International Crimes Tribunal against seven Awami League leaders over alleged crimes against humanity during the ______24 uprising.",
+          "answer": "July 20"
+        },
+        {
+          "cloze": "The crackdown left around ______ protesters dead and 25,000 injured, the prosecution said.",
+          "answer": "1,400"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "files",
+        "formal",
+        "charge",
+        "seven",
+        "awami",
+        "league",
+        "leaders"
+      ],
+      "detail": "The prosecution submitted a formal charge to the International Crimes Tribunal against seven Awami League leaders over alleged crimes against humanity during the July 2024 uprising. The accused include former ministers Amir Hossain Amu, Abdur Razzaque, Shahjahan Khan, Dipu Moni, Mirza Azam and Faruk Khan, and former energy adviser Taufiq-e-Elahi Chowdhury. Six are in jail; Mirza Azam is absconding. The crackdown left around 1,400 protesters dead and 25,000 injured, the prosecution said."
+    },
+    {
+      "id": "CA11",
+      "headline": "Cabinet clears solar law as 4,000MW rooftop target needs $2 billion",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "The Cabinet approved the draft Special Solar Power Installation Act, 2026, to turn the Special Solar Power Ordinance into law and speed up solar installations, subject to vetting by the Legislative Division. Separately, energy specialists said Bangladesh needs about $2 billion to install 4,000MW of rooftop solar within a year, with households needing stronger incentives as the grid buys surplus power at Tk 10.50 per unit.",
+      "why_it_matters": "Renewable energy law and the rooftop solar target are energy-policy exam topics, linking climate goals, investment and household economics.",
+      "exam_facts": "Draft Special Solar Power Installation Act, 2026 approved by Cabinet (in principle and final); converts the Special Solar Power Ordinance, 2026 (Article 93(1) of the Constitution); rooftop solar target: 4,000MW within a year; investment needed: about $2 billion; grid buyback rate: Tk 10.50 per kilowatt-hour for surplus power.",
+      "exam_relevance": "High — renewable energy, legislation, investment.",
+      "key_people": "Tarique Rahman, Prime Minister (chaired the Cabinet meeting); Dr Nasimul Ghani, Cabinet Secretary; Dipal C Barua, Chairman, Bright Green Energy Foundation.",
+      "figures": "4,000MW rooftop solar target; about $2 billion needed; Tk 10.50 per kWh buyback rate.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Cabinet clears draft law to expedite solar power installations",
+          "date": "2026-11-02",
+          "url": "https://www.tbsnews.net/bangladesh/cabinet-clears-draft-law-expedite-solar-power-installations-1590776"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "4,000MW rooftop solar ambition demands $2b fund",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/business/economy/news/4000mw-rooftop-solar-ambition-demands-2b-fund-4313141"
+        }
+      ],
+      "one_liner": "The Cabinet approved the draft Special Solar Power Installation Act, 2026, to turn the Special Solar Power Ordinance into law…",
+      "key_facts": [
+        {
+          "label": "MW rooftop solar target",
+          "value": "4,000",
+          "original": "4,000MW rooftop solar target"
+        },
+        {
+          "label": "about needed",
+          "value": "$2 billion",
+          "original": "about $2 billion needed"
+        },
+        {
+          "label": "per kWh buyback rate",
+          "value": "Tk 10.50",
+          "original": "Tk 10.50 per kWh buyback rate"
+        },
+        {
+          "label": "in principle and final",
+          "value": "Draft Special Solar Power Installation Act, 2026 approved by Cabinet",
+          "original": "Draft Special Solar Power Installation Act, 2026 approved by Cabinet (in principle and final)"
+        }
+      ],
+      "what_happened": [
+        "Separately, energy specialists said Bangladesh needs about $2 billion to install 4,000MW of rooftop solar within a year,",
+        "with households needing stronger incentives as the grid buys surplus power at Tk 10.50 per unit."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is MW rooftop solar target?",
+          "a": "4,000"
+        },
+        {
+          "q": "What is about needed?",
+          "a": "$2 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Cabinet approved the draft Special Solar Power Installation Act, ______ to turn the Special Solar Power Ordinance into law and speed up solar installations, subject to vetting by the Legislative Division.",
+          "answer": "2026,"
+        },
+        {
+          "cloze": "Separately, energy specialists said Bangladesh needs about $______ billion to install 4,000MW of rooftop solar within a year, with households needing stronger incentives as the grid buys surplus power at Tk 10.50 per unit.",
+          "answer": "2"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "cabinet",
+        "clears",
+        "solar",
+        "rooftop",
+        "target",
+        "needs",
+        "billion"
+      ],
+      "detail": "The Cabinet approved the draft Special Solar Power Installation Act, 2026, to turn the Special Solar Power Ordinance into law and speed up solar installations, subject to vetting by the Legislative Division. Separately, energy specialists said Bangladesh needs about $2 billion to install 4,000MW of rooftop solar within a year, with households needing stronger incentives as the grid buys surplus power at Tk 10.50 per unit."
+    },
+    {
+      "id": "CA12",
+      "headline": "Money market rates fall in September as liquidity eases",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Short-term borrowing costs fell in September as liquidity eased, Bangladesh Bank's Money Market Dynamics report showed. The weighted average call money rate fell to 8.48 percent at the end of September from 9.25 percent at the start, with the monthly average at 8.86 percent. The repo rate's monthly average was about 8.90 percent, and banks increasingly borrowed for seven days rather than overnight.",
+      "why_it_matters": "Call money and repo rates are core banking-exam concepts; the figures show how Bangladesh Bank reads liquidity.",
+      "exam_facts": "Call money weighted average: 8.48 percent at end-September (from 9.25 percent at the start); monthly average 8.86 percent (from 9.68 percent in July; 118 basis points lower than September 2025); repo monthly average about 8.90 percent; seven-day transactions about 50 percent of the market (from 9 percent in May); source: Bangladesh Bank Money Market Dynamics report.",
+      "exam_relevance": "High — banking, money market, interest rates.",
+      "key_people": "Bangladesh Bank (data source).",
+      "figures": "Call money 8.48 percent (end-September); monthly average 8.86 percent; repo about 8.90 percent; seven-day share about 50 percent.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Money market rates fell in Sept as liquidity eased",
+          "date": "2026-11-02",
+          "url": "https://www.thedailystar.net/business/news/money-market-rates-fell-sept-liquidity-eased-4313901"
+        }
+      ],
+      "one_liner": "Short-term borrowing costs fell in September as liquidity eased, Bangladesh Bank's Money Market Dynamics report showed.",
+      "key_facts": [
+        {
+          "label": "end-September",
+          "value": "Call money 8.48 percent",
+          "original": "Call money 8.48 percent (end-September)"
+        },
+        {
+          "label": "monthly average",
+          "value": "8.86 percent",
+          "original": "monthly average 8.86 percent"
+        },
+        {
+          "label": "repo about",
+          "value": "8.90 percent",
+          "original": "repo about 8.90 percent"
+        },
+        {
+          "label": "seven-day share about",
+          "value": "50 percent",
+          "original": "seven-day share about 50 percent"
+        }
+      ],
+      "what_happened": [
+        "The weighted average call money rate fell to 8.48 percent at the end of September from 9.25 percent at the start, with the monthly average at 8.86 percent.",
+        "The repo rate's monthly average was about 8.90 percent, and banks increasingly borrowed for seven days rather than overnight."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is repo about?",
+          "a": "8.90 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The weighted average call money rate fell to ______ percent at the end of September from 9.25 percent at the start, with the monthly average at 8.86 percent.",
+          "answer": "8.48"
+        },
+        {
+          "cloze": "The repo rate's monthly average was about ______ percent, and banks increasingly borrowed for seven days rather than overnight.",
+          "answer": "8.90"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "money",
+        "market",
+        "rates",
+        "fall",
+        "september",
+        "liquidity",
+        "eases"
+      ],
+      "detail": "Short-term borrowing costs fell in September as liquidity eased, Bangladesh Bank's Money Market Dynamics report showed. The weighted average call money rate fell to 8.48 percent at the end of September from 9.25 percent at the start, with the monthly average at 8.86 percent. The repo rate's monthly average was about 8.90 percent, and banks increasingly borrowed for seven days rather than overnight."
+    },
+    {
+      "id": "CA13",
+      "headline": "Trump and Democrats hold final rallies before US midterm elections",
+      "category": "World",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Donald Trump and the Democrats held their final rallies before the US midterm elections, with polls suggesting Democrats are near certain to win the House and have a real chance of taking the Senate. Trump closed his campaign with a speech at the Lincoln Memorial Reflecting Pool in Washington. Democrats also faced internal divisions, including a Michigan congresswoman endorsing a Republican against a progressive Democrat in a key Senate race.",
+      "why_it_matters": "US midterm results shape global politics and trade; the House/Senate balance and the key races are standard international-affairs material.",
+      "exam_facts": "Midterm elections 3 November 2026; Democrats near certain to win the House, with a real chance in the Senate; Trump closed at the Lincoln Memorial Reflecting Pool; Democratic Senate candidates James Talarico (Texas) and Adam Hamilton (Kansas); Michigan congresswoman Haley Stevens endorsed Republican Mike Rogers against Abdul El-Sayed.",
+      "exam_relevance": "Medium-high — US politics, international affairs.",
+      "key_people": "Donald Trump, US President; James Talarico and Adam Hamilton, Democratic Senate candidates; Haley Stevens, Democratic congresswoman.",
+      "figures": "Midterms on 3 November 2026; House and Senate at stake.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Democrats, Trump hold final rallies before midterm elections",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/international/americas/uksdxj47lr"
+        }
+      ],
+      "one_liner": "Donald Trump and the Democrats held their final rallies before the US midterm elections, with polls suggesting Democrats are near…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Midterms on 3 November 2026",
+          "original": "Midterms on 3 November 2026"
+        },
+        {
+          "label": "",
+          "value": "House and Senate at stake",
+          "original": "House and Senate at stake"
+        },
+        {
+          "label": "",
+          "value": "Midterm elections 3 November 2026",
+          "original": "Midterm elections 3 November 2026"
+        },
+        {
+          "label": "",
+          "value": "Trump closed at the Lincoln Memorial Reflecting Pool",
+          "original": "Trump closed at the Lincoln Memorial Reflecting Pool"
+        }
+      ],
+      "what_happened": [
+        "Trump closed his campaign with a speech at the Lincoln Memorial Reflecting Pool in Washington.",
+        "Democrats also faced internal divisions, including a Michigan congresswoman endorsing a Republican against a progressive Democrat in a key Senate race."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Democratic Senate?",
+          "a": "candidates James Talarico (Texas) and Adam Hamilton (Kansas)"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "world",
+        "trump",
+        "democrats",
+        "hold",
+        "final",
+        "rallies",
+        "midterm",
+        "elections"
+      ],
+      "detail": "Donald Trump and the Democrats held their final rallies before the US midterm elections, with polls suggesting Democrats are near certain to win the House and have a real chance of taking the Senate. Trump closed his campaign with a speech at the Lincoln Memorial Reflecting Pool in Washington. Democrats also faced internal divisions, including a Michigan congresswoman endorsing a Republican against a progressive Democrat in a key Senate race."
+    },
+    {
+      "id": "CA14",
+      "headline": "Cyclone Murasu likely to cross Andhra Pradesh coast by early 3 November",
+      "category": "World",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Severe Cyclonic Storm Murasu over the Bay of Bengal is likely to cross the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole, late on 2 November or in the early hours of 3 November, the India Meteorological Department said. The storm, centred about 260km east-northeast of Chennai, is expected to make landfall with sustained winds of 100-110kmph and gusts reaching 120kmph.",
+      "why_it_matters": "Bay of Bengal cyclones directly threaten Bangladesh's coast, so tracking, wind speeds and landfall are disaster-management exam material.",
+      "exam_facts": "Storm: Severe Cyclonic Storm Murasu; landfall between Nellore and Narsapur, near Ongole, late 2 November-early 3 November; sustained winds 100-110kmph, gusts 120kmph; centred 260km east-northeast of Chennai, moving northwest at 20kmph; source: India Meteorological Department (IMD).",
+      "exam_relevance": "Medium — cyclones, disaster management, Bay of Bengal.",
+      "key_people": "India Meteorological Department (IMD).",
+      "figures": "Winds 100-110kmph, gusts 120kmph; 260km east-northeast of Chennai; moving at 20kmph.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Cyclone ‘Murasu’ likely to cross south Andhra Pradesh coast by early 3 Nov: IMD",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/environment/8wau3gbra8"
+        }
+      ],
+      "one_liner": "Severe Cyclonic Storm Murasu over the Bay of Bengal is likely to cross the south Andhra Pradesh coast between Nellore…",
+      "key_facts": [
+        {
+          "label": "Winds kmph, gusts 120kmph",
+          "value": "100-110",
+          "original": "Winds 100-110kmph, gusts 120kmph"
+        },
+        {
+          "label": "moving at kmph",
+          "value": "20",
+          "original": "moving at 20kmph"
+        },
+        {
+          "label": "Storm",
+          "value": "Severe Cyclonic Storm Murasu",
+          "original": "Storm: Severe Cyclonic Storm Murasu"
+        },
+        {
+          "label": "landfall between Nellore and Narsapur, near…",
+          "value": "2",
+          "original": "landfall between Nellore and Narsapur, near Ongole, late 2 November-early 3 November"
+        }
+      ],
+      "what_happened": [
+        "The storm, centred about 260km east-northeast of Chennai, is expected to make landfall with sustained winds of 100-110kmph and gusts reaching 120kmph."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is moving at kmph?",
+          "a": "20"
+        },
+        {
+          "q": "What is Storm?",
+          "a": "Severe Cyclonic Storm Murasu"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Severe Cyclonic Storm Murasu over the Bay of Bengal is likely to cross the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole, late on ______ or in the early hours of 3 November, the India Meteorological Department said.",
+          "answer": "2 November"
+        },
+        {
+          "cloze": "The storm, centred about ______km east-northeast of Chennai, is expected to make landfall with sustained winds of 100-110kmph and gusts reaching 120kmph.",
+          "answer": "260"
+        }
+      ],
+      "keywords": [
+        "world",
+        "cyclone",
+        "murasu",
+        "likely",
+        "cross",
+        "andhra",
+        "pradesh",
+        "coast",
+        "early",
+        "november"
+      ],
+      "detail": "Severe Cyclonic Storm Murasu over the Bay of Bengal is likely to cross the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole, late on 2 November or in the early hours of 3 November, the India Meteorological Department said. The storm, centred about 260km east-northeast of Chennai, is expected to make landfall with sustained winds of 100-110kmph and gusts reaching 120kmph."
+    },
+    {
+      "id": "CA15",
+      "headline": "BASIC Bank's Abdul Hye found in Canada after 'plundering' the bank",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-02",
+      "summary": "Former BASIC Bank chairman Sheikh Abdul Hye, accused of turning one of Bangladesh's best state-owned banks into one of its worst, has been found living in Canada with his family after leaving the country in 2023, a Prothom Alo investigation found. Loan irregularities and corruption worth Tk 45 billion took place during his chairmanship from 2009 to 2014, and the government later injected Tk 35 billion to bail the bank out. He faces at least 66 ACC cases.",
+      "why_it_matters": "The BASIC Bank scandal is the classic case study of banking corruption in Bangladesh; the figures and the chairman's flight are directly askable.",
+      "exam_facts": "Bank: BASIC Bank (Bangladesh Small Industries and Commerce Bank), established 1989; chairman Sheikh Abdul Hye (Bacchu), September 2009-July 2014; default loan ratio never exceeded 3-4 percent before 2009; irregularities worth Tk 45 billion; government bailout Tk 35 billion; at least 66 ACC cases; left Bangladesh in 2023, now in Canada.",
+      "exam_relevance": "High — banking scandal, corruption, ACC.",
+      "key_people": "Sheikh Abdul Hye (Bacchu), former BASIC Bank chairman.",
+      "figures": "Tk 45 billion in irregularities; Tk 35 billion bailout; at least 66 ACC cases; chairman 2009-2014.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+          "date": "2026-11-02",
+          "url": "https://en.prothomalo.com/business/local/rqcmcyv709"
+        }
+      ],
+      "one_liner": "Former BASIC Bank chairman Sheikh Abdul Hye, accused of turning one of Bangladesh's best state-owned banks into one of its…",
+      "key_facts": [
+        {
+          "label": "in irregularities",
+          "value": "Tk 45 billion",
+          "original": "Tk 45 billion in irregularities"
+        },
+        {
+          "label": "bailout",
+          "value": "Tk 35 billion",
+          "original": "Tk 35 billion bailout"
+        },
+        {
+          "label": "chairman",
+          "value": "2009-2014",
+          "original": "chairman 2009-2014"
+        },
+        {
+          "label": "Bank",
+          "value": "BASIC Bank (Bangladesh Small Industries and Commerce Bank), established 1989",
+          "original": "Bank: BASIC Bank (Bangladesh Small Industries and Commerce Bank), established 1989"
+        }
+      ],
+      "what_happened": [
+        "Loan irregularities and corruption worth Tk 45 billion took place during his chairmanship from 2009 to 2014,",
+        "and the government later injected Tk 35 billion to bail the bank out.",
+        "He faces at least 66 ACC cases."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is in irregularities?",
+          "a": "Tk 45 billion"
+        },
+        {
+          "q": "What is bailout?",
+          "a": "Tk 35 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Former BASIC Bank chairman Sheikh Abdul Hye, accused of turning one of Bangladesh's best state-owned banks into one of its worst, has been found living in Canada with his family after leaving the country in ______ a Prothom Alo investigation found.",
+          "answer": "2023,"
+        },
+        {
+          "cloze": "Loan irregularities and corruption worth Tk ______ billion took place during his chairmanship from 2009 to 2014, and the government later injected Tk 35 billion to bail the bank out.",
+          "answer": "45"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "basic",
+        "bank",
+        "abdul",
+        "found",
+        "canada",
+        "plundering"
+      ],
+      "detail": "Former BASIC Bank chairman Sheikh Abdul Hye, accused of turning one of Bangladesh's best state-owned banks into one of its worst, has been found living in Canada with his family after leaving the country in 2023, a Prothom Alo investigation found. Loan irregularities and corruption worth Tk 45 billion took place during his chairmanship from 2009 to 2014, and the government later injected Tk 35 billion to bail the bank out. He faces at least 66 ACC cases."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "infiltrate",
+      "IPA": "/ˈɪnfɪltreɪt/",
+      "Bangla phonetic": "ইনফিলট্রেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনুপ্রবেশ করা; গোপনে ঢুকে পড়া",
+      "English definition": "To enter a group or place secretly in order to spy on it or cause disruption.",
+      "Synonyms": "penetrate; invade; slip into; insinuate",
+      "Antonyms": "withdraw; exit; leave openly",
+      "Word family / derivatives": "infiltration; infiltrator; infiltrated",
+      "Collocations / patterns": "infiltrate a protest; infiltrate a movement; infiltrate an organisation",
+      "Original example": "Masked men who were not workers infiltrated the protests to create disorder.",
+      "Newspaper context note": "Used by the Home Minister: masked men infiltrated the garment protests, according to video footage.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/48pn06ucxj",
+      "BCS / Bank relevance": "Security and law-and-order vocabulary for BCS comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "destabilise",
+      "IPA": "/diːˈsteɪbəlaɪz/",
+      "Bangla phonetic": "ডিসট্যাবিলাইজ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অস্থিতিশীল করা; অস্থিরতা সৃষ্টি করা",
+      "English definition": "To make a government, economy or situation unstable.",
+      "Synonyms": "undermine; unsettle; disrupt; sabotage",
+      "Antonyms": "stabilise; strengthen; secure",
+      "Word family / derivatives": "destabilised; destabilising; destabilisation",
+      "Collocations / patterns": "destabilise the country; destabilise an industry; attempt to destabilise",
+      "Original example": "Police alleged that certain groups were trying to destabilise the industrial belt.",
+      "Newspaper context note": "Used in the garment unrest reports: groups were allegedly trying to destabilise the industrial belt and the country.",
+      "Source publication": "The Daily Star",
+      "Article headline": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776",
+      "BCS / Bank relevance": "Politics and security vocabulary for BCS essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "surveillance",
+      "IPA": "/sɜːˈveɪləns/",
+      "Bangla phonetic": "সার্ভেইলান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নজরদারি; পর্যবেক্ষণ",
+      "English definition": "Close observation of a person, place or situation, especially by the police or security services.",
+      "Synonyms": "monitoring; observation; watch; scrutiny",
+      "Antonyms": "neglect; inattention",
+      "Word family / derivatives": "surveil; surveilled; surveilling",
+      "Collocations / patterns": "24-hour surveillance; under surveillance; surveillance camera",
+      "Original example": "The Home Minister said arrangements had been made for 24-hour surveillance of the garment industry.",
+      "Newspaper context note": "Used in the garment unrest report: 24-hour surveillance was arranged to monitor the situation in the garment industry.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "BCS / Bank relevance": "Law-enforcement vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "embezzlement",
+      "IPA": "/ɪmˈbezlmənt/",
+      "Bangla phonetic": "এমবেজলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আত্মসাৎ; তহবিল তছরুপ",
+      "English definition": "The crime of stealing money that you are responsible for managing.",
+      "Synonyms": "misappropriation; theft; fraud; pilfering",
+      "Antonyms": "honesty; restitution",
+      "Word family / derivatives": "embezzle; embezzled; embezzler",
+      "Collocations / patterns": "embezzlement of funds; alleged embezzlement; embezzlement case",
+      "Original example": "The ACC approved three cases over the alleged embezzlement of Tk 1,121 crore from Janata Bank.",
+      "Newspaper context note": "Used in the ACC report: alleged embezzlement and laundering of Tk 1,121.49 crore through fake import and export transactions.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846",
+      "BCS / Bank relevance": "Core banking and anti-corruption vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "absconding",
+      "IPA": "/əbˈskɒndɪŋ/",
+      "Bangla phonetic": "অ্যাবস্কন্ডিং",
+      "Part of speech / type": "Adjective / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পলাতক; আত্মগোপনে থাকা",
+      "English definition": "Having secretly left a place to escape arrest or the law.",
+      "Synonyms": "fugitive; on the run; in hiding; at large",
+      "Antonyms": "in custody; present; surrendered",
+      "Word family / derivatives": "abscond; absconded; absconder",
+      "Collocations / patterns": "remain absconding; absconding accused; abscond from custody",
+      "Original example": "Six of the accused are in jail, while Mirza Azam remains absconding.",
+      "Newspaper context note": "Used in the ICT report: six accused are in jail, while Mirza Azam remains absconding.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "BCS / Bank relevance": "Legal vocabulary for BCS criminal-law questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "crackdown",
+      "IPA": "/ˈkrækdaʊn/",
+      "Bangla phonetic": "ক্র্যাকডাউন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কঠোর দমন; অভিযান",
+      "English definition": "Severe action taken to restrict or punish an activity, group or movement.",
+      "Synonyms": "suppression; clampdown; purge; repression",
+      "Antonyms": "tolerance; leniency; relaxation",
+      "Word family / derivatives": "crack down (verb); crackdowns",
+      "Collocations / patterns": "crackdown on protesters; crackdown on corruption; police crackdown",
+      "Original example": "The accused allegedly helped plan and implement the crackdown on the July uprising.",
+      "Newspaper context note": "Used in the ICT report: the accused allegedly participated in the crackdown on the July 2024 uprising.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "BCS / Bank relevance": "Common news noun for law, order and politics questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "supplementary",
+      "IPA": "/ˌsʌplɪˈmentri/",
+      "Bangla phonetic": "সাপ্লিমেন্টারি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সম্পূরক; অতিরিক্ত",
+      "English definition": "Provided in addition to something else in order to improve or complete it.",
+      "Synonyms": "additional; extra; complementary; further",
+      "Antonyms": "primary; main; original",
+      "Word family / derivatives": "supplement; supplemented; supplementation",
+      "Collocations / patterns": "supplementary examination; supplementary budget; supplementary information",
+      "Original example": "Supplementary HSC examinations for students who failed one or two subjects will begin on 1 December.",
+      "Newspaper context note": "Used in the HSC report: supplementary examinations will be held for students who failed one or two subjects.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Supplementary HSC exams from Dec 2, results likely by Dec 31",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/supplementary-hsc-exams-dec-2-results-likely-dec-31-4313516",
+      "BCS / Bank relevance": "Education and budget vocabulary for BCS exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "vacant",
+      "IPA": "/ˈveɪkənt/",
+      "Bangla phonetic": "ভেক্যান্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "খালি; শূন্য; অপূর্ণ",
+      "English definition": "Not filled or occupied; empty.",
+      "Synonyms": "empty; unoccupied; unfilled; available",
+      "Antonyms": "occupied; filled; full",
+      "Word family / derivatives": "vacancy; vacancies; vacate",
+      "Collocations / patterns": "vacant seats; vacant post; remain vacant",
+      "Original example": "More than 800,000 seats in higher education may remain vacant this year.",
+      "Newspaper context note": "Used in the HSC report: over 800,000 seats in higher education may remain vacant, according to UGC data.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "HSC results: Fewer pass, over 800,000 seats in higher education to remain vacant",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/fyufu3wz3x",
+      "BCS / Bank relevance": "Common adjective in education and recruitment contexts.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "hike",
+      "IPA": "/haɪk/",
+      "Bangla phonetic": "হাইক",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বৃদ্ধি; (দাম) বাড়ানো",
+      "English definition": "A sudden, usually large, increase in something, especially a price.",
+      "Synonyms": "increase; rise; raise; jump",
+      "Antonyms": "cut; decrease; reduction",
+      "Word family / derivatives": "hiked; hiking; hikes",
+      "Collocations / patterns": "price hike; hike in prices; hike the price",
+      "Original example": "The regulator announced a hike of Tk 223 in the price of a 12kg LPG cylinder.",
+      "Newspaper context note": "Used in the LPG report: the price of a 12kg cylinder was hiked by Tk 223 to Tk 2,060.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "LPG price hiked by Tk 223",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/j8vs038a5d",
+      "BCS / Bank relevance": "Everyday economics vocabulary for price and inflation questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "regulator",
+      "IPA": "/ˈreɡjuleɪtə/",
+      "Bangla phonetic": "রেগুলেটর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নিয়ন্ত্রক সংস্থা; নিয়ামক",
+      "English definition": "An organisation that controls an industry or activity by setting rules.",
+      "Synonyms": "authority; watchdog; overseer; supervisor",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "regulate; regulation; regulatory",
+      "Collocations / patterns": "energy regulator; financial regulator; market regulator",
+      "Original example": "The energy regulator adjusts LPG prices every month.",
+      "Newspaper context note": "Used in the LPG report: the Bangladesh Energy Regulatory Commission, the regulator, adjusts LPG prices every month.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "LPG price hiked by Tk 223",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/j8vs038a5d",
+      "BCS / Bank relevance": "Key term for banking, energy and telecom regulation questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "preparedness",
+      "IPA": "/prɪˈpeədness/",
+      "Bangla phonetic": "প্রিপেয়ার্ডনেস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রস্তুতি; সতর্কতামূলক প্রস্তুতি",
+      "English definition": "The state of being ready to deal with a difficult situation, such as a disaster.",
+      "Synonyms": "readiness; preparation; alertness",
+      "Antonyms": "unpreparedness; unreadiness",
+      "Word family / derivatives": "prepare; prepared; preparation",
+      "Collocations / patterns": "earthquake preparedness; disaster preparedness; emergency preparedness",
+      "Original example": "The Prime Minister directed officials to strengthen earthquake preparedness across the country.",
+      "Newspaper context note": "Used in the earthquake report: the Prime Minister directed authorities to strengthen preparations for earthquake risks.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM for comprehensive preparations to address earthquake risks",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx",
+      "BCS / Bank relevance": "Disaster-management vocabulary for BCS general knowledge.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "vulnerable",
+      "IPA": "/ˈvʌlnərəbəl/",
+      "Bangla phonetic": "ভালনারেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ঝুঁকিপূর্ণ; অসুরক্ষিত; আঘাতপ্রবণ",
+      "English definition": "Exposed to the possibility of being harmed or damaged.",
+      "Synonyms": "at risk; exposed; defenceless; susceptible",
+      "Antonyms": "protected; safe; secure",
+      "Word family / derivatives": "vulnerability; vulnerabilities; vulnerably",
+      "Collocations / patterns": "vulnerable buildings; vulnerable groups; vulnerable to (a risk)",
+      "Original example": "Officials were told to identify vulnerable and old buildings in Dhaka.",
+      "Newspaper context note": "Used in the earthquake report: the Prime Minister stressed identifying vulnerable and old buildings.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM for comprehensive preparations to address earthquake risks",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx",
+      "BCS / Bank relevance": "Common adjective in disaster, climate and social-policy questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "compliance",
+      "IPA": "/kəmˈplaɪəns/",
+      "Bangla phonetic": "কমপ্লায়েন্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "(নিয়ম) মেনে চলা; অনুসরণ; সম্মতি",
+      "English definition": "The act of obeying a rule, law or standard.",
+      "Synonyms": "adherence; conformity; observance; obedience",
+      "Antonyms": "non-compliance; violation; breach",
+      "Word family / derivatives": "comply; complies; compliant",
+      "Collocations / patterns": "compliance with (a code/law); ensure compliance; in compliance with",
+      "Original example": "The Prime Minister stressed ensuring compliance with the National Building Code in construction.",
+      "Newspaper context note": "Used in the earthquake report: the Prime Minister stressed ensuring compliance with the National Building Code.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM for comprehensive preparations to address earthquake risks",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx",
+      "BCS / Bank relevance": "Banking, corporate and legal vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deadline",
+      "IPA": "/ˈdedlaɪn/",
+      "Bangla phonetic": "ডেডলাইন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সময়সীমা; শেষ তারিখ",
+      "English definition": "The latest time or date by which something should be completed.",
+      "Synonyms": "cut-off; time limit; due date",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "deadlines",
+      "Collocations / patterns": "miss a deadline; meet a deadline; set a deadline",
+      "Original example": "Investigators missed 131 deadlines for submitting the Sagar-Runi investigation report.",
+      "Newspaper context note": "Used in the Sagar-Runi report: 131 deadlines were missed for submitting the investigation report.",
+      "Source publication": "The Daily Star",
+      "Article headline": "131 deadlines missed, Sagar-Runi families still wait for justice",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/131-deadlines-missed-sagar-runi-families-still-wait-justice-4313496",
+      "BCS / Bank relevance": "Common administrative vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "scapegoat",
+      "IPA": "/ˈskeɪpɡəʊt/",
+      "Bangla phonetic": "স্কেপগোট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বলির পাঁঠা; দোষ চাপানো ব্যক্তি",
+      "English definition": "A person who is blamed for the wrongdoings of others.",
+      "Synonyms": "fall guy; whipping boy; patsy",
+      "Antonyms": "culprit; offender",
+      "Word family / derivatives": "scapegoating; scapegoated",
+      "Collocations / patterns": "make someone a scapegoat; use as a scapegoat",
+      "Original example": "Abdul Hye described himself as the scapegoat for the BASIC Bank scandal.",
+      "Newspaper context note": "Used in the BASIC Bank investigation: former chairman Sheikh Abdul Hye called himself the scapegoat.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/rqcmcyv709",
+      "BCS / Bank relevance": "A vivid idiom-noun for essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "plunder",
+      "IPA": "/ˈplʌndə/",
+      "Bangla phonetic": "প্লান্ডার",
+      "Part of speech / type": "Verb / Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "লুট করা; লুণ্ঠন",
+      "English definition": "To steal goods or money, especially from a place or organisation, using power or force.",
+      "Synonyms": "loot; pillage; rob; ransack",
+      "Antonyms": "protect; restore; safeguard",
+      "Word family / derivatives": "plundered; plundering; plunderer",
+      "Collocations / patterns": "plunder a bank; plunder public funds",
+      "Original example": "Abdul Hye was accused of plundering BASIC Bank during his chairmanship.",
+      "Newspaper context note": "Used in the BASIC Bank headline: Sheikh Abdul Hye fled to Canada after 'plundering' BASIC Bank.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/rqcmcyv709",
+      "BCS / Bank relevance": "Strong verb for corruption and history questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "substantiate",
+      "IPA": "/səbˈstænʃieɪt/",
+      "Bangla phonetic": "সাবস্ট্যানশিয়েট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রমাণ দ্বারা সমর্থন করা; সত্যতা প্রমাণ করা",
+      "English definition": "To provide evidence that proves something is true.",
+      "Synonyms": "prove; verify; confirm; corroborate",
+      "Antonyms": "refute; disprove; contradict",
+      "Word family / derivatives": "substantiated; substantiation; substantiating",
+      "Collocations / patterns": "substantiate an allegation; substantiate a claim",
+      "Original example": "Several investigations by Bangladesh Bank have substantiated the allegations against him.",
+      "Newspaper context note": "Used in the BASIC Bank investigation: Bangladesh Bank investigations substantiated the allegations against Abdul Hye.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/rqcmcyv709",
+      "BCS / Bank relevance": "Formal verb for legal and investigative writing.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "tailback",
+      "IPA": "/ˈteɪlbæk/",
+      "Bangla phonetic": "টেইলব্যাক",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "যানজটের লম্বা সারি",
+      "English definition": "A long line of traffic held up by an obstruction ahead.",
+      "Synonyms": "traffic jam; congestion; queue; gridlock",
+      "Antonyms": "clear road; free flow",
+      "Word family / derivatives": "tailbacks",
+      "Collocations / patterns": "10km tailbacks; long tailbacks; cause tailbacks",
+      "Original example": "The blockade caused a tailback stretching at least 10km on both sides of the highway.",
+      "Newspaper context note": "Used in the highway blockade report: the blockade caused tailbacks of at least 10km on the Dhaka-Tangail highway.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka-Tangail highway blocked again by garment workers, BGB deployed",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/mb318yaj97",
+      "BCS / Bank relevance": "Everyday British-English vocabulary for transport and news comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "disperse",
+      "IPA": "/dɪˈspɜːs/",
+      "Bangla phonetic": "ডিসপার্স",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ছত্রভঙ্গ করা; ছড়িয়ে দেওয়া",
+      "English definition": "To make a crowd separate and go in different directions.",
+      "Synonyms": "scatter; break up; disband; dissolve",
+      "Antonyms": "gather; assemble; mobilise",
+      "Word family / derivatives": "dispersed; dispersing; dispersal",
+      "Collocations / patterns": "disperse a crowd; disperse protesters; disperse a gathering",
+      "Original example": "Police and BGB members chased the protesters in an attempt to disperse them.",
+      "Newspaper context note": "Used in the Gazipur protest report: police and BGB chased protesters in an attempt to disperse them.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Garment workers’ protests: More than 150 factories closed in Gazipur",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/xlw063dfid",
+      "BCS / Bank relevance": "Common verb in law-and-order reporting.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "arson",
+      "IPA": "/ˈɑːsn/",
+      "Bangla phonetic": "আর্সন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অগ্নিসংযোগ; আগুন লাগানো",
+      "English definition": "The criminal act of deliberately setting fire to property.",
+      "Synonyms": "fire-raising; incendiarism; torching",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "arsonist; arsonists; arson attack",
+      "Collocations / patterns": "arson attack; arson and vandalism; charged with arson",
+      "Original example": "The protests sparked clashes, arson and highway blockades in Dhaka and Gazipur.",
+      "Newspaper context note": "Used in the garment unrest reports: protests sparked clashes, arson and highway blockades.",
+      "Source publication": "The Daily Star",
+      "Article headline": "10 BGB platoons deployed in Gazipur amid RMG workers’ unrest",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/news/10-bgb-platoons-deployed-gazipur-amid-rmg-workers-unrest-4313401",
+      "BCS / Bank relevance": "Legal vocabulary for criminal-law questions.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "disruption",
+      "IPA": "/dɪsˈrʌpʃn/",
+      "Bangla phonetic": "ডিসরাপশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিঘ্ন; ব্যাঘাত; স্বাভাবিক কাজে বাধা",
+      "English definition": "A disturbance that interrupts the normal progress of an activity or process.",
+      "Synonyms": "interruption; disturbance; breakdown; obstruction",
+      "Antonyms": "continuity; smooth running; stability",
+      "Word family / derivatives": "disrupt; disrupted; disruptive; disruptively",
+      "Collocations / patterns": "cause disruption; widespread disruption; disruption to services",
+      "Original example": "The protests caused widespread disruption to factory operations across four industrial districts.",
+      "Newspaper context note": "Used in the BGMEA report on labour unrest disrupting operations at 529 garment factories.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Common in reading comprehension and precis on strikes, disasters and supply chains.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "grievance",
+      "IPA": "/ˈɡriːvəns/",
+      "Bangla phonetic": "গ্রিভান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযোগ; ক্ষোভের কারণ; অসন্তোষ",
+      "English definition": "A real or imagined cause for complaint, especially unfair treatment.",
+      "Synonyms": "complaint; resentment; objection; injustice",
+      "Antonyms": "satisfaction; contentment; praise",
+      "Word family / derivatives": "grieve; aggrieved; grievances",
+      "Collocations / patterns": "air a grievance; address grievances; genuine grievance",
+      "Original example": "The workers listed their grievances, including low pay and the blacklisting of colleagues.",
+      "Newspaper context note": "Used in reporting on garment workers' demands, including a minimum wage and an end to blacklisting.",
+      "Source publication": "The Daily Star",
+      "Article headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691",
+      "BCS / Bank relevance": "Labour relations and governance vocabulary; appears in comprehension and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "reinstatement",
+      "IPA": "/ˌriːɪnˈsteɪtmənt/",
+      "Bangla phonetic": "রিইনস্টেটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনর্বহাল; চাকরিতে ফিরিয়ে নেওয়া",
+      "English definition": "The act of giving someone back a job or position they had lost.",
+      "Synonyms": "restoration; reappointment; return to service",
+      "Antonyms": "dismissal; removal; termination",
+      "Word family / derivatives": "reinstate; reinstated; reinstating",
+      "Collocations / patterns": "reinstatement of dismissed workers; demand reinstatement",
+      "Original example": "The union demanded the reinstatement of all workers dismissed during the unrest.",
+      "Newspaper context note": "Used in the BGMEA report: workers demanded reinstatement of dismissed workers alongside a wage rise.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Service rules and labour law vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "scrutiny",
+      "IPA": "/ˈskruːtəni/",
+      "Bangla phonetic": "স্ক্রুটিনি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "যাচাই-বাছাই; নিবিড় পরীক্ষা; পুনঃনিরীক্ষণ",
+      "English definition": "Careful and thorough examination of something.",
+      "Synonyms": "examination; inspection; review; investigation",
+      "Antonyms": "neglect; oversight; cursory glance",
+      "Word family / derivatives": "scrutinise; scrutinised; scrutinising; scrutiniser",
+      "Collocations / patterns": "under scrutiny; close scrutiny; re-scrutiny of answer scripts",
+      "Original example": "Students may apply for re-scrutiny of their answer scripts from 1 to 7 November.",
+      "Newspaper context note": "Used in HSC results reporting: applications for re-scrutiny of answer scripts are open from 1 to 7 November.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "BCS / Bank relevance": "Formal noun for exams, audits and investigations; common in synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deterioration",
+      "IPA": "/dɪˌtɪəriəˈreɪʃn/",
+      "Bangla phonetic": "ডিটেরিওরেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবনতি; ক্রমাগত খারাপ হওয়া",
+      "English definition": "The process of becoming progressively worse.",
+      "Synonyms": "decline; worsening; decay; degradation",
+      "Antonyms": "improvement; recovery; progress",
+      "Word family / derivatives": "deteriorate; deteriorated; deteriorating",
+      "Collocations / patterns": "deterioration in performance; sharp deterioration; gradual deterioration",
+      "Original example": "The results reveal a significant deterioration in academic performance across all boards.",
+      "Newspaper context note": "Used in Prothom Alo's HSC analysis: the results reveal a significant deterioration in academic performance.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "HSC result 2026: Worst performance in 22 years",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/ht1u40gv59",
+      "BCS / Bank relevance": "High-value formal noun for essays and precis on the economy, education and health.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "set on fire",
+      "Type": "phrasal verb",
+      "Bangla meaning": "আগুন ধরিয়ে দেওয়া",
+      "English explanation": "To deliberately start a fire on something.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "A covered van was set on fire in Narsinghpur during the protests.",
+      "Original example 2": "The protesters set a police vehicle on fire.",
+      "Common collocations / grammar pattern": "set (something) on fire; be set on fire",
+      "Source publication": "The Daily Star",
+      "Article headline": "264 factories in Ashulia, Savar shut amid labour unrest",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/news/264-factories-ashulia-savar-shut-amid-labour-unrest-4313511",
+      "Exam value": "Common phrasal verb in law-and-order reporting."
+    },
+    {
+      "Phrase": "bring to justice",
+      "Type": "idiom",
+      "Bangla meaning": "বিচারের মুখোমুখি করা; শাস্তির আওতায় আনা",
+      "English explanation": "To make someone face trial and punishment for a crime.",
+      "Usage / register": "Formal / legal",
+      "Original example 1": "The families want those responsible for the murders brought to justice.",
+      "Original example 2": "The investigators vowed to bring the culprits to justice.",
+      "Common collocations / grammar pattern": "bring (someone) to justice; be brought to justice",
+      "Source publication": "The Daily Star",
+      "Article headline": "131 deadlines missed, Sagar-Runi families still wait for justice",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/131-deadlines-missed-sagar-runi-families-still-wait-justice-4313496",
+      "Exam value": "Standard legal idiom for BCS."
+    },
+    {
+      "Phrase": "in the guise of",
+      "Type": "prepositional phrase",
+      "Bangla meaning": "ছদ্মবেশে; আড়ালে",
+      "English explanation": "Pretending to be something else; under the appearance of something.",
+      "Usage / register": "Formal",
+      "Original example 1": "Those engaged in anti-labour activities in the guise of labour movements will be dealt with strictly.",
+      "Original example 2": "He entered the building in the guise of a delivery worker.",
+      "Common collocations / grammar pattern": "in the guise of (something)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "Exam value": "Formal phrase useful in precis and comprehension."
+    },
+    {
+      "Phrase": "come to a halt",
+      "Type": "idiom",
+      "Bangla meaning": "থেমে যাওয়া; স্থবির হয়ে পড়া",
+      "English explanation": "To stop completely.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "The blockade brought traffic to a halt on both sides of the highway.",
+      "Original example 2": "Production came to a halt during the strike.",
+      "Common collocations / grammar pattern": "come to a halt; bring (something) to a halt",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka-Tangail highway blocked again by garment workers, BGB deployed",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/mb318yaj97",
+      "Exam value": "Common news idiom."
+    },
+    {
+      "Phrase": "under way",
+      "Type": "adverbial phrase",
+      "Bangla meaning": "চলমান; অগ্রগতিতে",
+      "English explanation": "In progress; happening now.",
+      "Usage / register": "Neutral / formal",
+      "Original example 1": "Efforts were under way to resolve the situation through talks.",
+      "Original example 2": "Preparations for the examination are already under way.",
+      "Common collocations / grammar pattern": "be under way; get under way",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka-Tangail highway blocked again by garment workers, BGB deployed",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/mb318yaj97",
+      "Exam value": "Standard formal phrase."
+    },
+    {
+      "Phrase": "formal charge",
+      "Type": "collocation",
+      "Bangla meaning": "আনুষ্ঠানিক অভিযোগ",
+      "English explanation": "An official accusation of a crime presented to a court.",
+      "Usage / register": "Formal / legal",
+      "Original example 1": "The prosecution submitted a formal charge against seven Awami League leaders.",
+      "Original example 2": "The court accepted the formal charge and set a date for the hearing.",
+      "Common collocations / grammar pattern": "submit/file a formal charge; face a formal charge",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "Exam value": "Legal collocation for BCS."
+    },
+    {
+      "Phrase": "out of sight",
+      "Type": "idiom",
+      "Bangla meaning": "দৃষ্টির আড়ালে; লোকচক্ষুর অন্তরালে",
+      "English explanation": "Hidden from view; not seen for a long time.",
+      "Usage / register": "Neutral",
+      "Original example 1": "He had been out of sight for several years before the investigation found him in Canada.",
+      "Original example 2": "The file was out of sight for months before it was found.",
+      "Common collocations / grammar pattern": "out of sight for (a period); stay out of sight",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/business/local/rqcmcyv709",
+      "Exam value": "Common idiom in narrative and news writing."
+    },
+    {
+      "Phrase": "take action",
+      "Type": "phrasal verb",
+      "Bangla meaning": "ব্যবস্থা নেওয়া; পদক্ষেপ নেওয়া",
+      "English explanation": "To do something to deal with a problem.",
+      "Usage / register": "Neutral / formal",
+      "Original example 1": "The government would take strict action against those creating disorder on roads and highways.",
+      "Original example 2": "The bank took action against the officials involved in the fraud.",
+      "Common collocations / grammar pattern": "take action against (someone/something); take strict action",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "Exam value": "One of the most common verb phrases in official English."
+    },
+    {
+      "Phrase": "deal with",
+      "Type": "phrasal verb",
+      "Bangla meaning": "মোকাবিলা করা; সামলানো",
+      "English explanation": "To take action about a problem or situation.",
+      "Usage / register": "Neutral",
+      "Original example 1": "The meeting discussed how to deal with potential earthquake risks.",
+      "Original example 2": "The ministry must deal with the shortage of teachers.",
+      "Common collocations / grammar pattern": "deal with (a problem/risk/situation)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM for comprehensive preparations to address earthquake risks",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx",
+      "Exam value": "High-frequency phrasal verb."
+    },
+    {
+      "Phrase": "turn to",
+      "Type": "phrasal verb",
+      "Bangla meaning": "শরণাপন্ন হওয়া; সাহায্যের জন্য যাওয়া",
+      "English explanation": "To go to someone for help or support.",
+      "Usage / register": "Neutral",
+      "Original example 1": "'Whom should I turn to for justice?' the mother asked.",
+      "Original example 2": "When the factory closed, the workers turned to the union for help.",
+      "Common collocations / grammar pattern": "turn to (someone) for help/justice/advice",
+      "Source publication": "The Daily Star",
+      "Article headline": "131 deadlines missed, Sagar-Runi families still wait for justice",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/131-deadlines-missed-sagar-runi-families-still-wait-justice-4313496",
+      "Exam value": "Common phrasal verb in narrative and comprehension."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'infiltrate' most nearly means:",
+      "options": {
+        "A": "To guard a building",
+        "B": "To leave openly",
+        "C": "To enter secretly to spy or cause disruption",
+        "D": "To organise a meeting"
+      },
+      "correct": "C",
+      "explanation": "To infiltrate is to enter a group or place secretly to spy on it or cause disruption.",
+      "source": "CA02"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "The word 'destabilise' most nearly means:",
+      "options": {
+        "A": "To build a factory",
+        "B": "To count votes",
+        "C": "To strengthen a government",
+        "D": "To make a government or situation unstable"
+      },
+      "correct": "D",
+      "explanation": "To destabilise is to make a government, economy or situation unstable.",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'surveillance' most nearly means:",
+      "options": {
+        "A": "Close observation by police or security services",
+        "B": "A bank loan",
+        "C": "A public celebration",
+        "D": "A weather report"
+      },
+      "correct": "A",
+      "explanation": "Surveillance is close observation of a person, place or situation, especially by police or security services.",
+      "source": "CA02"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "The word 'embezzlement' most nearly means:",
+      "options": {
+        "A": "Borrowing from a bank",
+        "B": "Donating money",
+        "C": "Stealing money you are responsible for managing",
+        "D": "Paying tax on time"
+      },
+      "correct": "C",
+      "explanation": "Embezzlement is the crime of stealing money that you are responsible for managing.",
+      "source": "CA08"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'absconding' most nearly means:",
+      "options": {
+        "A": "Working in an office",
+        "B": "Having secretly left to escape arrest",
+        "C": "Sitting in jail",
+        "D": "Appearing in court"
+      },
+      "correct": "B",
+      "explanation": "Absconding means having secretly left a place to escape arrest or the law.",
+      "source": "CA10"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "The word 'crackdown' most nearly means:",
+      "options": {
+        "A": "A school holiday",
+        "B": "Severe action to restrict or punish an activity",
+        "C": "A peaceful protest",
+        "D": "A trade agreement"
+      },
+      "correct": "B",
+      "explanation": "A crackdown is severe action taken to restrict or punish an activity, group or movement.",
+      "source": "CA10"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "The word 'supplementary' most nearly means:",
+      "options": {
+        "A": "Provided in addition to complete something",
+        "B": "Cancelled or removed",
+        "C": "The main or original thing",
+        "D": "Forbidden by law"
+      },
+      "correct": "A",
+      "explanation": "Supplementary means provided in addition to something else to improve or complete it.",
+      "source": "CA04"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "The word 'vacant' most nearly means:",
+      "options": {
+        "A": "Under repair",
+        "B": "Fully occupied",
+        "C": "Not filled or occupied",
+        "D": "Very expensive"
+      },
+      "correct": "C",
+      "explanation": "Vacant means not filled or occupied; empty.",
+      "source": "CA04"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "The word 'hike' (in 'price hike') most nearly means:",
+      "options": {
+        "A": "A sudden fall in price",
+        "B": "A bank holiday",
+        "C": "A type of tax",
+        "D": "A sudden, usually large, increase in price"
+      },
+      "correct": "D",
+      "explanation": "A hike is a sudden, usually large, increase in something, especially a price.",
+      "source": "CA05"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "A 'regulator' is:",
+      "options": {
+        "A": "A trade union",
+        "B": "A type of bank account",
+        "C": "A person who pays tax",
+        "D": "An organisation that controls an industry by setting rules"
+      },
+      "correct": "D",
+      "explanation": "A regulator is an organisation that controls an industry or activity by setting rules.",
+      "source": "CA05"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "The phrase 'set on fire' means:",
+      "options": {
+        "A": "To light a lamp",
+        "B": "To deliberately start a fire on something",
+        "C": "To cook food",
+        "D": "To warm a room"
+      },
+      "correct": "B",
+      "explanation": "To set something on fire is to deliberately start a fire on it.",
+      "source": "CA01"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "The phrase 'bring to justice' means:",
+      "options": {
+        "A": "To forgive a crime",
+        "B": "To make someone face trial and punishment for a crime",
+        "C": "To hide evidence",
+        "D": "To close a case"
+      },
+      "correct": "B",
+      "explanation": "To bring someone to justice is to make them face trial and punishment for a crime.",
+      "source": "CA09"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "How many factories in Savar and Ashulia were shut on 2 November 2026 amid the labour unrest?",
+      "options": {
+        "A": "177",
+        "B": "264",
+        "C": "150",
+        "D": "529"
+      },
+      "correct": "B",
+      "explanation": "264 factories in Savar and Ashulia declared holidays on 2 November; 177 was the figure for 1 November and 529 was BGMEA's total for 1 November.",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "What did the Home Minister say video footage of the garment protests showed?",
+      "options": {
+        "A": "Factory owners closing factories peacefully",
+        "B": "Ordinary workers leading the protests",
+        "C": "Masked men who were not workers infiltrating the protests",
+        "D": "Police attacking workers"
+      },
+      "correct": "C",
+      "explanation": "Home Minister Salahuddin Ahmed said footage showed masked men who were neither workers nor involved in the wage demands infiltrating the protests.",
+      "source": "CA02"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "How much did Bangladesh export in October 2026?",
+      "options": {
+        "A": "$17 billion",
+        "B": "$4.40 billion",
+        "C": "$3.17 billion",
+        "D": "$3.99 billion"
+      },
+      "correct": "D",
+      "explanation": "October exports were $3.99 billion, up 4.4 percent year-on-year; $3.17 billion was garments alone.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "When will the supplementary HSC examinations begin?",
+      "options": {
+        "A": "1 November 2026",
+        "B": "1 December 2026",
+        "C": "31 December 2026",
+        "D": "10 October 2026"
+      },
+      "correct": "B",
+      "explanation": "Supplementary HSC examinations for students who failed one or two subjects begin on 1 December, with results by 31 December.",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "What is the new price of a 12kg LPG cylinder for November 2026?",
+      "options": {
+        "A": "Tk 1,837",
+        "B": "Tk 2,060",
+        "C": "Tk 2,300",
+        "D": "Tk 1,585"
+      },
+      "correct": "B",
+      "explanation": "BERC raised the 12kg cylinder price by Tk 223 to Tk 2,060; Tk 1,837 was the October price and Tk 2,200-2,300 is the market price.",
+      "source": "CA05"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "What did the Prime Minister direct officials to identify in the earthquake preparedness meeting?",
+      "options": {
+        "A": "Vulnerable and old buildings",
+        "B": "New bus routes",
+        "C": "School textbooks",
+        "D": "Foreign investors"
+      },
+      "correct": "A",
+      "explanation": "Prime Minister Tarique Rahman directed officials to identify vulnerable and old buildings and enforce the National Building Code.",
+      "source": "CA06"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "What was the total dengue death toll in Bangladesh in 2026 by 2 November?",
+      "options": {
+        "A": "138,899",
+        "B": "1,970",
+        "C": "433",
+        "D": "427"
+      },
+      "correct": "C",
+      "explanation": "The toll reached 433 after six more deaths; 427 was the previous day's total, 1,970 were hospitalised in 24 hours and 138,899 was the total case count.",
+      "source": "CA07"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "How much money was allegedly embezzled from Janata Bank in the ACC cases against Salman F Rahman and others?",
+      "options": {
+        "A": "Tk 1,121.49 crore",
+        "B": "Tk 563 crore",
+        "C": "Tk 45 billion",
+        "D": "Tk 141 crore"
+      },
+      "correct": "A",
+      "explanation": "The ACC alleged embezzlement and laundering of Tk 1,121.49 crore through three companies; Tk 141 crore and Tk 563 crore were the amounts for two of the companies.",
+      "source": "CA08"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "How many deadlines have been missed for submitting the Sagar-Runi investigation report?",
+      "options": {
+        "A": "131",
+        "B": "15",
+        "C": "132",
+        "D": "66"
+      },
+      "correct": "A",
+      "explanation": "Investigators missed 131 deadlines; 132 deadlines were set in total.",
+      "source": "CA09"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "How many Awami League leaders face the ICT formal charge over the July 2024 uprising?",
+      "options": {
+        "A": "Five",
+        "B": "Nine",
+        "C": "Six",
+        "D": "Seven"
+      },
+      "correct": "D",
+      "explanation": "The prosecution submitted a formal charge against seven Awami League leaders; six are in jail and one, Mirza Azam, is absconding.",
+      "source": "CA10"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "What is Bangladesh's rooftop solar installation target?",
+      "options": {
+        "A": "10,000MW in a year",
+        "B": "2,000MW in a year",
+        "C": "4,000MW in a year",
+        "D": "400MW in a year"
+      },
+      "correct": "C",
+      "explanation": "The target is 4,000MW of rooftop solar within a year, needing about $2 billion of investment.",
+      "source": "CA11"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "What was the weighted average call money rate at the end of September 2026?",
+      "options": {
+        "A": "8.48 percent",
+        "B": "9.68 percent",
+        "C": "9.25 percent",
+        "D": "8.86 percent"
+      },
+      "correct": "A",
+      "explanation": "The call money rate fell to 8.48 percent at the end of September from 9.25 percent at the start; 8.86 percent was the monthly average.",
+      "source": "CA12"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "How much money was involved in loan irregularities at BASIC Bank during Sheikh Abdul Hye's chairmanship?",
+      "options": {
+        "A": "Tk 4.5 billion",
+        "B": "Tk 1,121 crore",
+        "C": "Tk 35 billion",
+        "D": "Tk 45 billion"
+      },
+      "correct": "D",
+      "explanation": "Loan irregularities and corruption worth Tk 45 billion took place during his chairmanship; Tk 35 billion was the later government bailout.",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "264 factories in Ashulia, Savar shut amid labour unrest",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/news/264-factories-ashulia-savar-shut-amid-labour-unrest-4313511"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Garment workers’ protests: More than 150 factories closed in Gazipur",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/xlw063dfid"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "10 BGB platoons deployed in Gazipur amid RMG workers’ unrest",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/news/10-bgb-platoons-deployed-gazipur-amid-rmg-workers-unrest-4313401"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/48pn06ucxj"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Exports rise 4.4% to nearly $4b in October",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/exports-rise-44-nearly-4b-october-4313131"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Supplementary HSC exams from Dec 2, results likely by Dec 31",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/education/news/supplementary-hsc-exams-dec-2-results-likely-dec-31-4313516"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "HSC results: Fewer pass, over 800,000 seats in higher education to remain vacant",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/youth/education/fyufu3wz3x"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "HSC Results: Urban-rural divide widens, with 79pc pass rate in Dhaka, 38pc in Manikganj",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/youth/education/o3gaxieblk"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "LPG price hiked by Tk 223",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/business/local/j8vs038a5d"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "LPG price jumps Tk 475 in two months, 12kg cylinder now Tk 2,060",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/power-and-energy/news/lpg-price-jumps-tk-475-two-months-12kg-cylinder-now-tk-2060-4313791"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "PM for comprehensive preparations to address earthquake risks",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/government/st65zs9yxx"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "6 die of dengue, 1,970 hospitalised in 24 hours",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/6-die-dengue-1970-hospitalised-24-hours-4313826"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Eight more die of dengue",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/eight-more-die-dengue-4313191"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "131 deadlines missed, Sagar-Runi families still wait for justice",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/131-deadlines-missed-sagar-runi-families-still-wait-justice-4313496"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Cabinet clears draft law to expedite solar power installations",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/cabinet-clears-draft-law-expedite-solar-power-installations-1590776"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "4,000MW rooftop solar ambition demands $2b fund",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/4000mw-rooftop-solar-ambition-demands-2b-fund-4313141"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Money market rates fell in Sept as liquidity eased",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://www.thedailystar.net/business/news/money-market-rates-fell-sept-liquidity-eased-4313901"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Democrats, Trump hold final rallies before midterm elections",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/international/americas/uksdxj47lr"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Cyclone ‘Murasu’ likely to cross south Andhra Pradesh coast by early 3 Nov: IMD",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/environment/8wau3gbra8"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Sheikh Abdul Hye flees to Canada after ‘plundering’ BASIC Bank",
+      "Publication date": "2026-11-02",
+      "Direct URL": "https://en.prothomalo.com/business/local/rqcmcyv709"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled from newspaper archives (Daily Star sitemap + Prothom Alo daily sitemap + Bing News RSS, all date-verified).",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}

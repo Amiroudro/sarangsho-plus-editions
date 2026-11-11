@@ -1,0 +1,2243 @@
+{
+  "edition_date": "2026-11-10",
+  "edition_day": "Tuesday",
+  "coverage": "7 Nov 2026, 7:47 AM to 2026-11-10, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Demystifying AI finance: the supply chain, capital flows and global rivalry",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "On 9 November 2026, columnist Sajed ul Islam argued the AI boom is one of history's most capital-intensive industrial build-outs, with tech giants pledging hundreds of billions of dollars while the real story lies in physical supply chains. He argues Nvidia designs the chips, TSMC in Taiwan manufactures them, and SK Hynix and Samsung supply high-bandwidth memory, making Taiwan a chokepoint: if its fabs paused, he argues, the global AI revolution would halt.",
+      "why_it_matters": "AI, semiconductors and the US-China technology rivalry are now core BCS science-and-technology and economy topics, and the supply-chain map in this column — designers, foundries and memory makers — is the background every later chip-shortage or export-control story will assume.",
+      "exam_facts": "Columnist Sajed ul Islam, a senior banking executive and financial-markets specialist, argues investors face the acute fear of missing out on the AI shift, backed by surging earnings and massive forecasted growth; he argues chip designers such as Nvidia and AMD draw blueprints but manufacture nothing; TSMC, Intel Foundry and GlobalFoundries fabricate chips using extreme ultraviolet light; memory specialists SK Hynix, Samsung and Micron Technology supply high-bandwidth memory; he argues building an advanced AI system resembles constructing a fleet of spacecraft, with no single company acting alone.",
+      "exam_relevance": "AI, semiconductors, capital flows, geopolitics — BCS science & technology and economy topics.",
+      "key_people": "Sajed ul Islam, columnist, senior banking executive",
+      "figures": "Column published 9 November 2026; tech giants pledge hundreds of billions of dollars; Nvidia the undisputed brain of the AI boom; TSMC the critical chokepoint in Taiwan.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587"
+        }
+      ],
+      "one_liner": "On 9 November 2026, columnist Sajed ul Islam argued the AI boom is one of history's most capital-intensive industrial build-outs,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Column published 9 November 2026",
+          "original": "Column published 9 November 2026"
+        },
+        {
+          "label": "",
+          "value": "tech giants pledge hundreds of billions of dollars",
+          "original": "tech giants pledge hundreds of billions of dollars"
+        },
+        {
+          "label": "",
+          "value": "Nvidia the undisputed brain of the AI boom",
+          "original": "Nvidia the undisputed brain of the AI boom"
+        },
+        {
+          "label": "",
+          "value": "TSMC the critical chokepoint in Taiwan",
+          "original": "TSMC the critical chokepoint in Taiwan"
+        }
+      ],
+      "what_happened": [
+        "He argues Nvidia designs the chips, TSMC in Taiwan manufactures them, and SK Hynix and Samsung supply high-bandwidth memory,",
+        "making Taiwan a chokepoint: if its fabs paused, he argues, the global AI revolution would halt."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "On ______, columnist Sajed ul Islam argued the AI boom is one of history's most capital-intensive industrial build-outs, with tech giants pledging hundreds of billions of dollars while the real story lies in physical supply chains.",
+          "answer": "9 November 2026"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "demystifying",
+        "finance",
+        "supply",
+        "chain",
+        "capital",
+        "flows",
+        "global",
+        "rivalry"
+      ],
+      "detail": "On 9 November 2026, columnist Sajed ul Islam argued the AI boom is one of history's most capital-intensive industrial build-outs, with tech giants pledging hundreds of billions of dollars while the real story lies in physical supply chains. He argues Nvidia designs the chips, TSMC in Taiwan manufactures them, and SK Hynix and Samsung supply high-bandwidth memory, making Taiwan a chokepoint: if its fabs paused, he argues, the global AI revolution would halt."
+    },
+    {
+      "id": "CA02",
+      "headline": "Hasina seeks new passport to return in December; government swiftly rejects the request",
+      "category": "Politics",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Ousted prime minister Sheikh Hasina asked Bangladesh on 9 November for a new passport and national identity card so she can return from two years of exile in India in December and surrender to a court. The government swiftly rejected the request, with State Minister Humaiun Kobir calling her a fugitive criminal and demanding extradition under the active Bangladesh-India treaty. She was sentenced to death in absentia last November over the 2024 crackdown in which the UN says as many as 1,400 people were killed.",
+      "why_it_matters": "The passport request, the death sentence and the extradition treaty together decide whether Hasina ever faces a Bangladeshi court, so this is the single story that frames every later report on her return, Dhaka-Delhi relations and the tribunal's verdicts.",
+      "exam_facts": "London-based Matrix Chambers wrote to Preeti Rahman, acting high commissioner at Bangladesh's embassy in Delhi, saying Hasina's passport and NID had been revoked by the interim government and asking for new documents expeditiously on the basis of her Bangladeshi nationality; Home Minister Salahuddin Ahmed said the foreign and law ministries were examining whether she was legally entitled to apply; her aides said the return date would be announced once formalities were complete; Hasina served as prime minister from 1996 to 2001 and again from 2009 to 2024, a total of 20 years; her Awami League, once the country's largest party, was banned after her fall and many colleagues are jailed or in exile; at a BNP parliamentary party meeting on 9 November, chaired by Prime Minister Tarique Rahman, the home minister said the government would act under the extradition treaty if she sought to return.",
+      "exam_relevance": "Extradition treaty, war-crimes tribunal, exile and return — recurring BCS/Bank current-affairs topics.",
+      "key_people": "Sheikh Hasina; Humaiun Kobir, State Minister for Foreign Affairs; Salahuddin Ahmed, Home Minister; Preeti Rahman, acting high commissioner in Delhi; Tarique Rahman, Prime Minister",
+      "figures": "In India for 2 years; return promised in December; death sentence last November; as many as 1,400 killed in 2024 (UN); prime minister 1996-2001 and 2009-2024.",
+      "sources": [
+        {
+          "publication": "Yahoo",
+          "headline": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+          "date": "2026-11-08",
+          "url": "https://www.yahoo.com/news/world/articles/ousted-pm-sheikh-hasina-seeks-071209528.html"
+        },
+        {
+          "publication": "Daily Sabah",
+          "headline": "Hasina asks for new passport only to be denied by Bangladesh govt | Daily Sabah - Daily Sabah",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZmZDhZdXAzWTA5WThBd0oxMXhNUkVTWUp1WkJFQkszSHNQczFRa1Fvb3VGSl9DVkdZaVRzcnRlWVltZWh0T21TRlZiUE44RkFEekVPSklMM0NWaGJvNUxmNGtnaFVwcUtJeV9KVlRrWngyZ1p6Uy0tTkZvQ25peG9sTDE3clQyb0ROMWktOWUtMGE2N3J3a3VJcDh5cDdqam1MRFJrWE1RbVVWQXhCcdIBtgFBVV95cUxOMWM0clgzbXFmd1AyTXREOXZHa0p6em03VTVzLWwwVUNkOW9HeGl2Ry1iUkhxN0VyYkJzMUFsZmVMREZ3emczaV9nZkV2LTIzelV0dEFqcEZTZUIyWjlydER3RThpZVJ3ZDhzeU9VS05VXy04elJIRmxDZE01T2w4cUNURF9KUU13Q2lrQzQ0eU1RR0RraEtaeWNUSDJsaGVDVXctVU9lLW5sdV9UdnkwdWFpRWRjdw?oc=5"
+        },
+        {
+          "publication": "Reuters",
+          "headline": "Sheikh Hasina seeks new passport to return to Bangladesh, government denies request",
+          "date": "2026-11-09",
+          "url": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "The message is loud and clear, we are on the streets, we must remain on the streets: PM",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/bangladesh/government/ra90vw5p5k"
+        }
+      ],
+      "one_liner": "Ousted prime minister Sheikh Hasina asked Bangladesh on 9 November for a new passport and national identity card so she…",
+      "key_facts": [
+        {
+          "label": "In India for years",
+          "value": "2",
+          "original": "In India for 2 years"
+        },
+        {
+          "label": "",
+          "value": "return promised in December",
+          "original": "return promised in December"
+        },
+        {
+          "label": "",
+          "value": "death sentence last November",
+          "original": "death sentence last November"
+        },
+        {
+          "label": "UN",
+          "value": "as many as 1,400 killed in 2024",
+          "original": "as many as 1,400 killed in 2024 (UN)"
+        }
+      ],
+      "what_happened": [
+        "The government swiftly rejected the request, with State Minister Humaiun Kobir calling her a fugitive criminal and demanding extradition under the active Bangladesh-India treaty.",
+        "She was sentenced to death in absentia last November over the 2024 crackdown in which the UN says as many as 1,400 people were killed."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is UN?",
+          "a": "as many as 1,400 killed in 2024"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Ousted prime minister Sheikh Hasina asked Bangladesh on ______ for a new passport and national identity card so she can return from two years of exile in India in December and surrender to a court.",
+          "answer": "9 November"
+        },
+        {
+          "cloze": "She was sentenced to death in absentia last November over the ______ crackdown in which the UN says as many as 1,400 people were killed.",
+          "answer": "2024"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "hasina",
+        "seeks",
+        "passport",
+        "return",
+        "december",
+        "government",
+        "swiftly",
+        "rejects",
+        "request"
+      ],
+      "detail": "Ousted prime minister Sheikh Hasina asked Bangladesh on 9 November for a new passport and national identity card so she can return from two years of exile in India in December and surrender to a court. The government swiftly rejected the request, with State Minister Humaiun Kobir calling her a fugitive criminal and demanding extradition under the active Bangladesh-India treaty. She was sentenced to death in absentia last November over the 2024 crackdown in which the UN says as many as 1,400 people were killed."
+    },
+    {
+      "id": "CA03",
+      "headline": "Russia and Bangladesh sign protocol to boost trade and economic cooperation",
+      "category": "World",
+      "event_date": "2026-11-10",
+      "article_date": "2026-11-10",
+      "summary": "Russia and Bangladesh signed the protocol of the 5th meeting of their Intergovernmental Commission on Trade, Economic, Scientific and Technical Cooperation, setting the guideline for further bilateral engagement and joint projects. Co-chairpersons of both sides signed after a two-day plenary session of government officials and business representatives. Talks covered trade and industrial cooperation, agriculture and energy, with both sides seeking stronger bilateral trade and economic ties.",
+      "why_it_matters": "The Intergovernmental Commission is the standing bilateral mechanism for trade, energy and scientific cooperation with Russia, so its protocol is the frame for future questions on Bangladesh-Russia trade, energy ties and joint projects.",
+      "exam_facts": "The commission is the Intergovernmental Commission (IGC) on Trade, Economic, Scientific and Technical Cooperation, and this was its 5th meeting; the signed document incorporates the issues discussed at the meeting and will serve as a guideline for practical cooperation and implementation of joint projects; the protocol was signed by the co-chairpersons of the Russian and Bangladeshi sides following the plenary session; the Russian side thanked its Bangladeshi counterparts for their cooperation during the two-day meeting and hoped the agreements reached would produce tangible benefits for both countries.",
+      "exam_relevance": "Bilateral trade, intergovernmental commissions, Bangladesh-Russia relations — BCS foreign-affairs topics.",
+      "key_people": "Co-chairpersons of the Russian and Bangladeshi sides of the IGC",
+      "figures": "5th meeting of the IGC; two-day meeting; protocol signed 10 November 2026.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Russia, Bangladesh sign protocol to boost trade, economic cooperation",
+          "date": "2026-11-09",
+          "url": "https://www.tbsnews.net/foreign-policy/russia-bangladesh-sign-protocol-boost-trade-economic-cooperation-1597881"
+        }
+      ],
+      "one_liner": "Russia and Bangladesh signed the protocol of the 5th meeting of their Intergovernmental Commission on Trade, Economic, Scientific and Technical…",
+      "key_facts": [
+        {
+          "label": "th meeting of the IGC",
+          "value": "5",
+          "original": "5th meeting of the IGC"
+        },
+        {
+          "label": "",
+          "value": "two-day meeting",
+          "original": "two-day meeting"
+        },
+        {
+          "label": "",
+          "value": "protocol signed 10 November 2026",
+          "original": "protocol signed 10 November 2026"
+        },
+        {
+          "label": "The commission is the Intergovernmental Commission…",
+          "value": "5",
+          "original": "The commission is the Intergovernmental Commission (IGC) on Trade, Economic, Scientific and Technical Cooperation, and this was its 5th meeting"
+        }
+      ],
+      "what_happened": [
+        "Co-chairpersons of both sides signed after a two-day plenary session of government officials and business representatives.",
+        "Talks covered trade and industrial cooperation, agriculture and energy, with both sides seeking stronger bilateral trade and economic ties."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is th meeting of the IGC?",
+          "a": "5"
+        },
+        {
+          "q": "What is The commission is the Intergovernmental Commission…?",
+          "a": "5"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Russia and Bangladesh signed the protocol of the ______th meeting of their Intergovernmental Commission on Trade, Economic, Scientific and Technical Cooperation, setting the guideline for further bilateral engagement and joint projects.",
+          "answer": "5"
+        }
+      ],
+      "keywords": [
+        "world",
+        "russia",
+        "bangladesh",
+        "sign",
+        "protocol",
+        "boost",
+        "trade",
+        "economic",
+        "cooperation"
+      ],
+      "detail": "Russia and Bangladesh signed the protocol of the 5th meeting of their Intergovernmental Commission on Trade, Economic, Scientific and Technical Cooperation, setting the guideline for further bilateral engagement and joint projects. Co-chairpersons of both sides signed after a two-day plenary session of government officials and business representatives. Talks covered trade and industrial cooperation, agriculture and energy, with both sides seeking stronger bilateral trade and economic ties."
+    },
+    {
+      "id": "CA04",
+      "headline": "Bangladesh Bank doubles overseas medical treatment remittance limit to $30,000",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Bangladesh Bank has doubled the foreign-currency remittance limit for medical treatment abroad without prior approval, from $15,000 to $30,000, in a circular issued on 9 November. Authorised dealer banks may now also remit funds for secondary and higher secondary education abroad without prior approval, if free education is not available. The circular also allows remittance for regular academic studies through correspondence courses and tightens rules for depositing foreign currency brought in by resident Bangladeshis.",
+      "why_it_matters": "Foreign-exchange and remittance rules are staple Bank-exam material, and the $30,000 medical limit with the education easements is exactly the kind of current circular BCS and Bank papers test alongside the foreign-currency deposit rules.",
+      "exam_facts": "The previous medical treatment limit was $15,000; authorised dealer (AD) banks previously needed prior central-bank approval for school-level education remittances; the new provision covers secondary and higher secondary-equivalent studies, subject to verification that free education is not available; the correspondence-course facility previously covered only correspondence and distance certification courses for professional examinations, and now covers regular academic studies; foreign currency brought into the country by resident Bangladeshis can be credited to Resident Foreign Currency Deposit (RFCD) accounts only under tightened conditions; the decisions aim to ease outward remittance procedures and facilitate legitimate current-account transactions.",
+      "exam_relevance": "Banking, foreign-exchange regulation, remittance rules — core Bank exam material.",
+      "key_people": "",
+      "figures": "Medical limit $15,000 to $30,000; circular 9 November 2026; RFCD rules tightened.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Bangladesh Bank doubles overseas medical treatment remittance limit to $30,000",
+          "date": "2026-11-09",
+          "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-doubles-overseas-medical-treatment-remittance-limit-30000-1597376"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "BB doubles medical remittance limit to $30,000",
+          "date": "2026-11-09",
+          "url": "https://www.thedailystar.net/business/news/bb-doubles-medical-remittance-limit-30000-4319231"
+        }
+      ],
+      "one_liner": "Bangladesh Bank has doubled the foreign-currency remittance limit for medical treatment abroad without prior approval, from $15,000 to $30,000, in…",
+      "key_facts": [
+        {
+          "label": "Medical limit to $30,000",
+          "value": "$15,000",
+          "original": "Medical limit $15,000 to $30,000"
+        },
+        {
+          "label": "",
+          "value": "circular 9 November 2026",
+          "original": "circular 9 November 2026"
+        },
+        {
+          "label": "",
+          "value": "RFCD rules tightened",
+          "original": "RFCD rules tightened"
+        },
+        {
+          "label": "The previous medical treatment limit was",
+          "value": "$15,000",
+          "original": "The previous medical treatment limit was $15,000"
+        }
+      ],
+      "what_happened": [
+        "Authorised dealer banks may now also remit funds for secondary and higher secondary education abroad without prior approval, if free education is not available.",
+        "The circular also allows remittance for regular academic studies through correspondence courses and tightens rules for depositing foreign currency brought in by resident Bangladeshis."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is The previous medical treatment limit was?",
+          "a": "$15,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has doubled the foreign-currency remittance limit for medical treatment abroad without prior approval, from $15,000 to $30,000, in a circular issued on ______.",
+          "answer": "9 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "doubles",
+        "overseas",
+        "medical",
+        "treatment",
+        "remittance",
+        "limit"
+      ],
+      "detail": "Bangladesh Bank has doubled the foreign-currency remittance limit for medical treatment abroad without prior approval, from $15,000 to $30,000, in a circular issued on 9 November. Authorised dealer banks may now also remit funds for secondary and higher secondary education abroad without prior approval, if free education is not available. The circular also allows remittance for regular academic studies through correspondence courses and tightens rules for depositing foreign currency brought in by resident Bangladeshis."
+    },
+    {
+      "id": "CA05",
+      "headline": "Government calls Hasina's return moves 'merely political posturing'",
+      "category": "Politics",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Chief Prosecutor Md Aminul Islam said on 9 November that Sheikh Hasina's recent activities were merely political posturing and that she has no intention of returning from India. He said she was not taking the legal steps she should take to return, despite her stated plan to come back in December. Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown, and has lived in India since fleeing in August 2024 after a student-led uprising toppled her government.",
+      "why_it_matters": "The prosecutor's 'political posturing' line and the death sentence are the government's legal answer to Hasina's return plan, so this story is the counterpoint students need to pair with the passport request itself.",
+      "exam_facts": "The Daily Star quoted Islam speaking to journalists at his office; State Minister for Foreign Affairs Humaiun Kobir had ruled out issuing any travel document or passport to Hasina, describing her as a fugitive terrorist and a dictator; Bangladesh has sought her extradition from India, where she took refuge after leaving office; India has acknowledged receiving the extradition requests but has yet to announce a decision, with its foreign ministry saying the requests are being examined as part of its established processes; Hasina's Awami League government was toppled by a student-led uprising in August 2024.",
+      "exam_relevance": "Extradition, war-crimes tribunal, political rhetoric — BCS current-affairs topics.",
+      "key_people": "Md Aminul Islam, Chief Prosecutor; Humaiun Kobir, State Minister for Foreign Affairs",
+      "figures": "In India since August 2024; death sentence in absentia; return promised in December.",
+      "sources": [
+        {
+          "publication": "The Times of India",
+          "headline": "'Merely political posturing': Bangladesh says Hasina has no intention of returning from India",
+          "date": "2026-11-09",
+          "url": "https://timesofindia.indiatimes.com/world/south-asia/merely-political-posturing-bangladesh-says-hasina-has-no-intention-of-returning-from-india/articleshow/135677411.cms"
+        }
+      ],
+      "one_liner": "Chief Prosecutor Md Aminul Islam said on 9 November that Sheikh Hasina's recent activities were merely political posturing and that…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "In India since August 2024",
+          "original": "In India since August 2024"
+        },
+        {
+          "label": "",
+          "value": "death sentence in absentia",
+          "original": "death sentence in absentia"
+        },
+        {
+          "label": "",
+          "value": "return promised in December",
+          "original": "return promised in December"
+        }
+      ],
+      "what_happened": [
+        "He said she was not taking the legal steps she should take to return, despite her stated plan to come back in December.",
+        "Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown,",
+        "and has lived in India since fleeing in August 2024 after a student-led uprising toppled her government."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Chief Prosecutor Md Aminul Islam said on ______ that Sheikh Hasina's recent activities were merely political posturing and that she has no intention of returning from India.",
+          "answer": "9 November"
+        },
+        {
+          "cloze": "Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown, and has lived in India since fleeing in ______24 after a student-led uprising toppled her government.",
+          "answer": "August 20"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "government",
+        "calls",
+        "hasina",
+        "return",
+        "moves",
+        "merely",
+        "political",
+        "posturing"
+      ],
+      "detail": "Chief Prosecutor Md Aminul Islam said on 9 November that Sheikh Hasina's recent activities were merely political posturing and that she has no intention of returning from India. He said she was not taking the legal steps she should take to return, despite her stated plan to come back in December. Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown, and has lived in India since fleeing in August 2024 after a student-led uprising toppled her government."
+    },
+    {
+      "id": "CA06",
+      "headline": "Bangladesh validates Multisectoral Action Plan for eye health 2027-2029",
+      "category": "Bangladesh",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-09",
+      "summary": "Bangladesh has validated its Multisectoral Action Plan for Eye Health for 2027-2029 at a national workshop held on 8 November at Hotel InterContinental, Dhaka. The plan treats eye health as a shared development priority, not only a health issue, because vision impairment affects education, employment, productivity and social participation. It brings together ministries including education, labour, agriculture, industries, women and children affairs and social welfare under the health ministry's lead.",
+      "why_it_matters": "Health policy and multi-ministry planning appear in BCS general-knowledge and health questions, and the 2027-2029 eye-health plan shows how Bangladesh now frames a single disease area as an education, employment and welfare issue at once.",
+      "exam_facts": "The Multisectoral National Platform on Eye Health was initiated by The Fred Hollows Foundation, with support from UNDP Bangladesh and in coordination with Sightsavers and other members of the International NGO Forum for Eye Health; the platform is led by the Ministry of Health and Family Welfare with the National Institute of Ophthalmology and Hospital; Health Minister Sardar Md Sakhawat Husain attended as chief guest; Md Mohsin, joint secretary, chairs the platform and Syed Mehbub Ul Kadir, director (in-charge) of the National Institute of Ophthalmology and Hospital, gave the keynote presentation; the plan reflects Bangladesh's commitment to the global eye-health agenda and the momentum of the Global Summit on Eye Health; discussions covered strategic priorities, institutional roles and implementation milestones for coordinated action over 2027-2029.",
+      "exam_relevance": "Health policy, multisectoral planning, development partners — BCS general-knowledge topics.",
+      "key_people": "Sardar Md Sakhawat Husain, Minister of Health and Family Welfare; Md Mohsin, Joint Secretary; Syed Mehbub Ul Kadir, National Institute of Ophthalmology and Hospital",
+      "figures": "Action Plan 2027-2029; workshop 8 November 2026, Hotel InterContinental, Dhaka.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Bangladesh validates Multisectoral Action Plan for eye health",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/corporate/local/zwozwfb7jc"
+        }
+      ],
+      "one_liner": "Bangladesh has validated its Multisectoral Action Plan for Eye Health for 2027-2029 at a national workshop held on 8 November…",
+      "key_facts": [
+        {
+          "label": "Action Plan",
+          "value": "2027-2029",
+          "original": "Action Plan 2027-2029"
+        },
+        {
+          "label": "",
+          "value": "workshop 8 November 2026, Hotel InterContinental, Dhaka",
+          "original": "workshop 8 November 2026, Hotel InterContinental, Dhaka"
+        },
+        {
+          "label": "discussions covered strategic priorities, institutional roles…",
+          "value": "2027-2029",
+          "original": "discussions covered strategic priorities, institutional roles and implementation milestones for coordinated action over 2027-2029"
+        }
+      ],
+      "what_happened": [
+        "The plan treats eye health as a shared development priority, not only a health issue, because vision impairment affects education, employment, productivity and social participation.",
+        "It brings together ministries including education, labour, agriculture, industries, women and children affairs and social welfare under the health ministry's lead."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Action Plan?",
+          "a": "2027-2029"
+        },
+        {
+          "q": "What is discussions covered strategic priorities, institutional roles…?",
+          "a": "2027-2029"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh has validated its Multisectoral Action Plan for Eye Health for 2027-2029 at a national workshop held on ______ at Hotel InterContinental, Dhaka.",
+          "answer": "8 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "validates",
+        "multisectoral",
+        "action",
+        "plan",
+        "health"
+      ],
+      "detail": "Bangladesh has validated its Multisectoral Action Plan for Eye Health for 2027-2029 at a national workshop held on 8 November at Hotel InterContinental, Dhaka. The plan treats eye health as a shared development priority, not only a health issue, because vision impairment affects education, employment, productivity and social participation. It brings together ministries including education, labour, agriculture, industries, women and children affairs and social welfare under the health ministry's lead."
+    },
+    {
+      "id": "CA07",
+      "headline": "PM leaves for COP31 summit in Turkiye; to deliver Bangladesh's statement on 12 November",
+      "category": "World",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Prime Minister Tarique Rahman will leave on 10 November for Turkiye to attend the COP31 World Leaders' Summit in Antalya on 11-12 November, delivering Bangladesh's statement at a plenary session on 12 November. Foreign Secretary Salahuddin Noman Chowdhury said bilateral meetings were being arranged with Turkish President Recep Tayyip Erdogan, the Australian prime minister, the president of Uzbekistan and the British foreign secretary, covering trade, investment and climate cooperation.",
+      "why_it_matters": "COP summits and Bangladesh's climate diplomacy are recurring BCS current-affairs topics, and the Antalya visit — with its bilateral meetings and the compensation question — sets up the COP31 outcomes students will be tested on next.",
+      "exam_facts": "The official visit runs from 10 to 12 November, with the prime minister leading the Bangladesh delegation; his spouse Zubaida Rahman, the environment minister, the two state ministers for foreign affairs and the prime minister's special assistant on environment will accompany him; a meeting with the administrator of the United Nations Development Programme (UNDP) is also being explored; on compensation for climate losses, Chowdhury said Bangladesh presents estimates of its damage at international forums and distinguished compensation from broader assistance and cooperation; COP, the Conference of the Parties, is the annual United Nations climate summit; detailed talks on Turkish firm Celebi's interest in ground handling at Hazrat Shahjalal International Airport's third terminal were unlikely during the visit.",
+      "exam_relevance": "COP, climate diplomacy, bilateral meetings — core BCS foreign-affairs topics.",
+      "key_people": "Tarique Rahman, Prime Minister; Recep Tayyip Erdogan, President of Turkiye; Salahuddin Noman Chowdhury, Foreign Secretary; Zubaida Rahman",
+      "figures": "Visit 10-12 November 2026; summit 11-12 November in Antalya; statement on 12 November.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "PM leaves tomorrow for COP31 summit in Turkiye",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/bangladesh/5p6cdb71tn"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman will leave on 10 November for Turkiye to attend the COP31 World Leaders' Summit in Antalya…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Visit 10-12 November 2026",
+          "original": "Visit 10-12 November 2026"
+        },
+        {
+          "label": "",
+          "value": "summit 11-12 November in Antalya",
+          "original": "summit 11-12 November in Antalya"
+        },
+        {
+          "label": "",
+          "value": "statement on 12 November",
+          "original": "statement on 12 November"
+        },
+        {
+          "label": "The official visit runs from to…",
+          "value": "10",
+          "original": "The official visit runs from 10 to 12 November, with the prime minister leading the Bangladesh delegation"
+        }
+      ],
+      "what_happened": [
+        "Foreign Secretary Salahuddin Noman Chowdhury said bilateral meetings were being arranged with Turkish President Recep Tayyip Erdogan,",
+        "the Australian prime minister, the president of Uzbekistan and the British foreign secretary, covering trade, investment and climate cooperation."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is The official visit runs from to…?",
+          "a": "10"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman will leave on ______ for Turkiye to attend the COP31 World Leaders' Summit in Antalya on 11-12 November, delivering Bangladesh's statement at a plenary session on 12 November.",
+          "answer": "10 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "leaves",
+        "summit",
+        "turkiye",
+        "deliver",
+        "bangladesh",
+        "statement",
+        "november"
+      ],
+      "detail": "Prime Minister Tarique Rahman will leave on 10 November for Turkiye to attend the COP31 World Leaders' Summit in Antalya on 11-12 November, delivering Bangladesh's statement at a plenary session on 12 November. Foreign Secretary Salahuddin Noman Chowdhury said bilateral meetings were being arranged with Turkish President Recep Tayyip Erdogan, the Australian prime minister, the president of Uzbekistan and the British foreign secretary, covering trade, investment and climate cooperation."
+    },
+    {
+      "id": "CA08",
+      "headline": "Economy returns to expansion in October as PMI rises to 51.8",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-10",
+      "summary": "Bangladesh's economy returned to expansion in October after two consecutive months of contraction, with the overall Purchasing Managers' Index rising 3.2 points to 51.8. Agriculture led the recovery, its PMI up 6 points to 61.2 in a 14th consecutive month of expansion, while manufacturing rose 6.1 points to 50.9 and construction 2.5 points to 51.0. But demand indicators stayed weak in several sectors and business costs continued to rise.",
+      "why_it_matters": "PMI is the standard monthly gauge of economic activity that BCS and Bank papers use, and the October rebound to 51.8 after two months of contraction is the headline number for any question on Bangladesh's 2026 growth.",
+      "exam_facts": "The October reading was released jointly by the Metropolitan Chamber of Commerce and Industry (MCCI), Dhaka, and Policy Exchange Bangladesh on 9 November; in manufacturing, new orders, new export orders and factory output remained in contraction and order backlogs showed sharp contraction, while stocks of inputs, finished goods and imports returned to expansion; input prices recorded strong expansion, signalling persistent cost pressures; in construction, employment recovered to expansion after remaining unchanged in September, though new business and construction activity stayed in contraction; in agriculture, new business, business activity and employment continued to expand, while the order backlogs index also returned to expansion, though input costs remained on the rise.",
+      "exam_relevance": "PMI, economic indicators, sectoral growth — core BCS/Bank economy topics.",
+      "key_people": "",
+      "figures": "Overall PMI 51.8, up 3.2 points; agriculture 61.2, up 6; manufacturing 50.9, up 6.1; construction 51.0, up 2.5; October 2026.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Bangladesh economy returns to expansion after two months of contraction: PMI",
+          "date": "2026-11-09",
+          "url": "https://www.tbsnews.net/economy/bangladesh-economy-returns-expansion-after-two-months-contraction-pmi-1597906"
+        }
+      ],
+      "one_liner": "Bangladesh's economy returned to expansion in October after two consecutive months of contraction, with the overall Purchasing Managers' Index rising…",
+      "key_facts": [
+        {
+          "label": "Overall PMI , up 3.2 points",
+          "value": "51.8",
+          "original": "Overall PMI 51.8, up 3.2 points"
+        },
+        {
+          "label": "agriculture , up 6",
+          "value": "61.2",
+          "original": "agriculture 61.2, up 6"
+        },
+        {
+          "label": "manufacturing , up 6.1",
+          "value": "50.9",
+          "original": "manufacturing 50.9, up 6.1"
+        },
+        {
+          "label": "construction , up 2.5",
+          "value": "51.0",
+          "original": "construction 51.0, up 2.5"
+        }
+      ],
+      "what_happened": [
+        "Agriculture led the recovery, its PMI up 6 points to 61.2 in a 14th consecutive month of expansion,",
+        "while manufacturing rose 6.1 points to 50.9 and construction 2.5 points to 51.0.",
+        "But demand indicators stayed weak in several sectors and business costs continued to rise."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's economy returned to expansion in October after two consecutive months of contraction, with the overall Purchasing Managers' Index rising ______ points to 51.8.",
+          "answer": "3.2"
+        },
+        {
+          "cloze": "Agriculture led the recovery, its PMI up ______ points to 61.2 in a 14th consecutive month of expansion, while manufacturing rose 6.1 points to 50.9 and construction 2.5 points to 51.0.",
+          "answer": "6"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "economy",
+        "returns",
+        "expansion",
+        "october",
+        "rises"
+      ],
+      "detail": "Bangladesh's economy returned to expansion in October after two consecutive months of contraction, with the overall Purchasing Managers' Index rising 3.2 points to 51.8. Agriculture led the recovery, its PMI up 6 points to 61.2 in a 14th consecutive month of expansion, while manufacturing rose 6.1 points to 50.9 and construction 2.5 points to 51.0. But demand indicators stayed weak in several sectors and business costs continued to rise."
+    },
+    {
+      "id": "CA09",
+      "headline": "Nine industrial groups join the billion-dollar club",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Nine industrial groups crossed the one-billion-dollar threshold in import and export trade in the 2025-26 financial year, up from eight a year earlier, despite energy shortages and flat exports. Together they imported goods worth $9.83 billion, exported about $3.05 billion and paid Tk199.44 billion in customs duties and taxes, taking their combined trade to $14.55 billion — nearly 11 per cent of Bangladesh's total import-export trade of $119.33 billion.",
+      "why_it_matters": "Industrial concentration and export earnings are core economy topics, and the nine-group list with its $14.55 billion combined trade is the concrete data behind questions on Bangladesh's biggest business groups and their trade.",
+      "exam_facts": "The nine groups are Meghna Group of Industries (MGI), PRAN-RFL, South Korea's Youngone Corporation, Abul Khair, Square, BSRM, TK Group, Khair Kashem and Ha-Meem; City Group fell out of the club after its trade declined 41 per cent in a year; Khair Kashem entered for the first time after acquiring several operational factories; MGI leads the club with about $3.2691 billion in trade, up 14 per cent, and imported goods worth $2.6717 billion; around 600,000 people work for the nine groups; the billion-dollar club counts import spending including duties plus export earnings, not total sales or profits; Youngone and Ha-Meem are entirely export-oriented, while MGI, Abul Khair, BSRM, TK and Khair Kashem mainly serve the domestic market.",
+      "exam_relevance": "Industrial groups, trade data, exports — core BCS/Bank economy topics.",
+      "key_people": "Mostafa Kamal, Chairman, Meghna Group of Industries",
+      "figures": "9 groups (was 8); imports $9.83bn; exports $3.05bn; duties Tk199.44bn (about $1.63bn); combined $14.55bn; goods-only $12.87bn; total trade $119.33bn; about 600,000 workers.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Nine industrial groups join the billion-dollar club",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/business/local/41c6z4nf47"
+        }
+      ],
+      "one_liner": "Nine industrial groups crossed the one-billion-dollar threshold in import and export trade in the 2025-26 financial year, up from eight…",
+      "key_facts": [
+        {
+          "label": "was 8",
+          "value": "9 groups",
+          "original": "9 groups (was 8)"
+        },
+        {
+          "label": "imports",
+          "value": "$9.83bn",
+          "original": "imports $9.83bn"
+        },
+        {
+          "label": "exports",
+          "value": "$3.05bn",
+          "original": "exports $3.05bn"
+        },
+        {
+          "label": "about $1.63bn",
+          "value": "duties Tk199.44bn",
+          "original": "duties Tk199.44bn (about $1.63bn)"
+        }
+      ],
+      "what_happened": [
+        "Together they imported goods worth $9.83 billion, exported about $3.05 billion and paid Tk199.44 billion in customs duties and taxes,",
+        "taking their combined trade to $14.55 billion — nearly 11 per cent of Bangladesh's total import-export trade of $119.33 billion."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is imports?",
+          "a": "$9.83bn"
+        },
+        {
+          "q": "What is exports?",
+          "a": "$3.05bn"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Nine industrial groups crossed the one-billion-dollar threshold in import and export trade in the ______ financial year, up from eight a year earlier, despite energy shortages and flat exports.",
+          "answer": "2025-26"
+        },
+        {
+          "cloze": "Together they imported goods worth $______ billion, exported about $3.05 billion and paid Tk199.44 billion in customs duties and taxes, taking their combined trade to $14.55 billion — nearly 11 per cent of Bangladesh's total import-export trade of $119.33 billion.",
+          "answer": "9.83"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "nine",
+        "industrial",
+        "groups",
+        "join",
+        "billion",
+        "dollar",
+        "club"
+      ],
+      "detail": "Nine industrial groups crossed the one-billion-dollar threshold in import and export trade in the 2025-26 financial year, up from eight a year earlier, despite energy shortages and flat exports. Together they imported goods worth $9.83 billion, exported about $3.05 billion and paid Tk199.44 billion in customs duties and taxes, taking their combined trade to $14.55 billion — nearly 11 per cent of Bangladesh's total import-export trade of $119.33 billion."
+    },
+    {
+      "id": "CA10",
+      "headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Bangladesh Bank has directed banks to charge the minimum possible cash margin when opening letters of credit for 10 essential commodities ahead of Ramadan, with the directive in force until 15 March 2027. The 10 items are rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates. Banks must also give priority to opening these letters of credit to keep domestic supplies steady, under the central bank's authority in Section 45 of the Bank Company Act.",
+      "why_it_matters": "Ramadan price management through import financing is a recurring Bank-exam theme, and the 10-item list with minimum LC margins under Section 45 is the exact circular detail such questions are built from.",
+      "exam_facts": "The directive was issued in a circular sent to the chief executives of all banks on Sunday 8 November; banks must set cash-margin rates at the minimum level based on the banker-customer relationship; the move follows a 5 September 2024 circular requiring 100 per cent cash margins for letters of credit on certain imports, and an 11 November 2025 instruction to keep margins at a minimum for selected consumer goods, which remained in force until 31 March this year; the latest directive takes immediate effect and remains in force until 15 March 2027. Note: the circular's item is 'wheat and flour' as one item (Prothom Alo prints the list verbatim), though bdnews24 and TBS shorten it to 'wheat'.",
+      "exam_relevance": "Import financing, LC margins, Ramadan price management — Bank exam topics.",
+      "key_people": "",
+      "figures": "10 items; in force until 15 March 2027; 100 per cent margin required by the 5 September 2024 circular.",
+      "sources": [
+        {
+          "publication": "bdnews24.com",
+          "headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+          "date": "2026-11-08",
+          "url": "https://bdnews24.com/business/wo8kew8osq"
+        }
+      ],
+      "one_liner": "Bangladesh Bank has directed banks to charge the minimum possible cash margin when opening letters of credit for 10 essential…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "in force until 15 March 2027",
+          "original": "in force until 15 March 2027"
+        },
+        {
+          "label": "per cent margin required by the…",
+          "value": "100",
+          "original": "100 per cent margin required by the 5 September 2024 circular"
+        },
+        {
+          "label": "the move follows a 5 September…",
+          "value": "100",
+          "original": "the move follows a 5 September 2024 circular requiring 100 per cent cash margins for letters of credit on certain imports, and an 11 November 2025 instruction to keep margins at a minimum for selected consumer goods, which remained in force until 31 March this year"
+        },
+        {
+          "label": "the latest directive takes immediate effect…",
+          "value": "24",
+          "original": "the latest directive takes immediate effect and remains in force until 15 March 2027. Note: the circular's item is 'wheat and flour' as one item (Prothom Alo prints the list verbatim), though bdnews24 and TBS shorten it to 'wheat'"
+        }
+      ],
+      "what_happened": [
+        "The 10 items are rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates.",
+        "Banks must also give priority to opening these letters of credit to keep domestic supplies steady,",
+        "under the central bank's authority in Section 45 of the Bank Company Act."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is per cent margin required by the…?",
+          "a": "100"
+        },
+        {
+          "q": "What is the latest directive takes immediate effect…?",
+          "a": "24"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has directed banks to charge the minimum possible cash margin when opening letters of credit for 10 essential commodities ahead of Ramadan, with the directive in force until ______.",
+          "answer": "15 March 2027"
+        },
+        {
+          "cloze": "The ______ items are rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "orders",
+        "minimum",
+        "cash",
+        "margins",
+        "ramadan",
+        "imports"
+      ],
+      "detail": "Bangladesh Bank has directed banks to charge the minimum possible cash margin when opening letters of credit for 10 essential commodities ahead of Ramadan, with the directive in force until 15 March 2027. The 10 items are rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates. Banks must also give priority to opening these letters of credit to keep domestic supplies steady, under the central bank's authority in Section 45 of the Bank Company Act."
+    },
+    {
+      "id": "CA11",
+      "headline": "Dhaka University keeps admission tests on schedule; HSC supplementary students miss out",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "Dhaka University has rejected the University Grants Commission's call to reconsider admission schedules and will keep its 2026-27 admission process on schedule, with applications closing on 25 November and tests starting on 5 December. As a result, students passing this year's HSC supplementary examinations, which begin on 1 December, cannot sit the university's admission tests. The university says delaying by two to three months would create another session jam after Covid-19 disruptions.",
+      "why_it_matters": "Admission policy and the HSC supplementary examinations are the most immediate Jobs & Education topic for 2026 candidates, and the 1 December date with DU's 25 November deadline is the clash of dates exam papers will ask about.",
+      "exam_facts": "HSC and equivalent results were published on 31 October: of 1,240,798 candidates under 11 education boards, 646,685 passed and 422,905 failed in one or two subjects — 298,040 in one subject and 124,865 in two; supplementary examinations, for candidates failing in a maximum of two subjects, are being held for the first time this year; students whose results change after re-scrutiny, due on 23 November, may still apply; the UGC decided public universities would take first-year honours applications from January next year, with tests from February, but no Dhaka University representative attended the meeting; MBBS and BDS admission tests are scheduled for 18 December; UGC chairman Professor Mamun Ahmed asked universities to consider Ramadan when setting schedules.",
+      "exam_relevance": "University admission, HSC examinations, UGC policy — core Jobs & Education topics.",
+      "key_people": "Professor Mohammad Almujaddade Alfasane, Pro-Vice-Chancellor, University of Dhaka; Professor Mamun Ahmed, Chairman, University Grants Commission",
+      "figures": "Applications close 25 November; tests from 5 December; supplementary exams begin 1 December; 646,685 passed of 1,240,798; 422,905 failed in one or two subjects.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Dhaka University rejects UGC’s call, keeps admission tests on schedule",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/youth/education/bl3nuzg608"
+        }
+      ],
+      "one_liner": "Dhaka University has rejected the University Grants Commission's call to reconsider admission schedules and will keep its 2026-27 admission process…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Applications close 25 November",
+          "original": "Applications close 25 November"
+        },
+        {
+          "label": "",
+          "value": "tests from 5 December",
+          "original": "tests from 5 December"
+        },
+        {
+          "label": "",
+          "value": "supplementary exams begin 1 December",
+          "original": "supplementary exams begin 1 December"
+        },
+        {
+          "label": "passed of 1,240,798",
+          "value": "646,685",
+          "original": "646,685 passed of 1,240,798"
+        }
+      ],
+      "what_happened": [
+        "As a result, students passing this year's HSC supplementary examinations, which begin on 1 December, cannot sit the university's admission tests.",
+        "The university says delaying by two to three months would create another session jam after Covid-19 disruptions."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Dhaka University has rejected the University Grants Commission's call to reconsider admission schedules and will keep its 2026-27 admission process on schedule, with applications closing on ______ and tests starting on 5 December.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "As a result, students passing this year's HSC supplementary examinations, which begin on ______, cannot sit the university's admission tests.",
+          "answer": "1 December"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "dhaka",
+        "university",
+        "keeps",
+        "admission",
+        "tests",
+        "schedule",
+        "supplementary",
+        "students",
+        "miss"
+      ],
+      "detail": "Dhaka University has rejected the University Grants Commission's call to reconsider admission schedules and will keep its 2026-27 admission process on schedule, with applications closing on 25 November and tests starting on 5 December. As a result, students passing this year's HSC supplementary examinations, which begin on 1 December, cannot sit the university's admission tests. The university says delaying by two to three months would create another session jam after Covid-19 disruptions."
+    },
+    {
+      "id": "CA12",
+      "headline": "Workers' side seeks Tk32,000 minimum wage in RMG sector",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-09",
+      "summary": "The workers' side has proposed a minimum monthly wage of Tk32,000 for readymade garment workers, and Tk30,000 for new or apprentice workers, at the Minimum Wage Board's second meeting on 9 November. Workers' representative Babul Akhter said a worker needs Tk45,000 to Tk60,000 a month for a family of four to live decently. The board aims to finalise the new wage structure by December, with higher wages paid in the first week of January.",
+      "why_it_matters": "The RMG minimum wage is Bangladesh's biggest labour-economics question, and the workers' Tk32,000 demand against the Tk45,000-60,000 living-cost figure frames every later story on the wage board, factory unrest and export competitiveness.",
+      "exam_facts": "The proposal is for Grade 4 workers, with the Tk32,000 figure set against industry capacity and the overall situation; the meeting was held at the board's office in Segunbagicha, Dhaka, and lasted three hours, chaired by Syed Azad Subhani; the employers' side failed to submit its written proposal, asked for seven working days and was granted four; the chairman said the board would move forward even if employers miss the next meeting; board members will visit garment factories of all categories this week, and independent member Professor Mosleh Uddin Ahmed will review international wage indicators, possibly consulting Dhaka University's Institute of Business Administration.",
+      "exam_relevance": "Minimum wage, RMG sector, labour economics — core BCS/Bank economy topics.",
+      "key_people": "Babul Akhter, workers' representative; Syed Azad Subhani, Chairman, Minimum Wage Board; Mosleh Uddin Ahmed, independent member; ABM Shamsuddin, employers' representative",
+      "figures": "Tk32,000 proposed (Grade 4); Tk30,000 for apprentices; decent living needs Tk45,000-60,000; employers granted 4 days (asked 7); new structure from December.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Workers' side seeks Tk 32,000 minimum wage in RMG sector",
+          "date": "2026-11-09",
+          "url": "https://en.prothomalo.com/bangladesh/2lf94gm4m6"
+        }
+      ],
+      "one_liner": "The workers' side has proposed a minimum monthly wage of Tk32,000 for readymade garment workers, and Tk30,000 for new or…",
+      "key_facts": [
+        {
+          "label": "Grade 4",
+          "value": "Tk32,000 proposed",
+          "original": "Tk32,000 proposed (Grade 4)"
+        },
+        {
+          "label": "for apprentices",
+          "value": "Tk30,000",
+          "original": "Tk30,000 for apprentices"
+        },
+        {
+          "label": "decent living needs",
+          "value": "Tk45,000-60,000",
+          "original": "decent living needs Tk45,000-60,000"
+        },
+        {
+          "label": "asked 7",
+          "value": "employers granted 4 days",
+          "original": "employers granted 4 days (asked 7)"
+        }
+      ],
+      "what_happened": [
+        "Workers' representative Babul Akhter said a worker needs Tk45,000 to Tk60,000 a month for a family of four to live decently.",
+        "The board aims to finalise the new wage structure by December, with higher wages paid in the first week of January."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is for apprentices?",
+          "a": "Tk30,000"
+        },
+        {
+          "q": "What is decent living needs?",
+          "a": "Tk45,000-60,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The workers' side has proposed a minimum monthly wage of Tk32,000 for readymade garment workers, and Tk30,000 for new or apprentice workers, at the Minimum Wage Board's second meeting on ______.",
+          "answer": "9 November"
+        },
+        {
+          "cloze": "Workers' representative Babul Akhter said a worker needs Tk______ to Tk60,000 a month for a family of four to live decently.",
+          "answer": "45,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "workers",
+        "side",
+        "seeks",
+        "minimum",
+        "wage",
+        "sector"
+      ],
+      "detail": "The workers' side has proposed a minimum monthly wage of Tk32,000 for readymade garment workers, and Tk30,000 for new or apprentice workers, at the Minimum Wage Board's second meeting on 9 November. Workers' representative Babul Akhter said a worker needs Tk45,000 to Tk60,000 a month for a family of four to live decently. The board aims to finalise the new wage structure by December, with higher wages paid in the first week of January."
+    },
+    {
+      "id": "CA13",
+      "headline": "ICB in a bind as Tk3,000 crore Beximco Sukuk nears maturity",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-10",
+      "article_date": "2026-11-10",
+      "summary": "The Investment Corporation of Bangladesh, trustee of Beximco's Green Sukuk, faces a dilemma over the bond's outstanding Tk2,800 crore, due for repayment by 23 December as the five-year Islamic instrument matures. ICB cannot declare a default because Beximco still pays yields from its Teesta Solar plant's cash flows, yet recovery of the full amount by maturity is uncertain. The exposure spans 22 banks, raising fears of more classified investments if repayment fails.",
+      "why_it_matters": "Sukuk, classified investments and trustee duties are core Bank-exam finance topics, and the Tk2,800 crore Beximco repayment deadline of 23 December is the live case that ties Islamic finance to banking-sector stability.",
+      "exam_facts": "Beximco, owned by Salman F Rahman, former private industry and investment adviser to ousted prime minister Sheikh Hasina, raised Tk3,000 crore in 2021 through the country's first private-sector Shariah-compliant Green Sukuk, of which about Tk200 crore was converted into shares; the remaining Tk2,800 crore is due to sukuk holders by 23 December; foreign investors Revival Global and Adsum Capital have expressed interest, while Beximco opposes Adsum's proposed acquisition of the Teesta Solar project; the sukuk's periodic yield payments continue from solar-plant cash flows; the repayment crisis threatens investor confidence and wider banking stability.",
+      "exam_relevance": "Sukuk, Islamic finance, classified investments, banking stability — core Bank exam topics.",
+      "key_people": "Salman F Rahman, owner, Beximco",
+      "figures": "Tk3,000 crore raised in 2021; Tk2,800 crore outstanding; Tk200 crore converted to shares; due 23 December; 22 banks exposed.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+          "date": "2026-11-09",
+          "url": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941"
+        }
+      ],
+      "one_liner": "The Investment Corporation of Bangladesh, trustee of Beximco's Green Sukuk, faces a dilemma over the bond's outstanding Tk2,800 crore, due…",
+      "key_facts": [
+        {
+          "label": "crore raised in 2021",
+          "value": "Tk3,000",
+          "original": "Tk3,000 crore raised in 2021"
+        },
+        {
+          "label": "crore outstanding",
+          "value": "Tk2,800",
+          "original": "Tk2,800 crore outstanding"
+        },
+        {
+          "label": "crore converted to shares",
+          "value": "Tk200",
+          "original": "Tk200 crore converted to shares"
+        },
+        {
+          "label": "",
+          "value": "due 23 December",
+          "original": "due 23 December"
+        }
+      ],
+      "what_happened": [
+        "ICB cannot declare a default because Beximco still pays yields from its Teesta Solar plant's cash flows, yet recovery of the full amount by maturity is uncertain.",
+        "The exposure spans 22 banks, raising fears of more classified investments if repayment fails."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is crore outstanding?",
+          "a": "Tk2,800"
+        },
+        {
+          "q": "What is crore converted to shares?",
+          "a": "Tk200"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Investment Corporation of Bangladesh, trustee of Beximco's Green Sukuk, faces a dilemma over the bond's outstanding Tk2,800 crore, due for repayment by ______ as the five-year Islamic instrument matures.",
+          "answer": "23 December"
+        },
+        {
+          "cloze": "The exposure spans ______ banks, raising fears of more classified investments if repayment fails.",
+          "answer": "22"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bind",
+        "crore",
+        "beximco",
+        "sukuk",
+        "nears",
+        "maturity"
+      ],
+      "detail": "The Investment Corporation of Bangladesh, trustee of Beximco's Green Sukuk, faces a dilemma over the bond's outstanding Tk2,800 crore, due for repayment by 23 December as the five-year Islamic instrument matures. ICB cannot declare a default because Beximco still pays yields from its Teesta Solar plant's cash flows, yet recovery of the full amount by maturity is uncertain. The exposure spans 22 banks, raising fears of more classified investments if repayment fails."
+    },
+    {
+      "id": "CA14",
+      "headline": "Yarn import row: PM asks committee to propose solution by 20 November",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-10",
+      "summary": "Prime Minister Tarique Rahman has directed a committee led by the commerce minister to propose a solution to the yarn-import row by 20 November, after garment exporters and local textile mill owners presented opposing arguments at a meeting on 9 November. Exporters, especially knitwear makers, rely on duty-free yarn imports under bond facilities, while mill owners say cheaper imports undercut local yarn. Since early September, imports under bond require a bank guarantee equal to the yarn's value.",
+      "why_it_matters": "The yarn dispute pits exporters against domestic mills over bond facilities, and the 20 November committee deadline is the date that decides whether knitwear exporters keep duty-free yarn or local spinners gain protection.",
+      "exam_facts": "The meeting was held at the Secretariat on 9 November between exporters, mill owners and the prime minister; BGMEA president Mahmud Hasan Khan Babu said the prime minister directed the committee to prepare and submit its report by 20 November, with a decision to follow; mill owners allege some exporters import yarn under bond facilities but sell it in the domestic market instead of using it for export garments; under the new system the bank guarantee is released only after exporters prove the yarn was used for export garments and export proceeds were repatriated; yarn is a major raw material for garments, particularly knitwear exporters.",
+      "exam_relevance": "RMG inputs, bond facilities, trade policy — BCS/Bank economy topics.",
+      "key_people": "Mahmud Hasan Khan Babu, President, BGMEA",
+      "figures": "Committee report due 20 November; bank guarantee equal to imported yarn's value; restrictions since early September.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+          "date": "2026-11-09",
+          "url": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman has directed a committee led by the commerce minister to propose a solution to the yarn-import…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Committee report due 20 November",
+          "original": "Committee report due 20 November"
+        },
+        {
+          "label": "",
+          "value": "bank guarantee equal to imported yarn's value",
+          "original": "bank guarantee equal to imported yarn's value"
+        },
+        {
+          "label": "",
+          "value": "restrictions since early September",
+          "original": "restrictions since early September"
+        }
+      ],
+      "what_happened": [
+        "Exporters, especially knitwear makers, rely on duty-free yarn imports under bond facilities, while mill owners say cheaper imports undercut local yarn.",
+        "Since early September, imports under bond require a bank guarantee equal to the yarn's value."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman has directed a committee led by the commerce minister to propose a solution to the yarn-import row by ______, after garment exporters and local textile mill owners presented opposing arguments at a meeting on 9 November.",
+          "answer": "20 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "yarn",
+        "import",
+        "asks",
+        "committee",
+        "propose",
+        "solution",
+        "november"
+      ],
+      "detail": "Prime Minister Tarique Rahman has directed a committee led by the commerce minister to propose a solution to the yarn-import row by 20 November, after garment exporters and local textile mill owners presented opposing arguments at a meeting on 9 November. Exporters, especially knitwear makers, rely on duty-free yarn imports under bond facilities, while mill owners say cheaper imports undercut local yarn. Since early September, imports under bond require a bank guarantee equal to the yarn's value."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bottleneck",
+      "IPA": "/ˈbɒtəlnek/",
+      "Bangla phonetic": "বটলনেক",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংকীর্ণ পথ; বাধা; প্রতিবন্ধকতা",
+      "English definition": "A narrow point that slows down a whole process or system.",
+      "Synonyms": "chokepoint; constraint; logjam",
+      "Antonyms": "free flow; open channel",
+      "Word family / derivatives": "bottleneck (verb); bottlenecked",
+      "Collocations / patterns": "supply-chain bottleneck; production bottleneck; create a bottleneck",
+      "Original example": "This reality brings the global economy to its ultimate bottleneck: contract semiconductor manufacturers.",
+      "Newspaper context note": "In the AI-finance column, chip foundries are the bottleneck of the whole AI supply chain.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "Supply chains and economic constraints are core BCS/Bank economy vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "chokepoint",
+      "IPA": "/ˈtʃəʊkpɔɪnt/",
+      "Bangla phonetic": "চোকপয়েন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নিয়ন্ত্রণকেন্দ্র; গলার ফাঁসের মতো সংকীর্ণ স্থান",
+      "English definition": "A narrow place whose control gives power over a whole flow or system.",
+      "Synonyms": "bottleneck; stranglehold; gateway",
+      "Antonyms": "open route; free passage",
+      "Word family / derivatives": "choke (verb); chokehold",
+      "Collocations / patterns": "critical chokepoint; strategic chokepoint; energy chokepoint",
+      "Original example": "TSMC remains a critical chokepoint.",
+      "Newspaper context note": "The column calls Taiwan's TSMC the critical chokepoint of the AI industry.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "Geopolitics and trade-route vocabulary for BCS current affairs and written English.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "staggering",
+      "IPA": "/ˈstæɡərɪŋ/",
+      "Bangla phonetic": "স্ট্যাগারিং",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বিস্ময়কর; চমকে দেওয়ার মতো (পরিমাণে)",
+      "English definition": "So large or surprising that it is hard to believe.",
+      "Synonyms": "astounding; enormous; mind-boggling",
+      "Antonyms": "modest; ordinary; negligible",
+      "Word family / derivatives": "stagger (verb); staggeringly (adverb)",
+      "Collocations / patterns": "staggering figures; staggering amount; staggering growth",
+      "Original example": "Alongside these breakthroughs come staggering figures.",
+      "Newspaper context note": "The column opens with the staggering figures of the AI boom: hundreds of billions of dollars pledged.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "High-frequency descriptive adjective in BCS/Bank English and essay writing.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "interdependent",
+      "IPA": "/ˌɪntədɪˈpendənt/",
+      "Bangla phonetic": "ইন্টারডিপেন্ডেন্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পরস্পরনির্ভরশীল",
+      "English definition": "Depending on each other; mutually reliant.",
+      "Synonyms": "mutually dependent; interconnected; linked",
+      "Antonyms": "independent; self-sufficient; isolated",
+      "Word family / derivatives": "interdependence (noun); interdependently (adverb)",
+      "Collocations / patterns": "interdependent hierarchy; interdependent economies; interdependent supply chain",
+      "Original example": "The global supply chain divides into an interdependent hierarchy of specialists.",
+      "Newspaper context note": "The AI supply chain is described as an interdependent hierarchy of chip designers, foundries and memory makers.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "Economics and international-relations vocabulary for BCS/Bank written English.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "gatekeeper",
+      "IPA": "/ˈɡeɪtkiːpər/",
+      "Bangla phonetic": "গেটকিপার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "দ্বাররক্ষী; প্রবেশ নিয়ন্ত্রণকারী",
+      "English definition": "A person or company that controls access to something important.",
+      "Synonyms": "guardian; controller; custodian",
+      "Antonyms": "outsider; bystander",
+      "Word family / derivatives": "gatekeeping (noun); gatekeep (verb)",
+      "Collocations / patterns": "gatekeeper of technology; gatekeepers of the future; industry gatekeeper",
+      "Original example": "How did a handful of specialised companies become gatekeepers of technological futures?",
+      "Newspaper context note": "The column asks how a handful of chip firms became gatekeepers of the AI future.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "Modern technology and economy vocabulary; useful in essays on monopoly and power.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "soar",
+      "IPA": "/sɔːr/",
+      "Bangla phonetic": "সোর",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "হু হু করে বেড়ে যাওয়া; আকাশছোঁয়া হওয়া",
+      "English definition": "To rise very fast and to a very high level.",
+      "Synonyms": "surge; skyrocket; climb steeply",
+      "Antonyms": "plummet; plunge; slump",
+      "Word family / derivatives": "soaring (adjective); soar (noun)",
+      "Collocations / patterns": "valuations soar; prices soar; shares soar",
+      "Original example": "Tech giants pledge hundreds of billions of dollars, startup valuations soar, and massive server warehouses expand globally.",
+      "Newspaper context note": "Startup valuations are soaring in the AI boom described in the Prothom Alo column.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "BCS / Bank relevance": "Core market and economy verb for Bank exams and newspaper English.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "dilemma",
+      "IPA": "/dɪˈlemə/",
+      "Bangla phonetic": "ডিলেমা",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উভয়সংকট; দ্বিধা",
+      "English definition": "A difficult choice between two unpleasant options.",
+      "Synonyms": "predicament; quandary; bind",
+      "Antonyms": "easy choice; solution",
+      "Word family / derivatives": "dilemmatic (adjective)",
+      "Collocations / patterns": "face a dilemma; in a dilemma; moral dilemma",
+      "Original example": "The Investment Corporation of Bangladesh (ICB), trustee of Beximco's Green Sukuk, is facing a dilemma over the repayment of the bond's outstanding Tk2,800 crore balance as the five-year Islamic investment instrument approaches maturity next month.",
+      "Newspaper context note": "ICB faces a dilemma: it cannot recover the full Sukuk amount by maturity, yet cannot declare a default while yields are still paid.",
+      "Source publication": "The Business Standard",
+      "Article headline": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941",
+      "BCS / Bank relevance": "A classic BCS/Bank vocabulary word; also used in essays on difficult policy choices.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "expeditiously",
+      "IPA": "/ˌekspəˈdɪʃəsli/",
+      "Bangla phonetic": "এক্সপেডিশাসলি",
+      "Part of speech / type": "Adverb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দ্রুত; তৎপরতার সঙ্গে",
+      "English definition": "Quickly and efficiently.",
+      "Synonyms": "promptly; swiftly; speedily",
+      "Antonyms": "slowly; tardily; belatedly",
+      "Word family / derivatives": "expeditious (adjective); expedite (verb); expedition (noun)",
+      "Collocations / patterns": "processed expeditiously; act expeditiously; handled expeditiously",
+      "Original example": "Her letter to the Bangladeshi government, cited by Reuters, asked that her request be processed expeditiously on the basis of her Bangladeshi nationality.",
+      "Newspaper context note": "Hasina's letter asked that her passport request be processed expeditiously.",
+      "Source publication": "Yahoo",
+      "Article headline": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/ousted-pm-sheikh-hasina-seeks-071209528.html",
+      "BCS / Bank relevance": "Formal adverb common in legal and official English for BCS/Bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "counterpart",
+      "IPA": "/ˈkaʊntəpɑːt/",
+      "Bangla phonetic": "কাউন্টারপার্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সমকক্ষ ব্যক্তি; প্রতিপক্ষের সমতুল্য ব্যক্তি",
+      "English definition": "A person holding a similar position in another organisation or country.",
+      "Synonyms": "equivalent; opposite number; peer",
+      "Antonyms": "subordinate; junior",
+      "Word family / derivatives": "counterparts (plural)",
+      "Collocations / patterns": "Bangladeshi counterparts; Russian counterparts; meet one's counterpart",
+      "Original example": "The Russian side thanked its Bangladeshi counterparts for their cooperation during the two-day meeting and expressed hope that the agreements reached would produce tangible benefits for both countries.",
+      "Newspaper context note": "Russia thanked its Bangladeshi counterparts after the Intergovernmental Commission meeting.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Russia, Bangladesh sign protocol to boost trade, economic cooperation",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/russia-bangladesh-sign-protocol-boost-trade-economic-cooperation-1597881",
+      "BCS / Bank relevance": "Diplomacy and negotiation vocabulary for BCS foreign-affairs English.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "plenary",
+      "IPA": "/ˈpliːnəri/",
+      "Bangla phonetic": "প্লিনারি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্ণাঙ্গ (অধিবেশন); সকল সদস্যের উপস্থিতিতে অনুষ্ঠিত",
+      "English definition": "Attended by all members; a full session of a body.",
+      "Synonyms": "full; general; assembly-wide",
+      "Antonyms": "partial; committee-level",
+      "Word family / derivatives": "plenary session; plenary meeting",
+      "Collocations / patterns": "plenary session; plenary meeting; plenary address",
+      "Original example": "The protocol was signed by the co-chairpersons of the Russian and Bangladeshi sides following the commission's plenary session, which brought together government officials and business representatives from both countries.",
+      "Newspaper context note": "The Russia-Bangladesh protocol was signed after the commission's plenary session.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Russia, Bangladesh sign protocol to boost trade, economic cooperation",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/russia-bangladesh-sign-protocol-boost-trade-economic-cooperation-1597881",
+      "BCS / Bank relevance": "Formal conference and diplomacy term for BCS/Bank English.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "intergovernmental",
+      "IPA": "/ˌɪntəɡʌvənˈmentl/",
+      "Bangla phonetic": "ইন্টারগভার্নমেন্টাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আন্তঃসরকারি",
+      "English definition": "Involving or between two or more governments.",
+      "Synonyms": "inter-state; bilateral; multilateral",
+      "Antonyms": "domestic; internal",
+      "Word family / derivatives": "intergovernmental commission; intergovernmental body",
+      "Collocations / patterns": "intergovernmental commission; intergovernmental agreement; intergovernmental panel",
+      "Original example": "Russia and Bangladesh have signed the protocol of the 5th meeting of the Intergovernmental Commission (IGC) on Trade, Economic, Scientific and Technical Cooperation, outlining areas for further bilateral engagement and joint projects recently.",
+      "Newspaper context note": "The Russia-Bangladesh protocol came from the 5th meeting of their Intergovernmental Commission.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Russia, Bangladesh sign protocol to boost trade, economic cooperation",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/russia-bangladesh-sign-protocol-boost-trade-economic-cooperation-1597881",
+      "BCS / Bank relevance": "Key international-relations adjective for BCS foreign-affairs vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "recovery",
+      "IPA": "/rɪˈkʌvəri/",
+      "Bangla phonetic": "রিকভারি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পুনরুদ্ধার; ঘুরে দাঁড়ানো",
+      "English definition": "A return to a normal or better state after a decline.",
+      "Synonyms": "rebound; revival; improvement",
+      "Antonyms": "decline; relapse; collapse",
+      "Word family / derivatives": "recover (verb); recovered (adjective)",
+      "Collocations / patterns": "economic recovery; led the recovery; recovery in manufacturing",
+      "Original example": "Bangladesh's economic activities returned to expansion in October after two consecutive months of contraction, with the country's overall Purchasing Managers' Index (PMI) rising 3.2 points to 51.8, driven by stronger agricultural performance and a recovery in manufacturing, construction and services.",
+      "Newspaper context note": "The October PMI rebound was driven by agriculture and a recovery in manufacturing, construction and services.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh economy returns to expansion after two months of contraction: PMI",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-economy-returns-expansion-after-two-months-contraction-pmi-1597906",
+      "BCS / Bank relevance": "Core economics term for Bank exams and BCS economy questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "validation",
+      "IPA": "/ˌvælɪˈdeɪʃn/",
+      "Bangla phonetic": "ভ্যালিডেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বৈধতা প্রদান; অনুমোদন; স্বীকৃতি",
+      "English definition": "Official confirmation that something is valid or approved.",
+      "Synonyms": "endorsement; approval; ratification",
+      "Antonyms": "rejection; invalidation",
+      "Word family / derivatives": "validate (verb); valid (adjective); validity (noun)",
+      "Collocations / patterns": "validation of the plan; validation workshop; formal validation",
+      "Original example": "The Government of Bangladesh has taken an important step towards strengthening national efforts on eye health with the validation of the Multisectoral Action Plan for Eye Health in Bangladesh (2027–2029) at a national workshop held on Sunday at Hotel InterContinental, Dhaka, reports a press release.",
+      "Newspaper context note": "Bangladesh validated its Multisectoral Action Plan for Eye Health (2027–2029) at a Dhaka workshop.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Bangladesh validates Multisectoral Action Plan for eye health",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/corporate/local/zwozwfb7jc",
+      "BCS / Bank relevance": "Policy and administration vocabulary for BCS/Bank English.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "decent",
+      "IPA": "/ˈdiːsnt/",
+      "Bangla phonetic": "ডিসেন্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "শালীন; মানসম্মত; ভদ্র",
+      "English definition": "Good enough; of an acceptable standard.",
+      "Synonyms": "adequate; respectable; reasonable",
+      "Antonyms": "indecent; inadequate; poor",
+      "Word family / derivatives": "decency (noun); decently (adverb)",
+      "Collocations / patterns": "decent standard of living; decent wage; decent work",
+      "Original example": "He said a worker needed Tk 45,000 to Tk 60,000 a month to maintain a decent standard of living for a family of four, taking into account nutritional needs, calorie requirements, housing, healthcare and education costs.",
+      "Newspaper context note": "The workers' side said a garment worker needs Tk45,000–60,000 a month for a decent standard of living.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Workers' side seeks Tk 32,000 minimum wage in RMG sector",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/2lf94gm4m6",
+      "BCS / Bank relevance": "Common in labour-economics and essay writing; BCS/Bank vocabulary staple.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "classified",
+      "IPA": "/ˈklæsɪfaɪd/",
+      "Bangla phonetic": "ক্লাসিফায়েড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "শ্রেণিকৃত (ঋণ); খেলাপি হিসেবে চিহ্নিত",
+      "English definition": "Officially put into a category; in banking, a loan marked as bad or doubtful.",
+      "Synonyms": "categorised; non-performing; doubtful",
+      "Antonyms": "performing; standard; unclassified",
+      "Word family / derivatives": "classify (verb); classification (noun)",
+      "Collocations / patterns": "classified investments; classified loans; classified assets",
+      "Original example": "As the exposure is spread across 22 public and private banks, including several of their subsidiaries, it has raised concerns about a potential increase in classified investments across the financial sector if the repayment crisis leads to a default.",
+      "Newspaper context note": "A Beximco Sukuk default could raise classified investments across 22 banks.",
+      "Source publication": "The Business Standard",
+      "Article headline": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941",
+      "BCS / Bank relevance": "Essential Bank-exam banking term; classified loans are a standard question topic.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "threshold",
+      "IPA": "/ˈθreʃhəʊld/",
+      "Bangla phonetic": "থ্রেশহোল্ড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সীমা; প্রান্ত; চৌকাঠ",
+      "English definition": "The level or point at which something begins or changes.",
+      "Synonyms": "limit; boundary; cutoff point",
+      "Antonyms": "baseline; floor",
+      "Word family / derivatives": "threshold level; cross the threshold",
+      "Collocations / patterns": "cross the threshold; billion-dollar threshold; poverty threshold",
+      "Original example": "Despite these challenges, nine industrial groups in Bangladesh crossed the one billion dollar threshold in import and export trade, including customs duties and taxes.",
+      "Newspaper context note": "Nine industrial groups crossed the one-billion-dollar threshold in 2025–26.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Nine industrial groups join the billion-dollar club",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/business/local/41c6z4nf47",
+      "BCS / Bank relevance": "Economics and statistics vocabulary for BCS/Bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "unanimously",
+      "IPA": "/juːˈnænɪməsli/",
+      "Bangla phonetic": "ইউন্যানিমাসলি",
+      "Part of speech / type": "Adverb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সর্বসম্মতভাবে",
+      "English definition": "With the agreement of everyone involved.",
+      "Synonyms": "without dissent; with one voice; by consensus",
+      "Antonyms": "by majority; with dissent",
+      "Word family / derivatives": "unanimous (adjective); unanimity (noun)",
+      "Collocations / patterns": "decided unanimously; granted unanimously; approved unanimously",
+      "Original example": "They had requested seven working days, but the board unanimously granted them four days.",
+      "Newspaper context note": "The Minimum Wage Board unanimously granted employers four days to submit their wage proposal.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Workers' side seeks Tk 32,000 minimum wage in RMG sector",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/2lf94gm4m6",
+      "BCS / Bank relevance": "Formal adverb for meeting and decision vocabulary in BCS/Bank English.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "re-scrutiny",
+      "IPA": "/riːˈskruːtɪni/",
+      "Bangla phonetic": "রি-স্ক্রুটিনি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনঃনিরীক্ষা; আবার যাচাই",
+      "English definition": "A second careful examination of something, such as exam papers.",
+      "Synonyms": "re-check; re-examination; review",
+      "Antonyms": "cursory glance; neglect",
+      "Word family / derivatives": "scrutinise (verb); scrutiny (noun)",
+      "Collocations / patterns": "results after re-scrutiny; apply for re-scrutiny; re-scrutiny of papers",
+      "Original example": "However, students whose results change following re-scrutiny and re-evaluation of their examination papers, with revised results due to be published on 23 November, will be allowed to apply, he said.",
+      "Newspaper context note": "Dhaka University will still admit students whose results change after re-scrutiny on 23 November.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka University rejects UGC’s call, keeps admission tests on schedule",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/bl3nuzg608",
+      "BCS / Bank relevance": "Examination-system term directly relevant to BCS/Bank education questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "knitwear",
+      "IPA": "/ˈnɪtweər/",
+      "Bangla phonetic": "নিটওয়্যার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বোনা পোশাক (সোয়েটার, টি-শার্ট ইত্যাদি)",
+      "English definition": "Knitted garments such as sweaters and T-shirts.",
+      "Synonyms": "knitted garments; hosiery",
+      "Antonyms": "woven garments",
+      "Word family / derivatives": "knit (verb); knitted (adjective)",
+      "Collocations / patterns": "knitwear exporters; knitwear industry; knitwear factories",
+      "Original example": "Yarn is a major raw material for the garment industry, particularly knitwear exporters, who largely rely on imports under duty-free bond facilities.",
+      "Newspaper context note": "Knitwear exporters rely heavily on duty-free yarn imports under bond facilities.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926",
+      "BCS / Bank relevance": "RMG-sector term for Bank exams and BCS economy vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bond",
+      "IPA": "/bɒnd/",
+      "Bangla phonetic": "বন্ড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বন্ড (শুল্কমুক্ত আমদানি সুবিধা); ঋণপত্র",
+      "English definition": "A customs arrangement allowing duty-free import of raw materials for export production; also a debt security.",
+      "Synonyms": "bonded facility; customs bond",
+      "Antonyms": "cash payment; duty-paid import",
+      "Word family / derivatives": "bonded (adjective); bond facility",
+      "Collocations / patterns": "under bond facilities; bond facility; bonded warehouse",
+      "Original example": "Garment exporters and local textile mill owners have presented opposing arguments to Prime Minister Tarique Rahman over restrictions on yarn imports under bond facilities, prompting him to direct a committee led by the commerce minister to submit recommendations for resolving the dispute by 20 November.",
+      "Newspaper context note": "The yarn row is about restrictions on imports under bond facilities.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926",
+      "BCS / Bank relevance": "Customs and trade term; also a core finance word for Bank exams.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bureaucratic",
+      "IPA": "/ˌbjʊərəˈkrætɪk/",
+      "Bangla phonetic": "বিউরোক্র্যাটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আমলাতান্ত্রিক; দাপ্তরিক জটিলতাপূর্ণ",
+      "English definition": "Relating to an administrative system with many rules and procedures, often causing delay.",
+      "Synonyms": "administrative; procedural; official; rule-bound",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "bureaucracy; bureaucrat; bureaucratically",
+      "Collocations / patterns": "bureaucratic delay; bureaucratic hurdles; bureaucratic procedure",
+      "Original example": "A single digital window could reduce bureaucratic delays for new investors.",
+      "Newspaper context note": "Used in reporting on the proposed overhaul of business approvals to describe delays created by administrative procedures.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful in governance, public administration, investment-climate essays and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "overhaul",
+      "IPA": "/ˌəʊvəˈhɔːl/",
+      "Bangla phonetic": "ওভারহল",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ব্যাপক সংস্কার; আমূল পুনর্গঠন করা",
+      "English definition": "A thorough examination and major improvement or restructuring of a system.",
+      "Synonyms": "revamp; reform; restructure; rework; renovate",
+      "Antonyms": "preserve; maintain; retain; leave unchanged",
+      "Word family / derivatives": "overhauled; overhauling; overhaul (noun/verb)",
+      "Collocations / patterns": "major overhaul; overhaul the system; regulatory overhaul",
+      "Original example": "The proposed overhaul of business approvals aims to reduce the time needed to start a company.",
+      "Newspaper context note": "The article describes a major overhaul of Bangladesh's investment-approval regime.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "A strong formal verb/noun for précis, policy writing and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "statutory",
+      "IPA": "/ˈstætʃətəri/",
+      "Bangla phonetic": "স্ট্যাচুটরি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আইননির্ধারিত; আইনগতভাবে বাধ্যতামূলক",
+      "English definition": "Required, created or regulated by law.",
+      "Synonyms": "legal; legislated; mandated; law-based",
+      "Antonyms": "unlawful; illegal; non-statutory",
+      "Word family / derivatives": "statute; statutorily; statutory",
+      "Collocations / patterns": "statutory requirement; statutory document; statutory obligation",
+      "Original example": "Investors must obtain the statutory documents required before a business can operate.",
+      "Newspaper context note": "The article says investors need 12 statutory documents and proposes simplifying the process for obtaining them.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "High-value legal and governance vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "prerequisite",
+      "IPA": "/ˌpriːˈrekwəzɪt/",
+      "Bangla phonetic": "প্রি-রেকুইজিট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্বশর্ত; আবশ্যিক শর্ত",
+      "English definition": "Something that must exist or be completed before something else can happen.",
+      "Synonyms": "precondition; requirement; prior condition; essential condition",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "requisite; prerequisite; prerequisites",
+      "Collocations / patterns": "essential prerequisite; prerequisite for; prerequisite to",
+      "Original example": "Reliable electricity is a prerequisite for expanding energy-intensive manufacturing.",
+      "Newspaper context note": "The business-approval article says the government plans to reduce the number of prerequisites for starting industrial operations.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful for sentence completion, formal writing and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "streamline",
+      "IPA": "/ˈstriːmlaɪn/",
+      "Bangla phonetic": "স্ট্রিমলাইন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রক্রিয়া সরল ও কার্যকর করা; সহজতর করা",
+      "English definition": "To make a process simpler, faster and more efficient.",
+      "Synonyms": "simplify; rationalise; optimise; improve",
+      "Antonyms": "complicate; obstruct; impede; hamper",
+      "Word family / derivatives": "streamlined; streamlining; streamline",
+      "Collocations / patterns": "streamline procedures; streamline operations; streamline approvals",
+      "Original example": "The authority plans to streamline approval procedures by processing applications in parallel.",
+      "Newspaper context note": "The article describes a proposed digital platform and parallel processing to streamline business approvals.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Very useful in essays and précis on public-service delivery, banking operations and reform.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "minimum wage",
+      "Type": "Collocation (labour / economics)",
+      "Bangla meaning": "সর্বনিম্ন মজুরি",
+      "English explanation": "The lowest wage an employer is legally allowed to pay workers, usually set by a government wage board.",
+      "Usage / register": "Formal / labour and economy",
+      "Original example 1": "However, considering the industry's capacity and the overall situation, they had proposed setting the minimum wage at Tk 32,000 for Grade 4 workers.",
+      "Original example 2": "It has also proposed setting the minimum wage at Tk 30,000 for new or apprentice workers.",
+      "Common collocations / grammar pattern": "minimum wage board; minimum wage for Grade 4 workers; revise the minimum wage",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Workers' side seeks Tk 32,000 minimum wage in RMG sector",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/2lf94gm4m6",
+      "Exam value": "Core labour-economics term for BCS/Bank exams; the RMG wage board is live news."
+    },
+    {
+      "Phrase": "duty-free",
+      "Type": "Compound adjective",
+      "Bangla meaning": "শুল্কমুক্ত",
+      "English explanation": "Without import duty or customs tax.",
+      "Usage / register": "Formal / trade English",
+      "Original example 1": "Yarn is a major raw material for the garment industry, particularly knitwear exporters, who largely rely on imports under duty-free bond facilities.",
+      "Original example 2": "The government imposed restrictions on yarn imports under bond facilities, replacing the previous duty-free arrangement with a bank guarantee equivalent to the value of imported yarn.",
+      "Common collocations / grammar pattern": "duty-free imports; duty-free bond facilities; duty-free arrangement",
+      "Source publication": "The Business Standard",
+      "Article headline": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926",
+      "Exam value": "Standard trade-policy adjective for BCS/Bank economy English."
+    },
+    {
+      "Phrase": "billion-dollar club",
+      "Type": "Compound noun",
+      "Bangla meaning": "বিলিয়ন ডলার ক্লাব",
+      "English explanation": "A group of companies whose annual trade reaches at least one billion dollars.",
+      "Usage / register": "Newspaper / business English",
+      "Original example 1": "As a result, its trade volume fell below the billion-dollar club's threshold of one billion dollar.",
+      "Original example 2": "The nine industrial groups that joined the billion-dollar club in import and export trade by the end of the last financial year are Meghna Group of Industries (MGI), PRAN-RFL Group, South Korea's Youngone Corporation, Abul Khair Group, Square Group, BSRM, TK Group, Khair Kashem Group and Ha-Meem Group.",
+      "Common collocations / grammar pattern": "join the billion-dollar club; member of the billion-dollar club; fall out of the club",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Nine industrial groups join the billion-dollar club",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/business/local/41c6z4nf47",
+      "Exam value": "Business-press term for questions on industrial groups and trade."
+    },
+    {
+      "Phrase": "green sukuk",
+      "Type": "Collocation (Islamic finance)",
+      "Bangla meaning": "সবুজ সুকুক; পরিবেশবান্ধব ইসলামি বন্ড",
+      "English explanation": "A Shariah-compliant bond whose proceeds fund environmentally friendly projects.",
+      "Usage / register": "Formal / Islamic finance English",
+      "Original example 1": "Beximco's Tk2,800 crore Green Sukuk faces repayment deadline in December.",
+      "Original example 2": "The Investment Corporation of Bangladesh (ICB), trustee of Beximco's Green Sukuk, is facing a dilemma over the repayment of the bond's outstanding Tk2,800 crore balance as the five-year Islamic investment instrument approaches maturity next month.",
+      "Common collocations / grammar pattern": "Green Sukuk; Shariah-compliant Green Sukuk; sukuk holders",
+      "Source publication": "The Business Standard",
+      "Article headline": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941",
+      "Exam value": "Key Islamic-finance term for Bank exams."
+    },
+    {
+      "Phrase": "strong expansion",
+      "Type": "Collocation (economics)",
+      "Bangla meaning": "শক্তিশালী সম্প্রসারণ; জোরালো বৃদ্ধি",
+      "English explanation": "A sharp, clear increase in economic activity.",
+      "Usage / register": "Formal / economics English",
+      "Original example 1": "Input prices also recorded strong expansion, indicating persistent cost pressures.",
+      "Original example 2": "However, new business and construction activity remained in contraction, while input costs recorded strong expansion.",
+      "Common collocations / grammar pattern": "record strong expansion; strong expansion in input prices; strong expansion of demand",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh economy returns to expansion after two months of contraction: PMI",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-economy-returns-expansion-after-two-months-contraction-pmi-1597906",
+      "Exam value": "PMI-reporting collocation for Bank/BCS economics."
+    },
+    {
+      "Phrase": "under bond",
+      "Type": "Prepositional phrase (customs)",
+      "Bangla meaning": "বন্ড সুবিধার আওতায়",
+      "English explanation": "Under a customs bond arrangement allowing duty-free import for export production.",
+      "Usage / register": "Formal / trade English",
+      "Original example 1": "Garment exporters and local textile mill owners have presented opposing arguments to Prime Minister Tarique Rahman over restrictions on yarn imports under bond facilities, prompting him to direct a committee led by the commerce minister to submit recommendations for resolving the dispute by 20 November.",
+      "Original example 2": "They also allege that some exporters import yarn under bond facilities but sell it in the domestic market instead of using it to manufacture garments for export.",
+      "Common collocations / grammar pattern": "imports under bond; yarn under bond; goods under bond facilities",
+      "Source publication": "The Business Standard",
+      "Article headline": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926",
+      "Exam value": "Customs and RMG-trade phrase for Bank exams."
+    },
+    {
+      "Phrase": "supply chain",
+      "Type": "Compound noun",
+      "Bangla meaning": "সরবরাহ শৃঙ্খল",
+      "English explanation": "The sequence of processes and firms involved in producing and delivering a product.",
+      "Usage / register": "Formal / business English",
+      "Original example 1": "Comprehending it requires tracing the physical supply chain, decoding the nature of money flows, and examining the geopolitical tug-of-war between the rival superpowers.",
+      "Original example 2": "The global supply chain divides into an interdependent hierarchy of specialists.",
+      "Common collocations / grammar pattern": "physical supply chain; global supply chain; supply-chain disruption",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587",
+      "Exam value": "Core modern-economics term for BCS/Bank English."
+    },
+    {
+      "Phrase": "death sentence",
+      "Type": "Collocation (legal)",
+      "Bangla meaning": "মৃত্যুদণ্ড",
+      "English explanation": "A court punishment of death for a serious crime.",
+      "Usage / register": "Formal / legal English",
+      "Original example 1": "A Bangladeshi war-crimes court sentenced her to death last November in her absence for ordering a deadly crackdown on the student-led uprising.",
+      "Original example 2": "Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown.",
+      "Common collocations / grammar pattern": "hand down a death sentence; face a death sentence; death sentence in absentia",
+      "Source publication": "Daily Sabah",
+      "Article headline": "Hasina asks for new passport only to be denied by Bangladesh govt",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZmZDhZdXAzWTA5WThBd0oxMXhNUkVTWUp1WkJFQkszSHNQczFRa1Fvb3VGSl9DVkdZaVRzcnRlWVltZWh0T21TRlZiUE44RkFEekVPSklMM0NWaGJvNUxmNGtnaFVwcUtJeV9KVlRrWngyZ1p6Uy0tTkZvQ25peG9sTDE3clQyb0ROMWktOWUtMGE2N3J3a3VJcDh5cDdqam1MRFJrWE1RbVVWQXhCcdIBtgFBVV95cUxOMWM0clgzbXFmd1AyTXREOXZHa0p6em03VTVzLWwwVUNkOW9HeGl2Ry1iUkhxN0VyYkJzMUFsZmVMREZ3emczaV9nZkV2LTIzelV0dEFqcEZTZUIyWjlydER3RThpZVJ3ZDhzeU9VS05VXy04elJIRmxDZE01T2w4cUNURF9KUU13Q2lrQzQ0eU1RR0RraEtaeWNUSDJsaGVDVXctVU9lLW5sdV9UdnkwdWFpRWRjdw?oc=5",
+      "Exam value": "Standard legal collocation for BCS/Bank English."
+    },
+    {
+      "Phrase": "political posturing",
+      "Type": "Collocation",
+      "Bangla meaning": "রাজনৈতিক ভান; লোক দেখানো রাজনীতি",
+      "English explanation": "Behaving in a political way mainly to impress people rather than to achieve anything.",
+      "Usage / register": "Newspaper / political English",
+      "Original example 1": "Chief prosecutor Md Aminul Islam said Hasina's recent activities, as reported by various media outlets, were merely political posturing.",
+      "Original example 2": "For now, our comment is that she will not return and that these activities are political posturing.",
+      "Common collocations / grammar pattern": "merely political posturing; political posturing by the opposition; empty posturing",
+      "Source publication": "The Times of India",
+      "Article headline": "'Merely political posturing': Bangladesh says Hasina has no intention of returning from India",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://timesofindia.indiatimes.com/world/south-asia/merely-political-posturing-bangladesh-says-hasina-has-no-intention-of-returning-from-india/articleshow/135677411.cms",
+      "Exam value": "Political-commentary phrase for BCS current-affairs English."
+    },
+    {
+      "Phrase": "order backlog",
+      "Type": "Collocation (economics)",
+      "Bangla meaning": "অপেক্ষমাণ অর্ডারের স্তূপ; বকেয়া অর্ডার",
+      "English explanation": "Orders received but not yet fulfilled; a pile-up of unfilled orders.",
+      "Usage / register": "Formal / economics English",
+      "Original example 1": "New business, business activity and employment continued to expand, while the order backlogs index also returned to expansion.",
+      "Original example 2": "However, new orders, new export orders and factory output remained in contraction, while the order backlogs index continued to show sharp contraction.",
+      "Common collocations / grammar pattern": "order backlogs index; growing order backlog; clear the order backlog",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh economy returns to expansion after two months of contraction: PMI",
+      "Publication date": "2026-11-09",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-economy-returns-expansion-after-two-months-contraction-pmi-1597906",
+      "Exam value": "PMI-reporting term for Bank/BCS economics vocabulary."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'bottleneck' most nearly means:",
+      "options": {
+        "A": "A narrow point that slows down a whole process or system",
+        "B": "A sudden increase in demand",
+        "C": "A container used for storing liquids",
+        "D": "A wide road that speeds up traffic"
+      },
+      "correct": "A",
+      "explanation": "A bottleneck is a narrow point that slows down a whole process — here, chip foundries slow the AI supply chain.",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "In the AI-finance column, TSMC is called a 'chokepoint' because it:",
+      "options": {
+        "A": "Controls the advanced chip manufacturing on which almost every tech company depends",
+        "B": "Sells memory chips to phone makers",
+        "C": "Designs chips for Nvidia and AMD",
+        "D": "Writes the software that runs AI models"
+      },
+      "correct": "A",
+      "explanation": "TSMC owns the most advanced fabs; if its manufacturing paused, the global AI revolution would halt.",
+      "source": "CA01"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'staggering' most nearly means:",
+      "options": {
+        "A": "Happening in small, regular steps",
+        "B": "Difficult to measure accurately",
+        "C": "Slightly disappointing and below expectations",
+        "D": "So large or surprising that it is hard to believe"
+      },
+      "correct": "D",
+      "explanation": "Staggering figures are so large they are hard to believe — here, hundreds of billions of dollars pledged for AI.",
+      "source": "CA01"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "Choose the correct synonym of 'interdependent':",
+      "options": {
+        "A": "Unrelated",
+        "B": "Isolated",
+        "C": "Mutually dependent",
+        "D": "Self-sufficient"
+      },
+      "correct": "C",
+      "explanation": "Interdependent means depending on each other — the AI supply chain is an interdependent hierarchy of specialists.",
+      "source": "CA01"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'gatekeeper' most nearly means:",
+      "options": {
+        "A": "A person or company that controls access to something important",
+        "B": "A customer who buys goods at a gate price",
+        "C": "A worker who guards a building at night",
+        "D": "A lawyer who defends companies in court"
+      },
+      "correct": "A",
+      "explanation": "Gatekeepers control access — a handful of chip firms became gatekeepers of technological futures.",
+      "source": "CA01"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "ICB is 'facing a dilemma' over the Beximco Sukuk because:",
+      "options": {
+        "A": "It cannot recover the full amount by maturity, yet cannot declare a default while yields are still being paid",
+        "B": "It has sold the Teesta Solar project",
+        "C": "The Sukuk was fully repaid in 2021",
+        "D": "It has already declared Beximco in default"
+      },
+      "correct": "A",
+      "explanation": "ICB lacks legal grounds to declare default because yield payments continue from Teesta Solar cash flows, but full recovery by 23 December is uncertain.",
+      "source": "CA13"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "The word 'expeditiously' most nearly means:",
+      "options": {
+        "A": "Reluctantly and under pressure",
+        "B": "Slowly and with delay",
+        "C": "Secretly and without records",
+        "D": "Quickly and efficiently"
+      },
+      "correct": "D",
+      "explanation": "Expeditiously means quickly and efficiently — Hasina's letter asked her request be processed expeditiously.",
+      "source": "CA02"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "A 'counterpart' is:",
+      "options": {
+        "A": "A person who disagrees with you in public",
+        "B": "A bank account held in a foreign currency",
+        "C": "A person holding a similar position in another organisation or country",
+        "D": "A junior employee in the same office"
+      },
+      "correct": "C",
+      "explanation": "A counterpart holds a similar position elsewhere — Russia thanked its Bangladeshi counterparts after the IGC meeting.",
+      "source": "CA03"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "A 'plenary session' is a session:",
+      "options": {
+        "A": "Attended by all members of a body",
+        "B": "Attended by only the senior members",
+        "C": "Held behind closed doors",
+        "D": "Cancelled at the last minute"
+      },
+      "correct": "A",
+      "explanation": "Plenary means attended by all members — the IGC protocol was signed after the commission's plenary session.",
+      "source": "CA03"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "The word 'recovery' in the PMI report most nearly means:",
+      "options": {
+        "A": "The collection of unpaid debts",
+        "B": "A government rescue package for banks",
+        "C": "A fall in prices after inflation",
+        "D": "A return to a normal or better state after a decline"
+      },
+      "correct": "D",
+      "explanation": "Recovery is a return to a better state — the economy recovered with a rebound in manufacturing, construction and services.",
+      "source": "CA08"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "What is a 'minimum wage'?",
+      "options": {
+        "A": "The average wage across all industries",
+        "B": "The lowest wage an employer is legally allowed to pay workers",
+        "C": "The highest salary a company may pay its workers",
+        "D": "A bonus paid for overtime work"
+      },
+      "correct": "B",
+      "explanation": "A minimum wage is the legal wage floor — the workers' side proposed Tk 32,000 for Grade 4 RMG workers at the Minimum Wage Board.",
+      "source": "CA12"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "What is a 'green sukuk'?",
+      "options": {
+        "A": "A loan given to farmers for green agriculture",
+        "B": "A share listed on the Dhaka Stock Exchange",
+        "C": "A Shariah-compliant bond funding environmentally friendly projects",
+        "D": "A government bond sold only to foreign investors"
+      },
+      "correct": "C",
+      "explanation": "A green sukuk is a Shariah-compliant bond for green projects — Beximco's Tk3,000 crore Green Sukuk was the country's first private-sector one.",
+      "source": "CA13"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "According to columnist Sajed ul Islam, which company is the 'critical chokepoint' of the AI industry?",
+      "options": {
+        "A": "Nvidia",
+        "B": "TSMC",
+        "C": "Samsung",
+        "D": "Micron Technology"
+      },
+      "correct": "B",
+      "explanation": "The column argues TSMC, which owns the most advanced fabs in Taiwan, is the critical chokepoint of AI manufacturing.",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "What did Sheikh Hasina ask Bangladesh for on 9 November 2026?",
+      "options": {
+        "A": "Release of jailed Awami League leaders",
+        "B": "Asylum in a third country",
+        "C": "A new passport and national identity card to return from exile in India",
+        "D": "A seat in the next parliament"
+      },
+      "correct": "C",
+      "explanation": "Hasina requested a new passport and NID so she could return from exile in India in December and surrender to a court.",
+      "source": "CA02"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "The Russia-Bangladesh protocol signed in November 2026 came from which meeting?",
+      "options": {
+        "A": "The 1st Bangladesh-Russia Business Forum",
+        "B": "The 5th meeting of the Intergovernmental Commission on Trade, Economic, Scientific and Technical Cooperation",
+        "C": "The 3rd meeting of the Joint Economic Council",
+        "D": "The annual BRICS summit"
+      },
+      "correct": "B",
+      "explanation": "The protocol was from the 5th meeting of the Intergovernmental Commission (IGC) on Trade, Economic, Scientific and Technical Cooperation.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "Bangladesh Bank raised the overseas medical treatment remittance limit without prior approval from $15,000 to:",
+      "options": {
+        "A": "$25,000",
+        "B": "$30,000",
+        "C": "$50,000",
+        "D": "$20,000"
+      },
+      "correct": "B",
+      "explanation": "The limit was doubled from $15,000 to $30,000 in the 9 November circular.",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "Bangladesh validated its Multisectoral Action Plan for Eye Health for which years?",
+      "options": {
+        "A": "2026-2028",
+        "B": "2025-2027",
+        "C": "2028-2030",
+        "D": "2027-2029"
+      },
+      "correct": "D",
+      "explanation": "The Multisectoral Action Plan for Eye Health covers 2027-2029 and was validated at a Dhaka workshop on 8 November.",
+      "source": "CA06"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "Where is the COP31 World Leaders' Summit being held on 11-12 November 2026?",
+      "options": {
+        "A": "Dhaka, Bangladesh",
+        "B": "Ankara, Turkiye",
+        "C": "Istanbul, Turkiye",
+        "D": "Antalya, Turkiye"
+      },
+      "correct": "D",
+      "explanation": "COP31's World Leaders' Summit is in Antalya, Turkiye, on 11-12 November; PM Tarique Rahman delivers Bangladesh's statement on 12 November.",
+      "source": "CA07"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "What was Bangladesh's overall PMI in October 2026?",
+      "options": {
+        "A": "48.6",
+        "B": "51.8",
+        "C": "50.9",
+        "D": "61.2"
+      },
+      "correct": "B",
+      "explanation": "The overall PMI rose 3.2 points to 51.8 in October; 50.9 was manufacturing and 61.2 was agriculture.",
+      "source": "CA08"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "How many industrial groups joined the billion-dollar club in 2025-26?",
+      "options": {
+        "A": "Eleven",
+        "B": "Nine",
+        "C": "Seven",
+        "D": "Eight"
+      },
+      "correct": "B",
+      "explanation": "Nine groups crossed the one-billion-dollar threshold in 2025-26, up from eight in 2024-25.",
+      "source": "CA09"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "Bangladesh Bank's minimum-cash-margin directive for Ramadan imports remains in force until:",
+      "options": {
+        "A": "31 December 2026",
+        "B": "15 January 2027",
+        "C": "15 March 2027",
+        "D": "31 March 2026"
+      },
+      "correct": "C",
+      "explanation": "The directive remains in force until 15 March 2027 under Section 45 of the Bank Company Act.",
+      "source": "CA10"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "When do this year's HSC supplementary examinations begin?",
+      "options": {
+        "A": "18 December 2026",
+        "B": "5 December 2026",
+        "C": "1 December 2026",
+        "D": "25 November 2026"
+      },
+      "correct": "C",
+      "explanation": "The supplementary examinations begin on 1 December 2026 — which is why their passers cannot sit DU admission tests, whose applications close on 25 November.",
+      "source": "CA11"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "What minimum monthly wage did the workers' side propose for RMG Grade 4 workers?",
+      "options": {
+        "A": "Tk32,000",
+        "B": "Tk45,000",
+        "C": "Tk30,000",
+        "D": "Tk60,000"
+      },
+      "correct": "A",
+      "explanation": "The workers' side proposed Tk32,000 a month for Grade 4 workers (Tk30,000 for apprentices); Tk45,000-60,000 is what a family of four needs to live decently.",
+      "source": "CA12"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "By when must Beximco repay the outstanding Tk2,800 crore of its Green Sukuk?",
+      "options": {
+        "A": "23 November 2026",
+        "B": "30 November 2026",
+        "C": "31 March 2027",
+        "D": "23 December 2026"
+      },
+      "correct": "D",
+      "explanation": "The remaining Tk2,800 crore is due to sukuk holders by 23 December 2026.",
+      "source": "CA13"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "By when did the Prime Minister direct the committee to propose a solution to the yarn-import row?",
+      "options": {
+        "A": "1 December 2026",
+        "B": "20 November 2026",
+        "C": "15 November 2026",
+        "D": "9 November 2026"
+      },
+      "correct": "B",
+      "explanation": "The committee led by the commerce minister must submit its recommendations by 20 November 2026.",
+      "source": "CA14"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Demystifying AI finance: The supply chain, capital flows, and global rivalry",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/2fpbttm587"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Yahoo",
+      "Headline / report": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.yahoo.com/news/world/articles/ousted-pm-sheikh-hasina-seeks-071209528.html"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Daily Sabah",
+      "Headline / report": "Hasina asks for new passport only to be denied by Bangladesh govt | Daily Sabah - Daily Sabah",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEZmZDhZdXAzWTA5WThBd0oxMXhNUkVTWUp1WkJFQkszSHNQczFRa1Fvb3VGSl9DVkdZaVRzcnRlWVltZWh0T21TRlZiUE44RkFEekVPSklMM0NWaGJvNUxmNGtnaFVwcUtJeV9KVlRrWngyZ1p6Uy0tTkZvQ25peG9sTDE3clQyb0ROMWktOWUtMGE2N3J3a3VJcDh5cDdqam1MRFJrWE1RbVVWQXhCcdIBtgFBVV95cUxOMWM0clgzbXFmd1AyTXREOXZHa0p6em03VTVzLWwwVUNkOW9HeGl2Ry1iUkhxN0VyYkJzMUFsZmVMREZ3emczaV9nZkV2LTIzelV0dEFqcEZTZUIyWjlydER3RThpZVJ3ZDhzeU9VS05VXy04elJIRmxDZE01T2w4cUNURF9KUU13Q2lrQzQ0eU1RR0RraEtaeWNUSDJsaGVDVXctVU9lLW5sdV9UdnkwdWFpRWRjdw?oc=5"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "Reuters",
+      "Headline / report": "Sheikh Hasina seeks new passport to return to Bangladesh, government denies request",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.reuters.com/world/asia-pacific/hasina-seeks-new-passport-clearest-sign-bangladesh-return-2026-11-09/"
+    },
+    {
+      "Source ID": "S04",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "The message is loud and clear, we are on the streets, we must remain on the streets: PM",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/government/ra90vw5p5k"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Russia, Bangladesh sign protocol to boost trade, economic cooperation",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/russia-bangladesh-sign-protocol-boost-trade-economic-cooperation-1597881"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh Bank doubles overseas medical treatment remittance limit to $30,000",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/bangladesh-bank-doubles-overseas-medical-treatment-remittance-limit-30000-1597376"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BB doubles medical remittance limit to $30,000",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.thedailystar.net/business/news/bb-doubles-medical-remittance-limit-30000-4319231"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Times of India",
+      "Headline / report": "'Merely political posturing': Bangladesh says Hasina has no intention of returning from India",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://timesofindia.indiatimes.com/world/south-asia/merely-political-posturing-bangladesh-says-hasina-has-no-intention-of-returning-from-india/articleshow/135677411.cms"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Bangladesh validates Multisectoral Action Plan for eye health",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/corporate/local/zwozwfb7jc"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "PM leaves tomorrow for COP31 summit in Turkiye",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/5p6cdb71tn"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh economy returns to expansion after two months of contraction: PMI",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.tbsnews.net/economy/bangladesh-economy-returns-expansion-after-two-months-contraction-pmi-1597906"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Nine industrial groups join the billion-dollar club",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/business/local/41c6z4nf47"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://bdnews24.com/business/wo8kew8osq"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Dhaka University rejects UGC’s call, keeps admission tests on schedule",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/youth/education/bl3nuzg608"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Workers' side seeks Tk 32,000 minimum wage in RMG sector",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/2lf94gm4m6"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Yarn import row: PM asks committee to propose solution by 20 Nov",
+      "Publication date": "2026-11-09",
+      "Direct URL": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926"
+    }
+  ],
+  "approved_by": "Rudro",
+  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 4 (10 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-10/."
+}

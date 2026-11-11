@@ -1,0 +1,2341 @@
+{
+  "edition_date": "2026-11-06",
+  "edition_day": "Friday",
+  "coverage": "6 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-06",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-06",
+      "exam_facts": "Unrest began 1 November over demand for a Tk 30,000 minimum wage (current Tk 12,500); after five days, workers returned and production resumed; normalcy largely returned to Gazipur, Narayanganj and Mirpur; tensions persisted in parts of Ashulia and Savar; on Friday, about 35 percent of garment factories in Gazipur were open; some factories announced a two-day closure (Saturday is a government holiday).",
+      "exam_relevance": "High — RMG, labour unrest.",
+      "figures": "5 days of unrest; 35% of Gazipur factories open on Friday.",
+      "headline": "Garment unrest eases as workers return to work",
+      "id": "CA01",
+      "key_people": "Amjad Hossain, Superintendent, Gazipur Industrial Police.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Garment unrest eases as workers return to work",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816"
+        },
+        {
+          "date": "2026-11-06",
+          "headline": "One-third of garment factories open in Gazipur, situation normal: Police",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/economy/rmg/news/one-third-garment-factories-open-gazipur-situation-normal-police-4316956"
+        }
+      ],
+      "summary": "After five days of labour unrest, the situation eased on 6 November as workers returned to garment factories and production resumed across the industrial belts. Normalcy largely returned to Gazipur, Narayanganj and Mirpur, though tensions persisted in parts of Ashulia and Savar. On Friday, about 35 percent of garment factories in Gazipur were open, police said, and the overall situation was normal, with some factories announcing a two-day closure over the weekend.",
+      "why_it_matters": "The closing chapter of the week's unrest; the return to work and the Friday factory count show the crisis easing.",
+      "one_liner": "After five days of labour unrest, the situation eased on 6 November as workers returned to garment factories and production…",
+      "key_facts": [
+        {
+          "label": "days of unrest",
+          "value": "5",
+          "original": "5 days of unrest"
+        },
+        {
+          "label": "% of Gazipur factories open on…",
+          "value": "35",
+          "original": "35% of Gazipur factories open on Friday"
+        },
+        {
+          "label": "current Tk 12,500",
+          "value": "Unrest began 1 November over demand for a Tk 30,000 minimum wage",
+          "original": "Unrest began 1 November over demand for a Tk 30,000 minimum wage (current Tk 12,500)"
+        },
+        {
+          "label": "",
+          "value": "after five days, workers returned and production resumed",
+          "original": "after five days, workers returned and production resumed"
+        }
+      ],
+      "what_happened": [
+        "Normalcy largely returned to Gazipur, Narayanganj and Mirpur, though tensions persisted in parts of Ashulia and Savar.",
+        "On Friday, about 35 percent of garment factories in Gazipur were open, police said, and the overall situation was normal,",
+        "with some factories announcing a two-day closure over the weekend."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is % of Gazipur factories open on…?",
+          "a": "35"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "After five days of labour unrest, the situation eased on ______ as workers returned to garment factories and production resumed across the industrial belts.",
+          "answer": "6 November"
+        },
+        {
+          "cloze": "On Friday, about ______ percent of garment factories in Gazipur were open, police said, and the overall situation was normal, with some factories announcing a two-day closure over the weekend.",
+          "answer": "35"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "unrest",
+        "eases",
+        "workers",
+        "return",
+        "work"
+      ],
+      "detail": "After five days of labour unrest, the situation eased on 6 November as workers returned to garment factories and production resumed across the industrial belts. Normalcy largely returned to Gazipur, Narayanganj and Mirpur, though tensions persisted in parts of Ashulia and Savar. On Friday, about 35 percent of garment factories in Gazipur were open, police said, and the overall situation was normal, with some factories announcing a two-day closure over the weekend."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-06",
+      "exam_facts": "NBR asked banks to freeze accounts of more than 100 individuals and is scrutinising transactions of around 125 companies; Central Intelligence Cell and Income Tax Intelligence and Investigation Unit; NBR is not freezing company accounts, so business operations continue and workers' salaries are not affected; most named are linked to the ousted Awami League government (Tipu Munshi, Abdus Salam Murshedy, Shahriar Alam, Nasrul Hamid, Tajul Islam, SM Mannan Kochi).",
+      "exam_relevance": "High — NBR, money laundering, garment unrest.",
+      "figures": "100+ individuals; around 125 companies; 225 individuals and firms in total.",
+      "headline": "225 individuals and firms under NBR scanner over garment unrest",
+      "id": "CA02",
+      "key_people": "National Board of Revenue (NBR).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "225 individuals, firms under NBR scanner",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846"
+        }
+      ],
+      "summary": "The National Board of Revenue has asked banks to freeze the bank accounts of more than 100 individuals and is scrutinising the financial transactions of around 125 companies over allegations of financing unrest in the garment sector. The Central Intelligence Cell and the Income Tax Intelligence and Investigation Unit are tracing the accounts. The NBR said it is not freezing company accounts, so that business operations continue and workers' salaries are not affected. Most of those named are linked to the ousted Awami League government.",
+      "why_it_matters": "The financial crackdown is the state's main response to the unrest; the 225 total and the company-account distinction are the exam facts.",
+      "one_liner": "The National Board of Revenue has asked banks to freeze the bank accounts of more than 100 individuals and is…",
+      "key_facts": [
+        {
+          "label": "around companies",
+          "value": "125",
+          "original": "around 125 companies"
+        },
+        {
+          "label": "individuals and firms in total",
+          "value": "225",
+          "original": "225 individuals and firms in total"
+        },
+        {
+          "label": "NBR asked banks to freeze accounts…",
+          "value": "100",
+          "original": "NBR asked banks to freeze accounts of more than 100 individuals and is scrutinising transactions of around 125 companies"
+        },
+        {
+          "label": "Tipu Munshi, Abdus Salam Murshedy, Shahriar Alam, Nasrul Hamid, Tajul Islam, SM Mannan Kochi",
+          "value": "most named are linked to the ousted Awami League government",
+          "original": "most named are linked to the ousted Awami League government (Tipu Munshi, Abdus Salam Murshedy, Shahriar Alam, Nasrul Hamid, Tajul Islam, SM Mannan Kochi)"
+        }
+      ],
+      "what_happened": [
+        "The Central Intelligence Cell and the Income Tax Intelligence and Investigation Unit are tracing the accounts.",
+        "The NBR said it is not freezing company accounts, so that business operations continue and workers' salaries are not affected.",
+        "Most of those named are linked to the ousted Awami League government."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is around companies?",
+          "a": "125"
+        },
+        {
+          "q": "What is individuals and firms in total?",
+          "a": "225"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The National Board of Revenue has asked banks to freeze the bank accounts of more than ______ individuals and is scrutinising the financial transactions of around 125 companies over allegations of financing unrest in the garment sector.",
+          "answer": "100"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "individuals",
+        "firms",
+        "scanner",
+        "garment",
+        "unrest"
+      ],
+      "detail": "The National Board of Revenue has asked banks to freeze the bank accounts of more than 100 individuals and is scrutinising the financial transactions of around 125 companies over allegations of financing unrest in the garment sector. The Central Intelligence Cell and the Income Tax Intelligence and Investigation Unit are tracing the accounts. The NBR said it is not freezing company accounts, so that business operations continue and workers' salaries are not affected. Most of those named are linked to the ousted Awami League government."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Bangladesh",
+      "event_date": "2026-11-06",
+      "exam_facts": "3 deaths and 1,535 hospitalisations in 24 hours to 8am, 6 November; total deaths 455, total cases 145,906; 5,773 patients under treatment; two deaths in Dhaka division, one in Khulna; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "figures": "3 deaths in 24 hours; total deaths 455; total cases 145,906.",
+      "headline": "Three more die of dengue as toll reaches 455",
+      "id": "CA03",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "3 die, 1,535 hospitalised with dengue in 24 hours",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/3-die-1535-hospitalised-dengue-24-hours-4317161"
+        }
+      ],
+      "summary": "At least three dengue patients died and 1,535 others were hospitalised in 24 hours, taking the year's death toll to 455 and cases to 145,906, the Directorate General of Health Services said. Two deaths were reported in Dhaka division and one in Khulna. Currently 5,773 dengue patients are undergoing treatment in hospitals across the country.",
+      "why_it_matters": "The daily dengue toll is standard public-health data for general-knowledge exams.",
+      "one_liner": "At least three dengue patients died and 1,535 others were hospitalised in 24 hours, taking the year's death toll to…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "3",
+          "original": "3 deaths in 24 hours"
+        },
+        {
+          "label": "total deaths",
+          "value": "455",
+          "original": "total deaths 455"
+        },
+        {
+          "label": "total cases",
+          "value": "145,906",
+          "original": "total cases 145,906"
+        },
+        {
+          "label": "deaths and 1,535 hospitalisations in 24…",
+          "value": "3",
+          "original": "3 deaths and 1,535 hospitalisations in 24 hours to 8am, 6 November"
+        }
+      ],
+      "what_happened": [
+        "Two deaths were reported in Dhaka division and one in Khulna.",
+        "Currently 5,773 dengue patients are undergoing treatment in hospitals across the country."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is total deaths?",
+          "a": "455"
+        },
+        {
+          "q": "What is total cases?",
+          "a": "145,906"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least three dengue patients died and ______ others were hospitalised in 24 hours, taking the year's death toll to 455 and cases to 145,906, the Directorate General of Health Services said.",
+          "answer": "1,535"
+        },
+        {
+          "cloze": "Currently ______ dengue patients are undergoing treatment in hospitals across the country.",
+          "answer": "5,773"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "dengue",
+        "toll",
+        "reaches"
+      ],
+      "detail": "At least three dengue patients died and 1,535 others were hospitalised in 24 hours, taking the year's death toll to 455 and cases to 145,906, the Directorate General of Health Services said. Two deaths were reported in Dhaka division and one in Khulna. Currently 5,773 dengue patients are undergoing treatment in hospitals across the country."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Bangladesh",
+      "event_date": "2026-11-06",
+      "exam_facts": "4 deaths with measles-like symptoms in 24 hours to 8am, 6 November; combined tally 1,276 (1,171 suspected, 105 confirmed); suspected cases 236,714; confirmed cases 24,294; since 15 March: 210,982 hospitalised, 202,394 recovered; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "figures": "4 deaths in 24 hours; combined tally 1,276; suspected cases 236,714.",
+      "headline": "Four more die of measles as tally reaches 1,276",
+      "id": "CA04",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "4 more die with measles-like symptoms in 24 hours",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-more-die-measles-symptoms-24-hours-4317156"
+        }
+      ],
+      "summary": "Four patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,276, the health directorate said. Suspected cases reached 236,714 and confirmed cases 24,294. Since 15 March, 210,982 patients with suspected measles have been hospitalised and 202,394 have recovered.",
+      "why_it_matters": "The measles toll is the other daily public-health figure; the suspected-versus-confirmed split is the detail exams test.",
+      "one_liner": "Four patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "4",
+          "original": "4 deaths in 24 hours"
+        },
+        {
+          "label": "combined tally",
+          "value": "1,276",
+          "original": "combined tally 1,276"
+        },
+        {
+          "label": "suspected cases",
+          "value": "236,714",
+          "original": "suspected cases 236,714"
+        },
+        {
+          "label": "deaths with measles-like symptoms in 24…",
+          "value": "4",
+          "original": "4 deaths with measles-like symptoms in 24 hours to 8am, 6 November"
+        }
+      ],
+      "what_happened": [
+        "Suspected cases reached 236,714 and confirmed cases 24,294.",
+        "Since 15 March, 210,982 patients with suspected measles have been hospitalised and 202,394 have recovered."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is combined tally?",
+          "a": "1,276"
+        },
+        {
+          "q": "What is suspected cases?",
+          "a": "236,714"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Four patients died with measles-like symptoms in ______ hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,276, the health directorate said.",
+          "answer": "24"
+        },
+        {
+          "cloze": "Suspected cases reached ______ and confirmed cases 24,294.",
+          "answer": "236,714"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "four",
+        "measles",
+        "tally",
+        "reaches"
+      ],
+      "detail": "Four patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,276, the health directorate said. Suspected cases reached 236,714 and confirmed cases 24,294. Since 15 March, 210,982 patients with suspected measles have been hospitalised and 202,394 have recovered."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Bangladesh",
+      "event_date": "2026-11-06",
+      "exam_facts": "Record Tk 694.09 billion allocated to the health sector in the current fiscal year, equivalent to 7.4 percent of the total national budget; Tk 447.57385 billion project to progressively upgrade upazila health complexes (December 2026 to December 2029); plan to transform all 503 upazila health complexes into full-fledged 151-bed hospitals; upgrades: 18 hospitals to 51 beds, 305 to 101 beds, 83 to 132 beds, 13 to 120 beds, 9 to 151 beds, 15 to 151 beds; integrated multistorey service buildings at 443 upazilas.",
+      "exam_relevance": "High — health policy, public spending.",
+      "figures": "Tk 694.09bn (7.4% of budget); Tk 447.57bn project; 503 upazilas to 151 beds.",
+      "headline": "Government unveils comprehensive plan to rebuild health system",
+      "id": "CA05",
+      "key_people": "M A Muhit, State Minister for Health and Family Welfare.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Govt unveils comprehensive plan to rebuild health system",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/tpl7l9fui9"
+        }
+      ],
+      "summary": "The government unveiled a comprehensive plan to rebuild the healthcare system, allocating a record Tk 694.09 billion to the health sector this fiscal year — 7.4 percent of the national budget. A Tk 447.57 billion project will progressively upgrade upazila health complexes from December 2026 to December 2029, and the government plans to transform all 503 upazila health complexes into full-fledged 151-bed hospitals. State Minister for Health M A Muhit said the system had been inherited in a collapsed state.",
+      "why_it_matters": "The largest health allocation on record and the 503-upazila upgrade plan are major health-policy exam facts.",
+      "one_liner": "The government unveiled a comprehensive plan to rebuild the healthcare system, allocating a record Tk 694.09 billion to the health…",
+      "key_facts": [
+        {
+          "label": "7.4% of budget",
+          "value": "Tk 694.09bn",
+          "original": "Tk 694.09bn (7.4% of budget)"
+        },
+        {
+          "label": "project",
+          "value": "Tk 447.57bn",
+          "original": "Tk 447.57bn project"
+        },
+        {
+          "label": "upazilas to 151 beds",
+          "value": "503",
+          "original": "503 upazilas to 151 beds"
+        },
+        {
+          "label": "Record allocated to the health sector…",
+          "value": "Tk 694.09 billion",
+          "original": "Record Tk 694.09 billion allocated to the health sector in the current fiscal year, equivalent to 7.4 percent of the total national budget"
+        }
+      ],
+      "what_happened": [
+        "A Tk 447.57 billion project will progressively upgrade upazila health complexes from December 2026 to December 2029,",
+        "and the government plans to transform all 503 upazila health complexes into full-fledged 151-bed hospitals.",
+        "State Minister for Health M A Muhit said the system had been inherited in a collapsed state."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is project?",
+          "a": "Tk 447.57bn"
+        },
+        {
+          "q": "What is Record allocated to the health sector…?",
+          "a": "Tk 694.09 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government unveiled a comprehensive plan to rebuild the healthcare system, allocating a record Tk ______ billion to the health sector this fiscal year — 7.4 percent of the national budget.",
+          "answer": "694.09"
+        },
+        {
+          "cloze": "A Tk 447.57 billion project will progressively upgrade upazila health complexes from ______26 to December 2029, and the government plans to transform all 503 upazila health complexes into full-fledged 151-bed hospitals.",
+          "answer": "December 20"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "government",
+        "unveils",
+        "comprehensive",
+        "plan",
+        "rebuild",
+        "health",
+        "system"
+      ],
+      "detail": "The government unveiled a comprehensive plan to rebuild the healthcare system, allocating a record Tk 694.09 billion to the health sector this fiscal year — 7.4 percent of the national budget. A Tk 447.57 billion project will progressively upgrade upazila health complexes from December 2026 to December 2029, and the government plans to transform all 503 upazila health complexes into full-fledged 151-bed hospitals. State Minister for Health M A Muhit said the system had been inherited in a collapsed state."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "exam_facts": "Target: deliver all textbooks for the 2027 academic year to upazilas by 30 November 2026; 96 percent of primary textbooks and 63.18 percent of secondary textbooks already reached upazilas; about 6.6 crore secondary textbooks still to be delivered; only 19.62 percent of class-9 books reached; first time since 2010 that distribution would be completed by November; NCTB plans to print more than 30 crore textbooks for nearly four crore students.",
+      "exam_relevance": "High — education, NCTB, textbooks.",
+      "figures": "96% primary, 63.18% secondary delivered; 6.6cr secondary books outstanding; 30cr+ books to print.",
+      "headline": "Government aims to deliver all textbooks by 30 November",
+      "id": "CA06",
+      "key_people": "Professor Mohammad Fakhrul Mawla, Chairman, National Curriculum and Textbook Board (NCTB); Professor Mohammad Abu Naser Tuku, Member (Textbooks), NCTB.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Govt aims to deliver all textbooks by Nov",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/govt-aims-deliver-all-textbooks-nov-4316831"
+        }
+      ],
+      "summary": "The authorities hope to deliver all textbooks for the 2027 academic year to upazilas by 30 November, after years of delays that left students waiting months. Around 96 percent of primary textbooks and 63.18 percent of secondary textbooks have already reached upazilas, though about 6.6 crore secondary textbooks are still to be delivered and only 19.62 percent of class-9 books have arrived. The National Curriculum and Textbook Board plans to print more than 30 crore textbooks for nearly four crore students.",
+      "why_it_matters": "Textbook delivery is a perennial education story; the November deadline and the class-9 shortfall are the key facts.",
+      "one_liner": "The authorities hope to deliver all textbooks for the 2027 academic year to upazilas by 30 November, after years of…",
+      "key_facts": [
+        {
+          "label": "% primary, 63.18% secondary delivered",
+          "value": "96",
+          "original": "96% primary, 63.18% secondary delivered"
+        },
+        {
+          "label": "cr secondary books outstanding",
+          "value": "6.6",
+          "original": "6.6cr secondary books outstanding"
+        },
+        {
+          "label": "cr+ books to print",
+          "value": "30",
+          "original": "30cr+ books to print"
+        },
+        {
+          "label": "Target",
+          "value": "deliver all textbooks for the 2027 academic year to upazilas by 30 November 2026",
+          "original": "Target: deliver all textbooks for the 2027 academic year to upazilas by 30 November 2026"
+        }
+      ],
+      "what_happened": [
+        "Around 96 percent of primary textbooks and 63.18 percent of secondary textbooks have already reached upazilas,",
+        "though about 6.6 crore secondary textbooks are still to be delivered and only 19.62 percent of class-9 books have arrived.",
+        "The National Curriculum and Textbook Board plans to print more than 30 crore textbooks for nearly four crore students."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is cr secondary books outstanding?",
+          "a": "6.6"
+        },
+        {
+          "q": "What is cr+ books to print?",
+          "a": "30"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The authorities hope to deliver all textbooks for the 2027 academic year to upazilas by ______, after years of delays that left students waiting months.",
+          "answer": "30 November"
+        },
+        {
+          "cloze": "Around ______ percent of primary textbooks and 63.18 percent of secondary textbooks have already reached upazilas, though about 6.6 crore secondary textbooks are still to be delivered and only 19.62 percent of class-9 books have arrived.",
+          "answer": "96"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "government",
+        "aims",
+        "deliver",
+        "textbooks",
+        "november"
+      ],
+      "detail": "The authorities hope to deliver all textbooks for the 2027 academic year to upazilas by 30 November, after years of delays that left students waiting months. Around 96 percent of primary textbooks and 63.18 percent of secondary textbooks have already reached upazilas, though about 6.6 crore secondary textbooks are still to be delivered and only 19.62 percent of class-9 books have arrived. The National Curriculum and Textbook Board plans to print more than 30 crore textbooks for nearly four crore students."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "exam_facts": "45th BCS: 1,807 candidates recommended by the PSC, 1,702 included in the gazette, 105 excluded; 49 failed to submit documents on time; 56 denied for other administrative reasons including police verification; re-verification begins, decision expected this month; excluded candidates protested and staged a hunger strike at Dhaka University's Raju Memorial Sculpture; four candidates detained then released.",
+      "exam_relevance": "High — BCS, gazette, jobs.",
+      "figures": "1,807 recommended; 1,702 gazetted; 105 excluded (49 documents, 56 other reasons).",
+      "headline": "45th BCS re-verification begins for 105 candidates left out of gazette",
+      "id": "CA07",
+      "key_people": "Public Service Commission (PSC); Ministry of Public Administration.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/employment/7faouaes9h"
+        }
+      ],
+      "summary": "The government has begun re-verifying the cases of 105 candidates who were recommended for appointment in the 45th BCS but left out of the final gazette, with a decision expected this month. Of the 1,807 candidates recommended, 1,702 were gazetted; 49 of the excluded failed to submit documents on time and 56 were denied for other administrative reasons, including police verification. The excluded candidates had protested and staged a hunger strike at Dhaka University's Raju Memorial Sculpture.",
+      "why_it_matters": "The gazette exclusion of 105 recommended candidates is a live BCS controversy; the numbers and the reasons are directly relevant to candidates.",
+      "one_liner": "The government has begun re-verifying the cases of 105 candidates who were recommended for appointment in the 45th BCS but…",
+      "key_facts": [
+        {
+          "label": "recommended",
+          "value": "1,807",
+          "original": "1,807 recommended"
+        },
+        {
+          "label": "gazetted",
+          "value": "1,702",
+          "original": "1,702 gazetted"
+        },
+        {
+          "label": "49 documents, 56 other reasons",
+          "value": "105 excluded",
+          "original": "105 excluded (49 documents, 56 other reasons)"
+        },
+        {
+          "label": "45th BCS",
+          "value": "1,807 candidates recommended by the PSC, 1,702 included in the gazette, 105 excluded",
+          "original": "45th BCS: 1,807 candidates recommended by the PSC, 1,702 included in the gazette, 105 excluded"
+        }
+      ],
+      "what_happened": [
+        "Of the 1,807 candidates recommended, 1,702 were gazetted; 49 of the excluded failed to submit documents on time and 56 were denied for other administrative reasons,",
+        "including police verification.",
+        "The excluded candidates had protested and staged a hunger strike at Dhaka University's Raju Memorial Sculpture."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is recommended?",
+          "a": "1,807"
+        },
+        {
+          "q": "What is gazetted?",
+          "a": "1,702"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government has begun re-verifying the cases of ______ candidates who were recommended for appointment in the 45th BCS but left out of the final gazette, with a decision expected this month.",
+          "answer": "105"
+        },
+        {
+          "cloze": "Of the ______ candidates recommended, 1,702 were gazetted; 49 of the excluded failed to submit documents on time and 56 were denied for other administrative reasons, including police verification.",
+          "answer": "1,807"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "verification",
+        "begins",
+        "candidates",
+        "left",
+        "gazette"
+      ],
+      "detail": "The government has begun re-verifying the cases of 105 candidates who were recommended for appointment in the 45th BCS but left out of the final gazette, with a decision expected this month. Of the 1,807 candidates recommended, 1,702 were gazetted; 49 of the excluded failed to submit documents on time and 56 were denied for other administrative reasons, including police verification. The excluded candidates had protested and staged a hunger strike at Dhaka University's Raju Memorial Sculpture."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-06",
+      "exam_facts": "Authorised capital: Tk 2,000 crore to Tk 10,000 crore (increase of Tk 80 billion); board decision 4 November; needs Bangladesh Bank clearance, other regulatory clearance and shareholder approval at an extraordinary general meeting; loss of Tk 1,970 crore in July-September 2026 (vs profit of Tk 32 crore a year earlier); nine-month net loss Tk 33.03 billion after tax (vs profit of about Tk 790 million); net asset value Tk 35.84 billion (from Tk 69.63 billion); S Alam Group irregularities; no dividends since 2023; Z category on the stock market; seeking a foreign strategic investor.",
+      "exam_relevance": "High — banking, capital, S Alam Group.",
+      "figures": "Authorised capital Tk 2,000cr to Tk 10,000cr; 9-month loss Tk 33.03bn; NAV Tk 35.84bn.",
+      "headline": "Islami Bank to raise authorised capital to Tk 10,000 crore",
+      "id": "CA08",
+      "key_people": "Islami Bank Bangladesh (shariah-based lender); S Alam Group.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Islami Bank to raise authorised capital to Tk 10,000cr",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721"
+        },
+        {
+          "date": "2026-11-06",
+          "headline": "Islami Bank to increase authorised capital by Tk 80 billion",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/business/local/1m7qj6m66x"
+        }
+      ],
+      "summary": "Islami Bank Bangladesh plans to raise its authorised capital to Tk 10,000 crore from Tk 2,000 crore, the shariah-based lender said. The plan needs amendments to the bank's Memorandum and Articles of Association, clearance from Bangladesh Bank and other regulators, and shareholder approval. The bank posted a loss of Tk 1,970 crore in the July-September quarter, mainly due to lower investment income and high non-performing investments linked to the S Alam Group, and is seeking a foreign strategic investor.",
+      "why_it_matters": "The capital raise, the scale of the losses and the S Alam link are core banking-reform exam facts.",
+      "one_liner": "Islami Bank Bangladesh plans to raise its authorised capital to Tk 10,000 crore from Tk 2,000 crore, the shariah-based lender…",
+      "key_facts": [
+        {
+          "label": "Authorised capital cr to Tk 10,000cr",
+          "value": "Tk 2,000",
+          "original": "Authorised capital Tk 2,000cr to Tk 10,000cr"
+        },
+        {
+          "label": "month loss Tk 33.03bn",
+          "value": "9",
+          "original": "9-month loss Tk 33.03bn"
+        },
+        {
+          "label": "NAV",
+          "value": "Tk 35.84bn",
+          "original": "NAV Tk 35.84bn"
+        },
+        {
+          "label": "increase of Tk 80 billion",
+          "value": "Authorised capital: Tk 2,000 crore to Tk 10,000 crore",
+          "original": "Authorised capital: Tk 2,000 crore to Tk 10,000 crore (increase of Tk 80 billion)"
+        }
+      ],
+      "what_happened": [
+        "The plan needs amendments to the bank's Memorandum and Articles of Association, clearance from Bangladesh Bank and other regulators, and shareholder approval.",
+        "The bank posted a loss of Tk 1,970 crore in the July-September quarter, mainly due to lower investment income and high non-performing investments linked to the S Alam Group,",
+        "and is seeking a foreign strategic investor."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is NAV?",
+          "a": "Tk 35.84bn"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Islami Bank Bangladesh plans to raise its authorised capital to Tk ______ crore from Tk 2,000 crore, the shariah-based lender said.",
+          "answer": "10,000"
+        },
+        {
+          "cloze": "The bank posted a loss of Tk ______ crore in the July-September quarter, mainly due to lower investment income and high non-performing investments linked to the S Alam Group, and is seeking a foreign strategic investor.",
+          "answer": "1,970"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "islami",
+        "bank",
+        "raise",
+        "authorised",
+        "capital",
+        "crore"
+      ],
+      "detail": "Islami Bank Bangladesh plans to raise its authorised capital to Tk 10,000 crore from Tk 2,000 crore, the shariah-based lender said. The plan needs amendments to the bank's Memorandum and Articles of Association, clearance from Bangladesh Bank and other regulators, and shareholder approval. The bank posted a loss of Tk 1,970 crore in the July-September quarter, mainly due to lower investment income and high non-performing investments linked to the S Alam Group, and is seeking a foreign strategic investor."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-06",
+      "exam_facts": "Net profit Tk 472 crore in January-September 2026, up 34 percent year-on-year; deposits grew 19 percent to Tk 53,308 crore (from Tk 44,615 crore); earnings per share Tk 3.24, up 37 percent (from Tk 2.37); net asset value per share Tk 28.46, up 5 percent; Q3 (July-September) net profit about Tk 208 crore; non-performing loan ratio declined; managing director Sohail RK Hussain.",
+      "exam_relevance": "Medium — banking, earnings.",
+      "figures": "Profit Tk 472cr (+34%); deposits Tk 53,308cr (+19%); EPS Tk 3.24.",
+      "headline": "Bank Asia reports 34% rise in January-September profit",
+      "id": "CA09",
+      "key_people": "Sohail RK Hussain, Managing Director, Bank Asia.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Bank Asia reports 34% rise in Jan-Sept profit",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/economy/news/bank-asia-reports-34-rise-jan-sept-profit-4316691"
+        }
+      ],
+      "summary": "Bank Asia reported a 34 percent year-on-year increase in net profit to Tk 472 crore in January-September 2026, driven by higher operating cash flow and strong growth in customer deposits. Deposits grew 19 percent to Tk 53,308 crore, earnings per share rose 37 percent to Tk 3.24, and the bank's non-performing loan ratio declined. The bank posted a net profit of about Tk 208 crore in the July-September quarter.",
+      "why_it_matters": "A profitable bank in a week of negative lending income shows the sector's split; the profit and deposit figures are the facts.",
+      "one_liner": "Bank Asia reported a 34 percent year-on-year increase in net profit to Tk 472 crore in January-September 2026, driven by…",
+      "key_facts": [
+        {
+          "label": "+34%",
+          "value": "Profit Tk 472cr",
+          "original": "Profit Tk 472cr (+34%)"
+        },
+        {
+          "label": "+19%",
+          "value": "deposits Tk 53,308cr",
+          "original": "deposits Tk 53,308cr (+19%)"
+        },
+        {
+          "label": "EPS",
+          "value": "Tk 3.24",
+          "original": "EPS Tk 3.24"
+        },
+        {
+          "label": "Net profit crore in January-September 2026,…",
+          "value": "Tk 472",
+          "original": "Net profit Tk 472 crore in January-September 2026, up 34 percent year-on-year"
+        }
+      ],
+      "what_happened": [
+        "Deposits grew 19 percent to Tk 53,308 crore, earnings per share rose 37 percent to Tk 3.24, and the bank's non-performing loan ratio declined.",
+        "The bank posted a net profit of about Tk 208 crore in the July-September quarter."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is EPS?",
+          "a": "Tk 3.24"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bank Asia reported a 34 percent year-on-year increase in net profit to Tk 472 crore in January-______26, driven by higher operating cash flow and strong growth in customer deposits.",
+          "answer": "September 20"
+        },
+        {
+          "cloze": "Deposits grew ______ percent to Tk 53,308 crore, earnings per share rose 37 percent to Tk 3.24, and the bank's non-performing loan ratio declined.",
+          "answer": "19"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bank",
+        "asia",
+        "reports",
+        "rise",
+        "january",
+        "september",
+        "profit"
+      ],
+      "detail": "Bank Asia reported a 34 percent year-on-year increase in net profit to Tk 472 crore in January-September 2026, driven by higher operating cash flow and strong growth in customer deposits. Deposits grew 19 percent to Tk 53,308 crore, earnings per share rose 37 percent to Tk 3.24, and the bank's non-performing loan ratio declined. The bank posted a net profit of about Tk 208 crore in the July-September quarter."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-06",
+      "exam_facts": "Bangladesh's first blockchain-based digital export transaction; document processing cut from 40 days to one day; exporter NAZ Bangladesh Ltd (knitwear) to UK retailer Matalan; BRAC Bank remitting bank, Lloyds Bank collecting bank; Enigio's solution; electronic bill of lading (eBL) and digital promissory note; Digital Trade Works coordinated; the reduction applies only to document processing, not the whole export or payment cycle.",
+      "exam_relevance": "High — blockchain, digital trade, exports.",
+      "figures": "40 days to 1 day for document processing; first blockchain export deal in Bangladesh.",
+      "headline": "BRAC Bank completes first blockchain-based export deal",
+      "id": "CA10",
+      "key_people": "Tareq Refat Ullah Khan, Managing Director and CEO, BRAC Bank; Nasir Uddin Ahmed, Managing Director, NAZ Bangladesh.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "BRAC Bank completes blockchain-based export deal",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/organisation-news/news/brac-bank-completes-blockchain-based-export-deal-4316741"
+        }
+      ],
+      "summary": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction, cutting document processing time from 40 days to just one day in a deal involving garment exporter NAZ Bangladesh and UK retailer Matalan. Using Enigio's solution, the banks electronically created and transferred original trade documents, including an electronic bill of lading and a digital promissory note. The digital process improved transaction visibility and document security, reducing the risks of documents being lost, delayed or altered.",
+      "why_it_matters": "The first blockchain trade deal in Bangladesh is a digital-economy milestone; the 40-days-to-one-day cut is the headline fact.",
+      "one_liner": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction, cutting document processing time from 40 days to just one day…",
+      "key_facts": [
+        {
+          "label": "days to 1 day for document…",
+          "value": "40",
+          "original": "40 days to 1 day for document processing"
+        },
+        {
+          "label": "",
+          "value": "first blockchain export deal in Bangladesh",
+          "original": "first blockchain export deal in Bangladesh"
+        },
+        {
+          "label": "document processing cut from days to…",
+          "value": "40",
+          "original": "document processing cut from 40 days to one day"
+        },
+        {
+          "label": "",
+          "value": "BRAC Bank remitting bank, Lloyds Bank collecting bank",
+          "original": "BRAC Bank remitting bank, Lloyds Bank collecting bank"
+        }
+      ],
+      "what_happened": [
+        "Using Enigio's solution, the banks electronically created and transferred original trade documents, including an electronic bill of lading and a digital promissory note.",
+        "The digital process improved transaction visibility and document security, reducing the risks of documents being lost, delayed or altered."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction, cutting document processing time from ______ days to just one day in a deal involving garment exporter NAZ Bangladesh and UK retailer Matalan.",
+          "answer": "40"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "brac",
+        "bank",
+        "completes",
+        "blockchain",
+        "based",
+        "export",
+        "deal"
+      ],
+      "detail": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction, cutting document processing time from 40 days to just one day in a deal involving garment exporter NAZ Bangladesh and UK retailer Matalan. Using Enigio's solution, the banks electronically created and transferred original trade documents, including an electronic bill of lading and a digital promissory note. The digital process improved transaction visibility and document security, reducing the risks of documents being lost, delayed or altered."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "exam_facts": "Two monorail corridors targeted for completion by 2030; pre-feasibility study by BUET's Bureau of Research, Testing and Consultation (BRTC) complete; detailed designs expected within six months; Tk 75.7 billion allocated from the revenue budget for the pre-feasibility study and detailed designs; corridors to connect with metro rail for last-mile connectivity; Dhaka Transport Coordination Authority (DTCA) Additional Executive Director Md Moshiur Rahman.",
+      "exam_relevance": "High — urban transport, Dhaka, infrastructure.",
+      "figures": "2 corridors by 2030; Tk 75.7bn allocated; designs within 6 months.",
+      "headline": "Dhaka monorail: two corridors targeted for completion by 2030",
+      "id": "CA11",
+      "key_people": "Md Moshiur Rahman, Additional Executive Director, Dhaka Transport Coordination Authority (DTCA).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Dhaka’s monorail plans: 2 corridors targeted for completion by 2030",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/city/ifbhb3yvh8"
+        }
+      ],
+      "summary": "The government is moving ahead with plans to introduce two monorail corridors in Dhaka by 2030, with consultants now working on detailed designs after a pre-feasibility study by BUET. The corridors will connect with existing and planned metro rail services to improve last-mile connectivity. The government allocated Tk 75.7 billion from its revenue budget for the pre-feasibility study and detailed designs, which are expected to be submitted within six months.",
+      "why_it_matters": "A new mass-transit mode for Dhaka, with a 2030 target and a large design budget, is an infrastructure exam topic.",
+      "one_liner": "The government is moving ahead with plans to introduce two monorail corridors in Dhaka by 2030, with consultants now working…",
+      "key_facts": [
+        {
+          "label": "corridors by 2030",
+          "value": "2",
+          "original": "2 corridors by 2030"
+        },
+        {
+          "label": "allocated",
+          "value": "Tk 75.7bn",
+          "original": "Tk 75.7bn allocated"
+        },
+        {
+          "label": "designs within months",
+          "value": "6",
+          "original": "designs within 6 months"
+        },
+        {
+          "label": "",
+          "value": "Two monorail corridors targeted for completion by 2030",
+          "original": "Two monorail corridors targeted for completion by 2030"
+        }
+      ],
+      "what_happened": [
+        "The corridors will connect with existing and planned metro rail services to improve last-mile connectivity.",
+        "The government allocated Tk 75.7 billion from its revenue budget for the pre-feasibility study and detailed designs, which are expected to be submitted within six months."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is allocated?",
+          "a": "Tk 75.7bn"
+        },
+        {
+          "q": "What is Dhaka Transport?",
+          "a": "Coordination Authority (DTCA) Additional Executive Director Md Moshiur Rahman"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government is moving ahead with plans to introduce two monorail corridors in Dhaka by ______ with consultants now working on detailed designs after a pre-feasibility study by BUET.",
+          "answer": "2030,"
+        },
+        {
+          "cloze": "The government allocated Tk ______ billion from its revenue budget for the pre-feasibility study and detailed designs, which are expected to be submitted within six months.",
+          "answer": "75.7"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "dhaka",
+        "monorail",
+        "corridors",
+        "targeted",
+        "completion"
+      ],
+      "detail": "The government is moving ahead with plans to introduce two monorail corridors in Dhaka by 2030, with consultants now working on detailed designs after a pre-feasibility study by BUET. The corridors will connect with existing and planned metro rail services to improve last-mile connectivity. The government allocated Tk 75.7 billion from its revenue budget for the pre-feasibility study and detailed designs, which are expected to be submitted within six months."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "World",
+      "event_date": "2026-11-06",
+      "exam_facts": "External debt of developing countries: record $9.4 trillion in 2025, fastest pace since the pandemic; private financing drove the increase (borrowing from private creditors and bond issuance by public enterprises up nearly 35 percent); poorest countries paid an average of 8.2 percent on new private loans or bonds, the highest since 1989; low- and middle-income countries paid $1.4 trillion in debt service in 2025 (+1.9 percent, fifth consecutive annual increase); between 2022 and 2025, developing countries paid $436 billion more in debt servicing than they received in new financing; source: World Bank International Debt Report.",
+      "exam_relevance": "High — global debt, World Bank, development.",
+      "figures": "$9.4 trillion external debt; $1.4 trillion debt service in 2025; 8.2% average rate for poorest.",
+      "headline": "Developing countries' debt hits record $9.4 trillion",
+      "id": "CA12",
+      "key_people": "Haishan Fu, Chief Statistician, World Bank Group.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Developing countries' debt hit record $9.4 trillion in 2025: World Bank",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/news/developing-countries-debt-hit-record-94-trillion-2025-world-bank-4316781"
+        }
+      ],
+      "summary": "The external debt of developing countries jumped at its fastest pace since the pandemic to a record $9.4 trillion in 2025, the World Bank said. Most of the increase was driven by private financing, with borrowing from private creditors and bond issuance by public enterprises rising nearly 35 percent. The poorest countries paid an average of 8.2 percent on new private loans — the highest since 1989 — and low- and middle-income countries paid $1.4 trillion in debt service, a fifth consecutive annual increase.",
+      "why_it_matters": "Record global debt and the cost of private borrowing are core development-economics exam facts.",
+      "one_liner": "The external debt of developing countries jumped at its fastest pace since the pandemic to a record $9.4 trillion in…",
+      "key_facts": [
+        {
+          "label": "trillion external debt",
+          "value": "$9.4",
+          "original": "$9.4 trillion external debt"
+        },
+        {
+          "label": "trillion debt service in 2025",
+          "value": "$1.4",
+          "original": "$1.4 trillion debt service in 2025"
+        },
+        {
+          "label": "% average rate for poorest",
+          "value": "8.2",
+          "original": "8.2% average rate for poorest"
+        },
+        {
+          "label": "External debt of developing countries",
+          "value": "record $9.4 trillion in 2025, fastest pace since the pandemic",
+          "original": "External debt of developing countries: record $9.4 trillion in 2025, fastest pace since the pandemic"
+        }
+      ],
+      "what_happened": [
+        "Most of the increase was driven by private financing, with borrowing from private creditors and bond issuance by public enterprises rising nearly 35 percent.",
+        "The poorest countries paid an average of 8.2 percent on new private loans — the highest since 1989 — and low- and middle-income countries paid $1.4 trillion in debt service,",
+        "a fifth consecutive annual increase."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is trillion external debt?",
+          "a": "$9.4"
+        },
+        {
+          "q": "What is % average rate for poorest?",
+          "a": "8.2"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The external debt of developing countries jumped at its fastest pace since the pandemic to a record $______ trillion in 2025, the World Bank said.",
+          "answer": "9.4"
+        },
+        {
+          "cloze": "Most of the increase was driven by private financing, with borrowing from private creditors and bond issuance by public enterprises rising nearly ______ percent.",
+          "answer": "35"
+        }
+      ],
+      "keywords": [
+        "world",
+        "developing",
+        "countries",
+        "debt",
+        "hits",
+        "record",
+        "trillion"
+      ],
+      "detail": "The external debt of developing countries jumped at its fastest pace since the pandemic to a record $9.4 trillion in 2025, the World Bank said. Most of the increase was driven by private financing, with borrowing from private creditors and bond issuance by public enterprises rising nearly 35 percent. The poorest countries paid an average of 8.2 percent on new private loans — the highest since 1989 — and low- and middle-income countries paid $1.4 trillion in debt service, a fifth consecutive annual increase."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "World",
+      "event_date": "2026-11-06",
+      "exam_facts": "Nearly 90 million forcibly displaced people live in countries increasingly exposed to climate-related droughts, floods and extreme heat; nearly three-quarters of the world's forcibly displaced people live in countries such as Afghanistan and Bangladesh facing severe climate risks; report by UNHCR ahead of the COP31 climate summit in Antalya, Turkey; one in three refugee settlements in sub-Saharan Africa could face at least 100 days of dangerous heat each year by 2050; Anton Leis Garcia, UNHCR assistant high commissioner for operations.",
+      "exam_relevance": "High — climate, displacement, UNHCR, COP31.",
+      "figures": "Nearly 90 million displaced people at climate risk; 3/4 of displaced in climate-exposed countries.",
+      "headline": "90 million displaced people at climate risk, UNHCR warns",
+      "id": "CA13",
+      "key_people": "Anton Leis Garcia, Assistant High Commissioner for Operations, UNHCR.",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "90 million displaced people at climate risk in Bangladesh, other countries: UNHCR",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/international/g6t5yf50f7"
+        }
+      ],
+      "summary": "Nearly 90 million forcibly displaced people are living in countries increasingly exposed to climate-related droughts, floods and extreme heat, the UN refugee agency said ahead of the COP31 climate summit in Turkey. Nearly three-quarters of the world's forcibly displaced people live in countries such as Afghanistan and Bangladesh that face severe climate risks. The agency warned that climate change is making it harder for displaced people to return home sustainably, and called for more climate financing.",
+      "why_it_matters": "The overlap of displacement and climate risk, with Bangladesh named, is a climate and humanitarian exam topic ahead of COP31.",
+      "one_liner": "Nearly 90 million forcibly displaced people are living in countries increasingly exposed to climate-related droughts, floods and extreme heat, the…",
+      "key_facts": [
+        {
+          "label": "Nearly displaced people at climate risk",
+          "value": "90 million",
+          "original": "Nearly 90 million displaced people at climate risk"
+        },
+        {
+          "label": "/4 of displaced in climate-exposed countries",
+          "value": "3",
+          "original": "3/4 of displaced in climate-exposed countries"
+        },
+        {
+          "label": "Nearly forcibly displaced people live in…",
+          "value": "90 million",
+          "original": "Nearly 90 million forcibly displaced people live in countries increasingly exposed to climate-related droughts, floods and extreme heat"
+        },
+        {
+          "label": "report by UNHCR ahead of the…",
+          "value": "31",
+          "original": "report by UNHCR ahead of the COP31 climate summit in Antalya, Turkey"
+        }
+      ],
+      "what_happened": [
+        "Nearly three-quarters of the world's forcibly displaced people live in countries such as Afghanistan and Bangladesh that face severe climate risks.",
+        "The agency warned that climate change is making it harder for displaced people to return home sustainably, and called for more climate financing."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Nearly displaced people at climate risk?",
+          "a": "90 million"
+        },
+        {
+          "q": "What is Nearly forcibly displaced people live in…?",
+          "a": "90 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Nearly ______ million forcibly displaced people are living in countries increasingly exposed to climate-related droughts, floods and extreme heat, the UN refugee agency said ahead of the COP31 climate summit in Turkey.",
+          "answer": "90"
+        }
+      ],
+      "keywords": [
+        "world",
+        "million",
+        "displaced",
+        "people",
+        "climate",
+        "risk",
+        "unhcr",
+        "warns"
+      ],
+      "detail": "Nearly 90 million forcibly displaced people are living in countries increasingly exposed to climate-related droughts, floods and extreme heat, the UN refugee agency said ahead of the COP31 climate summit in Turkey. Nearly three-quarters of the world's forcibly displaced people live in countries such as Afghanistan and Bangladesh that face severe climate risks. The agency warned that climate change is making it harder for displaced people to return home sustainably, and called for more climate financing."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "World",
+      "event_date": "2026-11-06",
+      "exam_facts": "2026 'most likely' the second-hottest year on record (Copernicus Climate Change Service, EU); 20 percent chance of tying or exceeding 2024 as the warmest ever; global temperatures 'virtually certain' to exceed 1.5C above pre-industrial levels in 2026; four-year average 2023-2026 expected to top 1.5C; warmest October on record, 1.75C above pre-industrial times; third straight month exceeding 1.5C; exceptionally strong El Niño; COP31 starts Monday in Turkey; Samantha Burgess, strategic lead for climate, ECMWF.",
+      "exam_relevance": "High — climate, Copernicus, El Niño, Paris Agreement.",
+      "figures": "Second-hottest year likely; 1.5C exceeded in 2026; October 1.75C above pre-industrial.",
+      "headline": "2026 'most likely' to be second-hottest year on record",
+      "id": "CA14",
+      "key_people": "Samantha Burgess, Strategic Lead for Climate, European Centre for Medium-Range Weather Forecasts (ECMWF).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "2026 ‘most likely’ to be second-hottest year on record: EU monitor",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/news/2026-most-likely-be-second-hottest-year-record-eu-monitor-4317066"
+        }
+      ],
+      "summary": "The world is on track for 2026 to be the second-hottest year on record as an exceptionally strong El Niño turbocharges human-driven global warming, the EU's Copernicus Climate Change Service said. This year still has a 20 percent chance of tying or exceeding 2024 as the warmest ever. Global temperatures are virtually certain to exceed 1.5C above pre-industrial levels in 2026, and October was the warmest October on record, at 1.75C above pre-industrial times.",
+      "why_it_matters": "The temperature records and the 1.5C threshold are core climate exam facts ahead of COP31.",
+      "one_liner": "The world is on track for 2026 to be the second-hottest year on record as an exceptionally strong El Niño…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Second-hottest year likely",
+          "original": "Second-hottest year likely"
+        },
+        {
+          "label": "C exceeded in 2026",
+          "value": "1.5",
+          "original": "1.5C exceeded in 2026"
+        },
+        {
+          "label": "",
+          "value": "October 1.75C above pre-industrial",
+          "original": "October 1.75C above pre-industrial"
+        },
+        {
+          "label": "Copernicus Climate Change Service, EU",
+          "value": "2026 'most likely' the second-hottest year on record",
+          "original": "2026 'most likely' the second-hottest year on record (Copernicus Climate Change Service, EU)"
+        }
+      ],
+      "what_happened": [
+        "This year still has a 20 percent chance of tying or exceeding 2024 as the warmest ever.",
+        "Global temperatures are virtually certain to exceed 1.5C above pre-industrial levels in 2026, and October was the warmest October on record, at 1.75C above pre-industrial times."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Copernicus Climate Change Service, EU?",
+          "a": "2026 'most likely' the second-hottest year on record"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The world is on track for ______ to be the second-hottest year on record as an exceptionally strong El Niño turbocharges human-driven global warming, the EU's Copernicus Climate Change Service said.",
+          "answer": "2026"
+        },
+        {
+          "cloze": "This year still has a ______ percent chance of tying or exceeding 2024 as the warmest ever.",
+          "answer": "20"
+        }
+      ],
+      "keywords": [
+        "world",
+        "most",
+        "likely",
+        "second",
+        "hottest",
+        "year",
+        "record"
+      ],
+      "detail": "The world is on track for 2026 to be the second-hottest year on record as an exceptionally strong El Niño turbocharges human-driven global warming, the EU's Copernicus Climate Change Service said. This year still has a 20 percent chance of tying or exceeding 2024 as the warmest ever. Global temperatures are virtually certain to exceed 1.5C above pre-industrial levels in 2026, and October was the warmest October on record, at 1.75C above pre-industrial times."
+    },
+    {
+      "article_date": "2026-11-06",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "exam_facts": "University Grants Commission (UGC) annual report: about 60-70 percent of the country's graduates come from the National University; many study social sciences, humanities, business studies and some science subjects; employers say applicants lack business problem-solving, product creation and practical application skills; Markopolo.ai (Tasfiya Tasbin): hundreds of applications per position, only 10-15 perform well in problem-solving tests, only five or six suitable workers found; firms employ foreign workers virtually, causing money outflow.",
+      "exam_relevance": "High — unemployment, skills, education, jobs.",
+      "figures": "60-70% of graduates from National University; 10-15 of hundreds pass problem-solving tests.",
+      "headline": "Unemployment among educated people rises, alongside lack of skills",
+      "id": "CA15",
+      "key_people": "Tasfiya Tasbin, entrepreneur, Markopolo.ai; Sabbir Rahman, postgraduate job-seeker (National University).",
+      "sources": [
+        {
+          "date": "2026-11-06",
+          "headline": "Unemployment among educated people rises, alongside lack of skills",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/employment/snqz3e2d3j"
+        }
+      ],
+      "summary": "Unemployment among educated people is rising even as higher education expands, because employment has not grown proportionally and graduates lack the skills employers need, a report says. The University Grants Commission's annual report said about 60 to 70 percent of the country's graduates come from the National University, many in social sciences, humanities and business. Employers say applicants lack business problem-solving, product creation and practical application skills, and some firms hire foreign workers virtually instead.",
+      "why_it_matters": "Educated unemployment and the skills gap are the central jobs problem for this app's audience; the UGC figures are the exam facts.",
+      "one_liner": "Unemployment among educated people is rising even as higher education expands, because employment has not grown proportionally and graduates lack…",
+      "key_facts": [
+        {
+          "label": "% of graduates from National University",
+          "value": "60-70",
+          "original": "60-70% of graduates from National University"
+        },
+        {
+          "label": "of hundreds pass problem-solving tests",
+          "value": "10-15",
+          "original": "10-15 of hundreds pass problem-solving tests"
+        },
+        {
+          "label": "University Grants Commission (UGC) annual report",
+          "value": "about 60-70 percent of the country's graduates come from the National University",
+          "original": "University Grants Commission (UGC) annual report: about 60-70 percent of the country's graduates come from the National University"
+        },
+        {
+          "label": "Markopolo.ai (Tasfiya Tasbin)",
+          "value": "hundreds of applications per position, only 10-15 perform well in problem-solving tests, only five or six suitable workers found",
+          "original": "Markopolo.ai (Tasfiya Tasbin): hundreds of applications per position, only 10-15 perform well in problem-solving tests, only five or six suitable workers found"
+        }
+      ],
+      "what_happened": [
+        "The University Grants Commission's annual report said about 60 to 70 percent of the country's graduates come from the National University, many in social sciences, humanities and business.",
+        "Employers say applicants lack business problem-solving, product creation and practical application skills, and some firms hire foreign workers virtually instead."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is % of graduates from National University?",
+          "a": "60-70"
+        },
+        {
+          "q": "What is of hundreds pass problem-solving tests?",
+          "a": "10-15"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The University Grants Commission's annual report said about ______ to 70 percent of the country's graduates come from the National University, many in social sciences, humanities and business.",
+          "answer": "60"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "unemployment",
+        "educated",
+        "people",
+        "rises",
+        "alongside",
+        "lack",
+        "skills"
+      ],
+      "detail": "Unemployment among educated people is rising even as higher education expands, because employment has not grown proportionally and graduates lack the skills employers need, a report says. The University Grants Commission's annual report said about 60 to 70 percent of the country's graduates come from the National University, many in social sciences, humanities and business. Employers say applicants lack business problem-solving, product creation and practical application skills, and some firms hire foreign workers virtually instead."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "chaos, unrest",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "High — law and order, protests.",
+      "Bangla meaning": "স্বাভাবিক অবস্থা",
+      "Bangla phonetic": "নরমালসি",
+      "Collocations / patterns": "normalcy returns, return to normalcy",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "The normal, calm state of affairs after a disturbance.",
+      "Headword / phrase": "normalcy",
+      "IPA": "/ˈnɔːməlsi/",
+      "Newspaper context note": "Normalcy largely returned to Gazipur, Narayanganj and Mirpur after five days of labour unrest.",
+      "Original example": "Normalcy largely returned to Gazipur, Narayanganj and Mirpur.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "normality, order, calm",
+      "Word family / derivatives": "normal (adjective)"
+    },
+    {
+      "Antonyms": "carelessness, risk",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "Medium — vocabulary, formal usage.",
+      "Bangla meaning": "সতর্কতামূলক ব্যবস্থা",
+      "Bangla phonetic": "প্রিকশন",
+      "Collocations / patterns": "as a precaution, take precautions",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "A measure taken in advance to prevent harm or trouble.",
+      "Headword / phrase": "precaution",
+      "IPA": "/prɪˈkɔːʃən/",
+      "Newspaper context note": "Some factories in Ashulia remained closed as a precaution.",
+      "Original example": "Some factories remained closed as a precaution.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "safeguard, measure, care",
+      "Word family / derivatives": "precautionary (adjective)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "Basic — everyday vocabulary.",
+      "Bangla meaning": "সারি",
+      "Bangla phonetic": "কিউ",
+      "Collocations / patterns": "queue up, queue outside factories",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "A line of people waiting for something; to stand in such a line.",
+      "Headword / phrase": "queue",
+      "IPA": "/kjuː/",
+      "Newspaper context note": "Workers were seen queuing outside factories in Gazipur as production resumed.",
+      "Original example": "Workers were seen standing in a queue outside factories in the morning.",
+      "Part of speech / type": "verb / noun",
+      "Priority": "Basic",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "line up, wait in line",
+      "Word family / derivatives": "queue (noun)"
+    },
+    {
+      "Antonyms": "overlook, ignore",
+      "Article headline": "225 individuals, firms under NBR scanner",
+      "BCS / Bank relevance": "High — finance, investigation.",
+      "Bangla meaning": "খুঁটিয়ে পরীক্ষা করা",
+      "Bangla phonetic": "স্ক্রুটিনাইজ",
+      "Collocations / patterns": "scrutinise transactions, scrutinise accounts",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "English definition": "To examine something very carefully and thoroughly.",
+      "Headword / phrase": "scrutinise",
+      "IPA": "/ˈskruːtɪnaɪz/",
+      "Newspaper context note": "The NBR is scrutinising the financial transactions of around 125 companies.",
+      "Original example": "The NBR continues to scrutinise the transactions of around 125 companies.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "examine, inspect, probe",
+      "Word family / derivatives": "scrutiny (noun)"
+    },
+    {
+      "Antonyms": "help, facilitate",
+      "Article headline": "225 individuals, firms under NBR scanner",
+      "BCS / Bank relevance": "High — economy, vocabulary.",
+      "Bangla meaning": "ব্যাহত করা",
+      "Bangla phonetic": "হ্যাম্পার",
+      "Collocations / patterns": "hamper production, hamper exports",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "English definition": "To hinder or obstruct something; to make progress harder.",
+      "Headword / phrase": "hamper",
+      "IPA": "/ˈhæmpər/",
+      "Newspaper context note": "The unrest has hampered production and raised concerns about exports in the major export-earning sector.",
+      "Original example": "The unrest has hampered production and raised concerns about exports.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "hinder, impede, obstruct",
+      "Word family / derivatives": "hamper (noun)"
+    },
+    {
+      "Antonyms": "lose, miss",
+      "Article headline": "225 individuals, firms under NBR scanner",
+      "BCS / Bank relevance": "High — investigation, finance.",
+      "Bangla meaning": "খুঁজে বের করা",
+      "Bangla phonetic": "ট্রেস",
+      "Collocations / patterns": "trace funding channels, trace accounts",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "English definition": "To find something by following clues or a trail; to discover the origin of something.",
+      "Headword / phrase": "trace",
+      "IPA": "/treɪs/",
+      "Newspaper context note": "The financial scrutiny aims to trace possible funding channels behind the unrest.",
+      "Original example": "The scrutiny aims to trace possible funding channels.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "track, follow, find",
+      "Word family / derivatives": "traceable (adjective)"
+    },
+    {
+      "Antonyms": "individual, single",
+      "Article headline": "3 die, 1,535 hospitalised with dengue in 24 hours",
+      "BCS / Bank relevance": "High — public health, statistics.",
+      "Bangla meaning": "ক্রমবর্ধমান",
+      "Bangla phonetic": "কিউমুলেটিভ",
+      "Collocations / patterns": "cumulative number, cumulative total",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/healthcare/disease/news/3-die-1535-hospitalised-dengue-24-hours-4317161",
+      "English definition": "Increasing by additions over time; the total accumulated so far.",
+      "Headword / phrase": "cumulative",
+      "IPA": "/ˈkjuːmjələtɪv/",
+      "Newspaper context note": "The cumulative number of dengue cases reached 145,906.",
+      "Original example": "The cumulative number of dengue cases reached 145,906.",
+      "Part of speech / type": "adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "total, aggregate, accumulated",
+      "Word family / derivatives": "accumulate (verb), accumulation (noun)"
+    },
+    {
+      "Antonyms": "recover, rebuild",
+      "Article headline": "Govt unveils comprehensive plan to rebuild health system",
+      "BCS / Bank relevance": "High — health, governance.",
+      "Bangla meaning": "ভেঙে পড়া",
+      "Bangla phonetic": "কলাপ্স",
+      "Collocations / patterns": "collapsed system, collapse of the system",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/tpl7l9fui9",
+      "English definition": "To fall apart suddenly and fail to function; a sudden failure.",
+      "Headword / phrase": "collapse",
+      "IPA": "/kəˈlæps/",
+      "Newspaper context note": "The state minister said the government had inherited a collapsed healthcare system.",
+      "Original example": "The government inherited a collapsed healthcare system.",
+      "Part of speech / type": "verb / noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "fall apart, crumble, fail",
+      "Word family / derivatives": "collapsed (adjective)"
+    },
+    {
+      "Antonyms": "neglect, decay",
+      "Article headline": "Govt unveils comprehensive plan to rebuild health system",
+      "BCS / Bank relevance": "Medium — infrastructure, vocabulary.",
+      "Bangla meaning": "সংস্কার",
+      "Bangla phonetic": "রেনোভেশন",
+      "Collocations / patterns": "repair or renovation, renovation of facilities",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/tpl7l9fui9",
+      "English definition": "The repair and renewal of a building or system that has fallen into disrepair.",
+      "Headword / phrase": "renovation",
+      "IPA": "/ˌrenəˈveɪʃən/",
+      "Newspaper context note": "Many health facilities had not received adequate repair or renovation for years.",
+      "Original example": "Many health facilities had not received adequate repair or renovation for years.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "refurbishment, repair, renewal",
+      "Word family / derivatives": "renovate (verb)"
+    },
+    {
+      "Antonyms": "fragmented, separate",
+      "Article headline": "Govt unveils comprehensive plan to rebuild health system",
+      "BCS / Bank relevance": "High — governance, development.",
+      "Bangla meaning": "সমন্বিত",
+      "Bangla phonetic": "ইন্টিগ্রেটেড",
+      "Collocations / patterns": "integrated plan, integrated service buildings",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/tpl7l9fui9",
+      "English definition": "Combined into a unified, coordinated whole; (of people) brought together as equals.",
+      "Headword / phrase": "integrated",
+      "IPA": "/ˈɪntɪɡreɪtɪd/",
+      "Newspaper context note": "The health system must be reconstructed through an integrated plan, the state minister said.",
+      "Original example": "The health system must be rebuilt through an integrated plan.",
+      "Part of speech / type": "adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "unified, combined, coordinated",
+      "Word family / derivatives": "integrate (verb), integration (noun)"
+    },
+    {
+      "Antonyms": "setback",
+      "Article headline": "Govt aims to deliver all textbooks by Nov",
+      "BCS / Bank relevance": "High — education, vocabulary.",
+      "Bangla meaning": "মাইলফলক",
+      "Bangla phonetic": "মাইলস্টোন",
+      "Collocations / patterns": "reach a milestone, a milestone for the country",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/govt-aims-deliver-all-textbooks-nov-4316831",
+      "English definition": "An important event or stage in the development of something; a significant achievement.",
+      "Headword / phrase": "milestone",
+      "IPA": "/ˈmaɪlstəʊn/",
+      "Newspaper context note": "The NCTB chairman said delivering all textbooks by 30 November would undoubtedly be a milestone.",
+      "Original example": "Delivering all textbooks by November would be a milestone.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "landmark, achievement, turning point",
+      "Word family / derivatives": "milestone (noun)"
+    },
+    {
+      "Antonyms": "settled, completed",
+      "Article headline": "Govt aims to deliver all textbooks by Nov",
+      "BCS / Bank relevance": "High — finance, education.",
+      "Bangla meaning": "বাকি",
+      "Bangla phonetic": "আউটস্ট্যান্ডিং",
+      "Collocations / patterns": "outstanding books, outstanding payments",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/govt-aims-deliver-all-textbooks-nov-4316831",
+      "English definition": "Still to be done, paid or delivered; remaining.",
+      "Headword / phrase": "outstanding",
+      "IPA": "/aʊtˈstændɪŋ/",
+      "Newspaper context note": "An estimated 6.6 crore secondary textbooks are still outstanding.",
+      "Original example": "Around 6.6 crore secondary textbooks are still outstanding.",
+      "Part of speech / type": "adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "remaining, unpaid, pending",
+      "Word family / derivatives": "stand out (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+      "BCS / Bank relevance": "High — BCS, administration.",
+      "Bangla meaning": "গেজেট",
+      "Bangla phonetic": "গ্যাজেট",
+      "Collocations / patterns": "gazette notification, left out of the gazette",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/7faouaes9h",
+      "English definition": "An official journal publishing government notices; to publish something in such a journal.",
+      "Headword / phrase": "gazette",
+      "IPA": "/ɡəˈzet/",
+      "Newspaper context note": "105 candidates recommended for the 45th BCS were left out of the final gazette.",
+      "Original example": "105 candidates were left out of the final gazette.",
+      "Part of speech / type": "noun / verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "official journal, notification",
+      "Word family / derivatives": "gazette (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+      "BCS / Bank relevance": "High — administration, recruitment.",
+      "Bangla meaning": "যাচাই",
+      "Bangla phonetic": "ভেরিফিকেশন",
+      "Collocations / patterns": "police verification, document verification",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/7faouaes9h",
+      "English definition": "The process of checking that something is true or correct.",
+      "Headword / phrase": "verification",
+      "IPA": "/ˌverɪfɪˈkeɪʃən/",
+      "Newspaper context note": "56 candidates were denied appointments for administrative reasons including police verification.",
+      "Original example": "56 candidates were denied appointments for reasons including police verification.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "checking, confirmation, vetting",
+      "Word family / derivatives": "verify (verb)"
+    },
+    {
+      "Antonyms": "unauthorised, unapproved",
+      "Article headline": "Islami Bank to raise authorised capital to Tk 10,000cr",
+      "BCS / Bank relevance": "High — banking, finance.",
+      "Bangla meaning": "অনুমোদিত",
+      "Bangla phonetic": "অথরাইজড",
+      "Collocations / patterns": "authorised capital, authorised dealer",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721",
+      "English definition": "Officially approved or permitted; (of capital) the maximum share capital a company may issue.",
+      "Headword / phrase": "authorised",
+      "IPA": "/ˈɔːθəraɪzd/",
+      "Newspaper context note": "Islami Bank plans to raise its authorised capital to Tk 10,000 crore from Tk 2,000 crore.",
+      "Original example": "Islami Bank plans to raise its authorised capital to Tk 10,000 crore.",
+      "Part of speech / type": "adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "approved, sanctioned, permitted",
+      "Word family / derivatives": "authorise (verb), authorisation (noun)"
+    },
+    {
+      "Antonyms": "concealment, secrecy",
+      "Article headline": "Islami Bank to raise authorised capital to Tk 10,000cr",
+      "BCS / Bank relevance": "High — finance, stock market.",
+      "Bangla meaning": "প্রকাশ",
+      "Bangla phonetic": "ডিসক্লোজার",
+      "Collocations / patterns": "disclosure to the stock exchange, financial disclosure",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721",
+      "English definition": "The act of making information known, especially financial information.",
+      "Headword / phrase": "disclosure",
+      "IPA": "/dɪsˈkləʊʒər/",
+      "Newspaper context note": "The bank made the disclosure to the Dhaka Stock Exchange.",
+      "Original example": "The bank made the disclosure to the Dhaka Stock Exchange.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "revelation, announcement, statement",
+      "Word family / derivatives": "disclose (verb)"
+    },
+    {
+      "Antonyms": "new, recent",
+      "Article headline": "Islami Bank to raise authorised capital to Tk 10,000cr",
+      "BCS / Bank relevance": "High — banking, finance.",
+      "Bangla meaning": "পুরনো",
+      "Bangla phonetic": "লেগ্যাসি",
+      "Collocations / patterns": "legacy exposures, legacy issues",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721",
+      "English definition": "Something inherited from the past; (adjective) relating to old systems or problems that remain.",
+      "Headword / phrase": "legacy",
+      "IPA": "/ˈleɡəsi/",
+      "Newspaper context note": "Non-performing investments remained high, mostly due to large legacy exposures.",
+      "Original example": "Non-performing investments remained high due to large legacy exposures.",
+      "Part of speech / type": "adjective / noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "inherited, old, historical",
+      "Word family / derivatives": "legacy (noun)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "BRAC Bank completes blockchain-based export deal",
+      "BCS / Bank relevance": "High — finance, trade.",
+      "Bangla meaning": "প্রতিশ্রুতিমূলক",
+      "Bangla phonetic": "প্রমিসরি",
+      "Collocations / patterns": "promissory note, digital promissory note",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/business/organisation-news/news/brac-bank-completes-blockchain-based-export-deal-4316741",
+      "English definition": "Containing a promise to pay; a promissory note is a written promise to pay a sum of money.",
+      "Headword / phrase": "promissory",
+      "IPA": "/ˈprɒmɪsəri/",
+      "Newspaper context note": "The banks electronically transferred a digital promissory note as part of the blockchain export deal.",
+      "Original example": "The banks transferred a digital promissory note electronically.",
+      "Part of speech / type": "adjective",
+      "Priority": "Medium",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "pledged",
+      "Word family / derivatives": "promise (noun / verb)"
+    },
+    {
+      "Antonyms": "infeasibility",
+      "Article headline": "Dhaka’s monorail plans: 2 corridors targeted for completion by 2030",
+      "BCS / Bank relevance": "High — infrastructure, planning.",
+      "Bangla meaning": "সম্ভাব্যতা",
+      "Bangla phonetic": "ফিজিবিলিটি",
+      "Collocations / patterns": "pre-feasibility study, feasibility study",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/ifbhb3yvh8",
+      "English definition": "The quality of being possible or practical; the likelihood that something can be done.",
+      "Headword / phrase": "feasibility",
+      "IPA": "/ˌfiːzəˈbɪləti/",
+      "Newspaper context note": "BUET completed the pre-feasibility study for Dhaka's monorail corridors.",
+      "Original example": "BUET completed the pre-feasibility study for the monorail.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "viability, practicality, workability",
+      "Word family / derivatives": "feasible (adjective)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "Dhaka’s monorail plans: 2 corridors targeted for completion by 2030",
+      "BCS / Bank relevance": "High — transport, infrastructure.",
+      "Bangla meaning": "করিডর",
+      "Bangla phonetic": "করিডর",
+      "Collocations / patterns": "monorail corridor, transport corridor",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/ifbhb3yvh8",
+      "English definition": "A long passage or route, especially a transport route connecting places.",
+      "Headword / phrase": "corridor",
+      "IPA": "/ˈkɒrɪdɔːr/",
+      "Newspaper context note": "Two monorail corridors are targeted for completion by 2030.",
+      "Original example": "Two monorail corridors are targeted for completion by 2030.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "passage, route, channel",
+      "Word family / derivatives": "corridor (noun)"
+    }
+  ],
+  "revision_words": [
+    {
+      "Antonyms": "support, assistance, preservation",
+      "Article headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "BCS / Bank relevance": "High — law and order, political violence, RMG unrest.",
+      "Bangla meaning": "নাশকতা",
+      "Bangla phonetic": "স্যাবোটাজ",
+      "Collocations / patterns": "commit sabotage, act of sabotage, sabotage efforts",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441",
+      "English definition": "Deliberate damage to, or disruption of, property, equipment or an activity, usually for political or military reasons.",
+      "IPA": "/ˈsæbətɑːʒ/",
+      "Newspaper context note": "Dhaka Metropolitan Police arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers during the RMG protests.",
+      "Original example": "The factory owners feared that the unrest would sabotage their export orders.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "vandalism, destruction, undermining",
+      "Word family / derivatives": "saboteur (noun), sabotaged (adjective)",
+      "Headword / phrase": "sabotage",
+      "Record type": "New word",
+      "Part of speech / type": "noun / verb"
+    },
+    {
+      "Antonyms": "prevent, deter, suppress",
+      "Article headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "BCS / Bank relevance": "High — law and order, political violence.",
+      "Bangla meaning": "উসকানি দেওয়া",
+      "Bangla phonetic": "ইনস্টিগেট",
+      "Collocations / patterns": "instigate unrest, instigate violence, instigate a protest",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441",
+      "English definition": "To deliberately start or cause something bad, especially violence or trouble; to provoke.",
+      "IPA": "/ˈɪnstɪɡeɪt/",
+      "Newspaper context note": "Police said the arrested people were instigating the unrest under the banner of labour organisations.",
+      "Original example": "Police said outsiders had instigated the workers to block the highway.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "incite, provoke, trigger",
+      "Word family / derivatives": "instigation (noun), instigator (noun)",
+      "Headword / phrase": "instigate",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "implement, pursue, launch",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — investment, credit, banking.",
+      "Bangla meaning": "স্থগিত রাখা",
+      "Bangla phonetic": "শেলভ",
+      "Collocations / patterns": "shelve a plan, shelve investment plans, shelve a proposal",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "To decide not to continue with a plan or project, or to delay it.",
+      "IPA": "/ʃelv/",
+      "Newspaper context note": "Bankers said businesses were shelving investment plans amid weak business confidence, pushing private credit growth to its lowest on record.",
+      "Original example": "Faced with weak demand, many firms decided to shelve their expansion plans.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "postpone, suspend, abandon",
+      "Word family / derivatives": "shelved (adjective)",
+      "Headword / phrase": "shelve",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "brisk, vigorous, rapid",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — credit, economy, banking.",
+      "Bangla meaning": "মন্থর",
+      "Bangla phonetic": "স্লাগিশ",
+      "Collocations / patterns": "sluggish growth, sluggish lending, sluggish demand",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "Slow-moving or lacking energy or activity; slow to develop.",
+      "IPA": "/ˈslʌɡɪʃ/",
+      "Newspaper context note": "Private sector credit growth fell to 4.17 percent in September amid sluggish lending and weak business confidence.",
+      "Original example": "Sluggish private credit growth shows that businesses are reluctant to borrow.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "slow, lethargic, stagnant",
+      "Word family / derivatives": "sluggishness (noun)",
+      "Headword / phrase": "sluggish",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "buoyant, vigorous, lively",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — investment, economy.",
+      "Bangla meaning": "নিষ্প্রভ",
+      "Bangla phonetic": "সাবডিউড",
+      "Collocations / patterns": "subdued demand, subdued investment, subdued market",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "Quieter or less intense than usual; muted and restrained.",
+      "IPA": "/səbˈdjuːd/",
+      "Newspaper context note": "Bankers blamed subdued investment appetite for the record-low credit growth.",
+      "Original example": "Subdued investment sentiment kept loan disbursement low throughout the quarter.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "muted, restrained, depressed",
+      "Word family / derivatives": "subdue (verb)",
+      "Headword / phrase": "subdued",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "Developing countries' debt hit record $9.4 trillion in 2025: World Bank",
+      "Bangla meaning": "সমস্যা পিছিয়ে দেওয়া",
+      "Common collocations / grammar pattern": "kick the can down the road",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/developing-countries-debt-hit-record-94-trillion-2025-world-bank-4316781",
+      "English explanation": "To postpone dealing with a problem, usually by a temporary fix.",
+      "Exam value": "High — idiom.",
+      "Original example 1": "Governments issued new bonds to buy back maturing debt, effectively kicking the debt can down the road.",
+      "Original example 2": "Delaying the reform is just kicking the can down the road.",
+      "Phrase": "kicking the can down the road",
+      "Publication date": "2026-11-06",
+      "Source publication": "The Daily Star",
+      "Type": "idiom",
+      "Usage / register": "Informal / journalistic."
+    },
+    {
+      "Article headline": "Developing countries' debt hit record $9.4 trillion in 2025: World Bank",
+      "Bangla meaning": "বাইরে ঠেলে দেওয়া",
+      "Common collocations / grammar pattern": "crowd out investment; crowd out spending",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/developing-countries-debt-hit-record-94-trillion-2025-world-bank-4316781",
+      "English explanation": "To push something out by taking its place or using up resources.",
+      "Exam value": "High — phrasal verb, economics.",
+      "Original example 1": "High debt burdens threaten to crowd out essential investments in people.",
+      "Original example 2": "Private borrowing can crowd out public spending.",
+      "Phrase": "crowd out",
+      "Publication date": "2026-11-06",
+      "Source publication": "The Daily Star",
+      "Type": "phrasal verb",
+      "Usage / register": "Neutral; common in economics."
+    },
+    {
+      "Article headline": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+      "Bangla meaning": "অনশন",
+      "Common collocations / grammar pattern": "stage a hunger strike; go on hunger strike",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/7faouaes9h",
+      "English explanation": "A protest in which people refuse to eat until their demands are met.",
+      "Exam value": "High — protest vocabulary.",
+      "Original example 1": "The excluded candidates staged a hunger strike at Dhaka University.",
+      "Original example 2": "Workers went on hunger strike over unpaid wages.",
+      "Phrase": "hunger strike",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral; standard in news."
+    },
+    {
+      "Article headline": "HRW urges police not to use excessive force against protesting garment workers",
+      "Bangla meaning": "মাঠ পর্যায়ে",
+      "Common collocations / grammar pattern": "on the ground; situation on the ground",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/t3806w3hot",
+      "English explanation": "In the actual place where things are happening; in practice.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Human Rights Watch urged police not to use excessive force on the ground.",
+      "Original example 2": "The situation on the ground is improving.",
+      "Phrase": "on the ground",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral; common in news."
+    },
+    {
+      "Article headline": "AI adoption not enough, value creation is key: experts",
+      "Bangla meaning": "দখল করা",
+      "Common collocations / grammar pattern": "take over control; take over from",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/ai-adoption-not-enough-value-creation-key-experts-4316696",
+      "English explanation": "To take control of something; to replace someone.",
+      "Exam value": "High — phrasal verb.",
+      "Original example 1": "AI will take over routine tasks.",
+      "Original example 2": "The new board took over the bank's management.",
+      "Phrase": "take over",
+      "Publication date": "2026-11-06",
+      "Source publication": "The Daily Star",
+      "Type": "phrasal verb",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "BB calls for curbing loan-based money laundering",
+      "Bangla meaning": "আলোচ্যসূচিতে",
+      "Common collocations / grammar pattern": "on the agenda; high on the agenda",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/bb-calls-curbing-loan-based-money-laundering-4316716",
+      "English explanation": "Among the things to be discussed or dealt with.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Curbing loan-based money laundering is on the agenda.",
+      "Original example 2": "The issue is high on the agenda.",
+      "Phrase": "on the agenda",
+      "Publication date": "2026-11-06",
+      "Source publication": "The Daily Star",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+      "Bangla meaning": "ভিত্তিতে",
+      "Common collocations / grammar pattern": "on the basis of merit / evidence / documents",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/7faouaes9h",
+      "English explanation": "Because of, or using something as the reason or foundation.",
+      "Exam value": "High — formal phrase.",
+      "Original example 1": "Candidates were excluded on the basis of police verification.",
+      "Original example 2": "Decisions were made on the basis of merit.",
+      "Phrase": "on the basis of",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Formal."
+    },
+    {
+      "Article headline": "US Midterm Elections: A ‘regime change’ in the US without bloodshed",
+      "Bangla meaning": "আকারে",
+      "Common collocations / grammar pattern": "in the form of",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/1wxn6a58q9",
+      "English explanation": "In the shape or type of something.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Change came in the form of a new government.",
+      "Original example 2": "Aid arrived in the form of food and medicine.",
+      "Phrase": "in the form of",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "HSC supplementary exams: Allegations of extra fees for form submission",
+      "Bangla meaning": "নামে",
+      "Common collocations / grammar pattern": "in the name of",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/vaoowrjzze",
+      "English explanation": "Using something as a justification or excuse.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Extra fees were charged in the name of form submission.",
+      "Original example 2": "He acted in the name of the law.",
+      "Phrase": "in the name of",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "90 million displaced people at climate risk in Bangladesh, other countries: UNHCR",
+      "Bangla meaning": "ঝুঁকিতে",
+      "Common collocations / grammar pattern": "at risk of; put at risk",
+      "Direct source URL": "https://en.prothomalo.com/international/g6t5yf50f7",
+      "English explanation": "Exposed to danger or loss.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "90 million displaced people are at climate risk.",
+      "Original example 2": "Jobs are at risk if factories close.",
+      "Phrase": "at risk",
+      "Publication date": "2026-11-06",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "A",
+      "explanation": "Normalcy is the normal, calm state of affairs after a disturbance.",
+      "no": 1,
+      "options": {
+        "A": "The normal, calm state of affairs",
+        "B": "A holiday",
+        "C": "A strike",
+        "D": "Chaos"
+      },
+      "question": "\"Normalcy returned to the industrial areas.\" — \"normalcy\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "As a precaution means as a safety measure taken in advance.",
+      "no": 2,
+      "options": {
+        "A": "As a celebration",
+        "B": "As a safety measure",
+        "C": "As a punishment",
+        "D": "As a routine"
+      },
+      "question": "\"Factories remained closed as a precaution.\" — \"as a precaution\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "To queue is to stand in a line waiting for something.",
+      "no": 3,
+      "options": {
+        "A": "Sleeping",
+        "B": "Standing in a line",
+        "C": "Protesting",
+        "D": "Working"
+      },
+      "question": "\"Workers were seen queuing outside factories.\" — \"queuing\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "To scrutinise is to examine something very carefully.",
+      "no": 4,
+      "options": {
+        "A": "To hide",
+        "B": "To approve",
+        "C": "To examine closely",
+        "D": "To ignore"
+      },
+      "question": "\"Scrutinise the transactions\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "To hamper is to hinder or obstruct something.",
+      "no": 5,
+      "options": {
+        "A": "Helped",
+        "B": "Started",
+        "C": "Hindered",
+        "D": "Measured"
+      },
+      "question": "\"The unrest hampered production.\" — \"hampered\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "To trace is to find something by following clues or a trail.",
+      "no": 6,
+      "options": {
+        "A": "To lose",
+        "B": "To copy",
+        "C": "To find by following clues",
+        "D": "To block"
+      },
+      "question": "\"Trace possible funding channels.\" — \"trace\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "Cumulative means increasing by additions over time; the total so far.",
+      "no": 7,
+      "options": {
+        "A": "Estimated",
+        "B": "Daily",
+        "C": "Weekly",
+        "D": "Total accumulated so far"
+      },
+      "question": "\"The cumulative number of cases.\" — \"cumulative\" means:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "Collapsed means fallen apart and failed to function.",
+      "no": 8,
+      "options": {
+        "A": "Modern",
+        "B": "Expensive",
+        "C": "Fallen apart and failed",
+        "D": "Rebuilt"
+      },
+      "question": "\"A collapsed healthcare system.\" — \"collapsed\" means:",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "B",
+      "explanation": "Renovation is the repair and renewal of a building or system.",
+      "no": 9,
+      "options": {
+        "A": "Construction of new buildings",
+        "B": "Repair and renewal",
+        "C": "Demolition",
+        "D": "Neglect"
+      },
+      "question": "\"Renovation\" most nearly means:",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "Integrated means combined into a unified, coordinated whole.",
+      "no": 10,
+      "options": {
+        "A": "Secret",
+        "B": "Temporary",
+        "C": "Fragmented",
+        "D": "Unified and coordinated"
+      },
+      "question": "\"An integrated plan\" is a plan that is:",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "Kicking the can down the road means postponing a problem with a temporary fix.",
+      "no": 11,
+      "options": {
+        "A": "Increasing the debt",
+        "B": "Solving the problem",
+        "C": "Cancelling the debt",
+        "D": "Postponing the problem with a temporary fix"
+      },
+      "question": "\"Issuing new bonds to buy back maturing debt is kicking the can down the road.\" — the idiom means:",
+      "section": "Phrases",
+      "source": "CA12"
+    },
+    {
+      "correct": "A",
+      "explanation": "A hunger strike is a protest in which people refuse to eat until their demands are met.",
+      "no": 12,
+      "options": {
+        "A": "Refuse to eat until demands are met",
+        "B": "March in the streets",
+        "C": "Block roads",
+        "D": "Refuse to work"
+      },
+      "question": "A \"hunger strike\" is a protest in which people:",
+      "section": "Phrases",
+      "source": "CA07"
+    },
+    {
+      "correct": "D",
+      "explanation": "The situation eased after five days of labour unrest.",
+      "no": 13,
+      "options": {
+        "A": "Seven",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "question": "After how many days of unrest did the situation ease in the garment sector?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "225 individuals and firms are under the NBR scanner — more than 100 individuals and around 125 companies.",
+      "no": 14,
+      "options": {
+        "A": "125",
+        "B": "1,807",
+        "C": "225",
+        "D": "100"
+      },
+      "question": "How many individuals and firms in total are under the NBR scanner over garment unrest?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "A record Tk 694.09 billion was allocated to health, equivalent to 7.4 percent of the national budget.",
+      "no": 15,
+      "options": {
+        "A": "17.3%",
+        "B": "5.7%",
+        "C": "7.4%",
+        "D": "10.6%"
+      },
+      "question": "What share of the national budget was allocated to the health sector this fiscal year?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "The authorities hope to deliver all textbooks for the 2027 academic year to upazilas by 30 November 2026.",
+      "no": 16,
+      "options": {
+        "A": "1 January 2027",
+        "B": "31 December 2026",
+        "C": "30 June 2027",
+        "D": "30 November 2026"
+      },
+      "question": "By when does the government aim to deliver all textbooks for the 2027 academic year?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "B",
+      "explanation": "105 candidates were left out of the gazette — 49 for late documents and 56 for other administrative reasons.",
+      "no": 17,
+      "options": {
+        "A": "1,702",
+        "B": "105",
+        "C": "56",
+        "D": "49"
+      },
+      "question": "How many 45th BCS candidates were left out of the final gazette?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "correct": "B",
+      "explanation": "Islami Bank plans to raise its authorised capital from Tk 2,000 crore to Tk 10,000 crore.",
+      "no": 18,
+      "options": {
+        "A": "Tk 2,000 crore",
+        "B": "Tk 10,000 crore",
+        "C": "Tk 33,000 crore",
+        "D": "Tk 80,000 crore"
+      },
+      "question": "To what level does Islami Bank plan to raise its authorised capital?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "B",
+      "explanation": "Bank Asia's net profit rose 34 percent year-on-year to Tk 472 crore in January-September 2026.",
+      "no": 19,
+      "options": {
+        "A": "5%",
+        "B": "34%",
+        "C": "37%",
+        "D": "19%"
+      },
+      "question": "By how much did Bank Asia's net profit rise in January-September 2026?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "A",
+      "explanation": "Document processing took one day, compared with 40 days conventionally.",
+      "no": 20,
+      "options": {
+        "A": "One day",
+        "B": "One month",
+        "C": "One week",
+        "D": "Ten days"
+      },
+      "question": "How long did document processing take in BRAC Bank's blockchain export deal, compared with 40 days conventionally?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "correct": "B",
+      "explanation": "Two monorail corridors are targeted for completion by 2030.",
+      "no": 21,
+      "options": {
+        "A": "2028",
+        "B": "2030",
+        "C": "2027",
+        "D": "2035"
+      },
+      "question": "By when are Dhaka's two monorail corridors targeted for completion?",
+      "section": "Current Affairs",
+      "source": "CA11"
+    },
+    {
+      "correct": "A",
+      "explanation": "The external debt of developing countries hit a record $9.4 trillion in 2025.",
+      "no": 22,
+      "options": {
+        "A": "$9.4 trillion",
+        "B": "$8.2 trillion",
+        "C": "$1.4 trillion",
+        "D": "$436 billion"
+      },
+      "question": "What was the external debt of developing countries in 2025, according to the World Bank?",
+      "section": "Current Affairs",
+      "source": "CA12"
+    },
+    {
+      "correct": "A",
+      "explanation": "Nearly 90 million forcibly displaced people live in countries exposed to severe climate risks.",
+      "no": 23,
+      "options": {
+        "A": "Nearly 90 million",
+        "B": "100 million",
+        "C": "1.4 trillion",
+        "D": "Nearly 4 million"
+      },
+      "question": "How many forcibly displaced people are living in countries exposed to severe climate risks, according to UNHCR?",
+      "section": "Current Affairs",
+      "source": "CA13"
+    },
+    {
+      "correct": "A",
+      "explanation": "2026 is 'most likely' to be the second-hottest year on record, with a 20 percent chance of tying or exceeding 2024.",
+      "no": 24,
+      "options": {
+        "A": "The second-hottest year on record",
+        "B": "An average year",
+        "C": "The hottest year on record",
+        "D": "The coldest year on record"
+      },
+      "question": "What is 2026 'most likely' to be, according to the EU's Copernicus monitor?",
+      "section": "Current Affairs",
+      "source": "CA14"
+    },
+    {
+      "correct": "D",
+      "explanation": "The UGC annual report said about 60-70 percent of the country's graduates come from the National University.",
+      "no": 25,
+      "options": {
+        "A": "80-90%",
+        "B": "10-20%",
+        "C": "30-40%",
+        "D": "60-70%"
+      },
+      "question": "According to the UGC annual report, about what share of the country's graduates come from the National University?",
+      "section": "Current Affairs",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Garment unrest eases as workers return to work",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "One-third of garment factories open in Gazipur, situation normal: Police",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/business/economy/rmg/news/one-third-garment-factories-open-gazipur-situation-normal-police-4316956"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "225 individuals, firms under NBR scanner",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "3 die, 1,535 hospitalised with dengue in 24 hours",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/3-die-1535-hospitalised-dengue-24-hours-4317161"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "4 more die with measles-like symptoms in 24 hours",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/4-more-die-measles-symptoms-24-hours-4317156"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Govt unveils comprehensive plan to rebuild health system",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/tpl7l9fui9"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Govt aims to deliver all textbooks by Nov",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/govt-aims-deliver-all-textbooks-nov-4316831"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "45th BCS: Re-verification begins for candidates left out of gazette, decision expected this month",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/7faouaes9h"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Islami Bank to raise authorised capital to Tk 10,000cr",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Islami Bank to increase authorised capital by Tk 80 billion",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/business/local/1m7qj6m66x"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bank Asia reports 34% rise in Jan-Sept profit",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/bank-asia-reports-34-rise-jan-sept-profit-4316691"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BRAC Bank completes blockchain-based export deal",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/business/organisation-news/news/brac-bank-completes-blockchain-based-export-deal-4316741"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Dhaka’s monorail plans: 2 corridors targeted for completion by 2030",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/city/ifbhb3yvh8"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Developing countries' debt hit record $9.4 trillion in 2025: World Bank",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/developing-countries-debt-hit-record-94-trillion-2025-world-bank-4316781"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "90 million displaced people at climate risk in Bangladesh, other countries: UNHCR",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/international/g6t5yf50f7"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "2026 ‘most likely’ to be second-hottest year on record: EU monitor",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/2026-most-likely-be-second-hottest-year-record-eu-monitor-4317066"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Unemployment among educated people rises, alongside lack of skills",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/snqz3e2d3j"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled edition: built from real articles published 6 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). Friday edition — thinner news day (119 articles collected vs 148-166 on other backfill days). CA03 (dengue) and CA04 (measles) have no Current Affairs MCQ.",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}

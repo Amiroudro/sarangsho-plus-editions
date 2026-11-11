@@ -1,0 +1,2416 @@
+{
+  "edition_date": "2026-11-03",
+  "edition_day": "Tuesday",
+  "coverage": "3 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Garment unrest enters fourth day as 200 more factories close",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Garment workers' protests entered a fourth day on 3 November, with at least 200 factories in Savar and Ashulia closed and 264 in Savar-Ashulia plus 150 in Gazipur shut the day before. Police filed cases against more than 2,300 people in Savar and arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers. About 50 police personnel were injured in clashes over four days.",
+      "why_it_matters": "The unrest is now a multi-day crisis hitting the export sector; the arrests and cases show how the state is responding, and the wage demand remains unresolved.",
+      "exam_facts": "Protests entered fourth day on 3 November; 200 factories closed in Savar-Ashulia on 3 November; 264 shut in Savar-Ashulia and 150 in Gazipur on 2 November; 3 cases filed in Savar against 2,300+ people; 33 AL-affiliated people arrested in Dhaka over alleged sabotage; about 50 police injured in four days; last wage rise from Tk 8,000 to Tk 12,500 took effect 1 December 2023.",
+      "exam_relevance": "High — RMG, labour unrest, law and order.",
+      "key_people": "Salahuddin Ahmed, Home Minister; Mohammad Mominul Islam Bhuiyan, Superintendent, Ashulia Industrial Police-1; Akhter Hossain, Deputy Commissioner (Media), Dhaka Metropolitan Police.",
+      "figures": "200 factories closed (3 November); 264 + 150 shut (2 November); 2,300+ accused; 33 arrested; about 50 police injured.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Clashes, blockades continue on 3rd day of RMG unrest",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/clashes-blockades-continue-3rd-day-rmg-unrest-4314151"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Workers’ unrest forces 200 factories to close in Savar, Ashulia: Industrial Police",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/news/workers-unrest-forces-200-factories-close-savar-ashulia-industrial-police-4314411"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "3 cases filed over labour unrest in Savar, over 2,300 accused",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/news/3-cases-filed-over-labour-unrest-savar-over-2300-accused-4314696"
+        }
+      ],
+      "one_liner": "Garment workers' protests entered a fourth day on 3 November, with at least 200 factories in Savar and Ashulia closed…",
+      "key_facts": [
+        {
+          "label": "3 November",
+          "value": "200 factories closed",
+          "original": "200 factories closed (3 November)"
+        },
+        {
+          "label": "2 November",
+          "value": "264 + 150 shut",
+          "original": "264 + 150 shut (2 November)"
+        },
+        {
+          "label": "+ accused",
+          "value": "2,300",
+          "original": "2,300+ accused"
+        },
+        {
+          "label": "about police injured",
+          "value": "50",
+          "original": "about 50 police injured"
+        }
+      ],
+      "what_happened": [
+        "Police filed cases against more than 2,300 people in Savar and arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers.",
+        "About 50 police personnel were injured in clashes over four days."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is + accused?",
+          "a": "2,300"
+        },
+        {
+          "q": "What is about police injured?",
+          "a": "50"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garment workers' protests entered a fourth day on ______, with at least 200 factories in Savar and Ashulia closed and 264 in Savar-Ashulia plus 150 in Gazipur shut the day before.",
+          "answer": "3 November"
+        },
+        {
+          "cloze": "Police filed cases against more than ______ people in Savar and arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers.",
+          "answer": "2,300"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "unrest",
+        "enters",
+        "fourth",
+        "factories",
+        "close"
+      ],
+      "detail": "Garment workers' protests entered a fourth day on 3 November, with at least 200 factories in Savar and Ashulia closed and 264 in Savar-Ashulia plus 150 in Gazipur shut the day before. Police filed cases against more than 2,300 people in Savar and arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers. About 50 police personnel were injured in clashes over four days."
+    },
+    {
+      "id": "CA02",
+      "headline": "Wage board yet to hold first meeting three days after formation",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "The six-member garment wage board formed on 1 November has yet to hold its first meeting three days later, even as protests continued in Gazipur, Savar-Ashulia and Mirpur. Chairman Sheikh Ashfaqur Rahman said a meeting would be held soon and the process would be completed much faster than the previous board, which took 45 days to meet and six to seven months to finish. Analysis shows inflation has outpaced wage growth since February 2022, so a fair wage would be at least Tk 17,500 just to restore real income.",
+      "why_it_matters": "The wage board is the institutional answer to the unrest; its delay and the economics of a fair wage are the heart of the story and of labour-policy exams.",
+      "exam_facts": "Wage board formed 1 November, no first meeting by 3 November; chairman Sheikh Ashfaqur Rahman; previous board: first meeting after 45 days, process took six to seven months; inflation 8.34 percent (September 2026) vs wage growth 8.05 percent (August); inflation outpaced wage growth since February 2022; fair wage at least Tk 17,500 to restore real income, Tk 18,000 to keep the shortfall within Tk 3,000.",
+      "exam_relevance": "High — wage board, inflation, labour economics.",
+      "key_people": "Sheikh Ashfaqur Rahman, Chairman of the wage board; Mosleh Uddin Ahmed, independent member.",
+      "figures": "No meeting in 3 days; fair wage at least Tk 17,500; inflation 8.34 percent; wage growth 8.05 percent.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Garment workers’ wage board: No step to call meeting in 3 days",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/business/local/ttcp673ihf"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "How much should garment workers actually be paid?",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/opinion/2nuq171a7l"
+        }
+      ],
+      "one_liner": "The six-member garment wage board formed on 1 November has yet to hold its first meeting three days later, even…",
+      "key_facts": [
+        {
+          "label": "No meeting in days",
+          "value": "3",
+          "original": "No meeting in 3 days"
+        },
+        {
+          "label": "fair wage at least",
+          "value": "Tk 17,500",
+          "original": "fair wage at least Tk 17,500"
+        },
+        {
+          "label": "inflation",
+          "value": "8.34 percent",
+          "original": "inflation 8.34 percent"
+        },
+        {
+          "label": "wage growth",
+          "value": "8.05 percent",
+          "original": "wage growth 8.05 percent"
+        }
+      ],
+      "what_happened": [
+        "Chairman Sheikh Ashfaqur Rahman said a meeting would be held soon and the process would be completed much faster than the previous board,",
+        "which took 45 days to meet and six to seven months to finish.",
+        "Analysis shows inflation has outpaced wage growth since February 2022, so a fair wage would be at least Tk 17,500 just to restore real income."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is fair wage at least?",
+          "a": "Tk 17,500"
+        },
+        {
+          "q": "What is inflation?",
+          "a": "8.34 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The six-member garment wage board formed on ______ has yet to hold its first meeting three days later, even as protests continued in Gazipur, Savar-Ashulia and Mirpur.",
+          "answer": "1 November"
+        },
+        {
+          "cloze": "Chairman Sheikh Ashfaqur Rahman said a meeting would be held soon and the process would be completed much faster than the previous board, which took ______ days to meet and six to seven months to finish.",
+          "answer": "45"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "wage",
+        "board",
+        "hold",
+        "meeting",
+        "days",
+        "formation"
+      ],
+      "detail": "The six-member garment wage board formed on 1 November has yet to hold its first meeting three days later, even as protests continued in Gazipur, Savar-Ashulia and Mirpur. Chairman Sheikh Ashfaqur Rahman said a meeting would be held soon and the process would be completed much faster than the previous board, which took 45 days to meet and six to seven months to finish. Analysis shows inflation has outpaced wage growth since February 2022, so a fair wage would be at least Tk 17,500 just to restore real income."
+    },
+    {
+      "id": "CA03",
+      "headline": "US strikes Iran's Qeshm Island ahead of midterm elections",
+      "category": "World",
+      "event_date": "2026-11-02",
+      "article_date": "2026-11-03",
+      "summary": "The United States attacked Iran's Qeshm Island on 2 November, the Wall Street Journal reported, even as President Donald Trump signalled progress in negotiations with Tehran to end the eight-month-old conflict. Iranian state media reported five explosions in rapid succession on the island, the largest in the Strait of Hormuz. The strike was the latest in a series of limited US strikes carried out secretly in recent weeks, and oil prices plunged more than 7 percent on optimism over a possible deal.",
+      "why_it_matters": "A US strike on Iran and the Strait of Hormuz — the world's key oil corridor — affects energy prices, trade and Bangladesh's import bill, and is a major international-affairs story.",
+      "exam_facts": "Strike on Qeshm Island, 2 November (reported by the Wall Street Journal, citing US officials); five explosions reported by Iranian agency IRNA; latest of secret limited US strikes over recent weeks; Strait of Hormuz largely blocked since the war began in late February; oil prices fell more than 7 percent on 2 November; Trump said a deal with Tehran 'could happen'.",
+      "exam_relevance": "High — US-Iran conflict, Strait of Hormuz, oil prices.",
+      "key_people": "Donald Trump, US President.",
+      "figures": "Five explosions reported; oil prices down more than 7 percent; war eight months old.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "US strikes Iran’s Qeshm Island ahead of midterm elections",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/international/middle-east/vptgmydah5"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "US strikes Iran's Qeshm island: Wall Street Journal",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/world/news/us-strikes-irans-qeshm-island-wall-street-journal-4314216"
+        }
+      ],
+      "one_liner": "The United States attacked Iran's Qeshm Island on 2 November, the Wall Street Journal reported, even as President Donald Trump…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Five explosions reported",
+          "original": "Five explosions reported"
+        },
+        {
+          "label": "oil prices down more than",
+          "value": "7 percent",
+          "original": "oil prices down more than 7 percent"
+        },
+        {
+          "label": "",
+          "value": "war eight months old",
+          "original": "war eight months old"
+        },
+        {
+          "label": "reported by the Wall Street Journal, citing US officials",
+          "value": "Strike on Qeshm Island, 2 November",
+          "original": "Strike on Qeshm Island, 2 November (reported by the Wall Street Journal, citing US officials)"
+        }
+      ],
+      "what_happened": [
+        "Iranian state media reported five explosions in rapid succession on the island, the largest in the Strait of Hormuz.",
+        "The strike was the latest in a series of limited US strikes carried out secretly in recent weeks,",
+        "and oil prices plunged more than 7 percent on optimism over a possible deal."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is oil prices down more than?",
+          "a": "7 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The United States attacked Iran's Qeshm Island on ______, the Wall Street Journal reported, even as President Donald Trump signalled progress in negotiations with Tehran to end the eight-month-old conflict.",
+          "answer": "2 November"
+        },
+        {
+          "cloze": "The strike was the latest in a series of limited US strikes carried out secretly in recent weeks, and oil prices plunged more than ______ percent on optimism over a possible deal.",
+          "answer": "7"
+        }
+      ],
+      "keywords": [
+        "world",
+        "strikes",
+        "iran",
+        "qeshm",
+        "island",
+        "midterm",
+        "elections"
+      ],
+      "detail": "The United States attacked Iran's Qeshm Island on 2 November, the Wall Street Journal reported, even as President Donald Trump signalled progress in negotiations with Tehran to end the eight-month-old conflict. Iranian state media reported five explosions in rapid succession on the island, the largest in the Strait of Hormuz. The strike was the latest in a series of limited US strikes carried out secretly in recent weeks, and oil prices plunged more than 7 percent on optimism over a possible deal."
+    },
+    {
+      "id": "CA04",
+      "headline": "Americans vote in midterm elections that could upend Trump's presidency",
+      "category": "World",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Americans voted on 3 November in midterm elections that threaten to break Donald Trump's grip on Washington, with Democrats poised to seize the House and challenge for the Senate. All 435 House seats and 35 of the 100 Senate seats are at stake, along with governorships in 36 states. Democrats need only three House gains and a net four Senate seats to take both chambers, with Trump's approval rating near the low 30s amid anger over living costs and the war against Iran.",
+      "why_it_matters": "Midterm results decide who controls the US Congress and therefore trade, aid and foreign policy that affect Bangladesh; the numbers are standard international-affairs material.",
+      "exam_facts": "Midterms on 3 November 2026; all 435 House seats, 35 of 100 Senate seats, governors in 36 states; Democrats need +3 House seats and net +4 Senate seats; Trump's approval near the low 30s; midterms are held at the halfway point between presidential elections and are often a referendum on the president.",
+      "exam_relevance": "High — US politics, elections, Congress.",
+      "key_people": "Donald Trump, US President; Jon Ossoff, Democratic Senator (Georgia).",
+      "figures": "435 House seats; 35 Senate seats; 36 governorships; Democrats need +3 House and +4 Senate.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Americans vote in midterms set to upend Trump presidency",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/international/americas/3vd9d6m2aq"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "US midterm election: Why it's important and races to watch",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401"
+        }
+      ],
+      "one_liner": "Americans voted on 3 November in midterm elections that threaten to break Donald Trump's grip on Washington, with Democrats poised…",
+      "key_facts": [
+        {
+          "label": "Senate seats",
+          "value": "35",
+          "original": "35 Senate seats"
+        },
+        {
+          "label": "governorships",
+          "value": "36",
+          "original": "36 governorships"
+        },
+        {
+          "label": "Democrats need + House and +4…",
+          "value": "3",
+          "original": "Democrats need +3 House and +4 Senate"
+        },
+        {
+          "label": "",
+          "value": "Midterms on 3 November 2026",
+          "original": "Midterms on 3 November 2026"
+        }
+      ],
+      "what_happened": [
+        "All 435 House seats and 35 of the 100 Senate seats are at stake, along with governorships in 36 states.",
+        "Democrats need only three House gains and a net four Senate seats to take both chambers,",
+        "with Trump's approval rating near the low 30s amid anger over living costs and the war against Iran."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Senate seats?",
+          "a": "35"
+        },
+        {
+          "q": "What is governorships?",
+          "a": "36"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Americans voted on ______ in midterm elections that threaten to break Donald Trump's grip on Washington, with Democrats poised to seize the House and challenge for the Senate.",
+          "answer": "3 November"
+        },
+        {
+          "cloze": "All ______ House seats and 35 of the 100 Senate seats are at stake, along with governorships in 36 states.",
+          "answer": "435"
+        }
+      ],
+      "keywords": [
+        "world",
+        "americans",
+        "vote",
+        "midterm",
+        "elections",
+        "upend",
+        "trump",
+        "presidency"
+      ],
+      "detail": "Americans voted on 3 November in midterm elections that threaten to break Donald Trump's grip on Washington, with Democrats poised to seize the House and challenge for the Senate. All 435 House seats and 35 of the 100 Senate seats are at stake, along with governorships in 36 states. Democrats need only three House gains and a net four Senate seats to take both chambers, with Trump's approval rating near the low 30s amid anger over living costs and the war against Iran."
+    },
+    {
+      "id": "CA05",
+      "headline": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter rolls",
+      "category": "World",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "India's Home Minister Amit Shah claimed that around three crore people flagged during the Election Commission's Special Intensive Revision of electoral rolls were Bangladeshi infiltrators with no legitimate place on the rolls. The Commission's draft data classified about 3.01 crore entries as voters who were absent or untraceable, but it has not identified all of them as Bangladeshi nationals, and the figures remain subject to claims and objections. Shah challenged Congress leader Rahul Gandhi to a parliamentary debate on the revision.",
+      "why_it_matters": "Claims about Bangladeshi migrants in India are a sensitive bilateral issue; the distinction between the minister's claim and the Commission's data is exactly what exam questions test.",
+      "exam_facts": "Claim: about three crore flagged people are Bangladeshi infiltrators (Amit Shah, at a BJP rally in Hyderabad); Election Commission draft data: about 3.01 crore entries absent or untraceable, not identified as Bangladeshi; Shah said 6.25 crore had shifted residences, three crore were deceased, one crore had duplicate entries; exercise: Special Intensive Revision (SIR) of electoral rolls.",
+      "exam_relevance": "High — India-Bangladesh relations, migration, elections.",
+      "key_people": "Amit Shah, India's Union Home Minister; Rahul Gandhi, Congress leader.",
+      "figures": "Three crore claimed as infiltrators; 3.01 crore entries absent or untraceable (EC draft data).",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter roll revision, challenges Rahul Gandhi",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/news/amit-shah-claims-three-crore-bangladeshi-infiltrators-voter-roll-revision-challenges-rahul-gandhi-4314336"
+        }
+      ],
+      "one_liner": "India's Home Minister Amit Shah claimed that around three crore people flagged during the Election Commission's Special Intensive Revision of…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Three crore claimed as infiltrators",
+          "original": "Three crore claimed as infiltrators"
+        },
+        {
+          "label": "EC draft data",
+          "value": "3.01 crore entries absent or untraceable",
+          "original": "3.01 crore entries absent or untraceable (EC draft data)"
+        },
+        {
+          "label": "Amit Shah, at a BJP rally in Hyderabad",
+          "value": "Claim: about three crore flagged people are Bangladeshi infiltrators",
+          "original": "Claim: about three crore flagged people are Bangladeshi infiltrators (Amit Shah, at a BJP rally in Hyderabad)"
+        },
+        {
+          "label": "Election Commission draft data",
+          "value": "about 3.01 crore entries absent or untraceable, not identified as Bangladeshi",
+          "original": "Election Commission draft data: about 3.01 crore entries absent or untraceable, not identified as Bangladeshi"
+        }
+      ],
+      "what_happened": [
+        "The Commission's draft data classified about 3.01 crore entries as voters who were absent or untraceable,",
+        "but it has not identified all of them as Bangladeshi nationals, and the figures remain subject to claims and objections.",
+        "Shah challenged Congress leader Rahul Gandhi to a parliamentary debate on the revision."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is EC draft data?",
+          "a": "3.01 crore entries absent or untraceable"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Commission's draft data classified about ______ crore entries as voters who were absent or untraceable, but it has not identified all of them as Bangladeshi nationals, and the figures remain subject to claims and objections.",
+          "answer": "3.01"
+        }
+      ],
+      "keywords": [
+        "world",
+        "amit",
+        "shah",
+        "claims",
+        "crore",
+        "bangladeshi",
+        "infiltrators",
+        "india",
+        "voter",
+        "rolls"
+      ],
+      "detail": "India's Home Minister Amit Shah claimed that around three crore people flagged during the Election Commission's Special Intensive Revision of electoral rolls were Bangladeshi infiltrators with no legitimate place on the rolls. The Commission's draft data classified about 3.01 crore entries as voters who were absent or untraceable, but it has not identified all of them as Bangladeshi nationals, and the figures remain subject to claims and objections. Shah challenged Congress leader Rahul Gandhi to a parliamentary debate on the revision."
+    },
+    {
+      "id": "CA06",
+      "headline": "Private sector credit growth falls to lowest on record",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Private sector credit growth fell to a historic low of 4.17 percent in September, down from 4.75 percent in August, according to provisional Bangladesh Bank data — the weakest since at least 1993 — and below the central bank's projection of 6.8 percent through December. Bankers blamed weak business confidence, shelved investment plans and cautious lending. Inflation eased slightly to 8.34 percent in September, though the IMF projected average inflation to rise to 10.9 percent this fiscal year.",
+      "why_it_matters": "Credit growth is the key gauge of investment and business confidence; a record low signals a weak economy and is a core banking-exam indicator.",
+      "exam_facts": "Private sector credit growth: 4.17 percent in September (from 4.75 percent in August); lowest since at least 1993; Bangladesh Bank projection: 6.8 percent through December; inflation 8.34 percent in September (from 8.26 percent in August); IMF projected average inflation of 10.9 percent in the current fiscal year.",
+      "exam_relevance": "High — credit, monetary policy, inflation.",
+      "key_people": "Syed Mahbubur Rahman, Managing Director and CEO, Mutual Trust Bank.",
+      "figures": "4.17 percent credit growth (September); lowest since at least 1993; inflation 8.34 percent; IMF projection 10.9 percent.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Private sector credit growth slips to lowest on record",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001"
+        }
+      ],
+      "one_liner": "Private sector credit growth fell to a historic low of 4.17 percent in September, down from 4.75 percent in August,…",
+      "key_facts": [
+        {
+          "label": "September",
+          "value": "4.17 percent credit growth",
+          "original": "4.17 percent credit growth (September)"
+        },
+        {
+          "label": "",
+          "value": "lowest since at least 1993",
+          "original": "lowest since at least 1993"
+        },
+        {
+          "label": "inflation",
+          "value": "8.34 percent",
+          "original": "inflation 8.34 percent"
+        },
+        {
+          "label": "IMF projection",
+          "value": "10.9 percent",
+          "original": "IMF projection 10.9 percent"
+        }
+      ],
+      "what_happened": [
+        "Bankers blamed weak business confidence, shelved investment plans and cautious lending.",
+        "Inflation eased slightly to 8.34 percent in September, though the IMF projected average inflation to rise to 10.9 percent this fiscal year."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is inflation?",
+          "a": "8.34 percent"
+        },
+        {
+          "q": "What is IMF projection?",
+          "a": "10.9 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Private sector credit growth fell to a historic low of ______ percent in September, down from 4.75 percent in August, according to provisional Bangladesh Bank data — the weakest since at least 1993 — and below the central bank's projection of 6.8 percent through December.",
+          "answer": "4.17"
+        },
+        {
+          "cloze": "Inflation eased slightly to ______ percent in September, though the IMF projected average inflation to rise to 10.9 percent this fiscal year.",
+          "answer": "8.34"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "private",
+        "sector",
+        "credit",
+        "growth",
+        "falls",
+        "lowest",
+        "record"
+      ],
+      "detail": "Private sector credit growth fell to a historic low of 4.17 percent in September, down from 4.75 percent in August, according to provisional Bangladesh Bank data — the weakest since at least 1993 — and below the central bank's projection of 6.8 percent through December. Bankers blamed weak business confidence, shelved investment plans and cautious lending. Inflation eased slightly to 8.34 percent in September, though the IMF projected average inflation to rise to 10.9 percent this fiscal year."
+    },
+    {
+      "id": "CA07",
+      "headline": "Bangladesh Bank appoints independent directors to two troubled banks",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Bangladesh Bank appointed five independent directors to the boards of two troubled lenders, Bangladesh Commerce Bank and The Premier Bank, using its powers under the Bank Companies Act, 1991. Md Rafiqul Islam and SM Abdul Hamid will join Commerce Bank, while Brigadier General (retired) Md Jahedur Rahman, Mohammad Mosharraf Hossain and Md Masudur Rahman Shah will join Premier Bank. Commerce Bank had about 65 percent non-performing loans at the end of 2025, and Premier Bank 31 percent.",
+      "why_it_matters": "Central-bank intervention in weak banks is a core banking-reform topic; the NPL ratios show the scale of the problem.",
+      "exam_facts": "Five independent directors appointed under the Bank Companies Act, 1991; Commerce Bank: Md Rafiqul Islam and SM Abdul Hamid; Premier Bank: Brig Gen (retd) Md Jahedur Rahman, Mohammad Mosharraf Hossain, Md Masudur Rahman Shah; Commerce Bank NPL about 65 percent (end-2025), losses Tk 450 crore; Premier Bank NPL 31 percent, losses nearly Tk 1,000 crore in 2025.",
+      "exam_relevance": "High — banking regulation, NPL, Bangladesh Bank.",
+      "key_people": "Bangladesh Bank (regulator).",
+      "figures": "Five directors; Commerce Bank NPL about 65 percent; Premier Bank NPL 31 percent; losses Tk 450 crore and about Tk 1,000 crore.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "BB appoints independent directors to Commerce Bank, Premier Bank",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/news/bb-appoints-independent-directors-commerce-bank-premier-bank-4314731"
+        }
+      ],
+      "one_liner": "Bangladesh Bank appointed five independent directors to the boards of two troubled lenders, Bangladesh Commerce Bank and The Premier Bank,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Five directors",
+          "original": "Five directors"
+        },
+        {
+          "label": "Commerce Bank NPL about",
+          "value": "65 percent",
+          "original": "Commerce Bank NPL about 65 percent"
+        },
+        {
+          "label": "Premier Bank NPL",
+          "value": "31 percent",
+          "original": "Premier Bank NPL 31 percent"
+        },
+        {
+          "label": "losses crore and about Tk 1,000…",
+          "value": "Tk 450",
+          "original": "losses Tk 450 crore and about Tk 1,000 crore"
+        }
+      ],
+      "what_happened": [
+        "Md Rafiqul Islam and SM Abdul Hamid will join Commerce Bank, while Brigadier General (retired) Md Jahedur Rahman,",
+        "Mohammad Mosharraf Hossain and Md Masudur Rahman Shah will join Premier Bank.",
+        "Commerce Bank had about 65 percent non-performing loans at the end of 2025, and Premier Bank 31 percent."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Commerce Bank NPL about?",
+          "a": "65 percent"
+        },
+        {
+          "q": "What is Premier Bank NPL?",
+          "a": "31 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank appointed five independent directors to the boards of two troubled lenders, Bangladesh Commerce Bank and The Premier Bank, using its powers under the Bank Companies Act, ______.",
+          "answer": "1991"
+        },
+        {
+          "cloze": "Commerce Bank had about ______ percent non-performing loans at the end of 2025, and Premier Bank 31 percent.",
+          "answer": "65"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "appoints",
+        "independent",
+        "directors",
+        "troubled",
+        "banks"
+      ],
+      "detail": "Bangladesh Bank appointed five independent directors to the boards of two troubled lenders, Bangladesh Commerce Bank and The Premier Bank, using its powers under the Bank Companies Act, 1991. Md Rafiqul Islam and SM Abdul Hamid will join Commerce Bank, while Brigadier General (retired) Md Jahedur Rahman, Mohammad Mosharraf Hossain and Md Masudur Rahman Shah will join Premier Bank. Commerce Bank had about 65 percent non-performing loans at the end of 2025, and Premier Bank 31 percent."
+    },
+    {
+      "id": "CA08",
+      "headline": "BNP factional clashes killed 9 and injured 185 in October, report says",
+      "category": "Politics",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Internal feuds within the BNP accounted for half of all political violence in October, leaving nine people dead and at least 185 injured in 35 clashes, according to the Human Rights Support Society. Overall, at least 12 people — 10 from the BNP and two from the Awami League — were killed and 334 injured in 70 incidents of political violence. The report also recorded 33 mob beatings that killed 22 people, attacks on 46 journalists, and violence against 261 women and girls, including 82 rapes.",
+      "why_it_matters": "Monthly political-violence data is a governance exam staple, and the figures show the scale of intra-party violence and attacks on journalists and women.",
+      "exam_facts": "October political violence: 70 incidents, 12 killed (10 BNP, 2 AL), 334 injured; BNP factional clashes: 35 incidents, 9 dead, 185 injured; 33 mob beatings killed 22; 46 journalists attacked or harassed in 28 incidents (1 killed, 31 injured); 261 women and girls subjected to violence, including 82 rapes (42 children) and 20 gang rapes; source: Human Rights Support Society (HRSS), compiled from 16 media outlets.",
+      "exam_relevance": "High — political violence, human rights, governance.",
+      "key_people": "Ijajul Islam, Executive Director, Human Rights Support Society.",
+      "figures": "9 dead, 185 injured in BNP factional clashes; 12 killed, 334 injured overall; 22 killed in mob beatings; 82 rapes.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "BNP factional clashes leave 9 dead, 185 injured in October: HRSS report",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/bangladesh/rights/news/bnp-factional-clashes-leave-9-dead-185-injured-october-hrss-report-4314621"
+        }
+      ],
+      "one_liner": "Internal feuds within the BNP accounted for half of all political violence in October, leaving nine people dead and at…",
+      "key_facts": [
+        {
+          "label": "dead, 185 injured in BNP factional…",
+          "value": "9",
+          "original": "9 dead, 185 injured in BNP factional clashes"
+        },
+        {
+          "label": "killed, 334 injured overall",
+          "value": "12",
+          "original": "12 killed, 334 injured overall"
+        },
+        {
+          "label": "killed in mob beatings",
+          "value": "22",
+          "original": "22 killed in mob beatings"
+        },
+        {
+          "label": "October political violence",
+          "value": "70 incidents, 12 killed (10 BNP, 2 AL), 334 injured",
+          "original": "October political violence: 70 incidents, 12 killed (10 BNP, 2 AL), 334 injured"
+        }
+      ],
+      "what_happened": [
+        "Overall, at least 12 people — 10 from the BNP and two from the Awami League — were killed and 334 injured in 70 incidents of political violence.",
+        "The report also recorded 33 mob beatings that killed 22 people, attacks on 46 journalists, and violence against 261 women and girls, including 82 rapes."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is killed in mob beatings?",
+          "a": "22"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Internal feuds within the BNP accounted for half of all political violence in October, leaving nine people dead and at least ______ injured in 35 clashes, according to the Human Rights Support Society.",
+          "answer": "185"
+        },
+        {
+          "cloze": "Overall, at least ______ people — 10 from the BNP and two from the Awami League — were killed and 334 injured in 70 incidents of political violence.",
+          "answer": "12"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "factional",
+        "clashes",
+        "killed",
+        "injured",
+        "october",
+        "report"
+      ],
+      "detail": "Internal feuds within the BNP accounted for half of all political violence in October, leaving nine people dead and at least 185 injured in 35 clashes, according to the Human Rights Support Society. Overall, at least 12 people — 10 from the BNP and two from the Awami League — were killed and 334 injured in 70 incidents of political violence. The report also recorded 33 mob beatings that killed 22 people, attacks on 46 journalists, and violence against 261 women and girls, including 82 rapes."
+    },
+    {
+      "id": "CA09",
+      "headline": "Bangladesh and South Korea plan joint investment task force",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Bangladesh and South Korea agreed to set up a joint government-private sector working group to identify investment opportunities and expand trade, following the conclusion of negotiations on a Comprehensive Economic Partnership Agreement. Finance Minister Amir Khosru Mahmud Chowdhury told his South Korean counterpart in Seoul that cooperation should move beyond textiles into electronics and semiconductors, shipbuilding, renewable energy, artificial intelligence and digital industries.",
+      "why_it_matters": "A new economic partnership with South Korea and the move beyond garments into technology are trade and foreign-policy exam topics.",
+      "exam_facts": "Joint working group agreed after conclusion of CEPA (Comprehensive Economic Partnership Agreement) negotiations; meeting in Seoul between Amir Khosru Mahmud Chowdhury and South Korean Trade Minister Jung-sung Park; priority areas: electronics and semiconductors, shipbuilding, renewable energy, AI, digital industries; customs duties on electronics raw materials cut from 26 percent to zero.",
+      "exam_relevance": "High — trade, CEPA, foreign investment.",
+      "key_people": "Amir Khosru Mahmud Chowdhury, Finance and Planning Minister; Jung-sung Park, South Korean Trade Minister.",
+      "figures": "Customs duties on electronics raw materials cut from 26 percent to zero.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Bangladesh, South Korea plan joint investment task force",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-south-korea-plan-joint-investment-task-force-4314296"
+        }
+      ],
+      "one_liner": "Bangladesh and South Korea agreed to set up a joint government-private sector working group to identify investment opportunities and expand…",
+      "key_facts": [
+        {
+          "label": "Customs duties on electronics raw materials…",
+          "value": "26 percent",
+          "original": "Customs duties on electronics raw materials cut from 26 percent to zero"
+        },
+        {
+          "label": "priority areas",
+          "value": "electronics and semiconductors, shipbuilding, renewable energy, AI, digital industries",
+          "original": "priority areas: electronics and semiconductors, shipbuilding, renewable energy, AI, digital industries"
+        }
+      ],
+      "what_happened": [
+        "Finance Minister Amir Khosru Mahmud Chowdhury told his South Korean counterpart in Seoul that cooperation should move beyond textiles into electronics and semiconductors,",
+        "shipbuilding, renewable energy, artificial intelligence and digital industries."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Customs duties on electronics raw materials…?",
+          "a": "26 percent"
+        },
+        {
+          "q": "What is priority areas?",
+          "a": "electronics and semiconductors, shipbuilding, renewable energy, AI, digital industries"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "south",
+        "korea",
+        "plan",
+        "joint",
+        "investment",
+        "task",
+        "force"
+      ],
+      "detail": "Bangladesh and South Korea agreed to set up a joint government-private sector working group to identify investment opportunities and expand trade, following the conclusion of negotiations on a Comprehensive Economic Partnership Agreement. Finance Minister Amir Khosru Mahmud Chowdhury told his South Korean counterpart in Seoul that cooperation should move beyond textiles into electronics and semiconductors, shipbuilding, renewable energy, artificial intelligence and digital industries."
+    },
+    {
+      "id": "CA10",
+      "headline": "Prosecutors move to seize Hasina and Asaduzzaman's properties",
+      "category": "Bangladesh",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "The Chief Prosecutor's Office wrote to the Home Ministry to take control of all movable and immovable properties of former prime minister Sheikh Hasina and former home minister Asaduzzaman Khan, who were sentenced to death by the International Crimes Tribunal on 17 November 2025 for crimes against humanity. The tribunal ordered the seizure of their assets, with half to be identified and seized first and the proceeds distributed to the families of those killed in the July uprising, through the July Foundation or another statutory body.",
+      "why_it_matters": "The confiscation of a convicted former prime minister's assets is a landmark legal and governance story; the dates, the tribunal and the compensation plan are directly askable.",
+      "exam_facts": "Sentenced to death on 17 November 2025 by International Crimes Tribunal-1 for crimes against humanity; tribunal ordered seizure of all properties; Chief Prosecutor Md Aminul Islam wrote to the Home Ministry on 3 November; half of the assets to be identified and seized first, sold by auction or other legal means; proceeds to families of July uprising martyrs and victims.",
+      "exam_relevance": "High — ICT, confiscation, July uprising.",
+      "key_people": "Md Aminul Islam, Chief Prosecutor; Sheikh Hasina and Asaduzzaman Khan (convicted fugitives).",
+      "figures": "Death sentences on 17 November 2025; half of assets to be seized first.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Home Ministry asked to take control of properties owned by Sheikh Hasina, Asaduzzaman",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/bangladesh/m86i5n5fe7"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Chief prosecutor’s office to seek seizure of half of Hasina, Asaduzzaman’s assets",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/bangladesh/9hgq8eqp30"
+        }
+      ],
+      "one_liner": "The Chief Prosecutor's Office wrote to the Home Ministry to take control of all movable and immovable properties of former…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Death sentences on 17 November 2025",
+          "original": "Death sentences on 17 November 2025"
+        },
+        {
+          "label": "",
+          "value": "half of assets to be seized first",
+          "original": "half of assets to be seized first"
+        },
+        {
+          "label": "Sentenced to death on 17 November…",
+          "value": "1",
+          "original": "Sentenced to death on 17 November 2025 by International Crimes Tribunal-1 for crimes against humanity"
+        },
+        {
+          "label": "",
+          "value": "tribunal ordered seizure of all properties",
+          "original": "tribunal ordered seizure of all properties"
+        }
+      ],
+      "what_happened": [
+        "The tribunal ordered the seizure of their assets, with half to be identified and seized first and the proceeds distributed to the families of those killed in the July uprising,",
+        "through the July Foundation or another statutory body."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The Chief Prosecutor's Office wrote to the Home Ministry to take control of all movable and immovable properties of former prime minister Sheikh Hasina and former home minister Asaduzzaman Khan, who were sentenced to death by the International Crimes Tribunal on ______ for crimes against humanity.",
+          "answer": "17 November 2025"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "prosecutors",
+        "move",
+        "seize",
+        "hasina",
+        "asaduzzaman",
+        "properties"
+      ],
+      "detail": "The Chief Prosecutor's Office wrote to the Home Ministry to take control of all movable and immovable properties of former prime minister Sheikh Hasina and former home minister Asaduzzaman Khan, who were sentenced to death by the International Crimes Tribunal on 17 November 2025 for crimes against humanity. The tribunal ordered the seizure of their assets, with half to be identified and seized first and the proceeds distributed to the families of those killed in the July uprising, through the July Foundation or another statutory body."
+    },
+    {
+      "id": "CA11",
+      "headline": "Six more die of dengue as toll reaches 439",
+      "category": "Bangladesh",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "At least six dengue patients died and 2,010 others were hospitalised in 24 hours, taking the year's death toll to 439 and cases to 140,909, the Directorate General of Health Services said. Five deaths were reported in Dhaka division and one in Barishal. Currently 5,876 dengue patients are undergoing treatment in hospitals across the country.",
+      "why_it_matters": "The daily dengue toll is standard public-health data for general-knowledge exams.",
+      "exam_facts": "6 deaths and 2,010 hospitalisations in 24 hours to 8am, 3 November; total deaths 439, total cases 140,909; 5,876 patients under treatment; five deaths in Dhaka division, one in Barishal; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "figures": "6 deaths in 24 hours; 2,010 hospitalised; total deaths 439; total cases 140,909.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "6 more die of dengue",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-4314526"
+        }
+      ],
+      "one_liner": "At least six dengue patients died and 2,010 others were hospitalised in 24 hours, taking the year's death toll to…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "6",
+          "original": "6 deaths in 24 hours"
+        },
+        {
+          "label": "hospitalised",
+          "value": "2,010",
+          "original": "2,010 hospitalised"
+        },
+        {
+          "label": "total deaths",
+          "value": "439",
+          "original": "total deaths 439"
+        },
+        {
+          "label": "total cases",
+          "value": "140,909",
+          "original": "total cases 140,909"
+        }
+      ],
+      "what_happened": [
+        "Five deaths were reported in Dhaka division and one in Barishal.",
+        "Currently 5,876 dengue patients are undergoing treatment in hospitals across the country."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is hospitalised?",
+          "a": "2,010"
+        },
+        {
+          "q": "What is total deaths?",
+          "a": "439"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least six dengue patients died and ______ others were hospitalised in 24 hours, taking the year's death toll to 439 and cases to 140,909, the Directorate General of Health Services said.",
+          "answer": "2,010"
+        },
+        {
+          "cloze": "Currently ______ dengue patients are undergoing treatment in hospitals across the country.",
+          "answer": "5,876"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "dengue",
+        "toll",
+        "reaches"
+      ],
+      "detail": "At least six dengue patients died and 2,010 others were hospitalised in 24 hours, taking the year's death toll to 439 and cases to 140,909, the Directorate General of Health Services said. Five deaths were reported in Dhaka division and one in Barishal. Currently 5,876 dengue patients are undergoing treatment in hospitals across the country."
+    },
+    {
+      "id": "CA12",
+      "headline": "Government eyes 3,000-4,000MW solar addition before next summer",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "The government expects to add 3,000 to 4,000 megawatts of solar power to the national grid before next summer, Prime Minister Tarique Rahman said while opening the first-ever Solar Expo-2026 in Dhaka. The government targets 20 percent of electricity from renewable sources by 2030 and 30 percent by 2040, has allocated Tk 1,500 crore for solar financing, and will buy surplus rooftop power at Tk 10.50 per unit by February 2027 under a special net-metering arrangement.",
+      "why_it_matters": "Renewable energy targets and financing are energy-policy exam topics, and the solar push links climate goals with reducing dependence on imported fuel.",
+      "exam_facts": "Solar addition target: 3,000-4,000MW before next summer; renewable targets: 20 percent by 2030, 30 percent by 2040; Tk 1,500 crore allocated for solar financing; net-metering buyback Tk 10.50 per unit by February 2027; Solar Expo-2026 theme: 'Utilise Every Inch of Rooftop, Increase Income through Solar Power'; Special Solar Power Installation Ordinance 2026.",
+      "exam_relevance": "High — renewable energy, energy security.",
+      "key_people": "Tarique Rahman, Prime Minister; Iqbal Hassan Mahmood Tuku, Power, Energy and Mineral Resources Minister.",
+      "figures": "3,000-4,000MW before next summer; 20 percent by 2030; 30 percent by 2040; Tk 1,500 crore; Tk 10.50 per unit.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Govt eyes 3,000-4,000MW solar power addition before next summer: PM",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/governance/news/govt-eyes-3000-4000mw-solar-power-addition-next-summer-pm-4314301"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "PM opens two-day Solar Expo-2026",
+          "date": "2026-11-03",
+          "url": "https://en.prothomalo.com/bangladesh/q4ye55vtlg"
+        }
+      ],
+      "one_liner": "The government expects to add 3,000 to 4,000 megawatts of solar power to the national grid before next summer, Prime…",
+      "key_facts": [
+        {
+          "label": "MW before next summer",
+          "value": "3,000-4,000",
+          "original": "3,000-4,000MW before next summer"
+        },
+        {
+          "label": "by 2030",
+          "value": "20 percent",
+          "original": "20 percent by 2030"
+        },
+        {
+          "label": "Solar addition target",
+          "value": "3,000-4,000MW before next summer",
+          "original": "Solar addition target: 3,000-4,000MW before next summer"
+        },
+        {
+          "label": "renewable targets",
+          "value": "20 percent by 2030, 30 percent by 2040",
+          "original": "renewable targets: 20 percent by 2030, 30 percent by 2040"
+        }
+      ],
+      "what_happened": [
+        "The government targets 20 percent of electricity from renewable sources by 2030 and 30 percent by 2040,",
+        "has allocated Tk 1,500 crore for solar financing, and will buy surplus rooftop power at Tk 10.50 per unit by February 2027 under a special net-metering arrangement."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is MW before next summer?",
+          "a": "3,000-4,000"
+        },
+        {
+          "q": "What is Solar addition target?",
+          "a": "3,000-4,000MW before next summer"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government expects to add ______ to 4,000 megawatts of solar power to the national grid before next summer, Prime Minister Tarique Rahman said while opening the first-ever Solar Expo-2026 in Dhaka.",
+          "answer": "3,000"
+        },
+        {
+          "cloze": "The government targets 20 percent of electricity from renewable sources by 2030 and 30 percent by 2040, has allocated Tk 1,500 crore for solar financing, and will buy surplus rooftop power at Tk 10.50 per unit by ______27 under a special net-metering arrangement.",
+          "answer": "February 20"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "government",
+        "eyes",
+        "solar",
+        "addition",
+        "next",
+        "summer"
+      ],
+      "detail": "The government expects to add 3,000 to 4,000 megawatts of solar power to the national grid before next summer, Prime Minister Tarique Rahman said while opening the first-ever Solar Expo-2026 in Dhaka. The government targets 20 percent of electricity from renewable sources by 2030 and 30 percent by 2040, has allocated Tk 1,500 crore for solar financing, and will buy surplus rooftop power at Tk 10.50 per unit by February 2027 under a special net-metering arrangement."
+    },
+    {
+      "id": "CA13",
+      "headline": "Bangladesh's demographic window is narrowing, World Bank warns",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Bangladesh risks missing the economic benefits of its large working-age population as slow job creation, low female labour force participation and skills shortages hold back productivity, a World Bank report says. The working-age population share is projected to peak in 2045, and Bangladesh is projected to become an aged society by 2051. About 84 percent of the workforce — roughly 58 million people — are employed in the informal sector.",
+      "why_it_matters": "The demographic dividend is a core development-economics topic; the peak year, the informal-sector share and the ageing date are directly askable.",
+      "exam_facts": "Report: 'Demographic Change in South Asia: From Tailwinds to Headwinds for Development' (World Bank); working-age population share to peak in 2045; aged society by 2051 (people 65+ a larger share); about 84 percent of the workforce in the informal sector (about 58 million people); reforms needed in jobs, skills, healthcare and social protection.",
+      "exam_relevance": "High — demography, labour market, development.",
+      "key_people": "Franziska Ohnsorge, Chief Economist for Asia, World Bank.",
+      "figures": "Working-age share peaks 2045; aged society by 2051; 84 percent informal (about 58 million people).",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271"
+        }
+      ],
+      "one_liner": "Bangladesh risks missing the economic benefits of its large working-age population as slow job creation, low female labour force participation…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Working-age share peaks 2045",
+          "original": "Working-age share peaks 2045"
+        },
+        {
+          "label": "about 58 million people",
+          "value": "84 percent informal",
+          "original": "84 percent informal (about 58 million people)"
+        },
+        {
+          "label": "World Bank",
+          "value": "Report: 'Demographic Change in South Asia: From Tailwinds to Headwinds for Development'",
+          "original": "Report: 'Demographic Change in South Asia: From Tailwinds to Headwinds for Development' (World Bank)"
+        },
+        {
+          "label": "",
+          "value": "working-age population share to peak in 2045",
+          "original": "working-age population share to peak in 2045"
+        }
+      ],
+      "what_happened": [
+        "The working-age population share is projected to peak in 2045, and Bangladesh is projected to become an aged society by 2051.",
+        "About 84 percent of the workforce — roughly 58 million people — are employed in the informal sector."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The working-age population share is projected to peak in ______ and Bangladesh is projected to become an aged society by 2051.",
+          "answer": "2045,"
+        },
+        {
+          "cloze": "About ______ percent of the workforce — roughly 58 million people — are employed in the informal sector.",
+          "answer": "84"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "demographic",
+        "window",
+        "narrowing",
+        "world",
+        "bank",
+        "warns"
+      ],
+      "detail": "Bangladesh risks missing the economic benefits of its large working-age population as slow job creation, low female labour force participation and skills shortages hold back productivity, a World Bank report says. The working-age population share is projected to peak in 2045, and Bangladesh is projected to become an aged society by 2051. About 84 percent of the workforce — roughly 58 million people — are employed in the informal sector."
+    },
+    {
+      "id": "CA14",
+      "headline": "Plan to split the National Board of Revenue back on the table",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "The government may split the National Board of Revenue into two separate divisions — a Revenue Implementation Division and a Revenue Policy Division — under a bill likely to be placed before the upcoming session of parliament, based on a high-level committee's recommendations. The move follows the failure of parliament to ratify the interim government's revenue reform ordinances within the constitutionally mandated 30 days of its first sitting on 12 March, which left them invalid.",
+      "why_it_matters": "NBR reform is the centrepiece of Bangladesh's revenue and governance reform; the two-division structure and the ordinance history are directly askable.",
+      "exam_facts": "Proposed split: Revenue Implementation Division (headed by a chairman with secretary rank) and Revenue Policy Division (secretary from general cadre officers, with economists, chartered accountants and legal professionals); bill likely before the upcoming parliament session; committee headed by Ismail Zabiullah, the prime minister's adviser on public administration; 13 ordinances lost validity after parliament failed to ratify them within 30 days of its first sitting on 12 March.",
+      "exam_relevance": "High — tax reform, NBR, governance.",
+      "key_people": "Ismail Zabiullah, Prime Minister's Adviser on Public Administration (committee head).",
+      "figures": "Two divisions proposed; 13 ordinances lapsed; 30-day ratification window.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Plan to split NBR back on the table",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/plan-split-nbr-back-the-table-4314076"
+        }
+      ],
+      "one_liner": "The government may split the National Board of Revenue into two separate divisions — a Revenue Implementation Division and a…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Two divisions proposed",
+          "original": "Two divisions proposed"
+        },
+        {
+          "label": "ordinances lapsed",
+          "value": "13",
+          "original": "13 ordinances lapsed"
+        },
+        {
+          "label": "day ratification window",
+          "value": "30",
+          "original": "30-day ratification window"
+        },
+        {
+          "label": "secretary from general cadre officers, with economists, chartered accountants and legal professionals",
+          "value": "Proposed split: Revenue Implementation Division (headed by a chairman with secretary rank) and Revenue Policy Division",
+          "original": "Proposed split: Revenue Implementation Division (headed by a chairman with secretary rank) and Revenue Policy Division (secretary from general cadre officers, with economists, chartered accountants and legal professionals)"
+        }
+      ],
+      "what_happened": [
+        "The move follows the failure of parliament to ratify the interim government's revenue reform ordinances within the constitutionally mandated 30 days of its first sitting on 12 March,",
+        "which left them invalid."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is ordinances lapsed?",
+          "a": "13"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The move follows the failure of parliament to ratify the interim government's revenue reform ordinances within the constitutionally mandated 30 days of its first sitting on ______, which left them invalid.",
+          "answer": "12 March"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "plan",
+        "split",
+        "national",
+        "board",
+        "revenue",
+        "back",
+        "table"
+      ],
+      "detail": "The government may split the National Board of Revenue into two separate divisions — a Revenue Implementation Division and a Revenue Policy Division — under a bill likely to be placed before the upcoming session of parliament, based on a high-level committee's recommendations. The move follows the failure of parliament to ratify the interim government's revenue reform ordinances within the constitutionally mandated 30 days of its first sitting on 12 March, which left them invalid."
+    },
+    {
+      "id": "CA15",
+      "headline": "Four global firms vie for Dhaka airport third terminal contract",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-03",
+      "summary": "Four international aviation companies — Menzies Aviation of the UK, Swissport of Switzerland, Çelebi of Türkiye and dnata of the UAE — have been shortlisted to provide ground handling at Hazrat Shahjalal International Airport's third terminal. Menzies proposed investing more than $12 million and creating over 1,000 direct jobs. A draft deal would bar other civilian airports within 100km from starting commercial operations for 15 years, even as passenger traffic is projected to reach 33 million by 2045.",
+      "why_it_matters": "Airport privatisation, foreign investment and the controversial 15-year restriction are infrastructure and competition-policy exam topics.",
+      "exam_facts": "Shortlisted: Menzies Aviation (UK), Swissport (Switzerland), Çelebi Aviation Holding (Türkiye), dnata (UAE); Menzies proposed over $12 million investment, 1,000+ direct jobs (99 percent local) and about 4,500 indirect jobs; draft deal: 15-year bar on rival civilian airports within 100km; HSIA traffic projected 33 million by 2045 vs capacity 24 million; partial opening of the third terminal targeted for 16 December.",
+      "exam_relevance": "High — aviation, investment, infrastructure.",
+      "key_people": "Air Commodore Abu Sayeed Mehboob Khan, Member (Operations and Planning), Civil Aviation Authority of Bangladesh.",
+      "figures": "Four firms shortlisted; over $12 million proposed; 1,000+ direct jobs; 15-year restriction within 100km; 33 million passengers by 2045.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Four global firms vie for Dhaka airport's third terminal contract, raising hopes of investment and jobs",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/economy/aviation/news/four-global-firms-vie-dhaka-airports-third-terminal-contract-raising-hopes-investment-and-jobs-4314521"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Draft third terminal deal seeks 15-year restriction on rival airport operations within 100km",
+          "date": "2026-11-03",
+          "url": "https://www.thedailystar.net/business/economy/aviation/news/draft-third-terminal-deal-seeks-15-year-restriction-rival-airport-operations-within-100km-4314561"
+        }
+      ],
+      "one_liner": "Four international aviation companies — Menzies Aviation of the UK, Swissport of Switzerland, Çelebi of Türkiye and dnata of the…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Four firms shortlisted",
+          "original": "Four firms shortlisted"
+        },
+        {
+          "label": "over proposed",
+          "value": "$12 million",
+          "original": "over $12 million proposed"
+        },
+        {
+          "label": "year restriction within 100km",
+          "value": "15",
+          "original": "15-year restriction within 100km"
+        },
+        {
+          "label": "passengers by 2045",
+          "value": "33 million",
+          "original": "33 million passengers by 2045"
+        }
+      ],
+      "what_happened": [
+        "Menzies proposed investing more than $12 million and creating over 1,000 direct jobs.",
+        "A draft deal would bar other civilian airports within 100km from starting commercial operations for 15 years,",
+        "even as passenger traffic is projected to reach 33 million by 2045."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is over proposed?",
+          "a": "$12 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Menzies proposed investing more than $______ million and creating over 1,000 direct jobs.",
+          "answer": "12"
+        },
+        {
+          "cloze": "A draft deal would bar other civilian airports within ______km from starting commercial operations for 15 years, even as passenger traffic is projected to reach 33 million by 2045.",
+          "answer": "100"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "four",
+        "global",
+        "firms",
+        "dhaka",
+        "airport",
+        "third",
+        "terminal",
+        "contract"
+      ],
+      "detail": "Four international aviation companies — Menzies Aviation of the UK, Swissport of Switzerland, Çelebi of Türkiye and dnata of the UAE — have been shortlisted to provide ground handling at Hazrat Shahjalal International Airport's third terminal. Menzies proposed investing more than $12 million and creating over 1,000 direct jobs. A draft deal would bar other civilian airports within 100km from starting commercial operations for 15 years, even as passenger traffic is projected to reach 33 million by 2045."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "support, assistance, preservation",
+      "Article headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "BCS / Bank relevance": "High — law and order, political violence, RMG unrest.",
+      "Bangla meaning": "নাশকতা",
+      "Bangla phonetic": "স্যাবোটাজ",
+      "Collocations / patterns": "commit sabotage, act of sabotage, sabotage efforts",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441",
+      "English definition": "Deliberate damage to, or disruption of, property, equipment or an activity, usually for political or military reasons.",
+      "IPA": "/ˈsæbətɑːʒ/",
+      "Newspaper context note": "Dhaka Metropolitan Police arrested 33 Awami League-affiliated people in Dhaka over alleged sabotage while posing as garment workers during the RMG protests.",
+      "Original example": "The factory owners feared that the unrest would sabotage their export orders.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "vandalism, destruction, undermining",
+      "Word family / derivatives": "saboteur (noun), sabotaged (adjective)",
+      "Headword / phrase": "sabotage",
+      "Record type": "New word",
+      "Part of speech / type": "noun / verb"
+    },
+    {
+      "Antonyms": "prevent, deter, suppress",
+      "Article headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "BCS / Bank relevance": "High — law and order, political violence.",
+      "Bangla meaning": "উসকানি দেওয়া",
+      "Bangla phonetic": "ইনস্টিগেট",
+      "Collocations / patterns": "instigate unrest, instigate violence, instigate a protest",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441",
+      "English definition": "To deliberately start or cause something bad, especially violence or trouble; to provoke.",
+      "IPA": "/ˈɪnstɪɡeɪt/",
+      "Newspaper context note": "Police said the arrested people were instigating the unrest under the banner of labour organisations.",
+      "Original example": "Police said outsiders had instigated the workers to block the highway.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "incite, provoke, trigger",
+      "Word family / derivatives": "instigation (noun), instigator (noun)",
+      "Headword / phrase": "instigate",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "implement, pursue, launch",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — investment, credit, banking.",
+      "Bangla meaning": "স্থগিত রাখা",
+      "Bangla phonetic": "শেলভ",
+      "Collocations / patterns": "shelve a plan, shelve investment plans, shelve a proposal",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "To decide not to continue with a plan or project, or to delay it.",
+      "IPA": "/ʃelv/",
+      "Newspaper context note": "Bankers said businesses were shelving investment plans amid weak business confidence, pushing private credit growth to its lowest on record.",
+      "Original example": "Faced with weak demand, many firms decided to shelve their expansion plans.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "postpone, suspend, abandon",
+      "Word family / derivatives": "shelved (adjective)",
+      "Headword / phrase": "shelve",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "brisk, vigorous, rapid",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — credit, economy, banking.",
+      "Bangla meaning": "মন্থর",
+      "Bangla phonetic": "স্লাগিশ",
+      "Collocations / patterns": "sluggish growth, sluggish lending, sluggish demand",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "Slow-moving or lacking energy or activity; slow to develop.",
+      "IPA": "/ˈslʌɡɪʃ/",
+      "Newspaper context note": "Private sector credit growth fell to 4.17 percent in September amid sluggish lending and weak business confidence.",
+      "Original example": "Sluggish private credit growth shows that businesses are reluctant to borrow.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "slow, lethargic, stagnant",
+      "Word family / derivatives": "sluggishness (noun)",
+      "Headword / phrase": "sluggish",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "buoyant, vigorous, lively",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — investment, economy.",
+      "Bangla meaning": "নিষ্প্রভ",
+      "Bangla phonetic": "সাবডিউড",
+      "Collocations / patterns": "subdued demand, subdued investment, subdued market",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "Quieter or less intense than usual; muted and restrained.",
+      "IPA": "/səbˈdjuːd/",
+      "Newspaper context note": "Bankers blamed subdued investment appetite for the record-low credit growth.",
+      "Original example": "Subdued investment sentiment kept loan disbursement low throughout the quarter.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "muted, restrained, depressed",
+      "Word family / derivatives": "subdue (verb)",
+      "Headword / phrase": "subdued",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "aversion, reluctance, indifference",
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "BCS / Bank relevance": "High — banking, investment, economy.",
+      "Bangla meaning": "আগ্রহ",
+      "Bangla phonetic": "অ্যাপিটাইট",
+      "Collocations / patterns": "appetite for borrowing, investment appetite, risk appetite",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English definition": "A strong desire or enthusiasm for something; willingness to take part.",
+      "IPA": "/ˈæpɪtaɪt/",
+      "Newspaper context note": "Businesses lost appetite for borrowing amid weak confidence and high interest rates.",
+      "Original example": "High interest rates have reduced firms' appetite for borrowing.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "desire, enthusiasm, willingness",
+      "Word family / derivatives": "appetising (adjective)",
+      "Headword / phrase": "appetite",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "sound, healthy, intact",
+      "Article headline": "BB appoints independent directors to Commerce Bank, Premier Bank",
+      "BCS / Bank relevance": "High — banking regulation, NPL.",
+      "Bangla meaning": "ক্ষতিগ্রস্ত",
+      "Bangla phonetic": "ইমপেয়ার্ড",
+      "Collocations / patterns": "impaired balance sheet, impaired assets, impaired loans",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bb-appoints-independent-directors-commerce-bank-premier-bank-4314731",
+      "English definition": "Damaged or weakened so that something does not work as well as it should.",
+      "IPA": "/ɪmˈpeərd/",
+      "Newspaper context note": "Bangladesh Bank appointed independent directors to Commerce Bank and Premier Bank, citing impaired balance sheets and huge losses.",
+      "Original example": "The bank's impaired balance sheet forced the regulator to intervene.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "damaged, weakened, compromised",
+      "Word family / derivatives": "impair (verb), impairment (noun)",
+      "Headword / phrase": "impaired",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "release, return, restitution",
+      "Article headline": "Chief prosecutor’s office to seek seizure of half of Hasina, Asaduzzaman’s assets",
+      "BCS / Bank relevance": "High — law, ICT, governance.",
+      "Bangla meaning": "বাজেয়াপ্তকরণ",
+      "Bangla phonetic": "সিজার",
+      "Collocations / patterns": "seizure of assets, seizure of property, asset seizure",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/9hgq8eqp30",
+      "English definition": "The act of taking something by legal authority, especially property.",
+      "IPA": "/ˈsiːʒər/",
+      "Newspaper context note": "The International Crimes Tribunal ordered the seizure of Sheikh Hasina's and Asaduzzaman Khan's properties after sentencing them to death.",
+      "Original example": "The tribunal ordered the seizure of the convicted leaders' properties.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "confiscation, appropriation, takeover",
+      "Word family / derivatives": "seize (verb)",
+      "Headword / phrase": "seizure",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "return, restore, release",
+      "Article headline": "Chief prosecutor’s office to seek seizure of half of Hasina, Asaduzzaman’s assets",
+      "BCS / Bank relevance": "High — law, ICT, governance.",
+      "Bangla meaning": "বাজেয়াপ্ত করা",
+      "Bangla phonetic": "কনফিসকেট",
+      "Collocations / patterns": "confiscate property, confiscate assets, confiscate funds",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/9hgq8eqp30",
+      "English definition": "To officially take someone's property away as a punishment or because it was obtained illegally.",
+      "IPA": "/ˈkɒnfɪskeɪt/",
+      "Newspaper context note": "The Chief Prosecutor's Office sought a confiscation order against the properties of the two convicted former ministers.",
+      "Original example": "The court ordered the state to confiscate the properties of the fugitive convicts.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "seize, impound, expropriate",
+      "Word family / derivatives": "confiscation (noun)",
+      "Headword / phrase": "confiscate",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "captive, prisoner",
+      "Article headline": "Home Ministry asked to take control of properties owned by Sheikh Hasina, Asaduzzaman",
+      "BCS / Bank relevance": "High — law, ICT.",
+      "Bangla meaning": "পলাতক",
+      "Bangla phonetic": "ফিউজিটিভ",
+      "Collocations / patterns": "fugitive convict, fugitive leader, remain a fugitive",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/m86i5n5fe7",
+      "English definition": "A person who has escaped from captivity or is hiding to avoid arrest; (adjective) having fled.",
+      "IPA": "/ˈfjuːdʒɪtɪv/",
+      "Newspaper context note": "Sheikh Hasina and Asaduzzaman Khan were described as fugitive convicts after being sentenced to death by the tribunal.",
+      "Original example": "The fugitive leaders were tried in absentia and sentenced to death.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "runaway, escapee, absconder",
+      "Word family / derivatives": "fugitive (adjective)",
+      "Headword / phrase": "fugitive",
+      "Record type": "New word",
+      "Part of speech / type": "noun / adjective"
+    },
+    {
+      "Antonyms": "costs, expenses, outlay",
+      "Article headline": "Chief prosecutor’s office to seek seizure of half of Hasina, Asaduzzaman’s assets",
+      "BCS / Bank relevance": "High — law, finance.",
+      "Bangla meaning": "বিক্রয়লব্ধ অর্থ",
+      "Bangla phonetic": "প্রোসিডস",
+      "Collocations / patterns": "proceeds from the sale, proceeds will be distributed, proceeds of crime",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/9hgq8eqp30",
+      "English definition": "The money obtained from a sale or other activity.",
+      "IPA": "/ˈprəʊsiːdz/",
+      "Newspaper context note": "The tribunal ordered that the proceeds from selling the seized assets be distributed to the families of those killed in the July uprising.",
+      "Original example": "The proceeds from the auction will go to the victims' families.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "earnings, revenue, returns",
+      "Word family / derivatives": "proceed (verb)",
+      "Headword / phrase": "proceeds",
+      "Record type": "New word",
+      "Part of speech / type": "noun (plural)"
+    },
+    {
+      "Antonyms": "individual",
+      "Article headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "BCS / Bank relevance": "High — demography, development economics.",
+      "Bangla meaning": "জনসংখ্যাগত",
+      "Bangla phonetic": "ডেমোগ্রাফিক",
+      "Collocations / patterns": "demographic change, demographic dividend, demographic window",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271",
+      "English definition": "Relating to the structure of populations, such as age, birth and death rates.",
+      "IPA": "/ˌdeməˈɡræfɪk/",
+      "Newspaper context note": "The World Bank's report 'Demographic Change in South Asia' warned that Bangladesh's demographic window is narrowing.",
+      "Original example": "Bangladesh's demographic dividend will shrink unless more jobs are created.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "population-related, census",
+      "Word family / derivatives": "demography (noun), demographics (noun, plural)",
+      "Headword / phrase": "demographic",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "formal, official, regulated",
+      "Article headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "BCS / Bank relevance": "High — labour market, economy.",
+      "Bangla meaning": "অনানুষ্ঠানিক",
+      "Bangla phonetic": "ইনফরমাল",
+      "Collocations / patterns": "informal sector, informal employment, informal economy",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271",
+      "English definition": "Not officially organised or regulated; (of work) not part of the formal, registered economy.",
+      "IPA": "/ɪnˈfɔːməl/",
+      "Newspaper context note": "The World Bank said about 84 percent of the workforce — roughly 58 million people — are in the informal sector.",
+      "Original example": "About 84 percent of Bangladeshi workers are employed in the informal sector.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "unofficial, unregulated, casual",
+      "Word family / derivatives": "informality (noun)",
+      "Headword / phrase": "informal",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "stability, stagnation",
+      "Article headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "BCS / Bank relevance": "High — demography, development.",
+      "Bangla meaning": "পরিবর্তন",
+      "Bangla phonetic": "ট্রানজিশন",
+      "Collocations / patterns": "demographic transition, energy transition, in transition",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271",
+      "English definition": "The process of changing from one state, system or situation to another.",
+      "IPA": "/trænˈzɪʃən/",
+      "Newspaper context note": "The World Bank report warned of the challenges of Bangladesh's demographic transition.",
+      "Original example": "The demographic transition will turn today's young workforce into an ageing population by 2051.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "shift, change, transformation",
+      "Word family / derivatives": "transitional (adjective), transit (verb)",
+      "Headword / phrase": "transition",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "tailwind, advantage, boost",
+      "Article headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "BCS / Bank relevance": "Medium — economics, figurative usage in reports.",
+      "Bangla meaning": "প্রতিকূল বাতাস",
+      "Bangla phonetic": "হেডউইন্ড",
+      "Collocations / patterns": "face headwinds, economic headwinds, headwinds to growth",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271",
+      "English definition": "A wind blowing against the direction of travel; figuratively, a force or condition that makes progress harder.",
+      "IPA": "/ˈhedwɪnd/",
+      "Newspaper context note": "The World Bank report is titled 'Demographic Change in South Asia: From Tailwinds to Headwinds for Development'.",
+      "Original example": "Slow job creation is a headwind to Bangladesh's demographic dividend.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "obstacle, setback, resistance",
+      "Word family / derivatives": "headwinds (plural)",
+      "Headword / phrase": "headwind",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "retention, preservation",
+      "Article headline": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter roll revision, challenges Rahul Gandhi",
+      "BCS / Bank relevance": "High — elections, administration.",
+      "Bangla meaning": "সংশোধন",
+      "Bangla phonetic": "রিভিশন",
+      "Collocations / patterns": "voter roll revision, special intensive revision, revision of the list",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/news/amit-shah-claims-three-crore-bangladeshi-infiltrators-voter-roll-revision-challenges-rahul-gandhi-4314336",
+      "English definition": "The act of changing or correcting something, especially a list, text or plan; a review.",
+      "IPA": "/rɪˈvɪʒən/",
+      "Newspaper context note": "India's Election Commission carried out a Special Intensive Revision (SIR) of electoral rolls, flagging about 3.01 crore entries.",
+      "Original example": "The special intensive revision of the voter rolls flagged about three crore entries.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "review, amendment, update",
+      "Word family / derivatives": "revise (verb)",
+      "Headword / phrase": "revision",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "traceable, locatable, identifiable",
+      "Article headline": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter roll revision, challenges Rahul Gandhi",
+      "BCS / Bank relevance": "Medium — elections, vocabulary.",
+      "Bangla meaning": "খুঁজে পাওয়া যায় না এমন",
+      "Bangla phonetic": "আনট্রেসেবল",
+      "Collocations / patterns": "untraceable voters, untraceable entries, remain untraceable",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/news/amit-shah-claims-three-crore-bangladeshi-infiltrators-voter-roll-revision-challenges-rahul-gandhi-4314336",
+      "English definition": "Impossible to find or follow; unable to be located.",
+      "IPA": "/ʌnˈtreɪsəbəl/",
+      "Newspaper context note": "The Election Commission's draft data classified about 3.01 crore entries as voters who were absent or untraceable.",
+      "Original example": "About 3.01 crore voters were listed as absent or untraceable in the draft rolls.",
+      "Priority": "Medium",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "unfindable, missing, undetectable",
+      "Word family / derivatives": "trace (verb), traceable (adjective)",
+      "Headword / phrase": "untraceable",
+      "Record type": "New word",
+      "Part of speech / type": "adjective"
+    },
+    {
+      "Antonyms": "admit, naturalise, welcome",
+      "Article headline": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter roll revision, challenges Rahul Gandhi",
+      "BCS / Bank relevance": "High — migration, international relations.",
+      "Bangla meaning": "বহিষ্কার করা",
+      "Bangla phonetic": "ডিপোর্ট",
+      "Collocations / patterns": "deport infiltrators, deport illegal migrants, face deportation",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/news/amit-shah-claims-three-crore-bangladeshi-infiltrators-voter-roll-revision-challenges-rahul-gandhi-4314336",
+      "English definition": "To force someone to leave a country, usually because they have broken immigration laws.",
+      "IPA": "/dɪˈpɔːt/",
+      "Newspaper context note": "Home Minister Amit Shah promised to identify and deport infiltrators, saying they have no place on the voter rolls.",
+      "Original example": "The minister vowed to identify and deport those living in the country illegally.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "expel, remove, exile",
+      "Word family / derivatives": "deportation (noun), deportee (noun)",
+      "Headword / phrase": "deport",
+      "Record type": "New word",
+      "Part of speech / type": "verb"
+    },
+    {
+      "Antonyms": "acquittal",
+      "Article headline": "US midterm election: Why it's important and races to watch",
+      "BCS / Bank relevance": "High — elections, law, vocabulary.",
+      "Bangla meaning": "রায়",
+      "Bangla phonetic": "ভারডিক্ট",
+      "Collocations / patterns": "deliver a verdict, the voters' verdict, await the verdict",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401",
+      "English definition": "A decision or judgement, especially by a court or by voters in an election.",
+      "IPA": "/ˈvɜːdɪkt/",
+      "Newspaper context note": "The Daily Star's explainer said midterm elections are often a referendum on the president, with voters delivering their verdict.",
+      "Original example": "Voters will deliver their verdict on the president's performance in the midterms.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "judgement, decision, ruling",
+      "Word family / derivatives": "verdict (noun)",
+      "Headword / phrase": "verdict",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "US midterm election: Why it's important and races to watch",
+      "BCS / Bank relevance": "High — elections, politics.",
+      "Bangla meaning": "গণভোট",
+      "Bangla phonetic": "রেফারেন্ডাম",
+      "Collocations / patterns": "a referendum on the president, hold a referendum, referendum on policy",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401",
+      "English definition": "A vote by all the people in a country or area on a single political question.",
+      "IPA": "/ˌrefəˈrendəm/",
+      "Newspaper context note": "The Daily Star's explainer described the US midterms as often a referendum on the president.",
+      "Original example": "Midterm elections are often a referendum on the sitting president.",
+      "Priority": "High",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Synonyms": "plebiscite, popular vote",
+      "Word family / derivatives": "referendums (plural)",
+      "Headword / phrase": "referendum",
+      "Record type": "New word",
+      "Part of speech / type": "noun"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "infiltrate",
+      "IPA": "/ˈɪnfɪltreɪt/",
+      "Bangla phonetic": "ইনফিলট্রেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনুপ্রবেশ করা; গোপনে ঢুকে পড়া",
+      "English definition": "To enter a group or place secretly in order to spy on it or cause disruption.",
+      "Synonyms": "penetrate; invade; slip into; insinuate",
+      "Antonyms": "withdraw; exit; leave openly",
+      "Word family / derivatives": "infiltration; infiltrator; infiltrated",
+      "Collocations / patterns": "infiltrate a protest; infiltrate a movement; infiltrate an organisation",
+      "Original example": "Masked men who were not workers infiltrated the protests to create disorder.",
+      "Newspaper context note": "Used by the Home Minister: masked men infiltrated the garment protests, according to video footage.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/48pn06ucxj",
+      "BCS / Bank relevance": "Security and law-and-order vocabulary for BCS comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "destabilise",
+      "IPA": "/diːˈsteɪbəlaɪz/",
+      "Bangla phonetic": "ডিসট্যাবিলাইজ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অস্থিতিশীল করা; অস্থিরতা সৃষ্টি করা",
+      "English definition": "To make a government, economy or situation unstable.",
+      "Synonyms": "undermine; unsettle; disrupt; sabotage",
+      "Antonyms": "stabilise; strengthen; secure",
+      "Word family / derivatives": "destabilised; destabilising; destabilisation",
+      "Collocations / patterns": "destabilise the country; destabilise an industry; attempt to destabilise",
+      "Original example": "Police alleged that certain groups were trying to destabilise the industrial belt.",
+      "Newspaper context note": "Used in the garment unrest reports: groups were allegedly trying to destabilise the industrial belt and the country.",
+      "Source publication": "The Daily Star",
+      "Article headline": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776",
+      "BCS / Bank relevance": "Politics and security vocabulary for BCS essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "surveillance",
+      "IPA": "/sɜːˈveɪləns/",
+      "Bangla phonetic": "সার্ভেইলান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নজরদারি; পর্যবেক্ষণ",
+      "English definition": "Close observation of a person, place or situation, especially by the police or security services.",
+      "Synonyms": "monitoring; observation; watch; scrutiny",
+      "Antonyms": "neglect; inattention",
+      "Word family / derivatives": "surveil; surveilled; surveilling",
+      "Collocations / patterns": "24-hour surveillance; under surveillance; surveillance camera",
+      "Original example": "The Home Minister said arrangements had been made for 24-hour surveillance of the garment industry.",
+      "Newspaper context note": "Used in the garment unrest report: 24-hour surveillance was arranged to monitor the situation in the garment industry.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "BCS / Bank relevance": "Law-enforcement vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "embezzlement",
+      "IPA": "/ɪmˈbezlmənt/",
+      "Bangla phonetic": "এমবেজলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আত্মসাৎ; তহবিল তছরুপ",
+      "English definition": "The crime of stealing money that you are responsible for managing.",
+      "Synonyms": "misappropriation; theft; fraud; pilfering",
+      "Antonyms": "honesty; restitution",
+      "Word family / derivatives": "embezzle; embezzled; embezzler",
+      "Collocations / patterns": "embezzlement of funds; alleged embezzlement; embezzlement case",
+      "Original example": "The ACC approved three cases over the alleged embezzlement of Tk 1,121 crore from Janata Bank.",
+      "Newspaper context note": "Used in the ACC report: alleged embezzlement and laundering of Tk 1,121.49 crore through fake import and export transactions.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846",
+      "BCS / Bank relevance": "Core banking and anti-corruption vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "absconding",
+      "IPA": "/əbˈskɒndɪŋ/",
+      "Bangla phonetic": "অ্যাবস্কন্ডিং",
+      "Part of speech / type": "Adjective / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পলাতক; আত্মগোপনে থাকা",
+      "English definition": "Having secretly left a place to escape arrest or the law.",
+      "Synonyms": "fugitive; on the run; in hiding; at large",
+      "Antonyms": "in custody; present; surrendered",
+      "Word family / derivatives": "abscond; absconded; absconder",
+      "Collocations / patterns": "remain absconding; absconding accused; abscond from custody",
+      "Original example": "Six of the accused are in jail, while Mirza Azam remains absconding.",
+      "Newspaper context note": "Used in the ICT report: six accused are in jail, while Mirza Azam remains absconding.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "BCS / Bank relevance": "Legal vocabulary for BCS criminal-law questions.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "Home Ministry asked to take control of properties owned by Sheikh Hasina, Asaduzzaman",
+      "Bangla meaning": "নিয়ন্ত্রণ নেওয়া",
+      "Common collocations / grammar pattern": "take control of assets / operations / a situation",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/m86i5n5fe7",
+      "English explanation": "To assume authority or command over something.",
+      "Exam value": "High — governance, law.",
+      "Original example 1": "The Home Ministry was asked to take control of the convicts' properties.",
+      "Original example 2": "The new board will take control of the bank's management.",
+      "Phrase": "take control of",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrasal verb",
+      "Usage / register": "Formal; common in legal, administrative and business reporting."
+    },
+    {
+      "Article headline": "US midterm election: Why it's important and races to watch",
+      "Bangla meaning": "ঝুঁকিতে",
+      "Common collocations / grammar pattern": "at stake in the election; jobs / lives at stake; much is at stake",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401",
+      "English explanation": "Something that can be won or lost, or that is at risk.",
+      "Exam value": "High — politics, idioms.",
+      "Original example 1": "All 435 House seats are at stake in the midterms.",
+      "Original example 2": "Thousands of jobs are at stake if the factories stay closed.",
+      "Phrase": "at stake",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "idiom",
+      "Usage / register": "Neutral; common in politics, sports and business."
+    },
+    {
+      "Article headline": "US strikes Iran’s Qeshm Island ahead of midterm elections",
+      "Bangla meaning": "ঠিক আগে",
+      "Common collocations / grammar pattern": "on the eve of the election / war / summit",
+      "Direct source URL": "https://en.prothomalo.com/international/middle-east/vptgmydah5",
+      "English explanation": "Just before an important event; on the day or night before it.",
+      "Exam value": "High — journalistic English.",
+      "Original example 1": "The strike came on the eve of the midterm elections.",
+      "Original example 2": "The announcement was made on the eve of the budget session.",
+      "Phrase": "on the eve of",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Formal / journalistic."
+    },
+    {
+      "Article headline": "Plan to split NBR back on the table",
+      "Bangla meaning": "আলোচনাধীন",
+      "Common collocations / grammar pattern": "put something on the table; back on the table; take something off the table",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/plan-split-nbr-back-the-table-4314076",
+      "English explanation": "Being discussed or considered; available as an option.",
+      "Exam value": "High — negotiation idiom.",
+      "Original example 1": "The plan to split the NBR is back on the table.",
+      "Original example 2": "A wage rise of Tk 18,000 is now on the table.",
+      "Phrase": "on the table",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "idiom",
+      "Usage / register": "Neutral; common in politics and negotiation."
+    },
+    {
+      "Article headline": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "Bangla meaning": "সংঘটিত হওয়া",
+      "Common collocations / grammar pattern": "take place in / at; take place over; take place between",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271",
+      "English explanation": "To happen or occur.",
+      "Exam value": "High — core phrasal verb.",
+      "Original example 1": "The demographic transition is taking place across South Asia.",
+      "Original example 2": "The expo will take place in Dhaka next week.",
+      "Phrase": "take place",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "phrasal verb",
+      "Usage / register": "Neutral; standard in all registers."
+    },
+    {
+      "Article headline": "Private sector credit growth slips to lowest on record",
+      "Bangla meaning": "রেকর্ডে সর্বনিম্ন",
+      "Common collocations / grammar pattern": "lowest / highest on record; the lowest on record since 1993",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001",
+      "English explanation": "The lowest value ever recorded.",
+      "Exam value": "High — economics reporting.",
+      "Original example 1": "Credit growth slipped to its lowest on record in September.",
+      "Original example 2": "Rainfall was the lowest on record this year.",
+      "Phrase": "lowest on record",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "phrase / collocation",
+      "Usage / register": "Journalistic; common in economics reporting."
+    },
+    {
+      "Article headline": "US strikes Iran’s Qeshm Island ahead of midterm elections",
+      "Bangla meaning": "গোপনে",
+      "Common collocations / grammar pattern": "in secret; carried out in secret; meet in secret",
+      "Direct source URL": "https://en.prothomalo.com/international/middle-east/vptgmydah5",
+      "English explanation": "Without others knowing; hidden from view.",
+      "Exam value": "Medium — common phrase.",
+      "Original example 1": "The US carried out the strikes in secret over recent weeks.",
+      "Original example 2": "The deal was negotiated in secret.",
+      "Phrase": "in secret",
+      "Publication date": "2026-11-03",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral; common in news and narrative."
+    },
+    {
+      "Article headline": "US midterm election: Why it's important and races to watch",
+      "Bangla meaning": "ভোটের তালিকায়",
+      "Common collocations / grammar pattern": "on the ballot paper; put something on the ballot; on the ballot in November",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401",
+      "English explanation": "(Of a candidate, party or issue) presented for voters to decide in an election.",
+      "Exam value": "High — elections vocabulary.",
+      "Original example 1": "Thirty-five Senate seats are on the ballot this year.",
+      "Original example 2": "The referendum is on the ballot in November.",
+      "Phrase": "on the ballot",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "phrase",
+      "Usage / register": "Journalistic / political."
+    },
+    {
+      "Article headline": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "Bangla meaning": "ব্যানারে",
+      "Common collocations / grammar pattern": "under the banner of; operate under the banner of",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441",
+      "English explanation": "Under the name or claimed authority of an organisation or cause.",
+      "Exam value": "Medium — journalistic phrase.",
+      "Original example 1": "The arrestees operated under the banner of labour organisations.",
+      "Original example 2": "The group worked under the banner of a charity.",
+      "Phrase": "under the banner of",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "prepositional phrase",
+      "Usage / register": "Journalistic."
+    },
+    {
+      "Article headline": "US midterm election: Why it's important and races to watch",
+      "Bangla meaning": "মাঝামাঝি পর্যায়ে",
+      "Common collocations / grammar pattern": "at the halfway point of / between; reach the halfway point",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401",
+      "English explanation": "At the middle of a period or process.",
+      "Exam value": "Medium — descriptive phrase.",
+      "Original example 1": "The midterms come at the halfway point between presidential elections.",
+      "Original example 2": "The project is at its halfway point.",
+      "Phrase": "at the halfway point",
+      "Publication date": "2026-11-03",
+      "Source publication": "The Daily Star",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "A",
+      "explanation": "Sabotage means deliberate destruction or disruption; police alleged arrestees were instigating sabotage during the garment protests.",
+      "no": 1,
+      "options": {
+        "A": "To deliberately damage or disrupt something",
+        "B": "To repair a machine",
+        "C": "To record a meeting",
+        "D": "To support a protest"
+      },
+      "question": "What does \"sabotage\" mean?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "Instigate means to deliberately start or cause trouble, usually violence.",
+      "no": 2,
+      "options": {
+        "A": "To punish",
+        "B": "To prevent",
+        "C": "To provoke or incite",
+        "D": "To observe"
+      },
+      "question": "\"Instigate\" most nearly means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "To shelve a plan is to set it aside or abandon it for the time being.",
+      "no": 3,
+      "options": {
+        "A": "To postpone or abandon plans",
+        "B": "To fund plans",
+        "C": "To publish plans",
+        "D": "To display plans"
+      },
+      "question": "\"The firms decided to shelve their investment plans.\" Here \"shelve\" means:",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "D",
+      "explanation": "Sluggish means slow-moving and lacking activity.",
+      "no": 4,
+      "options": {
+        "A": "Illegal",
+        "B": "Foreign",
+        "C": "Fast and risky",
+        "D": "Slow and weak"
+      },
+      "question": "\"Sluggish lending\" means lending that is:",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "C",
+      "explanation": "Subdued means quieter or less intense than usual.",
+      "no": 5,
+      "options": {
+        "A": "Secret",
+        "B": "Enthusiastic",
+        "C": "Muted or restrained",
+        "D": "Expensive"
+      },
+      "question": "\"Subdued investment appetite\" — \"subdued\" means:",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "B",
+      "explanation": "Appetite here means a strong desire or enthusiasm for something.",
+      "no": 6,
+      "options": {
+        "A": "Hunger for food",
+        "B": "Desire or willingness",
+        "C": "Ability to repay",
+        "D": "Fear of debt"
+      },
+      "question": "In \"appetite for borrowing\", \"appetite\" means:",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "D",
+      "explanation": "Impaired means damaged or weakened so that something works less well.",
+      "no": 7,
+      "options": {
+        "A": "Audited",
+        "B": "Published",
+        "C": "Improved",
+        "D": "Damaged or weakened"
+      },
+      "question": "\"Impaired balance sheets\" — \"impaired\" means:",
+      "section": "Vocabulary",
+      "source": "CA07"
+    },
+    {
+      "correct": "B",
+      "explanation": "Seizure is the act of taking property by legal authority.",
+      "no": 8,
+      "options": {
+        "A": "Sale of assets",
+        "B": "Confiscation of assets by authority",
+        "C": "Valuation of assets",
+        "D": "Donation of assets"
+      },
+      "question": "\"Seizure of assets\" means:",
+      "section": "Vocabulary",
+      "source": "CA10"
+    },
+    {
+      "correct": "D",
+      "explanation": "To confiscate is to officially take property away as a punishment or for legal reasons.",
+      "no": 9,
+      "options": {
+        "A": "To sell",
+        "B": "To insure",
+        "C": "To return",
+        "D": "To seize officially"
+      },
+      "question": "\"Confiscate\" most nearly means:",
+      "section": "Vocabulary",
+      "source": "CA10"
+    },
+    {
+      "correct": "C",
+      "explanation": "A fugitive is a person who has escaped or is hiding to avoid arrest.",
+      "no": 10,
+      "options": {
+        "A": "Has appealed",
+        "B": "Has been pardoned",
+        "C": "Has fled and remains at large",
+        "D": "Has served the sentence"
+      },
+      "question": "A \"fugitive convict\" is one who:",
+      "section": "Vocabulary",
+      "source": "CA10"
+    },
+    {
+      "correct": "C",
+      "explanation": "To take control of something is to assume authority or command over it.",
+      "no": 11,
+      "options": {
+        "A": "To demolish",
+        "B": "To sell",
+        "C": "To assume authority over",
+        "D": "To inspect"
+      },
+      "question": "\"The ministry was asked to take control of the properties.\" — \"take control of\" means:",
+      "section": "Phrases",
+      "source": "CA10"
+    },
+    {
+      "correct": "C",
+      "explanation": "At stake means something that can be won or lost.",
+      "no": 12,
+      "options": {
+        "A": "Shared equally",
+        "B": "Already decided",
+        "C": "To be won or lost",
+        "D": "Postponed"
+      },
+      "question": "\"All 435 House seats are at stake.\" — \"at stake\" means:",
+      "section": "Phrases",
+      "source": "CA04"
+    },
+    {
+      "correct": "B",
+      "explanation": "At least 200 factories were closed on 3 November; 264 had been shut on 2 November.",
+      "no": 13,
+      "options": {
+        "A": "150",
+        "B": "200",
+        "C": "100",
+        "D": "264"
+      },
+      "question": "How many factories were closed in Savar and Ashulia on 3 November 2026?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "A wage of at least Tk 17,500 would be needed just to restore real income lost to inflation since 2022.",
+      "no": 14,
+      "options": {
+        "A": "Tk 30,000",
+        "B": "Tk 17,500",
+        "C": "Tk 12,500",
+        "D": "Tk 15,000"
+      },
+      "question": "According to analysis, what wage would at least restore garment workers' real income?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "The Wall Street Journal reported a US strike on Qeshm Island, the largest island in the Strait of Hormuz.",
+      "no": 15,
+      "options": {
+        "A": "Abu Musa",
+        "B": "Kish",
+        "C": "Qeshm",
+        "D": "Hormuz"
+      },
+      "question": "Which Iranian island did the US strike on 2 November 2026?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "B",
+      "explanation": "All 435 House seats were at stake, along with 35 of the 100 Senate seats.",
+      "no": 16,
+      "options": {
+        "A": "535",
+        "B": "435",
+        "C": "100",
+        "D": "235"
+      },
+      "question": "How many seats in the US House of Representatives were at stake in the 3 November 2026 midterms?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "C",
+      "explanation": "The EC's draft data listed about 3.01 crore entries as absent or untraceable; it did not identify them all as Bangladeshi nationals.",
+      "no": 17,
+      "options": {
+        "A": "1 crore",
+        "B": "6.25 crore",
+        "C": "3.01 crore",
+        "D": "10 crore"
+      },
+      "question": "According to the Election Commission's draft data, about how many entries were classified as voters who were absent or untraceable?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "A",
+      "explanation": "Credit growth fell to 4.17 percent in September, the lowest since at least 1993.",
+      "no": 18,
+      "options": {
+        "A": "4.17%",
+        "B": "6.8%",
+        "C": "8.34%",
+        "D": "4.75%"
+      },
+      "question": "What was private sector credit growth in Bangladesh in September 2026?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "D",
+      "explanation": "Bangladesh Bank used its powers under the Bank Companies Act, 1991.",
+      "no": 19,
+      "options": {
+        "A": "Financial Institutions Act, 1993",
+        "B": "Companies Act, 1994",
+        "C": "Bangladesh Bank Order, 1972",
+        "D": "Bank Companies Act, 1991"
+      },
+      "question": "Under which law did Bangladesh Bank appoint independent directors to Commerce Bank and Premier Bank?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "correct": "D",
+      "explanation": "Nine people died and 185 were injured in 35 BNP factional clashes in October.",
+      "no": 20,
+      "options": {
+        "A": "5",
+        "B": "12",
+        "C": "22",
+        "D": "9"
+      },
+      "question": "According to the HRSS report, how many people died in BNP factional clashes in October 2026?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "B",
+      "explanation": "The two countries concluded negotiations on a Comprehensive Economic Partnership Agreement (CEPA).",
+      "no": 21,
+      "options": {
+        "A": "BIT",
+        "B": "CEPA",
+        "C": "SAPTA",
+        "D": "FTA"
+      },
+      "question": "Bangladesh and South Korea agreed to set up a joint working group after concluding negotiations on which agreement?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "D",
+      "explanation": "They were sentenced to death on 17 November 2025 for crimes against humanity.",
+      "no": 22,
+      "options": {
+        "A": "3 November 2026",
+        "B": "5 August 2024",
+        "C": "12 March 2026",
+        "D": "17 November 2025"
+      },
+      "question": "On what date were Sheikh Hasina and Asaduzzaman Khan sentenced to death by the International Crimes Tribunal?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "correct": "A",
+      "explanation": "Six more deaths took the toll to 439; total cases were 140,909.",
+      "no": 23,
+      "options": {
+        "A": "439",
+        "B": "450",
+        "C": "433",
+        "D": "140,909"
+      },
+      "question": "What was the total dengue death toll in Bangladesh in 2026 as of 3 November?",
+      "section": "Current Affairs",
+      "source": "CA11"
+    },
+    {
+      "correct": "A",
+      "explanation": "The government expects to add 3,000 to 4,000MW of solar power before next summer.",
+      "no": 24,
+      "options": {
+        "A": "3,000-4,000MW",
+        "B": "4,000-5,000MW",
+        "C": "2,000-3,000MW",
+        "D": "1,000-2,000MW"
+      },
+      "question": "How much solar power does the government expect to add before next summer?",
+      "section": "Current Affairs",
+      "source": "CA12"
+    },
+    {
+      "correct": "A",
+      "explanation": "Menzies Aviation proposed investing over $12 million and creating more than 1,000 direct jobs.",
+      "no": 25,
+      "options": {
+        "A": "Menzies Aviation",
+        "B": "dnata",
+        "C": "Çelebi",
+        "D": "Swissport"
+      },
+      "question": "Which company proposed investing more than $12 million at Dhaka airport's third terminal?",
+      "section": "Current Affairs",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Clashes, blockades continue on 3rd day of RMG unrest",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/clashes-blockades-continue-3rd-day-rmg-unrest-4314151"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Workers’ unrest forces 200 factories to close in Savar, Ashulia: Industrial Police",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/news/workers-unrest-forces-200-factories-close-savar-ashulia-industrial-police-4314411"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "33 AL-affiliated people arrested over alleged sabotage during garment workers protests: DMP",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/crime-justice/news/33-al-affiliated-people-arrested-over-alleged-sabotage-during-garment-workers-protests-dmp-4314441"
+    },
+    {
+      "Source ID": "S04",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "3 cases filed over labour unrest in Savar, over 2,300 accused",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/news/3-cases-filed-over-labour-unrest-savar-over-2300-accused-4314696"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Garment workers’ wage board: No step to call meeting in 3 days",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/business/local/ttcp673ihf"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "How much should garment workers actually be paid?",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/opinion/2nuq171a7l"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "US strikes Iran’s Qeshm Island ahead of midterm elections",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/international/middle-east/vptgmydah5"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "US strikes Iran's Qeshm island: Wall Street Journal",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/us-strikes-irans-qeshm-island-wall-street-journal-4314216"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Americans vote in midterms set to upend Trump presidency",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/international/americas/3vd9d6m2aq"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "US midterm election: Why it's important and races to watch",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/us-midterm-election-why-its-important-and-races-watch-4314401"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Amit Shah claims three crore 'Bangladeshi infiltrators' in India's voter roll revision, challenges Rahul Gandhi",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/news/amit-shah-claims-three-crore-bangladeshi-infiltrators-voter-roll-revision-challenges-rahul-gandhi-4314336"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Private sector credit growth slips to lowest on record",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/private-sector-credit-growth-slips-lowest-record-4314001"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BB appoints independent directors to Commerce Bank, Premier Bank",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/news/bb-appoints-independent-directors-commerce-bank-premier-bank-4314731"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BNP factional clashes leave 9 dead, 185 injured in October: HRSS report",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/rights/news/bnp-factional-clashes-leave-9-dead-185-injured-october-hrss-report-4314621"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh, South Korea plan joint investment task force",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-south-korea-plan-joint-investment-task-force-4314296"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Home Ministry asked to take control of properties owned by Sheikh Hasina, Asaduzzaman",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/m86i5n5fe7"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Chief prosecutor’s office to seek seizure of half of Hasina, Asaduzzaman’s assets",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/9hgq8eqp30"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "6 more die of dengue",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-4314526"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Govt eyes 3,000-4,000MW solar power addition before next summer: PM",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/governance/news/govt-eyes-3000-4000mw-solar-power-addition-next-summer-pm-4314301"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "PM opens two-day Solar Expo-2026",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/q4ye55vtlg"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh’s demographic window narrowing amid job woes: World Bank",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Plan to split NBR back on the table",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/plan-split-nbr-back-the-table-4314076"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Four global firms vie for Dhaka airport's third terminal contract, raising hopes of investment and jobs",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/economy/aviation/news/four-global-firms-vie-dhaka-airports-third-terminal-contract-raising-hopes-investment-and-jobs-4314521"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Draft third terminal deal seeks 15-year restriction on rival airport operations within 100km",
+      "Publication date": "2026-11-03",
+      "Direct URL": "https://www.thedailystar.net/business/economy/aviation/news/draft-third-terminal-deal-seeks-15-year-restriction-rival-airport-operations-within-100km-4314561"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled edition: built from real articles published 3 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). Revision words are Nov 2 words at SRS gap 1 (infiltrate, destabilise, surveillance, embezzlement, absconding). CA13 (demographic window) and CA14 (NBR split) have no Current Affairs MCQ.",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}

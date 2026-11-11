@@ -1,0 +1,2197 @@
+{
+  "edition_date": "2026-11-09",
+  "edition_day": "Monday",
+  "coverage": "7 Nov 2026, 7:47 AM to 2026-11-09, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 13,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Holding the world accountable for the climate crisis",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "The Dhaka Tribune editorial says that as world leaders assemble in Antalya, Türkiye, for COP31, the 31st United Nations Climate Change Conference, the threat of climate change has long ceased to be an abstract danger, and the world must now be held accountable for the climate crisis. The editorial presents the Antalya summit as the forum where that accountability is due.",
+      "why_it_matters": "COP31 in Antalya is the year's central climate negotiation, and BCS/Bank climate questions test summit hosts, the COP process and the accountability debate, so the editorial gives students the accountability framing for the Antalya round.",
+      "exam_facts": "Published 8 November 2026 in the Dhaka Tribune as an editorial; COP stands for the Conference of the Parties, the United Nations climate talks; the editorial's headline frames the issue as holding the world accountable for the climate crisis; the summit gathers world leaders in Antalya, Türkiye, for the 31st session of the conference.",
+      "exam_relevance": "Climate summits, the COP process, editorial analysis — BCS/Bank environment and current-affairs topics.",
+      "key_people": "World leaders assembling for COP31 (not individually named in the editorial lede)",
+      "figures": "COP31; 31st UN Climate Change Conference; Antalya, Türkiye.",
+      "sources": [
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "Holding the world accountable for the climate crisis",
+          "date": "2026-11-08",
+          "url": "https://www.dhakatribune.com/opinion/editorial/424069/holding-the-world-accountable-for-the-climate"
+        }
+      ],
+      "one_liner": "The Dhaka Tribune editorial says that as world leaders assemble in Antalya, Türkiye, for COP31, the 31st United Nations Climate…",
+      "key_facts": [
+        {
+          "label": "st UN Climate Change Conference",
+          "value": "31",
+          "original": "31st UN Climate Change Conference"
+        },
+        {
+          "label": "the summit gathers world leaders in…",
+          "value": "31",
+          "original": "the summit gathers world leaders in Antalya, Türkiye, for the 31st session of the conference"
+        }
+      ],
+      "what_happened": [
+        "The editorial presents the Antalya summit as the forum where that accountability is due."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is st UN Climate Change Conference?",
+          "a": "31"
+        },
+        {
+          "q": "What is the summit gathers world leaders in…?",
+          "a": "31"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Dhaka Tribune editorial says that as world leaders assemble in Antalya, Türkiye, for COP______ the 31st United Nations Climate Change Conference, the threat of climate change has long ceased to be an abstract danger, and the world must now be held accountable for the climate crisis.",
+          "answer": "31,"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "holding",
+        "world",
+        "accountable",
+        "climate",
+        "crisis"
+      ],
+      "detail": "The Dhaka Tribune editorial says that as world leaders assemble in Antalya, Türkiye, for COP31, the 31st United Nations Climate Change Conference, the threat of climate change has long ceased to be an abstract danger, and the world must now be held accountable for the climate crisis. The editorial presents the Antalya summit as the forum where that accountability is due."
+    },
+    {
+      "id": "CA02",
+      "headline": "Minister says Hasina will never return; Rizvi says people will never welcome her back",
+      "category": "Politics",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Liberation War Affairs Minister Ahmed Azam Khan said on 8 November that Sheikh Hasina will never return to Bangladesh, warning that attempts to destabilise the country through sabotage will not be tolerated. At a Dhaka University event marking National Revolution and Solidarity Day on 7 November, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina, issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception.",
+      "why_it_matters": "The Hasina return question links the July 2024 uprising, the 7 November observance and Bangladesh-India relations, so BCS/Bank questions on post-uprising politics, BAKSAL and the National Revolution and Solidarity Day draw directly on these statements.",
+      "exam_facts": "Rizvi spoke at a discussion organised by the Bangladesh Jatiyatabadi Chhatra Dal (JCD) at the TSC auditorium of Dhaka University on 8 November 2026; he is BNP acting secretary-general and Political Adviser to the Prime Minister; he said Hasina crafted a far more terrifying incarnation of BAKSAL, the system her father Sheikh Mujibur Rahman established; he said every sphere of the state was brought under her absolute control and the regime weaponised law enforcement agencies; he said the July 2024 Mass Uprising ended 17 years of rule during which observance of 7 November was prohibited; he said 7 November began multi-party democracy and a foreign policy free from external influence.",
+      "exam_relevance": "Post-uprising politics, BAKSAL, 7 November, Bangladesh-India relations — recurring BCS/Bank topics.",
+      "key_people": "Ahmed Azam Khan, Liberation War Affairs Minister; Ruhul Kabir Rizvi, BNP acting secretary-general and Political Adviser to the Prime Minister; Sheikh Hasina",
+      "figures": "7 November — National Revolution and Solidarity Day; 17 years of rule; July 2024 Mass Uprising.",
+      "sources": [
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "Minister: Sheikh Hasina will never return to Bangladesh",
+          "date": "2026-11-08",
+          "url": "https://www.dhakatribune.com/bangladesh/424064/minister-sheikh-hasina-will-never-return-to"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Sheikh Hasina will never be welcomed back by people: Rizvi",
+          "date": "2026-11-08",
+          "url": "https://en.prothomalo.com/bangladesh/politics/0c12ca84af"
+        }
+      ],
+      "one_liner": "Liberation War Affairs Minister Ahmed Azam Khan said on 8 November that Sheikh Hasina will never return to Bangladesh, warning…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "7 November — National Revolution and Solidarity Day",
+          "original": "7 November — National Revolution and Solidarity Day"
+        },
+        {
+          "label": "years of rule",
+          "value": "17",
+          "original": "17 years of rule"
+        },
+        {
+          "label": "",
+          "value": "July 2024 Mass Uprising",
+          "original": "July 2024 Mass Uprising"
+        },
+        {
+          "label": "he said the July 2024 Mass…",
+          "value": "17",
+          "original": "he said the July 2024 Mass Uprising ended 17 years of rule during which observance of 7 November was prohibited"
+        }
+      ],
+      "what_happened": [
+        "At a Dhaka University event marking National Revolution and Solidarity Day on 7 November, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina,",
+        "issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Liberation War Affairs Minister Ahmed Azam Khan said on ______ that Sheikh Hasina will never return to Bangladesh, warning that attempts to destabilise the country through sabotage will not be tolerated.",
+          "answer": "8 November"
+        },
+        {
+          "cloze": "At a Dhaka University event marking National Revolution and Solidarity Day on ______, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina, issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception.",
+          "answer": "7 November"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "minister",
+        "hasina",
+        "never",
+        "return",
+        "rizvi",
+        "people",
+        "welcome",
+        "back"
+      ],
+      "detail": "Liberation War Affairs Minister Ahmed Azam Khan said on 8 November that Sheikh Hasina will never return to Bangladesh, warning that attempts to destabilise the country through sabotage will not be tolerated. At a Dhaka University event marking National Revolution and Solidarity Day on 7 November, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina, issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception."
+    },
+    {
+      "id": "CA03",
+      "headline": "Machine learning identifies high-risk paratransit drivers in Gazipur",
+      "category": "Technology",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "A machine-learning framework identifies high-risk paratransit drivers in Gazipur, Bangladesh, with regularised logistic regression beating complex ensembles: it scored a mean F1 of 0.557 and AUC-ROC of 0.751. The study interviewed 507 drivers at nine stations in July–December 2021; 121 drivers (23.9%) were repeated-accident drivers and 386 (76.1%) single-accident drivers, in a sector carrying about 60% of motorised trips in smaller cities.",
+      "why_it_matters": "Road safety, informal transport and applied AI are all BCS/Bank topics, and the study's counter-intuitive finding — the simplest model won — is the kind of result examiners ask about, with Gazipur's 60% paratransit share as the background fact.",
+      "exam_facts": "Paratransit covers auto-rickshaws, easy bikes, CNG auto-rickshaws, legunas, tempos and manual rickshaws; the study compared five algorithms — Logistic Regression, Random Forest, XGBoost, Gradient Boosting and a Stacking Ensemble — using repeated stratified five-fold cross-validation, repeated 10 times; the Stacking Ensemble had the best calibration with a Brier score of 0.204 but lower accuracy; the sample included no drivers with zero accidents, a limitation the authors acknowledge; drivers often enter with minimal licensing, training or regulatory oversight; the method generates synthetic examples of the minority class to balance training data.",
+      "exam_relevance": "Applied AI, road safety, informal transport — BCS/Bank science and current-affairs topics.",
+      "key_people": "Researchers (not individually named in the report)",
+      "figures": "507 drivers; 121 repeated-accident (23.9%), 386 single-accident (76.1%); F1 0.557; AUC-ROC 0.751; Brier 0.204; ~60% of motorised trips.",
+      "sources": [
+        {
+          "publication": "Bioengineer.Org",
+          "headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+          "date": "2026-11-08",
+          "url": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/"
+        }
+      ],
+      "one_liner": "A machine-learning framework identifies high-risk paratransit drivers in Gazipur, Bangladesh, with regularised logistic regression beating complex ensembles: it scored a…",
+      "key_facts": [
+        {
+          "label": "76.1%",
+          "value": "121 repeated-accident (23.9%), 386 single-accident",
+          "original": "121 repeated-accident (23.9%), 386 single-accident (76.1%)"
+        },
+        {
+          "label": "F 0.557",
+          "value": "1",
+          "original": "F1 0.557"
+        },
+        {
+          "label": "AUC-ROC",
+          "value": "0.751",
+          "original": "AUC-ROC 0.751"
+        },
+        {
+          "label": "Brier",
+          "value": "0.204",
+          "original": "Brier 0.204"
+        }
+      ],
+      "what_happened": [
+        "The study interviewed 507 drivers at nine stations in July–December 2021; 121 drivers (23.9%) were repeated-accident drivers and 386 (76.1%) single-accident drivers,",
+        "in a sector carrying about 60% of motorised trips in smaller cities."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is AUC-ROC?",
+          "a": "0.751"
+        },
+        {
+          "q": "What is Brier?",
+          "a": "0.204"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A machine-learning framework identifies high-risk paratransit drivers in Gazipur, Bangladesh, with regularised logistic regression beating complex ensembles: it scored a mean F______ of 0.557 and AUC-ROC of 0.751.",
+          "answer": "1"
+        },
+        {
+          "cloze": "The study interviewed 507 drivers at nine stations in July–______21; 121 drivers (23.9%) were repeated-accident drivers and 386 (76.1%) single-accident drivers, in a sector carrying about 60% of motorised trips in smaller cities.",
+          "answer": "December 20"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "machine",
+        "learning",
+        "identifies",
+        "high",
+        "risk",
+        "paratransit",
+        "drivers",
+        "gazipur"
+      ],
+      "detail": "A machine-learning framework identifies high-risk paratransit drivers in Gazipur, Bangladesh, with regularised logistic regression beating complex ensembles: it scored a mean F1 of 0.557 and AUC-ROC of 0.751. The study interviewed 507 drivers at nine stations in July–December 2021; 121 drivers (23.9%) were repeated-accident drivers and 386 (76.1%) single-accident drivers, in a sector carrying about 60% of motorised trips in smaller cities."
+    },
+    {
+      "id": "CA04",
+      "headline": "Titumir: anyone saying ‘December is at the door’ has no connection with Bangladesh",
+      "category": "Politics",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Prime Minister's finance adviser Rashed Al Mahmud Titumir said anyone claiming ‘December is at the door’ for the Awami League's return has no connection with Bangladesh's soil, grass or water. Speaking at a seminar on the 1974 famine at the July Mass Uprising Memorial Museum, he argued the famine came not only from food shortage but from the state's estrangement from the people, a crisis of legitimacy and violence — a pattern he traced from 1972–75 to 2009–24.",
+      "why_it_matters": "The 1974 famine, its three standard explanations and the governance reading Titumir offers are staple BCS written-question material, and the December-return claim ties the famine debate to the live question of the Awami League's future.",
+      "exam_facts": "Titumir is a professor in the Department of Development Studies at Dhaka University; the discussion was the fifth instalment of the museum's Democratic Journey Seminar Series; he said three theories explain the 1974 famine — falling food availability, lack of purchasing power or access, and the absence of a social contract — plus international food aid and Cold War geopolitics; he said both 1971–75 and 2009–24 saw opposition suppressed, state power abused and patronage reaching from villages to the centre, including in rationing; international rice prices rose from US$147 per tonne in 1972 to $542 in 1974 while Bangladeshi market prices also rose.",
+      "exam_relevance": "1974 famine, food policy, governance and patronage — core BCS history and economics topics.",
+      "key_people": "Rashed Al Mahmud Titumir, Prime Minister's finance adviser and Dhaka University professor",
+      "figures": "US$147 per tonne (1972) to $542 (1974); 1972–75 and 2009–24 compared; 1974 famine.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Anyone saying ‘December is at the door’ has no connection with Bangladesh: Adviser Titumir",
+          "date": "2026-11-08",
+          "url": "https://en.prothomalo.com/bangladesh/873m15g1eo"
+        }
+      ],
+      "one_liner": "Prime Minister's finance adviser Rashed Al Mahmud Titumir said anyone claiming ‘December is at the door’ for the Awami League's…",
+      "key_facts": [
+        {
+          "label": "1974",
+          "value": "US$147 per tonne (1972) to $542",
+          "original": "US$147 per tonne (1972) to $542 (1974)"
+        },
+        {
+          "label": "and 2009–24 compared",
+          "value": "1972–75",
+          "original": "1972–75 and 2009–24 compared"
+        },
+        {
+          "label": "he said three theories explain the…",
+          "value": "1974",
+          "original": "he said three theories explain the 1974 famine — falling food availability, lack of purchasing power or access, and the absence of a social contract — plus international food aid and Cold War geopolitics"
+        },
+        {
+          "label": "he said both and 2009–24 saw…",
+          "value": "1971–75",
+          "original": "he said both 1971–75 and 2009–24 saw opposition suppressed, state power abused and patronage reaching from villages to the centre, including in rationing"
+        }
+      ],
+      "what_happened": [
+        "Speaking at a seminar on the 1974 famine at the July Mass Uprising Memorial Museum, he argued the famine came not only from food shortage but from the state's estrangement from the people,",
+        "a crisis of legitimacy and violence — a pattern he traced from 1972–75 to 2009–24."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is he said three theories explain the…?",
+          "a": "1974"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Speaking at a seminar on the ______ famine at the July Mass Uprising Memorial Museum, he argued the famine came not only from food shortage but from the state's estrangement from the people, a crisis of legitimacy and violence — a pattern he traced from 1972–75 to 2009–24.",
+          "answer": "1974"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "titumir",
+        "anyone",
+        "saying",
+        "december",
+        "door",
+        "connection",
+        "bangladesh"
+      ],
+      "detail": "Prime Minister's finance adviser Rashed Al Mahmud Titumir said anyone claiming ‘December is at the door’ for the Awami League's return has no connection with Bangladesh's soil, grass or water. Speaking at a seminar on the 1974 famine at the July Mass Uprising Memorial Museum, he argued the famine came not only from food shortage but from the state's estrangement from the people, a crisis of legitimacy and violence — a pattern he traced from 1972–75 to 2009–24."
+    },
+    {
+      "id": "CA05",
+      "headline": "Government outlines three reforms to fix flaws in previous GDP calculations",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "A joint Bangladesh Institute of Development Studies and planning ministry study found serious flaws and data inconsistencies in GDP calculations under the previous government, prompting three reforms — international standards and geospatial tracking, a scientific method to identify genuine safety-net beneficiaries, and a merged identity and civil-registration database system. Finance Minister Amir Khosru Mahmud Chowdhury said manipulating statistics deceives the government itself; adviser Titumir cited a boat census that reported 13,000 engine-powered boats where a later count found 267,000.",
+      "why_it_matters": "GDP methodology, BBS independence and the boat-census gap are exactly the statistics-and-governance facts BCS/Bank papers test, and the 13,000-versus-267,000 discrepancy is the memorable number that anchors the whole reform story.",
+      "exam_facts": "The review was discussed at a National Statistics Day 2026 event on 8 November; Finance Adviser Rashed Al Titumir said statistics were allegedly weaponised to mislead the public and past GDP estimates lacked a reliable empirical basis; the minister said the review aims to identify problems and correct them, not assign blame; the government will ensure full independence of the Bangladesh Bureau of Statistics (BBS) and make reliable official data accessible to the public, who are its rightful owners; greater public access is meant to encourage feedback and expose errors.",
+      "exam_relevance": "GDP, national statistics, BBS, Digital Public Infrastructure — core BCS/Bank economy topics.",
+      "key_people": "Amir Khosru Mahmud Chowdhury, Finance and Planning Minister; Rashed Al Mahmud Titumir, Finance Adviser",
+      "figures": "13,000 boats reported vs 267,000 counted; 3 reforms; National Statistics Day 2026, 8 November.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Govt outlines reform plans to address statistical flaws in previous GDP calculations",
+          "date": "2026-11-08",
+          "url": "https://www.tbsnews.net/economy/govt-outlines-reform-plans-address-statistical-flaws-previous-gdp-calculations-1596796"
+        },
+        {
+          "publication": "The Financial Express",
+          "headline": "BBS to get full independence, official data to be made accessible, says Khosru",
+          "date": "2026-11-08",
+          "url": "https://today.thefinancialexpress.com.bd/last-page/bbs-to-get-full-independence-official-data-to-be-made-accessible-says-khosru-1794163297"
+        }
+      ],
+      "one_liner": "A joint Bangladesh Institute of Development Studies and planning ministry study found serious flaws and data inconsistencies in GDP calculations…",
+      "key_facts": [
+        {
+          "label": "boats reported vs 267,000 counted",
+          "value": "13,000",
+          "original": "13,000 boats reported vs 267,000 counted"
+        },
+        {
+          "label": "reforms",
+          "value": "3",
+          "original": "3 reforms"
+        },
+        {
+          "label": "National Statistics Day 8 November",
+          "value": "2026,",
+          "original": "National Statistics Day 2026, 8 November"
+        },
+        {
+          "label": "The review was discussed at a…",
+          "value": "2026",
+          "original": "The review was discussed at a National Statistics Day 2026 event on 8 November"
+        }
+      ],
+      "what_happened": [
+        "Finance Minister Amir Khosru Mahmud Chowdhury said manipulating statistics deceives the government itself; adviser Titumir cited a boat census that reported 13,",
+        "000 engine-powered boats where a later count found 267,000."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is reforms?",
+          "a": "3"
+        },
+        {
+          "q": "What is The review was discussed at a…?",
+          "a": "2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Finance Minister Amir Khosru Mahmud Chowdhury said manipulating statistics deceives the government itself; adviser Titumir cited a boat census that reported ______ engine-powered boats where a later count found 267,000.",
+          "answer": "13,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "government",
+        "outlines",
+        "reforms",
+        "flaws",
+        "previous",
+        "calculations"
+      ],
+      "detail": "A joint Bangladesh Institute of Development Studies and planning ministry study found serious flaws and data inconsistencies in GDP calculations under the previous government, prompting three reforms — international standards and geospatial tracking, a scientific method to identify genuine safety-net beneficiaries, and a merged identity and civil-registration database system. Finance Minister Amir Khosru Mahmud Chowdhury said manipulating statistics deceives the government itself; adviser Titumir cited a boat census that reported 13,000 engine-powered boats where a later count found 267,000."
+    },
+    {
+      "id": "CA06",
+      "headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Bangladesh Bank's circular of 8 November told banks to charge the minimum cash margin on letters of credit for 10 Ramadan essentials — rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates — and to give the highest priority to opening the LCs so supplies hold and prices stay affordable. The order, under Section 45 of the Bank Company Act, takes immediate effect until 15 March 2027, replacing a 100% margin rule from 5 September 2024.",
+      "why_it_matters": "LC margins, Ramadan demand and Section 45 of the Bank Company Act are core Bank-job topics, and the 10-item list with ‘wheat and flour’ as one item is the exact list examiners can ask candidates to reproduce.",
+      "exam_facts": "The 10 commodities are rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates. The circular went to the managing directors and chief executive officers of all scheduled banks; an LC margin is the cash or security an importer deposits when opening a letter of credit, and at 100% the importer must deposit the full import value; a lower margin frees traders' capital so small and medium importers can import more, lifting supplies and steadying prices; on 11 November 2025 banks were already told to keep margins at a minimum for Ramadan demand, an instruction in force until 31 March 2026; demand for chickpeas, lentils, edible oil, sugar, spices and dates rises several times in Ramadan, with iftar and sehri meals and large iftar parties; some reports shorten the item to ‘wheat’, but the circular's list counts ‘wheat and flour’ as one item — counting them separately is what produced the ‘11 commodities’ headline figure.",
+      "exam_relevance": "Letters of credit, LC margins, Ramadan prices, Bank Company Act — core Bank-job topics.",
+      "key_people": "Bangladesh Bank (circular to chief executives of all banks)",
+      "figures": "10 commodities; 100% margin (5 Sep 2024); minimum margin from 11 Nov 2025 to 31 Mar 2026; in force till 15 Mar 2027.",
+      "sources": [
+        {
+          "publication": "bdnews24.com",
+          "headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+          "date": "2026-11-08",
+          "url": "https://bdnews24.com/business/wo8kew8osq"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Bangladesh Bank offers special facility to curb price hikes of 10 commodities ahead of Ramadan",
+          "date": "2026-11-08",
+          "url": "https://en.prothomalo.com/bangladesh/ymgsjz4whj"
+        },
+        {
+          "publication": "The Business Standard",
+          "headline": "Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials",
+          "date": "2026-11-08",
+          "url": "https://www.tbsnews.net/economy/bangladesh-bank-asks-banks-keep-lc-margins-lowest-10-ramadan-essentials-1596481"
+        }
+      ],
+      "one_liner": "Bangladesh Bank's circular of 8 November told banks to charge the minimum cash margin on letters of credit for 10…",
+      "key_facts": [
+        {
+          "label": "commodities",
+          "value": "10",
+          "original": "10 commodities"
+        },
+        {
+          "label": "5 Sep 2024",
+          "value": "100% margin",
+          "original": "100% margin (5 Sep 2024)"
+        },
+        {
+          "label": "minimum margin from Nov 2025 to…",
+          "value": "11",
+          "original": "minimum margin from 11 Nov 2025 to 31 Mar 2026"
+        },
+        {
+          "label": "in force till Mar 2027",
+          "value": "15",
+          "original": "in force till 15 Mar 2027"
+        }
+      ],
+      "what_happened": [
+        "The order, under Section 45 of the Bank Company Act, takes immediate effect until 15 March 2027, replacing a 100% margin rule from 5 September 2024."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is commodities?",
+          "a": "10"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank's circular of ______ told banks to charge the minimum cash margin on letters of credit for 10 Ramadan essentials — rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates — and to give the highest priority to opening the LCs so supplies hold and prices stay affordable.",
+          "answer": "8 November"
+        },
+        {
+          "cloze": "The order, under Section 45 of the Bank Company Act, takes immediate effect until ______, replacing a 100% margin rule from 5 September 2024.",
+          "answer": "15 March 2027"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "orders",
+        "minimum",
+        "cash",
+        "margins",
+        "ramadan",
+        "imports"
+      ],
+      "detail": "Bangladesh Bank's circular of 8 November told banks to charge the minimum cash margin on letters of credit for 10 Ramadan essentials — rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates — and to give the highest priority to opening the LCs so supplies hold and prices stay affordable. The order, under Section 45 of the Bank Company Act, takes immediate effect until 15 March 2027, replacing a 100% margin rule from 5 September 2024."
+    },
+    {
+      "id": "CA07",
+      "headline": "BSC recommends 25% cash dividend; Padma Oil recommends 170% as profit rises 21%",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "State-owned Bangladesh Shipping Corporation recommended a 25% cash dividend — Tk2.50 per Tk10 share — for FY26 ended 30 June 2026, with the record date set for 15 December, even as earnings per share fell to Tk19.11 from Tk20.10 because FY25 included one-off gains from selling two vessels, MT Banglar Jyoti and MT Banglar Sourabh. State-run Padma Oil recommended a higher 170% cash dividend, Tk17 per share, after net profit grew 21.24% and EPS rose to Tk69.47 from Tk57.30.",
+      "why_it_matters": "Cash dividends, EPS, NAV and operating cash flow per share are the four stock-market numbers Bank-job papers test, and the BSC–Padma pair shows the same FY26 season producing a payout cut in shipping and a payout rise in petroleum.",
+      "exam_facts": "BSC's net asset value per share rose to Tk121.45 from Tk104.84, and net operating cash flow per share more than doubled to Tk25.40 from Tk11.96; in Q1 FY27 BSC's EPS grew to Tk5.88 from Tk5.14 and NAV reached Tk127.36 at 30 September; Padma Oil's NAV rose to Tk328.33 from Tk274.86 and its operating cash flow turned positive at Tk63.72 from a negative Tk39.83; Padma's AGM is on 1 January 2027 at 10am on a digital platform, with record date 29 November 2026; Padma's shares fell 0.65% to Tk197.70 on the DSE despite the announcement.",
+      "exam_relevance": "Dividends, EPS, NAV, cash flow per share, DSE — core Bank-job stock-market topics.",
+      "key_people": "Bangladesh Shipping Corporation; Padma Oil Company Limited",
+      "figures": "BSC 25% (Tk2.50), EPS Tk19.11 vs Tk20.10, NAV Tk121.45; Padma 170% (Tk17), EPS Tk69.47 vs Tk57.30, profit +21.24%.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "BSC recommends 25% cash dividend",
+          "date": "2026-11-08",
+          "url": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656"
+        },
+        {
+          "publication": "The Business Standard",
+          "headline": "Padma Oil recommends 170% cash dividend as FY26 profit rises 21%",
+          "date": "2026-11-08",
+          "url": "https://www.tbsnews.net/economy/stocks/padma-oil-recommends-170-cash-dividend-fy26-profit-rises-21-1596816"
+        }
+      ],
+      "one_liner": "State-owned Bangladesh Shipping Corporation recommended a 25% cash dividend — Tk2.50 per Tk10 share — for FY26 ended 30 June…",
+      "key_facts": [
+        {
+          "label": "BSC % (Tk2.50), EPS Tk19.11 vs…",
+          "value": "25",
+          "original": "BSC 25% (Tk2.50), EPS Tk19.11 vs Tk20.10, NAV Tk121.45"
+        },
+        {
+          "label": "Padma % (Tk17), EPS Tk69.47 vs…",
+          "value": "170",
+          "original": "Padma 170% (Tk17), EPS Tk69.47 vs Tk57.30, profit +21.24%"
+        },
+        {
+          "label": "BSC's net asset value per share…",
+          "value": "Tk121.45",
+          "original": "BSC's net asset value per share rose to Tk121.45 from Tk104.84, and net operating cash flow per share more than doubled to Tk25.40 from Tk11.96"
+        },
+        {
+          "label": "in Q FY27 BSC's EPS grew…",
+          "value": "1",
+          "original": "in Q1 FY27 BSC's EPS grew to Tk5.88 from Tk5.14 and NAV reached Tk127.36 at 30 September"
+        }
+      ],
+      "what_happened": [
+        "State-run Padma Oil recommended a higher 170% cash dividend, Tk17 per share, after net profit grew 21.24% and EPS rose to Tk69.47 from Tk57.30."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is BSC's net asset value per share…?",
+          "a": "Tk121.45"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "State-owned Bangladesh Shipping Corporation recommended a 25% cash dividend — Tk2.50 per Tk10 share — for FY26 ended ______, with the record date set for 15 December, even as earnings per share fell to Tk19.11 from Tk20.10 because FY25 included one-off gains from selling two vessels, MT Banglar Jyoti and MT Banglar Sourabh.",
+          "answer": "30 June 2026"
+        },
+        {
+          "cloze": "State-run Padma Oil recommended a higher ______% cash dividend, Tk17 per share, after net profit grew 21.24% and EPS rose to Tk69.47 from Tk57.30.",
+          "answer": "170"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "recommends",
+        "cash",
+        "dividend",
+        "padma",
+        "profit",
+        "rises"
+      ],
+      "detail": "State-owned Bangladesh Shipping Corporation recommended a 25% cash dividend — Tk2.50 per Tk10 share — for FY26 ended 30 June 2026, with the record date set for 15 December, even as earnings per share fell to Tk19.11 from Tk20.10 because FY25 included one-off gains from selling two vessels, MT Banglar Jyoti and MT Banglar Sourabh. State-run Padma Oil recommended a higher 170% cash dividend, Tk17 per share, after net profit grew 21.24% and EPS rose to Tk69.47 from Tk57.30."
+    },
+    {
+      "id": "CA08",
+      "headline": "EC plans first-phase elections in 1,000 union parishads on 21 January",
+      "category": "Bangladesh",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "The Election Commission plans first-phase elections in around 1,000 union parishads on 21 January, as part of a five-phase programme ending 27 May 2027, EC Senior Secretary Akhtar Ahmed said on 8 November. The second phase is likely on 4 February, with later phases on 29 April, 13 May and 27 May, scheduled around Ramadan, the SSC examinations and coastal weather; the terms of around 4,300 union parishads have already expired.",
+      "why_it_matters": "Union parishad elections, the EC's five-phase calendar and the old-laws-versus-reforms question are direct BCS local-government topics, and the 1,000-UP first phase on 21 January is the date examiners will ask.",
+      "exam_facts": "Akhtar Ahmed spoke at the Election Commission Bhaban in Agargaon; the five-phase decision was taken at a Commission meeting on 12 October, and Election Commissioner Brig Gen (Retd) Abul Fazal Md Sanaullah earlier confirmed the schedule; lists of UPs for the first and second phases are expected to be finalised by Thursday; all UPs of an upazila whose terms expired will vote simultaneously, and UPs held up by court cases can join if final verdicts come before the final list; the EC is printing ballot papers for chairman, general member and reserved women member posts; The Daily Star reported the polls will run under existing laws, with key electoral and local-government reforms left out.",
+      "exam_relevance": "Local government, union parishads, Election Commission — core BCS civics topics.",
+      "key_people": "Akhtar Ahmed, EC Senior Secretary; Abul Fazal Md Sanaullah, Election Commissioner",
+      "figures": "1,000 UPs in phase 1; 4,300 UPs' terms expired; phases: 21 Jan, 4 Feb, 29 Apr, 13 May, 27 May 2027.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "EC plans to hold first-phase elections in 1,000 UPs on 21 January",
+          "date": "2026-11-08",
+          "url": "https://en.prothomalo.com/bangladesh/2tlwfdb8um"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "UP polls: EC sticks to old laws, key reforms left out",
+          "date": "2026-11-08",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/polls-ec-sticks-old-laws-key-reforms-left-out-4318836"
+        }
+      ],
+      "one_liner": "The Election Commission plans first-phase elections in around 1,000 union parishads on 21 January, as part of a five-phase programme…",
+      "key_facts": [
+        {
+          "label": "UPs in phase 1",
+          "value": "1,000",
+          "original": "1,000 UPs in phase 1"
+        },
+        {
+          "label": "UPs' terms expired",
+          "value": "4,300",
+          "original": "4,300 UPs' terms expired"
+        },
+        {
+          "label": "phases",
+          "value": "21 Jan, 4 Feb, 29 Apr, 13 May, 27 May 2027",
+          "original": "phases: 21 Jan, 4 Feb, 29 Apr, 13 May, 27 May 2027"
+        }
+      ],
+      "what_happened": [
+        "The second phase is likely on 4 February, with later phases on 29 April, 13 May and 27 May,",
+        "scheduled around Ramadan, the SSC examinations and coastal weather; the terms of around 4,300 union parishads have already expired."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is UPs' terms expired?",
+          "a": "4,300"
+        },
+        {
+          "q": "What is Akhtar Ahmed?",
+          "a": "spoke at the Election Commission Bhaban in Agargaon"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Election Commission plans first-phase elections in around 1,000 union parishads on ______, as part of a five-phase programme ending 27 May 2027, EC Senior Secretary Akhtar Ahmed said on 8 November.",
+          "answer": "21 January"
+        },
+        {
+          "cloze": "The second phase is likely on ______, with later phases on 29 April, 13 May and 27 May, scheduled around Ramadan, the SSC examinations and coastal weather; the terms of around 4,300 union parishads have already expired.",
+          "answer": "4 February"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "plans",
+        "phase",
+        "elections",
+        "union",
+        "parishads",
+        "january"
+      ],
+      "detail": "The Election Commission plans first-phase elections in around 1,000 union parishads on 21 January, as part of a five-phase programme ending 27 May 2027, EC Senior Secretary Akhtar Ahmed said on 8 November. The second phase is likely on 4 February, with later phases on 29 April, 13 May and 27 May, scheduled around Ramadan, the SSC examinations and coastal weather; the terms of around 4,300 union parishads have already expired."
+    },
+    {
+      "id": "CA09",
+      "headline": "Ninth teacher recruitment examination to be held in three stages; syllabus may change",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "The Ninth Teacher Recruitment Examination, run by the Non-Government Teachers' Registration and Certification Authority (NTRCA), may be held in December in three stages — a 100-mark MCQ preliminary of one hour, a 100-mark written test of three hours, and a 20-mark viva voce — with the syllabus possibly revised. For the first time the examination will lead directly to recruitment, not merely certify eligibility, so it is called a recruitment examination, not the 19th registration examination.",
+      "why_it_matters": "NTRCA, the three-stage format and the 100–100–20 marks split are exactly the kind of recruitment-examination facts BCS/Bank candidates are asked, and the switch from ‘registration’ to ‘recruitment’ is the conceptual point behind the new name.",
+      "exam_facts": "The preliminary syllabus covers Bengali, English, Mathematics and General Knowledge, 25 marks each; one mark per correct answer, 0.25 deducted per wrong answer, pass mark 40 per cent; the format depends on amendments to the relevant regulations and approval from the Ministry of Education; viva voce examinations for heads and assistant heads of institutions are under way and end on 9 December; the NTRCA last notified the 18th Teacher Registration Examination on 4 November 2023, with the preliminary held in March 2024.",
+      "exam_relevance": "Teacher recruitment, NTRCA, examination formats — direct Jobs & Education topics for BCS/Bank candidates.",
+      "key_people": "Non-Government Teachers' Registration and Certification Authority (NTRCA)",
+      "figures": "100-mark MCQ (1 hour) + 100-mark written (3 hours) + 20-mark viva; pass mark 40%; 0.25 negative marking; 25 marks per subject.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "9th teacher recruitment exam to be held in 3 stages, syllabus may change",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/youth/employment/r4db664b3m"
+        }
+      ],
+      "one_liner": "The Ninth Teacher Recruitment Examination, run by the Non-Government Teachers' Registration and Certification Authority (NTRCA), may be held in December…",
+      "key_facts": [
+        {
+          "label": "mark MCQ (1 hour) + 100-mark…",
+          "value": "100",
+          "original": "100-mark MCQ (1 hour) + 100-mark written (3 hours) + 20-mark viva"
+        },
+        {
+          "label": "pass mark %",
+          "value": "40",
+          "original": "pass mark 40%"
+        },
+        {
+          "label": "negative marking",
+          "value": "0.25",
+          "original": "0.25 negative marking"
+        },
+        {
+          "label": "marks per subject",
+          "value": "25",
+          "original": "25 marks per subject"
+        }
+      ],
+      "what_happened": [
+        "For the first time the examination will lead directly to recruitment, not merely certify eligibility, so it is called a recruitment examination, not the 19th registration examination."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is pass mark %?",
+          "a": "40"
+        },
+        {
+          "q": "What is negative marking?",
+          "a": "0.25"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Ninth Teacher Recruitment Examination, run by the Non-Government Teachers' Registration and Certification Authority (NTRCA), may be held in December in three stages — a ______-mark MCQ preliminary of one hour, a 100-mark written test of three hours, and a 20-mark viva voce — with the syllabus possibly revised.",
+          "answer": "100"
+        },
+        {
+          "cloze": "For the first time the examination will lead directly to recruitment, not merely certify eligibility, so it is called a recruitment examination, not the ______th registration examination.",
+          "answer": "19"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "ninth",
+        "teacher",
+        "recruitment",
+        "examination",
+        "held",
+        "stages",
+        "syllabus",
+        "change"
+      ],
+      "detail": "The Ninth Teacher Recruitment Examination, run by the Non-Government Teachers' Registration and Certification Authority (NTRCA), may be held in December in three stages — a 100-mark MCQ preliminary of one hour, a 100-mark written test of three hours, and a 20-mark viva voce — with the syllabus possibly revised. For the first time the examination will lead directly to recruitment, not merely certify eligibility, so it is called a recruitment examination, not the 19th registration examination."
+    },
+    {
+      "id": "CA10",
+      "headline": "Import bill up 11.5% in first quarter of FY27 amid global price pressures",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Bangladesh's import expenditure rose 11.50 per cent in the first quarter of the current fiscal year 2026-27 amid global price pressures. The Financial Express reported the rise on 8 November, with the upward trend expected to continue in the coming months.",
+      "why_it_matters": "The import bill is the first hard external-sector number of FY27, and BCS/Bank economy papers test import trends, the trade balance and the reserves behind them, so the 11.50% first-quarter rise is the figure to remember.",
+      "exam_facts": "The Q1 figure is the first-quarter reading for FY27, the fiscal year 2026-27; the 11.50 per cent rise is measured on import spending, and the report ties it to global price pressures; the upward trend is expected to continue in the coming months; the report was published by The Financial Express on 8 November 2026.",
+      "exam_relevance": "Imports, trade balance, external sector — core BCS/Bank economy topics.",
+      "key_people": "The Financial Express (report)",
+      "figures": "Import bill +11.50% in Q1 FY27 (2026-27).",
+      "sources": [
+        {
+          "publication": "The Financial Express",
+          "headline": "Import bill up 11.5pc amid global price pressures",
+          "date": "2026-11-08",
+          "url": "https://today.thefinancialexpress.com.bd/last-page/import-bill-up-115pc-amid-global-price-pressures-1794163177"
+        }
+      ],
+      "one_liner": "Bangladesh's import expenditure rose 11.50 per cent in the first quarter of the current fiscal year 2026-27 amid global price…",
+      "key_facts": [
+        {
+          "label": "2026-27",
+          "value": "Import bill +11.50% in Q1 FY27",
+          "original": "Import bill +11.50% in Q1 FY27 (2026-27)"
+        },
+        {
+          "label": "The Q figure is the first-quarter…",
+          "value": "1",
+          "original": "The Q1 figure is the first-quarter reading for FY27, the fiscal year 2026-27"
+        },
+        {
+          "label": "the per cent rise is measured…",
+          "value": "11.50",
+          "original": "the 11.50 per cent rise is measured on import spending, and the report ties it to global price pressures"
+        }
+      ],
+      "what_happened": [
+        "The Financial Express reported the rise on 8 November, with the upward trend expected to continue in the coming months."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is The Q figure is the first-quarter…?",
+          "a": "1"
+        },
+        {
+          "q": "What is the per cent rise is measured…?",
+          "a": "11.50"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's import expenditure rose ______ per cent in the first quarter of the current fiscal year 2026-27 amid global price pressures.",
+          "answer": "11.50"
+        },
+        {
+          "cloze": "The Financial Express reported the rise on ______, with the upward trend expected to continue in the coming months.",
+          "answer": "8 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "import",
+        "bill",
+        "quarter",
+        "global",
+        "price",
+        "pressures"
+      ],
+      "detail": "Bangladesh's import expenditure rose 11.50 per cent in the first quarter of the current fiscal year 2026-27 amid global price pressures. The Financial Express reported the rise on 8 November, with the upward trend expected to continue in the coming months."
+    },
+    {
+      "id": "CA11",
+      "headline": "PM urges new BCS officers to serve people with honesty, efficiency and humanity",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Prime Minister Tarique Rahman urged newly recruited civil servants to serve people with honesty, efficiency and humanity, stressing that no citizen should face harassment while seeking government services. The address to the new officers, reported on 8 November, sets honesty, efficiency and human values as the standard for the civil service.",
+      "why_it_matters": "BCS is the examination itself, so a prime ministerial address to newly recruited civil servants — honesty, efficiency, humanity, no harassment — is the values question BCS viva and written papers return to.",
+      "exam_facts": "The prime minister addressed newly recruited civil servants at the start of their careers; the Dhaka Tribune reports the address as Sunday, while The Daily Star dates it to the previous day, so the two reports differ on the day; the Tribune version stresses human values and the Star version stresses humanity and ensuring no citizen faces harassment while seeking government services; the message targets officers entering the civil service.",
+      "exam_relevance": "Civil service values, BCS, public administration — direct BCS topics.",
+      "key_people": "Tarique Rahman, Prime Minister",
+      "figures": "Address reported 8 November 2026; newly recruited civil servants.",
+      "sources": [
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "PM urges new BCS officers to serve people with honesty, efficiency and humanity",
+          "date": "2026-11-08",
+          "url": "https://www.dhakatribune.com/bangladesh/424073/pm-urges-new-bcs-officers-to-serve-people-with"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Serve people, do not harass them",
+          "date": "2026-11-08",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/serve-people-do-not-harass-them-4318696"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman urged newly recruited civil servants to serve people with honesty, efficiency and humanity, stressing that no…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Address reported 8 November 2026",
+          "original": "Address reported 8 November 2026"
+        },
+        {
+          "label": "",
+          "value": "the message targets officers entering the civil service",
+          "original": "the message targets officers entering the civil service"
+        }
+      ],
+      "what_happened": [
+        "The address to the new officers, reported on 8 November, sets honesty, efficiency and human values as the standard for the civil service."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The address to the new officers, reported on ______, sets honesty, efficiency and human values as the standard for the civil service.",
+          "answer": "8 November"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "urges",
+        "officers",
+        "serve",
+        "people",
+        "honesty",
+        "efficiency",
+        "humanity"
+      ],
+      "detail": "Prime Minister Tarique Rahman urged newly recruited civil servants to serve people with honesty, efficiency and humanity, stressing that no citizen should face harassment while seeking government services. The address to the new officers, reported on 8 November, sets honesty, efficiency and human values as the standard for the civil service."
+    },
+    {
+      "id": "CA12",
+      "headline": "300 shortlisted by lottery for zero-cost jobs at Malaysian firm",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-08",
+      "summary": "A total of 300 candidates were provisionally shortlisted through a lottery for recruitment by Malaysian company DHL Supply Chain Malaysia Sdn Bhd at zero migration cost, after 4,029 candidates applied online between 6 November and 4pm on 8 November. Of the 300, 200 were shortlisted for Operations Assistant posts and 100 for Technical Skilled Worker posts; 112 successful candidates will go to Malaysia with the employer paying medical fees and airfares.",
+      "why_it_matters": "Overseas employment, zero-migration-cost recruitment and the 1-crore-workers pledge are core BCS/Bank labour-migration topics, and the lottery mechanism is the new selection fact examiners can test.",
+      "exam_facts": "The electronic lottery was held at Probashi Kallyan Bhaban in Dhaka in the presence of ministry officials, BOESL representatives and journalists; the shortlisted candidates face practical examinations and viva voce before the recruiting company's representatives, and the list will be published on BOESL's website and Facebook page; acting expatriate welfare secretary Ahmadul Haque said the initiative supports the government's pledge to send 1 crore workers abroad over five years; BOESL managing director Mohammad Rashedul Haque said it is the first government initiative to select eligible and skilled workers by lottery.",
+      "exam_relevance": "Overseas employment, BOESL, labour migration — core BCS/Bank topics.",
+      "key_people": "Ahmadul Haque, acting secretary, expatriate welfare ministry; Mohammad Rashedul Haque, managing director, BOESL; DHL Supply Chain Malaysia Sdn Bhd",
+      "figures": "4,029 applied; 300 shortlisted (200 Operations Assistant, 100 Technical Skilled Worker); 112 to go; 1 crore workers in 5 years.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm",
+          "date": "2026-11-08",
+          "url": "https://www.tbsnews.net/bangladesh/300-shortlisted-thru-lottery-zero-cost-jobs-malaysian-firm-1596621"
+        }
+      ],
+      "one_liner": "A total of 300 candidates were provisionally shortlisted through a lottery for recruitment by Malaysian company DHL Supply Chain Malaysia…",
+      "key_facts": [
+        {
+          "label": "applied",
+          "value": "4,029",
+          "original": "4,029 applied"
+        },
+        {
+          "label": "200 Operations Assistant, 100 Technical Skilled Worker",
+          "value": "300 shortlisted",
+          "original": "300 shortlisted (200 Operations Assistant, 100 Technical Skilled Worker)"
+        },
+        {
+          "label": "to go",
+          "value": "112",
+          "original": "112 to go"
+        },
+        {
+          "label": "crore workers in 5 years",
+          "value": "1",
+          "original": "1 crore workers in 5 years"
+        }
+      ],
+      "what_happened": [
+        "Of the 300, 200 were shortlisted for Operations Assistant posts and 100 for Technical Skilled Worker posts;",
+        "112 successful candidates will go to Malaysia with the employer paying medical fees and airfares."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is applied?",
+          "a": "4,029"
+        },
+        {
+          "q": "What is to go?",
+          "a": "112"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A total of 300 candidates were provisionally shortlisted through a lottery for recruitment by Malaysian company DHL Supply Chain Malaysia Sdn Bhd at zero migration cost, after 4,029 candidates applied online between ______ and 4pm on 8 November.",
+          "answer": "6 November"
+        },
+        {
+          "cloze": "Of the ______ 200 were shortlisted for Operations Assistant posts and 100 for Technical Skilled Worker posts; 112 successful candidates will go to Malaysia with the employer paying medical fees and airfares.",
+          "answer": "300,"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "shortlisted",
+        "lottery",
+        "zero",
+        "cost",
+        "jobs",
+        "malaysian",
+        "firm"
+      ],
+      "detail": "A total of 300 candidates were provisionally shortlisted through a lottery for recruitment by Malaysian company DHL Supply Chain Malaysia Sdn Bhd at zero migration cost, after 4,029 candidates applied online between 6 November and 4pm on 8 November. Of the 300, 200 were shortlisted for Operations Assistant posts and 100 for Technical Skilled Worker posts; 112 successful candidates will go to Malaysia with the employer paying medical fees and airfares."
+    },
+    {
+      "id": "CA13",
+      "headline": "Six garment factories in Gazipur's Konabari shut amid wage protests",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-08",
+      "article_date": "2026-11-08",
+      "summary": "Six garment factories in Gazipur's Konabari area have been shut following protests by workers demanding higher wages. The Daily Star reported the shutdowns on 8 November.",
+      "why_it_matters": "Garment wages and factory stoppages are the most tested RMG facts in BCS/Bank economy papers, and the Konabari shutdowns show the wage demand behind the current unrest in the garment belt.",
+      "exam_facts": "Gazipur Industrial Police Superintendent Amjad Hossain confirmed the shutdowns; the factories are in Konabari, Gazipur; the workers were protesting for higher wages; the shutdowns follow the garment sector's wage protests.",
+      "exam_relevance": "RMG sector, garment wages, labour unrest — core BCS/Bank economy topics.",
+      "key_people": "Amjad Hossain, Gazipur Industrial Police Superintendent",
+      "figures": "6 factories shut in Konabari, Gazipur; reported 8 November 2026.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Six garment factories in Gazipur's Konabari shut amid wage protests",
+          "date": "2026-11-08",
+          "url": "https://www.thedailystar.net/news/news/six-garment-factories-gazipurs-konabari-shut-amid-wage-protests-4318491"
+        }
+      ],
+      "one_liner": "Six garment factories in Gazipur's Konabari area have been shut following protests by workers demanding higher wages.",
+      "key_facts": [
+        {
+          "label": "factories shut in Konabari, Gazipur",
+          "value": "6",
+          "original": "6 factories shut in Konabari, Gazipur"
+        },
+        {
+          "label": "",
+          "value": "reported 8 November 2026",
+          "original": "reported 8 November 2026"
+        },
+        {
+          "label": "",
+          "value": "the factories are in Konabari, Gazipur",
+          "original": "the factories are in Konabari, Gazipur"
+        },
+        {
+          "label": "",
+          "value": "the workers were protesting for higher wages",
+          "original": "the workers were protesting for higher wages"
+        }
+      ],
+      "what_happened": [
+        "The Daily Star reported the shutdowns on 8 November."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is factories shut in Konabari, Gazipur?",
+          "a": "6"
+        },
+        {
+          "q": "What is Gazipur Industrial?",
+          "a": "Police Superintendent Amjad Hossain confirmed the shutdowns"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Daily Star reported the shutdowns on ______.",
+          "answer": "8 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "factories",
+        "gazipur",
+        "konabari",
+        "shut",
+        "wage",
+        "protests"
+      ],
+      "detail": "Six garment factories in Gazipur's Konabari area have been shut following protests by workers demanding higher wages. The Daily Star reported the shutdowns on 8 November."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "culmination",
+      "IPA": "/ˌkʌlmɪˈneɪʃn/",
+      "Bangla phonetic": "কালমিনেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "চূড়ান্ত পরিণতি; শীর্ষবিন্দু",
+      "English definition": "The highest point or final result of a long process.",
+      "Synonyms": "climax; peak; conclusion",
+      "Antonyms": "beginning; origin",
+      "Word family / derivatives": "culminate (verb); culminating (adjective)",
+      "Collocations / patterns": "the culmination of protests; the culmination of years of work",
+      "Original example": "The July 2024 Mass Uprising was the culmination of long-standing student and public protests and resistance against this tyranny, Rizvi added.",
+      "Newspaper context note": "Rizvi describes the July 2024 Mass Uprising as the end-point of long student and public protest.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Hasina will never be welcomed back by people: Rizvi",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/0c12ca84af",
+      "BCS / Bank relevance": "BCS written and vocabulary: 'culmination' and 'culminate' recur in history and current-affairs passages.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "incarnation",
+      "IPA": "/ˌɪnkɑːˈneɪʃn/",
+      "Bangla phonetic": "ইনকারনেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবতার; মূর্ত রূপ",
+      "English definition": "A person or thing that embodies a quality or idea in physical form.",
+      "Synonyms": "embodiment; personification; manifestation",
+      "Antonyms": "opposite; antithesis",
+      "Word family / derivatives": "incarnate (verb/adjective); reincarnation",
+      "Collocations / patterns": "a terrifying incarnation; the incarnation of an idea",
+      "Original example": "While her father, Sheikh Mujibur Rahman, had established BAKSAL, Sheikh Hasina crafted a far more terrifying incarnation of it under a different guise.",
+      "Newspaper context note": "Rizvi compares Hasina's rule with her father's BAKSAL system.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Hasina will never be welcomed back by people: Rizvi",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/0c12ca84af",
+      "BCS / Bank relevance": "BCS vocabulary: 'incarnation' and 'embodiment' are classic synonym/antonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "patronage",
+      "IPA": "/ˈpætrənɪdʒ/",
+      "Bangla phonetic": "প্যাট্রনেজ",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পৃষ্ঠপোষকতা; আনুকূল্য",
+      "English definition": "Support, favour or protection given by a powerful person or group, often in return for loyalty.",
+      "Synonyms": "favouritism; backing; sponsorship",
+      "Antonyms": "neglect; opposition",
+      "Word family / derivatives": "patron (noun); patronise (verb)",
+      "Collocations / patterns": "system of patronage; political patronage",
+      "Original example": "In these circumstances, a system of patronage emerged as a means of retaining power, extending from rural areas to the centre.",
+      "Newspaper context note": "Titumir argues patronage, not only food shortage, explains the 1974 famine and later governance.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Anyone saying ‘December is at the door’ has no connection with Bangladesh: Adviser Titumir",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/873m15g1eo",
+      "BCS / Bank relevance": "BCS governance and political-science vocabulary; 'patronage' recurs in questions on politics and administration.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "estrangement",
+      "IPA": "/ɪˈstreɪndʒmənt/",
+      "Bangla phonetic": "ইস্ট্রেঞ্জমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিচ্ছিন্নতা; দূরত্ব",
+      "English definition": "The state of being separated or alienated from someone or something.",
+      "Synonyms": "alienation; separation; detachment",
+      "Antonyms": "closeness; reconciliation",
+      "Word family / derivatives": "estranged (adjective); estrange (verb)",
+      "Collocations / patterns": "estrangement from the people; estrangement between state and citizens",
+      "Original example": "Rather, it was also rooted in the state's estrangement from the people, a crisis of political legitimacy and the role of violence.",
+      "Newspaper context note": "Titumir's explanation of the 1974 famine: the state had grown estranged from the people.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Anyone saying ‘December is at the door’ has no connection with Bangladesh: Adviser Titumir",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/873m15g1eo",
+      "BCS / Bank relevance": "BCS vocabulary: 'estrangement' and 'alienation' appear in English and political-science papers.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "legitimacy",
+      "IPA": "/lɪˈdʒɪtɪməsi/",
+      "Bangla phonetic": "লেজিটিমেসি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বৈধতা",
+      "English definition": "The quality of being lawful, rightful and accepted by the people.",
+      "Synonyms": "validity; legality; authority",
+      "Antonyms": "illegitimacy; unlawfulness",
+      "Word family / derivatives": "legitimate (adjective); legitimise (verb)",
+      "Collocations / patterns": "crisis of legitimacy; political legitimacy",
+      "Original example": "Rather, it was also rooted in the state's estrangement from the people, a crisis of political legitimacy and the role of violence.",
+      "Newspaper context note": "Titumir lists a crisis of political legitimacy among the causes of the 1974 famine.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Anyone saying ‘December is at the door’ has no connection with Bangladesh: Adviser Titumir",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/873m15g1eo",
+      "BCS / Bank relevance": "BCS political-science core word; 'legitimacy' is asked in governance and constitution questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "accord",
+      "IPA": "/əˈkɔːd/",
+      "Bangla phonetic": "অ্যাকর্ড",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রদান করা; দেওয়া",
+      "English definition": "To give or grant something, especially respect, a reception or status.",
+      "Synonyms": "grant; bestow; give",
+      "Antonyms": "withhold; deny",
+      "Word family / derivatives": "accordance (noun); according to",
+      "Collocations / patterns": "accord a reception; accord respect",
+      "Original example": "Should Sheikh Hasina return to the country, the people will never accord her a reception, Ruhul Kabir Rizvi said on Sunday.",
+      "Newspaper context note": "Rizvi says the people will never give Hasina a public welcome if she returns.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Sheikh Hasina will never be welcomed back by people: Rizvi",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/0c12ca84af",
+      "BCS / Bank relevance": "BCS vocabulary: 'accord' is a frequent synonym question (grant/bestow) and appears in formal news English.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "paratransit",
+      "IPA": "/ˈpærəˌrænzɪt/",
+      "Bangla phonetic": "প্যারাট্রানজিট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আধা-আনুষ্ঠানিক গণপরিবহন",
+      "English definition": "Informal, flexible public transport such as auto-rickshaws and easy bikes, between private cars and formal buses.",
+      "Synonyms": "informal transport; shared transport",
+      "Antonyms": "formal transit; mass transit",
+      "Word family / derivatives": "paratransit driver; paratransit system",
+      "Collocations / patterns": "paratransit systems; paratransit drivers; paratransit stations",
+      "Original example": "Paratransit systems, which include auto-rickshaws, easy bikes, and other intermediate public transport modes, account for approximately 60% of motorized trips in smaller cities in Bangladesh.",
+      "Newspaper context note": "A Gazipur study uses machine learning to identify high-risk paratransit drivers.",
+      "Source publication": "Bioengineer.Org",
+      "Article headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/",
+      "BCS / Bank relevance": "Live current-affairs term in transport and urban-policy news; BCS science and Bangladesh-affairs vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "resilience",
+      "IPA": "/rɪˈzɪliəns/",
+      "Bangla phonetic": "রেজিলিয়েন্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্থিতিস্থাপকতা; ঘুরে দাঁড়ানোর ক্ষমতা",
+      "English definition": "The ability to recover quickly from difficulties and keep functioning.",
+      "Synonyms": "toughness; adaptability; recovery",
+      "Antonyms": "fragility; vulnerability",
+      "Word family / derivatives": "resilient (adjective); resiliently (adverb)",
+      "Collocations / patterns": "urban resilience; economic resilience; climate resilience",
+      "Original example": "These informal fleets are essential for urban resilience, particularly during disruptions to formal public transport networks such as monsoon flooding or fuel shortages.",
+      "Newspaper context note": "Paratransit keeps cities moving when floods or fuel shortages disrupt formal transport.",
+      "Source publication": "Bioengineer.Org",
+      "Article headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/",
+      "BCS / Bank relevance": "BCS/Bank favourite: 'resilience' recurs in climate, economy and disaster questions, with 'resilient' as its adjective.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "synthetic",
+      "IPA": "/sɪnˈθetɪk/",
+      "Bangla phonetic": "সিনথেটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কৃত্রিম; সংশ্লেষিত",
+      "English definition": "Made artificially, rather than occurring naturally; in machine learning, generated data.",
+      "Synonyms": "artificial; manufactured; simulated",
+      "Antonyms": "natural; genuine",
+      "Word family / derivatives": "synthetically (adverb); synthesis (noun)",
+      "Collocations / patterns": "synthetic examples; synthetic data; synthetic fibre",
+      "Original example": "This method generates synthetic examples of the minority class to balance the training data, allowing the models to learn more robust decision boundaries.",
+      "Newspaper context note": "The Gazipur study balances its data with synthetic examples of repeat-accident drivers.",
+      "Source publication": "Bioengineer.Org",
+      "Article headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/",
+      "BCS / Bank relevance": "BCS science vocabulary; 'synthetic' is asked in chemistry, AI and general-knowledge papers.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "stratified",
+      "IPA": "/ˈstrætɪfaɪd/",
+      "Bangla phonetic": "স্ট্র্যাটিফায়েড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "স্তরবিন্যস্ত",
+      "English definition": "Arranged or divided into layers or groups (strata).",
+      "Synonyms": "layered; grouped; tiered",
+      "Antonyms": "unstratified; mixed",
+      "Word family / derivatives": "stratum (noun, singular); strata (noun, plural); stratify (verb)",
+      "Collocations / patterns": "stratified sampling; stratified cross-validation",
+      "Original example": "Model performance was evaluated using repeated stratified five-fold cross-validation, repeated 10 times, to ensure that the results were not artifacts of a single fortunate data partition.",
+      "Newspaper context note": "The study tests its models with repeated stratified five-fold cross-validation.",
+      "Source publication": "Bioengineer.Org",
+      "Article headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/",
+      "BCS / Bank relevance": "BCS statistics and research vocabulary; 'stratified sampling' is a standard methods term.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "interpretability",
+      "IPA": "/ɪnˌtɜːprətəˈbɪləti/",
+      "Bangla phonetic": "ইন্টারপ্রেটাবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ব্যাখ্যাযোগ্যতা",
+      "English definition": "The quality of being understandable; how easily a model's decisions can be explained.",
+      "Synonyms": "explainability; transparency; clarity",
+      "Antonyms": "opacity; obscurity",
+      "Word family / derivatives": "interpretable (adjective); interpret (verb)",
+      "Collocations / patterns": "model interpretability; advantage in interpretability",
+      "Original example": "The model's simplicity provided a significant advantage in interpretability, as its coefficients yielded directly actionable odds ratios for policy makers.",
+      "Newspaper context note": "Simple logistic regression won because its results can be explained to policy makers.",
+      "Source publication": "Bioengineer.Org",
+      "Article headline": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/",
+      "BCS / Bank relevance": "Live AI term in current-affairs science news; BCS technology vocabulary.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "geospatial",
+      "IPA": "/ˌdʒiːəʊˈspeɪʃl/",
+      "Bangla phonetic": "জিওস্প্যাশিয়াল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ভূ-স্থানিক",
+      "English definition": "Relating to data about places on the earth's surface, such as maps and satellite locations.",
+      "Synonyms": "geographic; spatial; location-based",
+      "Antonyms": "non-spatial",
+      "Word family / derivatives": "geospace (noun); geolocation (noun)",
+      "Collocations / patterns": "geospatial tracking; geospatial data",
+      "Original example": "The three reforms involve adopting international standards and geospatial tracking for data collection, introducing a scientific method to identify genuine beneficiaries of social safety-net programmes, and integrating national identity and civil registration databases into a Digital Public Infrastructure (DPI).",
+      "Newspaper context note": "One of the three GDP-statistics reforms is geospatial tracking for data collection.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt outlines reform plans to address statistical flaws in previous GDP calculations",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-outlines-reform-plans-address-statistical-flaws-previous-gdp-calculations-1596796",
+      "BCS / Bank relevance": "Live current-affairs term in statistics and digital-governance news; BCS technology vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "credibility",
+      "IPA": "/ˌkredəˈbɪləti/",
+      "Bangla phonetic": "ক্রেডিবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বিশ্বাসযোগ্যতা",
+      "English definition": "The quality of being trusted and believed in.",
+      "Synonyms": "trustworthiness; reliability; believability",
+      "Antonyms": "unreliability; doubt",
+      "Word family / derivatives": "credible (adjective); credibly (adverb)",
+      "Collocations / patterns": "restore the credibility; credibility of statistics",
+      "Original example": "A joint study by the Bangladesh Institute of Development Studies (BIDS) and the planning ministry has identified serious flaws and data inconsistencies in GDP calculations under the previous government, prompting the current administration to undertake three major reforms to restore the credibility of official statistics.",
+      "Newspaper context note": "The GDP-statistics reforms aim to restore the credibility of official data.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt outlines reform plans to address statistical flaws in previous GDP calculations",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-outlines-reform-plans-address-statistical-flaws-previous-gdp-calculations-1596796",
+      "BCS / Bank relevance": "BCS/Bank core word: 'credibility' and 'credible' recur in economy, banking and governance questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "dividend",
+      "IPA": "/ˈdɪvɪdend/",
+      "Bangla phonetic": "ডিভিডেন্ড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "লভ্যাংশ",
+      "English definition": "A share of a company's profits paid to its shareholders.",
+      "Synonyms": "payout; distribution; share of profit",
+      "Antonyms": "loss; levy",
+      "Word family / derivatives": "dividends (plural)",
+      "Collocations / patterns": "cash dividend; declare a dividend; dividend per share",
+      "Original example": "State-owned ocean freight operator Bangladesh Shipping Corporation has recommended a 25% cash dividend – Tk2.50 per share of Tk10 face value – for the fiscal year ended 30 June 2026.",
+      "Newspaper context note": "BSC recommended a 25% cash dividend for FY26; Padma Oil recommended 170%.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSC recommends 25% cash dividend",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656",
+      "BCS / Bank relevance": "Core Bank-job stock-market word; 'dividend' is asked in almost every banking paper.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "entitlement",
+      "IPA": "/ɪnˈtaɪtləmənt/",
+      "Bangla phonetic": "এনটাইটেলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অধিকার; প্রাপ্যতা",
+      "English definition": "The right to receive something, or the fact of being entitled to it.",
+      "Synonyms": "right; claim; eligibility",
+      "Antonyms": "disqualification; exclusion",
+      "Word family / derivatives": "entitle (verb); entitled (adjective)",
+      "Collocations / patterns": "shareholder entitlement; entitlement to the dividend",
+      "Original example": "The record date for determining shareholder entitlement to the dividend has been set for 15 December, while the date and venue for the corporation's annual general meeting (AGM) will be announced later.",
+      "Newspaper context note": "BSC set 15 December as the record date for dividend entitlement.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSC recommends 25% cash dividend",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656",
+      "BCS / Bank relevance": "Bank-job vocabulary: 'entitlement' appears in dividend, pension and benefits questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "syllabus",
+      "IPA": "/ˈsɪləbəs/",
+      "Bangla phonetic": "সিলেবাস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পাঠ্যসূচি",
+      "English definition": "An outline of the subjects and topics covered in a course or examination.",
+      "Synonyms": "curriculum; course outline",
+      "Antonyms": "—",
+      "Word family / derivatives": "syllabuses; syllabi (plural)",
+      "Collocations / patterns": "revised syllabus; exam syllabus; syllabus may change",
+      "Original example": "The syllabus for the new recruitment examination may also be revised.",
+      "Newspaper context note": "The NTRCA's Ninth Teacher Recruitment Examination may come with a revised syllabus.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "9th teacher recruitment exam to be held in 3 stages, syllabus may change",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/r4db664b3m",
+      "BCS / Bank relevance": "BCS/Bank candidates meet 'syllabus' daily; a basic education word asked in vocabulary and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "margin",
+      "IPA": "/ˈmɑːdʒɪn/",
+      "Bangla phonetic": "মার্জিন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "জামানত; প্রান্ত",
+      "English definition": "In banking, the cash or security an importer deposits when opening a letter of credit; more generally, an edge or amount allowed.",
+      "Synonyms": "deposit; security; edge",
+      "Antonyms": "—",
+      "Word family / derivatives": "marginal (adjective); marginally (adverb)",
+      "Collocations / patterns": "cash margin; LC margin; minimum margin",
+      "Original example": "Banks must set the cash margin rates at the minimum level based on the banker-customer relationship.",
+      "Newspaper context note": "Bangladesh Bank told banks to keep LC cash margins at the minimum for 10 Ramadan essentials.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "BCS / Bank relevance": "Core Bank-job trade-finance word; 'margin' and 'LC margin' are asked in banking papers.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "uninterrupted",
+      "IPA": "/ˌʌnɪntəˈrʌptɪd/",
+      "Bangla phonetic": "আনইন্টারাপ্টেড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নিরবচ্ছিন্ন",
+      "English definition": "Not stopped or broken; continuous.",
+      "Synonyms": "continuous; unbroken; steady",
+      "Antonyms": "interrupted; broken",
+      "Word family / derivatives": "interrupt (verb); interruption (noun)",
+      "Collocations / patterns": "uninterrupted supplies; uninterrupted power",
+      "Original example": "Banks have also been advised to give the highest priority to opening LCs for imports of these commodities to ensure adequate and uninterrupted supplies in the domestic market.",
+      "Newspaper context note": "Bangladesh Bank wants LCs opened on priority so Ramadan supplies stay uninterrupted.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Bangladesh Bank offers special facility to curb price hikes of 10 commodities ahead of Ramadan",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/ymgsjz4whj",
+      "BCS / Bank relevance": "BCS vocabulary: 'uninterrupted' and 'interrupt' are standard synonym/antonym questions.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "accountable",
+      "IPA": "/əˈkaʊntəbl/",
+      "Bangla phonetic": "অ্যাকাউন্টেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "জবাবদিহিমূলক; দায়বদ্ধ",
+      "English definition": "Required to explain one's actions and accept responsibility for them.",
+      "Synonyms": "responsible; answerable; liable",
+      "Antonyms": "unaccountable; irresponsible",
+      "Word family / derivatives": "accountability (noun); account (verb/noun)",
+      "Collocations / patterns": "hold accountable; accountable for the crisis",
+      "Original example": "Holding the world accountable for the climate crisis",
+      "Newspaper context note": "The Dhaka Tribune editorial's headline demands accountability for the climate crisis at COP31.",
+      "Source publication": "Dhaka Tribune",
+      "Article headline": "Holding the world accountable for the climate crisis",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.dhakatribune.com/opinion/editorial/424069/holding-the-world-accountable-for-the-climate",
+      "BCS / Bank relevance": "BCS governance core word; 'accountable' and 'accountability' recur in constitution and administration questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "expenditure",
+      "IPA": "/ɪkˈspendɪtʃər/",
+      "Bangla phonetic": "এক্সপেন্ডিচার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ব্যয়",
+      "English definition": "The spending of money, or the total amount spent.",
+      "Synonyms": "spending; outlay; cost",
+      "Antonyms": "income; revenue",
+      "Word family / derivatives": "expend (verb); expense (noun)",
+      "Collocations / patterns": "import expenditure; public expenditure; rise in expenditure",
+      "Original example": "Bangladesh's import expenditure rose by 11.50 per cent in the first quarter (Q1) of the current fiscal year 2026-27 (FY27), with the upward trend expected to continue in the coming months.",
+      "Newspaper context note": "The Financial Express reports import expenditure up 11.50% in Q1 FY27.",
+      "Source publication": "The Financial Express",
+      "Article headline": "Import bill up 11.5pc amid global price pressures",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/last-page/import-bill-up-115pc-amid-global-price-pressures-1794163177",
+      "BCS / Bank relevance": "Core BCS/Bank economy word; 'expenditure' is asked in budget, trade and fiscal-policy questions.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "infiltrate",
+      "IPA": "/ˈɪnfɪltreɪt/",
+      "Bangla phonetic": "ইনফিলট্রেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনুপ্রবেশ করা; গোপনে ঢুকে পড়া",
+      "English definition": "To enter a group or place secretly in order to spy on it or cause disruption.",
+      "Synonyms": "penetrate; invade; slip into; insinuate",
+      "Antonyms": "withdraw; exit; leave openly",
+      "Word family / derivatives": "infiltration; infiltrator; infiltrated",
+      "Collocations / patterns": "infiltrate a protest; infiltrate a movement; infiltrate an organisation",
+      "Original example": "Masked men who were not workers infiltrated the protests to create disorder.",
+      "Newspaper context note": "Used by the Home Minister: masked men infiltrated the garment protests, according to video footage.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/48pn06ucxj",
+      "BCS / Bank relevance": "Security and law-and-order vocabulary for BCS comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "destabilise",
+      "IPA": "/diːˈsteɪbəlaɪz/",
+      "Bangla phonetic": "ডিসট্যাবিলাইজ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অস্থিতিশীল করা; অস্থিরতা সৃষ্টি করা",
+      "English definition": "To make a government, economy or situation unstable.",
+      "Synonyms": "undermine; unsettle; disrupt; sabotage",
+      "Antonyms": "stabilise; strengthen; secure",
+      "Word family / derivatives": "destabilised; destabilising; destabilisation",
+      "Collocations / patterns": "destabilise the country; destabilise an industry; attempt to destabilise",
+      "Original example": "Police alleged that certain groups were trying to destabilise the industrial belt.",
+      "Newspaper context note": "Used in the garment unrest reports: groups were allegedly trying to destabilise the industrial belt and the country.",
+      "Source publication": "The Daily Star",
+      "Article headline": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776",
+      "BCS / Bank relevance": "Politics and security vocabulary for BCS essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "surveillance",
+      "IPA": "/sɜːˈveɪləns/",
+      "Bangla phonetic": "সার্ভেইলান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নজরদারি; পর্যবেক্ষণ",
+      "English definition": "Close observation of a person, place or situation, especially by the police or security services.",
+      "Synonyms": "monitoring; observation; watch; scrutiny",
+      "Antonyms": "neglect; inattention",
+      "Word family / derivatives": "surveil; surveilled; surveilling",
+      "Collocations / patterns": "24-hour surveillance; under surveillance; surveillance camera",
+      "Original example": "The Home Minister said arrangements had been made for 24-hour surveillance of the garment industry.",
+      "Newspaper context note": "Used in the garment unrest report: 24-hour surveillance was arranged to monitor the situation in the garment industry.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "BCS / Bank relevance": "Law-enforcement vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "embezzlement",
+      "IPA": "/ɪmˈbezlmənt/",
+      "Bangla phonetic": "এমবেজলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আত্মসাৎ; তহবিল তছরুপ",
+      "English definition": "The crime of stealing money that you are responsible for managing.",
+      "Synonyms": "misappropriation; theft; fraud; pilfering",
+      "Antonyms": "honesty; restitution",
+      "Word family / derivatives": "embezzle; embezzled; embezzler",
+      "Collocations / patterns": "embezzlement of funds; alleged embezzlement; embezzlement case",
+      "Original example": "The ACC approved three cases over the alleged embezzlement of Tk 1,121 crore from Janata Bank.",
+      "Newspaper context note": "Used in the ACC report: alleged embezzlement and laundering of Tk 1,121.49 crore through fake import and export transactions.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846",
+      "BCS / Bank relevance": "Core banking and anti-corruption vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "absconding",
+      "IPA": "/əbˈskɒndɪŋ/",
+      "Bangla phonetic": "অ্যাবস্কন্ডিং",
+      "Part of speech / type": "Adjective / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পলাতক; আত্মগোপনে থাকা",
+      "English definition": "Having secretly left a place to escape arrest or the law.",
+      "Synonyms": "fugitive; on the run; in hiding; at large",
+      "Antonyms": "in custody; present; surrendered",
+      "Word family / derivatives": "abscond; absconded; absconder",
+      "Collocations / patterns": "remain absconding; absconding accused; abscond from custody",
+      "Original example": "Six of the accused are in jail, while Mirza Azam remains absconding.",
+      "Newspaper context note": "Used in the ICT report: six accused are in jail, while Mirza Azam remains absconding.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "BCS / Bank relevance": "Legal vocabulary for BCS criminal-law questions.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "cash margin",
+      "Type": "noun phrase / banking term",
+      "Bangla meaning": "নগদ জামানত",
+      "English explanation": "The cash an importer must deposit with a bank when opening a letter of credit.",
+      "Usage / register": "Formal / banking",
+      "Original example 1": "Banks must set the cash margin rates at the minimum level based on the banker-customer relationship.",
+      "Original example 2": "A circular issued on Sept 5, 2024 required 100 percent cash margins for letters of credit covering certain imports.",
+      "Common collocations / grammar pattern": "cash margin rates; keep cash margins at the minimum; LC margin",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "Exam value": "Core Bank term — trade finance."
+    },
+    {
+      "Phrase": "at the minimum level",
+      "Type": "prepositional phrase",
+      "Bangla meaning": "সর্বনিম্ন পর্যায়ে",
+      "English explanation": "At the lowest possible amount or degree.",
+      "Usage / register": "Formal / official",
+      "Original example 1": "Banks must set the cash margin rates at the minimum level based on the banker-customer relationship.",
+      "Original example 2": "The 10 commodities for which the central bank has instructed banks to keep LC margins at the minimum level are rice, wheat and flour, onions, lentils, edible oil (soybean and palm oil), sugar, chickpeas, peas, spices and dates.",
+      "Common collocations / grammar pattern": "keep something at the minimum level; set rates at the minimum level",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "Exam value": "BCS phrase and preposition questions."
+    },
+    {
+      "Phrase": "remain in force",
+      "Type": "verb phrase",
+      "Bangla meaning": "বলবৎ থাকা",
+      "English explanation": "To stay legally valid and in effect.",
+      "Usage / register": "Formal / legal",
+      "Original example 1": "Invoking its authority under Section 45 of the Bank Company Act, Bangladesh Bank said the latest directive takes immediate effect and will remain in force until Mar 15, 2027.",
+      "Original example 2": "The directive takes immediate effect and will remain in force until 15 March 2027.",
+      "Common collocations / grammar pattern": "remain in force until (date); remain in force for (period)",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "Exam value": "BCS legal and official-English vocabulary."
+    },
+    {
+      "Phrase": "record date",
+      "Type": "noun phrase / stock-market term",
+      "Bangla meaning": "রেকর্ড তারিখ",
+      "English explanation": "The date fixed by a company to decide which shareholders are entitled to a dividend.",
+      "Usage / register": "Formal / stock market",
+      "Original example 1": "The record date for determining shareholder entitlement to the dividend has been set for 15 December, while the date and venue for the corporation's annual general meeting (AGM) will be announced later.",
+      "Original example 2": "The record date has been set for 29 November 2026.",
+      "Common collocations / grammar pattern": "record date for the dividend; set the record date",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSC recommends 25% cash dividend",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656",
+      "Exam value": "Core Bank/DSE term."
+    },
+    {
+      "Phrase": "at zero migration cost",
+      "Type": "prepositional phrase",
+      "Bangla meaning": "শূন্য অভিবাসন ব্যয়ে",
+      "English explanation": "Without the worker paying anything to migrate for a job; the employer bears all costs.",
+      "Usage / register": "Formal / labour migration",
+      "Original example 1": "Following the examinations, 112 successful candidates will be sent to Malaysia at zero migration cost, with the employer bearing all expenses, including medical fees and airfares.",
+      "Original example 2": "It would also help fulfil the expatriates' welfare minister's commitment to sending workers abroad at zero migration cost, he added.",
+      "Common collocations / grammar pattern": "sent abroad at zero migration cost; zero-cost jobs",
+      "Source publication": "The Business Standard",
+      "Article headline": "300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/300-shortlisted-thru-lottery-zero-cost-jobs-malaysian-firm-1596621",
+      "Exam value": "Live labour-migration phrase; BCS migration vocabulary."
+    },
+    {
+      "Phrase": "banker-customer relationship",
+      "Type": "noun phrase / banking term",
+      "Bangla meaning": "ব্যাংকার-গ্রাহক সম্পর্ক",
+      "English explanation": "The business relationship between a bank and its client, on which terms such as margins depend.",
+      "Usage / register": "Formal / banking",
+      "Original example 1": "Banks must set the cash margin rates at the minimum level based on the banker-customer relationship.",
+      "Original example 2": "Under the directive, banks must keep cash margins for opening LCs for the commodities at the minimum level based on the banker-customer relationship.",
+      "Common collocations / grammar pattern": "based on the banker-customer relationship",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "Exam value": "Bank-job term; basis of LC margin decisions."
+    },
+    {
+      "Phrase": "Section 45 of the Bank Company Act",
+      "Type": "legal reference",
+      "Bangla meaning": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা",
+      "English explanation": "The section of the Bank Company Act under which Bangladesh Bank issued the Ramadan LC directive.",
+      "Usage / register": "Formal / legal",
+      "Original example 1": "Invoking its authority under Section 45 of the Bank Company Act, Bangladesh Bank said the latest directive takes immediate effect and will remain in force until Mar 15, 2027.",
+      "Original example 2": "The circular said the directive, issued under the authority granted by Section 45 of the Bank Company Act 1991, would come into immediate effect and remain valid until 15 March 2027.",
+      "Common collocations / grammar pattern": "under Section 45; authority under Section 45",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://bdnews24.com/business/wo8kew8osq",
+      "Exam value": "Bank-job law: the legal anchor of the LC-margin circular."
+    },
+    {
+      "Phrase": "immediate effect",
+      "Type": "noun phrase",
+      "Bangla meaning": "তাৎক্ষণিক কার্যকারিতা",
+      "English explanation": "Coming into operation at once, without delay.",
+      "Usage / register": "Formal / legal",
+      "Original example 1": "The directive takes immediate effect and will remain in force until 15 March 2027.",
+      "Original example 2": "The circular said the directive, issued under the authority granted by Section 45 of the Bank Company Act 1991, would come into immediate effect and remain valid until 15 March 2027.",
+      "Common collocations / grammar pattern": "take immediate effect; come into immediate effect",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-bank-asks-banks-keep-lc-margins-lowest-10-ramadan-essentials-1596481",
+      "Exam value": "BCS official-English phrase."
+    },
+    {
+      "Phrase": "one-off",
+      "Type": "adjective / noun phrase",
+      "Bangla meaning": "এককালীন লাভ",
+      "English explanation": "Profits that happen only once, not regularly — here, from selling two vessels.",
+      "Usage / register": "Formal / finance",
+      "Original example 1": "EPS fell to Tk19.11 from Tk20.10 a year earlier as FY25 earnings included one-off gains from the sale of two vessels.",
+      "Original example 2": "The corporation clarified that its annual revenue and net earnings per share decreased compared to the previous year because FY25 included one-off capital gains realised from the sale of two vessels, MT Banglar Jyoti and MT Banglar Sourabh.",
+      "Common collocations / grammar pattern": "one-off gains; one-off capital gains; one-off payment",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSC recommends 25% cash dividend",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656",
+      "Exam value": "Bank-job finance vocabulary; BCS phrase questions."
+    },
+    {
+      "Phrase": "in the first phase",
+      "Type": "prepositional phrase",
+      "Bangla meaning": "প্রথম ধাপে",
+      "English explanation": "In the first stage of a multi-stage programme.",
+      "Usage / register": "Formal / official",
+      "Original example 1": "The Election Commission (EC) plans to hold elections in around 1,000 union parishads (UPs) in the first phase on 21 January next year, as part of a five-phase election programme.",
+      "Original example 2": "According to the EC, approximately 1,000 UPs will go to polls in the first phase.",
+      "Common collocations / grammar pattern": "in the first phase; in the second phase",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "EC plans to hold first-phase elections in 1,000 UPs on 21 January",
+      "Publication date": "2026-11-08",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/2tlwfdb8um",
+      "Exam value": "BCS phrase and preposition questions."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'culmination' most nearly means:",
+      "options": {
+        "A": "A formal public apology",
+        "B": "The sudden collapse of a government or institution",
+        "C": "The beginning of a long journey",
+        "D": "The highest point of a process"
+      },
+      "correct": "D",
+      "explanation": "Culmination is the highest point or final result of a process — here, the July 2024 Mass Uprising as the end-point of long protests.",
+      "source": "CA02"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "The word 'patronage' most nearly means:",
+      "options": {
+        "A": "Open rebellion against a government or ruler",
+        "B": "A system of strict laws",
+        "C": "The loss of public trust",
+        "D": "Backing given by a powerful person"
+      },
+      "correct": "D",
+      "explanation": "Patronage is support or favour from a powerful person or group — Titumir's 'system of patronage' kept governments in power.",
+      "source": "CA04"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'legitimacy' most nearly means:",
+      "options": {
+        "A": "A large sum of money paid annually",
+        "B": "Great physical strength and endurance",
+        "C": "A secret political agreement",
+        "D": "Being lawful and accepted"
+      },
+      "correct": "D",
+      "explanation": "Legitimacy is the quality of being lawful and accepted — Titumir cites a 'crisis of political legitimacy' behind the 1974 famine.",
+      "source": "CA04"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "In the sentence 'the people will never accord her a reception', the word 'accord' means:",
+      "options": {
+        "A": "To hide from view",
+        "B": "To grant or give something",
+        "C": "To argue loudly in public with opponents",
+        "D": "To refuse or deny"
+      },
+      "correct": "B",
+      "explanation": "Accord means to grant or give — Rizvi says the people will never grant Hasina a reception.",
+      "source": "CA02"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'paratransit' refers to:",
+      "options": {
+        "A": "Informal public transport such as auto-rickshaws",
+        "B": "A railway line between two cities",
+        "C": "A government tax on vehicles",
+        "D": "A system of traffic lights"
+      },
+      "correct": "A",
+      "explanation": "Paratransit is informal public transport — auto-rickshaws, easy bikes, legunas — carrying about 60% of motorised trips in smaller cities.",
+      "source": "CA03"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "The word 'resilience' most nearly means:",
+      "options": {
+        "A": "Extreme physical weakness",
+        "B": "Recovering quickly after difficulty",
+        "C": "A lack of planning",
+        "D": "The ability to resist all forms of change"
+      },
+      "correct": "B",
+      "explanation": "Resilience is the ability to recover quickly from difficulties — paratransit gives cities 'urban resilience' during floods and fuel shortages.",
+      "source": "CA03"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "The word 'geospatial' most nearly means:",
+      "options": {
+        "A": "Related to ocean currents",
+        "B": "Relating to land locations",
+        "C": "Related to ancient history and ruins",
+        "D": "Related to the study of stars and planets"
+      },
+      "correct": "B",
+      "explanation": "Geospatial relates to data about places on the earth's surface — one GDP reform is geospatial tracking for data collection.",
+      "source": "CA05"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "The word 'credibility' most nearly means:",
+      "options": {
+        "A": "The quality of being trusted",
+        "B": "A loan taken from a bank",
+        "C": "A written complaint",
+        "D": "A formal ceremony"
+      },
+      "correct": "A",
+      "explanation": "Credibility is the quality of being trusted and believed — the reforms aim to restore the credibility of official statistics.",
+      "source": "CA05"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "The word 'dividend' most nearly means:",
+      "options": {
+        "A": "A tax charged on imported goods",
+        "B": "A fine imposed for late payment",
+        "C": "Profit paid to shareholders",
+        "D": "A loan from the central bank"
+      },
+      "correct": "C",
+      "explanation": "A dividend is a share of a company's profits paid to shareholders — BSC recommended 25%, Padma Oil 170%.",
+      "source": "CA07"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "The word 'syllabus' most nearly means:",
+      "options": {
+        "A": "An examination hall",
+        "B": "A teacher's monthly salary",
+        "C": "The topics covered in a course",
+        "D": "A school building in a rural area"
+      },
+      "correct": "C",
+      "explanation": "A syllabus is the list of topics covered in a course or examination — the NTRCA syllabus may be revised.",
+      "source": "CA09"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "In the Ramadan LC story, a 'cash margin' is:",
+      "options": {
+        "A": "A tax charged on imported rice and wheat",
+        "B": "A discount offered to large importers",
+        "C": "Deposit paid to open an LC",
+        "D": "The profit a bank earns from lending money"
+      },
+      "correct": "C",
+      "explanation": "A cash margin is the cash an importer deposits with a bank when opening a letter of credit; Bangladesh Bank told banks to keep it at the minimum.",
+      "source": "CA06"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "The 'record date' in the BSC dividend story is the date for:",
+      "options": {
+        "A": "Fixing who gets the dividend",
+        "B": "Announcing the next dividend payment",
+        "C": "Paying the dividend to all shareholders",
+        "D": "Holding the annual general meeting"
+      },
+      "correct": "A",
+      "explanation": "The record date determines shareholder entitlement to the dividend — 15 December for BSC, 29 November 2026 for Padma Oil.",
+      "source": "CA07"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "Where is COP31 being held?",
+      "options": {
+        "A": "Sharm el-Sheikh, Egypt",
+        "B": "Dubai, UAE",
+        "C": "Geneva, Switzerland",
+        "D": "Antalya, Türkiye"
+      },
+      "correct": "D",
+      "explanation": "COP31, the 31st United Nations Climate Change Conference, is being held in Antalya, Türkiye, where world leaders have assembled.",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "At the Dhaka University event marking National Revolution and Solidarity Day, who said the people would never accord Sheikh Hasina a reception?",
+      "options": {
+        "A": "Rashed Al Mahmud Titumir",
+        "B": "Ruhul Kabir Rizvi",
+        "C": "Ahmed Azam Khan",
+        "D": "Tarique Rahman"
+      },
+      "correct": "B",
+      "explanation": "BNP acting secretary-general Ruhul Kabir Rizvi said the people would never accord Hasina a reception if she returned.",
+      "source": "CA02"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "In the Gazipur paratransit study, which model performed best?",
+      "options": {
+        "A": "XGBoost",
+        "B": "Stacking Ensemble",
+        "C": "Logistic regression",
+        "D": "Random Forest"
+      },
+      "correct": "C",
+      "explanation": "Regularised logistic regression was the best-performing and most stable classifier, with a mean F1 of 0.557 and AUC-ROC of 0.751.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "According to Titumir, the international price of rice rose from US$147 per tonne in 1972 to how much in 1974?",
+      "options": {
+        "A": "$542",
+        "B": "$425",
+        "C": "$250",
+        "D": "$310"
+      },
+      "correct": "A",
+      "explanation": "The international price of rice stood at US$147 per tonne in 1972 before rising to $542 in 1974.",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "The boat census cited by Titumir reported 13,000 engine-powered boats, while a later count found how many?",
+      "options": {
+        "A": "67,000",
+        "B": "26,700",
+        "C": "130,000",
+        "D": "267,000"
+      },
+      "correct": "D",
+      "explanation": "The previous government reported only 13,000 engine-powered boats, whereas a subsequent count found 267,000.",
+      "source": "CA05"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "How many essential commodities are covered by Bangladesh Bank's 8 November circular?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "correct": "B",
+      "explanation": "The circular covers 10 commodities — rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates. 'Wheat and flour' is one item; counting them separately produced the '11' headline figure.",
+      "source": "CA06"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "What cash dividend did Padma Oil recommend for FY26?",
+      "options": {
+        "A": "25%",
+        "B": "160%",
+        "C": "170%",
+        "D": "21.24%"
+      },
+      "correct": "C",
+      "explanation": "Padma Oil recommended a 170% cash dividend, Tk17 per share, after net profit grew 21.24%.",
+      "source": "CA07"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "On which date is the first phase of union parishad elections planned?",
+      "options": {
+        "A": "21 January",
+        "B": "4 February",
+        "C": "29 April",
+        "D": "13 May"
+      },
+      "correct": "A",
+      "explanation": "The Election Commission plans first-phase elections in around 1,000 union parishads on 21 January.",
+      "source": "CA08"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "How many stages will the Ninth Teacher Recruitment Examination have?",
+      "options": {
+        "A": "Five",
+        "B": "Four",
+        "C": "Two",
+        "D": "Three"
+      },
+      "correct": "D",
+      "explanation": "The examination will have three stages: a 100-mark MCQ preliminary, a 100-mark written test and a 20-mark viva voce.",
+      "source": "CA09"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "By how much did Bangladesh's import expenditure rise in Q1 FY27?",
+      "options": {
+        "A": "11.05%",
+        "B": "11.50%",
+        "C": "10.50%",
+        "D": "15.10%"
+      },
+      "correct": "B",
+      "explanation": "Import expenditure rose by 11.50 per cent in the first quarter of FY27.",
+      "source": "CA10"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "What did the Prime Minister urge newly recruited civil servants to do?",
+      "options": {
+        "A": "Join a political party",
+        "B": "Avoid meeting citizens",
+        "C": "Serve people with honesty, efficiency and humanity",
+        "D": "Seek transfers to Dhaka"
+      },
+      "correct": "C",
+      "explanation": "Prime Minister Tarique Rahman urged newly recruited civil servants to serve people with honesty, efficiency and humanity.",
+      "source": "CA11"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "How many of the 300 shortlisted candidates will be sent to Malaysia?",
+      "options": {
+        "A": "112",
+        "B": "200",
+        "C": "300",
+        "D": "100"
+      },
+      "correct": "A",
+      "explanation": "112 successful candidates will be sent to Malaysia at zero migration cost, after practical examinations and viva voce.",
+      "source": "CA12"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "How many garment factories in Gazipur's Konabari were shut amid wage protests?",
+      "options": {
+        "A": "Six",
+        "B": "Four",
+        "C": "Ten",
+        "D": "Three"
+      },
+      "correct": "A",
+      "explanation": "Six garment factories in Gazipur's Konabari area were shut following protests by workers demanding higher wages.",
+      "source": "CA13"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "Holding the world accountable for the climate crisis",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.dhakatribune.com/opinion/editorial/424069/holding-the-world-accountable-for-the-climate"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "Minister: Sheikh Hasina will never return to Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.dhakatribune.com/bangladesh/424064/minister-sheikh-hasina-will-never-return-to"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Sheikh Hasina will never be welcomed back by people: Rizvi",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/politics/0c12ca84af"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Bioengineer.Org",
+      "Headline / report": "Machine Learning Identifies High-Risk Paratransit Drivers in Bangladesh",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Anyone saying ‘December is at the door’ has no connection with Bangladesh: Adviser Titumir",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/873m15g1eo"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Govt outlines reform plans to address statistical flaws in previous GDP calculations",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.tbsnews.net/economy/govt-outlines-reform-plans-address-statistical-flaws-previous-gdp-calculations-1596796"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "BBS to get full independence, official data to be made accessible, says Khosru",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/last-page/bbs-to-get-full-independence-official-data-to-be-made-accessible-says-khosru-1794163297"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://bdnews24.com/business/wo8kew8osq"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Bangladesh Bank offers special facility to curb price hikes of 10 commodities ahead of Ramadan",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/ymgsjz4whj"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.tbsnews.net/economy/bangladesh-bank-asks-banks-keep-lc-margins-lowest-10-ramadan-essentials-1596481"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "BSC recommends 25% cash dividend",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Padma Oil recommends 170% cash dividend as FY26 profit rises 21%",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.tbsnews.net/economy/stocks/padma-oil-recommends-170-cash-dividend-fy26-profit-rises-21-1596816"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "EC plans to hold first-phase elections in 1,000 UPs on 21 January",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/2tlwfdb8um"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "UP polls: EC sticks to old laws, key reforms left out",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/polls-ec-sticks-old-laws-key-reforms-left-out-4318836"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "9th teacher recruitment exam to be held in 3 stages, syllabus may change",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/r4db664b3m"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "Import bill up 11.5pc amid global price pressures",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/last-page/import-bill-up-115pc-amid-global-price-pressures-1794163177"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "PM urges new BCS officers to serve people with honesty, efficiency and humanity",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.dhakatribune.com/bangladesh/424073/pm-urges-new-bcs-officers-to-serve-people-with"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Serve people, do not harass them",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/serve-people-do-not-harass-them-4318696"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/300-shortlisted-thru-lottery-zero-cost-jobs-malaysian-firm-1596621"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Six garment factories in Gazipur's Konabari shut amid wage protests",
+      "Publication date": "2026-11-08",
+      "Direct URL": "https://www.thedailystar.net/news/news/six-garment-factories-gazipurs-konabari-shut-amid-wage-protests-4318491"
+    }
+  ],
+  "approved_by": "Rudro",
+  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 3 (9 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-09/."
+}

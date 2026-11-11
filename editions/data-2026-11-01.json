@@ -1,0 +1,2373 @@
+{
+  "edition_date": "2026-11-01",
+  "edition_day": "Sunday",
+  "coverage": "1 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Garment wage protests shut factories as government forms new wage board",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Garment workers demanding a Tk 30,000 minimum monthly wage shut 177 factories in Savar and Ashulia on 1 November, while BGMEA reported disruptions at 529 factories across Dhaka, Gazipur, Mymensingh and Savar-Ashulia, with 987,190 workers walking out. The government formed a six-member wage board the same day, chaired by Senior District Judge Sheikh Ashfaqur Rahman, but protests, road blockades and clashes with police continued in Mirpur and Gazipur.",
+      "why_it_matters": "The garment sector earns about 80 percent of Bangladesh's export income, so a wage settlement affects exports, inflation, labour relations and the budget — all core BCS/Bank topics.",
+      "exam_facts": "Demand: Tk 30,000 minimum monthly wage; 177 factories shut in Savar-Ashulia; 529 factories disrupted, 987,190 workers walked out (BGMEA); six-member wage board formed 1 November, chairman Sheikh Ashfaqur Rahman; workers also demand an end to blacklisting and reinstatement of dismissed workers.",
+      "exam_relevance": "High — RMG, labour law, wage board, exports.",
+      "key_people": "Sheikh Ashfaqur Rahman, chairman of the wage board; Ariful Haque Choudhury, Labour and Employment Minister; Babul Akhter, BGIWF general secretary.",
+      "figures": "Tk 30,000 demanded minimum wage; 177 factories shut; 529 factories disrupted; 987,190 workers walked out; six-member wage board.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Government forms new wage board to increase garment workers’ salaries",
+          "date": "2026-11-01",
+          "url": "https://en.prothomalo.com/bangladesh/mqkcrn132k"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936"
+        }
+      ],
+      "one_liner": "Garment workers demanding a Tk 30,000 minimum monthly wage shut 177 factories in Savar and Ashulia on 1 November, while…",
+      "key_facts": [
+        {
+          "label": "demanded minimum wage",
+          "value": "Tk 30,000",
+          "original": "Tk 30,000 demanded minimum wage"
+        },
+        {
+          "label": "factories shut",
+          "value": "177",
+          "original": "177 factories shut"
+        },
+        {
+          "label": "factories disrupted",
+          "value": "529",
+          "original": "529 factories disrupted"
+        },
+        {
+          "label": "workers walked out",
+          "value": "987,190",
+          "original": "987,190 workers walked out"
+        }
+      ],
+      "what_happened": [
+        "The government formed a six-member wage board the same day, chaired by Senior District Judge Sheikh Ashfaqur Rahman,",
+        "but protests, road blockades and clashes with police continued in Mirpur and Gazipur."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is demanded minimum wage?",
+          "a": "Tk 30,000"
+        },
+        {
+          "q": "What is factories shut?",
+          "a": "177"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garment workers demanding a Tk 30,000 minimum monthly wage shut 177 factories in Savar and Ashulia on ______, while BGMEA reported disruptions at 529 factories across Dhaka, Gazipur, Mymensingh and Savar-Ashulia, with 987,190 workers walking out.",
+          "answer": "1 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "wage",
+        "protests",
+        "shut",
+        "factories",
+        "government",
+        "forms",
+        "board"
+      ],
+      "detail": "Garment workers demanding a Tk 30,000 minimum monthly wage shut 177 factories in Savar and Ashulia on 1 November, while BGMEA reported disruptions at 529 factories across Dhaka, Gazipur, Mymensingh and Savar-Ashulia, with 987,190 workers walking out. The government formed a six-member wage board the same day, chaired by Senior District Judge Sheikh Ashfaqur Rahman, but protests, road blockades and clashes with police continued in Mirpur and Gazipur."
+    },
+    {
+      "id": "CA02",
+      "headline": "HSC pass rate falls to 51.62 percent, lowest in 22 years",
+      "category": "Jobs & Education",
+      "event_date": "2026-10-31",
+      "article_date": "2026-11-01",
+      "summary": "The HSC pass rate fell to 51.62 percent, its lowest in 22 years, down from 57.12 percent last year, and GPA-5 achievers dropped by 27,271 to 35,948. Alim pass rates fell to 61.07 percent and technical to 49.43 percent, both two-decade lows. Education Minister ANM Ehsanul Hoque Milon blamed learning gaps, teacher shortages and weak classroom teaching, and said special exams for students failing one or two subjects will be held within two months.",
+      "why_it_matters": "Education outcomes and the reasons behind them are standard BCS/Bank questions; the figures show a sharp, measurable deterioration across all boards.",
+      "exam_facts": "HSC pass rate 51.62 percent (22-year low), down from 57.12 percent; GPA-5: 35,948, down 27,271 from 63,219; zero-pass institutions up to 181; Alim 61.07 percent, technical 49.43 percent; re-scrutiny applications 1-7 November; special exams within two months for students failing one or two subjects.",
+      "exam_relevance": "High — education policy, HSC, BANBEIS data.",
+      "key_people": "ANM Ehsanul Hoque Milon, Education Minister; Prof Khondaker Mohammad Sadequr Rahman, chairman, Bangladesh Madrasah Education Board.",
+      "figures": "51.62 percent HSC pass rate; 35,948 GPA-5 (down 27,271); 181 zero-pass institutions; Alim 61.07 percent; technical 49.43 percent; 86,832 unsuccessful Alim/technical candidates.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "HSC result 2026: Worst performance in 22 years",
+          "date": "2026-11-01",
+          "url": "https://en.prothomalo.com/youth/education/ht1u40gv59"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Only half the students pass",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Alim, technical pass rates hit 2-decade lows",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/bangladesh/education/news/alim-technical-pass-rates-hit-2-decade-lows-4312446"
+        }
+      ],
+      "one_liner": "The HSC pass rate fell to 51.62 percent, its lowest in 22 years, down from 57.12 percent last year, and…",
+      "key_facts": [
+        {
+          "label": "HSC pass rate",
+          "value": "51.62 percent",
+          "original": "51.62 percent HSC pass rate"
+        },
+        {
+          "label": "down 27,271",
+          "value": "35,948 GPA-5",
+          "original": "35,948 GPA-5 (down 27,271)"
+        },
+        {
+          "label": "zero-pass institutions",
+          "value": "181",
+          "original": "181 zero-pass institutions"
+        },
+        {
+          "label": "Alim",
+          "value": "61.07 percent",
+          "original": "Alim 61.07 percent"
+        }
+      ],
+      "what_happened": [
+        "Alim pass rates fell to 61.07 percent and technical to 49.43 percent, both two-decade lows.",
+        "Education Minister ANM Ehsanul Hoque Milon blamed learning gaps, teacher shortages and weak classroom teaching, and said special exams for students failing one or two subjects will be held within two months."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is HSC pass rate?",
+          "a": "51.62 percent"
+        },
+        {
+          "q": "What is zero-pass institutions?",
+          "a": "181"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The HSC pass rate fell to ______ percent, its lowest in 22 years, down from 57.12 percent last year, and GPA-5 achievers dropped by 27,271 to 35,948.",
+          "answer": "51.62"
+        },
+        {
+          "cloze": "Alim pass rates fell to ______ percent and technical to 49.43 percent, both two-decade lows.",
+          "answer": "61.07"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "pass",
+        "rate",
+        "falls",
+        "percent",
+        "lowest",
+        "years"
+      ],
+      "detail": "The HSC pass rate fell to 51.62 percent, its lowest in 22 years, down from 57.12 percent last year, and GPA-5 achievers dropped by 27,271 to 35,948. Alim pass rates fell to 61.07 percent and technical to 49.43 percent, both two-decade lows. Education Minister ANM Ehsanul Hoque Milon blamed learning gaps, teacher shortages and weak classroom teaching, and said special exams for students failing one or two subjects will be held within two months."
+    },
+    {
+      "id": "CA03",
+      "headline": "Exports rise 6 percent to $17 billion in July-October",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Bangladesh's exports grew 6 percent year-on-year to $17 billion in July-October, driven by garments: knitwear rose 7 percent to $7.71 billion and woven garments 4.8 percent to $6 billion, together about 80 percent of exports. Jute goods rose 23.8 percent and chemical products 27.3 percent, but agricultural exports fell 13.5 percent and frozen fish 10.9 percent, according to Bangladesh Bank data.",
+      "why_it_matters": "Export composition and growth are directly askable in BCS/Bank economics and trade questions, and the sector split shows where the growth comes from.",
+      "exam_facts": "Exports July-October: $17 billion, up 6 percent year-on-year; knitwear $7.71 billion (up 7 percent); woven $6 billion (up 4.8 percent); jute goods up 23.8 percent to $383 million; chemicals up 27.3 percent to $157 million; agriculture down 13.5 percent; frozen and live fish down 10.9 percent.",
+      "exam_relevance": "High — exports, RMG, trade data.",
+      "key_people": "Bangladesh Bank (data source).",
+      "figures": "$17 billion exports (July-October); up 6 percent; knitwear $7.71 billion; woven $6 billion; garments about 80.4 percent of exports.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Exports from Bangladesh rise 6% to $17 billion in Jul-Oct",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/news/exports-bangladesh-rise-6-17-billion-jul-oct-4312806"
+        }
+      ],
+      "one_liner": "Bangladesh's exports grew 6 percent year-on-year to $17 billion in July-October, driven by garments: knitwear rose 7 percent to $7.71…",
+      "key_facts": [
+        {
+          "label": "July-October",
+          "value": "$17 billion exports",
+          "original": "$17 billion exports (July-October)"
+        },
+        {
+          "label": "up",
+          "value": "6 percent",
+          "original": "up 6 percent"
+        },
+        {
+          "label": "knitwear",
+          "value": "$7.71 billion",
+          "original": "knitwear $7.71 billion"
+        },
+        {
+          "label": "woven",
+          "value": "$6 billion",
+          "original": "woven $6 billion"
+        }
+      ],
+      "what_happened": [
+        "Jute goods rose 23.8 percent and chemical products 27.3 percent, but agricultural exports fell 13.5 percent and frozen fish 10.9 percent, according to Bangladesh Bank data."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is up?",
+          "a": "6 percent"
+        },
+        {
+          "q": "What is knitwear?",
+          "a": "$7.71 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's exports grew ______ percent year-on-year to $17 billion in July-October, driven by garments: knitwear rose 7 percent to $7.71 billion and woven garments 4.8 percent to $6 billion, together about 80 percent of exports.",
+          "answer": "6"
+        },
+        {
+          "cloze": "Jute goods rose ______ percent and chemical products 27.3 percent, but agricultural exports fell 13.5 percent and frozen fish 10.9 percent, according to Bangladesh Bank data.",
+          "answer": "23.8"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "exports",
+        "rise",
+        "percent",
+        "billion",
+        "july",
+        "october"
+      ],
+      "detail": "Bangladesh's exports grew 6 percent year-on-year to $17 billion in July-October, driven by garments: knitwear rose 7 percent to $7.71 billion and woven garments 4.8 percent to $6 billion, together about 80 percent of exports. Jute goods rose 23.8 percent and chemical products 27.3 percent, but agricultural exports fell 13.5 percent and frozen fish 10.9 percent, according to Bangladesh Bank data."
+    },
+    {
+      "id": "CA04",
+      "headline": "World Bank gives $450 million to strengthen Bangladesh's financial sector",
+      "category": "Economy & Banking",
+      "event_date": "2026-10-30",
+      "article_date": "2026-11-01",
+      "summary": "Bangladesh signed a $450 million World Bank financing agreement — 328 million Special Drawing Rights — under the Financial Sector Support Project II to strengthen the financial sector's safety net, improve supervision and support banking reforms. Signed by ERD Secretary Md Shahriar Kader Siddiky and World Bank Director Jean Pesme, the project runs from July 2026 to June 2031, with a 25-year repayment term including a five-year grace period.",
+      "why_it_matters": "World Bank financing terms, SDRs and banking-sector reform are classic BCS/Bank topics; the figures and the people who signed are directly askable.",
+      "exam_facts": "Financing: $450 million (328 million SDR), Financial Sector Support Project II; signatories: Md Shahriar Kader Siddiky (ERD) and Jean Pesme (World Bank); project July 2026-June 2031; interest 1.5 percent; repayment 25 years, five-year grace; Bangladesh Bank implements under the Financial Institutions Division.",
+      "exam_relevance": "High — World Bank, SDR, banking reform.",
+      "key_people": "Md Shahriar Kader Siddiky, ERD Secretary; Jean Pesme, World Bank Division Director for Bangladesh and Bhutan.",
+      "figures": "$450 million; 328 million SDR; 1.5 percent interest; 25-year repayment, five-year grace; project 1 July 2026-30 June 2031.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "WB gives $450m to strengthen financial sector",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/economy/news/wb-gives-450m-strengthen-financial-sector-4312151"
+        }
+      ],
+      "one_liner": "Bangladesh signed a $450 million World Bank financing agreement — 328 million Special Drawing Rights — under the Financial Sector…",
+      "key_facts": [
+        {
+          "label": "SDR",
+          "value": "328 million",
+          "original": "328 million SDR"
+        },
+        {
+          "label": "interest",
+          "value": "1.5 percent",
+          "original": "1.5 percent interest"
+        },
+        {
+          "label": "year repayment, five-year grace",
+          "value": "25",
+          "original": "25-year repayment, five-year grace"
+        },
+        {
+          "label": "",
+          "value": "project 1 July 2026-30 June 2031",
+          "original": "project 1 July 2026-30 June 2031"
+        }
+      ],
+      "what_happened": [
+        "Signed by ERD Secretary Md Shahriar Kader Siddiky and World Bank Director Jean Pesme, the project runs from July 2026 to June 2031,",
+        "with a 25-year repayment term including a five-year grace period."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is SDR?",
+          "a": "328 million"
+        },
+        {
+          "q": "What is interest?",
+          "a": "1.5 percent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh signed a $______ million World Bank financing agreement — 328 million Special Drawing Rights — under the Financial Sector Support Project II to strengthen the financial sector's safety net, improve supervision and support banking reforms.",
+          "answer": "450"
+        },
+        {
+          "cloze": "Signed by ERD Secretary Md Shahriar Kader Siddiky and World Bank Director Jean Pesme, the project runs from ______26 to June 2031, with a 25-year repayment term including a five-year grace period.",
+          "answer": "July 20"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "world",
+        "bank",
+        "gives",
+        "million",
+        "strengthen",
+        "bangladesh",
+        "financial",
+        "sector"
+      ],
+      "detail": "Bangladesh signed a $450 million World Bank financing agreement — 328 million Special Drawing Rights — under the Financial Sector Support Project II to strengthen the financial sector's safety net, improve supervision and support banking reforms. Signed by ERD Secretary Md Shahriar Kader Siddiky and World Bank Director Jean Pesme, the project runs from July 2026 to June 2031, with a 25-year repayment term including a five-year grace period."
+    },
+    {
+      "id": "CA05",
+      "headline": "Remittance stays below $3 billion for a fifth straight month",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Remittance stayed below $3 billion for a fifth straight month, with $2.87 billion arriving in October, up 12.1 percent year-on-year. Inflows have stayed under $3 billion since June, which bankers link to the war in the Middle East affecting expatriates' incomes. July-October inflows totalled $11.465 billion, up 13 percent, but import-payment pressure pushed the interbank dollar rate to Tk 124.30.",
+      "why_it_matters": "Remittance is Bangladesh's largest source of foreign exchange after exports; its level, trend and effect on the exchange rate are standard exam material.",
+      "exam_facts": "October remittance: $2.87 billion, up 12.1 percent year-on-year; below $3 billion since June (fifth straight month); July-October: $11.465 billion vs $10.149 billion a year earlier (up 13 percent); interbank rate Tk 124.30 per US dollar.",
+      "exam_relevance": "High — remittance, foreign exchange, exchange rate.",
+      "key_people": "Bangladesh Bank (data source).",
+      "figures": "$2.87 billion in October; below $3 billion for five months; $11.465 billion in July-October; Tk 124.30 per US dollar.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Remittance inflow stays below $3 billion for fifth straight month",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/news/remittance-inflow-stays-below-3-billion-fifth-straight-month-4312796"
+        }
+      ],
+      "one_liner": "Remittance stayed below $3 billion for a fifth straight month, with $2.87 billion arriving in October, up 12.1 percent year-on-year.",
+      "key_facts": [
+        {
+          "label": "in October",
+          "value": "$2.87 billion",
+          "original": "$2.87 billion in October"
+        },
+        {
+          "label": "below for five months",
+          "value": "$3 billion",
+          "original": "below $3 billion for five months"
+        },
+        {
+          "label": "in July-October",
+          "value": "$11.465 billion",
+          "original": "$11.465 billion in July-October"
+        },
+        {
+          "label": "per US dollar",
+          "value": "Tk 124.30",
+          "original": "Tk 124.30 per US dollar"
+        }
+      ],
+      "what_happened": [
+        "Inflows have stayed under $3 billion since June, which bankers link to the war in the Middle East affecting expatriates' incomes.",
+        "July-October inflows totalled $11.465 billion, up 13 percent, but import-payment pressure pushed the interbank dollar rate to Tk 124.30."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is per US dollar?",
+          "a": "Tk 124.30"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Remittance stayed below $______ billion for a fifth straight month, with $2.87 billion arriving in October, up 12.1 percent year-on-year.",
+          "answer": "3"
+        },
+        {
+          "cloze": "July-October inflows totalled $______ billion, up 13 percent, but import-payment pressure pushed the interbank dollar rate to Tk 124.30.",
+          "answer": "11.465"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "remittance",
+        "stays",
+        "below",
+        "billion",
+        "fifth",
+        "straight",
+        "month"
+      ],
+      "detail": "Remittance stayed below $3 billion for a fifth straight month, with $2.87 billion arriving in October, up 12.1 percent year-on-year. Inflows have stayed under $3 billion since June, which bankers link to the war in the Middle East affecting expatriates' incomes. July-October inflows totalled $11.465 billion, up 13 percent, but import-payment pressure pushed the interbank dollar rate to Tk 124.30."
+    },
+    {
+      "id": "CA06",
+      "headline": "Bangladesh Bank autonomy remains elusive amid IMF reform demands",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Central bank autonomy remains elusive despite IMF pressure, as the Fund's $4.5 billion programme for Bangladesh — which included central bank independence among its conditions — was left by the government in May, eight months early, before a new package was sought. A draft amendment to the Bangladesh Bank Order 1972, prepared under former governor Ahsan H Mansur, remains pending, and the dual control of the central bank and the finance ministry continues.",
+      "why_it_matters": "Central bank independence is a core governance and economics topic for BCS/Bank, and the IMF programme conditions are directly askable.",
+      "exam_facts": "IMF $4.5 billion programme (2023) included central bank independence; government left it in May 2026, eight months early, and sought a new package; draft amendment to the Bangladesh Bank Order 1972 pending since the interim government; dual control by Bangladesh Bank and the Financial Institutions Division continues; Finance Minister Amir Khosru Mahmud Chowdhury pledged to end dual control.",
+      "exam_relevance": "High — central bank, IMF, governance.",
+      "key_people": "Ahsan H Mansur, former Bangladesh Bank governor; Amir Khosru Mahmud Chowdhury, Finance Minister; Ivo Krznar, IMF mission chief for Bangladesh; Arief Hossain Khan, Bangladesh Bank spokesperson.",
+      "figures": "$4.5 billion IMF programme; left eight months early (May 2026); Bangladesh Bank Order 1972.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "BB autonomy remains elusive amid IMF reform demands",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/economy/news/bb-autonomy-remains-elusive-amid-imf-reform-demands-4312146"
+        }
+      ],
+      "one_liner": "Central bank autonomy remains elusive despite IMF pressure, as the Fund's $4.5 billion programme for Bangladesh — which included central…",
+      "key_facts": [
+        {
+          "label": "IMF programme",
+          "value": "$4.5 billion",
+          "original": "$4.5 billion IMF programme"
+        },
+        {
+          "label": "May 2026",
+          "value": "left eight months early",
+          "original": "left eight months early (May 2026)"
+        },
+        {
+          "label": "IMF programme (2023) included central bank…",
+          "value": "$4.5 billion",
+          "original": "IMF $4.5 billion programme (2023) included central bank independence"
+        },
+        {
+          "label": "draft amendment to the Bangladesh Bank…",
+          "value": "1972",
+          "original": "draft amendment to the Bangladesh Bank Order 1972 pending since the interim government"
+        }
+      ],
+      "what_happened": [
+        "A draft amendment to the Bangladesh Bank Order 1972, prepared under former governor Ahsan H Mansur,",
+        "remains pending, and the dual control of the central bank and the finance ministry continues."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is IMF programme?",
+          "a": "$4.5 billion"
+        },
+        {
+          "q": "What is draft amendment to the Bangladesh Bank…?",
+          "a": "1972"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Central bank autonomy remains elusive despite IMF pressure, as the Fund's $______ billion programme for Bangladesh — which included central bank independence among its conditions — was left by the government in May, eight months early, before a new package was sought.",
+          "answer": "4.5"
+        },
+        {
+          "cloze": "A draft amendment to the Bangladesh Bank Order ______ prepared under former governor Ahsan H Mansur, remains pending, and the dual control of the central bank and the finance ministry continues.",
+          "answer": "1972,"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "autonomy",
+        "remains",
+        "elusive",
+        "reform",
+        "demands"
+      ],
+      "detail": "Central bank autonomy remains elusive despite IMF pressure, as the Fund's $4.5 billion programme for Bangladesh — which included central bank independence among its conditions — was left by the government in May, eight months early, before a new package was sought. A draft amendment to the Bangladesh Bank Order 1972, prepared under former governor Ahsan H Mansur, remains pending, and the dual control of the central bank and the finance ministry continues."
+    },
+    {
+      "id": "CA07",
+      "headline": "CPD urges phasing out export cash incentives before 2029",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "The Centre for Policy Dialogue urged the government to set a timeline for phasing out export cash incentives and other LDC-only benefits before November 2029, after the UN General Assembly granted Bangladesh a three-year preparatory period before LDC graduation. CPD's Debapriya Bhattacharya warned the extension was exceptional and would not be repeated, and called for the Smooth Transition Strategy to be coordinated from the Prime Minister's Office with a public dashboard.",
+      "why_it_matters": "LDC graduation changes which trade benefits Bangladesh can keep; the phase-out timetable is a major exam topic in trade and economics.",
+      "exam_facts": "UNGA granted a three-year preparatory period; graduation now November 2029; UN Committee for Development Policy warned no further extension will be supported; CPD wants the Smooth Transition Strategy moved from the Economic Relations Division to the Prime Minister's Office, with parliamentary engagement and a public dashboard.",
+      "exam_relevance": "High — LDC graduation, WTO rules, trade policy.",
+      "key_people": "Debapriya Bhattacharya, CPD Distinguished Fellow; Nazneen Ahmed, CPD Executive Director.",
+      "figures": "Graduation November 2029 (three-year extension); phase out cash incentives before November 2029.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "CPD calls for phasing out export cash incentives before 2029",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/news/cpd-calls-phasing-out-export-cash-incentives-2029-4312646"
+        }
+      ],
+      "one_liner": "The Centre for Policy Dialogue urged the government to set a timeline for phasing out export cash incentives and other…",
+      "key_facts": [
+        {
+          "label": "three-year extension",
+          "value": "Graduation November 2029",
+          "original": "Graduation November 2029 (three-year extension)"
+        },
+        {
+          "label": "",
+          "value": "phase out cash incentives before November 2029",
+          "original": "phase out cash incentives before November 2029"
+        },
+        {
+          "label": "",
+          "value": "UNGA granted a three-year preparatory period",
+          "original": "UNGA granted a three-year preparatory period"
+        },
+        {
+          "label": "",
+          "value": "graduation now November 2029",
+          "original": "graduation now November 2029"
+        }
+      ],
+      "what_happened": [
+        "CPD's Debapriya Bhattacharya warned the extension was exceptional and would not be repeated, and called for the Smooth Transition Strategy to be coordinated from the Prime Minister's Office with a public dashboard."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The Centre for Policy Dialogue urged the government to set a timeline for phasing out export cash incentives and other LDC-only benefits before ______29, after the UN General Assembly granted Bangladesh a three-year preparatory period before LDC graduation.",
+          "answer": "November 20"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "urges",
+        "phasing",
+        "export",
+        "cash",
+        "incentives"
+      ],
+      "detail": "The Centre for Policy Dialogue urged the government to set a timeline for phasing out export cash incentives and other LDC-only benefits before November 2029, after the UN General Assembly granted Bangladesh a three-year preparatory period before LDC graduation. CPD's Debapriya Bhattacharya warned the extension was exceptional and would not be repeated, and called for the Smooth Transition Strategy to be coordinated from the Prime Minister's Office with a public dashboard."
+    },
+    {
+      "id": "CA08",
+      "headline": "Bangla QR now allows person-to-person transfers",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Person-to-person transfers through Bangla QR began on 1 November, letting people send money by scanning the recipient's QR code without typing a mobile or account number. Bangladesh Bank had directed banks, mobile financial services and payment providers to integrate the feature by 31 October. The central bank, which launched interoperable QR payments in 2023, aims to make 75 percent of transactions cashless by 2027.",
+      "why_it_matters": "Digital payments and financial inclusion are recurring BCS/Bank topics; Bangla QR is Bangladesh's own interoperable payment system.",
+      "exam_facts": "P2P transfers via Bangla QR from 1 November 2026; no mobile or account number needed, only a QR scan; banks, MFS providers, PSPs and PSOs told to integrate by 31 October; interoperable QR system launched 2023; target: 75 percent of transactions cashless by 2027.",
+      "exam_relevance": "High — digital payments, Bangladesh Bank, financial inclusion.",
+      "key_people": "Bangladesh Bank (regulator).",
+      "figures": "P2P from 1 November 2026; integration deadline 31 October; 75 percent cashless target by 2027; QR system launched 2023.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Bangla QR now allows person-to-person transfers",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/news/bangla-qr-now-allows-person-person-transfers-4312951"
+        }
+      ],
+      "one_liner": "Person-to-person transfers through Bangla QR began on 1 November, letting people send money by scanning the recipient's QR code without…",
+      "key_facts": [
+        {
+          "label": "P P from 1 November 2026",
+          "value": "2",
+          "original": "P2P from 1 November 2026"
+        },
+        {
+          "label": "",
+          "value": "integration deadline 31 October",
+          "original": "integration deadline 31 October"
+        },
+        {
+          "label": "cashless target by 2027",
+          "value": "75 percent",
+          "original": "75 percent cashless target by 2027"
+        },
+        {
+          "label": "",
+          "value": "QR system launched 2023",
+          "original": "QR system launched 2023"
+        }
+      ],
+      "what_happened": [
+        "Bangladesh Bank had directed banks, mobile financial services and payment providers to integrate the feature by 31 October.",
+        "The central bank, which launched interoperable QR payments in 2023, aims to make 75 percent of transactions cashless by 2027."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Person-to-person transfers through Bangla QR began on ______, letting people send money by scanning the recipient's QR code without typing a mobile or account number.",
+          "answer": "1 November"
+        },
+        {
+          "cloze": "Bangladesh Bank had directed banks, mobile financial services and payment providers to integrate the feature by ______.",
+          "answer": "31 October"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangla",
+        "allows",
+        "person",
+        "transfers"
+      ],
+      "detail": "Person-to-person transfers through Bangla QR began on 1 November, letting people send money by scanning the recipient's QR code without typing a mobile or account number. Bangladesh Bank had directed banks, mobile financial services and payment providers to integrate the feature by 31 October. The central bank, which launched interoperable QR payments in 2023, aims to make 75 percent of transactions cashless by 2027."
+    },
+    {
+      "id": "CA09",
+      "headline": "Bangladesh sets reform targets as LDC graduation delayed to 2029",
+      "category": "Economy & Banking",
+      "event_date": "2026-10-29",
+      "article_date": "2026-11-01",
+      "summary": "Bangladesh submitted a time-bound reform roadmap to the EU and the UN after securing a three-year delay to LDC graduation, now set for 24 November 2029 instead of 24 November 2026. The roadmap, to be monitored annually, targets 7 percent GDP growth by 2029 from 4.14 percent in 2026 and inflation of 6 percent from 9.16 percent, with five ministries submitting monthly progress reports on banking, revenue and business-environment reforms.",
+      "why_it_matters": "LDC graduation is one of the biggest exam topics in Bangladesh's economy and foreign policy; the new date and the targets are directly askable.",
+      "exam_facts": "Graduation delayed to 24 November 2029 (from 24 November 2026) by a UN General Assembly decision adopted without a vote; roadmap targets 7 percent GDP growth by 2029 (from 4.14 percent in 2026) and 6 percent inflation (from 9.16 percent); EU and UN to monitor annually; five ministries to report monthly; EU is Bangladesh's largest export market.",
+      "exam_relevance": "High — LDC graduation, UN, EU, economic reform.",
+      "key_people": "Finance ministry official (source); Ireland spoke for the EU at the General Assembly.",
+      "figures": "Graduation 24 November 2029; GDP growth target 7 percent by 2029 (from 4.14 percent); inflation target 6 percent (from 9.16 percent).",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "LDC graduation: Bangladesh sets reform targets for EU, UN to watch",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371"
+        }
+      ],
+      "one_liner": "Bangladesh submitted a time-bound reform roadmap to the EU and the UN after securing a three-year delay to LDC graduation,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Graduation 24 November 2029",
+          "original": "Graduation 24 November 2029"
+        },
+        {
+          "label": "from 4.14 percent",
+          "value": "GDP growth target 7 percent by 2029",
+          "original": "GDP growth target 7 percent by 2029 (from 4.14 percent)"
+        },
+        {
+          "label": "from 9.16 percent",
+          "value": "inflation target 6 percent",
+          "original": "inflation target 6 percent (from 9.16 percent)"
+        },
+        {
+          "label": "from 9.16 percent",
+          "value": "roadmap targets 7 percent GDP growth by 2029 (from 4.14 percent in 2026) and 6 percent inflation",
+          "original": "roadmap targets 7 percent GDP growth by 2029 (from 4.14 percent in 2026) and 6 percent inflation (from 9.16 percent)"
+        }
+      ],
+      "what_happened": [
+        "The roadmap, to be monitored annually, targets 7 percent GDP growth by 2029 from 4.14 percent in 2026 and inflation of 6 percent from 9.16 percent,",
+        "with five ministries submitting monthly progress reports on banking, revenue and business-environment reforms."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh submitted a time-bound reform roadmap to the EU and the UN after securing a three-year delay to LDC graduation, now set for ______ instead of 24 November 2026.",
+          "answer": "24 November 2029"
+        },
+        {
+          "cloze": "The roadmap, to be monitored annually, targets ______ percent GDP growth by 2029 from 4.14 percent in 2026 and inflation of 6 percent from 9.16 percent, with five ministries submitting monthly progress reports on banking, revenue and business-environment reforms.",
+          "answer": "7"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "sets",
+        "reform",
+        "targets",
+        "graduation",
+        "delayed"
+      ],
+      "detail": "Bangladesh submitted a time-bound reform roadmap to the EU and the UN after securing a three-year delay to LDC graduation, now set for 24 November 2029 instead of 24 November 2026. The roadmap, to be monitored annually, targets 7 percent GDP growth by 2029 from 4.14 percent in 2026 and inflation of 6 percent from 9.16 percent, with five ministries submitting monthly progress reports on banking, revenue and business-environment reforms."
+    },
+    {
+      "id": "CA10",
+      "headline": "Climate change cost Bangladesh $17.5 billion in lost earnings in 2025",
+      "category": "Bangladesh",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Climate change cost Bangladesh an estimated $17.5 billion in lost earnings in 2025 through heat exposure alone, according to the 2026 Lancet Countdown report. Infants and people over 65 faced more than double the heatwave days of 1986-2005, and human-caused fine particulate pollution caused about 239,000 deaths in 2023. Bangladesh lost over 26 billion potential labour hours a year to heat in 2016-2025, 71 percent more than in the 1990s.",
+      "why_it_matters": "Climate and health figures are staple BCS/Bank general-knowledge material, and the Lancet Countdown is an authoritative source examiners cite.",
+      "exam_facts": "Heat exposure cost $17.5 billion in lost earnings in 2025; heatwave days for infants up 162 percent and for over-65s up 136 percent vs 1986-2005; PM2.5 pollution caused about 239,000 deaths in 2023; 26 billion potential labour hours lost a year to heat in 2016-2025; heat deaths among over-65s cost $3.8 billion a year in 2021-2025.",
+      "exam_relevance": "High — climate change, public health, Lancet Countdown.",
+      "key_people": "Shouro Dasgupta, environmental economist (keynote speaker); C3ER, BRAC University; Climate Change and Health Promotion Unit, Ministry of Health and Family Welfare.",
+      "figures": "$17.5 billion lost earnings in 2025; 239,000 PM2.5 deaths in 2023; 26 billion labour hours lost a year; $3.8 billion a year in heat deaths among over-65s.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Climate change cost Bangladesh $17.5 billion in lost earnings in 2025: Lancet report",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966"
+        }
+      ],
+      "one_liner": "Climate change cost Bangladesh an estimated $17.5 billion in lost earnings in 2025 through heat exposure alone, according to the…",
+      "key_facts": [
+        {
+          "label": "lost earnings in 2025",
+          "value": "$17.5 billion",
+          "original": "$17.5 billion lost earnings in 2025"
+        },
+        {
+          "label": "PM2.5 deaths in 2023",
+          "value": "239,000",
+          "original": "239,000 PM2.5 deaths in 2023"
+        },
+        {
+          "label": "labour hours lost a year",
+          "value": "26 billion",
+          "original": "26 billion labour hours lost a year"
+        },
+        {
+          "label": "a year in heat deaths among…",
+          "value": "$3.8 billion",
+          "original": "$3.8 billion a year in heat deaths among over-65s"
+        }
+      ],
+      "what_happened": [
+        "Infants and people over 65 faced more than double the heatwave days of 1986-2005, and human-caused fine particulate pollution caused about 239,000 deaths in 2023.",
+        "Bangladesh lost over 26 billion potential labour hours a year to heat in 2016-2025, 71 percent more than in the 1990s."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Climate change cost Bangladesh an estimated $______ billion in lost earnings in 2025 through heat exposure alone, according to the 2026 Lancet Countdown report.",
+          "answer": "17.5"
+        },
+        {
+          "cloze": "Infants and people over ______ faced more than double the heatwave days of 1986-2005, and human-caused fine particulate pollution caused about 239,000 deaths in 2023.",
+          "answer": "65"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "climate",
+        "change",
+        "cost",
+        "billion",
+        "lost",
+        "earnings"
+      ],
+      "detail": "Climate change cost Bangladesh an estimated $17.5 billion in lost earnings in 2025 through heat exposure alone, according to the 2026 Lancet Countdown report. Infants and people over 65 faced more than double the heatwave days of 1986-2005, and human-caused fine particulate pollution caused about 239,000 deaths in 2023. Bangladesh lost over 26 billion potential labour hours a year to heat in 2016-2025, 71 percent more than in the 1990s."
+    },
+    {
+      "id": "CA11",
+      "headline": "Garment sector faces $4.8 billion shortfall in green investment",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Bangladesh's garment sector faces a $4.8 billion shortfall against a $6.6 billion green-investment need for 2025-2029, with only $1.6 billion confirmed and $175 million in the pipeline, researchers told a Dhaka event organised by LightCastle Partners and Policy Exchange Bangladesh. Speakers said accessible green finance and simpler procedures are essential for smaller factories to cut emissions and stay competitive in global markets.",
+      "why_it_matters": "Green finance links the garment sector, climate commitments and export competitiveness — three exam themes in one story.",
+      "exam_facts": "Green investment need 2025-2029: $6.6 billion; confirmed $1.6 billion; pipeline $175 million; shortfall $4.8 billion (about 73 percent); event 'Unlocking Green Finance Pathways for Bangladesh's RMG Sector' by LightCastle Partners and Policy Exchange Bangladesh.",
+      "exam_relevance": "High — RMG, green finance, climate.",
+      "key_people": "Hasan Khaled Foisal, Additional Secretary, Ministry of Finance.",
+      "figures": "$4.8 billion shortfall; $6.6 billion need; $1.6 billion confirmed; $175 million in pipeline; 73 percent of the need unmet.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Garment sector faces $4.8b shortfall in green investment",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/business/economy/news/garment-sector-faces-48b-shortfall-green-investment-4312181"
+        }
+      ],
+      "one_liner": "Bangladesh's garment sector faces a $4.8 billion shortfall against a $6.6 billion green-investment need for 2025-2029, with only $1.6 billion…",
+      "key_facts": [
+        {
+          "label": "need",
+          "value": "$6.6 billion",
+          "original": "$6.6 billion need"
+        },
+        {
+          "label": "confirmed",
+          "value": "$1.6 billion",
+          "original": "$1.6 billion confirmed"
+        },
+        {
+          "label": "in pipeline",
+          "value": "$175 million",
+          "original": "$175 million in pipeline"
+        },
+        {
+          "label": "of the need unmet",
+          "value": "73 percent",
+          "original": "73 percent of the need unmet"
+        }
+      ],
+      "what_happened": [
+        "Speakers said accessible green finance and simpler procedures are essential for smaller factories to cut emissions and stay competitive in global markets."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is need?",
+          "a": "$6.6 billion"
+        },
+        {
+          "q": "What is confirmed?",
+          "a": "$1.6 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's garment sector faces a $______ billion shortfall against a $6.6 billion green-investment need for 2025-2029, with only $1.6 billion confirmed and $175 million in the pipeline, researchers told a Dhaka event organised by LightCastle Partners and Policy Exchange Bangladesh.",
+          "answer": "4.8"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "sector",
+        "faces",
+        "billion",
+        "shortfall",
+        "green",
+        "investment"
+      ],
+      "detail": "Bangladesh's garment sector faces a $4.8 billion shortfall against a $6.6 billion green-investment need for 2025-2029, with only $1.6 billion confirmed and $175 million in the pipeline, researchers told a Dhaka event organised by LightCastle Partners and Policy Exchange Bangladesh. Speakers said accessible green finance and simpler procedures are essential for smaller factories to cut emissions and stay competitive in global markets."
+    },
+    {
+      "id": "CA12",
+      "headline": "Five men took part in journalist Alif's murder, Tajul fired the shot",
+      "category": "Bangladesh",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Two accused in the murder of journalist Lutfuzzaman Alif in Durgapur, Netrokona, told a court that five people took part in the killing and that Tajul Islam, the alleged mastermind, shot Alif with a pistol. Imran Islam and Sabbir Ahmed gave confessional statements under Section 164 of the Code of Criminal Procedure. Police say Tajul, who faces at least 13 cases, ran a border smuggling gang that Alif had exposed.",
+      "why_it_matters": "Press freedom, criminal procedure and the safety of journalists are governance topics in BCS/Bank exams; the Section 164 procedure is directly askable.",
+      "exam_facts": "Victim: journalist Lutfuzzaman Alif, Durgapur, Netrokona; confessional statements under Section 164 CrPC by Imran Islam (24) and Sabbir Ahmed (25) to Senior Judicial Magistrate Nurul Amin Bhuiyan; five people took part; Tajul Islam shot Alif; at least 13 cases against Tajul, including murder, arms, drugs and extortion.",
+      "exam_relevance": "Medium-high — law, press freedom, governance.",
+      "key_people": "Tajul Islam (accused mastermind); Imran Islam and Sabbir Ahmed (accused); Nurul Amin Bhuiyan, Senior Judicial Magistrate, Durgapur; Khandaker Shaker Ahmed, OC, Durgapur Police Station.",
+      "figures": "Five people took part; at least 13 cases against Tajul; statements recorded 3:45pm-7pm on 1 November.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Five men took part in journalist Alif’s murder, Tajul fired the shot",
+          "date": "2026-11-01",
+          "url": "https://en.prothomalo.com/bangladesh/crime-and-law/x98kjda3pn"
+        }
+      ],
+      "one_liner": "Two accused in the murder of journalist Lutfuzzaman Alif in Durgapur, Netrokona, told a court that five people took part…",
+      "key_facts": [
+        {
+          "label": "at least cases against Tajul",
+          "value": "13",
+          "original": "at least 13 cases against Tajul"
+        },
+        {
+          "label": "statements recorded 3",
+          "value": "45pm-7pm on 1 November",
+          "original": "statements recorded 3:45pm-7pm on 1 November"
+        },
+        {
+          "label": "Victim",
+          "value": "journalist Lutfuzzaman Alif, Durgapur, Netrokona",
+          "original": "Victim: journalist Lutfuzzaman Alif, Durgapur, Netrokona"
+        },
+        {
+          "label": "confessional statements under Section CrPC by…",
+          "value": "164",
+          "original": "confessional statements under Section 164 CrPC by Imran Islam (24) and Sabbir Ahmed (25) to Senior Judicial Magistrate Nurul Amin Bhuiyan"
+        }
+      ],
+      "what_happened": [
+        "Imran Islam and Sabbir Ahmed gave confessional statements under Section 164 of the Code of Criminal Procedure.",
+        "Police say Tajul, who faces at least 13 cases, ran a border smuggling gang that Alif had exposed."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is at least cases against Tajul?",
+          "a": "13"
+        },
+        {
+          "q": "What is Victim?",
+          "a": "journalist Lutfuzzaman Alif, Durgapur, Netrokona"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Imran Islam and Sabbir Ahmed gave confessional statements under Section ______ of the Code of Criminal Procedure.",
+          "answer": "164"
+        },
+        {
+          "cloze": "Police say Tajul, who faces at least ______ cases, ran a border smuggling gang that Alif had exposed.",
+          "answer": "13"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "five",
+        "took",
+        "part",
+        "journalist",
+        "alif",
+        "murder",
+        "tajul",
+        "fired",
+        "shot"
+      ],
+      "detail": "Two accused in the murder of journalist Lutfuzzaman Alif in Durgapur, Netrokona, told a court that five people took part in the killing and that Tajul Islam, the alleged mastermind, shot Alif with a pistol. Imran Islam and Sabbir Ahmed gave confessional statements under Section 164 of the Code of Criminal Procedure. Police say Tajul, who faces at least 13 cases, ran a border smuggling gang that Alif had exposed."
+    },
+    {
+      "id": "CA13",
+      "headline": "US Navy vessel USS Warrior arrives in Chattogram for CARAT-2026",
+      "category": "World",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "The 68-metre US Navy vessel USS Warrior arrived at Chattogram Port on 1 November for CARAT-2026, the joint naval exercise with the Bangladesh Navy starting on 2 November. Led by Lieutenant Commander Mary Senoyuit, the ship will take part with a US P-8A aircraft and Bangladesh Navy ships and units under the SWADS Command. The exercise, focused on maritime security cooperation, ends when the vessel leaves on 5 November.",
+      "why_it_matters": "Bangladesh-US defence cooperation and maritime security are foreign-policy exam topics; CARAT is the standing bilateral naval exercise.",
+      "exam_facts": "Vessel: USS Warrior (68 metres), led by Lieutenant Commander Mary Senoyuit; arrived Chattogram 1 November; CARAT-2026 from 2 November, opening at the School of Maritime Warfare and Tactics; US P-8A aircraft and Bangladesh Navy SWADS units take part; vessel leaves 5 November; received by Captain Mir Mohammad Mahbubul Hasan.",
+      "exam_relevance": "High — foreign policy, defence, maritime security.",
+      "key_people": "Lieutenant Commander Mary Senoyuit, commanding officer, USS Warrior; Captain Mir Mohammad Mahbubul Hasan, Chief Staff Officer, Commander Chattogram Naval Area; Rear Admiral Mostak Ahmed, Commander, Bangladesh Navy Fleet.",
+      "figures": "68-metre vessel; exercise 2-5 November; CARAT = Cooperation Afloat Readiness and Training.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "US Navy vessel arrives in Chattogram for CARAT-2026 joint exercise",
+          "date": "2026-11-01",
+          "url": "https://www.tbsnews.net/foreign-policy/us-navy-vessel-arrives-chattogram-carat-2026-joint-exercise-1589756"
+        }
+      ],
+      "one_liner": "The 68-metre US Navy vessel USS Warrior arrived at Chattogram Port on 1 November for CARAT-2026, the joint naval exercise…",
+      "key_facts": [
+        {
+          "label": "metre vessel",
+          "value": "68",
+          "original": "68-metre vessel"
+        },
+        {
+          "label": "",
+          "value": "exercise 2-5 November",
+          "original": "exercise 2-5 November"
+        },
+        {
+          "label": "",
+          "value": "CARAT = Cooperation Afloat Readiness and Training",
+          "original": "CARAT = Cooperation Afloat Readiness and Training"
+        },
+        {
+          "label": "Vessel",
+          "value": "USS Warrior (68 metres), led by Lieutenant Commander Mary Senoyuit",
+          "original": "Vessel: USS Warrior (68 metres), led by Lieutenant Commander Mary Senoyuit"
+        }
+      ],
+      "what_happened": [
+        "Led by Lieutenant Commander Mary Senoyuit, the ship will take part with a US P-8A aircraft and Bangladesh Navy ships and units under the SWADS Command.",
+        "The exercise, focused on maritime security cooperation, ends when the vessel leaves on 5 November."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is metre vessel?",
+          "a": "68"
+        },
+        {
+          "q": "What is Vessel?",
+          "a": "USS Warrior (68 metres), led by Lieutenant Commander Mary Senoyuit"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The 68-metre US Navy vessel USS Warrior arrived at Chattogram Port on ______ for CARAT-2026, the joint naval exercise with the Bangladesh Navy starting on 2 November.",
+          "answer": "1 November"
+        },
+        {
+          "cloze": "Led by Lieutenant Commander Mary Senoyuit, the ship will take part with a US P-______A aircraft and Bangladesh Navy ships and units under the SWADS Command.",
+          "answer": "8"
+        }
+      ],
+      "keywords": [
+        "world",
+        "navy",
+        "vessel",
+        "warrior",
+        "arrives",
+        "chattogram",
+        "carat"
+      ],
+      "detail": "The 68-metre US Navy vessel USS Warrior arrived at Chattogram Port on 1 November for CARAT-2026, the joint naval exercise with the Bangladesh Navy starting on 2 November. Led by Lieutenant Commander Mary Senoyuit, the ship will take part with a US P-8A aircraft and Bangladesh Navy ships and units under the SWADS Command. The exercise, focused on maritime security cooperation, ends when the vessel leaves on 5 November."
+    },
+    {
+      "id": "CA14",
+      "headline": "FBI says North Korea stole over $6 billion in crypto from Binance",
+      "category": "Technology",
+      "event_date": "2026-10-31",
+      "article_date": "2026-11-01",
+      "summary": "The FBI accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance on about 29 October, in what is thought to be the biggest-ever crypto heist. The North Korean group TraderTraitor, also blamed for a $1.5 billion Bybit theft in February 2025, allegedly converted the assets into Ethereum for laundering. Binance said it set aside $6.34 billion in company funds and has replenished 90 percent of the loss.",
+      "why_it_matters": "Cybercrime, cryptocurrency and international security are growing exam topics; the scale makes this the largest crypto theft reported so far.",
+      "exam_facts": "Theft: over $6 billion from Binance, about 29 October 2026; accused group: TraderTraitor (North Korea-affiliated); same group blamed for $1.5 billion Bybit theft in February 2025; Binance set aside $6.34 billion and replenished 90 percent; US President Donald Trump cast doubt on North Korea's involvement.",
+      "exam_relevance": "Medium-high — cybercrime, cryptocurrency, international affairs.",
+      "key_people": "TraderTraitor (North Korean hacking group); Donald Trump, US President.",
+      "figures": "Over $6 billion stolen; $6.34 billion set aside by Binance; 90 percent replenished; $1.5 billion Bybit theft (February 2025).",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "FBI says North Korea behind USD 6b crypto theft from Binance",
+          "date": "2026-11-01",
+          "url": "https://en.prothomalo.com/international/98vm0rsnc7"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Binance says it has covered $6 billion of $6.3 billion stolen in hack",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/technology/news/binance-says-it-has-covered-6-billion-63-billion-stolen-hack-4312526"
+        }
+      ],
+      "one_liner": "The FBI accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance on…",
+      "key_facts": [
+        {
+          "label": "Over stolen",
+          "value": "$6 billion",
+          "original": "Over $6 billion stolen"
+        },
+        {
+          "label": "set aside by Binance",
+          "value": "$6.34 billion",
+          "original": "$6.34 billion set aside by Binance"
+        },
+        {
+          "label": "February 2025",
+          "value": "$1.5 billion Bybit theft",
+          "original": "$1.5 billion Bybit theft (February 2025)"
+        },
+        {
+          "label": "Theft",
+          "value": "over $6 billion from Binance, about 29 October 2026",
+          "original": "Theft: over $6 billion from Binance, about 29 October 2026"
+        }
+      ],
+      "what_happened": [
+        "The North Korean group TraderTraitor, also blamed for a $1.5 billion Bybit theft in February 2025, allegedly converted the assets into Ethereum for laundering.",
+        "Binance said it set aside $6.34 billion in company funds and has replenished 90 percent of the loss."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Over stolen?",
+          "a": "$6 billion"
+        },
+        {
+          "q": "What is set aside by Binance?",
+          "a": "$6.34 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The FBI accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance on about ______, in what is thought to be the biggest-ever crypto heist.",
+          "answer": "29 October"
+        },
+        {
+          "cloze": "The North Korean group TraderTraitor, also blamed for a $1.5 billion Bybit theft in ______25, allegedly converted the assets into Ethereum for laundering.",
+          "answer": "February 20"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "north",
+        "korea",
+        "stole",
+        "billion",
+        "crypto",
+        "binance"
+      ],
+      "detail": "The FBI accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance on about 29 October, in what is thought to be the biggest-ever crypto heist. The North Korean group TraderTraitor, also blamed for a $1.5 billion Bybit theft in February 2025, allegedly converted the assets into Ethereum for laundering. Binance said it set aside $6.34 billion in company funds and has replenished 90 percent of the loss."
+    },
+    {
+      "id": "CA15",
+      "headline": "Politics becoming a 'power-centric business model', says TIB",
+      "category": "Politics",
+      "event_date": "2026-11-01",
+      "article_date": "2026-11-01",
+      "summary": "Transparency International Bangladesh said political participation in Bangladesh is becoming a 'power-centric business model', driven by abuse of power, black money and the criminalisation of politics. Launching a report on good governance in political parties, TIB executive director Iftekharuzzaman said the July uprising had raised hopes of ending power politics, but factionalism, opaque party financing and a lack of internal accountability have left political violence normalised.",
+      "why_it_matters": "Good governance, political party finance and corruption are core BCS topics; TIB's framing is a quotable assessment of the post-uprising political scene.",
+      "exam_facts": "Report: 'Institutional Good Governance in Bangladesh's Political Parties' (TIB); finding: political participation turning into a 'power-centric business model'; drivers: abuse of power, black money, criminalisation of politics; problems: opaque party financing, gap between reported and actual income/expenditure, weak internal democracy.",
+      "exam_relevance": "High — governance, corruption, political parties.",
+      "key_people": "Iftekharuzzaman, Executive Director, Transparency International Bangladesh.",
+      "figures": "Report launched 1 November 2026 at TIB office, Dhanmondi, Dhaka.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Political participation becoming a ‘power-centric business model’: Iftekharuzzaman",
+          "date": "2026-11-01",
+          "url": "https://en.prothomalo.com/bangladesh/8r9ddyj7b0"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Parties run on power-centric business model: TIB",
+          "date": "2026-11-01",
+          "url": "https://www.thedailystar.net/news/politics/political-parties/news/parties-run-power-centric-business-model-tib-4312921"
+        }
+      ],
+      "one_liner": "Transparency International Bangladesh said political participation in Bangladesh is becoming a 'power-centric business model', driven by abuse of power, black…",
+      "key_facts": [
+        {
+          "label": "TIB",
+          "value": "Report: 'Institutional Good Governance in Bangladesh's Political Parties'",
+          "original": "Report: 'Institutional Good Governance in Bangladesh's Political Parties' (TIB)"
+        },
+        {
+          "label": "finding",
+          "value": "political participation turning into a 'power-centric business model'",
+          "original": "finding: political participation turning into a 'power-centric business model'"
+        },
+        {
+          "label": "drivers",
+          "value": "abuse of power, black money, criminalisation of politics",
+          "original": "drivers: abuse of power, black money, criminalisation of politics"
+        },
+        {
+          "label": "problems",
+          "value": "opaque party financing, gap between reported and actual income/expenditure, weak internal democracy",
+          "original": "problems: opaque party financing, gap between reported and actual income/expenditure, weak internal democracy"
+        }
+      ],
+      "what_happened": [
+        "Launching a report on good governance in political parties, TIB executive director Iftekharuzzaman said the July uprising had raised hopes of ending power politics,",
+        "but factionalism, opaque party financing and a lack of internal accountability have left political violence normalised."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is TIB?",
+          "a": "Report: 'Institutional Good Governance in Bangladesh's Political Parties'"
+        },
+        {
+          "q": "What is finding?",
+          "a": "political participation turning into a 'power-centric business model'"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "politics",
+        "becoming",
+        "power",
+        "centric",
+        "business",
+        "model"
+      ],
+      "detail": "Transparency International Bangladesh said political participation in Bangladesh is becoming a 'power-centric business model', driven by abuse of power, black money and the criminalisation of politics. Launching a report on good governance in political parties, TIB executive director Iftekharuzzaman said the July uprising had raised hopes of ending power politics, but factionalism, opaque party financing and a lack of internal accountability have left political violence normalised."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "disruption",
+      "IPA": "/dɪsˈrʌpʃn/",
+      "Bangla phonetic": "ডিসরাপশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিঘ্ন; ব্যাঘাত; স্বাভাবিক কাজে বাধা",
+      "English definition": "A disturbance that interrupts the normal progress of an activity or process.",
+      "Synonyms": "interruption; disturbance; breakdown; obstruction",
+      "Antonyms": "continuity; smooth running; stability",
+      "Word family / derivatives": "disrupt; disrupted; disruptive; disruptively",
+      "Collocations / patterns": "cause disruption; widespread disruption; disruption to services",
+      "Original example": "The protests caused widespread disruption to factory operations across four industrial districts.",
+      "Newspaper context note": "Used in the BGMEA report on labour unrest disrupting operations at 529 garment factories.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Common in reading comprehension and precis on strikes, disasters and supply chains.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "grievance",
+      "IPA": "/ˈɡriːvəns/",
+      "Bangla phonetic": "গ্রিভান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযোগ; ক্ষোভের কারণ; অসন্তোষ",
+      "English definition": "A real or imagined cause for complaint, especially unfair treatment.",
+      "Synonyms": "complaint; resentment; objection; injustice",
+      "Antonyms": "satisfaction; contentment; praise",
+      "Word family / derivatives": "grieve; aggrieved; grievances",
+      "Collocations / patterns": "air a grievance; address grievances; genuine grievance",
+      "Original example": "The workers listed their grievances, including low pay and the blacklisting of colleagues.",
+      "Newspaper context note": "Used in reporting on garment workers' demands, including a minimum wage and an end to blacklisting.",
+      "Source publication": "The Daily Star",
+      "Article headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691",
+      "BCS / Bank relevance": "Labour relations and governance vocabulary; appears in comprehension and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "reinstatement",
+      "IPA": "/ˌriːɪnˈsteɪtmənt/",
+      "Bangla phonetic": "রিইনস্টেটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনর্বহাল; চাকরিতে ফিরিয়ে নেওয়া",
+      "English definition": "The act of giving someone back a job or position they had lost.",
+      "Synonyms": "restoration; reappointment; return to service",
+      "Antonyms": "dismissal; removal; termination",
+      "Word family / derivatives": "reinstate; reinstated; reinstating",
+      "Collocations / patterns": "reinstatement of dismissed workers; demand reinstatement",
+      "Original example": "The union demanded the reinstatement of all workers dismissed during the unrest.",
+      "Newspaper context note": "Used in the BGMEA report: workers demanded reinstatement of dismissed workers alongside a wage rise.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Service rules and labour law vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "scrutiny",
+      "IPA": "/ˈskruːtəni/",
+      "Bangla phonetic": "স্ক্রুটিনি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "যাচাই-বাছাই; নিবিড় পরীক্ষা; পুনঃনিরীক্ষণ",
+      "English definition": "Careful and thorough examination of something.",
+      "Synonyms": "examination; inspection; review; investigation",
+      "Antonyms": "neglect; oversight; cursory glance",
+      "Word family / derivatives": "scrutinise; scrutinised; scrutinising; scrutiniser",
+      "Collocations / patterns": "under scrutiny; close scrutiny; re-scrutiny of answer scripts",
+      "Original example": "Students may apply for re-scrutiny of their answer scripts from 1 to 7 November.",
+      "Newspaper context note": "Used in HSC results reporting: applications for re-scrutiny of answer scripts are open from 1 to 7 November.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "BCS / Bank relevance": "Formal noun for exams, audits and investigations; common in synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deterioration",
+      "IPA": "/dɪˌtɪəriəˈreɪʃn/",
+      "Bangla phonetic": "ডিটেরিওরেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবনতি; ক্রমাগত খারাপ হওয়া",
+      "English definition": "The process of becoming progressively worse.",
+      "Synonyms": "decline; worsening; decay; degradation",
+      "Antonyms": "improvement; recovery; progress",
+      "Word family / derivatives": "deteriorate; deteriorated; deteriorating",
+      "Collocations / patterns": "deterioration in performance; sharp deterioration; gradual deterioration",
+      "Original example": "The results reveal a significant deterioration in academic performance across all boards.",
+      "Newspaper context note": "Used in Prothom Alo's HSC analysis: the results reveal a significant deterioration in academic performance.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "HSC result 2026: Worst performance in 22 years",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/ht1u40gv59",
+      "BCS / Bank relevance": "High-value formal noun for essays and precis on the economy, education and health.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "incentive",
+      "IPA": "/ɪnˈsentɪv/",
+      "Bangla phonetic": "ইনসেনটিভ",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রণোদনা; উৎসাহমূলক সুবিধা",
+      "English definition": "Something that encourages a person or organisation to do something, such as a payment or benefit.",
+      "Synonyms": "encouragement; inducement; motivation; bonus",
+      "Antonyms": "disincentive; deterrent; penalty",
+      "Word family / derivatives": "incentivise; incentivised; incentives",
+      "Collocations / patterns": "cash incentive; export incentive; tax incentive; financial incentive",
+      "Original example": "The think tank urged the government to phase out export cash incentives before 2029.",
+      "Newspaper context note": "Used in the CPD briefing: export cash incentives are an LDC-only benefit that must be phased out before graduation.",
+      "Source publication": "The Daily Star",
+      "Article headline": "CPD calls for phasing out export cash incentives before 2029",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/news/cpd-calls-phasing-out-export-cash-incentives-2029-4312646",
+      "BCS / Bank relevance": "Core economics vocabulary for trade, tax and subsidy questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "graduation",
+      "IPA": "/ˌɡrædʒuˈeɪʃn/",
+      "Bangla phonetic": "গ্র্যাজুয়েশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উত্তরণ; (এলডিসি থেকে) উত্তরণ; স্নাতক হওয়া",
+      "English definition": "The act of moving from one stage or category to a higher one; also, completing a course of study.",
+      "Synonyms": "transition; advancement; promotion; completion",
+      "Antonyms": "regression; demotion; failure",
+      "Word family / derivatives": "graduate; graduated; graduating",
+      "Collocations / patterns": "LDC graduation; graduation ceremony; smooth graduation",
+      "Original example": "Bangladesh secured a three-year delay to its graduation from the least developed countries category.",
+      "Newspaper context note": "Used throughout the LDC reporting: Bangladesh's graduation from the UN's least developed countries list is now set for November 2029.",
+      "Source publication": "The Daily Star",
+      "Article headline": "LDC graduation: Bangladesh sets reform targets for EU, UN to watch",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371",
+      "BCS / Bank relevance": "A landmark exam term for Bangladesh's economy, trade and foreign policy.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "interoperable",
+      "IPA": "/ˌɪntərˈɒpərəbəl/",
+      "Bangla phonetic": "ইন্টারঅপারেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আন্তঃপরিচালনাযোগ্য; বিভিন্ন ব্যবস্থায় পরস্পর ব্যবহারযোগ্য",
+      "English definition": "Able to work together across different systems, devices or organisations.",
+      "Synonyms": "compatible; interconnected; cross-platform",
+      "Antonyms": "incompatible; isolated; proprietary",
+      "Word family / derivatives": "interoperability; interoperate; interoperation",
+      "Collocations / patterns": "interoperable payment system; interoperable QR code; interoperable platforms",
+      "Original example": "Bangla QR is an interoperable system, so one QR code works across banks and mobile wallets.",
+      "Newspaper context note": "Used in the Bangla QR report: the central bank introduced the interoperable QR-based settlement system in 2023.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangla QR now allows person-to-person transfers",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangla-qr-now-allows-person-person-transfers-4312951",
+      "BCS / Bank relevance": "Modern technology and banking vocabulary; useful in ICT and digital-economy answers.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "confessional",
+      "IPA": "/kənˈfeʃənəl/",
+      "Bangla phonetic": "কনফেশনাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "স্বীকারোক্তিমূলক; দোষ স্বীকারসংক্রান্ত",
+      "English definition": "Relating to a statement in which someone admits to something, especially a crime.",
+      "Synonyms": "admission; acknowledgement; declaration",
+      "Antonyms": "denial; retraction",
+      "Word family / derivatives": "confess; confession; confessed; confessing",
+      "Collocations / patterns": "confessional statement; confessional evidence; give a confessional statement",
+      "Original example": "The two accused gave confessional statements before a magistrate under Section 164.",
+      "Newspaper context note": "Used in the Alif murder report: two accused gave confessional statements under Section 164 of the Code of Criminal Procedure.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Five men took part in journalist Alif’s murder, Tajul fired the shot",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/crime-and-law/x98kjda3pn",
+      "BCS / Bank relevance": "Legal vocabulary for criminal procedure questions in BCS.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "mastermind",
+      "IPA": "/ˈmɑːstəmaɪnd/",
+      "Bangla phonetic": "মাস্টারমাইন্ড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "মূল পরিকল্পনাকারী; মূলহোতা",
+      "English definition": "The person who plans and directs a complicated or criminal activity.",
+      "Synonyms": "architect; planner; ringleader; brains",
+      "Antonyms": "follower; accomplice; subordinate",
+      "Word family / derivatives": "masterminded; masterminding",
+      "Collocations / patterns": "the mastermind behind; mastermind of a plot",
+      "Original example": "Police described Tajul Islam as the mastermind behind the journalist's murder.",
+      "Newspaper context note": "Used in the Alif murder report: Tajul Islam was described as the mastermind behind the murder.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Five men took part in journalist Alif’s murder, Tajul fired the shot",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/crime-and-law/x98kjda3pn",
+      "BCS / Bank relevance": "Useful crime and law vocabulary for comprehension and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "factionalism",
+      "IPA": "/ˈfækʃənəlɪzəm/",
+      "Bangla phonetic": "ফ্যাকশনালিজম",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "গোষ্ঠীদ্বন্দ্ব; দলীয় কোন্দল; উপদলীয় বিবাদ",
+      "English definition": "Conflict and division within a group or political party caused by rival factions.",
+      "Synonyms": "infighting; internal division; sectarianism; rivalry",
+      "Antonyms": "unity; solidarity; cohesion",
+      "Word family / derivatives": "faction; factional; factions",
+      "Collocations / patterns": "party factionalism; factionalism within; fuel factionalism",
+      "Original example": "Power politics was fuelling factionalism inside the major parties, sometimes with fatal results.",
+      "Newspaper context note": "Used in the TIB report: power politics was fuelling factionalism and internal conflicts within parties.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Political participation becoming a ‘power-centric business model’: Iftekharuzzaman",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/8r9ddyj7b0",
+      "BCS / Bank relevance": "Politics and governance vocabulary for BCS essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "transparency",
+      "IPA": "/trænsˈpærənsi/",
+      "Bangla phonetic": "ট্রান্সপারেন্সি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্বচ্ছতা; জবাবদিহির স্পষ্টতা",
+      "English definition": "Openness in the way an organisation or government operates, so that decisions can be seen and checked.",
+      "Synonyms": "openness; accountability; clarity; honesty",
+      "Antonyms": "secrecy; opacity; concealment",
+      "Word family / derivatives": "transparent; transparently; transparencies",
+      "Collocations / patterns": "greater transparency; lack of transparency; transparency in governance",
+      "Original example": "The minister stressed the need for greater transparency in future examinations.",
+      "Newspaper context note": "Used in the HSC report: the education minister stressed the need for greater transparency in future examinations.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "BCS / Bank relevance": "A core governance term in BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "multilateral",
+      "IPA": "/ˌmʌltiˈlætərəl/",
+      "Bangla phonetic": "মাল্টিল্যাটারাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বহুপক্ষীয়; বহু দেশের অংশগ্রহণে গঠিত",
+      "English definition": "Involving several different countries or organisations working together.",
+      "Synonyms": "international; multi-party; collective",
+      "Antonyms": "unilateral; bilateral",
+      "Word family / derivatives": "multilateralism; multilaterally",
+      "Collocations / patterns": "multilateral development partner; multilateral agreement; multilateral institution",
+      "Original example": "The World Bank is Bangladesh's largest multilateral development partner.",
+      "Newspaper context note": "Used in the World Bank report: the World Bank is Bangladesh's largest multilateral development partner.",
+      "Source publication": "The Daily Star",
+      "Article headline": "WB gives $450m to strengthen financial sector",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/wb-gives-450m-strengthen-financial-sector-4312151",
+      "BCS / Bank relevance": "Key international-affairs term for BCS foreign policy and economics questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "supervision",
+      "IPA": "/ˌsuːpəˈvɪʒn/",
+      "Bangla phonetic": "সুপারভিশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "তত্ত্বাবধান; নজরদারি; পরিচালনা",
+      "English definition": "The act of watching and directing work or an organisation to make sure it is done correctly.",
+      "Synonyms": "oversight; monitoring; control; management",
+      "Antonyms": "neglect; abandonment; laxity",
+      "Word family / derivatives": "supervise; supervised; supervisor; supervisory",
+      "Collocations / patterns": "banking supervision; under supervision; improve supervision",
+      "Original example": "The project will strengthen the financial sector's safety net and improve supervision of banks.",
+      "Newspaper context note": "Used in the World Bank report: the project aims to improve supervision and support banking sector reforms.",
+      "Source publication": "The Daily Star",
+      "Article headline": "WB gives $450m to strengthen financial sector",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/wb-gives-450m-strengthen-financial-sector-4312151",
+      "BCS / Bank relevance": "Banking regulation vocabulary for bank job exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "replenish",
+      "IPA": "/rɪˈplenɪʃ/",
+      "Bangla phonetic": "রিপ্লেনিশ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনরায় পূরণ করা; ঘাটতি মেটানো",
+      "English definition": "To fill something up again after it has been used or emptied.",
+      "Synonyms": "refill; restore; restock; top up",
+      "Antonyms": "deplete; drain; exhaust",
+      "Word family / derivatives": "replenished; replenishing; replenishment",
+      "Collocations / patterns": "replenish supplies; replenish funds; replenish stocks",
+      "Original example": "Binance said it had used company funds to replenish 90 percent of what was stolen.",
+      "Newspaper context note": "Used in the Binance report: the exchange used company funds to buy tokens to replenish 90 percent of what was stolen.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "FBI says North Korea behind USD 6b crypto theft from Binance",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/international/98vm0rsnc7",
+      "BCS / Bank relevance": "Formal verb for finance and economics; appears in synonym and sentence-completion questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "launder",
+      "IPA": "/ˈlɔːndə/",
+      "Bangla phonetic": "লন্ডার",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "(অবৈধ অর্থ) পাচার করা; কালো টাকা সাদা করা",
+      "English definition": "To move illegally obtained money through legitimate businesses or accounts to hide its origin.",
+      "Synonyms": "clean; channel; funnel; conceal",
+      "Antonyms": "expose; declare; disclose",
+      "Word family / derivatives": "laundering; laundered; money laundering",
+      "Collocations / patterns": "launder money; launder stolen assets; money laundering",
+      "Original example": "The hackers were expected to launder the stolen assets through decentralised finance services.",
+      "Newspaper context note": "Used in the FBI report: the TraderTraitor group was expected to launder stolen assets using decentralised finance and instant swap services.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "FBI says North Korea behind USD 6b crypto theft from Binance",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/international/98vm0rsnc7",
+      "BCS / Bank relevance": "Financial crime vocabulary for banking and governance questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "walkout",
+      "IPA": "/ˈwɔːkaʊt/",
+      "Bangla phonetic": "ওয়াকআউট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কর্মবিরতি; কাজ বন্ধ করে বেরিয়ে যাওয়া",
+      "English definition": "A strike in which workers leave their workplace in protest.",
+      "Synonyms": "strike; stoppage; protest; withdrawal",
+      "Antonyms": "return to work; resumption",
+      "Word family / derivatives": "walk out (verb); walked out; walking out",
+      "Collocations / patterns": "stage a walkout; workers' walkout; mass walkout",
+      "Original example": "Nearly a million workers joined the walkout across the garment industrial regions.",
+      "Newspaper context note": "Used in the BGMEA report: 987,190 workers left their workplaces in a mass walkout from 529 factories.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Labour relations vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "blockade",
+      "IPA": "/blɒˈkeɪd/",
+      "Bangla phonetic": "ব্লকেড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অবরোধ; পথরোধ; ঘেরাও",
+      "English definition": "The blocking of a road, port or area to stop people or goods from passing.",
+      "Synonyms": "obstruction; barrier; siege; closure",
+      "Antonyms": "opening; clearance; passage",
+      "Word family / derivatives": "blockade (verb); blockaded; blockading",
+      "Collocations / patterns": "road blockade; highway blockade; impose a blockade",
+      "Original example": "The protests triggered road blockades in Mirpur, Savar-Ashulia and Gazipur.",
+      "Newspaper context note": "Used in the garment protest reports: demonstrations triggered clashes with police, arson and highway blockades.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Government forms new wage board to increase garment workers’ salaries",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/mqkcrn132k",
+      "BCS / Bank relevance": "Common in current-affairs and law-and-order comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "shortfall",
+      "IPA": "/ˈʃɔːtfɔːl/",
+      "Bangla phonetic": "শর্টফল",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ঘাটতি; কমতি; প্রয়োজনীয় পরিমাণের অভাব",
+      "English definition": "An amount that is less than what is needed or expected.",
+      "Synonyms": "deficit; shortage; gap; deficiency",
+      "Antonyms": "surplus; excess; abundance",
+      "Word family / derivatives": "fall short (verb); shortfalls",
+      "Collocations / patterns": "funding shortfall; revenue shortfall; face a shortfall",
+      "Original example": "The garment sector faces a $4.8 billion shortfall in green investment for 2025-2029.",
+      "Newspaper context note": "Used in the green finance report: the RMG sector faces a $4.8 billion financing shortfall against a $6.6 billion need.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Garment sector faces $4.8b shortfall in green investment",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/garment-sector-faces-48b-shortfall-green-investment-4312181",
+      "BCS / Bank relevance": "Core economics vocabulary for budget, revenue and finance questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "exposure",
+      "IPA": "/ɪkˈspəʊʒə/",
+      "Bangla phonetic": "এক্সপোজার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংস্পর্শে আসা; ঝুঁকির সম্মুখীন হওয়া; উন্মুক্ত থাকা",
+      "English definition": "The state of being in a situation where something harmful or risky can affect you.",
+      "Synonyms": "contact; vulnerability; subjection; openness",
+      "Antonyms": "protection; shelter; immunity",
+      "Word family / derivatives": "expose; exposed; exposing",
+      "Collocations / patterns": "heat exposure; exposure to pollution; exposure to risk",
+      "Original example": "Heat exposure alone cost Bangladesh an estimated $17.5 billion in lost earnings in 2025.",
+      "Newspaper context note": "Used in the Lancet Countdown report: heat exposure caused an estimated $17.5 billion loss in potential earnings.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Climate change cost Bangladesh $17.5 billion in lost earnings in 2025: Lancet report",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966",
+      "BCS / Bank relevance": "Climate, health and finance vocabulary for BCS general knowledge.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bureaucratic",
+      "IPA": "/ˌbjʊərəˈkrætɪk/",
+      "Bangla phonetic": "বিউরোক্র্যাটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আমলাতান্ত্রিক; দাপ্তরিক জটিলতাপূর্ণ",
+      "English definition": "Relating to an administrative system with many rules and procedures, often causing delay.",
+      "Synonyms": "administrative; procedural; official; rule-bound",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "bureaucracy; bureaucrat; bureaucratically",
+      "Collocations / patterns": "bureaucratic delay; bureaucratic hurdles; bureaucratic procedure",
+      "Original example": "A single digital window could reduce bureaucratic delays for new investors.",
+      "Newspaper context note": "Used in reporting on the proposed overhaul of business approvals to describe delays created by administrative procedures.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful in governance, public administration, investment-climate essays and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "overhaul",
+      "IPA": "/ˌəʊvəˈhɔːl/",
+      "Bangla phonetic": "ওভারহল",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ব্যাপক সংস্কার; আমূল পুনর্গঠন করা",
+      "English definition": "A thorough examination and major improvement or restructuring of a system.",
+      "Synonyms": "revamp; reform; restructure; rework; renovate",
+      "Antonyms": "preserve; maintain; retain; leave unchanged",
+      "Word family / derivatives": "overhauled; overhauling; overhaul (noun/verb)",
+      "Collocations / patterns": "major overhaul; overhaul the system; regulatory overhaul",
+      "Original example": "The proposed overhaul of business approvals aims to reduce the time needed to start a company.",
+      "Newspaper context note": "The article describes a major overhaul of Bangladesh's investment-approval regime.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "A strong formal verb/noun for précis, policy writing and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "statutory",
+      "IPA": "/ˈstætʃətəri/",
+      "Bangla phonetic": "স্ট্যাচুটরি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আইননির্ধারিত; আইনগতভাবে বাধ্যতামূলক",
+      "English definition": "Required, created or regulated by law.",
+      "Synonyms": "legal; legislated; mandated; law-based",
+      "Antonyms": "unlawful; illegal; non-statutory",
+      "Word family / derivatives": "statute; statutorily; statutory",
+      "Collocations / patterns": "statutory requirement; statutory document; statutory obligation",
+      "Original example": "Investors must obtain the statutory documents required before a business can operate.",
+      "Newspaper context note": "The article says investors need 12 statutory documents and proposes simplifying the process for obtaining them.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "High-value legal and governance vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "prerequisite",
+      "IPA": "/ˌpriːˈrekwəzɪt/",
+      "Bangla phonetic": "প্রি-রেকুইজিট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্বশর্ত; আবশ্যিক শর্ত",
+      "English definition": "Something that must exist or be completed before something else can happen.",
+      "Synonyms": "precondition; requirement; prior condition; essential condition",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "requisite; prerequisite; prerequisites",
+      "Collocations / patterns": "essential prerequisite; prerequisite for; prerequisite to",
+      "Original example": "Reliable electricity is a prerequisite for expanding energy-intensive manufacturing.",
+      "Newspaper context note": "The business-approval article says the government plans to reduce the number of prerequisites for starting industrial operations.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful for sentence completion, formal writing and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "streamline",
+      "IPA": "/ˈstriːmlaɪn/",
+      "Bangla phonetic": "স্ট্রিমলাইন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রক্রিয়া সরল ও কার্যকর করা; সহজতর করা",
+      "English definition": "To make a process simpler, faster and more efficient.",
+      "Synonyms": "simplify; rationalise; optimise; improve",
+      "Antonyms": "complicate; obstruct; impede; hamper",
+      "Word family / derivatives": "streamlined; streamlining; streamline",
+      "Collocations / patterns": "streamline procedures; streamline operations; streamline approvals",
+      "Original example": "The authority plans to streamline approval procedures by processing applications in parallel.",
+      "Newspaper context note": "The article describes a proposed digital platform and parallel processing to streamline business approvals.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Very useful in essays and précis on public-service delivery, banking operations and reform.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "take to the streets",
+      "Type": "phrasal verb",
+      "Bangla meaning": "রাস্তায় নামা; আন্দোলনে নামা",
+      "English explanation": "To go out in public, usually to protest about something.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "Workers took to the streets in Mirpur, Gazipur and Savar-Ashulia demanding a higher wage.",
+      "Original example 2": "When the talks failed, the workers took to the streets to press their demands.",
+      "Common collocations / grammar pattern": "take to the streets to protest; take to the streets over (an issue)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Government forms new wage board to increase garment workers’ salaries",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/mqkcrn132k",
+      "Exam value": "Common phrasal verb in news and BCS idiom questions."
+    },
+    {
+      "Phrase": "come into effect",
+      "Type": "phrasal verb",
+      "Bangla meaning": "কার্যকর হওয়া",
+      "English explanation": "To start to apply; to become law or official.",
+      "Usage / register": "Formal / official",
+      "Original example 1": "Once the wages are determined, they will come into effect in December.",
+      "Original example 2": "The new wage structure will come into effect from next month.",
+      "Common collocations / grammar pattern": "come into effect in/from (a date)",
+      "Source publication": "The Daily Star",
+      "Article headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691",
+      "Exam value": "Standard official phrasal verb; appears in BCS phrase questions."
+    },
+    {
+      "Phrase": "walk out",
+      "Type": "phrasal verb",
+      "Bangla meaning": "কাজ বন্ধ করে বেরিয়ে যাওয়া; কর্মবিরতি করা",
+      "English explanation": "To leave work suddenly as a protest.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "Workers walked out of 276 factories in Gazipur and Mymensingh.",
+      "Original example 2": "The staff walked out after the talks broke down.",
+      "Common collocations / grammar pattern": "walk out of (a place); walk out over (an issue)",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "Exam value": "Labour-protest phrasal verb; useful in comprehension."
+    },
+    {
+      "Phrase": "hit a low",
+      "Type": "idiom / collocation",
+      "Bangla meaning": "সর্বনিম্নে পৌঁছানো",
+      "English explanation": "To fall to the lowest level.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "The pass rate hit a 22-year low of 51.62 percent.",
+      "Original example 2": "Exports hit a low before recovering in the second half of the year.",
+      "Common collocations / grammar pattern": "hit a low; hit a record low; hit a 22-year low",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "Exam value": "Common news collocation for data and trend questions."
+    },
+    {
+      "Phrase": "year-on-year",
+      "Type": "adverbial phrase",
+      "Bangla meaning": "বছর-বছর; আগের বছরের একই সময়ের তুলনায়",
+      "English explanation": "Compared with the same period in the previous year.",
+      "Usage / register": "Formal / economic",
+      "Original example 1": "Exports grew 6 percent year-on-year to $17 billion.",
+      "Original example 2": "Remittance rose 12.1 percent year-on-year in October.",
+      "Common collocations / grammar pattern": "up/down (a percent) year-on-year",
+      "Source publication": "The Daily Star",
+      "Article headline": "Exports from Bangladesh rise 6% to $17 billion in Jul-Oct",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/news/exports-bangladesh-rise-6-17-billion-jul-oct-4312806",
+      "Exam value": "Essential economics phrase for data interpretation."
+    },
+    {
+      "Phrase": "at the heart of",
+      "Type": "idiom",
+      "Bangla meaning": "কেন্দ্রবিন্দুতে; মূল বিষয় হিসেবে",
+      "English explanation": "At the centre of something; the most important part of it.",
+      "Usage / register": "Formal / rhetorical",
+      "Original example 1": "The report calls on governments to place health at the heart of climate action.",
+      "Original example 2": "Trust is at the heart of any successful banking system.",
+      "Common collocations / grammar pattern": "at the heart of (a debate/policy/action)",
+      "Source publication": "The Daily Star",
+      "Article headline": "Climate change cost Bangladesh $17.5 billion in lost earnings in 2025: Lancet report",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966",
+      "Exam value": "High-frequency idiom in editorials and precis."
+    },
+    {
+      "Phrase": "cast doubt on",
+      "Type": "phrasal verb",
+      "Bangla meaning": "সন্দেহ প্রকাশ করা; প্রশ্ন তোলা",
+      "English explanation": "To make people doubt whether something is true.",
+      "Usage / register": "Neutral / journalistic",
+      "Original example 1": "President Trump cast doubt on North Korea's involvement in the hack.",
+      "Original example 2": "The new evidence cast doubt on the earlier findings.",
+      "Common collocations / grammar pattern": "cast doubt on (a claim/report/finding)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "FBI says North Korea behind USD 6b crypto theft from Binance",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/international/98vm0rsnc7",
+      "Exam value": "Standard news phrasal verb; appears in BCS phrase questions."
+    },
+    {
+      "Phrase": "carry out",
+      "Type": "phrasal verb",
+      "Bangla meaning": "সম্পন্ন করা; বাস্তবায়ন করা",
+      "English explanation": "To do or complete a task, reform or investigation.",
+      "Usage / register": "Neutral / formal",
+      "Original example 1": "The governments requested more time to carry out major reforms in key sectors.",
+      "Original example 2": "The ministry will carry out an inspection of all factories.",
+      "Common collocations / grammar pattern": "carry out reforms/an inspection/a survey/a study",
+      "Source publication": "The Daily Star",
+      "Article headline": "CPD calls for phasing out export cash incentives before 2029",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/news/cpd-calls-phasing-out-export-cash-incentives-2029-4312646",
+      "Exam value": "One of the most common phrasal verbs in official English."
+    },
+    {
+      "Phrase": "set aside",
+      "Type": "phrasal verb",
+      "Bangla meaning": "আলাদা করে রাখা; সংরক্ষণ করা",
+      "English explanation": "To keep money or time available for a particular purpose.",
+      "Usage / register": "Neutral / formal",
+      "Original example 1": "Binance said it had set aside more than $6.34 billion in company funds.",
+      "Original example 2": "The government set aside funds for the relief programme.",
+      "Common collocations / grammar pattern": "set aside funds/money/time for (a purpose)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "FBI says North Korea behind USD 6b crypto theft from Binance",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/international/98vm0rsnc7",
+      "Exam value": "Common finance and administration phrasal verb."
+    },
+    {
+      "Phrase": "on behalf of",
+      "Type": "prepositional phrase",
+      "Bangla meaning": "পক্ষে; প্রতিনিধি হিসেবে",
+      "English explanation": "As the representative of someone, or in their interest.",
+      "Usage / register": "Formal / official",
+      "Original example 1": "The two officials signed the agreement on behalf of their respective sides.",
+      "Original example 2": "She spoke on behalf of the whole committee.",
+      "Common collocations / grammar pattern": "on behalf of (a person/organisation)",
+      "Source publication": "The Daily Star",
+      "Article headline": "WB gives $450m to strengthen financial sector",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/wb-gives-450m-strengthen-financial-sector-4312151",
+      "Exam value": "Standard formal phrase for official and legal English."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'disruption' most nearly means:",
+      "options": {
+        "A": "An interruption that stops normal activity",
+        "B": "A sudden rise in prices",
+        "C": "A formal agreement",
+        "D": "A type of bank loan"
+      },
+      "correct": "A",
+      "explanation": "Disruption is a disturbance that interrupts the normal progress of an activity.",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "The word 'grievance' most nearly means:",
+      "options": {
+        "A": "A legal punishment",
+        "B": "A reason to complain about unfair treatment",
+        "C": "A public celebration",
+        "D": "A travel document"
+      },
+      "correct": "B",
+      "explanation": "A grievance is a real or imagined cause for complaint, especially about unfair treatment.",
+      "source": "CA01"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'reinstatement' most nearly means:",
+      "options": {
+        "A": "Giving someone back a job they lost",
+        "B": "Dismissing a worker permanently",
+        "C": "Raising a salary",
+        "D": "Closing a factory"
+      },
+      "correct": "A",
+      "explanation": "Reinstatement is the act of giving someone back a job or position they had lost.",
+      "source": "CA01"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "The word 'scrutiny' most nearly means:",
+      "options": {
+        "A": "Careful and thorough examination",
+        "B": "A secret meeting",
+        "C": "A public speech",
+        "D": "A quick look"
+      },
+      "correct": "A",
+      "explanation": "Scrutiny is careful and thorough examination of something.",
+      "source": "CA02"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'deterioration' most nearly means:",
+      "options": {
+        "A": "A sudden improvement",
+        "B": "A formal ceremony",
+        "C": "A change of plan",
+        "D": "A process of becoming progressively worse"
+      },
+      "correct": "D",
+      "explanation": "Deterioration is the process of becoming progressively worse.",
+      "source": "CA02"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "The word 'incentive' most nearly means:",
+      "options": {
+        "A": "A type of tax",
+        "B": "A loan document",
+        "C": "A payment or benefit that encourages action",
+        "D": "A punishment for breaking rules"
+      },
+      "correct": "C",
+      "explanation": "An incentive is something, such as a payment or benefit, that encourages a person or organisation to act.",
+      "source": "CA07"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "In the LDC context, 'graduation' most nearly means:",
+      "options": {
+        "A": "Closing a factory",
+        "B": "Moving from the least developed countries category to a higher status",
+        "C": "Joining a university",
+        "D": "Failing an examination"
+      },
+      "correct": "B",
+      "explanation": "Graduation here means moving from one stage or category — the LDC list — to a higher one.",
+      "source": "CA09"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "The word 'interoperable' most nearly means:",
+      "options": {
+        "A": "Able to work together across different systems",
+        "B": "Working only on one device",
+        "C": "Available only online",
+        "D": "Requiring cash payment"
+      },
+      "correct": "A",
+      "explanation": "Interoperable means able to work together across different systems, devices or organisations.",
+      "source": "CA08"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "The word 'confessional' most nearly means:",
+      "options": {
+        "A": "Relating to a journey",
+        "B": "Relating to a celebration",
+        "C": "Relating to an admission, especially of a crime",
+        "D": "Relating to a denial"
+      },
+      "correct": "C",
+      "explanation": "Confessional relates to a statement in which someone admits to something, especially a crime.",
+      "source": "CA12"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "The word 'mastermind' most nearly means:",
+      "options": {
+        "A": "A witness in court",
+        "B": "A person who follows orders",
+        "C": "The person who plans and directs a criminal activity",
+        "D": "A police officer"
+      },
+      "correct": "C",
+      "explanation": "A mastermind is the person who plans and directs a complicated or criminal activity.",
+      "source": "CA12"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "The phrase 'take to the streets' means:",
+      "options": {
+        "A": "To clean the roads",
+        "B": "To travel abroad",
+        "C": "To open a shop",
+        "D": "To go out in public to protest"
+      },
+      "correct": "D",
+      "explanation": "To take to the streets is to go out in public, usually to protest about something.",
+      "source": "CA01"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "The phrase 'cast doubt on' means:",
+      "options": {
+        "A": "To prove something true",
+        "B": "To announce a decision",
+        "C": "To express suspicion about something",
+        "D": "To hide evidence"
+      },
+      "correct": "C",
+      "explanation": "To cast doubt on something is to make people doubt whether it is true.",
+      "source": "CA14"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "According to BGMEA, how many garment factories were disrupted by the wage protests on 1 November 2026?",
+      "options": {
+        "A": "836",
+        "B": "987",
+        "C": "529",
+        "D": "177"
+      },
+      "correct": "C",
+      "explanation": "BGMEA reported disruptions at 529 factories; 177 factories were shut in Savar and Ashulia, and 987,190 workers walked out.",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "Who chairs the six-member wage board formed on 1 November 2026 for garment workers?",
+      "options": {
+        "A": "Ariful Haque Choudhury",
+        "B": "Babul Akhter",
+        "C": "Sheikh Ashfaqur Rahman",
+        "D": "ABM Shamsuddin"
+      },
+      "correct": "C",
+      "explanation": "Senior District and Sessions Judge Sheikh Ashfaqur Rahman chairs the six-member wage board.",
+      "source": "CA01"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "What was the HSC pass rate in 2026?",
+      "options": {
+        "A": "49.43 percent",
+        "B": "61.07 percent",
+        "C": "57.12 percent",
+        "D": "51.62 percent"
+      },
+      "correct": "D",
+      "explanation": "The HSC pass rate fell to 51.62 percent, a 22-year low; 57.12 percent was last year's rate, 61.07 percent was the Alim rate and 49.43 percent the technical rate.",
+      "source": "CA02"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "How many students secured GPA-5 in the HSC examinations in 2026?",
+      "options": {
+        "A": "63,219",
+        "B": "35,948",
+        "C": "27,271",
+        "D": "51,620"
+      },
+      "correct": "B",
+      "explanation": "A total of 35,948 students secured GPA-5, down by 27,271 from 63,219 last year.",
+      "source": "CA02"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "How much did Bangladesh export in July-October 2026?",
+      "options": {
+        "A": "$6 billion",
+        "B": "$17 billion",
+        "C": "$7.71 billion",
+        "D": "$15 billion"
+      },
+      "correct": "B",
+      "explanation": "Exports grew 6 percent year-on-year to $17 billion in July-October; $7.71 billion was knitwear alone and $6 billion was woven garments.",
+      "source": "CA03"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "How much World Bank financing did Bangladesh sign for the financial sector on 30 October 2026?",
+      "options": {
+        "A": "$17.5 billion",
+        "B": "$450 million",
+        "C": "$6.6 billion",
+        "D": "$300 million"
+      },
+      "correct": "B",
+      "explanation": "Bangladesh signed a $450 million World Bank agreement (328 million SDR) under the Financial Sector Support Project II.",
+      "source": "CA04"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "How much remittance arrived in Bangladesh in October 2026?",
+      "options": {
+        "A": "$2.50 billion",
+        "B": "$3.10 billion",
+        "C": "$11.465 billion",
+        "D": "$2.87 billion"
+      },
+      "correct": "D",
+      "explanation": "October remittance was $2.87 billion, up 12.1 percent year-on-year; $11.465 billion was the July-October total.",
+      "source": "CA05"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "The pending amendment for Bangladesh Bank autonomy concerns which law?",
+      "options": {
+        "A": "Financial Institutions Act 1993",
+        "B": "Banking Companies Act 1991",
+        "C": "Companies Act 1994",
+        "D": "Bangladesh Bank Order 1972"
+      },
+      "correct": "D",
+      "explanation": "A draft amendment to the Bangladesh Bank Order 1972, prepared under former governor Ahsan H Mansur, remains pending.",
+      "source": "CA06"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "By when does CPD want export cash incentives phased out?",
+      "options": {
+        "A": "Before November 2029",
+        "B": "By 2031",
+        "C": "Before November 2026",
+        "D": "By 2027"
+      },
+      "correct": "A",
+      "explanation": "CPD urged the government to phase out export cash incentives and other LDC-only benefits before November 2029, when Bangladesh graduates from the LDC category.",
+      "source": "CA07"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "What do person-to-person transfers through Bangla QR let users do?",
+      "options": {
+        "A": "Pay taxes online",
+        "B": "Send money by scanning a QR code without typing an account number",
+        "C": "Withdraw cash without a card",
+        "D": "Open a bank account"
+      },
+      "correct": "B",
+      "explanation": "P2P Bangla QR lets a person send money to another individual simply by scanning that person's QR code.",
+      "source": "CA08"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "When is Bangladesh now scheduled to graduate from the LDC category?",
+      "options": {
+        "A": "24 November 2029",
+        "B": "24 November 2026",
+        "C": "24 November 2027",
+        "D": "24 November 2031"
+      },
+      "correct": "A",
+      "explanation": "The UN General Assembly extended the preparatory period to 24 November 2029, from 24 November 2026.",
+      "source": "CA09"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "How much did heat exposure cost Bangladesh in lost earnings in 2025, according to the Lancet Countdown report?",
+      "options": {
+        "A": "$17.5 billion",
+        "B": "$450 million",
+        "C": "$6.6 billion",
+        "D": "$3.8 billion"
+      },
+      "correct": "A",
+      "explanation": "Heat exposure alone caused an estimated $17.5 billion loss in potential earnings in 2025; $3.8 billion was the annual cost of heat deaths among over-65s.",
+      "source": "CA10"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "Which US Navy vessel arrived in Chattogram for the CARAT-2026 exercise?",
+      "options": {
+        "A": "USS Abraham Lincoln",
+        "B": "USS Nimitz",
+        "C": "USS Enterprise",
+        "D": "USS Warrior"
+      },
+      "correct": "D",
+      "explanation": "The 68-metre USS Warrior arrived at Chattogram Port on 1 November for CARAT-2026, led by Lieutenant Commander Mary Senoyuit.",
+      "source": "CA13"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Government forms new wage board to increase garment workers’ salaries",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/mqkcrn132k"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "HSC result 2026: Worst performance in 22 years",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://en.prothomalo.com/youth/education/ht1u40gv59"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Alim, technical pass rates hit 2-decade lows",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/education/news/alim-technical-pass-rates-hit-2-decade-lows-4312446"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Exports from Bangladesh rise 6% to $17 billion in Jul-Oct",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/news/exports-bangladesh-rise-6-17-billion-jul-oct-4312806"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "WB gives $450m to strengthen financial sector",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/wb-gives-450m-strengthen-financial-sector-4312151"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Remittance inflow stays below $3 billion for fifth straight month",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/news/remittance-inflow-stays-below-3-billion-fifth-straight-month-4312796"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BB autonomy remains elusive amid IMF reform demands",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/bb-autonomy-remains-elusive-amid-imf-reform-demands-4312146"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "CPD calls for phasing out export cash incentives before 2029",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/news/cpd-calls-phasing-out-export-cash-incentives-2029-4312646"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangla QR now allows person-to-person transfers",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangla-qr-now-allows-person-person-transfers-4312951"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "LDC graduation: Bangladesh sets reform targets for EU, UN to watch",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Climate change cost Bangladesh $17.5 billion in lost earnings in 2025: Lancet report",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Garment sector faces $4.8b shortfall in green investment",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/garment-sector-faces-48b-shortfall-green-investment-4312181"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Five men took part in journalist Alif’s murder, Tajul fired the shot",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/crime-and-law/x98kjda3pn"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "US Navy vessel arrives in Chattogram for CARAT-2026 joint exercise",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/us-navy-vessel-arrives-chattogram-carat-2026-joint-exercise-1589756"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "FBI says North Korea behind USD 6b crypto theft from Binance",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://en.prothomalo.com/international/98vm0rsnc7"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Binance says it has covered $6 billion of $6.3 billion stolen in hack",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/technology/news/binance-says-it-has-covered-6-billion-63-billion-stolen-hack-4312526"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Political participation becoming a ‘power-centric business model’: Iftekharuzzaman",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/8r9ddyj7b0"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Parties run on power-centric business model: TIB",
+      "Publication date": "2026-11-01",
+      "Direct URL": "https://www.thedailystar.net/news/politics/political-parties/news/parties-run-power-centric-business-model-tib-4312921"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled from newspaper archives (Daily Star sitemap + Prothom Alo daily sitemap + Bing News RSS, all date-verified). Revision words filled from the earliest existing edition (7 Nov 2026), since no earlier edition exists.",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}

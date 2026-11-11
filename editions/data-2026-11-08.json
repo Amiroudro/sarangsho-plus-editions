@@ -1,0 +1,2198 @@
+{
+  "edition_date": "2026-11-08",
+  "edition_day": "Sunday",
+  "coverage": "7 Nov 2026, 7:47 AM to 2026-11-08, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "World Bank approves $300 million to improve Bangladesh's primary education",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "article_date": "2026-11-07",
+      "summary": "The World Bank's Board approved $300 million on 6 November to improve learning for 26 million children from pre-primary to grade 5 in Bangladesh. The Learning Enhancement and Acceleration in Primary Education Program will support the government's Fifth Primary Education Development Program, focusing on reading, writing and mathematics. The IDA financing has a 25-year term, including a five-year grace period.",
+      "why_it_matters": "Primary education quality is a core BCS/Bank topic: it links public spending, human capital and Bangladesh's development goals, and the figures are directly askable.",
+      "exam_facts": "Programme: Learning Enhancement and Acceleration in Primary Education (LEAP); supports PEDP-5; funder: International Development Association (IDA); $300 million; 26 million children; 25-year term, five-year grace.",
+      "exam_relevance": "High — World Bank, education financing, PEDP.",
+      "key_people": "Jean Pesme, World Bank Division Director for Bangladesh and Bhutan.",
+      "figures": "$300 million; 26 million children (pre-primary to grade 5); 25-year term, five-year grace period.",
+      "sources": [
+        {
+          "publication": "World Bank",
+          "headline": "World Bank Group Helps Improve Pre-primary and Primary Education in Bangladesh",
+          "date": "2026-11-06",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/11/06/world-bank-group-helps-improve-pre-primary-and-primary-education-in-bangladesh"
+        },
+        {
+          "publication": "The Business Standard",
+          "headline": "World Bank approves $300m to improve learning for 2.6 crore Bangladeshi children",
+          "date": "2026-11-07",
+          "url": "https://www.tbsnews.net/bangladesh/education/world-bank-approves-300m-improve-learning-26-crore-bangladeshi-children-1595296"
+        }
+      ],
+      "one_liner": "The World Bank's Board approved $300 million on 6 November to improve learning for 26 million children from pre-primary to…",
+      "key_facts": [
+        {
+          "label": "pre-primary to grade 5",
+          "value": "26 million children",
+          "original": "26 million children (pre-primary to grade 5)"
+        },
+        {
+          "label": "year term, five-year grace period",
+          "value": "25",
+          "original": "25-year term, five-year grace period"
+        },
+        {
+          "label": "LEAP",
+          "value": "Programme: Learning Enhancement and Acceleration in Primary Education",
+          "original": "Programme: Learning Enhancement and Acceleration in Primary Education (LEAP)"
+        },
+        {
+          "label": "supports PEDP",
+          "value": "5",
+          "original": "supports PEDP-5"
+        }
+      ],
+      "what_happened": [
+        "The Learning Enhancement and Acceleration in Primary Education Program will support the government's Fifth Primary Education Development Program, focusing on reading, writing and mathematics.",
+        "The IDA financing has a 25-year term, including a five-year grace period."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is LEAP?",
+          "a": "Programme: Learning Enhancement and Acceleration in Primary Education"
+        },
+        {
+          "q": "What is supports PEDP?",
+          "a": "5"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The World Bank's Board approved $300 million on ______ to improve learning for 26 million children from pre-primary to grade 5 in Bangladesh.",
+          "answer": "6 November"
+        },
+        {
+          "cloze": "The IDA financing has a ______-year term, including a five-year grace period.",
+          "answer": "25"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "world",
+        "bank",
+        "approves",
+        "million",
+        "improve",
+        "bangladesh",
+        "primary",
+        "education"
+      ],
+      "detail": "The World Bank's Board approved $300 million on 6 November to improve learning for 26 million children from pre-primary to grade 5 in Bangladesh. The Learning Enhancement and Acceleration in Primary Education Program will support the government's Fifth Primary Education Development Program, focusing on reading, writing and mathematics. The IDA financing has a 25-year term, including a five-year grace period."
+    },
+    {
+      "id": "CA02",
+      "headline": "Why has growth of transactions through Bangla QR stalled?",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "Bangladesh Bank's Bangla QR initiative, launched to cut cash use, has stalled. Daily transactions were Tk 2-3 billion in the last two weeks of May, rose to Tk 13.5 billion in the first week of October, then fell to Tk 11.9 billion by the last week of October. Bangladesh Bank has set targets for banks, and peer-to-peer Bangla QR payments began this month, but industry insiders see no immediate growth without new initiatives.",
+      "why_it_matters": "Digital payments and Bangladesh Bank policy are recurring BCS/Bank topics; the figures show how to read a trend, not just a headline.",
+      "exam_facts": "Bangla QR is Bangladesh Bank's interoperable QR payment system for reducing cash use; peer-to-peer service began in November 2026.",
+      "exam_relevance": "High — banking, digital payments, Bangladesh Bank.",
+      "key_people": "",
+      "figures": "Tk 2-3 billion/day (late May); Tk 13.5 billion/day (first week of October); Tk 11.9 billion/day (last week of October).",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Why has growth of transactions through Bangla QR stalled?",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/business/local/hfphch3gp4"
+        }
+      ],
+      "one_liner": "Bangladesh Bank's Bangla QR initiative, launched to cut cash use, has stalled.",
+      "key_facts": [
+        {
+          "label": "late May",
+          "value": "Tk 2-3 billion/day",
+          "original": "Tk 2-3 billion/day (late May)"
+        },
+        {
+          "label": "first week of October",
+          "value": "Tk 13.5 billion/day",
+          "original": "Tk 13.5 billion/day (first week of October)"
+        },
+        {
+          "label": "last week of October",
+          "value": "Tk 11.9 billion/day",
+          "original": "Tk 11.9 billion/day (last week of October)"
+        },
+        {
+          "label": "",
+          "value": "peer-to-peer service began in November 2026",
+          "original": "peer-to-peer service began in November 2026"
+        }
+      ],
+      "what_happened": [
+        "Daily transactions were Tk 2-3 billion in the last two weeks of May, rose to Tk 13.5 billion in the first week of October,",
+        "then fell to Tk 11.9 billion by the last week of October.",
+        "Bangladesh Bank has set targets for banks, and peer-to-peer Bangla QR payments began this month, but industry insiders see no immediate growth without new initiatives."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Bangla QR?",
+          "a": "is Bangladesh Bank's interoperable QR payment system for reducing cash use"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Daily transactions were Tk ______ billion in the last two weeks of May, rose to Tk 13.5 billion in the first week of October, then fell to Tk 11.9 billion by the last week of October.",
+          "answer": "2-3"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "growth",
+        "transactions",
+        "bangla",
+        "stalled"
+      ],
+      "detail": "Bangladesh Bank's Bangla QR initiative, launched to cut cash use, has stalled. Daily transactions were Tk 2-3 billion in the last two weeks of May, rose to Tk 13.5 billion in the first week of October, then fell to Tk 11.9 billion by the last week of October. Bangladesh Bank has set targets for banks, and peer-to-peer Bangla QR payments began this month, but industry insiders see no immediate growth without new initiatives."
+    },
+    {
+      "id": "CA03",
+      "headline": "Rabindranath Tagore's mural defaced in Bangladesh",
+      "category": "Bangladesh",
+      "event_date": "2026-11-06",
+      "article_date": "2026-11-07",
+      "summary": "A mural of Nobel laureate Rabindranath Tagore on the boundary wall of Khulna Railway Station was defaced with black ink by unidentified persons, local media reported on 7 November. Murals of Lalon, S M Sultan, Kazi Nazrul Islam, Khaleda Zia, Ziaur Rahman and Michael Madhusudan Dutta on the same wall were untouched. Two anti-Tagore and anti-India posters were found beside it. Police learnt of it on Friday afternoon and are investigating.",
+      "why_it_matters": "Cultural heritage, law and order, and Bangladesh-India sentiment in one story; Tagore's link to the national anthem makes it exam-relevant.",
+      "exam_facts": "Tagore wrote 'Amar Sonar Bangla', Bangladesh's national anthem; Khulna City Corporation commissioned the murals ahead of PM Tarique Rahman's visit to Khulna; a Tagore mural was also defaced in Dhaka in October.",
+      "exam_relevance": "Medium — culture, heritage, national anthem.",
+      "key_people": "Lokman Hossain, Officer-in-Charge, Khulna Sadar Police Station.",
+      "figures": "Damage noticed Friday morning, 6 November 2026; second such incident after Dhaka in October 2026.",
+      "sources": [
+        {
+          "publication": "Deccan Herald",
+          "headline": "Rabindranath Tagore's mural defaced in Bangladesh",
+          "date": "2026-11-07",
+          "url": "https://www.deccanherald.com/world/rest-of-world/rabindranath-tagores-mural-defaced-in-bangladesh-4211068"
+        },
+        {
+          "publication": "The Week",
+          "headline": "Rabindranath Tagore's mural defaced in Bangladesh",
+          "date": "2026-11-07",
+          "url": "https://www.theweek.in/wire-updates/international/2026/11/07/rabindranath-tagore-s-mural-defaced-in-bangladesh.html"
+        }
+      ],
+      "one_liner": "A mural of Nobel laureate Rabindranath Tagore on the boundary wall of Khulna Railway Station was defaced with black ink…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Damage noticed Friday morning, 6 November 2026",
+          "original": "Damage noticed Friday morning, 6 November 2026"
+        },
+        {
+          "label": "",
+          "value": "second such incident after Dhaka in October 2026",
+          "original": "second such incident after Dhaka in October 2026"
+        },
+        {
+          "label": "",
+          "value": "Tagore wrote 'Amar Sonar Bangla', Bangladesh's national anthem",
+          "original": "Tagore wrote 'Amar Sonar Bangla', Bangladesh's national anthem"
+        }
+      ],
+      "what_happened": [
+        "Murals of Lalon, S M Sultan, Kazi Nazrul Islam, Khaleda Zia, Ziaur Rahman and Michael Madhusudan Dutta on the same wall were untouched.",
+        "Two anti-Tagore and anti-India posters were found beside it.",
+        "Police learnt of it on Friday afternoon and are investigating."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "A mural of Nobel laureate Rabindranath Tagore on the boundary wall of Khulna Railway Station was defaced with black ink by unidentified persons, local media reported on ______.",
+          "answer": "7 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "rabindranath",
+        "tagore",
+        "mural",
+        "defaced"
+      ],
+      "detail": "A mural of Nobel laureate Rabindranath Tagore on the boundary wall of Khulna Railway Station was defaced with black ink by unidentified persons, local media reported on 7 November. Murals of Lalon, S M Sultan, Kazi Nazrul Islam, Khaleda Zia, Ziaur Rahman and Michael Madhusudan Dutta on the same wall were untouched. Two anti-Tagore and anti-India posters were found beside it. Police learnt of it on Friday afternoon and are investigating."
+    },
+    {
+      "id": "CA04",
+      "headline": "35 senior govt officials to travel to Pakistan for training",
+      "category": "Bangladesh",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "Thirty-five senior government officials — five additional secretaries and 30 joint secretaries — will travel to Pakistan for 14 days of training at the National School of Public Policy in Lahore, from 9 to 22 November. The Ministry of Public Administration issued the government order last Wednesday. It is the second phase: in May, 12 officials trained at the Civil Services Academy in Lahore from 4 to 21 May.",
+      "why_it_matters": "Civil-service training and Bangladesh-Pakistan official contact are directly relevant to BCS candidates, who are the officials of tomorrow.",
+      "exam_facts": "Second phase of training in Pakistan; first phase: 12 officials (1 additional secretary, 11 joint secretaries), Civil Services Academy, Lahore, 4-21 May 2026.",
+      "exam_relevance": "High — public administration, BCS, foreign relations.",
+      "key_people": "",
+      "figures": "35 officials (5 additional secretaries, 30 joint secretaries); 14 days; 9-22 November 2026; first phase: 12 officials, 4-21 May 2026.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "35 senior govt officials to travel to Pakistan for training",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/ae3fwsicla"
+        }
+      ],
+      "one_liner": "Thirty-five senior government officials — five additional secretaries and 30 joint secretaries — will travel to Pakistan for 14 days…",
+      "key_facts": [
+        {
+          "label": "5 additional secretaries, 30 joint secretaries",
+          "value": "35 officials",
+          "original": "35 officials (5 additional secretaries, 30 joint secretaries)"
+        },
+        {
+          "label": "",
+          "value": "9-22 November 2026",
+          "original": "9-22 November 2026"
+        },
+        {
+          "label": "first phase",
+          "value": "12 officials, 4-21 May 2026",
+          "original": "first phase: 12 officials, 4-21 May 2026"
+        },
+        {
+          "label": "",
+          "value": "Second phase of training in Pakistan",
+          "original": "Second phase of training in Pakistan"
+        }
+      ],
+      "what_happened": [
+        "The Ministry of Public Administration issued the government order last Wednesday.",
+        "It is the second phase: in May, 12 officials trained at the Civil Services Academy in Lahore from 4 to 21 May."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is first phase?",
+          "a": "12 officials, 4-21 May 2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Thirty-five senior government officials — five additional secretaries and 30 joint secretaries — will travel to Pakistan for 14 days of training at the National School of Public Policy in Lahore, from 9 to ______.",
+          "answer": "22 November"
+        },
+        {
+          "cloze": "It is the second phase: in May, 12 officials trained at the Civil Services Academy in Lahore from 4 to ______.",
+          "answer": "21 May"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "senior",
+        "govt",
+        "officials",
+        "travel",
+        "pakistan",
+        "training"
+      ],
+      "detail": "Thirty-five senior government officials — five additional secretaries and 30 joint secretaries — will travel to Pakistan for 14 days of training at the National School of Public Policy in Lahore, from 9 to 22 November. The Ministry of Public Administration issued the government order last Wednesday. It is the second phase: in May, 12 officials trained at the Civil Services Academy in Lahore from 4 to 21 May."
+    },
+    {
+      "id": "CA05",
+      "headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "BUET has announced its undergraduate admission test for the 2026-27 session will be held on 16 January 2027, with applications expected to open on 21 November 2026. Following Dhaka University, BUET will hold the test as originally scheduled. In 2025-26 there was no preliminary screening test; candidates were selected only through a written examination. The notice does not say whether that system will continue this year.",
+      "why_it_matters": "Admission dates are the most practical exam information for candidates, and BUET/DU admission policy is itself a frequent GK item.",
+      "exam_facts": "BUET admission test 2026-27: 16 January 2027; applications open 21 November 2026; 2025-26 had no preliminary screening test.",
+      "exam_relevance": "High — education, admissions.",
+      "key_people": "",
+      "figures": "Test: 16 January 2027; applications open: 21 November 2026.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/youth/education/n2vti9k72r"
+        }
+      ],
+      "one_liner": "BUET has announced its undergraduate admission test for the 2026-27 session will be held on 16 January 2027, with applications…",
+      "key_facts": [
+        {
+          "label": "Test",
+          "value": "16 January 2027",
+          "original": "Test: 16 January 2027"
+        },
+        {
+          "label": "applications open",
+          "value": "21 November 2026",
+          "original": "applications open: 21 November 2026"
+        },
+        {
+          "label": "BUET admission test 2026-27",
+          "value": "16 January 2027",
+          "original": "BUET admission test 2026-27: 16 January 2027"
+        },
+        {
+          "label": "had no preliminary screening test",
+          "value": "2025-26",
+          "original": "2025-26 had no preliminary screening test"
+        }
+      ],
+      "what_happened": [
+        "Following Dhaka University, BUET will hold the test as originally scheduled.",
+        "In 2025-26 there was no preliminary screening test; candidates were selected only through a written examination.",
+        "The notice does not say whether that system will continue this year."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Test?",
+          "a": "16 January 2027"
+        },
+        {
+          "q": "What is applications open?",
+          "a": "21 November 2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "BUET has announced its undergraduate admission test for the 2026-27 session will be held on ______, with applications expected to open on 21 November 2026.",
+          "answer": "16 January 2027"
+        },
+        {
+          "cloze": "In ______ there was no preliminary screening test; candidates were selected only through a written examination.",
+          "answer": "2025-26"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "buet",
+        "follows",
+        "dhaka",
+        "university",
+        "keeps",
+        "admission",
+        "test",
+        "schedule"
+      ],
+      "detail": "BUET has announced its undergraduate admission test for the 2026-27 session will be held on 16 January 2027, with applications expected to open on 21 November 2026. Following Dhaka University, BUET will hold the test as originally scheduled. In 2025-26 there was no preliminary screening test; candidates were selected only through a written examination. The notice does not say whether that system will continue this year."
+    },
+    {
+      "id": "CA06",
+      "headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "category": "World",
+      "event_date": "2026-11-06",
+      "article_date": "2026-11-07",
+      "summary": "Self-proclaimed Kenyan pastor Paul Mackenzie was sentenced to 200 years in prison on 6 November for the murder of 190 children and one adult in the Shakahola starvation cult. He was convicted last month of murdering 191 people between January 2021 and September 2023, alongside 28 co-accused. Hundreds of bodies have been found since 2023 at the sect's base near Malindi. The court gave 100 years for homicide and 100 for starvation charges.",
+      "why_it_matters": "A major international justice story with precise figures — the kind of world current-affairs item BCS asks about — and a source of strong vocabulary.",
+      "exam_facts": "Shakahola Forest Massacre, near Malindi, Kenya; Mackenzie, a former taxi driver, told followers to starve themselves to 'meet Jesus'.",
+      "exam_relevance": "Medium — international affairs, justice.",
+      "key_people": "Paul Mackenzie, self-proclaimed pastor; Mombasa Law Courts, Kenya.",
+      "figures": "200 years (100 homicide + 100 starvation); 191 murdered (190 children, 1 adult); 28 co-accused; bodies found since 2023.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/international/africa/hnx8yc8dgp"
+        }
+      ],
+      "one_liner": "Self-proclaimed Kenyan pastor Paul Mackenzie was sentenced to 200 years in prison on 6 November for the murder of 190…",
+      "key_facts": [
+        {
+          "label": "100 homicide + 100 starvation",
+          "value": "200 years",
+          "original": "200 years (100 homicide + 100 starvation)"
+        },
+        {
+          "label": "190 children, 1 adult",
+          "value": "191 murdered",
+          "original": "191 murdered (190 children, 1 adult)"
+        },
+        {
+          "label": "",
+          "value": "bodies found since 2023",
+          "original": "bodies found since 2023"
+        },
+        {
+          "label": "",
+          "value": "Shakahola Forest Massacre, near Malindi, Kenya",
+          "original": "Shakahola Forest Massacre, near Malindi, Kenya"
+        }
+      ],
+      "what_happened": [
+        "He was convicted last month of murdering 191 people between January 2021 and September 2023, alongside 28 co-accused.",
+        "Hundreds of bodies have been found since 2023 at the sect's base near Malindi.",
+        "The court gave 100 years for homicide and 100 for starvation charges."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Self-proclaimed Kenyan pastor Paul Mackenzie was sentenced to 200 years in prison on ______ for the murder of 190 children and one adult in the Shakahola starvation cult.",
+          "answer": "6 November"
+        },
+        {
+          "cloze": "He was convicted last month of murdering 191 people between ______21 and September 2023, alongside 28 co-accused.",
+          "answer": "January 20"
+        }
+      ],
+      "keywords": [
+        "world",
+        "kenyan",
+        "starvation",
+        "cult",
+        "leader",
+        "sentenced",
+        "years",
+        "child",
+        "murders"
+      ],
+      "detail": "Self-proclaimed Kenyan pastor Paul Mackenzie was sentenced to 200 years in prison on 6 November for the murder of 190 children and one adult in the Shakahola starvation cult. He was convicted last month of murdering 191 people between January 2021 and September 2023, alongside 28 co-accused. Hundreds of bodies have been found since 2023 at the sect's base near Malindi. The court gave 100 years for homicide and 100 for starvation charges."
+    },
+    {
+      "id": "CA07",
+      "headline": "PM leads 7 November procession, warns conspirators of a crushing response",
+      "category": "Politics",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "Prime Minister and BNP Chairman Tarique Rahman joined the BNP's sovereignty procession from Naya Paltan on 7 November, walking at the front towards Manik Mia Avenue to mark National Revolution and Solidarity Day. Speaking briefly outside the party's central office, he alleged conspiracies were being hatched again and warned of a 'crushing response', as on 7 November 1975, saying no conspiracy could suppress the pro-democracy people.",
+      "why_it_matters": "The main political event of 7 November itself — the PM's first 7 November as prime minister — and a direct quote that may be asked about.",
+      "exam_facts": "7 November is observed as National Revolution and Solidarity Day, marking the 1975 civil-military uprising; the PM cited 1971, 1990 and 7 November 1975.",
+      "exam_relevance": "High — politics, 7 November history.",
+      "key_people": "Tarique Rahman, Prime Minister and BNP Chairman.",
+      "figures": "Procession began about 3:00 pm, 7 November 2026; route: Naya Paltan, past the Chief Justice's residence and InterContinental Hotel, through Banglamotor and Farmgate to Manik Mia Avenue.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Prime Minister Tarique Rahman joins BNP procession from Naya Paltan",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/politics/c4zksppf43"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "'The people of this country cannot be suppressed through conspiracies': PM",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/politics/4bi3ggory7"
+        }
+      ],
+      "one_liner": "Prime Minister and BNP Chairman Tarique Rahman joined the BNP's sovereignty procession from Naya Paltan on 7 November, walking at…",
+      "key_facts": [
+        {
+          "label": "Procession began about 3",
+          "value": "00 pm, 7 November 2026",
+          "original": "Procession began about 3:00 pm, 7 November 2026"
+        },
+        {
+          "label": "route",
+          "value": "Naya Paltan, past the Chief Justice's residence and InterContinental Hotel, through Banglamotor and Farmgate to Manik Mia Avenue",
+          "original": "route: Naya Paltan, past the Chief Justice's residence and InterContinental Hotel, through Banglamotor and Farmgate to Manik Mia Avenue"
+        },
+        {
+          "label": "7 November is observed as National…",
+          "value": "1975",
+          "original": "7 November is observed as National Revolution and Solidarity Day, marking the 1975 civil-military uprising"
+        },
+        {
+          "label": "the PM cited 1990 and 7…",
+          "value": "1971,",
+          "original": "the PM cited 1971, 1990 and 7 November 1975"
+        }
+      ],
+      "what_happened": [
+        "Speaking briefly outside the party's central office, he alleged conspiracies were being hatched again and warned of a 'crushing response',",
+        "as on 7 November 1975, saying no conspiracy could suppress the pro-democracy people."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister and BNP Chairman Tarique Rahman joined the BNP's sovereignty procession from Naya Paltan on ______, walking at the front towards Manik Mia Avenue to mark National Revolution and Solidarity Day.",
+          "answer": "7 November"
+        },
+        {
+          "cloze": "Speaking briefly outside the party's central office, he alleged conspiracies were being hatched again and warned of a 'crushing response', as on ______, saying no conspiracy could suppress the pro-democracy people.",
+          "answer": "7 November 1975"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "leads",
+        "november",
+        "procession",
+        "warns",
+        "conspirators",
+        "crushing",
+        "response"
+      ],
+      "detail": "Prime Minister and BNP Chairman Tarique Rahman joined the BNP's sovereignty procession from Naya Paltan on 7 November, walking at the front towards Manik Mia Avenue to mark National Revolution and Solidarity Day. Speaking briefly outside the party's central office, he alleged conspiracies were being hatched again and warned of a 'crushing response', as on 7 November 1975, saying no conspiracy could suppress the pro-democracy people."
+    },
+    {
+      "id": "CA08",
+      "headline": "What happened on 7 November and what I saw",
+      "category": "Politics",
+      "event_date": "1975-11-07",
+      "article_date": "2026-11-07",
+      "summary": "In a first-hand account published on 7 November, retired Brigadier General M Sakhawat Hossain recalls the night of 7 November 1975, when gunfire and cries of 'Zindabad' woke his cantonment household and tanks moved south towards Tejgaon. The account, excerpted from his book Roktakto Dinguli: 1975-1981 (The Bloody Days), describes 7 November as one of the most decisive turning points in Bangladesh's political history.",
+      "why_it_matters": "A first-hand account of the event the day commemorates — useful background for the 7 November GK questions that recur every year.",
+      "exam_facts": "All facts here are the author's recollection, not independently verified news. Book: Roktakto Dinguli: 1975-1981 (The Bloody Days).",
+      "exam_relevance": "Medium — history, 7 November 1975.",
+      "key_people": "Brigadier General (Retd.) M Sakhawat Hossain, author.",
+      "figures": "7 November 1975.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "What happened on 7 November and what I saw",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/opinion/op-ed/x03ps2oqo8"
+        }
+      ],
+      "one_liner": "In a first-hand account published on 7 November, retired Brigadier General M Sakhawat Hossain recalls the night of 7 November…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "7 November 1975",
+          "original": "7 November 1975"
+        },
+        {
+          "label": "The Bloody Days",
+          "value": "All facts here are the author's recollection, not independently verified news. Book: Roktakto Dinguli: 1975-1981",
+          "original": "All facts here are the author's recollection, not independently verified news. Book: Roktakto Dinguli: 1975-1981 (The Bloody Days)"
+        }
+      ],
+      "what_happened": [
+        "The account, excerpted from his book Roktakto Dinguli: 1975-1981 (The Bloody Days), describes 7 November as one of the most decisive turning points in Bangladesh's political history."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "In a first-hand account published on ______, retired Brigadier General M Sakhawat Hossain recalls the night of 7 November 1975, when gunfire and cries of 'Zindabad' woke his cantonment household and tanks moved south towards Tejgaon.",
+          "answer": "7 November"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "what",
+        "happened",
+        "november"
+      ],
+      "detail": "In a first-hand account published on 7 November, retired Brigadier General M Sakhawat Hossain recalls the night of 7 November 1975, when gunfire and cries of 'Zindabad' woke his cantonment household and tanks moved south towards Tejgaon. The account, excerpted from his book Roktakto Dinguli: 1975-1981 (The Bloody Days), describes 7 November as one of the most decisive turning points in Bangladesh's political history."
+    },
+    {
+      "id": "CA09",
+      "headline": "'Coordinator' of attack, Juboraj, still not arrested",
+      "category": "Bangladesh",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "More than a month after the attack on the New Gini Properties project at ECB Chattar in Dhaka, police have yet to arrest Md Juboraj, identified by investigators as a key coordinator. Juboraj, linked to a gang led by Md Ibrahim, convenor of Bhashantek thana BNP, allegedly brought together members of two Mirpur gangs. Investigators say prime accused Shahriar Mahmud agreed to pay Ibrahim Tk 10 million (Tk 1 crore) for the attack.",
+      "why_it_matters": "A law-and-order follow-up with named people and a money figure — the kind of concrete detail BCS current-affairs questions use.",
+      "exam_facts": "Attack on New Gini Properties, ECB Chattar, Dhaka; 13 people met at a food shop to plan it; the prime accused is Shahriar Mahmud.",
+      "exam_relevance": "Medium — law and order.",
+      "key_people": "Md Juboraj, alleged coordinator; Md Ibrahim, convenor, Bhashantek thana BNP; Shahriar Mahmud, prime accused.",
+      "figures": "Tk 10 million (Tk 1 crore) allegedly agreed as payment; attack was more than a month ago.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "'Coordinator' of attack, Juboraj, still not arrested",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/crime-and-law/r8kyhduazr"
+        }
+      ],
+      "one_liner": "More than a month after the attack on the New Gini Properties project at ECB Chattar in Dhaka, police have…",
+      "key_facts": [
+        {
+          "label": "Tk 1 crore) allegedly agreed as…",
+          "value": "Tk 10 million",
+          "original": "Tk 10 million (Tk 1 crore) allegedly agreed as payment"
+        },
+        {
+          "label": "",
+          "value": "attack was more than a month ago",
+          "original": "attack was more than a month ago"
+        },
+        {
+          "label": "",
+          "value": "Attack on New Gini Properties, ECB Chattar, Dhaka",
+          "original": "Attack on New Gini Properties, ECB Chattar, Dhaka"
+        },
+        {
+          "label": "people met at a food shop…",
+          "value": "13",
+          "original": "13 people met at a food shop to plan it"
+        }
+      ],
+      "what_happened": [
+        "Juboraj, linked to a gang led by Md Ibrahim, convenor of Bhashantek thana BNP, allegedly brought together members of two Mirpur gangs.",
+        "Investigators say prime accused Shahriar Mahmud agreed to pay Ibrahim Tk 10 million (Tk 1 crore) for the attack."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is people met at a food shop…?",
+          "a": "13"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Investigators say prime accused Shahriar Mahmud agreed to pay Ibrahim Tk ______ million (Tk 1 crore) for the attack.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "coordinator",
+        "attack",
+        "juboraj",
+        "still",
+        "arrested"
+      ],
+      "detail": "More than a month after the attack on the New Gini Properties project at ECB Chattar in Dhaka, police have yet to arrest Md Juboraj, identified by investigators as a key coordinator. Juboraj, linked to a gang led by Md Ibrahim, convenor of Bhashantek thana BNP, allegedly brought together members of two Mirpur gangs. Investigators say prime accused Shahriar Mahmud agreed to pay Ibrahim Tk 10 million (Tk 1 crore) for the attack."
+    },
+    {
+      "id": "CA10",
+      "headline": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "Prime Minister Tarique Rahman announced a pay rise for Gram Police at a rally at the National Parade Ground on 7 November. A member's monthly salary rises from Tk 7,500 to Tk 10,500 and a chief's from Tk 8,000 to Tk 11,000, effective today. Retirement gratuity rises to Tk 80,000 for members and Tk 1 lakh for chiefs, with a Tk 150 monthly mobile allowance, higher travel allowances, two more women members per union and six months' maternity leave.",
+      "why_it_matters": "Pay, allowances and service conditions of a uniformed force are classic BCS/Bank GK, and every figure here is directly askable.",
+      "exam_facts": "Gram Police are the village-level police force; the announcements were made at a rally marking National Revolution and Solidarity Day.",
+      "exam_relevance": "High — governance, pay and service rules.",
+      "key_people": "Tarique Rahman, Prime Minister; Zubaida Rahman, present at the rally.",
+      "figures": "Salary: Tk 7,500 to Tk 10,500 (members), Tk 8,000 to Tk 11,000 (chiefs); gratuity: Tk 50,000 to Tk 80,000 / Tk 80,000 to Tk 1 lakh; mobile Tk 150/month; travel Tk 500/week (chiefs Tk 600).",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/hub6z93k9n"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman announced a pay rise for Gram Police at a rally at the National Parade Ground on…",
+      "key_facts": [
+        {
+          "label": "chiefs",
+          "value": "Salary: Tk 7,500 to Tk 10,500 (members), Tk 8,000 to Tk 11,000",
+          "original": "Salary: Tk 7,500 to Tk 10,500 (members), Tk 8,000 to Tk 11,000 (chiefs)"
+        },
+        {
+          "label": "gratuity",
+          "value": "Tk 50,000 to Tk 80,000 / Tk 80,000 to Tk 1 lakh",
+          "original": "gratuity: Tk 50,000 to Tk 80,000 / Tk 80,000 to Tk 1 lakh"
+        },
+        {
+          "label": "mobile /month",
+          "value": "Tk 150",
+          "original": "mobile Tk 150/month"
+        },
+        {
+          "label": "chiefs Tk 600",
+          "value": "travel Tk 500/week",
+          "original": "travel Tk 500/week (chiefs Tk 600)"
+        }
+      ],
+      "what_happened": [
+        "A member's monthly salary rises from Tk 7,500 to Tk 10,500 and a chief's from Tk 8,000 to Tk 11,000, effective today.",
+        "Retirement gratuity rises to Tk 80,000 for members and Tk 1 lakh for chiefs, with a Tk 150 monthly mobile allowance,",
+        "higher travel allowances, two more women members per union and six months' maternity leave."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman announced a pay rise for Gram Police at a rally at the National Parade Ground on ______.",
+          "answer": "7 November"
+        },
+        {
+          "cloze": "A member's monthly salary rises from Tk ______ to Tk 10,500 and a chief's from Tk 8,000 to Tk 11,000, effective today.",
+          "answer": "7,500"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "announces",
+        "rise",
+        "gram",
+        "police",
+        "govt",
+        "mobile",
+        "bills"
+      ],
+      "detail": "Prime Minister Tarique Rahman announced a pay rise for Gram Police at a rally at the National Parade Ground on 7 November. A member's monthly salary rises from Tk 7,500 to Tk 10,500 and a chief's from Tk 8,000 to Tk 11,000, effective today. Retirement gratuity rises to Tk 80,000 for members and Tk 1 lakh for chiefs, with a Tk 150 monthly mobile allowance, higher travel allowances, two more women members per union and six months' maternity leave."
+    },
+    {
+      "id": "CA11",
+      "headline": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+      "category": "Bangladesh",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "Seven Bangladeshis, including children, were killed and 15 injured when a truck rammed into their bus from behind on the road from Medina to Jeddah in Saudi Arabia early on 7 November. The victims, members of several families, were returning from Medina. Bangladesh's Consul General in Jeddah confirmed the accident and said the consulate had formally asked Saudi authorities for details. The dead are at a local hospital morgue; the injured are being treated there.",
+      "why_it_matters": "Migrant-worker welfare is a standing BCS topic, and consular response is part of foreign-affairs GK.",
+      "exam_facts": "Accident on the Jeddah-Jizan road; victims were travelling from Medina to Jeddah.",
+      "exam_relevance": "Medium — migration, consular affairs.",
+      "key_people": "",
+      "figures": "7 killed, 15 injured; accident early 7 November 2026.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/kwpfe9z4g0"
+        }
+      ],
+      "one_liner": "Seven Bangladeshis, including children, were killed and 15 injured when a truck rammed into their bus from behind on the…",
+      "key_facts": [
+        {
+          "label": "killed, 15 injured",
+          "value": "7",
+          "original": "7 killed, 15 injured"
+        },
+        {
+          "label": "",
+          "value": "accident early 7 November 2026",
+          "original": "accident early 7 November 2026"
+        },
+        {
+          "label": "",
+          "value": "Accident on the Jeddah-Jizan road",
+          "original": "Accident on the Jeddah-Jizan road"
+        },
+        {
+          "label": "",
+          "value": "victims were travelling from Medina to Jeddah",
+          "original": "victims were travelling from Medina to Jeddah"
+        }
+      ],
+      "what_happened": [
+        "The victims, members of several families, were returning from Medina.",
+        "Bangladesh's Consul General in Jeddah confirmed the accident and said the consulate had formally asked Saudi authorities for details.",
+        "The dead are at a local hospital morgue; the injured are being treated there."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Seven Bangladeshis, including children, were killed and 15 injured when a truck rammed into their bus from behind on the road from Medina to Jeddah in Saudi Arabia early on ______.",
+          "answer": "7 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "bangladeshis",
+        "killed",
+        "injured",
+        "road",
+        "accident",
+        "saudi",
+        "arabia"
+      ],
+      "detail": "Seven Bangladeshis, including children, were killed and 15 injured when a truck rammed into their bus from behind on the road from Medina to Jeddah in Saudi Arabia early on 7 November. The victims, members of several families, were returning from Medina. Bangladesh's Consul General in Jeddah confirmed the accident and said the consulate had formally asked Saudi authorities for details. The dead are at a local hospital morgue; the injured are being treated there."
+    },
+    {
+      "id": "CA12",
+      "headline": "Police attacked from Awami League procession, 6 injured including OC",
+      "category": "Bangladesh",
+      "event_date": "2026-11-06",
+      "article_date": "2026-11-07",
+      "summary": "Police were attacked in Chattogram on Friday afternoon after the Awami League, whose activities are banned, brought out a sudden procession in the Taltola area of Port Connecting Road under Bandar police station. Protesters threw brickbats as officers tried to stop the march, vandalising a police vehicle. Six police personnel, including the officer-in-charge, were injured. Police arrested 20 leaders and activists and filed a case that night.",
+      "why_it_matters": "Law-and-order and the banned Awami League's street activity are live political GK; the figures are precise and checkable.",
+      "exam_facts": "The Awami League's activities are banned (as stated in the report); the incident was in Chattogram's Bandar area.",
+      "exam_relevance": "Medium — law and order, politics.",
+      "key_people": "Abdur Rahim, Officer-in-Charge, Bandar police station.",
+      "figures": "6 police injured (including the OC); 20 arrested; case filed at Bandar police station.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Police attacked from Awami League procession, 6 injured including OC",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/z9ike510pq"
+        }
+      ],
+      "one_liner": "Police were attacked in Chattogram on Friday afternoon after the Awami League, whose activities are banned, brought out a sudden…",
+      "key_facts": [
+        {
+          "label": "including the OC",
+          "value": "6 police injured",
+          "original": "6 police injured (including the OC)"
+        },
+        {
+          "label": "",
+          "value": "case filed at Bandar police station",
+          "original": "case filed at Bandar police station"
+        },
+        {
+          "label": "as stated in the report",
+          "value": "The Awami League's activities are banned",
+          "original": "The Awami League's activities are banned (as stated in the report)"
+        },
+        {
+          "label": "",
+          "value": "the incident was in Chattogram's Bandar area",
+          "original": "the incident was in Chattogram's Bandar area"
+        }
+      ],
+      "what_happened": [
+        "Protesters threw brickbats as officers tried to stop the march, vandalising a police vehicle.",
+        "Six police personnel, including the officer-in-charge, were injured.",
+        "Police arrested 20 leaders and activists and filed a case that night."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is including the OC?",
+          "a": "6 police injured"
+        },
+        {
+          "q": "What is as stated in the report?",
+          "a": "The Awami League's activities are banned"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Police arrested ______ leaders and activists and filed a case that night.",
+          "answer": "20"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "police",
+        "attacked",
+        "awami",
+        "league",
+        "procession",
+        "injured",
+        "including"
+      ],
+      "detail": "Police were attacked in Chattogram on Friday afternoon after the Awami League, whose activities are banned, brought out a sudden procession in the Taltola area of Port Connecting Road under Bandar police station. Protesters threw brickbats as officers tried to stop the march, vandalising a police vehicle. Six police personnel, including the officer-in-charge, were injured. Police arrested 20 leaders and activists and filed a case that night."
+    },
+    {
+      "id": "CA13",
+      "headline": "Tk 800 million spent developing 12 software tools: How useful have they been?",
+      "category": "Technology",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "The ICT Division has spent Tk 800 million developing 12 software tools, including the AI platform Kagoj.ai, launched on 15 December last year, whose OCR service converts text in images into editable Word files. But usage appears very limited: Google Lens and other free apps already offer the same OCR service and were launched long before Kagoj.ai. The report questions how useful the government's tools have been.",
+      "why_it_matters": "Public spending on technology and value-for-money is a favourite BCS/Bank theme, and the comparison with free alternatives is the exam point.",
+      "exam_facts": "Kagoj.ai offers optical character recognition (OCR); it was launched by Faiz Ahmad Taiyeb, special assistant to the chief adviser of the former interim government.",
+      "exam_relevance": "High — ICT, public spending, governance.",
+      "key_people": "Faiz Ahmad Taiyeb, special assistant to the chief adviser of the former interim government.",
+      "figures": "Tk 800 million (Tk 80 crore); 12 software tools; Kagoj.ai launched 15 December 2025.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Tk 800 million spent developing 12 software tools: How useful have they been?",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/j56l433zq4"
+        }
+      ],
+      "one_liner": "The ICT Division has spent Tk 800 million developing 12 software tools, including the AI platform Kagoj.",
+      "key_facts": [
+        {
+          "label": "Tk 80 crore",
+          "value": "Tk 800 million",
+          "original": "Tk 800 million (Tk 80 crore)"
+        },
+        {
+          "label": "",
+          "value": "Kagoj.ai launched 15 December 2025",
+          "original": "Kagoj.ai launched 15 December 2025"
+        },
+        {
+          "label": "OCR",
+          "value": "Kagoj.ai offers optical character recognition",
+          "original": "Kagoj.ai offers optical character recognition (OCR)"
+        }
+      ],
+      "what_happened": [
+        "ai, launched on 15 December last year, whose OCR service converts text in images into editable Word files.",
+        "But usage appears very limited: Google Lens and other free apps already offer the same OCR service and were launched long before Kagoj.",
+        "ai."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is OCR?",
+          "a": "Kagoj.ai offers optical character recognition"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The ICT Division has spent Tk ______ million developing 12 software tools, including the AI platform Kagoj.",
+          "answer": "800"
+        },
+        {
+          "cloze": "ai, launched on ______ last year, whose OCR service converts text in images into editable Word files.",
+          "answer": "15 December"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "million",
+        "spent",
+        "developing",
+        "software",
+        "tools",
+        "useful",
+        "they"
+      ],
+      "detail": "The ICT Division has spent Tk 800 million developing 12 software tools, including the AI platform Kagoj.ai, launched on 15 December last year, whose OCR service converts text in images into editable Word files. But usage appears very limited: Google Lens and other free apps already offer the same OCR service and were launched long before Kagoj.ai. The report questions how useful the government's tools have been."
+    },
+    {
+      "id": "CA14",
+      "headline": "Ziaur Rahman's photo missing from banner, Sheikh Mujib called 'Father of the Nation', sparking uproar",
+      "category": "Politics",
+      "event_date": "2026-11-07",
+      "article_date": "2026-11-07",
+      "summary": "An uproar broke out at a Joypurhat discussion marking National Revolution and Solidarity Day on 7 November after the banner was found to be missing a photograph of martyred President Ziaur Rahman, while Sheikh Mujibur Rahman was called 'Bangabandhu' and 'Father of the Nation'. State Minister for Public Administration and Food Abdul Bari expressed anger and ordered an investigation; the deputy commissioner apologised. The programme could not start at its scheduled 10:00 am.",
+      "why_it_matters": "It shows how contested the history of 7 November still is — exactly the kind of nuance BCS history questions probe.",
+      "exam_facts": "7 November 1975: Ziaur Rahman was freed from house arrest in the civil-military uprising; historical interpretations of the day are politically contested.",
+      "exam_relevance": "Medium — history, politics.",
+      "key_people": "Abdul Bari, State Minister for Public Administration and Food; Al-Mamun Mia, Deputy Commissioner, Joypurhat.",
+      "figures": "Meeting at District Shilpakala Academy auditorium, Joypurhat, 7 November 2026, scheduled 10:00 am.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Ziaur Rahman's photo missing from banner, Sheikh Mujib called 'Father of the Nation', sparking uproar",
+          "date": "2026-11-07",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/rkaacev5ci"
+        }
+      ],
+      "one_liner": "An uproar broke out at a Joypurhat discussion marking National Revolution and Solidarity Day on 7 November after the banner…",
+      "key_facts": [
+        {
+          "label": "Meeting at District Shilpakala Academy auditorium,…",
+          "value": "00",
+          "original": "Meeting at District Shilpakala Academy auditorium, Joypurhat, 7 November 2026, scheduled 10:00 am"
+        },
+        {
+          "label": "7 November 1975",
+          "value": "Ziaur Rahman was freed from house arrest in the civil-military uprising",
+          "original": "7 November 1975: Ziaur Rahman was freed from house arrest in the civil-military uprising"
+        },
+        {
+          "label": "",
+          "value": "historical interpretations of the day are politically contested",
+          "original": "historical interpretations of the day are politically contested"
+        }
+      ],
+      "what_happened": [
+        "State Minister for Public Administration and Food Abdul Bari expressed anger and ordered an investigation; the deputy commissioner apologised.",
+        "The programme could not start at its scheduled 10:00 am."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Meeting at District Shilpakala Academy auditorium,…?",
+          "a": "00"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "An uproar broke out at a Joypurhat discussion marking National Revolution and Solidarity Day on ______ after the banner was found to be missing a photograph of martyred President Ziaur Rahman, while Sheikh Mujibur Rahman was called 'Bangabandhu' and 'Father of the Nation'.",
+          "answer": "7 November"
+        },
+        {
+          "cloze": "The programme could not start at its scheduled 10:______ am.",
+          "answer": "00"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "ziaur",
+        "rahman",
+        "photo",
+        "missing",
+        "banner",
+        "sheikh",
+        "mujib",
+        "called",
+        "father",
+        "nation",
+        "sparking",
+        "uproar"
+      ],
+      "detail": "An uproar broke out at a Joypurhat discussion marking National Revolution and Solidarity Day on 7 November after the banner was found to be missing a photograph of martyred President Ziaur Rahman, while Sheikh Mujibur Rahman was called 'Bangabandhu' and 'Father of the Nation'. State Minister for Public Administration and Food Abdul Bari expressed anger and ordered an investigation; the deputy commissioner apologised. The programme could not start at its scheduled 10:00 am."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "gratuity",
+      "IPA": "/ɡrəˈtʃuːəti/",
+      "Bangla phonetic": "গ্র্যাচুইটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আনুতোষিক; অবসরকালীন ভাতা",
+      "English definition": "A sum of money paid to an employee when they retire or leave a job.",
+      "Synonyms": "retirement benefit; severance payment",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "gratuities",
+      "Collocations / patterns": "retirement gratuity",
+      "Original example": "The retirement gratuity has been raised from Tk 50,000 to Tk 80,000 for members.",
+      "Newspaper context note": "Used in the Gram Police pay announcement to describe the lump sum paid on retirement.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/hub6z93k9n",
+      "BCS / Bank relevance": "Service rules, pay and retirement benefits are standard BCS/Bank vocabulary; gratuity appears in labour and service questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "conspiracy",
+      "IPA": "/kənˈspɪrəsi/",
+      "Bangla phonetic": "কন্সপির্যাসি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ষড়যন্ত্র",
+      "English definition": "A secret plan by a group to do something harmful or unlawful.",
+      "Synonyms": "plot; scheme",
+      "Antonyms": "openness; transparency",
+      "Word family / derivatives": "conspire; conspirator; conspiratorial",
+      "Collocations / patterns": "hatch a conspiracy; conspiracy theory",
+      "Original example": "The prime minister alleged that a conspiracy is once again being hatched in the country.",
+      "Newspaper context note": "Used in the PM's 7 November speech about conspiracies against democracy.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "'The people of this country cannot be suppressed through conspiracies': PM",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/4bi3ggory7",
+      "BCS / Bank relevance": "Past BCS questions use conspiracy/conspire; a core political vocabulary word.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "suppress",
+      "IPA": "/səˈpres/",
+      "Bangla phonetic": "সাপ্রেস",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দমন করা; চাপা দেওয়া",
+      "English definition": "To forcibly end or prevent something, such as dissent or a revolt.",
+      "Synonyms": "crush; stifle; quell",
+      "Antonyms": "encourage; liberate",
+      "Word family / derivatives": "suppression; suppressor",
+      "Collocations / patterns": "suppress dissent; suppress a revolt",
+      "Original example": "No conspiracy will be able to suppress the pro-democracy people of this country.",
+      "Newspaper context note": "Used in the PM's 7 November speech.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "'The people of this country cannot be suppressed through conspiracies': PM",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/4bi3ggory7",
+      "BCS / Bank relevance": "Common in BCS synonym/antonym sets (suppress = crush/stifle).",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "uproar",
+      "IPA": "/ˈʌprɔːr/",
+      "Bangla phonetic": "আপরোর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "হৈচৈ; তীব্র প্রতিবাদ",
+      "English definition": "A loud public protest or outcry about something.",
+      "Synonyms": "outcry; commotion",
+      "Antonyms": "calm; silence",
+      "Word family / derivatives": "uproarious",
+      "Collocations / patterns": "spark an uproar; public uproar",
+      "Original example": "An uproar broke out over Sheikh Mujibur Rahman being referred to as the 'Father of the Nation'.",
+      "Newspaper context note": "Used for the Joypurhat banner dispute on 7 November.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Ziaur Rahman's photo missing from banner, Sheikh Mujib called 'Father of the Nation', sparking uproar",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/rkaacev5ci",
+      "BCS / Bank relevance": "News vocabulary; appears in BCS reading and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "defaced",
+      "IPA": "/dɪˈfeɪst/",
+      "Bangla phonetic": "ডিফেইস্ট",
+      "Part of speech / type": "Verb (past)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিকৃত করা; নষ্ট করা",
+      "English definition": "Damaged the surface or appearance of something.",
+      "Synonyms": "vandalised; disfigured",
+      "Antonyms": "restored; preserved",
+      "Word family / derivatives": "deface; defacement",
+      "Collocations / patterns": "defaced mural; defaced portrait",
+      "Original example": "A mural of Nobel laureate Rabindranath Tagore has been defaced with black ink.",
+      "Newspaper context note": "Used for the Khulna Railway Station mural incident.",
+      "Source publication": "Deccan Herald",
+      "Article headline": "Rabindranath Tagore's mural defaced in Bangladesh",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://www.deccanherald.com/world/rest-of-world/rabindranath-tagores-mural-defaced-in-bangladesh-4211068",
+      "BCS / Bank relevance": "Descriptive verb common in news English and BCS vocabulary lists.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "stalled",
+      "IPA": "/stɔːld/",
+      "Bangla phonetic": "স্টল্ড",
+      "Part of speech / type": "Verb (past)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "থেমে যাওয়া; স্থবির হয়ে পড়া",
+      "English definition": "Stopped making progress.",
+      "Synonyms": "halted; stuck",
+      "Antonyms": "advanced; progressed",
+      "Word family / derivatives": "stall",
+      "Collocations / patterns": "stalled growth; stalled negotiations",
+      "Original example": "The 'Bangla QR' initiative, launched to popularise digital transactions, has stalled.",
+      "Newspaper context note": "Used for the Bangla QR transaction slowdown.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Why has growth of transactions through Bangla QR stalled?",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/business/local/hfphch3gp4",
+      "BCS / Bank relevance": "Business/economy vocabulary; stall/stalled appears in BCS synonym sets.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "coordinator",
+      "IPA": "/kəʊˈɔːdɪneɪtər/",
+      "Bangla phonetic": "কো-অর্ডিনেটর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সমন্বয়কারী",
+      "English definition": "A person who organises people or activities.",
+      "Synonyms": "organiser; facilitator",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "coordinate; coordination",
+      "Collocations / patterns": "key coordinator; project coordinator",
+      "Original example": "Police have yet to arrest Md Juboraj, identified as one of the key coordinators of the attack.",
+      "Newspaper context note": "Used for the New Gini Properties attack investigation.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "'Coordinator' of attack, Juboraj, still not arrested",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/crime-and-law/r8kyhduazr",
+      "BCS / Bank relevance": "Common administrative vocabulary in BCS/Bank questions.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "vandalised",
+      "IPA": "/ˈvændəlaɪzd/",
+      "Bangla phonetic": "ভ্যান্ডালাইজড",
+      "Part of speech / type": "Verb (past)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ভাঙচুর করা",
+      "English definition": "Deliberately damaged or destroyed property.",
+      "Synonyms": "destroyed; wrecked",
+      "Antonyms": "protected; preserved",
+      "Word family / derivatives": "vandal; vandalism",
+      "Collocations / patterns": "vandalised vehicle; vandalised property",
+      "Original example": "A police vehicle was also vandalised.",
+      "Newspaper context note": "Used for the Chattogram procession attack on police.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Police attacked from Awami League procession, 6 injured including OC",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/z9ike510pq",
+      "BCS / Bank relevance": "News vocabulary; vandal/vandalism family appears in BCS word lists.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "alleged",
+      "IPA": "/əˈledʒd/",
+      "Bangla phonetic": "অ্যালেজড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযুক্ত; কথিত",
+      "English definition": "Said to have done something, without proof.",
+      "Synonyms": "supposed; claimed",
+      "Antonyms": "proven; confirmed",
+      "Word family / derivatives": "allege; allegedly; allegation",
+      "Collocations / patterns": "alleged involvement; alleged attack",
+      "Original example": "He is allegedly involved in various criminal activities in the Mirpur area.",
+      "Newspaper context note": "Used for Juboraj's alleged role in the New Gini attack; the article uses the adverb form 'allegedly'.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "'Coordinator' of attack, Juboraj, still not arrested",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/crime-and-law/r8kyhduazr",
+      "BCS / Bank relevance": "Allege/alleged/allegation is a staple of BCS vocabulary and précis.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "incite",
+      "IPA": "/ɪnˈsaɪt/",
+      "Bangla phonetic": "ইনসাইট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "উসকানি দেওয়া; প্ররোচিত করা",
+      "English definition": "To encourage violent or unlawful behaviour.",
+      "Synonyms": "provoke; instigate",
+      "Antonyms": "calm; restrain",
+      "Word family / derivatives": "incitement",
+      "Collocations / patterns": "incite violence; incite followers",
+      "Original example": "He was accused of trying to incite his followers to starve themselves to death.",
+      "Newspaper context note": "Used for Paul Mackenzie and the Shakahola cult.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/international/africa/hnx8yc8dgp",
+      "BCS / Bank relevance": "Incite/instigate/provoke is a classic BCS synonym group.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "convicted",
+      "IPA": "/kənˈvɪktɪd/",
+      "Bangla phonetic": "কনভিক্টেড",
+      "Part of speech / type": "Verb (past)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দোষী সাব্যস্ত",
+      "English definition": "Found guilty of a crime by a court.",
+      "Synonyms": "found guilty",
+      "Antonyms": "acquitted",
+      "Word family / derivatives": "convict; conviction",
+      "Collocations / patterns": "convicted of murder; convicted last month",
+      "Original example": "He was convicted last month of murdering 191 people.",
+      "Newspaper context note": "Used for Paul Mackenzie's conviction in the Shakahola case.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/international/africa/hnx8yc8dgp",
+      "BCS / Bank relevance": "Convict/conviction/acquit is core legal vocabulary for BCS/Bank.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "accomplice",
+      "IPA": "/əˈkʌmplɪs/",
+      "Bangla phonetic": "অ্যাকমপ্লিস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অপরাধের সহযোগী",
+      "English definition": "A person who helps another person commit a crime.",
+      "Synonyms": "collaborator; abettor",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "—",
+      "Collocations / patterns": "accomplices received prison terms",
+      "Original example": "His accomplices received a variety of lengthy prison terms.",
+      "Newspaper context note": "Used for Mackenzie's 28 co-accused in the Shakahola case.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/international/africa/hnx8yc8dgp",
+      "BCS / Bank relevance": "Legal vocabulary; appears in BCS word lists.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "infamous",
+      "IPA": "/ˈɪnfəməs/",
+      "Bangla phonetic": "ইনফেমাস",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "কুখ্যাত",
+      "English definition": "Famous for something bad.",
+      "Synonyms": "notorious",
+      "Antonyms": "famous; renowned",
+      "Word family / derivatives": "infamy",
+      "Collocations / patterns": "infamous cult; infamous massacre",
+      "Original example": "He was sentenced for the murder of 190 children and one adult in an infamous starvation cult.",
+      "Newspaper context note": "Used for the Shakahola starvation cult.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/international/africa/hnx8yc8dgp",
+      "BCS / Bank relevance": "Infamous/notorious is a standard BCS synonym pair.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "preliminary",
+      "IPA": "/prɪˈlɪmɪnəri/",
+      "Bangla phonetic": "প্রিলিমিনারি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রাথমিক; প্রাক-পরীক্ষামূলক",
+      "English definition": "Coming before the main event; introductory.",
+      "Synonyms": "initial; preparatory",
+      "Antonyms": "final",
+      "Word family / derivatives": "—",
+      "Collocations / patterns": "preliminary screening; preliminary test",
+      "Original example": "There was no preliminary screening test for admission in the 2025-26 academic session.",
+      "Newspaper context note": "Used for BUET's admission system.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/n2vti9k72r",
+      "BCS / Bank relevance": "Common in BCS vocabulary and exam instructions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "eligible",
+      "IPA": "/ˈelɪdʒəbəl/",
+      "Bangla phonetic": "এলিজিবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "যোগ্য; উপযুক্ত",
+      "English definition": "Qualified to take part in something or receive something.",
+      "Synonyms": "qualified",
+      "Antonyms": "ineligible",
+      "Word family / derivatives": "eligibility",
+      "Collocations / patterns": "eligible candidates; eligible voters",
+      "Original example": "Eligible candidates were selected solely through a written examination.",
+      "Newspaper context note": "Used for BUET's admission selection.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/n2vti9k72r",
+      "BCS / Bank relevance": "Eligible/ineligible is a frequent BCS antonym pair.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "leverage",
+      "IPA": "/ˈliːvərɪdʒ/",
+      "Bangla phonetic": "লিভারেজ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "কাজে লাগানো; সুবিধা নেওয়া",
+      "English definition": "To use something to maximum advantage.",
+      "Synonyms": "exploit; harness",
+      "Antonyms": "waste",
+      "Word family / derivatives": "leveraged",
+      "Collocations / patterns": "leverage technology; leverage opportunities",
+      "Original example": "To leverage various opportunities offered by artificial intelligence, people will be able to use the different features.",
+      "Newspaper context note": "Used at the Kagoj.ai launch about using AI opportunities.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Tk 800 million spent developing 12 software tools: How useful have they been?",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/j56l433zq4",
+      "BCS / Bank relevance": "Business and economics vocabulary; leverage is a BCS/Bank favourite.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "accessible",
+      "IPA": "/əkˈsesəbəl/",
+      "Bangla phonetic": "অ্যাকসেসিবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সহজলভ্য; নাগালের মধ্যে",
+      "English definition": "Easy to reach, use or understand.",
+      "Synonyms": "available; reachable",
+      "Antonyms": "inaccessible",
+      "Word family / derivatives": "access; accessibility",
+      "Collocations / patterns": "make accessible; easily accessible",
+      "Original example": "We want to make the best use of technology to make language accessible.",
+      "Newspaper context note": "Used at the Kagoj.ai launch about making language accessible.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Tk 800 million spent developing 12 software tools: How useful have they been?",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/j56l433zq4",
+      "BCS / Bank relevance": "Accessible/inaccessible is a standard BCS antonym pair.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "casualty",
+      "IPA": "/ˈkæʒuəlti/",
+      "Bangla phonetic": "ক্যাজুয়ালটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "হতাহত; দুর্ঘটনায় আহত বা নিহত ব্যক্তি",
+      "English definition": "A person killed or injured in an accident or a war.",
+      "Synonyms": "victim",
+      "Antonyms": "survivor",
+      "Word family / derivatives": "casualties",
+      "Collocations / patterns": "casualty figures; details of the casualties",
+      "Original example": "The consulate had formally requested local authorities to provide detailed information about each casualty.",
+      "Newspaper context note": "Used for the Saudi Arabia road accident.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/kwpfe9z4g0",
+      "BCS / Bank relevance": "News and disaster vocabulary; casualty is a BCS staple.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deceased",
+      "IPA": "/dɪˈsiːst/",
+      "Bangla phonetic": "ডিসিজড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "মৃত",
+      "English definition": "Dead; a person who has died.",
+      "Synonyms": "dead; late",
+      "Antonyms": "living; alive",
+      "Word family / derivatives": "decease",
+      "Collocations / patterns": "the deceased; deceased family members",
+      "Original example": "The seven deceased were members of several families from Bangladesh.",
+      "Newspaper context note": "Used for the victims of the Saudi Arabia road accident.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/kwpfe9z4g0",
+      "BCS / Bank relevance": "Formal news vocabulary; deceased/dead is a BCS synonym item.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "affiliated",
+      "IPA": "/əˈfɪlieɪtɪd/",
+      "Bangla phonetic": "অ্যাফিলিয়েটেড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনুমোদিত; সহযোগী সংগঠনের",
+      "English definition": "Officially connected with a larger organisation.",
+      "Synonyms": "associated; linked",
+      "Antonyms": "independent",
+      "Word family / derivatives": "affiliate; affiliation",
+      "Collocations / patterns": "affiliated organisations; affiliated colleges",
+      "Original example": "Activists of the party's affiliated and associate organisations are also taking part.",
+      "Newspaper context note": "Used for BNP's affiliated organisations in the 7 November procession.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Prime Minister Tarique Rahman joins BNP procession from Naya Paltan",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/c4zksppf43",
+      "BCS / Bank relevance": "Affiliated/affiliation is common in BCS vocabulary and organisation questions.",
+      "Priority": "Medium"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bureaucratic",
+      "IPA": "/ˌbjʊərəˈkrætɪk/",
+      "Bangla phonetic": "বিউরোক্র্যাটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আমলাতান্ত্রিক; দাপ্তরিক জটিলতাপূর্ণ",
+      "English definition": "Relating to an administrative system with many rules and procedures, often causing delay.",
+      "Synonyms": "administrative; procedural; official; rule-bound",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "bureaucracy; bureaucrat; bureaucratically",
+      "Collocations / patterns": "bureaucratic delay; bureaucratic hurdles; bureaucratic procedure",
+      "Original example": "A single digital window could reduce bureaucratic delays for new investors.",
+      "Newspaper context note": "Used in reporting on the proposed overhaul of business approvals to describe delays created by administrative procedures.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful in governance, public administration, investment-climate essays and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "overhaul",
+      "IPA": "/ˌəʊvəˈhɔːl/",
+      "Bangla phonetic": "ওভারহল",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ব্যাপক সংস্কার; আমূল পুনর্গঠন করা",
+      "English definition": "A thorough examination and major improvement or restructuring of a system.",
+      "Synonyms": "revamp; reform; restructure; rework; renovate",
+      "Antonyms": "preserve; maintain; retain; leave unchanged",
+      "Word family / derivatives": "overhauled; overhauling; overhaul (noun/verb)",
+      "Collocations / patterns": "major overhaul; overhaul the system; regulatory overhaul",
+      "Original example": "The proposed overhaul of business approvals aims to reduce the time needed to start a company.",
+      "Newspaper context note": "The article describes a major overhaul of Bangladesh's investment-approval regime.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "A strong formal verb/noun for précis, policy writing and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "statutory",
+      "IPA": "/ˈstætʃətəri/",
+      "Bangla phonetic": "স্ট্যাচুটরি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আইননির্ধারিত; আইনগতভাবে বাধ্যতামূলক",
+      "English definition": "Required, created or regulated by law.",
+      "Synonyms": "legal; legislated; mandated; law-based",
+      "Antonyms": "unlawful; illegal; non-statutory",
+      "Word family / derivatives": "statute; statutorily; statutory",
+      "Collocations / patterns": "statutory requirement; statutory document; statutory obligation",
+      "Original example": "Investors must obtain the statutory documents required before a business can operate.",
+      "Newspaper context note": "The article says investors need 12 statutory documents and proposes simplifying the process for obtaining them.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "High-value legal and governance vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "prerequisite",
+      "IPA": "/ˌpriːˈrekwəzɪt/",
+      "Bangla phonetic": "প্রি-রেকুইজিট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্বশর্ত; আবশ্যিক শর্ত",
+      "English definition": "Something that must exist or be completed before something else can happen.",
+      "Synonyms": "precondition; requirement; prior condition; essential condition",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "requisite; prerequisite; prerequisites",
+      "Collocations / patterns": "essential prerequisite; prerequisite for; prerequisite to",
+      "Original example": "Reliable electricity is a prerequisite for expanding energy-intensive manufacturing.",
+      "Newspaper context note": "The business-approval article says the government plans to reduce the number of prerequisites for starting industrial operations.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful for sentence completion, formal writing and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "streamline",
+      "IPA": "/ˈstriːmlaɪn/",
+      "Bangla phonetic": "স্ট্রিমলাইন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রক্রিয়া সরল ও কার্যকর করা; সহজতর করা",
+      "English definition": "To make a process simpler, faster and more efficient.",
+      "Synonyms": "simplify; rationalise; optimise; improve",
+      "Antonyms": "complicate; obstruct; impede; hamper",
+      "Word family / derivatives": "streamlined; streamlining; streamline",
+      "Collocations / patterns": "streamline procedures; streamline operations; streamline approvals",
+      "Original example": "The authority plans to streamline approval procedures by processing applications in parallel.",
+      "Newspaper context note": "The article describes a proposed digital platform and parallel processing to streamline business approvals.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Very useful in essays and précis on public-service delivery, banking operations and reform.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "take effect",
+      "Type": "phrasal verb",
+      "Bangla meaning": "কার্যকর হওয়া",
+      "English explanation": "To come into force; to start to apply.",
+      "Usage / register": "Formal / official",
+      "Original example 1": "The new arrangements will take effect from today.",
+      "Original example 2": "The new pay scale will take effect from next month.",
+      "Common collocations / grammar pattern": "take effect from (a date)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/hub6z93k9n",
+      "Exam value": "Phrasal verb; appears in BCS idiom and phrase questions."
+    },
+    {
+      "Phrase": "fall behind",
+      "Type": "phrasal verb",
+      "Bangla meaning": "পিছিয়ে পড়া",
+      "English explanation": "To fail to keep up with others; to lag.",
+      "Usage / register": "Neutral",
+      "Original example 1": "The programme will provide additional support to children falling behind in their studies.",
+      "Original example 2": "Without regular practice, students fall behind in English.",
+      "Common collocations / grammar pattern": "fall behind in (studies/work)",
+      "Source publication": "The Business Standard",
+      "Article headline": "World Bank approves $300m to improve learning for 2.6 crore Bangladeshi children",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/education/world-bank-approves-300m-improve-learning-26-crore-bangladeshi-children-1595296",
+      "Exam value": "Phrasal verb; BCS idiom lists include fall behind."
+    },
+    {
+      "Phrase": "pay rise",
+      "Type": "collocation",
+      "Bangla meaning": "বেতন বৃদ্ধি",
+      "English explanation": "An increase in salary.",
+      "Usage / register": "Neutral / news",
+      "Original example 1": "PM announces pay rise for Gram Police, govt to pay mobile bills.",
+      "Original example 2": "Teachers demanded a pay rise last year.",
+      "Common collocations / grammar pattern": "announce a pay rise; get a pay rise",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/hub6z93k9n",
+      "Exam value": "Economic collocation; common in BCS/Bank English."
+    },
+    {
+      "Phrase": "take part",
+      "Type": "phrasal verb",
+      "Bangla meaning": "অংশগ্রহণ করা",
+      "English explanation": "To participate in something.",
+      "Usage / register": "Neutral",
+      "Original example 1": "Activists of the party's affiliated and associate organisations are also taking part.",
+      "Original example 2": "Thousands of students took part in the rally.",
+      "Common collocations / grammar pattern": "take part in (an event)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Prime Minister Tarique Rahman joins BNP procession from Naya Paltan",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/c4zksppf43",
+      "Exam value": "Phrasal verb; BCS idiom lists include take part."
+    },
+    {
+      "Phrase": "break out",
+      "Type": "phrasal verb",
+      "Bangla meaning": "হঠাৎ শুরু হওয়া; ছড়িয়ে পড়া",
+      "English explanation": "To start suddenly, especially trouble or protest.",
+      "Usage / register": "News",
+      "Original example 1": "An uproar broke out over Sheikh Mujibur Rahman being referred to as the 'Father of the Nation'.",
+      "Original example 2": "Violence broke out after the announcement.",
+      "Common collocations / grammar pattern": "break out over (an issue)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Ziaur Rahman's photo missing from banner, Sheikh Mujib called 'Father of the Nation', sparking uproar",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/rkaacev5ci",
+      "Exam value": "Phrasal verb; BCS idiom lists include break out."
+    },
+    {
+      "Phrase": "bring out",
+      "Type": "phrasal verb",
+      "Bangla meaning": "বের করা; মিছিল বের করা",
+      "English explanation": "To take something out in public; to organise a procession.",
+      "Usage / register": "News",
+      "Original example 1": "The Awami League, whose activities are banned, suddenly brought out a procession.",
+      "Original example 2": "The party brought out a rally in the capital.",
+      "Common collocations / grammar pattern": "bring out a procession/rally",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Police attacked from Awami League procession, 6 injured including OC",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/z9ike510pq",
+      "Exam value": "Phrasal verb; BCS idiom lists include bring out."
+    },
+    {
+      "Phrase": "at the front",
+      "Type": "collocation",
+      "Bangla meaning": "সামনে; নেতৃত্বে",
+      "English explanation": "In the leading position.",
+      "Usage / register": "Neutral",
+      "Original example 1": "He is walking at the front of the procession.",
+      "Original example 2": "The prime minister walked at the front of the march.",
+      "Common collocations / grammar pattern": "at the front of (a procession/march)",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Prime Minister Tarique Rahman joins BNP procession from Naya Paltan",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/c4zksppf43",
+      "Exam value": "Prepositional collocation; common in news English."
+    },
+    {
+      "Phrase": "on schedule",
+      "Type": "collocation",
+      "Bangla meaning": "নির্ধারিত সময় অনুযায়ী",
+      "English explanation": "At the planned time; not delayed.",
+      "Usage / register": "Neutral / formal",
+      "Original example 1": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule.",
+      "Original example 2": "The project finished on schedule.",
+      "Common collocations / grammar pattern": "on schedule; behind schedule; ahead of schedule",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/n2vti9k72r",
+      "Exam value": "Collocation; on/behind/ahead of schedule is a BCS phrase set."
+    },
+    {
+      "Phrase": "peer-to-peer",
+      "Type": "collocation",
+      "Bangla meaning": "ব্যক্তি থেকে ব্যক্তিতে (সরাসরি)",
+      "English explanation": "Directly between two people, without an intermediary.",
+      "Usage / register": "Business / technology",
+      "Original example 1": "Bangla QR code service has been introduced for peer-to-peer transactions.",
+      "Original example 2": "Peer-to-peer payments are growing fast in Bangladesh.",
+      "Common collocations / grammar pattern": "peer-to-peer transactions/payments",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Why has growth of transactions through Bangla QR stalled?",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/business/local/hfphch3gp4",
+      "Exam value": "Fintech collocation; current-affairs term."
+    },
+    {
+      "Phrase": "as originally scheduled",
+      "Type": "collocation",
+      "Bangla meaning": "মূল পরিকল্পনা অনুযায়ী",
+      "English explanation": "At the time first planned, without change.",
+      "Usage / register": "Formal",
+      "Original example 1": "BUET is also set to hold its undergraduate admission test for the 2026-27 academic session as originally scheduled.",
+      "Original example 2": "The exam will be held as originally scheduled.",
+      "Common collocations / grammar pattern": "as originally scheduled/planned",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "Publication date": "2026-11-07",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/n2vti9k72r",
+      "Exam value": "Collocation; common in official notices and BCS English."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'gratuity' most nearly means:",
+      "options": {
+        "A": "A type of bank loan",
+        "B": "Money paid to an employee on retirement",
+        "C": "A tax on imported goods",
+        "D": "A monthly travel allowance"
+      },
+      "correct": "B",
+      "explanation": "Gratuity is a lump sum paid to an employee when they retire or leave a job.",
+      "source": "CA10"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "The word 'conspiracy' most nearly means:",
+      "options": {
+        "A": "An open public debate",
+        "B": "A religious ceremony",
+        "C": "A trade agreement",
+        "D": "A secret plan to do something harmful"
+      },
+      "correct": "D",
+      "explanation": "A conspiracy is a secret plan by a group to do something harmful or unlawful.",
+      "source": "CA07"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'suppress' most nearly means:",
+      "options": {
+        "A": "To pay in advance",
+        "B": "To write about",
+        "C": "To encourage openly",
+        "D": "To forcibly stop or prevent something"
+      },
+      "correct": "D",
+      "explanation": "To suppress is to forcibly end or prevent something, such as dissent.",
+      "source": "CA07"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "The word 'uproar' most nearly means:",
+      "options": {
+        "A": "A quiet agreement",
+        "B": "A weather warning",
+        "C": "A loud public protest or outcry",
+        "D": "A legal verdict"
+      },
+      "correct": "C",
+      "explanation": "Uproar is a loud public protest or outcry about something.",
+      "source": "CA14"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'defaced' most nearly means:",
+      "options": {
+        "A": "Photographed",
+        "B": "Painted with care",
+        "C": "Moved to a museum",
+        "D": "Damaged in appearance, e.g. by smearing ink"
+      },
+      "correct": "D",
+      "explanation": "To deface is to damage the surface or appearance of something.",
+      "source": "CA03"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "The word 'stalled' most nearly means:",
+      "options": {
+        "A": "Stopped making progress",
+        "B": "Was officially approved",
+        "C": "Grew very fast",
+        "D": "Started suddenly"
+      },
+      "correct": "A",
+      "explanation": "Stalled means stopped making progress.",
+      "source": "CA02"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "A 'coordinator' is a person who:",
+      "options": {
+        "A": "Writes newspaper editorials",
+        "B": "Collects taxes",
+        "C": "Drives a bus",
+        "D": "Organises people or activities"
+      },
+      "correct": "D",
+      "explanation": "A coordinator is a person who organises people or activities.",
+      "source": "CA09"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "The word 'vandalised' most nearly means:",
+      "options": {
+        "A": "Sold at auction",
+        "B": "Cleaned carefully",
+        "C": "Repaired quickly",
+        "D": "Deliberately damaged"
+      },
+      "correct": "D",
+      "explanation": "To vandalise is to deliberately damage or destroy property.",
+      "source": "CA12"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "The word 'alleged' most nearly means:",
+      "options": {
+        "A": "Said to have done something, without proof",
+        "B": "Proven in court",
+        "C": "Elected by voters",
+        "D": "Written in a book"
+      },
+      "correct": "A",
+      "explanation": "Alleged means said to have done something, without proof.",
+      "source": "CA09"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "To 'incite' people means to:",
+      "options": {
+        "A": "Encourage them towards violent or unlawful behaviour",
+        "B": "Calm them down",
+        "C": "Teach them a skill",
+        "D": "Pay them a salary"
+      },
+      "correct": "A",
+      "explanation": "To incite is to encourage violent or unlawful behaviour.",
+      "source": "CA06"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "The phrase 'take effect' means:",
+      "options": {
+        "A": "To travel abroad",
+        "B": "To cancel an order",
+        "C": "To take a photograph",
+        "D": "To come into force; to start to apply"
+      },
+      "correct": "D",
+      "explanation": "'Take effect' means to come into force or start to apply.",
+      "source": "CA10"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "If something happens 'on schedule', it happens:",
+      "options": {
+        "A": "At the planned time",
+        "B": "After a long delay",
+        "C": "Earlier than planned",
+        "D": "Without any plan"
+      },
+      "correct": "A",
+      "explanation": "'On schedule' means at the planned time; not delayed.",
+      "source": "CA05"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "How much financing did the World Bank approve on 6 November 2026 for Bangladesh's primary education?",
+      "options": {
+        "A": "$13 million",
+        "B": "$300 million",
+        "C": "$3 billion",
+        "D": "$30 million"
+      },
+      "correct": "B",
+      "explanation": "The World Bank approved $300 million for 26 million children from pre-primary to grade 5.",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "According to Bangladesh Bank data, what were daily Bangla QR transactions in the last week of October 2026?",
+      "options": {
+        "A": "Tk 800 million",
+        "B": "Tk 11.9 billion",
+        "C": "Tk 13.5 billion",
+        "D": "Tk 2-3 billion"
+      },
+      "correct": "B",
+      "explanation": "Daily transactions were Tk 2-3 billion in late May, rose to Tk 13.5 billion in the first week of October, then fell to Tk 11.9 billion in the last week of October.",
+      "source": "CA02"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "Whose mural on the Khulna Railway Station wall was defaced with black ink?",
+      "options": {
+        "A": "Michael Madhusudan Dutta",
+        "B": "Kazi Nazrul Islam",
+        "C": "Rabindranath Tagore",
+        "D": "S M Sultan"
+      },
+      "correct": "C",
+      "explanation": "Tagore's mural was defaced; the murals of the others on the same wall were untouched.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "How many senior government officials are going to Pakistan for training in November 2026?",
+      "options": {
+        "A": "35",
+        "B": "50",
+        "C": "30",
+        "D": "12"
+      },
+      "correct": "A",
+      "explanation": "35 officials — five additional secretaries and 30 joint secretaries — go for 14 days of training in Lahore.",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "When will BUET hold its undergraduate admission test for the 2026-27 session?",
+      "options": {
+        "A": "21 November 2026",
+        "B": "9 November 2026",
+        "C": "16 January 2027",
+        "D": "22 November 2026"
+      },
+      "correct": "C",
+      "explanation": "The test will be held on 16 January 2027; applications open on 21 November 2026.",
+      "source": "CA05"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "To how many years in prison was Kenyan pastor Paul Mackenzie sentenced?",
+      "options": {
+        "A": "Life imprisonment",
+        "B": "191 years",
+        "C": "100 years",
+        "D": "200 years"
+      },
+      "correct": "D",
+      "explanation": "Mackenzie was sentenced to 200 years — 100 for homicide and 100 for starvation charges.",
+      "source": "CA06"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "From where did the BNP's 7 November 2026 procession start?",
+      "options": {
+        "A": "Naya Paltan",
+        "B": "Banglamotor",
+        "C": "Manik Mia Avenue",
+        "D": "Farmgate"
+      },
+      "correct": "A",
+      "explanation": "The procession started from Naya Paltan, in front of the BNP's central office, and moved towards Manik Mia Avenue.",
+      "source": "CA07"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "How much money was allegedly agreed to be paid to Md Ibrahim for the New Gini Properties attack?",
+      "options": {
+        "A": "Tk 150",
+        "B": "Tk 50,000",
+        "C": "Tk 10 million (Tk 1 crore)",
+        "D": "Tk 800 million"
+      },
+      "correct": "C",
+      "explanation": "Investigators say prime accused Shahriar Mahmud agreed to pay Ibrahim Tk 10 million (Tk 1 crore).",
+      "source": "CA09"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "After the announced pay rise, what is a Gram Police member's monthly salary?",
+      "options": {
+        "A": "Tk 7,500",
+        "B": "Tk 11,000",
+        "C": "Tk 10,500",
+        "D": "Tk 8,000"
+      },
+      "correct": "C",
+      "explanation": "A member's salary rises from Tk 7,500 to Tk 10,500; a chief's rises from Tk 8,000 to Tk 11,000.",
+      "source": "CA10"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "How many Bangladeshis were killed in the road accident in Saudi Arabia on 7 November 2026?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "190",
+        "D": "15"
+      },
+      "correct": "B",
+      "explanation": "Seven Bangladeshis were killed and 15 injured when a truck rammed into their bus.",
+      "source": "CA11"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "Where did the attack on police during an Awami League procession take place?",
+      "options": {
+        "A": "Joypurhat",
+        "B": "Chattogram, Taltola under Bandar police station",
+        "C": "Dhaka, Naya Paltan",
+        "D": "Khulna"
+      },
+      "correct": "B",
+      "explanation": "The incident took place in the Taltola area of Port Connecting Road, under Bandar police station in Chattogram.",
+      "source": "CA12"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "How much did the ICT Division spend developing 12 software tools, including Kagoj.ai?",
+      "options": {
+        "A": "Tk 10 million",
+        "B": "Tk 300 million",
+        "C": "Tk 800 million",
+        "D": "Tk 80 million"
+      },
+      "correct": "C",
+      "explanation": "The ICT Division spent Tk 800 million developing 12 software tools; usage appears very limited.",
+      "source": "CA13"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "What was missing from the banner at the Joypurhat discussion on 7 November?",
+      "options": {
+        "A": "A photograph of Sheikh Mujibur Rahman",
+        "B": "A photograph of Ziaur Rahman",
+        "C": "The national flag",
+        "D": "The programme schedule"
+      },
+      "correct": "B",
+      "explanation": "The banner was missing a photograph of martyred President Ziaur Rahman, while Sheikh Mujibur Rahman was called 'Father of the Nation'.",
+      "source": "CA14"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "World Bank",
+      "Headline / report": "World Bank Group Helps Improve Pre-primary and Primary Education in Bangladesh",
+      "Publication date": "2026-11-06",
+      "Direct URL": "https://www.worldbank.org/en/news/press-release/2026/11/06/world-bank-group-helps-improve-pre-primary-and-primary-education-in-bangladesh"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "World Bank approves $300m to improve learning for 2.6 crore Bangladeshi children",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/education/world-bank-approves-300m-improve-learning-26-crore-bangladeshi-children-1595296"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Why has growth of transactions through Bangla QR stalled?",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/business/local/hfphch3gp4"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Deccan Herald",
+      "Headline / report": "Rabindranath Tagore's mural defaced in Bangladesh",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://www.deccanherald.com/world/rest-of-world/rabindranath-tagores-mural-defaced-in-bangladesh-4211068"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Week",
+      "Headline / report": "Rabindranath Tagore's mural defaced in Bangladesh",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://www.theweek.in/wire-updates/international/2026/11/07/rabindranath-tagore-s-mural-defaced-in-bangladesh.html"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "35 senior govt officials to travel to Pakistan for training",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/ae3fwsicla"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "BUET follows Dhaka University, keeps 2026-27 admission test on schedule",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/youth/education/n2vti9k72r"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/international/africa/hnx8yc8dgp"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Prime Minister Tarique Rahman joins BNP procession from Naya Paltan",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/politics/c4zksppf43"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "'The people of this country cannot be suppressed through conspiracies': PM",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/politics/4bi3ggory7"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "What happened on 7 November and what I saw",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/x03ps2oqo8"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "'Coordinator' of attack, Juboraj, still not arrested",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/crime-and-law/r8kyhduazr"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "PM announces pay rise for Gram Police, govt to pay mobile bills",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/hub6z93k9n"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "7 Bangladeshis killed, 15 injured in road accident in Saudi Arabia",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/kwpfe9z4g0"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Police attacked from Awami League procession, 6 injured including OC",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/z9ike510pq"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Tk 800 million spent developing 12 software tools: How useful have they been?",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/j56l433zq4"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Ziaur Rahman's photo missing from banner, Sheikh Mujib called 'Father of the Nation', sparking uproar",
+      "Publication date": "2026-11-07",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/rkaacev5ci"
+    }
+  ],
+  "approved_by": "Rudro"
+}

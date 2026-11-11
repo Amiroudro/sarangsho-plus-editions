@@ -1,0 +1,2378 @@
+{
+  "edition_date": "2026-11-05",
+  "edition_day": "Thursday",
+  "coverage": "5 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "70 of 1,863 factories in Ashulia declared holidays on 5 November; workers blocked the Abdullahpur-Baipail road in Jamgora and clashed with police, who used tear gas and sound grenades; production resumed at almost all factories in Gazipur ('99.99 percent' operational); NBR froze accounts of more than 100 individuals and scrutinised about 125 companies (Central Intelligence Cell and Income Tax Intelligence and Investigation Unit); BGB deployed 33 platoons (3 Mirpur, 11 Savar-Ashulia, 12 Gazipur, 7 Narayanganj) plus drones; PM: new minimum wage within one to two months.",
+      "exam_relevance": "High — RMG, labour unrest, law and order.",
+      "figures": "70 factories shut in Ashulia; 100+ accounts frozen; 125 companies scrutinised; 33 BGB platoons; wage within 1-2 months.",
+      "headline": "Garment unrest eases as production resumes in Gazipur",
+      "id": "CA01",
+      "key_people": "Tarique Rahman, Prime Minister; Mia Golam Porwar, Secretary General, Bangladesh Jamaat-e-Islami; Amjad Hossain, Superintendent, Gazipur Industrial Police; Mohammad Mominul Islam Bhuiyan, Superintendent, Ashulia Industrial Police-1.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Workers and police chase each other in Ashulia, 70 factories shut, Gazipur calm",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/tvak5hvcod"
+        },
+        {
+          "date": "2026-11-05",
+          "headline": "Production resumes at almost all garment factories in Gazipur",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/production-resumes-almost-all-garment-factories-gazipur-4316146"
+        },
+        {
+          "date": "2026-11-05",
+          "headline": "NBR freezes and searches accounts of over 200 people, firms over garment unrest",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/nbr-freezes-and-searches-accounts-over-200-people-firms-over-garment-unrest-4316391"
+        },
+        {
+          "date": "2026-11-05",
+          "headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221"
+        },
+        {
+          "date": "2026-11-05",
+          "headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401"
+        }
+      ],
+      "summary": "Garment unrest eased on 5 November as production resumed at almost all factories in Gazipur, though 70 of 1,863 factories in Ashulia declared holidays after workers blocked the Abdullahpur-Baipail road and clashed with police, who used tear gas and sound grenades. The National Board of Revenue froze the bank accounts of more than 100 individuals and scrutinised about 125 companies over alleged financing of the unrest. BGB deployed 33 platoons and drones, and the prime minister said a new minimum wage would be fixed within one or two months.",
+      "why_it_matters": "The unrest is de-escalating but the financial crackdown and the wage-board timeline are the news; the numbers show the scale of the state's response.",
+      "one_liner": "Garment unrest eased on 5 November as production resumed at almost all factories in Gazipur, though 70 of 1,863 factories…",
+      "key_facts": [
+        {
+          "label": "factories shut in Ashulia",
+          "value": "70",
+          "original": "70 factories shut in Ashulia"
+        },
+        {
+          "label": "+ accounts frozen",
+          "value": "100",
+          "original": "100+ accounts frozen"
+        },
+        {
+          "label": "companies scrutinised",
+          "value": "125",
+          "original": "125 companies scrutinised"
+        },
+        {
+          "label": "BGB platoons",
+          "value": "33",
+          "original": "33 BGB platoons"
+        }
+      ],
+      "what_happened": [
+        "The National Board of Revenue froze the bank accounts of more than 100 individuals and scrutinised about 125 companies over alleged financing of the unrest.",
+        "BGB deployed 33 platoons and drones, and the prime minister said a new minimum wage would be fixed within one or two months."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is factories shut in Ashulia?",
+          "a": "70"
+        },
+        {
+          "q": "What is + accounts frozen?",
+          "a": "100"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garment unrest eased on ______ as production resumed at almost all factories in Gazipur, though 70 of 1,863 factories in Ashulia declared holidays after workers blocked the Abdullahpur-Baipail road and clashed with police, who used tear gas and sound grenades.",
+          "answer": "5 November"
+        },
+        {
+          "cloze": "The National Board of Revenue froze the bank accounts of more than ______ individuals and scrutinised about 125 companies over alleged financing of the unrest.",
+          "answer": "100"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "unrest",
+        "eases",
+        "production",
+        "resumes",
+        "gazipur"
+      ],
+      "detail": "Garment unrest eased on 5 November as production resumed at almost all factories in Gazipur, though 70 of 1,863 factories in Ashulia declared holidays after workers blocked the Abdullahpur-Baipail road and clashed with police, who used tear gas and sound grenades. The National Board of Revenue froze the bank accounts of more than 100 individuals and scrutinised about 125 companies over alleged financing of the unrest. BGB deployed 33 platoons and drones, and the prime minister said a new minimum wage would be fixed within one or two months."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "Trade deficit $7.48 billion in July-September 2026-27 (Q1), up 31 percent year-on-year; imports $19.33 billion (+15 percent); exports $11.86 billion (+7 percent); petroleum imports +105 percent to $4.2 billion (from $2 billion); edible oil imports +54 percent, wheat +66 percent; capital goods imports -13.6 percent, capital machinery -22.5 percent to about $770 million; current account deficit $1.33 billion (from $821 million); remittances +13 percent to $8.59 billion; overall external deficit $1.16 billion vs surplus of $853 million a year earlier.",
+      "exam_relevance": "High — trade, balance of payments, fuel imports.",
+      "figures": "Deficit $7.48bn (+31%); fuel imports $4.2bn (+105%); exports $11.86bn; remittances $8.59bn.",
+      "headline": "Trade deficit widens 31% as fuel import bill doubles",
+      "id": "CA02",
+      "key_people": "Bangladesh Bank (data source).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/bangladeshs-trade-deficit-widens-31-fuel-import-bill-doubles-4316541"
+        }
+      ],
+      "summary": "Bangladesh's trade deficit jumped 31 percent year-on-year to $7.48 billion in July-September as the fuel import bill more than doubled, Bangladesh Bank data showed. Imports rose 15 percent to $19.33 billion, driven by petroleum imports up 105 percent to $4.2 billion, while exports rose 7 percent to $11.86 billion. Imports of capital machinery slumped 22.5 percent, pointing to weaker investment, and the current account deficit widened to $1.33 billion despite remittances rising 13 percent to $8.59 billion.",
+      "why_it_matters": "The trade deficit and the fuel bill are core macro-economics exam data; the fall in capital machinery imports signals weak investment.",
+      "one_liner": "Bangladesh's trade deficit jumped 31 percent year-on-year to $7.48 billion in July-September as the fuel import bill more than doubled,…",
+      "key_facts": [
+        {
+          "label": "+31%",
+          "value": "Deficit $7.48bn",
+          "original": "Deficit $7.48bn (+31%)"
+        },
+        {
+          "label": "+105%",
+          "value": "fuel imports $4.2bn",
+          "original": "fuel imports $4.2bn (+105%)"
+        },
+        {
+          "label": "exports",
+          "value": "$11.86bn",
+          "original": "exports $11.86bn"
+        },
+        {
+          "label": "remittances",
+          "value": "$8.59bn",
+          "original": "remittances $8.59bn"
+        }
+      ],
+      "what_happened": [
+        "Imports rose 15 percent to $19.33 billion, driven by petroleum imports up 105 percent to $4.2 billion, while exports rose 7 percent to $11.86 billion.",
+        "Imports of capital machinery slumped 22.5 percent, pointing to weaker investment, and the current account deficit widened to $1.33 billion despite remittances rising 13 percent to $8.59 billion."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is exports?",
+          "a": "$11.86bn"
+        },
+        {
+          "q": "What is remittances?",
+          "a": "$8.59bn"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's trade deficit jumped ______ percent year-on-year to $7.48 billion in July-September as the fuel import bill more than doubled, Bangladesh Bank data showed.",
+          "answer": "31"
+        },
+        {
+          "cloze": "Imports rose ______ percent to $19.33 billion, driven by petroleum imports up 105 percent to $4.2 billion, while exports rose 7 percent to $11.86 billion.",
+          "answer": "15"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "trade",
+        "deficit",
+        "widens",
+        "fuel",
+        "import",
+        "bill",
+        "doubles"
+      ],
+      "detail": "Bangladesh's trade deficit jumped 31 percent year-on-year to $7.48 billion in July-September as the fuel import bill more than doubled, Bangladesh Bank data showed. Imports rose 15 percent to $19.33 billion, driven by petroleum imports up 105 percent to $4.2 billion, while exports rose 7 percent to $11.86 billion. Imports of capital machinery slumped 22.5 percent, pointing to weaker investment, and the current account deficit widened to $1.33 billion despite remittances rising 13 percent to $8.59 billion."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "Reserves $34.85 billion (from $36.38 billion) after a $1.64 billion Asian Clearing Union (ACU) payment; BPM6 reserves $29.98 billion (from $31.51 billion); ACU is a Tehran-based organisation with nine members (India, Bangladesh, Bhutan, Iran, Maldives, Myanmar, Nepal, Pakistan, Sri Lanka); Bangladesh clears import bills every two months through the ACU; BB sold $100 million on 4 November; reserves exceeded $48 billion in August 2021, fell to $25.92 billion, recovered to $37.41 billion on 1 September 2026.",
+      "exam_relevance": "High — forex reserves, ACU, central bank.",
+      "figures": "Reserves $34.85bn; ACU payment $1.64bn; BPM6 reserves $29.98bn.",
+      "headline": "Reserves drop to $34.85 billion after ACU payment",
+      "id": "CA03",
+      "key_people": "Bangladesh Bank (data source).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Reserves drop to $34.85 billion after ACU payment",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/reserves-drop-3485-billion-after-acu-payment-4316506"
+        }
+      ],
+      "summary": "Bangladesh's foreign exchange reserves fell to $34.85 billion from $36.38 billion after the country paid $1.64 billion in regional import bills through the Asian Clearing Union. Under the IMF's BPM6 measure, reserves stood at $29.98 billion. Bangladesh Bank also sold $100 million on 4 November to stabilise the currency market. Reserves, which exceeded $48 billion in August 2021, had fallen to $25.92 billion before recovering to $37.41 billion on 1 September.",
+      "why_it_matters": "Reserve levels and the ACU mechanism are standard banking-exam data; the history shows the reserves' recovery arc.",
+      "one_liner": "Bangladesh's foreign exchange reserves fell to $34.85 billion from $36.38 billion after the country paid $1.64 billion in regional import…",
+      "key_facts": [
+        {
+          "label": "Reserves",
+          "value": "$34.85bn",
+          "original": "Reserves $34.85bn"
+        },
+        {
+          "label": "ACU payment",
+          "value": "$1.64bn",
+          "original": "ACU payment $1.64bn"
+        },
+        {
+          "label": "BPM reserves $29.98bn",
+          "value": "6",
+          "original": "BPM6 reserves $29.98bn"
+        },
+        {
+          "label": "Reserves (from $36.38 billion) after a…",
+          "value": "$34.85 billion",
+          "original": "Reserves $34.85 billion (from $36.38 billion) after a $1.64 billion Asian Clearing Union (ACU) payment"
+        }
+      ],
+      "what_happened": [
+        "Under the IMF's BPM6 measure, reserves stood at $29.98 billion.",
+        "Bangladesh Bank also sold $100 million on 4 November to stabilise the currency market.",
+        "Reserves, which exceeded $48 billion in August 2021, had fallen to $25.92 billion before recovering to $37.41 billion on 1 September."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Reserves?",
+          "a": "$34.85bn"
+        },
+        {
+          "q": "What is ACU payment?",
+          "a": "$1.64bn"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's foreign exchange reserves fell to $______ billion from $36.38 billion after the country paid $1.64 billion in regional import bills through the Asian Clearing Union.",
+          "answer": "34.85"
+        },
+        {
+          "cloze": "Under the IMF's BPM______ measure, reserves stood at $29.98 billion.",
+          "answer": "6"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "reserves",
+        "drop",
+        "billion",
+        "payment"
+      ],
+      "detail": "Bangladesh's foreign exchange reserves fell to $34.85 billion from $36.38 billion after the country paid $1.64 billion in regional import bills through the Asian Clearing Union. Under the IMF's BPM6 measure, reserves stood at $29.98 billion. Bangladesh Bank also sold $100 million on 4 November to stabilise the currency market. Reserves, which exceeded $48 billion in August 2021, had fallen to $25.92 billion before recovering to $37.41 billion on 1 September."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "Scheme: Tk 20,000 crore for shuttered industries, renamed the 'Closed Industry and Service Sector Support Refinancing Scheme' (was 'Pre-financing Scheme'); banks must lend from their own funds first, then seek reimbursement; launched 4 June 2026 as a three-year revolving fund; banks receive funds at 4 percent and lend at up to 7 percent; disbursed Tk 560.93 crore as of 15 October, Tk 929.50 crore in process — total Tk 1,490.43 crore, about 7 percent of the allocation; banks must obtain a declaration that applicants were not involved in money laundering, fraud, fund diversion or loan misuse.",
+      "exam_relevance": "High — refinancing, industrial revival, Bangladesh Bank.",
+      "figures": "Tk 20,000cr scheme; only about 7% disbursed; 4% to banks, up to 7% to borrowers.",
+      "headline": "Bangladesh Bank changes lending rules for Tk 20,000 crore revival fund",
+      "id": "CA04",
+      "key_people": "Bangladesh Bank (regulator).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "BB changes lending rules for Tk 20,000 crore revival fund",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501"
+        }
+      ],
+      "summary": "Bangladesh Bank changed the rules for its Tk 20,000 crore scheme for shuttered industries, requiring banks to lend from their own funds first and then seek reimbursement from the central bank. The scheme was renamed the Closed Industry and Service Sector Support Refinancing Scheme. Launched on 4 June as a three-year revolving fund, it offers banks funds at 4 percent to lend at up to 7 percent, but only about 7 percent of the allocation — Tk 1,490 crore — had been disbursed or was in process by 15 October.",
+      "why_it_matters": "The revival fund's slow disbursement is a key industrial-policy fact; the rule change and the interest rates are directly askable.",
+      "one_liner": "Bangladesh Bank changed the rules for its Tk 20,000 crore scheme for shuttered industries, requiring banks to lend from their…",
+      "key_facts": [
+        {
+          "label": "cr scheme",
+          "value": "Tk 20,000",
+          "original": "Tk 20,000cr scheme"
+        },
+        {
+          "label": "only about % disbursed",
+          "value": "7",
+          "original": "only about 7% disbursed"
+        },
+        {
+          "label": "% to banks, up to 7%…",
+          "value": "4",
+          "original": "4% to banks, up to 7% to borrowers"
+        },
+        {
+          "label": "was 'Pre-financing Scheme'",
+          "value": "Scheme: Tk 20,000 crore for shuttered industries, renamed the 'Closed Industry and Service Sector Support Refinancing Scheme'",
+          "original": "Scheme: Tk 20,000 crore for shuttered industries, renamed the 'Closed Industry and Service Sector Support Refinancing Scheme' (was 'Pre-financing Scheme')"
+        }
+      ],
+      "what_happened": [
+        "The scheme was renamed the Closed Industry and Service Sector Support Refinancing Scheme.",
+        "Launched on 4 June as a three-year revolving fund, it offers banks funds at 4 percent to lend at up to 7 percent,",
+        "but only about 7 percent of the allocation — Tk 1,490 crore — had been disbursed or was in process by 15 October."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is cr scheme?",
+          "a": "Tk 20,000"
+        },
+        {
+          "q": "What is only about % disbursed?",
+          "a": "7"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank changed the rules for its Tk ______ crore scheme for shuttered industries, requiring banks to lend from their own funds first and then seek reimbursement from the central bank.",
+          "answer": "20,000"
+        },
+        {
+          "cloze": "Launched on ______ as a three-year revolving fund, it offers banks funds at 4 percent to lend at up to 7 percent, but only about 7 percent of the allocation — Tk 1,490 crore — had been disbursed or was in process by 15 October.",
+          "answer": "4 June"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "changes",
+        "lending",
+        "rules",
+        "crore",
+        "revival",
+        "fund"
+      ],
+      "detail": "Bangladesh Bank changed the rules for its Tk 20,000 crore scheme for shuttered industries, requiring banks to lend from their own funds first and then seek reimbursement from the central bank. The scheme was renamed the Closed Industry and Service Sector Support Refinancing Scheme. Launched on 4 June as a three-year revolving fund, it offers banks funds at 4 percent to lend at up to 7 percent, but only about 7 percent of the allocation — Tk 1,490 crore — had been disbursed or was in process by 15 October."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "27 listed commercial banks: combined net interest income negative Tk 5,624 crore in January-September 2026, vs positive Tk 3,016 crore a year earlier — first time negative in at least six years; 10 banks reported negative interest income (from 6 a year earlier); net investment income rose 21 percent to Tk 32,622 crore; 20 profitable banks made Tk 9,600 crore combined; seven banks lost more than Tk 13,000 crore; most profitable: BRAC Bank, Pubali Bank, City Bank, Prime Bank, Eastern Bank; biggest losses: Islami Bank, National Bank, AB Bank, IFIC Bank, Rupali Bank.",
+      "exam_relevance": "High — banking, NPL, interest income.",
+      "figures": "Net interest income -Tk 5,624cr; investment income Tk 32,622cr; 7 banks lost over Tk 13,000cr.",
+      "headline": "Banks' lending income turns negative for first time in six years",
+      "id": "CA05",
+      "key_people": "Shah Md Ahsan Habib, Professor, Bangladesh Institute of Bank Management; Mashrur Arefin, Managing Director and CEO, City Bank.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Banks’ lending income turns negative for first time in 6 years",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831"
+        }
+      ],
+      "summary": "Combined net interest income at the country's listed commercial banks turned negative in the first nine months of 2026, for the first time in at least six years, as weak loan demand and bad loans weighed on earnings. The 27 listed lenders reported negative net interest income of Tk 5,624 crore, against a positive Tk 3,016 crore a year earlier. Income from government bonds carried much of the load, rising 21 percent to Tk 32,622 crore, while seven banks lost more than Tk 13,000 crore between them.",
+      "why_it_matters": "Negative lending income shows how bad loans are hollowing out banks' core business — a central banking-exam indicator.",
+      "one_liner": "Combined net interest income at the country's listed commercial banks turned negative in the first nine months of 2026, for…",
+      "key_facts": [
+        {
+          "label": "Net interest income - cr",
+          "value": "Tk 5,624",
+          "original": "Net interest income -Tk 5,624cr"
+        },
+        {
+          "label": "investment income cr",
+          "value": "Tk 32,622",
+          "original": "investment income Tk 32,622cr"
+        },
+        {
+          "label": "banks lost over Tk 13,000cr",
+          "value": "7",
+          "original": "7 banks lost over Tk 13,000cr"
+        },
+        {
+          "label": "27 listed commercial banks",
+          "value": "combined net interest income negative Tk 5,624 crore in January-September 2026, vs positive Tk 3,016 crore a year earlier — first time negative in at least six years",
+          "original": "27 listed commercial banks: combined net interest income negative Tk 5,624 crore in January-September 2026, vs positive Tk 3,016 crore a year earlier — first time negative in at least six years"
+        }
+      ],
+      "what_happened": [
+        "The 27 listed lenders reported negative net interest income of Tk 5,624 crore, against a positive Tk 3,016 crore a year earlier.",
+        "Income from government bonds carried much of the load, rising 21 percent to Tk 32,622 crore, while seven banks lost more than Tk 13,000 crore between them."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Net interest income - cr?",
+          "a": "Tk 5,624"
+        },
+        {
+          "q": "What is investment income cr?",
+          "a": "Tk 32,622"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Combined net interest income at the country's listed commercial banks turned negative in the first nine months of ______ for the first time in at least six years, as weak loan demand and bad loans weighed on earnings.",
+          "answer": "2026,"
+        },
+        {
+          "cloze": "The ______ listed lenders reported negative net interest income of Tk 5,624 crore, against a positive Tk 3,016 crore a year earlier.",
+          "answer": "27"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "banks",
+        "lending",
+        "income",
+        "turns",
+        "negative",
+        "time",
+        "years"
+      ],
+      "detail": "Combined net interest income at the country's listed commercial banks turned negative in the first nine months of 2026, for the first time in at least six years, as weak loan demand and bad loans weighed on earnings. The 27 listed lenders reported negative net interest income of Tk 5,624 crore, against a positive Tk 3,016 crore a year earlier. Income from government bonds carried much of the load, rising 21 percent to Tk 32,622 crore, while seven banks lost more than Tk 13,000 crore between them."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Bangladesh",
+      "event_date": "2026-11-05",
+      "exam_facts": "7 deaths and 1,596 hospitalisations in 24 hours to 8am, 5 November; total deaths 452, total cases 144,371; 5,839 patients under treatment; three deaths in Dhaka division, three in Chattogram, one in Khulna; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "figures": "7 deaths in 24 hours; total deaths 452; total cases 144,371.",
+      "headline": "Seven more die of dengue as toll reaches 452",
+      "id": "CA06",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "7 die of dengue, 1,596 hospitalised in 24 hours",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/7-die-dengue-1596-hospitalised-24-hours-4316416"
+        }
+      ],
+      "summary": "At least seven dengue patients died and 1,596 others were hospitalised in 24 hours, taking the year's death toll to 452 and cases to 144,371, the Directorate General of Health Services said. Three deaths were reported in Dhaka division, three in Chattogram and one in Khulna. Currently 5,839 dengue patients are undergoing treatment in hospitals across the country.",
+      "why_it_matters": "The daily dengue toll is standard public-health data for general-knowledge exams.",
+      "one_liner": "At least seven dengue patients died and 1,596 others were hospitalised in 24 hours, taking the year's death toll to…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "7",
+          "original": "7 deaths in 24 hours"
+        },
+        {
+          "label": "total deaths",
+          "value": "452",
+          "original": "total deaths 452"
+        },
+        {
+          "label": "total cases",
+          "value": "144,371",
+          "original": "total cases 144,371"
+        },
+        {
+          "label": "deaths and 1,596 hospitalisations in 24…",
+          "value": "7",
+          "original": "7 deaths and 1,596 hospitalisations in 24 hours to 8am, 5 November"
+        }
+      ],
+      "what_happened": [
+        "Three deaths were reported in Dhaka division, three in Chattogram and one in Khulna.",
+        "Currently 5,839 dengue patients are undergoing treatment in hospitals across the country."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is total deaths?",
+          "a": "452"
+        },
+        {
+          "q": "What is total cases?",
+          "a": "144,371"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least seven dengue patients died and ______ others were hospitalised in 24 hours, taking the year's death toll to 452 and cases to 144,371, the Directorate General of Health Services said.",
+          "answer": "1,596"
+        },
+        {
+          "cloze": "Currently ______ dengue patients are undergoing treatment in hospitals across the country.",
+          "answer": "5,839"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "seven",
+        "dengue",
+        "toll",
+        "reaches"
+      ],
+      "detail": "At least seven dengue patients died and 1,596 others were hospitalised in 24 hours, taking the year's death toll to 452 and cases to 144,371, the Directorate General of Health Services said. Three deaths were reported in Dhaka division, three in Chattogram and one in Khulna. Currently 5,839 dengue patients are undergoing treatment in hospitals across the country."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Bangladesh",
+      "event_date": "2026-11-05",
+      "exam_facts": "3 deaths with measles-like symptoms in 24 hours to 8am, 5 November; combined tally 1,272 (1,167 suspected, 105 confirmed); suspected cases 235,475; confirmed cases 24,219; since 15 March: 209,854 hospitalised, 201,153 recovered; source: Directorate General of Health Services (DGHS).",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "figures": "3 deaths in 24 hours; combined tally 1,272; suspected cases 235,475.",
+      "headline": "Three more die of measles as tally reaches 1,272",
+      "id": "CA07",
+      "key_people": "Directorate General of Health Services (DGHS).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "3 more die with measles-like symptoms in 24 hours",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/3-more-die-measles-symptoms-24-hours-4316486"
+        }
+      ],
+      "summary": "Three more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,272, the health directorate said. Suspected cases reached 235,475 and confirmed cases 24,219. Since 15 March, 209,854 patients with suspected measles have been hospitalised and 201,153 have recovered.",
+      "why_it_matters": "The measles toll is the other daily public-health figure; the suspected-versus-confirmed split is the detail exams test.",
+      "one_liner": "Three more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "3",
+          "original": "3 deaths in 24 hours"
+        },
+        {
+          "label": "combined tally",
+          "value": "1,272",
+          "original": "combined tally 1,272"
+        },
+        {
+          "label": "suspected cases",
+          "value": "235,475",
+          "original": "suspected cases 235,475"
+        },
+        {
+          "label": "deaths with measles-like symptoms in 24…",
+          "value": "3",
+          "original": "3 deaths with measles-like symptoms in 24 hours to 8am, 5 November"
+        }
+      ],
+      "what_happened": [
+        "Suspected cases reached 235,475 and confirmed cases 24,219.",
+        "Since 15 March, 209,854 patients with suspected measles have been hospitalised and 201,153 have recovered."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is combined tally?",
+          "a": "1,272"
+        },
+        {
+          "q": "What is suspected cases?",
+          "a": "235,475"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Three more patients died with measles-like symptoms in ______ hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,272, the health directorate said.",
+          "answer": "24"
+        },
+        {
+          "cloze": "Suspected cases reached ______ and confirmed cases 24,219.",
+          "answer": "235,475"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "measles",
+        "tally",
+        "reaches"
+      ],
+      "detail": "Three more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,272, the health directorate said. Suspected cases reached 235,475 and confirmed cases 24,219. Since 15 March, 209,854 patients with suspected measles have been hospitalised and 201,153 have recovered."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-05",
+      "exam_facts": "Fifth Primary Education Development Programme (PEDP-5): Tk 41,090 crore, July 2026 to June 2031; approved at the Executive Committee of the National Economic Council (ECNEC) chaired by Prime Minister Tarique Rahman; nearly 57 percent for digital and need-based classrooms and school uniforms; free uniforms for 10,617,962 students; 'One Teacher, One Tab': 383,513 tablets and 20,000 interactive panels; 15,641 need-based classrooms, 1,500 wash blocks, 10,000 boundary walls; training for 3.1 lakh teachers and officials; government Tk 33,203.2 crore, foreign Tk 7,887.3 crore (World Bank, ADB, EU, UNICEF); Economic Internal Rate of Return 17.3 percent, Benefit-Cost Ratio 2.7.",
+      "exam_relevance": "High — primary education, ECNEC, development.",
+      "figures": "Tk 41,090cr; 10.6m students get uniforms; 383,513 tablets; EIRR 17.3%.",
+      "headline": "Government okays Tk 41,090 crore primary education overhaul",
+      "id": "CA08",
+      "key_people": "Tarique Rahman, Prime Minister (ECNEC chair).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Govt okays Tk 41,090cr project to overhaul primary edn",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/govt-okays-tk-41090cr-project-overhaul-primary-edn-4316076"
+        }
+      ],
+      "summary": "The government approved the fifth Primary Education Development Programme, a Tk 41,090 crore project running from July 2026 to June 2031, to overhaul primary education. Nearly 57 percent of the budget will go to digital and need-based classrooms and school uniforms, including free uniforms for 10.6 million students. The 'One Teacher, One Tab' initiative will distribute 383,513 tablets and 20,000 interactive panels, and 15,641 need-based classrooms will be built. The World Bank, ADB, EU and UNICEF pledged support.",
+      "why_it_matters": "The biggest education project of the year, with its budget, tablet count and uniform numbers, is a core education-policy exam topic.",
+      "one_liner": "The government approved the fifth Primary Education Development Programme, a Tk 41,090 crore project running from July 2026 to June…",
+      "key_facts": [
+        {
+          "label": "cr",
+          "value": "Tk 41,090",
+          "original": "Tk 41,090cr"
+        },
+        {
+          "label": "m students get uniforms",
+          "value": "10.6",
+          "original": "10.6m students get uniforms"
+        },
+        {
+          "label": "EIRR %",
+          "value": "17.3",
+          "original": "EIRR 17.3%"
+        },
+        {
+          "label": "Fifth Primary Education Development Programme (PEDP-5)",
+          "value": "Tk 41,090 crore, July 2026 to June 2031",
+          "original": "Fifth Primary Education Development Programme (PEDP-5): Tk 41,090 crore, July 2026 to June 2031"
+        }
+      ],
+      "what_happened": [
+        "Nearly 57 percent of the budget will go to digital and need-based classrooms and school uniforms, including free uniforms for 10.6 million students.",
+        "The 'One Teacher, One Tab' initiative will distribute 383,513 tablets and 20,000 interactive panels, and 15,641 need-based classrooms will be built.",
+        "The World Bank, ADB, EU and UNICEF pledged support."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is cr?",
+          "a": "Tk 41,090"
+        },
+        {
+          "q": "What is m students get uniforms?",
+          "a": "10.6"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government approved the fifth Primary Education Development Programme, a Tk 41,090 crore project running from ______26 to June 2031, to overhaul primary education.",
+          "answer": "July 20"
+        },
+        {
+          "cloze": "Nearly ______ percent of the budget will go to digital and need-based classrooms and school uniforms, including free uniforms for 10.6 million students.",
+          "answer": "57"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "government",
+        "okays",
+        "crore",
+        "primary",
+        "education",
+        "overhaul"
+      ],
+      "detail": "The government approved the fifth Primary Education Development Programme, a Tk 41,090 crore project running from July 2026 to June 2031, to overhaul primary education. Nearly 57 percent of the budget will go to digital and need-based classrooms and school uniforms, including free uniforms for 10.6 million students. The 'One Teacher, One Tab' initiative will distribute 383,513 tablets and 20,000 interactive panels, and 15,641 need-based classrooms will be built. The World Bank, ADB, EU and UNICEF pledged support."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "Mongla Port Expansion and Modernisation Project: Tk 4,068 crore; foundation stone laid by Prime Minister Tarique Rahman on 5 November; modern container terminal, yards and cargo-handling facilities; PM: port can become an economic hub for southwestern and northwestern regions; road connectivity from Panchagarh to Mongla to be expanded; Khan Jahan Ali Airport development a priority; Chinese support thanked.",
+      "exam_relevance": "High — ports, infrastructure, regional development.",
+      "figures": "Tk 4,068cr project; Mongla in Bagerhat district.",
+      "headline": "Mongla Port set for Tk 4,068 crore overhaul",
+      "id": "CA09",
+      "key_people": "Tarique Rahman, Prime Minister.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Mongla Port set for Tk 4,068cr overhaul as PM eyes regional economic hub",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/governance/news/mongla-port-set-tk-4068cr-overhaul-pm-eyes-regional-economic-hub-4316301"
+        }
+      ],
+      "summary": "Prime Minister Tarique Rahman laid the foundation stone of the Tk 4,068 crore Mongla Port Expansion and Modernisation Project, saying the port could become an economic hub for the country's southwestern and northwestern regions. The project includes a modern container terminal, yards and cargo-handling facilities. The prime minister said road connectivity from Panchagarh to Mongla would be expanded and that developing Khan Jahan Ali Airport was also a priority.",
+      "why_it_matters": "Mongla is Bangladesh's second seaport; its modernisation and the regional-hub ambition are infrastructure exam topics.",
+      "one_liner": "Prime Minister Tarique Rahman laid the foundation stone of the Tk 4,068 crore Mongla Port Expansion and Modernisation Project, saying…",
+      "key_facts": [
+        {
+          "label": "cr project",
+          "value": "Tk 4,068",
+          "original": "Tk 4,068cr project"
+        },
+        {
+          "label": "",
+          "value": "Mongla in Bagerhat district",
+          "original": "Mongla in Bagerhat district"
+        },
+        {
+          "label": "Mongla Port Expansion and Modernisation Project",
+          "value": "Tk 4,068 crore",
+          "original": "Mongla Port Expansion and Modernisation Project: Tk 4,068 crore"
+        },
+        {
+          "label": "PM",
+          "value": "port can become an economic hub for southwestern and northwestern regions",
+          "original": "PM: port can become an economic hub for southwestern and northwestern regions"
+        }
+      ],
+      "what_happened": [
+        "The project includes a modern container terminal, yards and cargo-handling facilities.",
+        "The prime minister said road connectivity from Panchagarh to Mongla would be expanded and that developing Khan Jahan Ali Airport was also a priority."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is cr project?",
+          "a": "Tk 4,068"
+        },
+        {
+          "q": "What is Mongla Port Expansion and Modernisation Project?",
+          "a": "Tk 4,068 crore"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman laid the foundation stone of the Tk ______ crore Mongla Port Expansion and Modernisation Project, saying the port could become an economic hub for the country's southwestern and northwestern regions.",
+          "answer": "4,068"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "mongla",
+        "port",
+        "crore",
+        "overhaul"
+      ],
+      "detail": "Prime Minister Tarique Rahman laid the foundation stone of the Tk 4,068 crore Mongla Port Expansion and Modernisation Project, saying the port could become an economic hub for the country's southwestern and northwestern regions. The project includes a modern container terminal, yards and cargo-handling facilities. The prime minister said road connectivity from Panchagarh to Mongla would be expanded and that developing Khan Jahan Ali Airport was also a priority."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Bangladesh",
+      "event_date": "2026-11-05",
+      "exam_facts": "MoU on economic and infrastructure cooperation signed at Mongla Port on 5 November between Invest Bangladesh and China Railway Construction Corporation (CRCC); signed by Saleh Ahmed (Invest Bangladesh) and Li Chongyang (China Civil Engineering Construction Corporation); sectors: energy, industrial and green infrastructure, transport, logistics, human resource development; present: Road Transport, Bridges, Railways and Shipping Minister Shaikh Rabiul Alam, Invest Bangladesh Chairman Ashik Chowdhury, CRCC Chairman Dai Hegen.",
+      "exam_relevance": "High — China-Bangladesh, investment, infrastructure.",
+      "figures": "MoU between Invest Bangladesh and CRCC.",
+      "headline": "Bangladesh and China sign economic cooperation MoU",
+      "id": "CA10",
+      "key_people": "Tarique Rahman, Prime Minister (present); Saleh Ahmed, Invest Bangladesh; Li Chongyang, China Civil Engineering Construction Corporation; Dai Hegen, Chairman, CRCC.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Bangladesh, China sign MoU on economic, infrastructure cooperation",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-china-sign-mou-economic-infrastructure-cooperation-4316216"
+        }
+      ],
+      "summary": "Bangladesh and China signed a memorandum of understanding on economic and infrastructure cooperation at Mongla Port, between Invest Bangladesh and China Railway Construction Corporation. The agreement, signed in the presence of Prime Minister Tarique Rahman, covers investment in energy, industrial and green infrastructure, transport, logistics and human resource development. Invest Bangladesh will connect investors with public and private stakeholders to support investment initiatives.",
+      "why_it_matters": "A new China investment agreement, signed at the port modernisation ceremony, links trade, diplomacy and infrastructure.",
+      "one_liner": "Bangladesh and China signed a memorandum of understanding on economic and infrastructure cooperation at Mongla Port, between Invest Bangladesh and…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "MoU between Invest Bangladesh and CRCC",
+          "original": "MoU between Invest Bangladesh and CRCC"
+        },
+        {
+          "label": "CRCC",
+          "value": "MoU on economic and infrastructure cooperation signed at Mongla Port on 5 November between Invest Bangladesh and China Railway Construction Corporation",
+          "original": "MoU on economic and infrastructure cooperation signed at Mongla Port on 5 November between Invest Bangladesh and China Railway Construction Corporation (CRCC)"
+        },
+        {
+          "label": "China Civil Engineering Construction Corporation",
+          "value": "signed by Saleh Ahmed (Invest Bangladesh) and Li Chongyang",
+          "original": "signed by Saleh Ahmed (Invest Bangladesh) and Li Chongyang (China Civil Engineering Construction Corporation)"
+        },
+        {
+          "label": "sectors",
+          "value": "energy, industrial and green infrastructure, transport, logistics, human resource development",
+          "original": "sectors: energy, industrial and green infrastructure, transport, logistics, human resource development"
+        }
+      ],
+      "what_happened": [
+        "The agreement, signed in the presence of Prime Minister Tarique Rahman, covers investment in energy, industrial and green infrastructure, transport, logistics and human resource development.",
+        "Invest Bangladesh will connect investors with public and private stakeholders to support investment initiatives."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is China Civil Engineering Construction Corporation?",
+          "a": "signed by Saleh Ahmed (Invest Bangladesh) and Li Chongyang"
+        },
+        {
+          "q": "What is sectors?",
+          "a": "energy, industrial and green infrastructure, transport, logistics, human resource development"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "bangladesh",
+        "china",
+        "sign",
+        "economic",
+        "cooperation"
+      ],
+      "detail": "Bangladesh and China signed a memorandum of understanding on economic and infrastructure cooperation at Mongla Port, between Invest Bangladesh and China Railway Construction Corporation. The agreement, signed in the presence of Prime Minister Tarique Rahman, covers investment in energy, industrial and green infrastructure, transport, logistics and human resource development. Invest Bangladesh will connect investors with public and private stakeholders to support investment initiatives."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "exam_facts": "Target: 5,000MW solar power before next summer (Power and Energy Minister Iqbal Hassan Mahmood, Rajshahi, 5 November); rooftop solar buyback at Tk 10 per unit; past eight months: Tk 46,000 crore in electricity subsidies; earlier target (3 November): 3,000-4,000MW before next summer, with net-metering buyback Tk 10.50 per unit by February 2027.",
+      "exam_relevance": "High — renewable energy, energy security.",
+      "figures": "5,000MW target; Tk 10 per unit rooftop buyback; Tk 46,000cr subsidies in 8 months.",
+      "headline": "Government targets 5,000MW solar power before next summer",
+      "id": "CA11",
+      "key_people": "Iqbal Hassan Mahmood, Power, Energy and Mineral Resources Minister.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Govt targets 5,000MW solar power before next summer: Energy minister",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/power-and-energy/news/govt-targets-5000mw-solar-power-next-summer-energy-minister-4316341"
+        }
+      ],
+      "summary": "The government aims to generate 5,000 megawatts of electricity from solar power before next summer, Power and Energy Minister Iqbal Hassan Mahmood said in Rajshahi. The government will also buy electricity from household rooftop solar panels at Tk 10 per unit. Over the past eight months, the government had to provide Tk 46,000 crore in subsidies for electricity supply, and the minister said expanding solar power would cut dependence on conventional fuels and ease the subsidy burden.",
+      "why_it_matters": "The solar target was raised from 3,000-4,000MW to 5,000MW in two days; the target, the buyback price and the subsidy figure are energy-policy exam facts.",
+      "one_liner": "The government aims to generate 5,000 megawatts of electricity from solar power before next summer, Power and Energy Minister Iqbal…",
+      "key_facts": [
+        {
+          "label": "MW target",
+          "value": "5,000",
+          "original": "5,000MW target"
+        },
+        {
+          "label": "per unit rooftop buyback",
+          "value": "Tk 10",
+          "original": "Tk 10 per unit rooftop buyback"
+        },
+        {
+          "label": "cr subsidies in 8 months",
+          "value": "Tk 46,000",
+          "original": "Tk 46,000cr subsidies in 8 months"
+        },
+        {
+          "label": "Power and Energy Minister Iqbal Hassan Mahmood, Rajshahi, 5 November",
+          "value": "Target: 5,000MW solar power before next summer",
+          "original": "Target: 5,000MW solar power before next summer (Power and Energy Minister Iqbal Hassan Mahmood, Rajshahi, 5 November)"
+        }
+      ],
+      "what_happened": [
+        "The government will also buy electricity from household rooftop solar panels at Tk 10 per unit.",
+        "Over the past eight months, the government had to provide Tk 46,000 crore in subsidies for electricity supply,",
+        "and the minister said expanding solar power would cut dependence on conventional fuels and ease the subsidy burden."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is MW target?",
+          "a": "5,000"
+        },
+        {
+          "q": "What is per unit rooftop buyback?",
+          "a": "Tk 10"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government aims to generate ______ megawatts of electricity from solar power before next summer, Power and Energy Minister Iqbal Hassan Mahmood said in Rajshahi.",
+          "answer": "5,000"
+        },
+        {
+          "cloze": "The government will also buy electricity from household rooftop solar panels at Tk ______ per unit.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "government",
+        "targets",
+        "solar",
+        "power",
+        "next",
+        "summer"
+      ],
+      "detail": "The government aims to generate 5,000 megawatts of electricity from solar power before next summer, Power and Energy Minister Iqbal Hassan Mahmood said in Rajshahi. The government will also buy electricity from household rooftop solar panels at Tk 10 per unit. Over the past eight months, the government had to provide Tk 46,000 crore in subsidies for electricity supply, and the minister said expanding solar power would cut dependence on conventional fuels and ease the subsidy burden."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-05",
+      "exam_facts": "Dhaka University undergraduate admission 2026-27: online applications 11-25 November 2026; five units (Arts, Law and Social Sciences; Science; Business Studies; Fine Arts; IBA); three general units: 60 MCQ + 40 written marks, 45 minutes each; total 120 marks (100 test + 20 from SSC/HSC results); SSC 2021-2024, HSC 2026; Science unit: combined GPA at least 8.0; tests in Dhaka and seven divisional cities.",
+      "exam_relevance": "High — university admission, dates.",
+      "figures": "Applications 11-25 November; 120 total marks; 5 units.",
+      "headline": "Dhaka University admission applications open on 11 November",
+      "id": "CA12",
+      "key_people": "Professor ABM Obaidul Islam, Vice Chancellor, Dhaka University.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "DU undergraduate admission applications open on 11 November",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/education/du-undergraduate-admission-applications-open-11-november-1594166"
+        }
+      ],
+      "summary": "The University of Dhaka will begin accepting online applications for undergraduate admission for the 2026-27 academic year on 11 November, with the window closing on 25 November. Admission tests will be held under five units, with tests for three general units comprising 60 marks of multiple-choice questions and 40 marks of written questions. Candidates will be assessed on 120 marks in total, including 20 marks from their secondary and higher secondary results.",
+      "why_it_matters": "Admission dates and the test format are directly relevant to university applicants using this app.",
+      "one_liner": "The University of Dhaka will begin accepting online applications for undergraduate admission for the 2026-27 academic year on 11 November,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Applications 11-25 November",
+          "original": "Applications 11-25 November"
+        },
+        {
+          "label": "total marks",
+          "value": "120",
+          "original": "120 total marks"
+        },
+        {
+          "label": "units",
+          "value": "5",
+          "original": "5 units"
+        },
+        {
+          "label": "Dhaka University undergraduate admission 2026-27",
+          "value": "online applications 11-25 November 2026",
+          "original": "Dhaka University undergraduate admission 2026-27: online applications 11-25 November 2026"
+        }
+      ],
+      "what_happened": [
+        "Admission tests will be held under five units, with tests for three general units comprising 60 marks of multiple-choice questions and 40 marks of written questions.",
+        "Candidates will be assessed on 120 marks in total, including 20 marks from their secondary and higher secondary results."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is total marks?",
+          "a": "120"
+        },
+        {
+          "q": "What is units?",
+          "a": "5"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The University of Dhaka will begin accepting online applications for undergraduate admission for the 2026-27 academic year on ______, with the window closing on 25 November.",
+          "answer": "11 November"
+        },
+        {
+          "cloze": "Admission tests will be held under five units, with tests for three general units comprising ______ marks of multiple-choice questions and 40 marks of written questions.",
+          "answer": "60"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "dhaka",
+        "university",
+        "admission",
+        "applications",
+        "open",
+        "november"
+      ],
+      "detail": "The University of Dhaka will begin accepting online applications for undergraduate admission for the 2026-27 academic year on 11 November, with the window closing on 25 November. Admission tests will be held under five units, with tests for three general units comprising 60 marks of multiple-choice questions and 40 marks of written questions. Candidates will be assessed on 120 marks in total, including 20 marks from their secondary and higher secondary results."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-05",
+      "exam_facts": "9th teacher recruitment examination (NTRCA) may be held in December 2026, after viva voce for heads and assistant heads ends 9 December; first time the registration examination leads directly to recruitment (not just eligibility); called the 9th teacher recruitment examination instead of the 19th teacher registration examination; final decision needs Ministry of Education approval; 18th registration notice published 4 November 2023, preliminary exam March 2024.",
+      "exam_relevance": "High — teacher recruitment, NTRCA, jobs.",
+      "figures": "Exam may be held December 2026; viva ends 9 December.",
+      "headline": "Ninth teacher recruitment exam may be held in December",
+      "id": "CA13",
+      "key_people": "Non-Government Teachers' Registration and Certification Authority (NTRCA).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "9th teacher recruitment exam: NTRCA gives timeline",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/employment/dsf3r06p0g"
+        }
+      ],
+      "summary": "The 9th teacher recruitment examination under the Non-Government Teachers' Registration and Certification Authority may be held in December, after viva voce examinations for heads and assistant heads of institutions end on 9 December. For the first time, the registration examination will lead directly to recruitment rather than merely assessing eligibility, so it will be called the 9th teacher recruitment examination instead of the 19th teacher registration examination. A final decision needs the Ministry of Education's approval.",
+      "why_it_matters": "The change from registration to direct recruitment is a major shift for teacher job-seekers; the timeline is the key fact.",
+      "one_liner": "The 9th teacher recruitment examination under the Non-Government Teachers' Registration and Certification Authority may be held in December, after viva…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Exam may be held December 2026",
+          "original": "Exam may be held December 2026"
+        },
+        {
+          "label": "",
+          "value": "viva ends 9 December",
+          "original": "viva ends 9 December"
+        },
+        {
+          "label": "th teacher recruitment examination (NTRCA) may…",
+          "value": "9",
+          "original": "9th teacher recruitment examination (NTRCA) may be held in December 2026, after viva voce for heads and assistant heads ends 9 December"
+        },
+        {
+          "label": "not just eligibility",
+          "value": "first time the registration examination leads directly to recruitment",
+          "original": "first time the registration examination leads directly to recruitment (not just eligibility)"
+        }
+      ],
+      "what_happened": [
+        "For the first time, the registration examination will lead directly to recruitment rather than merely assessing eligibility,",
+        "so it will be called the 9th teacher recruitment examination instead of the 19th teacher registration examination.",
+        "A final decision needs the Ministry of Education's approval."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is not just eligibility?",
+          "a": "first time the registration examination leads directly to recruitment"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The 9th teacher recruitment examination under the Non-Government Teachers' Registration and Certification Authority may be held in December, after viva voce examinations for heads and assistant heads of institutions end on ______.",
+          "answer": "9 December"
+        },
+        {
+          "cloze": "For the first time, the registration examination will lead directly to recruitment rather than merely assessing eligibility, so it will be called the ______th teacher recruitment examination instead of the 19th teacher registration examination.",
+          "answer": "9"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "ninth",
+        "teacher",
+        "recruitment",
+        "exam",
+        "held",
+        "december"
+      ],
+      "detail": "The 9th teacher recruitment examination under the Non-Government Teachers' Registration and Certification Authority may be held in December, after viva voce examinations for heads and assistant heads of institutions end on 9 December. For the first time, the registration examination will lead directly to recruitment rather than merely assessing eligibility, so it will be called the 9th teacher recruitment examination instead of the 19th teacher registration examination. A final decision needs the Ministry of Education's approval."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "Bangladesh",
+      "event_date": "2026-11-05",
+      "exam_facts": "Sheikh Hasina told the Associated Press by email on 5 November 2026 that she will return to Bangladesh in December: 'If death is my destiny, I would rather die on the soil of my own country, among my own people. So, I will return to Bangladesh. That decision has not changed.'; fled to India in 2024; tribunal sentenced her to death in 2025 for crimes against humanity; UN estimated nearly 1,400 killed in the unrest; first announced the plan in August; Bangladesh has repeatedly sought her extradition; Tarique Rahman won a February landslide; her banned party was barred.",
+      "exam_relevance": "High — politics, ICT, extradition.",
+      "figures": "Return planned December 2026; death sentence 2025; nearly 1,400 killed (UN estimate).",
+      "headline": "Hasina says she will return to Bangladesh in December",
+      "id": "CA14",
+      "key_people": "Sheikh Hasina, former prime minister (convicted).",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Hasina Says She Will Return to Bangladesh in December Despite Death Sentence",
+          "publication": "IJR (reporting the Associated Press)",
+          "url": "https://ijr.com/discover/world-2026-11-05-ousted-hasina-plans-december-return-bangladesh-a366108c"
+        }
+      ],
+      "summary": "Sheikh Hasina told the Associated Press by email that she will return to Bangladesh in December, saying she would rather die on the soil of her own country than watch her people suffer from a distance. She fled to India in 2024 after a student-led uprising, and a tribunal sentenced her to death in 2025 for crimes against humanity. She first announced the plan in August without saying how she would return, and knows she may be arrested, imprisoned, tortured or killed. Bangladesh has repeatedly sought her extradition from India.",
+      "why_it_matters": "A convicted former prime minister announcing her return is a major political story; the quote, the sentence and the extradition context are the exam facts.",
+      "one_liner": "Sheikh Hasina told the Associated Press by email that she will return to Bangladesh in December, saying she would rather…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Return planned December 2026",
+          "original": "Return planned December 2026"
+        },
+        {
+          "label": "",
+          "value": "death sentence 2025",
+          "original": "death sentence 2025"
+        },
+        {
+          "label": "UN estimate",
+          "value": "nearly 1,400 killed",
+          "original": "nearly 1,400 killed (UN estimate)"
+        },
+        {
+          "label": "UN estimated nearly killed in the…",
+          "value": "1,400",
+          "original": "UN estimated nearly 1,400 killed in the unrest"
+        }
+      ],
+      "what_happened": [
+        "She fled to India in 2024 after a student-led uprising, and a tribunal sentenced her to death in 2025 for crimes against humanity.",
+        "She first announced the plan in August without saying how she would return, and knows she may be arrested, imprisoned, tortured or killed.",
+        "Bangladesh has repeatedly sought her extradition from India."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is UN estimate?",
+          "a": "nearly 1,400 killed"
+        },
+        {
+          "q": "What is UN estimated nearly killed in the…?",
+          "a": "1,400"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "She fled to India in ______ after a student-led uprising, and a tribunal sentenced her to death in 2025 for crimes against humanity.",
+          "answer": "2024"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "hasina",
+        "return",
+        "december"
+      ],
+      "detail": "Sheikh Hasina told the Associated Press by email that she will return to Bangladesh in December, saying she would rather die on the soil of her own country than watch her people suffer from a distance. She fled to India in 2024 after a student-led uprising, and a tribunal sentenced her to death in 2025 for crimes against humanity. She first announced the plan in August without saying how she would return, and knows she may be arrested, imprisoned, tortured or killed. Bangladesh has repeatedly sought her extradition from India."
+    },
+    {
+      "article_date": "2026-11-05",
+      "category": "World",
+      "event_date": "2026-11-05",
+      "exam_facts": "Democrats vowed to rein in President Trump; Senate majority at least 54-44; House gained at least 30 seats; Hakeem Jeffries on track to become the first Black Speaker of the House; Jeffries: 'We don't work for Donald Trump... The days of the House of Representatives functioning like a wholly owned subsidiary of the Trump administration are over.'; New York City Mayor Zohran Mamdani urged the party to deliver; Mississippi and Alaska races still undecided; Trump showed off his under-construction White House ballroom.",
+      "exam_relevance": "High — US politics, Congress.",
+      "figures": "Senate at least 54-44; House +30 seats; first Black Speaker on track.",
+      "headline": "Democrats flex majorities as Trump accepts electoral losses",
+      "id": "CA15",
+      "key_people": "Hakeem Jeffries, House Democratic Leader; Donald Trump, US President; Zohran Mamdani, Mayor of New York City.",
+      "sources": [
+        {
+          "date": "2026-11-05",
+          "headline": "Democrats flex congressional majorities as Trump accepts electoral losses",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/international/americas/4nlva5du32"
+        }
+      ],
+      "summary": "Democrats vowed to use their midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Trump showed off his under-construction White House ballroom. Democrats flipped seats in deeply Republican states for a Senate majority of at least 54-44 and gained at least 30 House seats. House Democratic Leader Hakeem Jeffries, on track to become the first Black Speaker of the House, said the days of the House functioning like a wholly owned subsidiary of the Trump administration are over.",
+      "why_it_matters": "The new balance of power in Washington and the first Black Speaker prospect are the follow-up facts to the midterm result.",
+      "one_liner": "Democrats vowed to use their midterm victory to rein in President Donald Trump, setting up two years of possible deadlock…",
+      "key_facts": [
+        {
+          "label": "Senate at least",
+          "value": "54-44",
+          "original": "Senate at least 54-44"
+        },
+        {
+          "label": "House + seats",
+          "value": "30",
+          "original": "House +30 seats"
+        },
+        {
+          "label": "",
+          "value": "first Black Speaker on track",
+          "original": "first Black Speaker on track"
+        },
+        {
+          "label": "",
+          "value": "Democrats vowed to rein in President Trump",
+          "original": "Democrats vowed to rein in President Trump"
+        }
+      ],
+      "what_happened": [
+        "Democrats flipped seats in deeply Republican states for a Senate majority of at least 54-44 and gained at least 30 House seats.",
+        "House Democratic Leader Hakeem Jeffries, on track to become the first Black Speaker of the House,",
+        "said the days of the House functioning like a wholly owned subsidiary of the Trump administration are over."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Senate at least?",
+          "a": "54-44"
+        },
+        {
+          "q": "What is House + seats?",
+          "a": "30"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Democrats flipped seats in deeply Republican states for a Senate majority of at least ______ and gained at least 30 House seats.",
+          "answer": "54-44"
+        }
+      ],
+      "keywords": [
+        "world",
+        "democrats",
+        "flex",
+        "majorities",
+        "trump",
+        "accepts",
+        "electoral",
+        "losses"
+      ],
+      "detail": "Democrats vowed to use their midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Trump showed off his under-construction White House ballroom. Democrats flipped seats in deeply Republican states for a Senate majority of at least 54-44 and gained at least 30 House seats. House Democratic Leader Hakeem Jeffries, on track to become the first Black Speaker of the House, said the days of the House functioning like a wholly owned subsidiary of the Trump administration are over."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "—",
+      "Article headline": "Workers and police chase each other in Ashulia, 70 factories shut, Gazipur calm",
+      "BCS / Bank relevance": "High — law and order, protests.",
+      "Bangla meaning": "নিক্ষিপ্ত বস্তু",
+      "Bangla phonetic": "প্রোজেক্টাইল",
+      "Collocations / patterns": "damaged by projectiles, throw projectiles",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/tvak5hvcod",
+      "English definition": "An object thrown or fired through the air, such as a stone or a bullet.",
+      "Headword / phrase": "projectile",
+      "IPA": "/prəˈdʒektaɪl/",
+      "Newspaper context note": "A police vehicle was damaged by projectiles thrown by protesters in Ashulia.",
+      "Original example": "A police vehicle was damaged by projectiles thrown by protesters.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "missile, object, stone",
+      "Word family / derivatives": "project (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "Medium — security, vocabulary.",
+      "Bangla meaning": "প্লাটুন",
+      "Bangla phonetic": "প্লাটুন",
+      "Collocations / patterns": "deploy platoons, 33 platoons",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A small military unit, typically of about 30 soldiers, commanded by a lieutenant.",
+      "Headword / phrase": "platoon",
+      "IPA": "/pləˈtuːn/",
+      "Newspaper context note": "Border Guard Bangladesh deployed 33 platoons to maintain security in industrial areas.",
+      "Original example": "BGB deployed 33 platoons to guard the industrial areas.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "squad, unit, detachment",
+      "Word family / derivatives": "platoon (noun)"
+    },
+    {
+      "Antonyms": "peace, order",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "High — law and order, policing.",
+      "Bangla meaning": "দাঙ্গা",
+      "Bangla phonetic": "রায়ট",
+      "Collocations / patterns": "riot control vehicles, riot police",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A violent disturbance of the peace by a crowd; (adjective) relating to such disturbances.",
+      "Headword / phrase": "riot",
+      "IPA": "/ˈraɪət/",
+      "Newspaper context note": "BGB deployed Armoured Personnel Carriers and Riot Control Vehicles to strengthen security.",
+      "Original example": "Riot control vehicles were deployed to strengthen security.",
+      "Part of speech / type": "noun / adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "uprising, disturbance, unrest",
+      "Word family / derivatives": "riot (verb), rioting (noun)"
+    },
+    {
+      "Antonyms": "fiat currency",
+      "Article headline": "RMG unrest: NBR orders freezing bank accounts of 100 suspected individuals",
+      "BCS / Bank relevance": "High — finance, digital money, crime.",
+      "Bangla meaning": "ক্রিপ্টোকারেন্সি",
+      "Bangla phonetic": "ক্রিপ্টোকারেন্সি",
+      "Collocations / patterns": "transactions through cryptocurrency, cryptocurrency payments",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/ongz3mbbmu",
+      "English definition": "A digital currency that uses cryptography for security and operates independently of a central bank.",
+      "Headword / phrase": "cryptocurrency",
+      "IPA": "/ˌkrɪptəʊˈkʌrənsi/",
+      "Newspaper context note": "The NBR found information about transactions through cryptocurrency, in addition to mobile financial services, linked to the unrest.",
+      "Original example": "Investigators found transactions through cryptocurrency and mobile financial services.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "digital currency, crypto",
+      "Word family / derivatives": "crypto (noun)"
+    },
+    {
+      "Antonyms": "calm, suppress",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — politics, law and order.",
+      "Bangla meaning": "উসকানি দেওয়া",
+      "Bangla phonetic": "ফোমেন্ট",
+      "Collocations / patterns": "foment unrest, foment disorder",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To deliberately stir up or encourage trouble, especially political unrest.",
+      "Headword / phrase": "foment",
+      "IPA": "/fəʊˈment/",
+      "Newspaper context note": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Original example": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "instigate, provoke, stir up",
+      "Word family / derivatives": "fomentation (noun)"
+    },
+    {
+      "Antonyms": "advance, promote",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — politics, vocabulary.",
+      "Bangla meaning": "ব্যাহত করা",
+      "Bangla phonetic": "ডিরেইল",
+      "Collocations / patterns": "derail efforts, derail plans",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To prevent a plan or process from continuing as intended; to cause a train to leave the tracks.",
+      "Headword / phrase": "derail",
+      "IPA": "/dɪˈreɪl/",
+      "Newspaper context note": "The prime minister said conspirators were trying to derail the government's efforts to improve people's lives.",
+      "Original example": "Conspirators were trying to derail the government's efforts to improve people's lives.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "disrupt, sabotage, thwart",
+      "Word family / derivatives": "derailment (noun)"
+    },
+    {
+      "Antonyms": "deposit, return",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — corruption, finance.",
+      "Bangla meaning": "পাচার করা",
+      "Bangla phonetic": "সাইফন",
+      "Collocations / patterns": "siphon off wealth, siphon money abroad",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To secretly take money or resources away, usually over time, for one's own use.",
+      "Headword / phrase": "siphon",
+      "IPA": "/ˈsaɪfən/",
+      "Newspaper context note": "The prime minister said those who siphoned off the country's wealth abroad were now trying to create disorder.",
+      "Original example": "Those who siphoned off the country's wealth abroad are now trying to create disorder.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "divert, drain, channel away",
+      "Word family / derivatives": "siphon (noun)"
+    },
+    {
+      "Antonyms": "unfitting, inappropriate",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "Medium — vocabulary, formal usage.",
+      "Bangla meaning": "উপযুক্ত",
+      "Bangla phonetic": "বিফিটিং",
+      "Collocations / patterns": "befitting reply, befitting response",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "Suitable or appropriate for the occasion or situation.",
+      "Headword / phrase": "befitting",
+      "IPA": "/bɪˈfɪtɪŋ/",
+      "Newspaper context note": "The prime minister said the people would give the conspirators a befitting reply, as in 2024.",
+      "Original example": "The people will give the conspirators a befitting reply, the prime minister said.",
+      "Part of speech / type": "adjective",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "fitting, appropriate, proper",
+      "Word family / derivatives": "befit (verb)"
+    },
+    {
+      "Antonyms": "protect, safeguard",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — vocabulary, formal usage.",
+      "Bangla meaning": "বিপন্ন করা",
+      "Bangla phonetic": "জেপারডাইজ",
+      "Collocations / patterns": "jeopardise the future, jeopardise jobs",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To put something at risk of being harmed or lost.",
+      "Headword / phrase": "jeopardise",
+      "IPA": "/ˈdʒepədaɪz/",
+      "Newspaper context note": "The prime minister warned that destroying factories would jeopardise workers' children's future.",
+      "Original example": "Destroying factories would jeopardise workers' children's future.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "endanger, imperil, risk",
+      "Word family / derivatives": "jeopardy (noun)"
+    },
+    {
+      "Antonyms": "narrow, shrink",
+      "Article headline": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+      "BCS / Bank relevance": "High — economy, trade.",
+      "Bangla meaning": "বাড়ানো",
+      "Bangla phonetic": "ওয়াইডেন",
+      "Collocations / patterns": "deficit widens, gap widens",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-trade-deficit-widens-31-fuel-import-bill-doubles-4316541",
+      "English definition": "To become larger or broader; to make something larger or broader.",
+      "Headword / phrase": "widen",
+      "IPA": "/ˈwaɪdən/",
+      "Newspaper context note": "Bangladesh's trade deficit widened by 31 percent year-on-year in July-September.",
+      "Original example": "The trade deficit widened by 31 percent in July-September.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "expand, increase, broaden",
+      "Word family / derivatives": "wide (adjective), widening (noun)"
+    },
+    {
+      "Antonyms": "surge, soar",
+      "Article headline": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+      "BCS / Bank relevance": "High — economy, trade.",
+      "Bangla meaning": "হঠাৎ কমে যাওয়া",
+      "Bangla phonetic": "স্লাম্প",
+      "Collocations / patterns": "slump in imports, capital machinery slumped",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladeshs-trade-deficit-widens-31-fuel-import-bill-doubles-4316541",
+      "English definition": "To fall suddenly and sharply in value or amount; a sudden sharp fall.",
+      "Headword / phrase": "slump",
+      "IPA": "/slʌmp/",
+      "Newspaper context note": "Imports of capital machinery slumped 22.5 percent year-on-year to roughly $770 million.",
+      "Original example": "Imports of capital machinery slumped 22.5 percent.",
+      "Part of speech / type": "verb / noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "plunge, collapse, tumble",
+      "Word family / derivatives": "slump (noun)"
+    },
+    {
+      "Antonyms": "flourish, take off",
+      "Article headline": "Banks’ lending income turns negative for first time in 6 years",
+      "BCS / Bank relevance": "Medium — economy, figurative usage.",
+      "Bangla meaning": "ব্যর্থ হয়ে মিলিয়ে যাওয়া",
+      "Bangla phonetic": "ফিজল",
+      "Collocations / patterns": "demand fizzled out, fizzle out",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831",
+      "English definition": "To fail gradually and end in a weak or disappointing way.",
+      "Headword / phrase": "fizzle",
+      "IPA": "/ˈfɪzəl/",
+      "Newspaper context note": "Private-sector credit demand has fizzled out, leaving banks dependent on government bonds.",
+      "Original example": "Private-sector credit demand has fizzled out.",
+      "Part of speech / type": "verb",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "fade, peter out, die away",
+      "Word family / derivatives": "fizzle out (phrasal verb)"
+    },
+    {
+      "Antonyms": "fixed, one-off",
+      "Article headline": "BB changes lending rules for Tk 20,000 crore revival fund",
+      "BCS / Bank relevance": "High — finance, banking.",
+      "Bangla meaning": "পুনঃব্যবহারযোগ্য",
+      "Bangla phonetic": "রিভলভিং",
+      "Collocations / patterns": "revolving fund, revolving credit",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501",
+      "English definition": "(Of a fund or credit) that can be used again once it has been repaid; rotating.",
+      "Headword / phrase": "revolving",
+      "IPA": "/rɪˈvɒlvɪŋ/",
+      "Newspaper context note": "Bangladesh Bank launched the three-year revolving fund on 4 June to help enterprises hit by working capital shortages.",
+      "Original example": "The fund is a three-year revolving fund for shuttered industries.",
+      "Part of speech / type": "adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "rotating, renewable, recurring",
+      "Word family / derivatives": "revolve (verb)"
+    },
+    {
+      "Antonyms": "payment (out)",
+      "Article headline": "BB changes lending rules for Tk 20,000 crore revival fund",
+      "BCS / Bank relevance": "High — finance, banking.",
+      "Bangla meaning": "প্রতিদান",
+      "Bangla phonetic": "রিইমবার্সমেন্ট",
+      "Collocations / patterns": "seek reimbursement, reimbursement from the central bank",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501",
+      "English definition": "Money paid back to someone for money they have spent; the act of repaying.",
+      "Headword / phrase": "reimbursement",
+      "IPA": "/ˌriːɪmˈbɜːsmənt/",
+      "Newspaper context note": "Under the new rules, banks must lend from their own funds first and then seek reimbursement from the central bank.",
+      "Original example": "Banks must lend first and then seek reimbursement from the central bank.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "repayment, refund, compensation",
+      "Word family / derivatives": "reimburse (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "BB changes lending rules for Tk 20,000 crore revival fund",
+      "BCS / Bank relevance": "High — finance, banking.",
+      "Bangla meaning": "তৃতীয় পক্ষের কাছে জমা",
+      "Bangla phonetic": "এস্ক্রো",
+      "Collocations / patterns": "escrow account, through escrow",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501",
+      "English definition": "An arrangement in which money or property is held by a third party until agreed conditions are met.",
+      "Headword / phrase": "escrow",
+      "IPA": "/ˈeskrəʊ/",
+      "Newspaper context note": "All transactions under the revival fund must go through escrow or revenue accounts.",
+      "Original example": "All transactions must go through escrow or revenue accounts.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "trust account, holding account",
+      "Word family / derivatives": "escrow (adjective)"
+    },
+    {
+      "Antonyms": "proper use",
+      "Article headline": "BB changes lending rules for Tk 20,000 crore revival fund",
+      "BCS / Bank relevance": "High — finance, corruption.",
+      "Bangla meaning": "অপব্যবহার",
+      "Bangla phonetic": "ডাইভারশন",
+      "Collocations / patterns": "fund diversion, diversion of funds",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501",
+      "English definition": "The act of redirecting money or resources away from their intended purpose, often improperly.",
+      "Headword / phrase": "diversion",
+      "IPA": "/daɪˈvɜːʃən/",
+      "Newspaper context note": "Banks must obtain a declaration that applicants were not involved in money laundering, fraud, fund diversion or loan misuse.",
+      "Original example": "Applicants must declare they were not involved in fund diversion or loan misuse.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "redirection, misappropriation, misuse",
+      "Word family / derivatives": "divert (verb)"
+    },
+    {
+      "Antonyms": "income, revenue",
+      "Article headline": "Govt okays Tk 41,090cr project to overhaul primary edn",
+      "BCS / Bank relevance": "High — finance, development.",
+      "Bangla meaning": "ব্যয়",
+      "Bangla phonetic": "আউটলে",
+      "Collocations / patterns": "estimated outlay, project outlay",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/govt-okays-tk-41090cr-project-overhaul-primary-edn-4316076",
+      "English definition": "The amount of money spent on something, especially a project.",
+      "Headword / phrase": "outlay",
+      "IPA": "/ˈaʊtleɪ/",
+      "Newspaper context note": "The fifth Primary Education Development Programme has an estimated outlay of Tk 41,090 crore.",
+      "Original example": "The primary education programme has an estimated outlay of Tk 41,090 crore.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "expenditure, spending, cost",
+      "Word family / derivatives": "outlay (noun)"
+    },
+    {
+      "Antonyms": "renege, break a promise",
+      "Article headline": "Govt okays Tk 41,090cr project to overhaul primary edn",
+      "BCS / Bank relevance": "High — development, diplomacy.",
+      "Bangla meaning": "প্রতিশ্রুতি দেওয়া",
+      "Bangla phonetic": "প্লেজ",
+      "Collocations / patterns": "pledge support, pledge assistance, pledge funds",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/govt-okays-tk-41090cr-project-overhaul-primary-edn-4316076",
+      "English definition": "To make a serious promise to do something or give something.",
+      "Headword / phrase": "pledge",
+      "IPA": "/pledʒ/",
+      "Newspaper context note": "Development partners including the World Bank, ADB, the EU and UNICEF pledged financial assistance for the programme.",
+      "Original example": "Development partners pledged financial assistance for the programme.",
+      "Part of speech / type": "verb / noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "promise, commit, vow",
+      "Word family / derivatives": "pledge (noun)"
+    },
+    {
+      "Antonyms": "safe, harmless",
+      "Article headline": "Govt okays Tk 41,090cr project to overhaul primary edn",
+      "BCS / Bank relevance": "Medium — environment, education.",
+      "Bangla meaning": "বিপজ্জনক",
+      "Bangla phonetic": "হ্যাজার্ডাস",
+      "Collocations / patterns": "hazardous environment, hazardous waste",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/govt-okays-tk-41090cr-project-overhaul-primary-edn-4316076",
+      "English definition": "Dangerous or involving risk, especially to health or safety.",
+      "Headword / phrase": "hazardous",
+      "IPA": "/ˈhæzədəs/",
+      "Newspaper context note": "Funds will be used to eliminate hazardous and unhealthy school environments.",
+      "Original example": "Funds will eliminate hazardous and unhealthy school environments.",
+      "Part of speech / type": "adjective",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "dangerous, unsafe, risky",
+      "Word family / derivatives": "hazard (noun)"
+    },
+    {
+      "Antonyms": "unnavigability",
+      "Article headline": "Mongla Port set for Tk 4,068cr overhaul as PM eyes regional economic hub",
+      "BCS / Bank relevance": "Medium — ports, infrastructure.",
+      "Bangla meaning": "নৌচলাচলযোগ্যতা",
+      "Bangla phonetic": "ন্যাভিগেবিলিটি",
+      "Collocations / patterns": "ensure navigability, navigability of channels",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/governance/news/mongla-port-set-tk-4068cr-overhaul-pm-eyes-regional-economic-hub-4316301",
+      "English definition": "The quality of being navigable; the ability of a waterway to be used by ships.",
+      "Headword / phrase": "navigability",
+      "IPA": "/ˌnævɪɡəˈbɪləti/",
+      "Newspaper context note": "The prime minister stressed the need to ensure navigability, reliable navigation channels and safe vessel movement at Mongla Port.",
+      "Original example": "The prime minister stressed the need to ensure navigability at Mongla Port.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "passability, accessibility",
+      "Word family / derivatives": "navigate (verb), navigable (adjective)"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "infiltrate",
+      "IPA": "/ˈɪnfɪltreɪt/",
+      "Bangla phonetic": "ইনফিলট্রেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনুপ্রবেশ করা; গোপনে ঢুকে পড়া",
+      "English definition": "To enter a group or place secretly in order to spy on it or cause disruption.",
+      "Synonyms": "penetrate; invade; slip into; insinuate",
+      "Antonyms": "withdraw; exit; leave openly",
+      "Word family / derivatives": "infiltration; infiltrator; infiltrated",
+      "Collocations / patterns": "infiltrate a protest; infiltrate a movement; infiltrate an organisation",
+      "Original example": "Masked men who were not workers infiltrated the protests to create disorder.",
+      "Newspaper context note": "Used by the Home Minister: masked men infiltrated the garment protests, according to video footage.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Masked men infiltrated protests to create chaos, footage shows: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/48pn06ucxj",
+      "BCS / Bank relevance": "Security and law-and-order vocabulary for BCS comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "destabilise",
+      "IPA": "/diːˈsteɪbəlaɪz/",
+      "Bangla phonetic": "ডিসট্যাবিলাইজ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অস্থিতিশীল করা; অস্থিরতা সৃষ্টি করা",
+      "English definition": "To make a government, economy or situation unstable.",
+      "Synonyms": "undermine; unsettle; disrupt; sabotage",
+      "Antonyms": "stabilise; strengthen; secure",
+      "Word family / derivatives": "destabilised; destabilising; destabilisation",
+      "Collocations / patterns": "destabilise the country; destabilise an industry; attempt to destabilise",
+      "Original example": "Police alleged that certain groups were trying to destabilise the industrial belt.",
+      "Newspaper context note": "Used in the garment unrest reports: groups were allegedly trying to destabilise the industrial belt and the country.",
+      "Source publication": "The Daily Star",
+      "Article headline": "'Domestic, foreign conspiracies' behind garment unrest, senior police officials say",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/domestic-foreign-conspiracies-behind-garment-unrest-senior-police-officials-say-4313776",
+      "BCS / Bank relevance": "Politics and security vocabulary for BCS essays and comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "surveillance",
+      "IPA": "/sɜːˈveɪləns/",
+      "Bangla phonetic": "সার্ভেইলান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নজরদারি; পর্যবেক্ষণ",
+      "English definition": "Close observation of a person, place or situation, especially by the police or security services.",
+      "Synonyms": "monitoring; observation; watch; scrutiny",
+      "Antonyms": "neglect; inattention",
+      "Word family / derivatives": "surveil; surveilled; surveilling",
+      "Collocations / patterns": "24-hour surveillance; under surveillance; surveillance camera",
+      "Original example": "The Home Minister said arrangements had been made for 24-hour surveillance of the garment industry.",
+      "Newspaper context note": "Used in the garment unrest report: 24-hour surveillance was arranged to monitor the situation in the garment industry.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Factory owners, former MP, former state minister, involved in RMG workers’ protests: Home Minister",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/city/4y0kfafcqa",
+      "BCS / Bank relevance": "Law-enforcement vocabulary for BCS and bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "embezzlement",
+      "IPA": "/ɪmˈbezlmənt/",
+      "Bangla phonetic": "এমবেজলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আত্মসাৎ; তহবিল তছরুপ",
+      "English definition": "The crime of stealing money that you are responsible for managing.",
+      "Synonyms": "misappropriation; theft; fraud; pilfering",
+      "Antonyms": "honesty; restitution",
+      "Word family / derivatives": "embezzle; embezzled; embezzler",
+      "Collocations / patterns": "embezzlement of funds; alleged embezzlement; embezzlement case",
+      "Original example": "The ACC approved three cases over the alleged embezzlement of Tk 1,121 crore from Janata Bank.",
+      "Newspaper context note": "Used in the ACC report: alleged embezzlement and laundering of Tk 1,121.49 crore through fake import and export transactions.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ACC approves three cases against Salman, son Shayan over alleged Tk 1,121cr embezzlement",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-three-cases-against-salman-son-shayan-over-alleged-tk-1121cr-embezzlement-4313846",
+      "BCS / Bank relevance": "Core banking and anti-corruption vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "absconding",
+      "IPA": "/əbˈskɒndɪŋ/",
+      "Bangla phonetic": "অ্যাবস্কন্ডিং",
+      "Part of speech / type": "Adjective / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পলাতক; আত্মগোপনে থাকা",
+      "English definition": "Having secretly left a place to escape arrest or the law.",
+      "Synonyms": "fugitive; on the run; in hiding; at large",
+      "Antonyms": "in custody; present; surrendered",
+      "Word family / derivatives": "abscond; absconded; absconder",
+      "Collocations / patterns": "remain absconding; absconding accused; abscond from custody",
+      "Original example": "Six of the accused are in jail, while Mirza Azam remains absconding.",
+      "Newspaper context note": "Used in the ICT report: six accused are in jail, while Mirza Azam remains absconding.",
+      "Source publication": "The Daily Star",
+      "Article headline": "ICT prosecution submits formal charge against seven AL leaders",
+      "Publication date": "2026-11-02",
+      "Direct source URL": "https://www.thedailystar.net/news/crime-justice/news/ict-prosecution-submits-formal-charge-against-seven-al-leaders-4313591",
+      "BCS / Bank relevance": "Legal vocabulary for BCS criminal-law questions.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "Banks’ lending income turns negative for first time in 6 years",
+      "Bangla meaning": "মূল আয়ের উৎস",
+      "Common collocations / grammar pattern": "the bread and butter of; a bread-and-butter issue",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831",
+      "English explanation": "The main source of income, or the essential part of something.",
+      "Exam value": "High — idiom.",
+      "Original example 1": "Interest income should be the bread and butter of banks.",
+      "Original example 2": "Teaching is his bread and butter.",
+      "Phrase": "bread and butter",
+      "Publication date": "2026-11-05",
+      "Source publication": "The Daily Star",
+      "Type": "idiom",
+      "Usage / register": "Neutral; common in business and everyday English."
+    },
+    {
+      "Article headline": "Banks’ lending income turns negative for first time in 6 years",
+      "Bangla meaning": "ভারাক্রান্ত করা",
+      "Common collocations / grammar pattern": "weigh down earnings; weighed down by debt",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831",
+      "English explanation": "To burden or hold something back; to make progress harder.",
+      "Exam value": "High — phrasal verb.",
+      "Original example 1": "Bad loans weighed down the banks' earnings.",
+      "Original example 2": "Debt weighed down the economy.",
+      "Phrase": "weigh down",
+      "Publication date": "2026-11-05",
+      "Source publication": "The Daily Star",
+      "Type": "phrasal verb",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "Banks’ lending income turns negative for first time in 6 years",
+      "Bangla meaning": "ভার বহন করা",
+      "Common collocations / grammar pattern": "carry the load; carry much of the load",
+      "Direct source URL": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831",
+      "English explanation": "To take on the main burden or responsibility.",
+      "Exam value": "Medium — phrase.",
+      "Original example 1": "Income from government bonds carried much of the load.",
+      "Original example 2": "Exports carried the load while imports surged.",
+      "Phrase": "carry the load",
+      "Publication date": "2026-11-05",
+      "Source publication": "The Daily Star",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "Democrats flex congressional majorities as Trump accepts electoral losses",
+      "Bangla meaning": "নিয়ন্ত্রণে আনা",
+      "Common collocations / grammar pattern": "rein in power; rein in spending",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/4nlva5du32",
+      "English explanation": "To control or limit something, especially power or spending.",
+      "Exam value": "High — phrasal verb, politics.",
+      "Original example 1": "Democrats vowed to rein in the president.",
+      "Original example 2": "The regulator moved to rein in risky lending.",
+      "Phrase": "rein in",
+      "Publication date": "2026-11-05",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrasal verb",
+      "Usage / register": "Neutral; common in politics."
+    },
+    {
+      "Article headline": "Democrats flex congressional majorities as Trump accepts electoral losses",
+      "Bangla meaning": "সম্পূর্ণ মালিকানাধীন সহযোগী প্রতিষ্ঠান",
+      "Common collocations / grammar pattern": "wholly owned subsidiary of",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/4nlva5du32",
+      "English explanation": "A company entirely owned by another company; used figuratively for something fully controlled by another.",
+      "Exam value": "Medium — business phrase.",
+      "Original example 1": "The House was functioning like a wholly owned subsidiary of the administration.",
+      "Original example 2": "The firm is a wholly owned subsidiary of the group.",
+      "Phrase": "wholly owned subsidiary",
+      "Publication date": "2026-11-05",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Business / formal."
+    },
+    {
+      "Article headline": "Democrats flex congressional majorities as Trump accepts electoral losses",
+      "Bangla meaning": "পথে",
+      "Common collocations / grammar pattern": "on track to become / finish / win",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/4nlva5du32",
+      "English explanation": "Likely to achieve something; heading towards a result.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Jeffries is on track to become the first Black Speaker.",
+      "Original example 2": "The project is on track to finish on time.",
+      "Phrase": "on track to",
+      "Publication date": "2026-11-05",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "9th teacher recruitment exam: NTRCA gives timeline",
+      "Bangla meaning": "মৌখিক পরীক্ষা",
+      "Common collocations / grammar pattern": "viva voce examination; attend a viva voce",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/dsf3r06p0g",
+      "English explanation": "An oral examination, usually as part of a job interview or academic assessment.",
+      "Exam value": "High — BCS / NTRCA.",
+      "Original example 1": "The viva voce for head teachers ends on 9 December.",
+      "Original example 2": "Candidates must pass the viva voce.",
+      "Phrase": "viva voce",
+      "Publication date": "2026-11-05",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase (Latin)",
+      "Usage / register": "Formal; standard in education and recruitment."
+    },
+    {
+      "Article headline": "Mongla Port set for Tk 4,068cr overhaul as PM eyes regional economic hub",
+      "Bangla meaning": "ভিত্তিপ্রস্তর স্থাপন করা",
+      "Common collocations / grammar pattern": "lay the foundation stone of",
+      "Direct source URL": "https://www.thedailystar.net/news/governance/news/mongla-port-set-tk-4068cr-overhaul-pm-eyes-regional-economic-hub-4316301",
+      "English explanation": "To formally begin a construction project with a ceremony.",
+      "Exam value": "High — ceremonial phrase.",
+      "Original example 1": "The prime minister laid the foundation stone of the port project.",
+      "Original example 2": "The minister laid the foundation stone of the new hospital.",
+      "Phrase": "lay the foundation stone",
+      "Publication date": "2026-11-05",
+      "Source publication": "The Daily Star",
+      "Type": "phrase",
+      "Usage / register": "Formal / ceremonial."
+    },
+    {
+      "Article headline": "Bangladesh, China sign MoU on economic, infrastructure cooperation",
+      "Bangla meaning": "উপস্থিতিতে",
+      "Common collocations / grammar pattern": "in the presence of",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-china-sign-mou-economic-infrastructure-cooperation-4316216",
+      "English explanation": "In front of someone; while someone is present.",
+      "Exam value": "High — formal phrase.",
+      "Original example 1": "The MoU was signed in the presence of the prime minister.",
+      "Original example 2": "He spoke in the presence of senior officials.",
+      "Phrase": "in the presence of",
+      "Publication date": "2026-11-05",
+      "Source publication": "The Daily Star",
+      "Type": "prepositional phrase",
+      "Usage / register": "Formal."
+    },
+    {
+      "Article headline": "Democrats flex congressional majorities as Trump accepts electoral losses",
+      "Bangla meaning": "ইতিমধ্যে",
+      "Common collocations / grammar pattern": "in the meantime",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/4nlva5du32",
+      "English explanation": "In the period between now and a later event; meanwhile.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "In the meantime, the party reassessed its strategy.",
+      "Original example 2": "In the meantime, factories resumed production.",
+      "Phrase": "in the meantime",
+      "Publication date": "2026-11-05",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "D",
+      "explanation": "A projectile is an object thrown or fired through the air.",
+      "no": 1,
+      "options": {
+        "A": "Police batons",
+        "B": "Sound grenades",
+        "C": "Tear gas shells",
+        "D": "Objects thrown through the air"
+      },
+      "question": "\"A police vehicle was damaged by projectiles.\" — \"projectiles\" are:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "A platoon is a small military unit, typically of about 30 soldiers.",
+      "no": 2,
+      "options": {
+        "A": "A small military unit",
+        "B": "A type of vehicle",
+        "C": "A single soldier",
+        "D": "A police station"
+      },
+      "question": "A \"platoon\" is:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "Riot control is the policing of violent crowds and public disturbances.",
+      "no": 3,
+      "options": {
+        "A": "Control crowds and disturbances",
+        "B": "Fight fires",
+        "C": "Control traffic",
+        "D": "Transport prisoners"
+      },
+      "question": "\"Riot control vehicles\" are used to:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "Cryptocurrency is a digital currency that uses cryptography for security.",
+      "no": 4,
+      "options": {
+        "A": "A paper currency",
+        "B": "A bank loan",
+        "C": "A tax",
+        "D": "A digital currency"
+      },
+      "question": "\"Cryptocurrency\" is:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "To foment unrest is to deliberately stir it up.",
+      "no": 5,
+      "options": {
+        "A": "To ignore unrest",
+        "B": "To report unrest",
+        "C": "To deliberately stir up unrest",
+        "D": "To end unrest"
+      },
+      "question": "\"Foment unrest\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "To derail something is to prevent it from continuing as planned.",
+      "no": 6,
+      "options": {
+        "A": "To support",
+        "B": "To disrupt or thwart",
+        "C": "To praise",
+        "D": "To fund"
+      },
+      "question": "\"Derail the government's efforts\" — \"derail\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "To siphon off money is to secretly divert it away, often abroad.",
+      "no": 7,
+      "options": {
+        "A": "To secretly divert or drain away",
+        "B": "To borrow",
+        "C": "To donate",
+        "D": "To invest"
+      },
+      "question": "\"Siphon off the country's wealth\" — \"siphon off\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "Befitting means suitable or appropriate for the occasion.",
+      "no": 8,
+      "options": {
+        "A": "A delayed reply",
+        "B": "A fitting and appropriate reply",
+        "C": "An insulting reply",
+        "D": "A written reply"
+      },
+      "question": "\"A befitting reply\" is:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "To jeopardise is to put something at risk of harm or loss.",
+      "no": 9,
+      "options": {
+        "A": "To put at risk",
+        "B": "To protect",
+        "C": "To delay",
+        "D": "To improve"
+      },
+      "question": "\"Jeopardise the future\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "To widen is to become larger or broader.",
+      "no": 10,
+      "options": {
+        "A": "Narrowed",
+        "B": "Disappeared",
+        "C": "Grew larger",
+        "D": "Stayed the same"
+      },
+      "question": "\"The trade deficit widened.\" — \"widened\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "Bread and butter is the main source of income or the essential part of something.",
+      "no": 11,
+      "options": {
+        "A": "A side business",
+        "B": "Food for staff",
+        "C": "The main source of income",
+        "D": "A government subsidy"
+      },
+      "question": "\"Interest income should be the bread and butter of banks.\" — \"bread and butter\" means:",
+      "section": "Phrases",
+      "source": "CA05"
+    },
+    {
+      "correct": "B",
+      "explanation": "To rein in is to control or limit something, especially power or spending.",
+      "no": 12,
+      "options": {
+        "A": "To elect",
+        "B": "To control or limit",
+        "C": "To praise",
+        "D": "To support"
+      },
+      "question": "\"Democrats vowed to rein in the president.\" — \"rein in\" means:",
+      "section": "Phrases",
+      "source": "CA15"
+    },
+    {
+      "correct": "C",
+      "explanation": "70 of the 1,863 factories in Ashulia declared holidays on 5 November.",
+      "no": 13,
+      "options": {
+        "A": "100",
+        "B": "200",
+        "C": "70",
+        "D": "50"
+      },
+      "question": "How many factories in Ashulia declared holidays on 5 November 2026?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "The trade deficit jumped 31 percent year-on-year to $7.48 billion in July-September.",
+      "no": 14,
+      "options": {
+        "A": "15%",
+        "B": "31%",
+        "C": "7%",
+        "D": "105%"
+      },
+      "question": "By how much did Bangladesh's trade deficit widen in July-September 2026-27?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "B",
+      "explanation": "Bangladesh paid $1.64 billion in regional import bills through the Asian Clearing Union.",
+      "no": 15,
+      "options": {
+        "A": "$34.85 billion",
+        "B": "$1.64 billion",
+        "C": "$100 million",
+        "D": "$29.98 billion"
+      },
+      "question": "How much did Bangladesh pay through the Asian Clearing Union, causing reserves to fall?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "The scheme was renamed the Closed Industry and Service Sector Support Refinancing Scheme.",
+      "no": 16,
+      "options": {
+        "A": "Industrial Revival Fund",
+        "B": "Pre-financing Scheme",
+        "C": "Closed Industry and Service Sector Support Refinancing Scheme",
+        "D": "SME Support Scheme"
+      },
+      "question": "What is the new name of the Tk 20,000 crore scheme for shuttered industries?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "B",
+      "explanation": "The 27 listed banks reported negative net interest income of Tk 5,624 crore in January-September 2026.",
+      "no": 17,
+      "options": {
+        "A": "+Tk 3,016 crore",
+        "B": "-Tk 5,624 crore",
+        "C": "+Tk 32,622 crore",
+        "D": "+Tk 9,600 crore"
+      },
+      "question": "What was the combined net interest income of the 27 listed banks in January-September 2026?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "Seven more deaths took the 2026 dengue toll to 452; total cases reached 144,371.",
+      "no": 18,
+      "options": {
+        "A": "144,371",
+        "B": "445",
+        "C": "1,272",
+        "D": "452"
+      },
+      "question": "What was Bangladesh's total dengue death toll in 2026 as of 5 November?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "A",
+      "explanation": "PEDP-5 has an estimated outlay of Tk 41,090 crore, running from July 2026 to June 2031.",
+      "no": 19,
+      "options": {
+        "A": "Tk 41,090 crore",
+        "B": "Tk 4,068 crore",
+        "C": "Tk 33,203 crore",
+        "D": "Tk 20,000 crore"
+      },
+      "question": "What is the estimated outlay of the fifth Primary Education Development Programme (PEDP-5)?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "C",
+      "explanation": "The Mongla Port Expansion and Modernisation Project costs Tk 4,068 crore.",
+      "no": 20,
+      "options": {
+        "A": "Tk 41,090 crore",
+        "B": "Tk 20,000 crore",
+        "C": "Tk 4,068 crore",
+        "D": "Tk 1,490 crore"
+      },
+      "question": "What is the cost of the Mongla Port Expansion and Modernisation Project?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "A",
+      "explanation": "Invest Bangladesh signed the MoU with China Railway Construction Corporation (CRCC).",
+      "no": 21,
+      "options": {
+        "A": "China Railway Construction Corporation",
+        "B": "Huawei",
+        "C": "Alibaba",
+        "D": "Sinopec"
+      },
+      "question": "With which Chinese company did Invest Bangladesh sign the MoU on economic and infrastructure cooperation?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "correct": "D",
+      "explanation": "Dhaka University will begin accepting undergraduate applications on 11 November, closing on 25 November.",
+      "no": 22,
+      "options": {
+        "A": "9 December",
+        "B": "2 August",
+        "C": "25 November",
+        "D": "11 November"
+      },
+      "question": "When will Dhaka University begin accepting undergraduate admission applications for 2026-27?",
+      "section": "Current Affairs",
+      "source": "CA12"
+    },
+    {
+      "correct": "D",
+      "explanation": "For the first time, the registration examination will lead directly to recruitment rather than merely assessing eligibility.",
+      "no": 23,
+      "options": {
+        "A": "It is only for head teachers",
+        "B": "It is held every month",
+        "C": "It has no written test",
+        "D": "It leads directly to recruitment, not just eligibility"
+      },
+      "question": "What is new about the 9th teacher recruitment examination?",
+      "section": "Current Affairs",
+      "source": "CA13"
+    },
+    {
+      "correct": "D",
+      "explanation": "Hasina told the Associated Press by email that she will return to Bangladesh in December.",
+      "no": 24,
+      "options": {
+        "A": "February 2027",
+        "B": "November 2026",
+        "C": "August 2026",
+        "D": "December 2026"
+      },
+      "question": "In which month does Sheikh Hasina say she will return to Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA14"
+    },
+    {
+      "correct": "A",
+      "explanation": "Democrats secured a Senate majority of at least 54-44 and gained at least 30 House seats.",
+      "no": 25,
+      "options": {
+        "A": "At least 54-44",
+        "B": "53-47",
+        "C": "50-50",
+        "D": "60-40"
+      },
+      "question": "What Senate majority did Democrats secure after the midterms, according to the report?",
+      "section": "Current Affairs",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Workers and police chase each other in Ashulia, 70 factories shut, Gazipur calm",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/tvak5hvcod"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Production resumes at almost all garment factories in Gazipur",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/news/production-resumes-almost-all-garment-factories-gazipur-4316146"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "NBR freezes and searches accounts of over 200 people, firms over garment unrest",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/business/news/nbr-freezes-and-searches-accounts-over-200-people-firms-over-garment-unrest-4316391"
+    },
+    {
+      "Source ID": "S04",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221"
+    },
+    {
+      "Source ID": "S05",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladeshs-trade-deficit-widens-31-fuel-import-bill-doubles-4316541"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Reserves drop to $34.85 billion after ACU payment",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/business/news/reserves-drop-3485-billion-after-acu-payment-4316506"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "BB changes lending rules for Tk 20,000 crore revival fund",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/business/news/bb-changes-lending-rules-tk-20000-crore-revival-fund-4316501"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Banks’ lending income turns negative for first time in 6 years",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/business/economy/news/banks-lending-income-turns-negative-first-time-6-years-4315831"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "7 die of dengue, 1,596 hospitalised in 24 hours",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/7-die-dengue-1596-hospitalised-24-hours-4316416"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "3 more die with measles-like symptoms in 24 hours",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/3-more-die-measles-symptoms-24-hours-4316486"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Govt okays Tk 41,090cr project to overhaul primary edn",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/govt-okays-tk-41090cr-project-overhaul-primary-edn-4316076"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Mongla Port set for Tk 4,068cr overhaul as PM eyes regional economic hub",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/governance/news/mongla-port-set-tk-4068cr-overhaul-pm-eyes-regional-economic-hub-4316301"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh, China sign MoU on economic, infrastructure cooperation",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-china-sign-mou-economic-infrastructure-cooperation-4316216"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Govt targets 5,000MW solar power before next summer: Energy minister",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.thedailystar.net/news/power-and-energy/news/govt-targets-5000mw-solar-power-next-summer-energy-minister-4316341"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "DU undergraduate admission applications open on 11 November",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/education/du-undergraduate-admission-applications-open-11-november-1594166"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "9th teacher recruitment exam: NTRCA gives timeline",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/dsf3r06p0g"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "IJR (reporting the Associated Press)",
+      "Headline / report": "Hasina Says She Will Return to Bangladesh in December Despite Death Sentence",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://ijr.com/discover/world-2026-11-05-ousted-hasina-plans-december-return-bangladesh-a366108c"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Democrats flex congressional majorities as Trump accepts electoral losses",
+      "Publication date": "2026-11-05",
+      "Direct URL": "https://en.prothomalo.com/international/americas/4nlva5du32"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled edition: built from real articles published 5 November 2026 (Daily Star, Prothom Alo English, The Business Standard via sitemaps and Bing News RSS). CA07 (measles) and CA11 (solar target) have no Current Affairs MCQ. CA14 (Hasina return) is sourced from IJR reporting an Associated Press email interview.",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}

@@ -1,0 +1,2624 @@
+{
+  "edition_date": "2026-11-07",
+  "edition_day": "Saturday",
+  "coverage": "5 November 2026, 7:47 PM to 7 November 2026, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "words": 20,
+    "phrases": 10,
+    "stories": 15,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "National Revolution and Solidarity Day observed on 7 November",
+      "category": "Bangladesh",
+      "event_date": "2026-11-07",
+      "event_date_note": "2026-11-07 annual observance; historical events on 1975-11-07",
+      "article_date": "2026-11-06",
+      "article_date_note": "2026-11-06 (updated 2026-11-07)",
+      "summary": "Bangladesh observes National Revolution and Solidarity Day as a public holiday. The 2026 observance marks the 51st anniversary of the events of 7 November 1975. TBS reports that soldiers freed then army chief Major General Ziaur Rahman from house arrest at Dhaka Cantonment after the 3 November 1975 coup led by Brigadier Khaled Mosharraf.",
+      "why_it_matters": "A recurring national observance with high relevance to Bangladesh history, political development and state commemorations.",
+      "exam_facts": "7 November is observed as National Revolution and Solidarity Day; the 2026 observance is the 51st anniversary; Ziaur Rahman was then army chief and was released from house arrest.",
+      "exam_relevance": "High",
+      "key_people": "Government of Bangladesh; Major General Ziaur Rahman; Brigadier Khaled Mosharraf; BNP; Dhaka Cantonment.",
+      "figures": "51st anniversary in 2026; historical sequence includes the 3 November 1975 coup and 7 November 1975 uprising.",
+      "sources": [
+        {
+          "id": "S13",
+          "publication": "The Business Standard",
+          "headline": "National Revolution and Solidarity Day to be observed on Saturday",
+          "date": "2026-11-06",
+          "date_note": "2026-11-06 (updated 2026-11-07)",
+          "url": "https://www.tbsnews.net/bangladesh/national-revolution-and-solidarity-day-be-observed-tomorrow-1594686"
+        },
+        {
+          "id": "S26",
+          "publication": "The Daily Observer",
+          "headline": "Tarique Rahman to inaugurate BNP colourful rally on Saturday",
+          "date": "2026-11-06",
+          "url": "https://observerbd.com/news/604224"
+        }
+      ],
+      "one_liner": "Bangladesh observes National Revolution and Solidarity Day as a public holiday.",
+      "key_facts": [
+        {
+          "label": "st anniversary in 2026",
+          "value": "51",
+          "original": "51st anniversary in 2026"
+        },
+        {
+          "label": "the observance is the 51st anniversary",
+          "value": "2026",
+          "original": "the 2026 observance is the 51st anniversary"
+        }
+      ],
+      "what_happened": [
+        "The 2026 observance marks the 51st anniversary of the events of 7 November 1975.",
+        "TBS reports that soldiers freed then army chief Major General Ziaur Rahman from house arrest at Dhaka Cantonment after the 3 November 1975 coup led by Brigadier Khaled Mosharraf."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Ziaur Rahman?",
+          "a": "was then army chief and was released from house arrest"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The 2026 observance marks the 51st anniversary of the events of ______.",
+          "answer": "7 November 1975"
+        },
+        {
+          "cloze": "TBS reports that soldiers freed then army chief Major General Ziaur Rahman from house arrest at Dhaka Cantonment after the ______ coup led by Brigadier Khaled Mosharraf.",
+          "answer": "3 November 1975"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "national",
+        "revolution",
+        "solidarity",
+        "observed",
+        "november"
+      ],
+      "detail": "Bangladesh observes National Revolution and Solidarity Day as a public holiday. The 2026 observance marks the 51st anniversary of the events of 7 November 1975. TBS reports that soldiers freed then army chief Major General Ziaur Rahman from house arrest at Dhaka Cantonment after the 3 November 1975 coup led by Brigadier Khaled Mosharraf."
+    },
+    {
+      "id": "CA02",
+      "headline": "Business approval reform aims to reduce startup clearance time from 355 days to 18",
+      "category": "Economy & Banking",
+      "event_date": "2026-10-19",
+      "event_date_note": "2026-10-19 committee meeting; report published 2026-11-06",
+      "article_date": "2026-11-06",
+      "summary": "A committee reviewing industrial setup procedures discussed an Invest Bangladesh roadmap to reduce the time for business licences, clearances and approvals from as much as 355 days to an interim 18 days. The government's ultimate target is 14 days. The plan includes processing 11 of 12 statutory documents within one day each, fewer prerequisites, parallel processing and a single digital platform.",
+      "why_it_matters": "Reducing administrative delays can improve the investment climate, encourage domestic and foreign investment and lower the cost of starting a business.",
+      "exam_facts": "Interim target: 18 days; ultimate target: 14 days; the roadmap was presented by Invest Bangladesh.",
+      "exam_relevance": "High",
+      "key_people": "Invest Bangladesh; Commerce and Industries Minister Khandakar Abdul Muktadir; committee on industrial setup procedures.",
+      "figures": "355 days current reported maximum; 18-day interim roadmap; 14-day ultimate target; 11 of 12 statutory documents targeted for one-day processing.",
+      "sources": [
+        {
+          "id": "S01",
+          "publication": "The Business Standard",
+          "headline": "Govt plans to cut business approval time to 18 days",
+          "date": "2026-11-06",
+          "url": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341"
+        }
+      ],
+      "one_liner": "A committee reviewing industrial setup procedures discussed an Invest Bangladesh roadmap to reduce the time for business licences, clearances and…",
+      "key_facts": [
+        {
+          "label": "days current reported maximum",
+          "value": "355",
+          "original": "355 days current reported maximum"
+        },
+        {
+          "label": "day interim roadmap",
+          "value": "18",
+          "original": "18-day interim roadmap"
+        },
+        {
+          "label": "day ultimate target",
+          "value": "14",
+          "original": "14-day ultimate target"
+        },
+        {
+          "label": "of 12 statutory documents targeted for…",
+          "value": "11",
+          "original": "11 of 12 statutory documents targeted for one-day processing"
+        }
+      ],
+      "what_happened": [
+        "The government's ultimate target is 14 days.",
+        "The plan includes processing 11 of 12 statutory documents within one day each, fewer prerequisites, parallel processing and a single digital platform."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "A committee reviewing industrial setup procedures discussed an Invest Bangladesh roadmap to reduce the time for business licences, clearances and approvals from as much as ______ days to an interim 18 days.",
+          "answer": "355"
+        },
+        {
+          "cloze": "The government's ultimate target is ______ days.",
+          "answer": "14"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "business",
+        "approval",
+        "reform",
+        "aims",
+        "reduce",
+        "startup",
+        "clearance",
+        "time",
+        "days"
+      ],
+      "detail": "A committee reviewing industrial setup procedures discussed an Invest Bangladesh roadmap to reduce the time for business licences, clearances and approvals from as much as 355 days to an interim 18 days. The government's ultimate target is 14 days. The plan includes processing 11 of 12 statutory documents within one day each, fewer prerequisites, parallel processing and a single digital platform."
+    },
+    {
+      "id": "CA03",
+      "headline": "World Bank reports Bangladesh external debt at $113.44 billion in 2025",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "event_date_note": "World Bank International Debt Report 2026 released 2026-11-05; data reference year 2025",
+      "article_date": "2026-11-05",
+      "summary": "The World Bank's 2026 International Debt Statistics table records Bangladesh's total external debt stock at US$113.4378 billion in 2025, up from US$104.4951 billion in 2024, an increase of about 8.6%. The official table gives long-term public and publicly guaranteed (PPG) external debt of US$83.4567 billion, external debt-to-GNI of 23.6% and debt service-to-exports of 15.7%.",
+      "why_it_matters": "External debt affects debt sustainability, foreign-exchange management, budget choices and the country's capacity to finance development.",
+      "exam_facts": "The official World Bank table gives total external debt of US$113.4bn in 2025; debt/GNI 23.6%; debt service/exports 15.7%.",
+      "exam_relevance": "High",
+      "key_people": "World Bank Group; International Development Association (IDA); Asian Development Bank (ADB); Bangladesh government and borrowers.",
+      "figures": "Total external debt: US$113.4378bn in 2025; 2024: US$104.4951bn; long-term PPG debt: US$83.4567bn; debt/GNI: 23.6%; debt service/exports: 15.7%.",
+      "sources": [
+        {
+          "id": "S16",
+          "publication": "World Bank",
+          "headline": "Developing Countries’ External Debt Surges to Record $9.4 Trillion",
+          "date": "2026-11-05",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/11/05/developing-countries-external-debt-surges-to-record-9-4-trillion"
+        },
+        {
+          "id": "S17",
+          "publication": "World Bank",
+          "headline": "2026 International Debt Statistics: Bangladesh country table",
+          "date": "2026-11-04",
+          "date_note": "2026-11-04 (table last updated)",
+          "url": "https://datatopics.worldbank.org/debt/ids/countryanalytical/BGD"
+        },
+        {
+          "id": "S18",
+          "publication": "Dhaka Tribune",
+          "headline": "World Bank: Bangladesh’s external debt rises to $113.4bn",
+          "date": "2026-11-05",
+          "url": "https://www.dhakatribune.com/business/economy/423832/world-bank-bangladesh%E2%80%99s-external-debt-rises-to"
+        }
+      ],
+      "one_liner": "The World Bank's 2026 International Debt Statistics table records Bangladesh's total external debt stock at US$113.4378 billion in 2025, up…",
+      "key_facts": [
+        {
+          "label": "Total external debt",
+          "value": "US$113.4378bn in 2025",
+          "original": "Total external debt: US$113.4378bn in 2025"
+        },
+        {
+          "label": "2024",
+          "value": "US$104.4951bn",
+          "original": "2024: US$104.4951bn"
+        },
+        {
+          "label": "long-term PPG debt",
+          "value": "US$83.4567bn",
+          "original": "long-term PPG debt: US$83.4567bn"
+        },
+        {
+          "label": "debt/GNI",
+          "value": "23.6%",
+          "original": "debt/GNI: 23.6%"
+        }
+      ],
+      "what_happened": [
+        "The official table gives long-term public and publicly guaranteed (PPG) external debt of US$83.4567 billion, external debt-to-GNI of 23.6% and debt service-to-exports of 15.7%."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Total external debt?",
+          "a": "US$113.4378bn in 2025"
+        },
+        {
+          "q": "What is long-term PPG debt?",
+          "a": "US$83.4567bn"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The World Bank's ______ International Debt Statistics table records Bangladesh's total external debt stock at US$113.4378 billion in 2025, up from US$104.4951 billion in 2024, an increase of about 8.6%.",
+          "answer": "2026"
+        },
+        {
+          "cloze": "The official table gives long-term public and publicly guaranteed (PPG) external debt of US$______ billion, external debt-to-GNI of 23.6% and debt service-to-exports of 15.7%.",
+          "answer": "83.4567"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "world",
+        "bank",
+        "reports",
+        "bangladesh",
+        "external",
+        "debt",
+        "billion"
+      ],
+      "detail": "The World Bank's 2026 International Debt Statistics table records Bangladesh's total external debt stock at US$113.4378 billion in 2025, up from US$104.4951 billion in 2024, an increase of about 8.6%. The official table gives long-term public and publicly guaranteed (PPG) external debt of US$83.4567 billion, external debt-to-GNI of 23.6% and debt service-to-exports of 15.7%."
+    },
+    {
+      "id": "CA04",
+      "headline": "BSEC seeks five-year extension and larger size for banks' capital-market funds",
+      "category": "Economy & Banking",
+      "event_date": "2026-10-29",
+      "event_date_note": "BSEC letter dated 2026-10-29; existing facility expires 2026-12-31",
+      "article_date": "2026-11-05",
+      "article_date_note": "2026-11-05 (updated 2026-11-06)",
+      "summary": "BSEC asked Bangladesh Bank to extend banks' special capital-market investment funds for five years from 1 January 2027 to 31 December 2031 and raise the maximum fund size from Tk200 crore to Tk300 crore per scheduled bank. Bangladesh Bank's spokesperson said there would be no blanket extension; individual bank requests would be considered case by case. More than 30 banks were reported to be using the facility.",
+      "why_it_matters": "The issue concerns capital-market liquidity, institutional investment, regulatory discretion and the risk of withdrawals when the current facility expires.",
+      "exam_facts": "The original fund was Tk200 crore per scheduled bank; BSEC requested Tk300 crore and five more years; Bangladesh Bank said it would assess individual requests.",
+      "exam_relevance": "High",
+      "key_people": "Bangladesh Securities and Exchange Commission (BSEC); Bangladesh Bank; Dhaka Stock Exchange; DSE Brokers Association.",
+      "figures": "Current special fund: Tk200 crore per bank; BSEC request: Tk300 crore; requested extension: 2027-01-01 to 2031-12-31; more than 30 banks reportedly benefit.",
+      "sources": [
+        {
+          "id": "S02",
+          "publication": "The Business Standard",
+          "headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+          "date": "2026-11-05",
+          "date_note": "2026-11-05 (updated 2026-11-06)",
+          "url": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256"
+        }
+      ],
+      "one_liner": "BSEC asked Bangladesh Bank to extend banks' special capital-market investment funds for five years from 1 January 2027 to 31…",
+      "key_facts": [
+        {
+          "label": "Current special fund",
+          "value": "Tk200 crore per bank",
+          "original": "Current special fund: Tk200 crore per bank"
+        },
+        {
+          "label": "BSEC request",
+          "value": "Tk300 crore",
+          "original": "BSEC request: Tk300 crore"
+        },
+        {
+          "label": "requested extension",
+          "value": "2027-01-01 to 2031-12-31",
+          "original": "requested extension: 2027-01-01 to 2031-12-31"
+        },
+        {
+          "label": "more than banks reportedly benefit",
+          "value": "30",
+          "original": "more than 30 banks reportedly benefit"
+        }
+      ],
+      "what_happened": [
+        "Bangladesh Bank's spokesperson said there would be no blanket extension; individual bank requests would be considered case by case.",
+        "More than 30 banks were reported to be using the facility."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Current special fund?",
+          "a": "Tk200 crore per bank"
+        },
+        {
+          "q": "What is BSEC request?",
+          "a": "Tk300 crore"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "BSEC asked Bangladesh Bank to extend banks' special capital-market investment funds for five years from ______ to 31 December 2031 and raise the maximum fund size from Tk200 crore to Tk300 crore per scheduled bank.",
+          "answer": "1 January 2027"
+        },
+        {
+          "cloze": "More than ______ banks were reported to be using the facility.",
+          "answer": "30"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bsec",
+        "seeks",
+        "five",
+        "year",
+        "extension",
+        "larger",
+        "size",
+        "banks",
+        "capital",
+        "market",
+        "funds"
+      ],
+      "detail": "BSEC asked Bangladesh Bank to extend banks' special capital-market investment funds for five years from 1 January 2027 to 31 December 2031 and raise the maximum fund size from Tk200 crore to Tk300 crore per scheduled bank. Bangladesh Bank's spokesperson said there would be no blanket extension; individual bank requests would be considered case by case. More than 30 banks were reported to be using the facility."
+    },
+    {
+      "id": "CA05",
+      "headline": "Islami Bank proposes to raise authorised capital fivefold to Tk10,000 crore",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "event_date_note": "2026-11-04 board meeting",
+      "article_date": "2026-11-06",
+      "summary": "Islami Bank Bangladesh's board proposed increasing authorised capital from Tk2,000 crore to Tk10,000 crore. The proposal requires amendments to the bank's Memorandum and Articles of Association and approval from Bangladesh Bank, other regulators and shareholders at an Extraordinary General Meeting. The bank reported a July-September 2026 loss of Tk1,970 crore, compared with a Tk32 crore profit in the same quarter of 2025.",
+      "why_it_matters": "The proposal highlights bank capital adequacy, asset quality, governance, non-performing investments and the difference between authorised and paid-up capital.",
+      "exam_facts": "Proposed increase: Tk2,000 crore to Tk10,000 crore; the proposal is not effective until regulatory and shareholder approvals are obtained.",
+      "exam_relevance": "High",
+      "key_people": "Islami Bank Bangladesh PLC; Bangladesh Bank; Dhaka Stock Exchange; shareholders.",
+      "figures": "Proposed authorised capital: Tk10,000 crore, up from Tk2,000 crore; Q3 loss: Tk1,970 crore; prior-year Q3 profit: Tk32 crore; loss per share: Tk12.24.",
+      "sources": [
+        {
+          "id": "S09",
+          "publication": "The Daily Star",
+          "headline": "Islami Bank to raise authorised capital to Tk 10,000cr",
+          "date": "2026-11-06",
+          "url": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721"
+        }
+      ],
+      "one_liner": "Islami Bank Bangladesh's board proposed increasing authorised capital from Tk2,000 crore to Tk10,000 crore.",
+      "key_facts": [
+        {
+          "label": "Proposed authorised capital",
+          "value": "Tk10,000 crore, up from Tk2,000 crore",
+          "original": "Proposed authorised capital: Tk10,000 crore, up from Tk2,000 crore"
+        },
+        {
+          "label": "Q3 loss",
+          "value": "Tk1,970 crore",
+          "original": "Q3 loss: Tk1,970 crore"
+        },
+        {
+          "label": "prior-year Q3 profit",
+          "value": "Tk32 crore",
+          "original": "prior-year Q3 profit: Tk32 crore"
+        },
+        {
+          "label": "loss per share",
+          "value": "Tk12.24",
+          "original": "loss per share: Tk12.24"
+        }
+      ],
+      "what_happened": [
+        "The proposal requires amendments to the bank's Memorandum and Articles of Association and approval from Bangladesh Bank, other regulators and shareholders at an Extraordinary General Meeting.",
+        "The bank reported a July-September 2026 loss of Tk1,970 crore, compared with a Tk32 crore profit in the same quarter of 2025."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Proposed authorised capital?",
+          "a": "Tk10,000 crore, up from Tk2,000 crore"
+        },
+        {
+          "q": "What is loss per share?",
+          "a": "Tk12.24"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Islami Bank Bangladesh's board proposed increasing authorised capital from Tk______ crore to Tk10,000 crore.",
+          "answer": "2,000"
+        },
+        {
+          "cloze": "The bank reported a July-______26 loss of Tk1,970 crore, compared with a Tk32 crore profit in the same quarter of 2025.",
+          "answer": "September 20"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "islami",
+        "bank",
+        "proposes",
+        "raise",
+        "authorised",
+        "capital",
+        "fivefold",
+        "crore"
+      ],
+      "detail": "Islami Bank Bangladesh's board proposed increasing authorised capital from Tk2,000 crore to Tk10,000 crore. The proposal requires amendments to the bank's Memorandum and Articles of Association and approval from Bangladesh Bank, other regulators and shareholders at an Extraordinary General Meeting. The bank reported a July-September 2026 loss of Tk1,970 crore, compared with a Tk32 crore profit in the same quarter of 2025."
+    },
+    {
+      "id": "CA06",
+      "headline": "Trust Bank joins Bangladesh Bank's Tk2,000 crore leather-sector pre-finance scheme",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-01",
+      "event_date_note": "Participation agreement signed 2026-11-01",
+      "article_date": "2026-11-06",
+      "summary": "Trust Bank signed a participation agreement with Bangladesh Bank under the central bank's Tk2,000 crore pre-finance scheme for the leather industry. The scheme offers end-borrower financing at an annual interest rate of up to 7% and covers leather processing, tanneries, leather goods, footwear and related support industries.",
+      "why_it_matters": "The scheme links bank credit with export competitiveness, industrial upgrading and cleaner production practices.",
+      "exam_facts": "Tk2,000 crore scheme; maximum end-borrower rate 7%; Trust Bank signed its participation agreement on 1 November 2026.",
+      "exam_relevance": "High",
+      "key_people": "Bangladesh Bank; Trust Bank PLC; leather processors; tanneries; footwear manufacturers.",
+      "figures": "Scheme size: Tk2,000 crore; maximum end-borrower interest rate: 7%; Trust Bank agreement date: 1 November 2026.",
+      "sources": [
+        {
+          "id": "S08",
+          "publication": "The Business Standard",
+          "headline": "Trust Bank signs deal with Bangladesh Bank to finance leather industry",
+          "date": "2026-11-06",
+          "url": "https://www.tbsnews.net/economy/corporates/trust-bank-signs-deal-bangladesh-bank-finance-leather-industry-1594416"
+        }
+      ],
+      "one_liner": "Trust Bank signed a participation agreement with Bangladesh Bank under the central bank's Tk2,000 crore pre-finance scheme for the leather…",
+      "key_facts": [
+        {
+          "label": "Scheme size",
+          "value": "Tk2,000 crore",
+          "original": "Scheme size: Tk2,000 crore"
+        },
+        {
+          "label": "maximum end-borrower interest rate",
+          "value": "7%",
+          "original": "maximum end-borrower interest rate: 7%"
+        },
+        {
+          "label": "Trust Bank agreement date",
+          "value": "1 November 2026",
+          "original": "Trust Bank agreement date: 1 November 2026"
+        },
+        {
+          "label": "crore scheme",
+          "value": "Tk2,000",
+          "original": "Tk2,000 crore scheme"
+        }
+      ],
+      "what_happened": [
+        "The scheme offers end-borrower financing at an annual interest rate of up to 7% and covers leather processing, tanneries, leather goods, footwear and related support industries."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Scheme size?",
+          "a": "Tk2,000 crore"
+        },
+        {
+          "q": "What is maximum end-borrower interest rate?",
+          "a": "7%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Trust Bank signed a participation agreement with Bangladesh Bank under the central bank's Tk______ crore pre-finance scheme for the leather industry.",
+          "answer": "2,000"
+        },
+        {
+          "cloze": "The scheme offers end-borrower financing at an annual interest rate of up to ______% and covers leather processing, tanneries, leather goods, footwear and related support industries.",
+          "answer": "7"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "trust",
+        "bank",
+        "joins",
+        "bangladesh",
+        "crore",
+        "leather",
+        "sector",
+        "finance",
+        "scheme"
+      ],
+      "detail": "Trust Bank signed a participation agreement with Bangladesh Bank under the central bank's Tk2,000 crore pre-finance scheme for the leather industry. The scheme offers end-borrower financing at an annual interest rate of up to 7% and covers leather processing, tanneries, leather goods, footwear and related support industries."
+    },
+    {
+      "id": "CA07",
+      "headline": "BRAC Bank completes Bangladesh's first fully digital export documentary collection",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "event_date_note": "Transaction publicly announced 2026-11-04",
+      "article_date": "2026-11-06",
+      "summary": "BRAC Bank completed a fully digital export documentary collection using blockchain technology and an electronic bill of lading (eBL). The transaction involved NAZ Bangladesh exporting garments to UK retailer Matalan; BRAC Bank acted as remitting bank and Lloyds Bank as collecting bank. Document processing fell from a cited conventional 40 days to one day.",
+      "why_it_matters": "Digital trade documents can reduce courier delays, improve document security and visibility, and make cross-border trade finance more efficient.",
+      "exam_facts": "Bangladesh's first fully digital export documentary collection; blockchain and eBL used; BRAC Bank was remitting bank and Lloyds was collecting bank.",
+      "exam_relevance": "High",
+      "key_people": "BRAC Bank; NAZ Bangladesh; Matalan; Lloyds Bank; Enigio; Digital Trade Works; Bangladesh Bank.",
+      "figures": "Document processing: 40 days to 1 day. This refers to document processing only, not the full export shipment or payment cycle.",
+      "sources": [
+        {
+          "id": "S10",
+          "publication": "The Financial Express",
+          "headline": "BRAC Bank cuts export document processing time from 40 days to one",
+          "date": "2026-11-06",
+          "url": "https://thefinancialexpress.com.bd/bangladesh/brac-bank-cuts-export-document-processing-time-from-40-days-to-one"
+        },
+        {
+          "id": "S11",
+          "publication": "Lloyds Banking Group",
+          "headline": "Digitally executed documentary collection completed - cutting 40-day trade cycle to 1 day",
+          "date": "2026-11-04",
+          "url": "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/digitally-executed-documentary-collection.html"
+        }
+      ],
+      "one_liner": "BRAC Bank completed a fully digital export documentary collection using blockchain technology and an electronic bill of lading (eBL).",
+      "key_facts": [
+        {
+          "label": "Document processing",
+          "value": "40 days to 1 day. This refers to document processing only, not the full export shipment or payment cycle",
+          "original": "Document processing: 40 days to 1 day. This refers to document processing only, not the full export shipment or payment cycle"
+        },
+        {
+          "label": "",
+          "value": "Bangladesh's first fully digital export documentary collection",
+          "original": "Bangladesh's first fully digital export documentary collection"
+        },
+        {
+          "label": "",
+          "value": "blockchain and eBL used",
+          "original": "blockchain and eBL used"
+        }
+      ],
+      "what_happened": [
+        "The transaction involved NAZ Bangladesh exporting garments to UK retailer Matalan; BRAC Bank acted as remitting bank and Lloyds Bank as collecting bank.",
+        "Document processing fell from a cited conventional 40 days to one day."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is BRAC Bank?",
+          "a": "was remitting bank and Lloyds was collecting bank"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Document processing fell from a cited conventional ______ days to one day.",
+          "answer": "40"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "brac",
+        "bank",
+        "completes",
+        "bangladesh",
+        "fully",
+        "digital",
+        "export",
+        "documentary",
+        "collection"
+      ],
+      "detail": "BRAC Bank completed a fully digital export documentary collection using blockchain technology and an electronic bill of lading (eBL). The transaction involved NAZ Bangladesh exporting garments to UK retailer Matalan; BRAC Bank acted as remitting bank and Lloyds Bank as collecting bank. Document processing fell from a cited conventional 40 days to one day."
+    },
+    {
+      "id": "CA08",
+      "headline": "Bangladesh and Russia discuss long-term LNG/LPG supplies and alternative payment routes",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "event_date_note": "Fifth Bangladesh-Russia Intergovernmental Commission meeting, 2026-11-05",
+      "article_date": "2026-11-05",
+      "article_date_note": "2026-11-05 (updated 2026-11-06)",
+      "summary": "The fifth Bangladesh-Russia Intergovernmental Commission meeting discussed possible long-term LNG and LPG supplies, including potential imports from Russia's Sakhalin-2 and Portovaya facilities. The talks also covered alternative payment mechanisms because sanctions have disrupted conventional banking channels. Bangladesh Bank data cited by the report show Bangladesh paid US$1.36 billion for imports from Russia in FY2025.",
+      "why_it_matters": "Energy-import diversification and payment arrangements affect energy security, foreign exchange, sanctions compliance and the Rooppur nuclear project loan-repayment channel.",
+      "exam_facts": "Fifth Bangladesh-Russia IGC meeting; Sakhalin-2 and Portovaya were discussed; alternative payment channels were considered; FY2025 imports from Russia were US$1.36bn.",
+      "exam_relevance": "High",
+      "key_people": "Bangladesh and Russian governments; Petrobangla; Gazprom; Sakhalin Energy; Bangladesh Bank; Economic Relations Division.",
+      "figures": "Bangladesh imports from Russia: US$1.36bn in FY2025; fifth IGC meeting held 5 November 2026.",
+      "sources": [
+        {
+          "id": "S03",
+          "publication": "The Business Standard",
+          "headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+          "date": "2026-11-05",
+          "date_note": "2026-11-05 (updated 2026-11-06)",
+          "url": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241"
+        }
+      ],
+      "one_liner": "The fifth Bangladesh-Russia Intergovernmental Commission meeting discussed possible long-term LNG and LPG supplies, including potential imports from Russia's Sakhalin-2 and…",
+      "key_facts": [
+        {
+          "label": "Bangladesh imports from Russia",
+          "value": "US$1.36bn in FY2025",
+          "original": "Bangladesh imports from Russia: US$1.36bn in FY2025"
+        },
+        {
+          "label": "",
+          "value": "fifth IGC meeting held 5 November 2026",
+          "original": "fifth IGC meeting held 5 November 2026"
+        },
+        {
+          "label": "",
+          "value": "Fifth Bangladesh-Russia IGC meeting",
+          "original": "Fifth Bangladesh-Russia IGC meeting"
+        },
+        {
+          "label": "Sakhalin- and Portovaya were discussed",
+          "value": "2",
+          "original": "Sakhalin-2 and Portovaya were discussed"
+        }
+      ],
+      "what_happened": [
+        "The talks also covered alternative payment mechanisms because sanctions have disrupted conventional banking channels.",
+        "Bangladesh Bank data cited by the report show Bangladesh paid US$1.36 billion for imports from Russia in FY2025."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Bangladesh imports from Russia?",
+          "a": "US$1.36bn in FY2025"
+        },
+        {
+          "q": "What is Sakhalin- and Portovaya were discussed?",
+          "a": "2"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The fifth Bangladesh-Russia Intergovernmental Commission meeting discussed possible long-term LNG and LPG supplies, including potential imports from Russia's Sakhalin-______ and Portovaya facilities.",
+          "answer": "2"
+        },
+        {
+          "cloze": "Bangladesh Bank data cited by the report show Bangladesh paid US$______ billion for imports from Russia in FY2025.",
+          "answer": "1.36"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "russia",
+        "discuss",
+        "long",
+        "term",
+        "supplies",
+        "alternative",
+        "payment",
+        "routes"
+      ],
+      "detail": "The fifth Bangladesh-Russia Intergovernmental Commission meeting discussed possible long-term LNG and LPG supplies, including potential imports from Russia's Sakhalin-2 and Portovaya facilities. The talks also covered alternative payment mechanisms because sanctions have disrupted conventional banking channels. Bangladesh Bank data cited by the report show Bangladesh paid US$1.36 billion for imports from Russia in FY2025."
+    },
+    {
+      "id": "CA09",
+      "headline": "Tk4,068 crore Mongla Port expansion and modernisation project launched",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-05",
+      "event_date_note": "Foundation-stone ceremony, 2026-11-05",
+      "article_date": "2026-11-06",
+      "summary": "Prime Minister Tarique Rahman laid the foundation stone of the Tk4,068 crore Mongla Port Expansion and Modernisation Project in Mongla, Bagerhat. The plan includes upgraded cargo and supply-chain facilities and improved road connectivity between Panchagarh and Mongla. Once completed, container trains are expected to run directly between Kamalapur Inland Container Depot in Dhaka and Mongla Port. A cooperation MoU with a Chinese firm was also reported.",
+      "why_it_matters": "Port capacity and inland connectivity can lower logistics costs, support exports and imports, and encourage more balanced regional development.",
+      "exam_facts": "Project cost Tk4,068 crore; foundation stone laid on 5 November 2026; project is intended to strengthen Mongla's role as an import-export hub.",
+      "exam_relevance": "High",
+      "key_people": "Prime Minister Tarique Rahman; Mongla Port Authority; Government of Bangladesh; Chinese infrastructure partner; Bangladesh Railway.",
+      "figures": "Project cost: Tk4,068 crore; planned direct rail link: Kamalapur ICD to Mongla Port.",
+      "sources": [
+        {
+          "id": "S12",
+          "publication": "The Daily Star",
+          "headline": "Mongla port to drive regional growth: PM",
+          "date": "2026-11-06",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/mongla-port-drive-regional-growth-pm-4316826"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman laid the foundation stone of the Tk4,068 crore Mongla Port Expansion and Modernisation Project in Mongla,…",
+      "key_facts": [
+        {
+          "label": "Project cost",
+          "value": "Tk4,068 crore",
+          "original": "Project cost: Tk4,068 crore"
+        },
+        {
+          "label": "planned direct rail link",
+          "value": "Kamalapur ICD to Mongla Port",
+          "original": "planned direct rail link: Kamalapur ICD to Mongla Port"
+        },
+        {
+          "label": "",
+          "value": "foundation stone laid on 5 November 2026",
+          "original": "foundation stone laid on 5 November 2026"
+        }
+      ],
+      "what_happened": [
+        "The plan includes upgraded cargo and supply-chain facilities and improved road connectivity between Panchagarh and Mongla.",
+        "Once completed, container trains are expected to run directly between Kamalapur Inland Container Depot in Dhaka and Mongla Port.",
+        "A cooperation MoU with a Chinese firm was also reported."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Project cost?",
+          "a": "Tk4,068 crore"
+        },
+        {
+          "q": "What is planned direct rail link?",
+          "a": "Kamalapur ICD to Mongla Port"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman laid the foundation stone of the Tk______ crore Mongla Port Expansion and Modernisation Project in Mongla, Bagerhat.",
+          "answer": "4,068"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "crore",
+        "mongla",
+        "port",
+        "expansion",
+        "modernisation",
+        "project",
+        "launched"
+      ],
+      "detail": "Prime Minister Tarique Rahman laid the foundation stone of the Tk4,068 crore Mongla Port Expansion and Modernisation Project in Mongla, Bagerhat. The plan includes upgraded cargo and supply-chain facilities and improved road connectivity between Panchagarh and Mongla. Once completed, container trains are expected to run directly between Kamalapur Inland Container Depot in Dhaka and Mongla Port. A cooperation MoU with a Chinese firm was also reported."
+    },
+    {
+      "id": "CA10",
+      "headline": "Bangladesh AI Business Summit calls for AI-led productivity and innovation",
+      "category": "Technology",
+      "event_date": "2026-11-05",
+      "event_date_note": "Bangladesh AI Business Summit, 2026-11-05",
+      "article_date": "2026-11-06",
+      "summary": "The Bangladesh AI Business Summit was held at the Bangladesh-China Friendship Conference Centre and jointly organised by the Ministry of Science and Technology and the Dhaka Chamber of Commerce and Industry. President Mirza Fakhrul Islam Alamgir called for AI adoption across agriculture, education, healthcare, industry, trade and employment, and for digital skills among young people. He referred to a vision of a trillion-dollar economy by 2034.",
+      "why_it_matters": "AI adoption, skills, productivity and responsible technology use are increasingly relevant to industrial competitiveness and future employment.",
+      "exam_facts": "The summit was jointly organised by the Ministry of Science and Technology and DCCI; the president called for AI-led innovation and skills; 2034 is the stated target year.",
+      "exam_relevance": "High",
+      "key_people": "President Mirza Fakhrul Islam Alamgir; Ministry of Science and Technology; Dhaka Chamber of Commerce and Industry; business and technology stakeholders.",
+      "figures": "Summit date: 5 November 2026; stated ambition: a trillion-dollar economy by 2034.",
+      "sources": [
+        {
+          "id": "S06",
+          "publication": "The Daily Star",
+          "headline": "President calls for AI-driven innovation",
+          "date": "2026-11-06",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/president-calls-ai-driven-innovation-4316901"
+        }
+      ],
+      "one_liner": "The Bangladesh AI Business Summit was held at the Bangladesh-China Friendship Conference Centre and jointly organised by the Ministry of…",
+      "key_facts": [
+        {
+          "label": "Summit date",
+          "value": "5 November 2026",
+          "original": "Summit date: 5 November 2026"
+        },
+        {
+          "label": "stated ambition",
+          "value": "a trillion-dollar economy by 2034",
+          "original": "stated ambition: a trillion-dollar economy by 2034"
+        },
+        {
+          "label": "",
+          "value": "the president called for AI-led innovation and skills",
+          "original": "the president called for AI-led innovation and skills"
+        },
+        {
+          "label": "is the stated target year",
+          "value": "2034",
+          "original": "2034 is the stated target year"
+        }
+      ],
+      "what_happened": [
+        "President Mirza Fakhrul Islam Alamgir called for AI adoption across agriculture, education, healthcare, industry, trade and employment, and for digital skills among young people.",
+        "He referred to a vision of a trillion-dollar economy by 2034."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Summit date?",
+          "a": "5 November 2026"
+        },
+        {
+          "q": "What is stated ambition?",
+          "a": "a trillion-dollar economy by 2034"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "He referred to a vision of a trillion-dollar economy by ______.",
+          "answer": "2034"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "bangladesh",
+        "business",
+        "summit",
+        "calls",
+        "productivity",
+        "innovation"
+      ],
+      "detail": "The Bangladesh AI Business Summit was held at the Bangladesh-China Friendship Conference Centre and jointly organised by the Ministry of Science and Technology and the Dhaka Chamber of Commerce and Industry. President Mirza Fakhrul Islam Alamgir called for AI adoption across agriculture, education, healthcare, industry, trade and employment, and for digital skills among young people. He referred to a vision of a trillion-dollar economy by 2034."
+    },
+    {
+      "id": "CA11",
+      "headline": "Government hopes to resume Malaysia-bound worker recruitment in December",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-05",
+      "event_date_note": "Minister's remarks, 2026-11-05",
+      "article_date": "2026-11-05",
+      "article_date_note": "2026-11-05 (updated 2026-11-06)",
+      "summary": "Expatriates' Welfare and Overseas Employment Minister Ariful Haque Chowdhury said Bangladesh hopes to resume sending workers to Malaysia from December. He said the first two or three flights should carry workers free of charge; private-agency migration costs for others were estimated at Tk2.5 lakh to Tk3 lakh. The minister described an online application and lottery process and said a new MoU was expected on 31 December.",
+      "why_it_matters": "Malaysia is an important labour market for Bangladesh. Transparent recruitment and lower migration costs affect remittance earnings, worker protection and household debt.",
+      "exam_facts": "The minister expressed an expectation, not a guarantee; first two or three flights were proposed to be free; other costs were estimated at Tk2.5–3 lakh.",
+      "exam_relevance": "High",
+      "key_people": "Minister Ariful Haque Chowdhury; Ministry of Expatriates' Welfare and Overseas Employment; recruiting agencies; Bangladesh and Malaysia.",
+      "figures": "Expected resumption: December 2026; first 2–3 flights proposed free; estimated private-agency cost: Tk2.5–3 lakh; proposed MoU date: 31 December.",
+      "sources": [
+        {
+          "id": "S04",
+          "publication": "The Business Standard",
+          "headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+          "date": "2026-11-05",
+          "date_note": "2026-11-05 (updated 2026-11-06)",
+          "url": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071"
+        }
+      ],
+      "one_liner": "Expatriates' Welfare and Overseas Employment Minister Ariful Haque Chowdhury said Bangladesh hopes to resume sending workers to Malaysia from December.",
+      "key_facts": [
+        {
+          "label": "Expected resumption",
+          "value": "December 2026",
+          "original": "Expected resumption: December 2026"
+        },
+        {
+          "label": "first flights proposed free",
+          "value": "2–3",
+          "original": "first 2–3 flights proposed free"
+        },
+        {
+          "label": "estimated private-agency cost",
+          "value": "Tk2.5–3 lakh",
+          "original": "estimated private-agency cost: Tk2.5–3 lakh"
+        },
+        {
+          "label": "proposed MoU date",
+          "value": "31 December",
+          "original": "proposed MoU date: 31 December"
+        }
+      ],
+      "what_happened": [
+        "He said the first two or three flights should carry workers free of charge; private-agency migration costs for others were estimated at Tk2.5 lakh to Tk3 lakh.",
+        "The minister described an online application and lottery process and said a new MoU was expected on 31 December."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Expected resumption?",
+          "a": "December 2026"
+        },
+        {
+          "q": "What is first flights proposed free?",
+          "a": "2–3"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "He said the first two or three flights should carry workers free of charge; private-agency migration costs for others were estimated at Tk______ lakh to Tk3 lakh.",
+          "answer": "2.5"
+        },
+        {
+          "cloze": "The minister described an online application and lottery process and said a new MoU was expected on ______.",
+          "answer": "31 December"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "government",
+        "hopes",
+        "resume",
+        "malaysia",
+        "bound",
+        "worker",
+        "recruitment",
+        "december"
+      ],
+      "detail": "Expatriates' Welfare and Overseas Employment Minister Ariful Haque Chowdhury said Bangladesh hopes to resume sending workers to Malaysia from December. He said the first two or three flights should carry workers free of charge; private-agency migration costs for others were estimated at Tk2.5 lakh to Tk3 lakh. The minister described an online application and lottery process and said a new MoU was expected on 31 December."
+    },
+    {
+      "id": "CA12",
+      "headline": "Garment unrest eases, while NBR examines accounts and company transactions over alleged financing",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-06",
+      "event_date_note": "Late October to 2026-11-06; articles describe eight days of unrest",
+      "article_date": "2026-11-06",
+      "summary": "Dhaka Tribune reported that production had resumed in major industrial areas, but 70 factories in Ashulia were forced to suspend operations amid sporadic protests; 33 BGB platoons were deployed. Workers had demanded a Tk30,000 monthly minimum wage. Separately, The Daily Star reported that NBR units had asked banks to freeze accounts of more than 100 individuals and were scrutinising transactions of around 125 companies over allegations of financing unrest.",
+      "why_it_matters": "The RMG sector is central to Bangladesh's exports and employment. Labour unrest can disrupt production, shipments and investor confidence; tax investigations raise questions about due process and financial intelligence.",
+      "exam_facts": "RMG unrest affected production; 70 factories in Ashulia were reported closed; NBR scrutiny is an investigation based on allegations, not a finding of guilt.",
+      "exam_relevance": "High",
+      "key_people": "Garment workers; factory owners; BGMEA; Border Guard Bangladesh (BGB); National Board of Revenue (NBR); Central Intelligence Cell.",
+      "figures": "70 Ashulia factories reported closed; 33 BGB platoons deployed; wage demand Tk30,000 per month; NBR report refers to more than 100 individual accounts and around 125 companies.",
+      "sources": [
+        {
+          "id": "S14",
+          "publication": "The Daily Star",
+          "headline": "225 individuals, firms under NBR scanner",
+          "date": "2026-11-06",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846"
+        },
+        {
+          "id": "S15",
+          "publication": "Dhaka Tribune",
+          "headline": "Garment unrest eases after eight days as workers return to factories",
+          "date": "2026-11-06",
+          "url": "https://www.dhakatribune.com/bangladesh/423838/garment-unrest-eases-after-eight-days-as-workers"
+        }
+      ],
+      "one_liner": "Dhaka Tribune reported that production had resumed in major industrial areas, but 70 factories in Ashulia were forced to suspend…",
+      "key_facts": [
+        {
+          "label": "Ashulia factories reported closed",
+          "value": "70",
+          "original": "70 Ashulia factories reported closed"
+        },
+        {
+          "label": "BGB platoons deployed",
+          "value": "33",
+          "original": "33 BGB platoons deployed"
+        },
+        {
+          "label": "wage demand per month",
+          "value": "Tk30,000",
+          "original": "wage demand Tk30,000 per month"
+        },
+        {
+          "label": "NBR report refers to more than…",
+          "value": "100",
+          "original": "NBR report refers to more than 100 individual accounts and around 125 companies"
+        }
+      ],
+      "what_happened": [
+        "Workers had demanded a Tk30,000 monthly minimum wage.",
+        "Separately, The Daily Star reported that NBR units had asked banks to freeze accounts of more than 100 individuals and were scrutinising transactions of around 125 companies over allegations of financing unrest."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Ashulia factories reported closed?",
+          "a": "70"
+        },
+        {
+          "q": "What is BGB platoons deployed?",
+          "a": "33"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Dhaka Tribune reported that production had resumed in major industrial areas, but ______ factories in Ashulia were forced to suspend operations amid sporadic protests; 33 BGB platoons were deployed.",
+          "answer": "70"
+        },
+        {
+          "cloze": "Workers had demanded a Tk______ monthly minimum wage.",
+          "answer": "30,000"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "garment",
+        "unrest",
+        "eases",
+        "while",
+        "examines",
+        "accounts",
+        "company",
+        "transactions",
+        "alleged",
+        "financing"
+      ],
+      "detail": "Dhaka Tribune reported that production had resumed in major industrial areas, but 70 factories in Ashulia were forced to suspend operations amid sporadic protests; 33 BGB platoons were deployed. Workers had demanded a Tk30,000 monthly minimum wage. Separately, The Daily Star reported that NBR units had asked banks to freeze accounts of more than 100 individuals and were scrutinising transactions of around 125 companies over allegations of financing unrest."
+    },
+    {
+      "id": "CA13",
+      "headline": "Janata Jute Mills inaugurates 17.84-MW solar project in Faridpur",
+      "category": "Bangladesh",
+      "event_date": "2026-11-05",
+      "event_date_note": "Inauguration, 2026-11-05",
+      "article_date": "2026-11-06",
+      "summary": "A 17.84-megawatt solar power project was inaugurated at Janata Jute Mills in Boalmari upazila, Faridpur. The project was financed by Infrastructure Development Company Limited (IDCOL). BSS, citing a press release, described the mill as the world's first jute company to operate entirely on renewable energy and Bangladesh's first carbon-neutral company.",
+      "why_it_matters": "Industrial solar power can reduce dependence on grid electricity and fossil fuels, improve energy security and support lower-emission manufacturing.",
+      "exam_facts": "17.84-MW solar project; Janata Jute Mills, Boalmari, Faridpur; IDCOL financed the project. The first/carbon-neutral description is attributed to a press release and was not independently audited in this digest.",
+      "exam_relevance": "Medium",
+      "key_people": "Janata Jute Mills; IDCOL; KfW; Akij Bashir Group; German Ambassador Dr Rüdiger Lotz.",
+      "figures": "Solar capacity: 17.84 MW; location: Boalmari, Faridpur; inauguration: 5 November 2026.",
+      "sources": [
+        {
+          "id": "S19",
+          "publication": "Bangladesh Sangbad Sangstha (BSS)",
+          "headline": "Janata Jute Mills inaugurates 17.84-MW Solar Plant",
+          "date": "2026-11-06",
+          "url": "https://www.bssnews.net/news/442790"
+        }
+      ],
+      "one_liner": "A 17.84-megawatt solar power project was inaugurated at Janata Jute Mills in Boalmari upazila, Faridpur.",
+      "key_facts": [
+        {
+          "label": "Solar capacity",
+          "value": "17.84 MW",
+          "original": "Solar capacity: 17.84 MW"
+        },
+        {
+          "label": "location",
+          "value": "Boalmari, Faridpur",
+          "original": "location: Boalmari, Faridpur"
+        },
+        {
+          "label": "inauguration",
+          "value": "5 November 2026",
+          "original": "inauguration: 5 November 2026"
+        },
+        {
+          "label": "MW solar project",
+          "value": "17.84",
+          "original": "17.84-MW solar project"
+        }
+      ],
+      "what_happened": [
+        "The project was financed by Infrastructure Development Company Limited (IDCOL).",
+        "BSS, citing a press release, described the mill as the world's first jute company to operate entirely on renewable energy and Bangladesh's first carbon-neutral company."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Solar capacity?",
+          "a": "17.84 MW"
+        },
+        {
+          "q": "What is location?",
+          "a": "Boalmari, Faridpur"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A ______-megawatt solar power project was inaugurated at Janata Jute Mills in Boalmari upazila, Faridpur.",
+          "answer": "17.84"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "janata",
+        "jute",
+        "mills",
+        "inaugurates",
+        "solar",
+        "project",
+        "faridpur"
+      ],
+      "detail": "A 17.84-megawatt solar power project was inaugurated at Janata Jute Mills in Boalmari upazila, Faridpur. The project was financed by Infrastructure Development Company Limited (IDCOL). BSS, citing a press release, described the mill as the world's first jute company to operate entirely on renewable energy and Bangladesh's first carbon-neutral company."
+    },
+    {
+      "id": "CA14",
+      "headline": "COP31 to focus on implementation, fossil-fuel transition and climate finance; UNEP reports a large adaptation-finance gap",
+      "category": "World",
+      "event_date": "2026-11-09",
+      "event_date_note": "COP31: 2026-11-09 to 2026-11-20; UNEP report released 2026-11-04",
+      "article_date": "2026-11-06",
+      "article_date_note": "2026-11-06 (Reuters); 2026-11-04 (UNEP report)",
+      "summary": "COP31 will take place in Antalya, Türkiye, from 9 to 20 November 2026. Türkiye will host; Murat Kurum is nominated as conference president and Australia's Chris Bowen will preside over negotiations. Reuters reported that fossil-fuel phase-outs and climate finance are central issues. UNEP's 2026 Adaptation Gap Report estimates international public adaptation finance at US$28.2–31.7 billion in 2024, against developing-country needs of US$305 billion annually by 2035.",
+      "why_it_matters": "Climate finance and adaptation are especially important to vulnerable developing countries, including Bangladesh, which faces cyclones, floods, heat stress and sea-level rise.",
+      "exam_facts": "COP31 is in Antalya, Türkiye; conference dates are 9–20 November 2026; UNEP estimates US$305bn annual adaptation needs by 2035; 2024 public flows were US$28.2–31.7bn.",
+      "exam_relevance": "High",
+      "key_people": "UNFCCC; UNEP; Türkiye; Murat Kurum; Chris Bowen; Climate Analytics; developing-country negotiators.",
+      "figures": "COP31 dates: 9–20 November 2026; leaders' summit: 11–12 November; adaptation finance: US$28.2–31.7bn in 2024; estimated needs: US$305bn annually by 2035.",
+      "sources": [
+        {
+          "id": "S07",
+          "publication": "Reuters",
+          "headline": "Fossil fuel cuts and finance top COP31 agenda",
+          "date": "2026-11-06",
+          "url": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/"
+        },
+        {
+          "id": "S21",
+          "publication": "UN Environment Programme (UNEP)",
+          "headline": "Adaptation Gap Report 2026: Ready? Not",
+          "date": "2026-11-04",
+          "url": "https://www.unep.org/en/publications/report/adaptation-gap-report-2026"
+        },
+        {
+          "id": "S22",
+          "publication": "UNFCCC",
+          "headline": "About COP31",
+          "date": "Current official conference information",
+          "url": "https://unfccc.int/cop31/about"
+        }
+      ],
+      "one_liner": "COP31 will take place in Antalya, Türkiye, from 9 to 20 November 2026.",
+      "key_facts": [
+        {
+          "label": "COP31 dates",
+          "value": "9–20 November 2026",
+          "original": "COP31 dates: 9–20 November 2026"
+        },
+        {
+          "label": "leaders' summit",
+          "value": "11–12 November",
+          "original": "leaders' summit: 11–12 November"
+        },
+        {
+          "label": "adaptation finance",
+          "value": "US$28.2–31.7bn in 2024",
+          "original": "adaptation finance: US$28.2–31.7bn in 2024"
+        },
+        {
+          "label": "estimated needs",
+          "value": "US$305bn annually by 2035",
+          "original": "estimated needs: US$305bn annually by 2035"
+        }
+      ],
+      "what_happened": [
+        "Türkiye will host; Murat Kurum is nominated as conference president and Australia's Chris Bowen will preside over negotiations.",
+        "Reuters reported that fossil-fuel phase-outs and climate finance are central issues.",
+        "UNEP's 2026 Adaptation Gap Report estimates international public adaptation finance at US$28.2–31.7 billion in 2024, against developing-country needs of US$305 billion annually by 2035."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is leaders' summit?",
+          "a": "11–12 November"
+        },
+        {
+          "q": "What is adaptation finance?",
+          "a": "US$28.2–31.7bn in 2024"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "COP31 will take place in Antalya, Türkiye, from 9 to ______.",
+          "answer": "20 November 2026"
+        },
+        {
+          "cloze": "UNEP's ______ Adaptation Gap Report estimates international public adaptation finance at US$28.2–31.7 billion in 2024, against developing-country needs of US$305 billion annually by 2035.",
+          "answer": "2026"
+        }
+      ],
+      "keywords": [
+        "world",
+        "focus",
+        "implementation",
+        "fossil",
+        "fuel",
+        "transition",
+        "climate",
+        "finance",
+        "unep",
+        "reports",
+        "large",
+        "adaptation"
+      ],
+      "detail": "COP31 will take place in Antalya, Türkiye, from 9 to 20 November 2026. Türkiye will host; Murat Kurum is nominated as conference president and Australia's Chris Bowen will preside over negotiations. Reuters reported that fossil-fuel phase-outs and climate finance are central issues. UNEP's 2026 Adaptation Gap Report estimates international public adaptation finance at US$28.2–31.7 billion in 2024, against developing-country needs of US$305 billion annually by 2035."
+    },
+    {
+      "id": "CA15",
+      "headline": "China adopts law targeting cross-border corruption",
+      "category": "World",
+      "event_date": "2026-11-06",
+      "event_date_note": "Adoption reported 2026-11-06",
+      "article_date": "2026-11-06",
+      "summary": "Reuters reported, citing China's state news agency Xinhua, that China adopted a law targeting cross-border corruption. Reported provisions include stronger cooperation to track fugitives, prevent suspects from fleeing abroad, recover illicit assets, protect state and commercial secrets and personal data, and require Chinese companies engaged in cross-border business to establish anti-corruption compliance functions proportionate to their risks.",
+      "why_it_matters": "The law expands anti-corruption enforcement beyond national borders and has implications for international legal cooperation, asset recovery and corporate compliance.",
+      "exam_facts": "China adopted a law targeting cross-border corruption; reported aims include fugitive tracking and illicit-asset recovery; corporate anti-corruption compliance duties are part of the reported framework.",
+      "exam_relevance": "Medium",
+      "key_people": "National People's Congress Standing Committee; Xinhua; President Xi Jinping; senior anti-corruption official Li Xi.",
+      "figures": "Law adopted 6 November 2026; draft first reviewed in August 2025, according to Reuters' account.",
+      "sources": [
+        {
+          "id": "S20",
+          "publication": "Reuters",
+          "headline": "China passes cross-border corruption law, expanding anti-graft drive",
+          "date": "2026-11-06",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-standing-committee-national-peoples-congress-passes-cross-border-2026-11-06/"
+        }
+      ],
+      "one_liner": "Reuters reported, citing China's state news agency Xinhua, that China adopted a law targeting cross-border corruption.",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Law adopted 6 November 2026",
+          "original": "Law adopted 6 November 2026"
+        },
+        {
+          "label": "",
+          "value": "reported aims include fugitive tracking and illicit-asset recovery",
+          "original": "reported aims include fugitive tracking and illicit-asset recovery"
+        }
+      ],
+      "what_happened": [
+        "Reported provisions include stronger cooperation to track fugitives, prevent suspects from fleeing abroad, recover illicit assets,",
+        "protect state and commercial secrets and personal data, and require Chinese companies engaged in cross-border business to establish anti-corruption compliance functions proportionate to their risks."
+      ],
+      "exam_qa": [],
+      "recall_cards": [],
+      "keywords": [
+        "world",
+        "china",
+        "adopts",
+        "targeting",
+        "cross",
+        "border",
+        "corruption"
+      ],
+      "detail": "Reuters reported, citing China's state news agency Xinhua, that China adopted a law targeting cross-border corruption. Reported provisions include stronger cooperation to track fugitives, prevent suspects from fleeing abroad, recover illicit assets, protect state and commercial secrets and personal data, and require Chinese companies engaged in cross-border business to establish anti-corruption compliance functions proportionate to their risks."
+    }
+  ],
+  "words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bureaucratic",
+      "IPA": "/ˌbjʊərəˈkrætɪk/",
+      "Bangla phonetic": "বিউরোক্র্যাটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আমলাতান্ত্রিক; দাপ্তরিক জটিলতাপূর্ণ",
+      "English definition": "Relating to an administrative system with many rules and procedures, often causing delay.",
+      "Synonyms": "administrative; procedural; official; rule-bound",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "bureaucracy; bureaucrat; bureaucratically",
+      "Collocations / patterns": "bureaucratic delay; bureaucratic hurdles; bureaucratic procedure",
+      "Original example": "A single digital window could reduce bureaucratic delays for new investors.",
+      "Newspaper context note": "Used in reporting on the proposed overhaul of business approvals to describe delays created by administrative procedures.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful in governance, public administration, investment-climate essays and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "overhaul",
+      "IPA": "/ˌəʊvəˈhɔːl/",
+      "Bangla phonetic": "ওভারহল",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ব্যাপক সংস্কার; আমূল পুনর্গঠন করা",
+      "English definition": "A thorough examination and major improvement or restructuring of a system.",
+      "Synonyms": "revamp; reform; restructure; rework; renovate",
+      "Antonyms": "preserve; maintain; retain; leave unchanged",
+      "Word family / derivatives": "overhauled; overhauling; overhaul (noun/verb)",
+      "Collocations / patterns": "major overhaul; overhaul the system; regulatory overhaul",
+      "Original example": "The proposed overhaul of business approvals aims to reduce the time needed to start a company.",
+      "Newspaper context note": "The article describes a major overhaul of Bangladesh's investment-approval regime.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "A strong formal verb/noun for précis, policy writing and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "statutory",
+      "IPA": "/ˈstætʃətəri/",
+      "Bangla phonetic": "স্ট্যাচুটরি",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আইননির্ধারিত; আইনগতভাবে বাধ্যতামূলক",
+      "English definition": "Required, created or regulated by law.",
+      "Synonyms": "legal; legislated; mandated; law-based",
+      "Antonyms": "unlawful; illegal; non-statutory",
+      "Word family / derivatives": "statute; statutorily; statutory",
+      "Collocations / patterns": "statutory requirement; statutory document; statutory obligation",
+      "Original example": "Investors must obtain the statutory documents required before a business can operate.",
+      "Newspaper context note": "The article says investors need 12 statutory documents and proposes simplifying the process for obtaining them.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "High-value legal and governance vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "prerequisite",
+      "IPA": "/ˌpriːˈrekwəzɪt/",
+      "Bangla phonetic": "প্রি-রেকুইজিট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্বশর্ত; আবশ্যিক শর্ত",
+      "English definition": "Something that must exist or be completed before something else can happen.",
+      "Synonyms": "precondition; requirement; prior condition; essential condition",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "requisite; prerequisite; prerequisites",
+      "Collocations / patterns": "essential prerequisite; prerequisite for; prerequisite to",
+      "Original example": "Reliable electricity is a prerequisite for expanding energy-intensive manufacturing.",
+      "Newspaper context note": "The business-approval article says the government plans to reduce the number of prerequisites for starting industrial operations.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful for sentence completion, formal writing and reading comprehension.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "streamline",
+      "IPA": "/ˈstriːmlaɪn/",
+      "Bangla phonetic": "স্ট্রিমলাইন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রক্রিয়া সরল ও কার্যকর করা; সহজতর করা",
+      "English definition": "To make a process simpler, faster and more efficient.",
+      "Synonyms": "simplify; rationalise; optimise; improve",
+      "Antonyms": "complicate; obstruct; impede; hamper",
+      "Word family / derivatives": "streamlined; streamlining; streamline",
+      "Collocations / patterns": "streamline procedures; streamline operations; streamline approvals",
+      "Original example": "The authority plans to streamline approval procedures by processing applications in parallel.",
+      "Newspaper context note": "The article describes a proposed digital platform and parallel processing to streamline business approvals.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Very useful in essays and précis on public-service delivery, banking operations and reform.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "turnaround",
+      "IPA": "/ˈtɜːnəraʊnd/",
+      "Bangla phonetic": "টার্নঅ্যারাউন্ড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কাজ সম্পন্নের সময়; সাড়া দেওয়ার সময়",
+      "English definition": "The time taken to complete a process or respond to a request; also a marked reversal in performance.",
+      "Synonyms": "processing time; completion time; cycle time; response time",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "turn around (verb); turnaround; turnaround time",
+      "Collocations / patterns": "turnaround time; rapid turnaround; turnaround period",
+      "Original example": "A shorter document turnaround can help exporters manage working capital.",
+      "Newspaper context note": "The Invest Bangladesh roadmap sets an interim 18-day timeline and an ultimate 14-day turnaround target.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "BCS / Bank relevance": "Useful in business, banking and service-delivery contexts; common in comprehension passages.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "liquidity",
+      "IPA": "/lɪˈkwɪdəti/",
+      "Bangla phonetic": "লিকুইডিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "তারল্য; নগদে রূপান্তরযোগ্যতার সক্ষমতা",
+      "English definition": "The availability of cash or assets that can readily be converted into cash without a major loss in value.",
+      "Synonyms": "cash availability; ready funds; liquid resources; ease of conversion into cash",
+      "Antonyms": "illiquidity",
+      "Word family / derivatives": "liquid; illiquid; illiquidity; liquidate",
+      "Collocations / patterns": "market liquidity; liquidity shortage; liquidity support",
+      "Original example": "A prolonged liquidity shortage can discourage investment in the capital market.",
+      "Newspaper context note": "BSEC described the capital market as facing an acute liquidity shortage while requesting an extension of banks' special funds.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "BCS / Bank relevance": "Core bank-recruitment and economics vocabulary; essential for money-market and capital-market questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "maturity",
+      "IPA": "/məˈtʃʊərəti/",
+      "Bangla phonetic": "ম্যাচিউরিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "মেয়াদপূর্তি; পরিপক্বতা",
+      "English definition": "In finance, the date on which an investment, loan or other financial obligation becomes due for repayment or expiry.",
+      "Synonyms": "due date; expiry date; redemption date",
+      "Antonyms": "No direct antonym in the financial sense",
+      "Word family / derivatives": "mature; immature; maturation; maturity",
+      "Collocations / patterns": "maturity date; maturity period; loan maturity",
+      "Original example": "Banks must review their exposure before the fund reaches maturity.",
+      "Newspaper context note": "The report says the banks' special capital-market funds are scheduled to expire in December 2026.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "BCS / Bank relevance": "Important for banking, bonds, deposits, loans and financial-market questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "blanket",
+      "IPA": "/ˈblæŋkɪt/",
+      "Bangla phonetic": "ব্ল্যাঙ্কেট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সর্বব্যাপী; সবার ক্ষেত্রে একযোগে প্রযোজ্য",
+      "English definition": "Applying to all cases or people without distinction.",
+      "Synonyms": "sweeping; across-the-board; comprehensive; all-inclusive",
+      "Antonyms": "selective; limited; targeted; partial",
+      "Word family / derivatives": "blanketed; blanketing; blanket (verb/noun)",
+      "Collocations / patterns": "blanket ban; blanket extension; blanket approval",
+      "Original example": "The central bank declined to grant a blanket extension and said it would review requests individually.",
+      "Newspaper context note": "Bangladesh Bank's spokesperson said the facility would not be extended en masse; individual bank requests would be considered.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "BCS / Bank relevance": "Useful for policy, legal and governance passages; tests precise adjective meaning.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "bilateral",
+      "IPA": "/ˌbaɪˈlætərəl/",
+      "Bangla phonetic": "বাই-ল্যাটারাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দ্বিপাক্ষিক; দুই পক্ষ-সম্পর্কিত",
+      "English definition": "Involving two countries, organisations or parties.",
+      "Synonyms": "two-party; mutual; reciprocal; two-sided",
+      "Antonyms": "unilateral; one-sided",
+      "Word family / derivatives": "bilaterally; bilateralism; multilateral (related contrast)",
+      "Collocations / patterns": "bilateral trade; bilateral relations; bilateral agreement",
+      "Original example": "Bangladesh and Russia discussed bilateral cooperation in energy and financial transactions.",
+      "Newspaper context note": "The Bangladesh-Russia intergovernmental meeting covered bilateral trade, energy and financial cooperation.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "BCS / Bank relevance": "High-value international-relations and diplomacy vocabulary for BCS.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "sanction",
+      "IPA": "/ˈsæŋkʃən/",
+      "Bangla phonetic": "স্যাঙ্কশন",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নিষেধাজ্ঞা; শাস্তিমূলক বিধিনিষেধ",
+      "English definition": "An official penalty or restriction imposed on a country, organisation or person; the verb can mean to authorise formally.",
+      "Synonyms": "restriction; penalty; embargo; punitive measure",
+      "Antonyms": "approval; authorisation; endorsement; permission",
+      "Word family / derivatives": "sanctioned; sanctioning; sanctionable; sanctions",
+      "Collocations / patterns": "impose sanctions; sanctions regime; sanctions-related restrictions",
+      "Original example": "International sanctions can complicate cross-border payments even when trading partners want to proceed.",
+      "Newspaper context note": "The article says sanctions affecting Russian financial institutions complicate conventional payment routes for bilateral trade.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "BCS / Bank relevance": "Important in international affairs, diplomacy, banking compliance and current-affairs passages.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "facilitate",
+      "IPA": "/fəˈsɪlɪteɪt/",
+      "Bangla phonetic": "ফ্যাসিলিটেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সহজতর করা; সহায়তা করা",
+      "English definition": "To make an action or process easier.",
+      "Synonyms": "enable; ease; assist; help; promote",
+      "Antonyms": "hinder; impede; obstruct; hamper",
+      "Word family / derivatives": "facilitation; facilitator; facilitative; facilitated",
+      "Collocations / patterns": "facilitate trade; facilitate access; facilitate negotiations",
+      "Original example": "Clear regulations can facilitate secure electronic transfers of trade documents.",
+      "Newspaper context note": "Gazprom was reported as ready to facilitate direct discussions on possible LNG supplies between relevant companies.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "BCS / Bank relevance": "Very useful formal verb for précis, translation, composition and sentence correction.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "settlement",
+      "IPA": "/ˈsetlmənt/",
+      "Bangla phonetic": "সেটলমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নিষ্পত্তি; পাওনা পরিশোধ",
+      "English definition": "The final payment or discharge of an obligation between parties, especially in finance and trade.",
+      "Synonyms": "payment; clearing; discharge; finalisation",
+      "Antonyms": "default; non-payment; outstanding obligation",
+      "Word family / derivatives": "settle; settled; unsettled; settlement",
+      "Collocations / patterns": "trade settlement; payment settlement; settlement system",
+      "Original example": "The two countries discussed alternative channels for the settlement of trade payments.",
+      "Newspaper context note": "The article discusses payment mechanisms and the settlement of bilateral trade despite sanctions-related barriers.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "BCS / Bank relevance": "Core bank and trade-finance vocabulary; useful for banking written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "resume",
+      "IPA": "/rɪˈzjuːm/",
+      "Bangla phonetic": "রিজিউম",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পুনরায় শুরু করা",
+      "English definition": "To begin again after a pause or interruption.",
+      "Synonyms": "restart; recommence; take up again; begin again",
+      "Antonyms": "suspend; halt; cease; discontinue",
+      "Word family / derivatives": "resumption; resumed; resuming",
+      "Collocations / patterns": "resume recruitment; resume operations; resume talks",
+      "Original example": "The ministry hopes to resume overseas recruitment after new safeguards are introduced.",
+      "Newspaper context note": "The expatriates' welfare minister said Bangladesh hoped to restart worker recruitment to Malaysia in December.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "BCS / Bank relevance": "Useful verb for current-affairs reporting and grammar questions; distinguish verb resume from résumé (CV).",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "recruitment",
+      "IPA": "/rɪˈkruːtmənt/",
+      "Bangla phonetic": "রিক্রুটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নিয়োগ; কর্মী সংগ্রহ",
+      "English definition": "The process of finding, selecting and appointing people for jobs.",
+      "Synonyms": "hiring; appointment; enlistment; engagement",
+      "Antonyms": "dismissal; termination; layoff; redundancy",
+      "Word family / derivatives": "recruit; recruiter; recruitable; recruitment",
+      "Collocations / patterns": "overseas recruitment; recruitment process; recruitment cost",
+      "Original example": "Transparent recruitment can reduce excessive costs and protect migrant workers.",
+      "Newspaper context note": "The report covers the proposed resumption of Malaysia-bound worker recruitment and a planned online selection process.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "BCS / Bank relevance": "Useful in employment, migration, HR and public-policy passages.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "irregularity",
+      "IPA": "/ɪˌreɡjəˈlærəti/",
+      "Bangla phonetic": "ইরেগুলারিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনিয়ম; নিয়মবহির্ভূত কাজ",
+      "English definition": "A failure to follow a rule, or an unusual or improper act.",
+      "Synonyms": "anomaly; deviation; impropriety; discrepancy; breach",
+      "Antonyms": "regularity; conformity; propriety; normality",
+      "Word family / derivatives": "irregular; irregularly; regular; regularity",
+      "Collocations / patterns": "financial irregularity; procedural irregularity; recruitment irregularities",
+      "Original example": "An investigation must distinguish a documented irregularity from unverified allegations.",
+      "Newspaper context note": "The minister referred to irregularities in previous Malaysia-bound recruitment drives.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "BCS / Bank relevance": "High-value governance, audit, legal and banking vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "heritage",
+      "IPA": "/ˈherɪtɪdʒ/",
+      "Bangla phonetic": "হেরিটেজ",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ঐতিহ্য; উত্তরাধিকারসূত্রে পাওয়া সাংস্কৃতিক সম্পদ",
+      "English definition": "The traditions, achievements and cultural features passed from earlier generations.",
+      "Synonyms": "legacy; inheritance; patrimony; tradition",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "inherit; inheritance; inherited; hereditary; heritage",
+      "Collocations / patterns": "cultural heritage; heritage site; intangible heritage",
+      "Original example": "Cultural heritage can support livelihoods when tourism and creative industries are developed responsibly.",
+      "Newspaper context note": "The BRAC-UNESCO agreement identifies cultural heritage as an asset that can support creative industries and livelihoods.",
+      "Source publication": "Dhaka Tribune",
+      "Article headline": "BRAC, UNESCO sign agreement to develop creative economy roadmap",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.dhakatribune.com/bangladesh/423883/brac-unesco-sign-agreement-to-develop-creative",
+      "BCS / Bank relevance": "Useful for culture, history, tourism and development essays; appears in formal reading passages.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "roadmap",
+      "IPA": "/ˈrəʊdmæp/",
+      "Bangla phonetic": "রোডম্যাপ",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কর্মপরিকল্পনা; ধাপে ধাপে অগ্রগতির পরিকল্পনা",
+      "English definition": "A plan that sets out the steps and stages needed to achieve an objective.",
+      "Synonyms": "plan; blueprint; strategy; action plan; programme",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "road map; roadmap",
+      "Collocations / patterns": "national roadmap; policy roadmap; roadmap for reform",
+      "Original example": "The partners will prepare a roadmap for the growth of Bangladesh's creative economy.",
+      "Newspaper context note": "The BRAC-UNESCO MoU is intended to support a national roadmap for creative industries.",
+      "Source publication": "Dhaka Tribune",
+      "Article headline": "BRAC, UNESCO sign agreement to develop creative economy roadmap",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.dhakatribune.com/bangladesh/423883/brac-unesco-sign-agreement-to-develop-creative",
+      "BCS / Bank relevance": "Useful for policy, development, planning and written-composition topics.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "inaugurate",
+      "IPA": "/ɪˈnɔːɡjʊreɪt/",
+      "Bangla phonetic": "ইনঅগিউরেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আনুষ্ঠানিকভাবে উদ্বোধন করা",
+      "English definition": "To formally open a building, event or project, often in a ceremony.",
+      "Synonyms": "open; launch; commence; dedicate",
+      "Antonyms": "close; terminate; conclude; discontinue",
+      "Word family / derivatives": "inauguration; inaugural; inaugurator",
+      "Collocations / patterns": "inaugurate a summit; inaugurate a project; formally inaugurate",
+      "Original example": "The president inaugurated the business summit after the opening session began.",
+      "Newspaper context note": "The Daily Star report says the president inaugurated the Bangladesh AI Business Summit 2026.",
+      "Source publication": "The Daily Star",
+      "Article headline": "President calls for AI-driven innovation",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/president-calls-ai-driven-innovation-4316901",
+      "BCS / Bank relevance": "Common in news reporting and formal English; useful for vocabulary and sentence usage.",
+      "Priority": "Medium"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "adaptation",
+      "IPA": "/ˌædæpˈteɪʃən/",
+      "Bangla phonetic": "অ্যাডাপ্টেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযোজন; পরিবর্তিত পরিস্থিতির সঙ্গে খাপ খাওয়ানো",
+      "English definition": "The process of adjusting to new conditions, especially environmental or social change.",
+      "Synonyms": "adjustment; accommodation; modification; acclimatisation",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "adapt; adaptable; adaptability; adaptive; maladaptation",
+      "Collocations / patterns": "climate adaptation; adaptation finance; adaptation measures",
+      "Original example": "Bangladesh needs predictable adaptation finance to protect communities exposed to climate risks.",
+      "Newspaper context note": "Reuters' COP31 coverage discusses the financing required for developing countries to adapt to climate impacts.",
+      "Source publication": "Reuters",
+      "Article headline": "Fossil fuel cuts and finance top COP31 agenda",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+      "BCS / Bank relevance": "High-value climate-policy vocabulary for BCS current affairs and analytical writing.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "Revision",
+      "Headword / phrase": "paradox",
+      "IPA": null,
+      "Bangla phonetic": null,
+      "Part of speech / type": "Noun / adjective (see prior entry)",
+      "Difficulty": "Previously covered",
+      "Bangla meaning": "আপাতবিরোধী সত্য",
+      "English definition": "Earlier feed entry retained for spaced review; consult the cited daily file for the full definition.",
+      "Synonyms": null,
+      "Antonyms": null,
+      "Word family / derivatives": null,
+      "Collocations / patterns": null,
+      "Original example": "What word describes a statement or situation that appears contradictory but may contain a truth?",
+      "Newspaper context note": "Revision item drawn from the repository's prior daily feed; no mastery data is available.",
+      "Source publication": "Vocabulary feed history",
+      "Article headline": "words/2026-09-09.md",
+      "Publication date": "Earlier feed entry",
+      "Direct source URL": "https://github.com/Amiroudro/vocab-feed/blob/main/words/2026-09-09.md",
+      "BCS / Bank relevance": "Revisit earlier high-value vocabulary; recall meaning before checking the answer.",
+      "Priority": "Review"
+    },
+    {
+      "Record type": "Revision",
+      "Headword / phrase": "sovereign",
+      "IPA": null,
+      "Bangla phonetic": null,
+      "Part of speech / type": "Noun / adjective (see prior entry)",
+      "Difficulty": "Previously covered",
+      "Bangla meaning": "সার্বভৌম; স্বাধীন রাষ্ট্র-সম্পর্কিত",
+      "English definition": "Earlier feed entry retained for spaced review; consult the cited daily file for the full definition.",
+      "Synonyms": null,
+      "Antonyms": null,
+      "Word family / derivatives": null,
+      "Collocations / patterns": null,
+      "Original example": "What adjective describes a state that exercises independent authority?",
+      "Newspaper context note": "Revision item drawn from the repository's prior daily feed; no mastery data is available.",
+      "Source publication": "Vocabulary feed history",
+      "Article headline": "words/2026-09-08.md",
+      "Publication date": "Earlier feed entry",
+      "Direct source URL": "https://github.com/Amiroudro/vocab-feed/blob/main/words/2026-09-08.md",
+      "BCS / Bank relevance": "Revisit earlier high-value vocabulary; recall meaning before checking the answer.",
+      "Priority": "Review"
+    },
+    {
+      "Record type": "Revision",
+      "Headword / phrase": "refinancing",
+      "IPA": null,
+      "Bangla phonetic": null,
+      "Part of speech / type": "Noun / adjective (see prior entry)",
+      "Difficulty": "Previously covered",
+      "Bangla meaning": "পুনঃঅর্থায়ন",
+      "English definition": "Earlier feed entry retained for spaced review; consult the cited daily file for the full definition.",
+      "Synonyms": null,
+      "Antonyms": null,
+      "Word family / derivatives": null,
+      "Collocations / patterns": null,
+      "Original example": "What is the process of replacing existing borrowing with new financing?",
+      "Newspaper context note": "Revision item drawn from the repository's prior daily feed; no mastery data is available.",
+      "Source publication": "Vocabulary feed history",
+      "Article headline": "words/2026-09-08.md",
+      "Publication date": "Earlier feed entry",
+      "Direct source URL": "https://github.com/Amiroudro/vocab-feed/blob/main/words/2026-09-08.md",
+      "BCS / Bank relevance": "Revisit earlier high-value vocabulary; recall meaning before checking the answer.",
+      "Priority": "Review"
+    },
+    {
+      "Record type": "Revision",
+      "Headword / phrase": "remuneration",
+      "IPA": null,
+      "Bangla phonetic": null,
+      "Part of speech / type": "Noun / adjective (see prior entry)",
+      "Difficulty": "Previously covered",
+      "Bangla meaning": "পারিশ্রমিক",
+      "English definition": "Earlier feed entry retained for spaced review; consult the cited daily file for the full definition.",
+      "Synonyms": null,
+      "Antonyms": null,
+      "Word family / derivatives": null,
+      "Collocations / patterns": null,
+      "Original example": "What formal noun means payment or reward for work or service?",
+      "Newspaper context note": "Revision item drawn from the repository's prior daily feed; no mastery data is available.",
+      "Source publication": "Vocabulary feed history",
+      "Article headline": "words/2026-09-09.md",
+      "Publication date": "Earlier feed entry",
+      "Direct source URL": "https://github.com/Amiroudro/vocab-feed/blob/main/words/2026-09-09.md",
+      "BCS / Bank relevance": "Revisit earlier high-value vocabulary; recall meaning before checking the answer.",
+      "Priority": "Review"
+    },
+    {
+      "Record type": "Revision",
+      "Headword / phrase": "mitigation",
+      "IPA": null,
+      "Bangla phonetic": null,
+      "Part of speech / type": "Noun / adjective (see prior entry)",
+      "Difficulty": "Previously covered",
+      "Bangla meaning": "প্রশমন; ক্ষতি বা প্রভাব কমানো",
+      "English definition": "Earlier feed entry retained for spaced review; consult the cited daily file for the full definition.",
+      "Synonyms": null,
+      "Antonyms": null,
+      "Word family / derivatives": null,
+      "Collocations / patterns": null,
+      "Original example": "What term means reducing the severity or impact of something, especially climate change?",
+      "Newspaper context note": "Revision item drawn from the repository's prior daily feed; no mastery data is available.",
+      "Source publication": "Vocabulary feed history",
+      "Article headline": "words/2026-09-09.md",
+      "Publication date": "Earlier feed entry",
+      "Direct source URL": "https://github.com/Amiroudro/vocab-feed/blob/main/words/2026-09-09.md",
+      "BCS / Bank relevance": "Revisit earlier high-value vocabulary; recall meaning before checking the answer.",
+      "Priority": "Review"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "parallel processing",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "সমান্তরাল প্রক্রিয়াকরণ",
+      "English explanation": "Handling several applications or tasks at the same time rather than one after another.",
+      "Usage / register": "Formal; administration, technology and business operations.",
+      "Original example 1": "Parallel processing can reduce the time required to approve business applications.",
+      "Original example 2": "The agency introduced parallel processing of applications to avoid unnecessary delays.",
+      "Common collocations / grammar pattern": "allow parallel processing; parallel processing of applications; process requests in parallel",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "Exam value": "Useful collocation for reading comprehension and essays on e-governance and administrative reform."
+    },
+    {
+      "Phrase": "single digital platform",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "একক ডিজিটাল প্ল্যাটফর্ম",
+      "English explanation": "One integrated online system through which several services can be accessed.",
+      "Usage / register": "Formal; public administration, banking and digital services.",
+      "Original example 1": "A single digital platform could reduce repeated paperwork for investors.",
+      "Original example 2": "Citizens should be able to track applications through a single digital platform.",
+      "Common collocations / grammar pattern": "introduce/develop/use a single digital platform; platform for + service",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "Exam value": "Useful for digital governance and service-delivery passages."
+    },
+    {
+      "Phrase": "foreign direct investment",
+      "Type": "Economic collocation / noun phrase",
+      "Bangla meaning": "প্রত্যক্ষ বিদেশি বিনিয়োগ",
+      "English explanation": "Investment by a foreign entity in business operations or assets in another country, usually with a lasting interest.",
+      "Usage / register": "Formal economic and policy register; often abbreviated as FDI.",
+      "Original example 1": "Stable regulations can encourage foreign direct investment in manufacturing.",
+      "Original example 2": "The government wants to attract more foreign direct investment outside the capital.",
+      "Common collocations / grammar pattern": "attract/receive FDI; FDI inflows; foreign direct investment in + sector",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "Exam value": "Essential economics and banking terminology; likely in BCS and bank written comprehension."
+    },
+    {
+      "Phrase": "turnaround time",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "কাজ সম্পন্নের মোট সময়",
+      "English explanation": "The total time needed to complete a task, service or process.",
+      "Usage / register": "Neutral-formal; business, banking, customer service and administration.",
+      "Original example 1": "Digital approvals can reduce the turnaround time for business registration.",
+      "Original example 2": "The bank aims to shorten the turnaround time for processing trade documents.",
+      "Common collocations / grammar pattern": "reduce/cut/shorten turnaround time; turnaround time for + process",
+      "Source publication": "The Business Standard",
+      "Article headline": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "Exam value": "A common business collocation; useful in précis and formal writing."
+    },
+    {
+      "Phrase": "blanket extension",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "সবার জন্য একযোগে মেয়াদ বৃদ্ধি",
+      "English explanation": "An extension granted to all eligible cases without individual assessment.",
+      "Usage / register": "Formal administrative and regulatory register.",
+      "Original example 1": "The regulator declined to approve a blanket extension for every bank.",
+      "Original example 2": "A blanket extension may not address the different risks faced by individual institutions.",
+      "Common collocations / grammar pattern": "grant/seek/reject a blanket extension; blanket extension of + facility/period",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "Exam value": "Useful for policy, regulatory and legal passages; tests the meaning of blanket as 'across the board'."
+    },
+    {
+      "Phrase": "acute liquidity shortage",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "তীব্র তারল্য সংকট",
+      "English explanation": "A serious shortage of readily available funds in a market or institution.",
+      "Usage / register": "Formal financial and economic register.",
+      "Original example 1": "An acute liquidity shortage can weaken confidence in the capital market.",
+      "Original example 2": "Banks may restrict lending when they face an acute liquidity shortage.",
+      "Common collocations / grammar pattern": "face/experience/overcome an acute liquidity shortage; liquidity shortage in + market",
+      "Source publication": "The Business Standard",
+      "Article headline": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "Exam value": "High-value banking and economics phrase; connects liquidity, investor confidence and market stability."
+    },
+    {
+      "Phrase": "alternative payment channels",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "বিকল্প অর্থ পরিশোধের মাধ্যম",
+      "English explanation": "Payment routes used instead of conventional banking channels.",
+      "Usage / register": "Formal finance, trade and diplomacy register.",
+      "Original example 1": "Alternative payment channels may help maintain trade when ordinary transfers are blocked.",
+      "Original example 2": "The two countries discussed alternative payment channels for cross-border transactions.",
+      "Common collocations / grammar pattern": "establish/use/explore alternative payment channels; channel for + payment",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "Exam value": "Useful for international banking, sanctions, trade settlement and current-affairs questions."
+    },
+    {
+      "Phrase": "free of charge",
+      "Type": "Fixed phrase / prepositional phrase",
+      "Bangla meaning": "বিনামূল্যে",
+      "English explanation": "Without requiring payment.",
+      "Usage / register": "Neutral; suitable for everyday and formal writing.",
+      "Original example 1": "The first two or three flights are expected to carry workers free of charge.",
+      "Original example 2": "Applicants can access the online information service free of charge.",
+      "Common collocations / grammar pattern": "provide/offer/supply something free of charge; be free of charge",
+      "Source publication": "The Business Standard",
+      "Article headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "Exam value": "Common fixed expression for translation, sentence completion and usage questions."
+    },
+    {
+      "Phrase": "resume recruitment",
+      "Type": "Verb–noun collocation",
+      "Bangla meaning": "নিয়োগ কার্যক্রম পুনরায় শুরু করা",
+      "English explanation": "To restart the process of hiring or sending workers after a pause.",
+      "Usage / register": "Formal; employment, migration and human-resources reporting.",
+      "Original example 1": "The government hopes to resume recruitment after agreeing on a new process with Malaysia.",
+      "Original example 2": "Recruiting agencies must follow the rules when overseas recruitment resumes.",
+      "Common collocations / grammar pattern": "resume recruitment in/from + month; resume overseas recruitment",
+      "Source publication": "The Business Standard",
+      "Article headline": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "Exam value": "Useful verb–noun pairing for migration and labour-market topics."
+    },
+    {
+      "Phrase": "phase out fossil fuels",
+      "Type": "Phrasal verb + object",
+      "Bangla meaning": "ধাপে ধাপে জীবাশ্ম জ্বালানির ব্যবহার বন্ধ করা",
+      "English explanation": "To gradually stop using coal, oil and gas and replace them with other energy sources.",
+      "Usage / register": "Formal climate-policy and energy-transition register.",
+      "Original example 1": "Climate negotiations must address how countries can phase out fossil fuels fairly.",
+      "Original example 2": "A gradual phase-out of fossil fuels can give workers and industries time to adjust.",
+      "Common collocations / grammar pattern": "phase out coal/oil/gas/fossil fuels; phase-out of + energy source",
+      "Source publication": "Reuters",
+      "Article headline": "Fossil fuel cuts and finance top COP31 agenda",
+      "Publication date": "2026-11-06",
+      "Direct source URL": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+      "Exam value": "High-value climate and international-affairs phrase; distinguish the phrasal verb from the noun 'phase-out'."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'bureaucratic' most nearly means:",
+      "options": {
+        "A": "Free from all regulation",
+        "B": "Relating to administrative rules and procedures",
+        "C": "Relating to farming methods",
+        "D": "Based on personal emotion"
+      },
+      "correct": "B",
+      "explanation": "Bureaucratic describes administration through rules and procedures, often with excessive formality or delay.",
+      "source": "CA02"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "Choose the closest synonym of 'overhaul' in the context of reforming a system:",
+      "options": {
+        "A": "Revamp",
+        "B": "Postpone",
+        "C": "Preserve",
+        "D": "Ignore"
+      },
+      "correct": "A",
+      "explanation": "To overhaul a system is to examine and restructure it thoroughly; revamp is the closest option.",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "'Statutory documents' are documents that are:",
+      "options": {
+        "A": "Used only in private homes",
+        "B": "Issued only by foreign companies",
+        "C": "Required or prescribed by law",
+        "D": "Optional and informal"
+      },
+      "correct": "C",
+      "explanation": "Statutory means created, required or regulated by law.",
+      "source": "CA02"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "A 'prerequisite' is:",
+      "options": {
+        "A": "A condition that must be met beforehand",
+        "B": "A penalty imposed afterwards",
+        "C": "An unrelated suggestion",
+        "D": "A final outcome"
+      },
+      "correct": "A",
+      "explanation": "A prerequisite is a precondition or requirement that must be satisfied first.",
+      "source": "CA02"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "Which word is closest to the opposite of 'streamline'?",
+      "options": {
+        "A": "Simplify",
+        "B": "Complicate",
+        "C": "Optimise",
+        "D": "Rationalise"
+      },
+      "correct": "B",
+      "explanation": "To streamline is to make a process simpler and more efficient; complicate is the opposite.",
+      "source": "CA02"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "In banking, 'liquidity' refers mainly to:",
+      "options": {
+        "A": "The legal ownership of a bank",
+        "B": "The total number of bank branches",
+        "C": "The age of a loan officer",
+        "D": "The availability of cash or readily convertible assets"
+      },
+      "correct": "D",
+      "explanation": "Liquidity is the ability to meet payments using cash or assets that can be converted into cash quickly.",
+      "source": "CA04"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "Which expression is the best opposite of a 'blanket extension'?",
+      "options": {
+        "A": "Comprehensive extension",
+        "B": "Across-the-board extension",
+        "C": "Universal extension",
+        "D": "Case-by-case extension"
+      },
+      "correct": "D",
+      "explanation": "A blanket extension applies generally; a case-by-case extension is selective and individually assessed.",
+      "source": "CA04"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "'Bilateral trade' is trade:",
+      "options": {
+        "A": "Within a single household",
+        "B": "Among every country in the world",
+        "C": "Between two parties or countries",
+        "D": "Without payment"
+      },
+      "correct": "C",
+      "explanation": "Bilateral means involving two parties, commonly two countries.",
+      "source": "CA08"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "In the phrase 'sanctions-related barriers', 'sanctions' means:",
+      "options": {
+        "A": "Informal recommendations",
+        "B": "Tax refunds",
+        "C": "Awards for good performance",
+        "D": "Official penalties or restrictions"
+      },
+      "correct": "D",
+      "explanation": "Economic sanctions are official restrictions or penalties imposed on a country, entity or person.",
+      "source": "CA08"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "Choose the closest synonym of 'facilitate':",
+      "options": {
+        "A": "Hinder",
+        "B": "Prevent",
+        "C": "Enable",
+        "D": "Obstruct"
+      },
+      "correct": "C",
+      "explanation": "Facilitate means to make something easier; enable is the closest synonym.",
+      "source": "CA08"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "'Free of charge' means:",
+      "options": {
+        "A": "Without payment",
+        "B": "After a delay",
+        "C": "At a high price",
+        "D": "Under legal pressure"
+      },
+      "correct": "A",
+      "explanation": "The fixed phrase means that no payment is required.",
+      "source": "CA11"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "To 'phase out fossil fuels' means to:",
+      "options": {
+        "A": "Increase their use immediately",
+        "B": "Export them without restriction",
+        "C": "Gradually stop using them",
+        "D": "Store them underground"
+      },
+      "correct": "C",
+      "explanation": "The phrasal verb phase out means to remove or discontinue something gradually.",
+      "source": "CA14"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "What is the interim business-approval timeline in the Invest Bangladesh roadmap reported on 6 November?",
+      "options": {
+        "A": "14 days",
+        "B": "30 days",
+        "C": "7 days",
+        "D": "18 days"
+      },
+      "correct": "D",
+      "explanation": "The roadmap sets an interim 18-day timeline; the ultimate government target is 14 days.",
+      "source": "CA02"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "According to the World Bank's official Bangladesh country table, total external debt in 2025 was approximately:",
+      "options": {
+        "A": "US$104.5 billion",
+        "B": "US$83.5 billion",
+        "C": "US$53.4 billion",
+        "D": "US$113.4 billion"
+      },
+      "correct": "D",
+      "explanation": "The official table records US$113.4378 billion for 2025, up from US$104.4951 billion in 2024.",
+      "source": "CA03"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "What was Bangladesh's 2025 external-debt-to-GNI ratio in the World Bank country table?",
+      "options": {
+        "A": "33.6%",
+        "B": "23.6%",
+        "C": "51.1%",
+        "D": "15.7%"
+      },
+      "correct": "B",
+      "explanation": "The World Bank table gives external debt stocks to GNI of 23.6% for 2025.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "What was the original special capital-market fund permitted per scheduled bank in 2020?",
+      "options": {
+        "A": "Tk200 crore",
+        "B": "Tk500 crore",
+        "C": "Tk100 crore",
+        "D": "Tk50 crore"
+      },
+      "correct": "A",
+      "explanation": "The existing facility was Tk200 crore per scheduled bank; BSEC requested a possible increase to Tk300 crore.",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "Islami Bank proposed to raise its authorised capital to:",
+      "options": {
+        "A": "Tk4,000 crore",
+        "B": "Tk10,000 crore",
+        "C": "Tk8,000 crore",
+        "D": "Tk6,000 crore"
+      },
+      "correct": "B",
+      "explanation": "The proposal is to increase authorised capital from Tk2,000 crore to Tk10,000 crore, subject to approvals.",
+      "source": "CA05"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "What is the maximum annual interest rate for end-borrowers under the Bangladesh Bank leather-sector scheme?",
+      "options": {
+        "A": "4%",
+        "B": "7%",
+        "C": "5%",
+        "D": "12%"
+      },
+      "correct": "B",
+      "explanation": "The scheme provides end-borrower financing at up to 7% annually.",
+      "source": "CA06"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "In the BRAC Bank digital export documentary-collection transaction, the reported document-processing time fell from 40 days to:",
+      "options": {
+        "A": "Seven days",
+        "B": "One day",
+        "C": "14 days",
+        "D": "30 days"
+      },
+      "correct": "B",
+      "explanation": "The transaction processed the documents in one day. This is not a claim that the entire export or payment cycle took one day.",
+      "source": "CA07"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "Which issue was discussed at the fifth Bangladesh-Russia Intergovernmental Commission meeting?",
+      "options": {
+        "A": "Possible LNG/LPG supplies and alternative payment channels",
+        "B": "A new regional military alliance",
+        "C": "A common currency for all of South Asia",
+        "D": "A joint Olympic bid"
+      },
+      "correct": "A",
+      "explanation": "The meeting discussed potential LNG and LPG supplies and alternative payment mechanisms amid sanctions-related banking barriers.",
+      "source": "CA08"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "What is the reported cost of the Mongla Port Expansion and Modernisation Project?",
+      "options": {
+        "A": "Tk4,068 crore",
+        "B": "Tk468 crore",
+        "C": "Tk14,068 crore",
+        "D": "Tk1,468 crore"
+      },
+      "correct": "A",
+      "explanation": "The Daily Star reported a Tk4,068 crore project, with planned cargo and connectivity improvements.",
+      "source": "CA09"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "The Bangladesh AI Business Summit 2026 was jointly organised by the Ministry of Science and Technology and:",
+      "options": {
+        "A": "BTRC",
+        "B": "BSEC",
+        "C": "DCCI",
+        "D": "IDCOL"
+      },
+      "correct": "C",
+      "explanation": "The Dhaka Chamber of Commerce and Industry (DCCI) jointly organised the summit with the Ministry of Science and Technology.",
+      "source": "CA10"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "The minister said Bangladesh hopes to resume Malaysia-bound worker recruitment from:",
+      "options": {
+        "A": "March 2027",
+        "B": "June 2027",
+        "C": "December 2026",
+        "D": "October 2026"
+      },
+      "correct": "C",
+      "explanation": "The minister expressed a hope to restart the process in December 2026; it remains a plan, not a guarantee.",
+      "source": "CA11"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "Where will COP31 be held from 9 to 20 November 2026?",
+      "options": {
+        "A": "Belém, Brazil",
+        "B": "Dubai, UAE",
+        "C": "Baku, Azerbaijan",
+        "D": "Antalya, Türkiye"
+      },
+      "correct": "D",
+      "explanation": "The UNFCCC confirms that COP31 will take place in Antalya, Türkiye, from 9 to 20 November 2026.",
+      "source": "CA14"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "The 2026 observance of National Revolution and Solidarity Day marks which anniversary of the events of 7 November 1975?",
+      "options": {
+        "A": "40th",
+        "B": "25th",
+        "C": "51st",
+        "D": "50th"
+      },
+      "correct": "C",
+      "explanation": "The 2026 observance marks the 51st anniversary of the events of 7 November 1975.",
+      "source": "CA01"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Govt plans to cut business approval time to 18 days",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-10-19",
+      "Event / reference note": "2026-10-19 committee meeting",
+      "Direct URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+      "Role / verification note": "Invest Bangladesh roadmap reported; interim 18-day timeline, ultimate 14-day target."
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Secondary reporting",
+      "Headline / report": "BSEC seeks 5-year extension for banks' capital market fund to avert withdrawals",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Event / reference date": "2026-10-29",
+      "Event / reference note": "2026-10-29 BSEC letter; facility expiry 2026-12-31",
+      "Direct URL": "https://www.tbsnews.net/economy/stocks/bsec-seeks-5-year-extension-banks-capital-market-fund-avert-withdrawals-1594256",
+      "Role / verification note": "Reports BSEC request and Bangladesh Bank's case-by-case position; requested amount differs from current facility."
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Bangladesh seeks long-term LNG, LPG supplies from Russia",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 fifth Bangladesh-Russia IGC meeting",
+      "Direct URL": "https://www.tbsnews.net/economy/energy/bangladesh-seeks-long-term-lng-lpg-supplies-russia-1594241",
+      "Role / verification note": "Talks and options, not a concluded LNG supply contract."
+    },
+    {
+      "Source ID": "S04",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Malaysia worker recruitment expected to resume in Dec: Minister Ariful",
+      "Publication date": "2026-11-05",
+      "Publication date note": "2026-11-05 (updated 2026-11-06)",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 minister's remarks",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/migration/malaysia-worker-recruitment-expected-resume-dec-minister-ariful-1594071",
+      "Role / verification note": "Government expectation and proposed process; resumption is not guaranteed."
+    },
+    {
+      "Source ID": "S05",
+      "Publication / organisation": "Dhaka Tribune",
+      "Source type": "Secondary reporting",
+      "Headline / report": "BRAC, UNESCO sign agreement to develop creative economy roadmap",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 MoU signing",
+      "Direct URL": "https://www.dhakatribune.com/bangladesh/423883/brac-unesco-sign-agreement-to-develop-creative",
+      "Role / verification note": "Used for vocabulary entries heritage and roadmap; not included as a separate current-affairs item to avoid overloading the digest."
+    },
+    {
+      "Source ID": "S06",
+      "Publication / organisation": "The Daily Star",
+      "Source type": "Secondary reporting / BSS",
+      "Headline / report": "President calls for AI-driven innovation",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 Bangladesh AI Business Summit",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/president-calls-ai-driven-innovation-4316901",
+      "Role / verification note": "The trillion-dollar economy by 2034 is presented as a stated ambition, not a forecast."
+    },
+    {
+      "Source ID": "S07",
+      "Publication / organisation": "Reuters",
+      "Source type": "Independent secondary reporting",
+      "Headline / report": "Fossil fuel cuts and finance top COP31 agenda",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-09",
+      "Event / reference note": "COP31 scheduled 2026-11-09 to 2026-11-20",
+      "Direct URL": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+      "Role / verification note": "Reports climate agenda and cites Climate Analytics and UNEP findings."
+    },
+    {
+      "Source ID": "S08",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Press-release-based reporting",
+      "Headline / report": "Trust Bank signs deal with Bangladesh Bank to finance leather industry",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-01",
+      "Event / reference note": "2026-11-01 participation agreement",
+      "Direct URL": "https://www.tbsnews.net/economy/corporates/trust-bank-signs-deal-bangladesh-bank-finance-leather-industry-1594416",
+      "Role / verification note": "Participation agreement under an existing Bangladesh Bank scheme."
+    },
+    {
+      "Source ID": "S09",
+      "Publication / organisation": "The Daily Star",
+      "Source type": "Company disclosure / secondary reporting",
+      "Headline / report": "Islami Bank to raise authorised capital to Tk 10,000cr",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-04",
+      "Event / reference note": "2026-11-04 board meeting",
+      "Direct URL": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721",
+      "Role / verification note": "Proposal remains subject to regulator and shareholder approval."
+    },
+    {
+      "Source ID": "S10",
+      "Publication / organisation": "The Financial Express",
+      "Source type": "Press-release-based reporting",
+      "Headline / report": "BRAC Bank cuts export document processing time from 40 days to one",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-04",
+      "Event / reference note": "2026-11-04 digital transaction announcement",
+      "Direct URL": "https://thefinancialexpress.com.bd/bangladesh/brac-bank-cuts-export-document-processing-time-from-40-days-to-one",
+      "Role / verification note": "The one-day figure applies to document processing, not the entire export/payment cycle."
+    },
+    {
+      "Source ID": "S11",
+      "Publication / organisation": "Lloyds Banking Group",
+      "Source type": "Primary company announcement",
+      "Headline / report": "Digitally executed documentary collection completed - cutting 40-day trade cycle to 1 day",
+      "Publication date": "2026-11-04",
+      "Event / reference date": "2026-11-04",
+      "Event / reference note": "2026-11-04 announcement of transaction",
+      "Direct URL": "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/digitally-executed-documentary-collection.html",
+      "Role / verification note": "Primary corroboration for the UK-Bangladesh digital documentary collection."
+    },
+    {
+      "Source ID": "S12",
+      "Publication / organisation": "The Daily Star",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Mongla port to drive regional growth: PM",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 project foundation-stone ceremony",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/mongla-port-drive-regional-growth-pm-4316826",
+      "Role / verification note": "Reports Tk4,068 crore project and planned connectivity improvements."
+    },
+    {
+      "Source ID": "S13",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Secondary reporting",
+      "Headline / report": "National Revolution and Solidarity Day to be observed on Saturday",
+      "Publication date": "2026-11-06",
+      "Publication date note": "2026-11-06 (updated 2026-11-07)",
+      "Event / reference date": "2026-11-07",
+      "Event / reference note": "2026-11-07 annual observance; historical events 1975-11-07",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/national-revolution-and-solidarity-day-be-observed-tomorrow-1594686",
+      "Role / verification note": "Historical interpretations of 7 November are politically contested; digest reports the basic chronology and official observance."
+    },
+    {
+      "Source ID": "S14",
+      "Publication / organisation": "The Daily Star",
+      "Source type": "Secondary reporting / NBR officials quoted",
+      "Headline / report": "225 individuals, firms under NBR scanner",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-06",
+      "Event / reference note": "NBR instructions reported 2026-11-06; exact instruction date not stated",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "Role / verification note": "Investigation and allegations only; not proof of wrongdoing by any person or company."
+    },
+    {
+      "Source ID": "S15",
+      "Publication / organisation": "Dhaka Tribune",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Garment unrest eases after eight days as workers return to factories",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-06",
+      "Event / reference note": "Late October to 2026-11-06; exact start date not specified in article",
+      "Direct URL": "https://www.dhakatribune.com/bangladesh/423838/garment-unrest-eases-after-eight-days-as-workers",
+      "Role / verification note": "Reports 70 factory closures in Ashulia and deployment of 33 BGB platoons."
+    },
+    {
+      "Source ID": "S16",
+      "Publication / organisation": "World Bank",
+      "Source type": "Primary institutional release and data",
+      "Headline / report": "Developing Countries’ External Debt Surges to Record $9.4 Trillion",
+      "Publication date": "2026-11-05",
+      "Event / reference date": "International Debt Report 2026; reference year 2025",
+      "Direct URL": "https://www.worldbank.org/en/news/press-release/2026/11/05/developing-countries-external-debt-surges-to-record-9-4-trillion",
+      "Role / verification note": "Global report release; use the official Bangladesh country table for country-specific ratios and creditor values."
+    },
+    {
+      "Source ID": "S17",
+      "Publication / organisation": "World Bank",
+      "Source type": "Primary statistical table",
+      "Headline / report": "2026 International Debt Statistics: Bangladesh country table",
+      "Publication date": "2026-11-04",
+      "Publication date note": "2026-11-04 (table last updated)",
+      "Event / reference date": "Reference year 2025",
+      "Direct URL": "https://datatopics.worldbank.org/debt/ids/countryanalytical/BGD",
+      "Role / verification note": "Official 2025 Bangladesh figures: total external debt $113.4378bn; PPG $83.4567bn; debt/GNI 23.6%; debt service/exports 15.7%."
+    },
+    {
+      "Source ID": "S18",
+      "Publication / organisation": "Dhaka Tribune",
+      "Source type": "Secondary reporting",
+      "Headline / report": "World Bank: Bangladesh’s external debt rises to $113.4bn",
+      "Publication date": "2026-11-05",
+      "Event / reference date": "World Bank International Debt Report 2026, reference year 2025",
+      "Direct URL": "https://www.dhakatribune.com/business/economy/423832/world-bank-bangladesh%E2%80%99s-external-debt-rises-to",
+      "Role / verification note": "Its reported PPG and multilateral creditor figures differ from the World Bank country table; the digest flags and does not use those disputed values."
+    },
+    {
+      "Source ID": "S19",
+      "Publication / organisation": "Bangladesh Sangbad Sangstha (BSS)",
+      "Source type": "State news agency / press-release-based report",
+      "Headline / report": "Janata Jute Mills inaugurates 17.84-MW Solar Plant",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-05",
+      "Event / reference note": "2026-11-05 inauguration",
+      "Direct URL": "https://www.bssnews.net/news/442790",
+      "Role / verification note": "IDCOL financing reported; carbon-neutral/first-in-sector claims are attributed to the press release and not independently audited here."
+    },
+    {
+      "Source ID": "S20",
+      "Publication / organisation": "Reuters",
+      "Source type": "Independent secondary reporting",
+      "Headline / report": "China passes cross-border corruption law, expanding anti-graft drive",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-06",
+      "Event / reference note": "2026-11-06 adoption reported by Xinhua",
+      "Direct URL": "https://www.reuters.com/world/asia-pacific/chinas-standing-committee-national-peoples-congress-passes-cross-border-2026-11-06/",
+      "Role / verification note": "Reuters attributes the account of adoption and provisions to Xinhua."
+    },
+    {
+      "Source ID": "S21",
+      "Publication / organisation": "UN Environment Programme (UNEP)",
+      "Source type": "Primary institutional report",
+      "Headline / report": "Adaptation Gap Report 2026: Ready? Not",
+      "Publication date": "2026-11-04",
+      "Event / reference date": "Reference year for finance flows: 2024; needs estimated to 2035",
+      "Direct URL": "https://www.unep.org/en/publications/report/adaptation-gap-report-2026",
+      "Role / verification note": "International public adaptation finance $28.2–31.7bn in 2024; estimated annual needs $305bn by 2035."
+    },
+    {
+      "Source ID": "S22",
+      "Publication / organisation": "UNFCCC",
+      "Source type": "Primary institutional information",
+      "Headline / report": "About COP31",
+      "Publication date": "Current official conference information",
+      "Event / reference date": "2026-11-09",
+      "Event / reference note": "2026-11-09 to 2026-11-20",
+      "Direct URL": "https://unfccc.int/cop31/about",
+      "Role / verification note": "Official venue, host, conference dates, and presiding roles."
+    },
+    {
+      "Source ID": "S26",
+      "Publication / organisation": "The Daily Observer",
+      "Source type": "Secondary reporting",
+      "Headline / report": "Tarique Rahman to inaugurate BNP colourful rally on Saturday",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "2026-11-07",
+      "Event / reference note": "2026-11-07 rally announced at 2026-11-06 press conference",
+      "Direct URL": "https://observerbd.com/news/604224",
+      "Role / verification note": "Cross-check for the announced 7 November BNP rally; not treated as an additional separate current-affairs item."
+    },
+    {
+      "Source ID": "C01",
+      "Publication / organisation": "The Daily Star",
+      "Source type": "Newspaper checked",
+      "Headline / report": "Article pages accessible; current Bangladesh, business and governance stories found.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://www.thedailystar.net/",
+      "Role / verification note": "RSS endpoint returned an unsupported XML content type in the web reader; article pages were used."
+    },
+    {
+      "Source ID": "C02",
+      "Publication / organisation": "Dhaka Tribune",
+      "Source type": "Newspaper checked",
+      "Headline / report": "Article pages accessible; debt, garment unrest, air quality and creative-economy coverage found.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://www.dhakatribune.com/",
+      "Role / verification note": "The attempted /feed endpoint returned 404; article pages were used."
+    },
+    {
+      "Source ID": "C03",
+      "Publication / organisation": "The Financial Express",
+      "Source type": "Newspaper checked",
+      "Headline / report": "Article pages accessible; digital export documentation and transport coverage found.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://thefinancialexpress.com.bd/",
+      "Role / verification note": "The attempted rss.xml endpoint was not accessible to the web reader; article pages were used."
+    },
+    {
+      "Source ID": "C04",
+      "Publication / organisation": "New Age",
+      "Source type": "Newspaper checked",
+      "Headline / report": "No qualifying story surfaced in the targeted search for the 36-hour window.",
+      "Publication date": "2026-11-07",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://www.newagebd.net/",
+      "Role / verification note": "The attempted /rss endpoint was not accessible to the web reader; absence of a surfaced result is not proof that no story was published."
+    },
+    {
+      "Source ID": "C05",
+      "Publication / organisation": "The Business Standard",
+      "Source type": "Newspaper checked",
+      "Headline / report": "Article pages accessible; business approvals, banking, Russia and migration stories found.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://www.tbsnews.net/",
+      "Role / verification note": "The attempted rss.xml endpoint was not accessible to the web reader; article pages were used."
+    },
+    {
+      "Source ID": "C06",
+      "Publication / organisation": "Prothom Alo (English)",
+      "Source type": "Newspaper checked",
+      "Headline / report": "English article page surfaced on student protests; not included because it did not meet this digest's competitive-exam relevance threshold.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://en.prothomalo.com/",
+      "Role / verification note": "The attempted /feed endpoint returned XML that the web reader could not parse; article search was used."
+    },
+    {
+      "Source ID": "C07",
+      "Publication / organisation": "The Daily Observer",
+      "Source type": "Newspaper checked",
+      "Headline / report": "Front page and article pages accessible; rally announcement and national observance coverage found.",
+      "Publication date": "2026-11-06",
+      "Event / reference date": "36-hour review window",
+      "Direct URL": "https://observerbd.com/",
+      "Role / verification note": "The attempted rss.xml endpoint was not accessible to the web reader; article pages were used."
+    }
+  ]
+}

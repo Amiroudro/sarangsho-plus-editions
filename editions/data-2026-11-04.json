@@ -1,0 +1,2436 @@
+{
+  "edition_date": "2026-11-04",
+  "edition_day": "Wednesday",
+  "coverage": "4 November 2026 (Asia/Dhaka) — backfilled edition",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-04",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "exam_facts": "Toufiq Hossain, employee of Layla Styles Limited, died 4 November at Shin Shin Japan Hospital, Uttara, after being beaten on 2 November in front of Noman Textile Mills, Bahadurpur, Gazipur; more than 100 factories shut in Savar-Ashulia and over 50 in Gazipur on 4 November; workers blocked the Dhaka-Aricha highway; police used tear gas and sound grenades; Savar police station officer-in-charge seriously injured and his vehicle set on fire; three labour leaders detained in Ashulia (Md A Halim, Md Shamim, Md Monsur Ali).",
+      "exam_relevance": "High — RMG, labour unrest, law and order.",
+      "figures": "1 worker dead; 100+ factories shut in Savar-Ashulia; 50+ in Gazipur; 3 labour leaders detained.",
+      "headline": "Garment worker dies as unrest enters fifth day",
+      "id": "CA01",
+      "key_people": "Toufiq Hossain, garment worker (deceased); Belayet Hossain, Additional Commissioner, Gazipur Metropolitan Police; Shamima Parveen, Superintendent of Police, Dhaka; Saidul Islam, Officer-in-Charge, Dhaka District North Detective Branch.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Garment worker dies after attack during Gazipur wage protest",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Garment worker injured in Gazipur protests dies; around 50 factories shut",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/t9wrewwzgk"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Over 100 garment factories shut amid protests and clashes in Savar, Ashulia",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/over-100-garment-factories-shut-amid-protests-and-clashes-savar-ashulia-4315506"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Workers block Dhaka-Aricha highway after clash with police in Savar",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/workers-block-dhaka-aricha-highway-after-clash-police-savar-4315201"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "DB detains three labour leaders over alleged incitement in Ashulia protests",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981"
+        }
+      ],
+      "summary": "A garment worker died on 4 November after being beaten while filming vandalism during wage protests, as unrest entered a fifth day. Toufiq Hossain, an employee of Layla Styles Limited, was injured in front of Noman Textile Mills and died at Shin Shin Japan Hospital. More than 100 factories in Savar and Ashulia and over 50 in Gazipur declared holidays as workers blocked the Dhaka-Aricha highway and clashed with police, who used tear gas and sound grenades. Police detained three labour leaders in Ashulia over alleged incitement.",
+      "why_it_matters": "The first death of the unrest raises the stakes; the factory closures, highway blockades and arrests show a protest movement becoming a national crisis.",
+      "one_liner": "A garment worker died on 4 November after being beaten while filming vandalism during wage protests, as unrest entered a…",
+      "key_facts": [
+        {
+          "label": "worker dead",
+          "value": "1",
+          "original": "1 worker dead"
+        },
+        {
+          "label": "+ factories shut in Savar-Ashulia",
+          "value": "100",
+          "original": "100+ factories shut in Savar-Ashulia"
+        },
+        {
+          "label": "labour leaders detained",
+          "value": "3",
+          "original": "3 labour leaders detained"
+        },
+        {
+          "label": "more than factories shut in Savar-Ashulia…",
+          "value": "100",
+          "original": "more than 100 factories shut in Savar-Ashulia and over 50 in Gazipur on 4 November"
+        }
+      ],
+      "what_happened": [
+        "Toufiq Hossain, an employee of Layla Styles Limited, was injured in front of Noman Textile Mills and died at Shin Shin Japan Hospital.",
+        "More than 100 factories in Savar and Ashulia and over 50 in Gazipur declared holidays as workers blocked the Dhaka-Aricha highway and clashed with police,",
+        "who used tear gas and sound grenades."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is worker dead?",
+          "a": "1"
+        },
+        {
+          "q": "What is + factories shut in Savar-Ashulia?",
+          "a": "100"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A garment worker died on ______ after being beaten while filming vandalism during wage protests, as unrest entered a fifth day.",
+          "answer": "4 November"
+        },
+        {
+          "cloze": "More than ______ factories in Savar and Ashulia and over 50 in Gazipur declared holidays as workers blocked the Dhaka-Aricha highway and clashed with police, who used tear gas and sound grenades.",
+          "answer": "100"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "worker",
+        "dies",
+        "unrest",
+        "enters",
+        "fifth"
+      ],
+      "detail": "A garment worker died on 4 November after being beaten while filming vandalism during wage protests, as unrest entered a fifth day. Toufiq Hossain, an employee of Layla Styles Limited, was injured in front of Noman Textile Mills and died at Shin Shin Japan Hospital. More than 100 factories in Savar and Ashulia and over 50 in Gazipur declared holidays as workers blocked the Dhaka-Aricha highway and clashed with police, who used tear gas and sound grenades. Police detained three labour leaders in Ashulia over alleged incitement."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "exam_facts": "Wage board's first meeting on 4 November; new pay scale effective December 2026, first salary under it in January 2027; chairman Syed Azad Subhani; workers demand Tk 30,000 minimum wage, current Tk 12,500; workers fear only Tk 1,000-2,000 increase; owners warn of Section 13(1) of the Bangladesh Labour Act ('no work, no pay').",
+      "exam_relevance": "High — wage board, labour law, RMG.",
+      "figures": "New scale from December; demand Tk 30,000; current Tk 12,500; feared rise Tk 1,000-2,000.",
+      "headline": "New garment pay scale to take effect in December",
+      "id": "CA02",
+      "key_people": "Syed Azad Subhani, Chairman of the minimum wage board; Mahmud Hasan Khan, President, BGMEA; Babul Akhter, workers' representative on the wage board.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "New garment workers’ pay scale to take effect in December",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/new-garment-workers-pay-scale-take-effect-december-4315341"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "RMG workers fear being short-changed",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "RMG wage board to meet at 11am today amid protests",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206"
+        }
+      ],
+      "summary": "The revised pay scale for garment workers will take effect in December, the minimum wage board's chairman said after its first meeting on 4 November, with workers receiving their first salary under the new scale in January. The six-member board was formed on 1 November amid protests demanding a Tk 30,000 minimum wage, against the current Tk 12,500. Workers fear the board may recommend only a Tk 1,000 to Tk 2,000 rise, while factory owners warned they may invoke the 'no work, no pay' provision of the Labour Act.",
+      "why_it_matters": "The wage board's decision is the resolution of the unrest; the effective date, the demand and the fear of a token rise are the core labour-policy facts.",
+      "one_liner": "The revised pay scale for garment workers will take effect in December, the minimum wage board's chairman said after its…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "New scale from December",
+          "original": "New scale from December"
+        },
+        {
+          "label": "demand",
+          "value": "Tk 30,000",
+          "original": "demand Tk 30,000"
+        },
+        {
+          "label": "feared rise",
+          "value": "Tk 1,000-2,000",
+          "original": "feared rise Tk 1,000-2,000"
+        },
+        {
+          "label": "",
+          "value": "Wage board's first meeting on 4 November",
+          "original": "Wage board's first meeting on 4 November"
+        }
+      ],
+      "what_happened": [
+        "The six-member board was formed on 1 November amid protests demanding a Tk 30,000 minimum wage, against the current Tk 12,500.",
+        "Workers fear the board may recommend only a Tk 1,000 to Tk 2,000 rise, while factory owners warned they may invoke the 'no work,",
+        "no pay' provision of the Labour Act."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is demand?",
+          "a": "Tk 30,000"
+        },
+        {
+          "q": "What is feared rise?",
+          "a": "Tk 1,000-2,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The revised pay scale for garment workers will take effect in December, the minimum wage board's chairman said after its first meeting on ______, with workers receiving their first salary under the new scale in January.",
+          "answer": "4 November"
+        },
+        {
+          "cloze": "The six-member board was formed on ______ amid protests demanding a Tk 30,000 minimum wage, against the current Tk 12,500.",
+          "answer": "1 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "garment",
+        "scale",
+        "take",
+        "effect",
+        "december"
+      ],
+      "detail": "The revised pay scale for garment workers will take effect in December, the minimum wage board's chairman said after its first meeting on 4 November, with workers receiving their first salary under the new scale in January. The six-member board was formed on 1 November amid protests demanding a Tk 30,000 minimum wage, against the current Tk 12,500. Workers fear the board may recommend only a Tk 1,000 to Tk 2,000 rise, while factory owners warned they may invoke the 'no work, no pay' provision of the Labour Act."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "World",
+      "event_date": "2026-11-03",
+      "exam_facts": "Democrats won majorities in both the House and Senate on 3 November 2026; wins in South Carolina, Texas, Iowa and Kansas; Adam Hamilton first Democrat to win a Kansas Senate seat since the Great Depression; Sherrod Brown won Ohio (Vice President JD Vance's former seat); James Talarico beat Ken Paxton in Texas; Annie Andrews beat Darline Graham in South Carolina, a state Trump carried by nearly 18 points in 2024.",
+      "exam_relevance": "High — US politics, elections, Congress.",
+      "figures": "Democrats won both chambers; Trump carried South Carolina by nearly 18 points in 2024.",
+      "headline": "Democrats capture Congress in sweeping midterm rebuke for Trump",
+      "id": "CA03",
+      "key_people": "Donald Trump, US President; Adam Hamilton, Senator-elect (Kansas); Sherrod Brown, Senator-elect (Ohio); James Talarico, Senator-elect (Texas); Annie Andrews, Senator-elect (South Carolina).",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Democrats capture Congress in sweeping setback for Trump",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/international/americas/7c462o97io"
+        }
+      ],
+      "summary": "Democrats captured majorities in both the US Senate and House on 3 November, scoring sweeping victories deep into Republican strongholds as voters delivered a rebuke to President Donald Trump. The party won in long-unwinnable states including South Carolina, Texas and Iowa, driven by frustration over living costs and the Iran war. In Kansas, Adam Hamilton became the first Democrat to win a Senate seat since the Great Depression, while Sherrod Brown won in Ohio and James Talarico beat Ken Paxton in Texas.",
+      "why_it_matters": "Control of the US Congress decides trade, aid and foreign policy affecting Bangladesh; the scale of the Democratic wave and the seats won are standard international-affairs material.",
+      "one_liner": "Democrats captured majorities in both the US Senate and House on 3 November, scoring sweeping victories deep into Republican strongholds…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Democrats won both chambers",
+          "original": "Democrats won both chambers"
+        },
+        {
+          "label": "Trump carried South Carolina by nearly…",
+          "value": "18",
+          "original": "Trump carried South Carolina by nearly 18 points in 2024"
+        },
+        {
+          "label": "",
+          "value": "wins in South Carolina, Texas, Iowa and Kansas",
+          "original": "wins in South Carolina, Texas, Iowa and Kansas"
+        },
+        {
+          "label": "Vice President JD Vance's former seat",
+          "value": "Sherrod Brown won Ohio",
+          "original": "Sherrod Brown won Ohio (Vice President JD Vance's former seat)"
+        }
+      ],
+      "what_happened": [
+        "The party won in long-unwinnable states including South Carolina, Texas and Iowa, driven by frustration over living costs and the Iran war.",
+        "In Kansas, Adam Hamilton became the first Democrat to win a Senate seat since the Great Depression,",
+        "while Sherrod Brown won in Ohio and James Talarico beat Ken Paxton in Texas."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Trump carried South Carolina by nearly…?",
+          "a": "18"
+        },
+        {
+          "q": "What is Vice President JD Vance's former seat?",
+          "a": "Sherrod Brown won Ohio"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Democrats captured majorities in both the US Senate and House on ______, scoring sweeping victories deep into Republican strongholds as voters delivered a rebuke to President Donald Trump.",
+          "answer": "3 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "democrats",
+        "capture",
+        "congress",
+        "sweeping",
+        "midterm",
+        "rebuke",
+        "trump"
+      ],
+      "detail": "Democrats captured majorities in both the US Senate and House on 3 November, scoring sweeping victories deep into Republican strongholds as voters delivered a rebuke to President Donald Trump. The party won in long-unwinnable states including South Carolina, Texas and Iowa, driven by frustration over living costs and the Iran war. In Kansas, Adam Hamilton became the first Democrat to win a Senate seat since the Great Depression, while Sherrod Brown won in Ohio and James Talarico beat Ken Paxton in Texas."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "World",
+      "event_date": "2026-11-04",
+      "exam_facts": "JD Vance (4 November): 'The reason we lost is the war'; Trump said the Iran war was 'part of it' but still justified; Vance a frontrunner for the 2028 Republican nomination; Abdul El-Sayed, 42, first Muslim elected to the US Senate (Michigan, beat Mike Rogers); Keisha Lance Bottoms first Black woman governor in the US (Georgia, beat Rick Jackson, who spent over $100 million of his own money); Jon Ossoff re-elected in Georgia.",
+      "exam_relevance": "High — US politics, Iran war, elections.",
+      "figures": "First Muslim US Senator; first Black woman US governor; Rick Jackson spent over $100 million.",
+      "headline": "Vance blames Iran war for midterm rout as historic firsts pile up",
+      "id": "CA04",
+      "key_people": "JD Vance, US Vice President; Donald Trump, US President; Abdul El-Sayed, Senator-elect (Michigan); Keisha Lance Bottoms, Governor-elect (Georgia); Jon Ossoff, Senator (Georgia).",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Iran war is ‘the reason we lost’ midterms: US VP Vance",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/news/iran-war-the-reason-we-lost-midterms-us-vp-vance-4315726"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/international/americas/sko5u3po5i"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Democrat Keisha Lance Bottoms becomes first Black woman governor in US",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/united-states/news/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-us-4315161"
+        }
+      ],
+      "summary": "US Vice President JD Vance said on 4 November that the Iran war was the reason Republicans lost the midterms, adding that President Trump had said so himself, and warned that losing the Senate for six years was the price of the war. The result raised questions over Vance's status as frontrunner for the 2028 Republican nomination. The elections also produced historic firsts: Abdul El-Sayed became the first Muslim elected to the US Senate, and Keisha Lance Bottoms the first Black woman governor, in Georgia.",
+      "why_it_matters": "The admission that a war cost an election is a rare political fact, and the two historic firsts are standard general-knowledge material.",
+      "one_liner": "US Vice President JD Vance said on 4 November that the Iran war was the reason Republicans lost the midterms,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "First Muslim US Senator",
+          "original": "First Muslim US Senator"
+        },
+        {
+          "label": "",
+          "value": "first Black woman US governor",
+          "original": "first Black woman US governor"
+        },
+        {
+          "label": "Rick Jackson spent over",
+          "value": "$100 million",
+          "original": "Rick Jackson spent over $100 million"
+        },
+        {
+          "label": "JD Vance (4 November)",
+          "value": "'The reason we lost is the war'",
+          "original": "JD Vance (4 November): 'The reason we lost is the war'"
+        }
+      ],
+      "what_happened": [
+        "The result raised questions over Vance's status as frontrunner for the 2028 Republican nomination.",
+        "The elections also produced historic firsts: Abdul El-Sayed became the first Muslim elected to the US Senate, and Keisha Lance Bottoms the first Black woman governor, in Georgia."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Rick Jackson spent over?",
+          "a": "$100 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "US Vice President JD Vance said on ______ that the Iran war was the reason Republicans lost the midterms, adding that President Trump had said so himself, and warned that losing the Senate for six years was the price of the war.",
+          "answer": "4 November"
+        },
+        {
+          "cloze": "The result raised questions over Vance's status as frontrunner for the ______ Republican nomination.",
+          "answer": "2028"
+        }
+      ],
+      "keywords": [
+        "world",
+        "vance",
+        "blames",
+        "iran",
+        "midterm",
+        "rout",
+        "historic",
+        "firsts",
+        "pile"
+      ],
+      "detail": "US Vice President JD Vance said on 4 November that the Iran war was the reason Republicans lost the midterms, adding that President Trump had said so himself, and warned that losing the Senate for six years was the price of the war. The result raised questions over Vance's status as frontrunner for the 2028 Republican nomination. The elections also produced historic firsts: Abdul El-Sayed became the first Muslim elected to the US Senate, and Keisha Lance Bottoms the first Black woman governor, in Georgia."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Bangladesh",
+      "event_date": "2026-11-04",
+      "exam_facts": "6 deaths and 1,866 hospitalisations in 24 hours to 8am, 4 November; total deaths 445, total cases 142,775; 5,936 patients under treatment; four deaths in Dhaka division, two in Khulna; DSCC survey (2,250 households, 27 September-8 October): 29 of 75 wards high risk, 28 moderate, 18 low; Aedes larvae in 403 households; 31.6 percent of breeding sites in multi-storey buildings.",
+      "exam_relevance": "Medium — public health, DGHS data.",
+      "figures": "6 deaths in 24 hours; total deaths 445; total cases 142,775; 29 of 75 wards high risk.",
+      "headline": "Six more die of dengue as toll reaches 445",
+      "id": "CA05",
+      "key_people": "Directorate General of Health Services (DGHS); Abdus Salam, Administrator, Dhaka South City Corporation; Dr Jahane Ferdous Binte Rahman, Chief Health Officer, DSCC.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "6 die of dengue, 1,866 hospitalised in 24 hours",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-die-dengue-1866-hospitalised-24-hours-4315576"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "29 Dhaka South wards at high risk of dengue, survey finds",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/29-dhaka-south-wards-high-risk-dengue-survey-finds-4315471"
+        }
+      ],
+      "summary": "At least six dengue patients died and 1,866 were hospitalised in 24 hours, taking the year's death toll to 445 and cases to 142,775, the Directorate General of Health Services said. Four deaths were in Dhaka division and two in Khulna; 5,936 patients are under treatment. A Dhaka South City Corporation survey found 29 of its 75 wards at high risk of dengue transmission, 28 at moderate risk and 18 at low risk, with Aedes larvae found in 403 of 2,250 surveyed households.",
+      "why_it_matters": "The daily dengue toll and the ward-level risk map are standard public-health data for general-knowledge exams.",
+      "one_liner": "At least six dengue patients died and 1,866 were hospitalised in 24 hours, taking the year's death toll to 445…",
+      "key_facts": [
+        {
+          "label": "deaths in 24 hours",
+          "value": "6",
+          "original": "6 deaths in 24 hours"
+        },
+        {
+          "label": "total deaths",
+          "value": "445",
+          "original": "total deaths 445"
+        },
+        {
+          "label": "total cases",
+          "value": "142,775",
+          "original": "total cases 142,775"
+        },
+        {
+          "label": "of 75 wards high risk",
+          "value": "29",
+          "original": "29 of 75 wards high risk"
+        }
+      ],
+      "what_happened": [
+        "Four deaths were in Dhaka division and two in Khulna; 5,936 patients are under treatment.",
+        "A Dhaka South City Corporation survey found 29 of its 75 wards at high risk of dengue transmission,",
+        "28 at moderate risk and 18 at low risk, with Aedes larvae found in 403 of 2,250 surveyed households."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is total deaths?",
+          "a": "445"
+        },
+        {
+          "q": "What is total cases?",
+          "a": "142,775"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least six dengue patients died and ______ were hospitalised in 24 hours, taking the year's death toll to 445 and cases to 142,775, the Directorate General of Health Services said.",
+          "answer": "1,866"
+        },
+        {
+          "cloze": "Four deaths were in Dhaka division and two in Khulna; ______ patients are under treatment.",
+          "answer": "5,936"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "dengue",
+        "toll",
+        "reaches"
+      ],
+      "detail": "At least six dengue patients died and 1,866 were hospitalised in 24 hours, taking the year's death toll to 445 and cases to 142,775, the Directorate General of Health Services said. Four deaths were in Dhaka division and two in Khulna; 5,936 patients are under treatment. A Dhaka South City Corporation survey found 29 of its 75 wards at high risk of dengue transmission, 28 at moderate risk and 18 at low risk, with Aedes larvae found in 403 of 2,250 surveyed households."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "exam_facts": "Proposed Bangladesh Sovereign Fund: $1 billion to $2 billion; to finance infrastructure, renewable energy and digital projects; discussed with Korea Investment Corporation (KIC) in Seoul; possible combination of KIC equity with Korea Eximbank (KEXIM) financing; $3 billion Economic Development Cooperation Fund (EDCF) Framework Arrangement 2023-2027; priority projects: Dhaka MRT Line-5 Southern Route, Matlab Uttar-Gazaria Bridge, 260 broad-gauge passenger carriages; earlier sovereign wealth fund plan in 2017 scrapped.",
+      "exam_relevance": "High — sovereign wealth fund, foreign investment, Korea.",
+      "figures": "$1-2 billion proposed fund; $3 billion EDCF framework; 260 broad-gauge carriages.",
+      "headline": "Bangladesh considers up to $2 billion sovereign fund",
+      "id": "CA06",
+      "key_people": "Amir Khosru Mahmud Chowdhury, Finance and Planning Minister; Hwang Kiyeon, Chairman and CEO, Korea Eximbank.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Bangladesh considers forming up to $2 billion sovereign fund: finance minister",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-considers-forming-2-billion-sovereign-fund-finance-minister-4315486"
+        }
+      ],
+      "summary": "Bangladesh is considering creating a sovereign fund of up to $2 billion to mobilise international capital for infrastructure, renewable energy and digital projects, Finance Minister Amir Khosru Mahmud Chowdhury said during a visit to Seoul. He discussed the plan with Korea Investment Corporation, including combining its equity investment with Korea Eximbank financing. Bangladesh planned a sovereign wealth fund in 2017 using foreign currency reserves, but the plan was later scrapped.",
+      "why_it_matters": "A sovereign fund is a major new financing instrument for infrastructure; the Korea link and the 2017 precedent are the exam-relevant facts.",
+      "one_liner": "Bangladesh is considering creating a sovereign fund of up to $2 billion to mobilise international capital for infrastructure, renewable energy…",
+      "key_facts": [
+        {
+          "label": "proposed fund",
+          "value": "$1-2 billion",
+          "original": "$1-2 billion proposed fund"
+        },
+        {
+          "label": "EDCF framework",
+          "value": "$3 billion",
+          "original": "$3 billion EDCF framework"
+        },
+        {
+          "label": "broad-gauge carriages",
+          "value": "260",
+          "original": "260 broad-gauge carriages"
+        },
+        {
+          "label": "Proposed Bangladesh Sovereign Fund",
+          "value": "$1 billion to $2 billion",
+          "original": "Proposed Bangladesh Sovereign Fund: $1 billion to $2 billion"
+        }
+      ],
+      "what_happened": [
+        "He discussed the plan with Korea Investment Corporation, including combining its equity investment with Korea Eximbank financing.",
+        "Bangladesh planned a sovereign wealth fund in 2017 using foreign currency reserves, but the plan was later scrapped."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is proposed fund?",
+          "a": "$1-2 billion"
+        },
+        {
+          "q": "What is EDCF framework?",
+          "a": "$3 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh is considering creating a sovereign fund of up to $______ billion to mobilise international capital for infrastructure, renewable energy and digital projects, Finance Minister Amir Khosru Mahmud Chowdhury said during a visit to Seoul.",
+          "answer": "2"
+        },
+        {
+          "cloze": "Bangladesh planned a sovereign wealth fund in ______ using foreign currency reserves, but the plan was later scrapped.",
+          "answer": "2017"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "considers",
+        "billion",
+        "sovereign",
+        "fund"
+      ],
+      "detail": "Bangladesh is considering creating a sovereign fund of up to $2 billion to mobilise international capital for infrastructure, renewable energy and digital projects, Finance Minister Amir Khosru Mahmud Chowdhury said during a visit to Seoul. He discussed the plan with Korea Investment Corporation, including combining its equity investment with Korea Eximbank financing. Bangladesh planned a sovereign wealth fund in 2017 using foreign currency reserves, but the plan was later scrapped."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Economy & Banking",
+      "event_date": "2026-10-29",
+      "exam_facts": "DGePay disconnected from the National Payment Switch Bangladesh (NPSB) on 29 October; reason: security concerns including alleged server access from India; Bangladesh Bank spokesperson Arief Hossain Khan: 'Cybersecurity and the protection of citizens' data privacy are our highest priorities'; DGePay MD and CEO Rashed Mahmud; the company had no dedicated database administrator; its India-based development team had infrastructure access for development only.",
+      "exam_relevance": "High — digital payments, cybersecurity, Bangladesh Bank.",
+      "figures": "Disconnected 29 October; NPSB is the national payment switch.",
+      "headline": "Bangladesh Bank disconnects DGePay from payment switch",
+      "id": "CA07",
+      "key_people": "Arief Hossain Khan, Executive Director and Spokesperson, Bangladesh Bank; Rashed Mahmud, Managing Director and CEO, DGePay.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Bangladesh Bank disconnects DGePay from NPSB over server access from India",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-disconnects-dgepay-npsb-over-server-access-india-4315481"
+        }
+      ],
+      "summary": "Bangladesh Bank disconnected online payment gateway DGePay from the National Payment Switch Bangladesh on 29 October over security concerns, including alleged server access from India, central bank spokesperson Arief Hossain Khan said. The company said the move came without prior discussion and disrupted only transactions routed through the switch. DGePay said its systems were developed by an India-based research and development team, which had infrastructure access solely for development purposes.",
+      "why_it_matters": "A payment gateway cut off over data-sovereignty and cybersecurity concerns is a digital-payments and regulation exam topic.",
+      "one_liner": "Bangladesh Bank disconnected online payment gateway DGePay from the National Payment Switch Bangladesh on 29 October over security concerns, including…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Disconnected 29 October",
+          "original": "Disconnected 29 October"
+        },
+        {
+          "label": "",
+          "value": "NPSB is the national payment switch",
+          "original": "NPSB is the national payment switch"
+        },
+        {
+          "label": "reason",
+          "value": "security concerns including alleged server access from India",
+          "original": "reason: security concerns including alleged server access from India"
+        },
+        {
+          "label": "Bangladesh Bank spokesperson Arief Hossain Khan",
+          "value": "'Cybersecurity and the protection of citizens' data privacy are our highest priorities'",
+          "original": "Bangladesh Bank spokesperson Arief Hossain Khan: 'Cybersecurity and the protection of citizens' data privacy are our highest priorities'"
+        }
+      ],
+      "what_happened": [
+        "The company said the move came without prior discussion and disrupted only transactions routed through the switch.",
+        "DGePay said its systems were developed by an India-based research and development team, which had infrastructure access solely for development purposes."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is reason?",
+          "a": "security concerns including alleged server access from India"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank disconnected online payment gateway DGePay from the National Payment Switch Bangladesh on ______ over security concerns, including alleged server access from India, central bank spokesperson Arief Hossain Khan said.",
+          "answer": "29 October"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "disconnects",
+        "dgepay",
+        "payment",
+        "switch"
+      ],
+      "detail": "Bangladesh Bank disconnected online payment gateway DGePay from the National Payment Switch Bangladesh on 29 October over security concerns, including alleged server access from India, central bank spokesperson Arief Hossain Khan said. The company said the move came without prior discussion and disrupted only transactions routed through the switch. DGePay said its systems were developed by an India-based research and development team, which had infrastructure access solely for development purposes."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-04",
+      "exam_facts": "Exemption from Section 27(KaKa)(3) of the Bank Company Act, 1991 (ban on lending to classified defaulters), under Section 121, until 31 December 2027; Tk 3,000 crore working capital facility; syndicate of eight banks led by City Bank (Mutual Trust, Prime, Dutch-Bangla, Southeast, Trust, NCC, Pubali); five companies: City Seed Crushing Industries, City Sugar Industries, City Edible Oil, City Dal Mills, Shampa Flour Mills; Shomilito Islami Bank approved a Tk 1,600 crore loan facility for the group; no government or central bank liability.",
+      "exam_relevance": "High — banking law, defaulters, syndicated loans.",
+      "figures": "Tk 3,000 crore facility; 8-bank syndicate; exemption until 31 December 2027; Tk 1,600 crore from Shomilito Islami Bank.",
+      "headline": "Bangladesh Bank clears Tk 3,000 crore loan facility for City Group",
+      "id": "CA08",
+      "key_people": "Bangladesh Bank (regulator); City Group (borrower).",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Bangladesh Bank relaxes rules to allow Tk 30b loan to City Group",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/business/local/zf890hzhcf"
+        }
+      ],
+      "summary": "Bangladesh Bank exempted five defaulted companies of City Group from a key banking-law provision, clearing the way for a Tk 3,000 crore working capital facility from a syndicate of eight banks led by City Bank. The central bank waived the rule that bars lending to classified defaulters until 31 December 2027. The five companies must provide unencumbered assets as security, and neither the government nor the central bank will bear any liability for the loans.",
+      "why_it_matters": "Waiving the ban on lending to defaulters for a major conglomerate is a controversial banking decision; the legal sections and the scale are directly askable.",
+      "one_liner": "Bangladesh Bank exempted five defaulted companies of City Group from a key banking-law provision, clearing the way for a Tk…",
+      "key_facts": [
+        {
+          "label": "crore facility",
+          "value": "Tk 3,000",
+          "original": "Tk 3,000 crore facility"
+        },
+        {
+          "label": "bank syndicate",
+          "value": "8",
+          "original": "8-bank syndicate"
+        },
+        {
+          "label": "",
+          "value": "exemption until 31 December 2027",
+          "original": "exemption until 31 December 2027"
+        },
+        {
+          "label": "crore from Shomilito Islami Bank",
+          "value": "Tk 1,600",
+          "original": "Tk 1,600 crore from Shomilito Islami Bank"
+        }
+      ],
+      "what_happened": [
+        "The central bank waived the rule that bars lending to classified defaulters until 31 December 2027.",
+        "The five companies must provide unencumbered assets as security, and neither the government nor the central bank will bear any liability for the loans."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is crore facility?",
+          "a": "Tk 3,000"
+        },
+        {
+          "q": "What is bank syndicate?",
+          "a": "8"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank exempted five defaulted companies of City Group from a key banking-law provision, clearing the way for a Tk ______ crore working capital facility from a syndicate of eight banks led by City Bank.",
+          "answer": "3,000"
+        },
+        {
+          "cloze": "The central bank waived the rule that bars lending to classified defaulters until ______.",
+          "answer": "31 December 2027"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "clears",
+        "crore",
+        "loan",
+        "facility",
+        "city",
+        "group"
+      ],
+      "detail": "Bangladesh Bank exempted five defaulted companies of City Group from a key banking-law provision, clearing the way for a Tk 3,000 crore working capital facility from a syndicate of eight banks led by City Bank. The central bank waived the rule that bars lending to classified defaulters until 31 December 2027. The five companies must provide unencumbered assets as security, and neither the government nor the central bank will bear any liability for the loans."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Bangladesh",
+      "event_date": "2026-11-04",
+      "exam_facts": "Iranian Ambassador Jalil Rahimi Jahanabadi (press conference, Iranian Embassy, Dhaka, 4 November): 'To pass through, you have to follow the directions set by Iran'; Iran, Qatar and Oman have plans to reopen the waterway; conditions: lifting the US naval blockade and a commitment against further attacks; the ambassador predicted a third round of war and said Iran would respond proportionately to a nuclear attack.",
+      "exam_relevance": "High — Strait of Hormuz, energy security, Iran-Bangladesh.",
+      "figures": "Strait of Hormuz is the key oil corridor; conditions: end of US naval blockade.",
+      "headline": "To pass through Hormuz, Bangladesh must follow Iran's directions",
+      "id": "CA09",
+      "key_people": "Jalil Rahimi Jahanabadi, Iranian Ambassador to Bangladesh.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "To pass through Hormuz, Bangladesh must follow Iran's directions: Ambassador",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pass-through-hormuz-bangladesh-must-follow-irans-directions-ambassador-4315551"
+        }
+      ],
+      "summary": "Bangladesh must coordinate with Tehran and follow its directions to ensure the safe passage of its vessels through the Strait of Hormuz, Iranian Ambassador Jalil Rahimi Jahanabadi said in Dhaka. He said no country could safely transport energy supplies through the strategic waterway without coordinating with Iranian authorities. He added that Iran, Qatar and Oman had plans to reopen the waterway, but lifting the US naval blockade and securing a commitment against further attacks were key conditions.",
+      "why_it_matters": "The Strait of Hormuz carries Bangladesh's energy imports; the ambassador's statement shows how the Iran war directly affects Bangladesh's trade and energy security.",
+      "one_liner": "Bangladesh must coordinate with Tehran and follow its directions to ensure the safe passage of its vessels through the Strait…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Strait of Hormuz is the key oil corridor",
+          "original": "Strait of Hormuz is the key oil corridor"
+        },
+        {
+          "label": "conditions",
+          "value": "end of US naval blockade",
+          "original": "conditions: end of US naval blockade"
+        },
+        {
+          "label": "conditions",
+          "value": "lifting the US naval blockade and a commitment against further attacks",
+          "original": "conditions: lifting the US naval blockade and a commitment against further attacks"
+        }
+      ],
+      "what_happened": [
+        "He said no country could safely transport energy supplies through the strategic waterway without coordinating with Iranian authorities.",
+        "He added that Iran, Qatar and Oman had plans to reopen the waterway, but lifting the US naval blockade and securing a commitment against further attacks were key conditions."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is conditions?",
+          "a": "end of US naval blockade"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "bangladesh",
+        "pass",
+        "hormuz",
+        "must",
+        "follow",
+        "iran",
+        "directions"
+      ],
+      "detail": "Bangladesh must coordinate with Tehran and follow its directions to ensure the safe passage of its vessels through the Strait of Hormuz, Iranian Ambassador Jalil Rahimi Jahanabadi said in Dhaka. He said no country could safely transport energy supplies through the strategic waterway without coordinating with Iranian authorities. He added that Iran, Qatar and Oman had plans to reopen the waterway, but lifting the US naval blockade and securing a commitment against further attacks were key conditions."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-04",
+      "exam_facts": "51st Special BCS preliminary exam: 11 December 2026 (Friday), 10:00am-12:00pm, Dhaka only; 44,635 candidates; 5,000 physician posts (4,700 assistant surgeons, 300 assistant dental surgeons); circular published 24 September 2026; purpose: address acute shortage of doctors in government hospitals; source: Bangladesh Public Service Commission (BPSC).",
+      "exam_relevance": "High — BCS, jobs, dates.",
+      "figures": "11 December 2026; 44,635 candidates; 5,000 posts.",
+      "headline": "51st BCS preliminary exam on 11 December",
+      "id": "CA10",
+      "key_people": "Bangladesh Public Service Commission (BPSC).",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "51st BCS: Preliminary exam on 11 December",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/employment/wvvjc2u7xo"
+        }
+      ],
+      "summary": "The Bangladesh Public Service Commission will hold the preliminary examination of the 51st Special BCS on 11 December, from 10:00am to 12:00pm, at centres in Dhaka only. A total of 44,635 candidates have applied for the recruitment of 5,000 physicians — 4,700 assistant surgeons and 300 assistant dental surgeons — to address the acute shortage of doctors in government hospitals. The circular was published on 24 September.",
+      "why_it_matters": "The exam date and the number of posts are directly relevant to every BCS candidate using this app.",
+      "one_liner": "The Bangladesh Public Service Commission will hold the preliminary examination of the 51st Special BCS on 11 December, from 10:00am…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "11 December 2026",
+          "original": "11 December 2026"
+        },
+        {
+          "label": "posts",
+          "value": "5,000",
+          "original": "5,000 posts"
+        },
+        {
+          "label": "51st Special BCS preliminary exam",
+          "value": "11 December 2026 (Friday), 10:00am-12:00pm, Dhaka only",
+          "original": "51st Special BCS preliminary exam: 11 December 2026 (Friday), 10:00am-12:00pm, Dhaka only"
+        },
+        {
+          "label": "4,700 assistant surgeons, 300 assistant dental surgeons",
+          "value": "5,000 physician posts",
+          "original": "5,000 physician posts (4,700 assistant surgeons, 300 assistant dental surgeons)"
+        }
+      ],
+      "what_happened": [
+        "A total of 44,635 candidates have applied for the recruitment of 5,000 physicians — 4,700 assistant surgeons and 300 assistant dental surgeons — to address the acute shortage of doctors in government hospitals.",
+        "The circular was published on 24 September."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is posts?",
+          "a": "5,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Bangladesh Public Service Commission will hold the preliminary examination of the 51st Special BCS on ______, from 10:00am to 12:00pm, at centres in Dhaka only.",
+          "answer": "11 December"
+        },
+        {
+          "cloze": "A total of ______ candidates have applied for the recruitment of 5,000 physicians — 4,700 assistant surgeons and 300 assistant dental surgeons — to address the acute shortage of doctors in government hospitals.",
+          "answer": "44,635"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "preliminary",
+        "exam",
+        "december"
+      ],
+      "detail": "The Bangladesh Public Service Commission will hold the preliminary examination of the 51st Special BCS on 11 December, from 10:00am to 12:00pm, at centres in Dhaka only. A total of 44,635 candidates have applied for the recruitment of 5,000 physicians — 4,700 assistant surgeons and 300 assistant dental surgeons — to address the acute shortage of doctors in government hospitals. The circular was published on 24 September."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-03",
+      "exam_facts": "QS World University Rankings: Asia 2027 (published 3 November 2026): Dhaka University 136th in Asia, 16th in South Asia, top in Bangladesh; 1,722 universities from 26 countries and territories; University of Hong Kong first, Peking University second; indicators: academic reputation, faculty-student ratio, research quality and impact, PhD staff share, international research collaboration.",
+      "exam_relevance": "Medium — education, rankings.",
+      "figures": "136th in Asia; 16th in South Asia; 1,722 universities ranked.",
+      "headline": "Dhaka University retains top spot in QS Asia rankings",
+      "id": "CA11",
+      "key_people": "Professor ABM Obaidul Islam, Vice Chancellor, Dhaka University.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Dhaka University retains top spot among Bangladeshi universities in QS Asia rankings",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/campus/news/dhaka-university-retains-top-spot-among-bangladeshi-universities-qs-asia-rankings-4315536"
+        }
+      ],
+      "summary": "Dhaka University has retained its position as Bangladesh's top-ranked university in the QS World University Rankings: Asia 2027, placing 136th in Asia and 16th in South Asia. The rankings, published on 3 November, feature 1,722 universities from 26 countries and territories, with the University of Hong Kong first and China's Peking University second. Vice Chancellor Professor ABM Obaidul Islam said the ranking reflected the collective efforts of teachers, students and researchers.",
+      "why_it_matters": "University rankings are standard education general-knowledge material, and DU's position is the headline fact for Bangladeshi candidates.",
+      "one_liner": "Dhaka University has retained its position as Bangladesh's top-ranked university in the QS World University Rankings: Asia 2027, placing 136th…",
+      "key_facts": [
+        {
+          "label": "th in Asia",
+          "value": "136",
+          "original": "136th in Asia"
+        },
+        {
+          "label": "th in South Asia",
+          "value": "16",
+          "original": "16th in South Asia"
+        },
+        {
+          "label": "universities ranked",
+          "value": "1,722",
+          "original": "1,722 universities ranked"
+        },
+        {
+          "label": "QS World University Rankings",
+          "value": "Asia 2027 (published 3 November 2026): Dhaka University 136th in Asia, 16th in South Asia, top in Bangladesh",
+          "original": "QS World University Rankings: Asia 2027 (published 3 November 2026): Dhaka University 136th in Asia, 16th in South Asia, top in Bangladesh"
+        }
+      ],
+      "what_happened": [
+        "The rankings, published on 3 November, feature 1,722 universities from 26 countries and territories, with the University of Hong Kong first and China's Peking University second.",
+        "Vice Chancellor Professor ABM Obaidul Islam said the ranking reflected the collective efforts of teachers, students and researchers."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is th in Asia?",
+          "a": "136"
+        },
+        {
+          "q": "What is th in South Asia?",
+          "a": "16"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Dhaka University has retained its position as Bangladesh's top-ranked university in the QS World University Rankings: Asia ______ placing 136th in Asia and 16th in South Asia.",
+          "answer": "2027,"
+        },
+        {
+          "cloze": "The rankings, published on ______, feature 1,722 universities from 26 countries and territories, with the University of Hong Kong first and China's Peking University second.",
+          "answer": "3 November"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "dhaka",
+        "university",
+        "retains",
+        "spot",
+        "asia",
+        "rankings"
+      ],
+      "detail": "Dhaka University has retained its position as Bangladesh's top-ranked university in the QS World University Rankings: Asia 2027, placing 136th in Asia and 16th in South Asia. The rankings, published on 3 November, feature 1,722 universities from 26 countries and territories, with the University of Hong Kong first and China's Peking University second. Vice Chancellor Professor ABM Obaidul Islam said the ranking reflected the collective efforts of teachers, students and researchers."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "World",
+      "event_date": "2026-11-04",
+      "exam_facts": "ICJ ruling on 19 November 2026; case: The Gambia vs Myanmar under the 1948 UN Genocide Convention; seven years under consideration; ICJ has no means of enforcing its decisions; Min Aung Hlaing commanded the military during the crackdown and is now civilian president after restricted elections; more than one million Rohingya live in Bangladesh; experts watch the case for clues on South Africa's genocide case against Israel over Gaza.",
+      "exam_relevance": "High — ICJ, Rohingya, international law.",
+      "figures": "Ruling 19 November 2026; 7 years under consideration; 1 million+ Rohingya in Bangladesh.",
+      "headline": "Top UN court to rule on 19 November on Myanmar's Rohingya genocide case",
+      "id": "CA12",
+      "key_people": "Min Aung Hlaing, Myanmar's leader; Dawda Jallow, Justice Minister of The Gambia.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "Top UN court to rule Nov 19 on Myanmar's Rohingya genocide case",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/news/top-un-court-rule-nov-19-myanmars-rohingya-genocide-case-4315306"
+        }
+      ],
+      "summary": "The International Court of Justice will deliver a landmark ruling on 19 November on whether Myanmar's crackdown against the Rohingya constituted genocide, after seven years weighing The Gambia's case under the 1948 UN Genocide Convention. The court cannot enforce its decisions, but a genocide finding would heap pressure on Myanmar's leader Min Aung Hlaing, who commanded the military during the crackdown. More than one million Rohingya still live in Bangladesh.",
+      "why_it_matters": "The genocide ruling date, the applicant, the convention and the Rohingya numbers are core international-law and Bangladesh-affairs facts.",
+      "one_liner": "The International Court of Justice will deliver a landmark ruling on 19 November on whether Myanmar's crackdown against the Rohingya…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Ruling 19 November 2026",
+          "original": "Ruling 19 November 2026"
+        },
+        {
+          "label": "years under consideration",
+          "value": "7",
+          "original": "7 years under consideration"
+        },
+        {
+          "label": "+ Rohingya in Bangladesh",
+          "value": "1 million",
+          "original": "1 million+ Rohingya in Bangladesh"
+        },
+        {
+          "label": "",
+          "value": "ICJ ruling on 19 November 2026",
+          "original": "ICJ ruling on 19 November 2026"
+        }
+      ],
+      "what_happened": [
+        "The court cannot enforce its decisions, but a genocide finding would heap pressure on Myanmar's leader Min Aung Hlaing, who commanded the military during the crackdown.",
+        "More than one million Rohingya still live in Bangladesh."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is + Rohingya in Bangladesh?",
+          "a": "1 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The International Court of Justice will deliver a landmark ruling on ______ on whether Myanmar's crackdown against the Rohingya constituted genocide, after seven years weighing The Gambia's case under the 1948 UN Genocide Convention.",
+          "answer": "19 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "court",
+        "rule",
+        "november",
+        "myanmar",
+        "rohingya",
+        "genocide",
+        "case"
+      ],
+      "detail": "The International Court of Justice will deliver a landmark ruling on 19 November on whether Myanmar's crackdown against the Rohingya constituted genocide, after seven years weighing The Gambia's case under the 1948 UN Genocide Convention. The court cannot enforce its decisions, but a genocide finding would heap pressure on Myanmar's leader Min Aung Hlaing, who commanded the military during the crackdown. More than one million Rohingya still live in Bangladesh."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Bangladesh",
+      "event_date": "2026-11-04",
+      "exam_facts": "Meeting at the Prime Minister's Office, Bangladesh Secretariat, 4 November; Liu Haixing, Minister of the International Department of the CPC Central Committee, to brief President Xi Jinping; around 1.3 million Rohingya in Bangladesh; discussed: Bangladesh-China-Myanmar Economic Corridor, China's support for Bangladesh joining the Regional Comprehensive Economic Partnership (RCEP), closer CPC-BNP party ties; foundation of bilateral relations laid under Shaheed President Ziaur Rahman.",
+      "exam_relevance": "High — Rohingya, China-Bangladesh, RCEP.",
+      "figures": "Around 1.3 million Rohingya in Bangladesh.",
+      "headline": "Prime Minister seeks China's help on Rohingya crisis",
+      "id": "CA13",
+      "key_people": "Tarique Rahman, Prime Minister; Liu Haixing, Minister, International Department, CPC Central Committee; Xi Jinping, President of China.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "PM seeks China's help on Rohingya crisis; Liu to brief Xi on Dhaka's concerns",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-seeks-chinas-help-rohingya-crisis-liu-brief-xi-dhakas-concerns-4315346"
+        }
+      ],
+      "summary": "Prime Minister Tarique Rahman urged China to help resolve the protracted Rohingya crisis, saying the presence of around 1.3 million Rohingya puts heavy economic, social, demographic and environmental pressure on Bangladesh. Liu Haixing, minister of the Communist Party of China's International Department, said China would convey the prime minister's concerns to President Xi Jinping. The two sides also discussed the Bangladesh-China-Myanmar Economic Corridor and China's support for Bangladesh joining the RCEP.",
+      "why_it_matters": "China's role in the Rohingya crisis and the RCEP are major foreign-policy topics; the 1.3 million figure is the key number.",
+      "one_liner": "Prime Minister Tarique Rahman urged China to help resolve the protracted Rohingya crisis, saying the presence of around 1.3 million…",
+      "key_facts": [
+        {
+          "label": "Around Rohingya in Bangladesh",
+          "value": "1.3 million",
+          "original": "Around 1.3 million Rohingya in Bangladesh"
+        },
+        {
+          "label": "discussed",
+          "value": "Bangladesh-China-Myanmar Economic Corridor, China's support for Bangladesh joining the Regional Comprehensive Economic Partnership (RCEP), closer CPC-BNP party ties",
+          "original": "discussed: Bangladesh-China-Myanmar Economic Corridor, China's support for Bangladesh joining the Regional Comprehensive Economic Partnership (RCEP), closer CPC-BNP party ties"
+        }
+      ],
+      "what_happened": [
+        "Liu Haixing, minister of the Communist Party of China's International Department, said China would convey the prime minister's concerns to President Xi Jinping.",
+        "The two sides also discussed the Bangladesh-China-Myanmar Economic Corridor and China's support for Bangladesh joining the RCEP."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Around Rohingya in Bangladesh?",
+          "a": "1.3 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman urged China to help resolve the protracted Rohingya crisis, saying the presence of around ______ million Rohingya puts heavy economic, social, demographic and environmental pressure on Bangladesh.",
+          "answer": "1.3"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "prime",
+        "minister",
+        "seeks",
+        "china",
+        "help",
+        "rohingya",
+        "crisis"
+      ],
+      "detail": "Prime Minister Tarique Rahman urged China to help resolve the protracted Rohingya crisis, saying the presence of around 1.3 million Rohingya puts heavy economic, social, demographic and environmental pressure on Bangladesh. Liu Haixing, minister of the Communist Party of China's International Department, said China would convey the prime minister's concerns to President Xi Jinping. The two sides also discussed the Bangladesh-China-Myanmar Economic Corridor and China's support for Bangladesh joining the RCEP."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Bangladesh",
+      "event_date": "2026-11-04",
+      "exam_facts": "6 deaths with measles-like symptoms in 24 hours to 8am, 4 November; combined tally 1,269 deaths this year (1,164 suspected, 105 confirmed); suspected cases 234,148; confirmed cases 24,150; since 15 March: 208,634 hospitalised, 199,894 recovered; inquiry commission under the Commission of Inquiry Act, 1956, headed by former High Court justice Mamun Rahman, with Prof Dr Mawdud Hossain Alamgir and ANM Moinul Islam; liability period: 8 August 2024 to 17 February 2026; report within 60 working days.",
+      "exam_relevance": "High — public health, accountability, commissions.",
+      "figures": "1,269 deaths this year; 234,148 suspected cases; 24,150 confirmed; 60 working days to report.",
+      "headline": "Six more die of measles as inquiry commission probes vaccine delays",
+      "id": "CA14",
+      "key_people": "Mamun Rahman, former High Court Justice (commission head); Prof Dr Mawdud Hossain Alamgir, President, Bangladesh College of Physicians and Surgeons; ANM Moinul Islam, Additional Secretary, Health Services Division.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "6 more die with measles-like symptoms in a day",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-measles-symptoms-day-4315586"
+        },
+        {
+          "date": "2026-11-04",
+          "headline": "Measles vaccine delays: Inquiry commission formed to determine liability of interim govt",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/health/news/measles-vaccine-delays-inquiry-commission-formed-determine-liability-interim-govt-4315786"
+        }
+      ],
+      "summary": "Six more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,269, the health directorate said. Suspected cases reached 234,148 and confirmed cases 24,150. The government formed a three-member inquiry commission headed by former High Court justice Mamun Rahman to determine liability for delays and irregularities in measles vaccine procurement during the interim government, and to report within 60 working days.",
+      "why_it_matters": "A measles death toll above 1,200 and a commission probing the interim government's vaccine failures are major public-health and accountability stories.",
+      "one_liner": "Six more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related…",
+      "key_facts": [
+        {
+          "label": "deaths this year",
+          "value": "1,269",
+          "original": "1,269 deaths this year"
+        },
+        {
+          "label": "suspected cases",
+          "value": "234,148",
+          "original": "234,148 suspected cases"
+        },
+        {
+          "label": "confirmed",
+          "value": "24,150",
+          "original": "24,150 confirmed"
+        },
+        {
+          "label": "working days to report",
+          "value": "60",
+          "original": "60 working days to report"
+        }
+      ],
+      "what_happened": [
+        "Suspected cases reached 234,148 and confirmed cases 24,150.",
+        "The government formed a three-member inquiry commission headed by former High Court justice Mamun Rahman to determine liability for delays and irregularities in measles vaccine procurement during the interim government,",
+        "and to report within 60 working days."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is suspected cases?",
+          "a": "234,148"
+        },
+        {
+          "q": "What is confirmed?",
+          "a": "24,150"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Six more patients died with measles-like symptoms in ______ hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,269, the health directorate said.",
+          "answer": "24"
+        },
+        {
+          "cloze": "Suspected cases reached ______ and confirmed cases 24,150.",
+          "answer": "234,148"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "measles",
+        "inquiry",
+        "commission",
+        "probes",
+        "vaccine",
+        "delays"
+      ],
+      "detail": "Six more patients died with measles-like symptoms in 24 hours, bringing the year's combined tally of confirmed and suspected measles-related deaths to 1,269, the health directorate said. Suspected cases reached 234,148 and confirmed cases 24,150. The government formed a three-member inquiry commission headed by former High Court justice Mamun Rahman to determine liability for delays and irregularities in measles vaccine procurement during the interim government, and to report within 60 working days."
+    },
+    {
+      "article_date": "2026-11-04",
+      "category": "Bangladesh",
+      "event_date": "2026-11-04",
+      "exam_facts": "1,173 constables used fake permanent addresses for district quota jobs; probe initiated by Inspector General of Police Md Ali Hossain Fakir on 15 March; covered 76,448 constables recruited 2014-2024; 980 (over 83 percent) recruited in Dhaka (643 in 2015, 303 in 2014); Narayanganj second with 93; more than 100 ineligible constables got jobs allegedly through political interference; around 200 got unusually high viva marks despite poor written results.",
+      "exam_relevance": "High — police recruitment, quotas, governance.",
+      "figures": "1,173 constables; 76,448 recruited 2014-2024; 980 in Dhaka; 93 in Narayanganj.",
+      "headline": "1,173 constables used fake addresses to get quota jobs",
+      "id": "CA15",
+      "key_people": "Md Ali Hossain Fakir, Inspector General of Police.",
+      "sources": [
+        {
+          "date": "2026-11-04",
+          "headline": "1,173 constables used fake addresses to get jobs in quota",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/1173-constables-used-fake-addresses-get-jobs-quota-4315041"
+        }
+      ],
+      "summary": "At least 1,173 police constables, mostly recruited in Dhaka during the Awami League government's tenure, used fake permanent addresses to secure jobs under district-based recruitment quotas, a police investigation found. The probe covered 76,448 constables recruited between 2014 and 2024; 980 of the 1,173 were recruited in Dhaka, with 643 in 2015 and 303 in 2014. Police Headquarters is verifying the findings before sending a report to the home ministry recommending action.",
+      "why_it_matters": "Recruitment fraud in the police under the district quota system is a governance and public-service exam topic; the numbers are the story.",
+      "one_liner": "At least 1,173 police constables, mostly recruited in Dhaka during the Awami League government's tenure, used fake permanent addresses to…",
+      "key_facts": [
+        {
+          "label": "constables",
+          "value": "1,173",
+          "original": "1,173 constables"
+        },
+        {
+          "label": "recruited 2014-2024",
+          "value": "76,448",
+          "original": "76,448 recruited 2014-2024"
+        },
+        {
+          "label": "in Dhaka",
+          "value": "980",
+          "original": "980 in Dhaka"
+        },
+        {
+          "label": "in Narayanganj",
+          "value": "93",
+          "original": "93 in Narayanganj"
+        }
+      ],
+      "what_happened": [
+        "The probe covered 76,448 constables recruited between 2014 and 2024; 980 of the 1,173 were recruited in Dhaka, with 643 in 2015 and 303 in 2014.",
+        "Police Headquarters is verifying the findings before sending a report to the home ministry recommending action."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is constables?",
+          "a": "1,173"
+        },
+        {
+          "q": "What is in Dhaka?",
+          "a": "980"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At least ______ police constables, mostly recruited in Dhaka during the Awami League government's tenure, used fake permanent addresses to secure jobs under district-based recruitment quotas, a police investigation found.",
+          "answer": "1,173"
+        },
+        {
+          "cloze": "The probe covered ______ constables recruited between 2014 and 2024; 980 of the 1,173 were recruited in Dhaka, with 643 in 2015 and 303 in 2014.",
+          "answer": "76,448"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "constables",
+        "used",
+        "fake",
+        "addresses",
+        "quota",
+        "jobs"
+      ],
+      "detail": "At least 1,173 police constables, mostly recruited in Dhaka during the Awami League government's tenure, used fake permanent addresses to secure jobs under district-based recruitment quotas, a police investigation found. The probe covered 76,448 constables recruited between 2014 and 2024; 980 of the 1,173 were recruited in Dhaka, with 643 in 2015 and 303 in 2014. Police Headquarters is verifying the findings before sending a report to the home ministry recommending action."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "disrupt, ruin, improvise",
+      "Article headline": "Garment worker dies after attack during Gazipur wage protest",
+      "BCS / Bank relevance": "High — law and order, political violence.",
+      "Bangla meaning": "পরিকল্পিতভাবে সংগঠিত করা",
+      "Bangla phonetic": "অর্কেস্ট্রেট",
+      "Collocations / patterns": "orchestrate an incident, orchestrate a campaign, carefully orchestrated",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296",
+      "English definition": "To carefully plan and organise an event, especially secretly, so that it happens in a particular way.",
+      "Headword / phrase": "orchestrate",
+      "IPA": "/ˈɔːkɪstreɪt/",
+      "Newspaper context note": "Gazipur police said the incident suggested the unrest was orchestrated by the Awami League.",
+      "Original example": "Police said the violence had been orchestrated by outsiders.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "organise, arrange, stage",
+      "Word family / derivatives": "orchestration (noun)"
+    },
+    {
+      "Antonyms": "release, free",
+      "Article headline": "DB detains three labour leaders over alleged incitement in Ashulia protests",
+      "BCS / Bank relevance": "High — law and order, policing.",
+      "Bangla meaning": "আটক করা",
+      "Bangla phonetic": "ডিটেইন",
+      "Collocations / patterns": "detain leaders, detain suspects, detained for questioning",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981",
+      "English definition": "To keep someone in official custody, usually by arrest; to delay someone.",
+      "Headword / phrase": "detain",
+      "IPA": "/dɪˈteɪn/",
+      "Newspaper context note": "The Detective Branch detained three labour leaders in Ashulia over alleged incitement of the protests.",
+      "Original example": "Police detained three labour leaders in Ashulia.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "arrest, hold, apprehend",
+      "Word family / derivatives": "detention (noun), detainee (noun)"
+    },
+    {
+      "Antonyms": "overpay, compensate fairly",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — labour, wages, RMG.",
+      "Bangla meaning": "ঠকানো",
+      "Bangla phonetic": "শর্ট-চেঞ্জ",
+      "Collocations / patterns": "short-change workers, fear being short-changed",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "To give someone less than they are owed or deserve; to cheat someone by giving less.",
+      "Headword / phrase": "short-change",
+      "IPA": "/ʃɔːt tʃeɪndʒ/",
+      "Newspaper context note": "Garment workers fear the wage board will short-change them with only a Tk 1,000-2,000 rise.",
+      "Original example": "Workers fear the board will short-change them with a token rise.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "cheat, underpay, short",
+      "Word family / derivatives": "short-changed (adjective)"
+    },
+    {
+      "Antonyms": "waive, ignore",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — labour law, legal vocabulary.",
+      "Bangla meaning": "প্রয়োগ করা",
+      "Bangla phonetic": "ইনভোক",
+      "Collocations / patterns": "invoke a law, invoke a provision, invoke a clause",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "To cite a law, rule or authority in support of an action; to call upon something for help.",
+      "Headword / phrase": "invoke",
+      "IPA": "/ɪnˈvəʊk/",
+      "Newspaper context note": "Factory owners warned they may invoke Section 13(1) of the Bangladesh Labour Act, the 'no work, no pay' provision.",
+      "Original example": "Owners warned they may invoke the 'no work, no pay' provision.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "cite, apply, call upon",
+      "Word family / derivatives": "invocation (noun)"
+    },
+    {
+      "Antonyms": "omission",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — law, legal vocabulary.",
+      "Bangla meaning": "ধারা",
+      "Bangla phonetic": "প্রোভিশন",
+      "Collocations / patterns": "provision of the law, under the provision, a provision of the Act",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "A clause, condition or rule contained in a law, agreement or document.",
+      "Headword / phrase": "provision",
+      "IPA": "/prəˈvɪʒən/",
+      "Newspaper context note": "Section 13(1) of the Bangladesh Labour Act is the 'no work, no pay' provision.",
+      "Original example": "The 'no work, no pay' provision allows owners to withhold wages for days not worked.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "clause, stipulation, article",
+      "Word family / derivatives": "provide (verb), provisional (adjective)"
+    },
+    {
+      "Antonyms": "praise, endorsement",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "High — politics, vocabulary.",
+      "Bangla meaning": "তিরস্কার",
+      "Bangla phonetic": "রিবিউক",
+      "Collocations / patterns": "scathing rebuke, deliver a rebuke, a rebuke to the president",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "An expression of sharp disapproval or criticism; a reprimand.",
+      "Headword / phrase": "rebuke",
+      "IPA": "/rɪˈbjuːk/",
+      "Newspaper context note": "The Democratic wave was described as a scathing rebuke to President Donald Trump.",
+      "Original example": "Voters delivered a scathing rebuke to the president.",
+      "Part of speech / type": "noun / verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "reproach, reprimand, rebuff",
+      "Word family / derivatives": "rebuke (verb)"
+    },
+    {
+      "Antonyms": "weak spot",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "High — politics, elections.",
+      "Bangla meaning": "শক্ত ঘাঁটি",
+      "Bangla phonetic": "স্ট্রংহোল্ড",
+      "Collocations / patterns": "Republican stronghold, party stronghold, stronghold state",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "A place where a particular group, party or belief has its strongest support; a fortress.",
+      "Headword / phrase": "stronghold",
+      "IPA": "/ˈstrɒŋhəʊld/",
+      "Newspaper context note": "Democratic gains reached deep into Republican strongholds such as South Carolina and Texas.",
+      "Original example": "Democrats won seats deep inside Republican strongholds.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "bastion, fortress, base",
+      "Word family / derivatives": "stronghold (noun)"
+    },
+    {
+      "Antonyms": "mismanagement, neglect",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "High — politics, economy.",
+      "Bangla meaning": "পরিচালনা",
+      "Bangla phonetic": "স্টুয়ার্ডশিপ",
+      "Collocations / patterns": "stewardship of the economy, under his stewardship",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "The careful management of something that has been entrusted to one's care.",
+      "Headword / phrase": "stewardship",
+      "IPA": "/ˈstjuːədʃɪp/",
+      "Newspaper context note": "Voters expressed frustration with Trump's stewardship of the economy.",
+      "Original example": "Voters judged the president's stewardship of the economy harshly.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "management, leadership, guardianship",
+      "Word family / derivatives": "steward (noun)"
+    },
+    {
+      "Antonyms": "trickle",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "Medium — politics, figurative usage.",
+      "Bangla meaning": "ঝড়",
+      "Bangla phonetic": "ব্যারেজ",
+      "Collocations / patterns": "barrage of spending, barrage of criticism, barrage of questions",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "A heavy, continuous outpouring of something, such as fire, criticism or spending.",
+      "Headword / phrase": "barrage",
+      "IPA": "/ˈbærɑːʒ/",
+      "Newspaper context note": "James Talarico withstood a barrage of outside spending to defeat Ken Paxton in Texas.",
+      "Original example": "The candidate withstood a barrage of outside spending.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "volley, torrent, onslaught",
+      "Word family / derivatives": "barrage (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "Medium — vocabulary, figurative usage.",
+      "Bangla meaning": "দীর্ঘ তালিকা",
+      "Bangla phonetic": "লিটানি",
+      "Collocations / patterns": "litany of controversies, litany of complaints",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "A long, tedious list of things, usually problems, complaints or failures.",
+      "Headword / phrase": "litany",
+      "IPA": "/ˈlɪtəni/",
+      "Newspaper context note": "Ken Paxton was at the centre of a litany of controversies, including his 2023 impeachment and securities fraud charges.",
+      "Original example": "The candidate faced a litany of controversies.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "catalogue, list, recital",
+      "Word family / derivatives": "litany (noun)"
+    },
+    {
+      "Antonyms": "outsider, underdog",
+      "Article headline": "Iran war is ‘the reason we lost’ midterms: US VP Vance",
+      "BCS / Bank relevance": "High — politics, elections.",
+      "Bangla meaning": "শীর্ষ প্রতিযোগী",
+      "Bangla phonetic": "ফ্রন্টরানার",
+      "Collocations / patterns": "frontrunner for the nomination, clear frontrunner",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/iran-war-the-reason-we-lost-midterms-us-vp-vance-4315726",
+      "English definition": "The person or team most likely to win a competition or election.",
+      "Headword / phrase": "frontrunner",
+      "IPA": "/ˈfrʌntrʌnər/",
+      "Newspaper context note": "The midterm defeat raised questions over JD Vance's status as frontrunner for the 2028 Republican nomination.",
+      "Original example": "The defeat raised questions over his status as frontrunner for 2028.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "favourite, leader, front-runner",
+      "Word family / derivatives": "frontrunner (noun)"
+    },
+    {
+      "Antonyms": "defeat, loss",
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "BCS / Bank relevance": "High — politics, elections.",
+      "Bangla meaning": "ব্যাপক জয়",
+      "Bangla phonetic": "সুইপ",
+      "Collocations / patterns": "Democratic sweep, election sweep, sweeping victory",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English definition": "A complete or overwhelming victory in an election or competition.",
+      "Headword / phrase": "sweep",
+      "IPA": "/swiːp/",
+      "Newspaper context note": "Democrats scored sweeping victories in both chambers of the US Congress.",
+      "Original example": "Democrats scored a sweeping victory in the midterms.",
+      "Part of speech / type": "noun / verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "landslide, clean sweep, rout",
+      "Word family / derivatives": "sweep (verb), sweeping (adjective)"
+    },
+    {
+      "Antonyms": "victory, triumph",
+      "Article headline": "Democrats win US Congress in midterm rout of Trump",
+      "BCS / Bank relevance": "High — politics, elections.",
+      "Bangla meaning": "শোচনীয় পরাজয়",
+      "Bangla phonetic": "রাউট",
+      "Collocations / patterns": "election rout, suffer a rout, a rout for the party",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/world/united-states/news/democrats-win-us-congress-midterm-rout-trump-4315221",
+      "English definition": "A complete and humiliating defeat, especially in an election or battle.",
+      "Headword / phrase": "rout",
+      "IPA": "/raʊt/",
+      "Newspaper context note": "The Daily Star described the midterms as a 'midterm rout of Trump' as Democrats won Congress.",
+      "Original example": "The midterms ended in a rout for the Republicans.",
+      "Part of speech / type": "noun / verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "defeat, thrashing, landslide",
+      "Word family / derivatives": "rout (verb)"
+    },
+    {
+      "Antonyms": "flowing, running",
+      "Article headline": "29 Dhaka South wards at high risk of dengue, survey finds",
+      "BCS / Bank relevance": "Medium — public health, environment.",
+      "Bangla meaning": "জমে থাকা",
+      "Bangla phonetic": "স্ট্যাগন্যান্ট",
+      "Collocations / patterns": "stagnant water, stagnant pool, stagnant economy",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/healthcare/disease/news/29-dhaka-south-wards-high-risk-dengue-survey-finds-4315471",
+      "English definition": "(Of water) still and not flowing, often dirty; (of an economy) showing no activity or growth.",
+      "Headword / phrase": "stagnant",
+      "IPA": "/ˈstæɡnənt/",
+      "Newspaper context note": "Stagnant water on floors accounted for 12.26 percent of dengue breeding sources in the DSCC survey.",
+      "Original example": "Stagnant water on floors was a major breeding source for mosquitoes.",
+      "Part of speech / type": "adjective",
+      "Priority": "Medium",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "still, standing, motionless",
+      "Word family / derivatives": "stagnate (verb), stagnation (noun)"
+    },
+    {
+      "Antonyms": "disperse, demobilise",
+      "Article headline": "Bangladesh considers forming up to $2 billion sovereign fund: finance minister",
+      "BCS / Bank relevance": "High — finance, investment.",
+      "Bangla meaning": "সংগ্রহ করা",
+      "Bangla phonetic": "মোবিলাইজ",
+      "Collocations / patterns": "mobilise capital, mobilise resources, mobilise support",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-considers-forming-2-billion-sovereign-fund-finance-minister-4315486",
+      "English definition": "To gather and organise resources, money or people for a purpose; to bring into action.",
+      "Headword / phrase": "mobilise",
+      "IPA": "/ˈməʊbɪlaɪz/",
+      "Newspaper context note": "The proposed sovereign fund would mobilise international capital for infrastructure, renewable energy and digital projects.",
+      "Original example": "The fund will mobilise international capital for infrastructure.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "gather, raise, marshal",
+      "Word family / derivatives": "mobilisation (noun)"
+    },
+    {
+      "Antonyms": "subject, bind",
+      "Article headline": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+      "BCS / Bank relevance": "High — banking, law.",
+      "Bangla meaning": "অব্যাহতি দেওয়া",
+      "Bangla phonetic": "এক্সেম্পট",
+      "Collocations / patterns": "exempt from a rule, exempt companies, exempt from tax",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636",
+      "English definition": "To free someone or something from an obligation, rule or payment.",
+      "Headword / phrase": "exempt",
+      "IPA": "/ɪɡˈzempt/",
+      "Newspaper context note": "Bangladesh Bank exempted five defaulted City Group companies from the ban on lending to classified defaulters.",
+      "Original example": "The central bank exempted five companies from the lending ban.",
+      "Part of speech / type": "verb / adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "excuse, release, waive",
+      "Word family / derivatives": "exemption (noun)"
+    },
+    {
+      "Antonyms": "payer",
+      "Article headline": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+      "BCS / Bank relevance": "High — banking, loans.",
+      "Bangla meaning": "খেলাপি",
+      "Bangla phonetic": "ডিফল্টার",
+      "Collocations / patterns": "classified defaulter, wilful defaulter, loan defaulter",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636",
+      "English definition": "A person or company that fails to pay a debt or meet an obligation on time.",
+      "Headword / phrase": "defaulter",
+      "IPA": "/dɪˈfɔːltər/",
+      "Newspaper context note": "The Bank Company Act bars banks from lending to classified defaulters; five City Group companies are classified defaulters.",
+      "Original example": "The law bars banks from lending to classified defaulters.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "non-payer, debtor",
+      "Word family / derivatives": "default (noun / verb)"
+    },
+    {
+      "Antonyms": "individual",
+      "Article headline": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+      "BCS / Bank relevance": "High — banking, finance.",
+      "Bangla meaning": "সিন্ডিকেট",
+      "Bangla phonetic": "সিন্ডিকেট",
+      "Collocations / patterns": "syndicate of banks, syndicated loan, syndicate financing",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636",
+      "English definition": "A group of people or organisations working together, especially to lend money or run a business.",
+      "Headword / phrase": "syndicate",
+      "IPA": "/ˈsɪndɪkət/",
+      "Newspaper context note": "A syndicate of eight banks led by City Bank will provide the Tk 3,000 crore working capital facility.",
+      "Original example": "A syndicate of eight banks will provide the facility.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "consortium, group, cartel",
+      "Word family / derivatives": "syndicated (adjective)"
+    },
+    {
+      "Antonyms": "encumbered, mortgaged",
+      "Article headline": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+      "BCS / Bank relevance": "High — banking, finance, law.",
+      "Bangla meaning": "বন্ধকমুক্ত",
+      "Bangla phonetic": "আনএনকাম্বার্ড",
+      "Collocations / patterns": "unencumbered assets, unencumbered property",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636",
+      "English definition": "Not burdened by debts or claims; (of property) not pledged as security for a loan.",
+      "Headword / phrase": "unencumbered",
+      "IPA": "/ʌnɪnˈkʌmbəd/",
+      "Newspaper context note": "City Group must provide unencumbered assets through registered mortgages as security for the financing.",
+      "Original example": "City Group must provide unencumbered assets as security.",
+      "Part of speech / type": "adjective",
+      "Priority": "Medium",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "unburdened, free, clear",
+      "Word family / derivatives": "encumber (verb), encumbrance (noun)"
+    },
+    {
+      "Antonyms": "ordinary, routine",
+      "Article headline": "Top UN court to rule Nov 19 on Myanmar's Rohingya genocide case",
+      "BCS / Bank relevance": "High — international law, vocabulary.",
+      "Bangla meaning": "যুগান্তকারী",
+      "Bangla phonetic": "ল্যান্ডমার্ক",
+      "Collocations / patterns": "landmark ruling, landmark decision, landmark case",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/top-un-court-rule-nov-19-myanmars-rohingya-genocide-case-4315306",
+      "English definition": "Very important and marking a major change; a famous or easily recognised feature.",
+      "Headword / phrase": "landmark",
+      "IPA": "/ˈlændmɑːk/",
+      "Newspaper context note": "The ICJ will deliver a landmark ruling on whether Myanmar's crackdown against the Rohingya constituted genocide.",
+      "Original example": "The court will deliver a landmark ruling on the genocide case.",
+      "Part of speech / type": "adjective / noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "historic, milestone, momentous",
+      "Word family / derivatives": "landmark (noun)"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "disruption",
+      "IPA": "/dɪsˈrʌpʃn/",
+      "Bangla phonetic": "ডিসরাপশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিঘ্ন; ব্যাঘাত; স্বাভাবিক কাজে বাধা",
+      "English definition": "A disturbance that interrupts the normal progress of an activity or process.",
+      "Synonyms": "interruption; disturbance; breakdown; obstruction",
+      "Antonyms": "continuity; smooth running; stability",
+      "Word family / derivatives": "disrupt; disrupted; disruptive; disruptively",
+      "Collocations / patterns": "cause disruption; widespread disruption; disruption to services",
+      "Original example": "The protests caused widespread disruption to factory operations across four industrial districts.",
+      "Newspaper context note": "Used in the BGMEA report on labour unrest disrupting operations at 529 garment factories.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Common in reading comprehension and precis on strikes, disasters and supply chains.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "grievance",
+      "IPA": "/ˈɡriːvəns/",
+      "Bangla phonetic": "গ্রিভান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযোগ; ক্ষোভের কারণ; অসন্তোষ",
+      "English definition": "A real or imagined cause for complaint, especially unfair treatment.",
+      "Synonyms": "complaint; resentment; objection; injustice",
+      "Antonyms": "satisfaction; contentment; praise",
+      "Word family / derivatives": "grieve; aggrieved; grievances",
+      "Collocations / patterns": "air a grievance; address grievances; genuine grievance",
+      "Original example": "The workers listed their grievances, including low pay and the blacklisting of colleagues.",
+      "Newspaper context note": "Used in reporting on garment workers' demands, including a minimum wage and an end to blacklisting.",
+      "Source publication": "The Daily Star",
+      "Article headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691",
+      "BCS / Bank relevance": "Labour relations and governance vocabulary; appears in comprehension and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "reinstatement",
+      "IPA": "/ˌriːɪnˈsteɪtmənt/",
+      "Bangla phonetic": "রিইনস্টেটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনর্বহাল; চাকরিতে ফিরিয়ে নেওয়া",
+      "English definition": "The act of giving someone back a job or position they had lost.",
+      "Synonyms": "restoration; reappointment; return to service",
+      "Antonyms": "dismissal; removal; termination",
+      "Word family / derivatives": "reinstate; reinstated; reinstating",
+      "Collocations / patterns": "reinstatement of dismissed workers; demand reinstatement",
+      "Original example": "The union demanded the reinstatement of all workers dismissed during the unrest.",
+      "Newspaper context note": "Used in the BGMEA report: workers demanded reinstatement of dismissed workers alongside a wage rise.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Service rules and labour law vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "scrutiny",
+      "IPA": "/ˈskruːtəni/",
+      "Bangla phonetic": "স্ক্রুটিনি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "যাচাই-বাছাই; নিবিড় পরীক্ষা; পুনঃনিরীক্ষণ",
+      "English definition": "Careful and thorough examination of something.",
+      "Synonyms": "examination; inspection; review; investigation",
+      "Antonyms": "neglect; oversight; cursory glance",
+      "Word family / derivatives": "scrutinise; scrutinised; scrutinising; scrutiniser",
+      "Collocations / patterns": "under scrutiny; close scrutiny; re-scrutiny of answer scripts",
+      "Original example": "Students may apply for re-scrutiny of their answer scripts from 1 to 7 November.",
+      "Newspaper context note": "Used in HSC results reporting: applications for re-scrutiny of answer scripts are open from 1 to 7 November.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "BCS / Bank relevance": "Formal noun for exams, audits and investigations; common in synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deterioration",
+      "IPA": "/dɪˌtɪəriəˈreɪʃn/",
+      "Bangla phonetic": "ডিটেরিওরেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবনতি; ক্রমাগত খারাপ হওয়া",
+      "English definition": "The process of becoming progressively worse.",
+      "Synonyms": "decline; worsening; decay; degradation",
+      "Antonyms": "improvement; recovery; progress",
+      "Word family / derivatives": "deteriorate; deteriorated; deteriorating",
+      "Collocations / patterns": "deterioration in performance; sharp deterioration; gradual deterioration",
+      "Original example": "The results reveal a significant deterioration in academic performance across all boards.",
+      "Newspaper context note": "Used in Prothom Alo's HSC analysis: the results reveal a significant deterioration in academic performance.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "HSC result 2026: Worst performance in 22 years",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/ht1u40gv59",
+      "BCS / Bank relevance": "High-value formal noun for essays and precis on the economy, education and health.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "RMG workers fear being short-changed",
+      "Bangla meaning": "কাজ নেই, বেতন নেই",
+      "Common collocations / grammar pattern": "invoke the 'no work, no pay' provision; the 'no work, no pay' rule",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English explanation": "A rule that workers are not paid for days they do not work.",
+      "Exam value": "High — labour law.",
+      "Original example 1": "Owners warned they may invoke the 'no work, no pay' provision.",
+      "Original example 2": "Under 'no work, no pay', absent workers lose a day's wage.",
+      "Phrase": "no work, no pay",
+      "Publication date": "2026-11-04",
+      "Source publication": "The Daily Star",
+      "Type": "phrase / idiom",
+      "Usage / register": "Legal / labour relations."
+    },
+    {
+      "Article headline": "Garment worker injured in Gazipur protests dies; around 50 factories shut",
+      "Bangla meaning": "ঘটনাস্থলে",
+      "Common collocations / grammar pattern": "at the scene of the crime; present at the scene; arrive at the scene",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/t9wrewwzgk",
+      "English explanation": "At the place where something happened.",
+      "Exam value": "High — common news phrase.",
+      "Original example 1": "No police personnel were present at the scene during the incident.",
+      "Original example 2": "Reporters arrived at the scene within minutes.",
+      "Phrase": "at the scene",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral; standard in news reporting."
+    },
+    {
+      "Article headline": "Democrats capture Congress in sweeping setback for Trump",
+      "Bangla meaning": "বিপদে",
+      "Common collocations / grammar pattern": "in danger of losing; in grave danger; put in danger",
+      "Direct source URL": "https://en.prothomalo.com/international/americas/7c462o97io",
+      "English explanation": "In a situation where harm or loss is possible.",
+      "Exam value": "Medium — common phrase.",
+      "Original example 1": "Several Republican seats were in danger as the wave swept the state.",
+      "Original example 2": "Workers' jobs are in danger if factories stay shut.",
+      "Phrase": "in danger",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "Democracy and opposition politics in Bangladesh",
+      "Bangla meaning": "মতবিরোধে",
+      "Common collocations / grammar pattern": "at odds with; at odds over",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/cqjo9p3er0",
+      "English explanation": "In disagreement or conflict with someone.",
+      "Exam value": "High — idiom.",
+      "Original example 1": "The two parties are at odds over the reform plan.",
+      "Original example 2": "He found himself at odds with his own party.",
+      "Phrase": "at odds",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "idiom",
+      "Usage / register": "Neutral; common in politics."
+    },
+    {
+      "Article headline": "When rising prices become a constant burden",
+      "Bangla meaning": "ঝুঁকিতে",
+      "Common collocations / grammar pattern": "at risk of; put at risk; jobs at risk",
+      "Direct source URL": "https://en.prothomalo.com/opinion/fhcflzbq2l",
+      "English explanation": "Exposed to danger or loss.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "Thousands of jobs are at risk if the unrest continues.",
+      "Original example 2": "The fund puts savers' money at risk.",
+      "Phrase": "at risk",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "Over 100 garment factories shut amid protests and clashes in Savar, Ashulia",
+      "Bangla meaning": "প্রকাশ পাওয়া",
+      "Common collocations / grammar pattern": "come to light during; bring to light",
+      "Direct source URL": "https://www.thedailystar.net/news/news/over-100-garment-factories-shut-amid-protests-and-clashes-savar-ashulia-4315506",
+      "English explanation": "To become known after being hidden.",
+      "Exam value": "High — idiom.",
+      "Original example 1": "New details came to light during the investigation.",
+      "Original example 2": "The fraud came to light only after the audit.",
+      "Phrase": "come to light",
+      "Publication date": "2026-11-04",
+      "Source publication": "The Daily Star",
+      "Type": "phrasal verb / idiom",
+      "Usage / register": "Neutral; common in news."
+    },
+    {
+      "Article headline": "Trump hand-picked Senate candidates. Republicans paid the price",
+      "Bangla meaning": "পরবর্তী সময়ে",
+      "Common collocations / grammar pattern": "in the aftermath of the election / war / crisis",
+      "Direct source URL": "https://www.thedailystar.net/news/world/united-states/news/trump-hand-picked-senate-candidates-republicans-paid-the-price-4315361",
+      "English explanation": "In the period following an important event, especially a bad one.",
+      "Exam value": "High — journalistic phrase.",
+      "Original example 1": "In the aftermath of the midterms, the party reassessed its strategy.",
+      "Original example 2": "Prices rose in the aftermath of the war.",
+      "Phrase": "in the aftermath of",
+      "Publication date": "2026-11-04",
+      "Source publication": "The Daily Star",
+      "Type": "prepositional phrase",
+      "Usage / register": "Formal / journalistic."
+    },
+    {
+      "Article headline": "Democracy and opposition politics in Bangladesh",
+      "Bangla meaning": "অনিশ্চিত অবস্থায়",
+      "Common collocations / grammar pattern": "hang in the balance; in the balance until",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/cqjo9p3er0",
+      "English explanation": "In an uncertain state; not yet decided.",
+      "Exam value": "Medium — idiom.",
+      "Original example 1": "Control of the Senate hung in the balance until the final count.",
+      "Original example 2": "His future in the party is in the balance.",
+      "Phrase": "in the balance",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "idiom",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "When rising prices become a constant burden",
+      "Bangla meaning": "প্রান্তে",
+      "Common collocations / grammar pattern": "on the verge of collapse / war / victory",
+      "Direct source URL": "https://en.prothomalo.com/opinion/fhcflzbq2l",
+      "English explanation": "Very close to doing something or reaching a state.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "The country is on the verge of a major change.",
+      "Original example 2": "The party was on the verge of collapse.",
+      "Phrase": "on the verge of",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "prepositional phrase",
+      "Usage / register": "Neutral."
+    },
+    {
+      "Article headline": "Building local AI infrastructures is necessary",
+      "Bangla meaning": "দীর্ঘমেয়াদে",
+      "Common collocations / grammar pattern": "in the long run; pay off in the long run",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/61hcdk5rdh",
+      "English explanation": "Over a long period of time; eventually.",
+      "Exam value": "High — common phrase.",
+      "Original example 1": "In the long run, the reform will strengthen the economy.",
+      "Original example 2": "Short-term pain may pay off in the long run.",
+      "Phrase": "in the long run",
+      "Publication date": "2026-11-04",
+      "Source publication": "Prothom Alo English",
+      "Type": "phrase",
+      "Usage / register": "Neutral."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "A",
+      "explanation": "To orchestrate is to carefully plan and organise an event, usually secretly.",
+      "no": 1,
+      "options": {
+        "A": "Carefully planned and organised",
+        "B": "Ignored by police",
+        "C": "Reported by journalists",
+        "D": "Disrupted by chance"
+      },
+      "question": "\"The incident was orchestrated by outsiders.\" — \"orchestrated\" means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "To detain is to keep someone in official custody, usually by arrest.",
+      "no": 2,
+      "options": {
+        "A": "To release",
+        "B": "To question briefly",
+        "C": "To warn",
+        "D": "To arrest and hold"
+      },
+      "question": "\"Detain\" most nearly means:",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "To short-change someone is to give them less than they are owed or deserve.",
+      "no": 3,
+      "options": {
+        "A": "To pay less than is fair",
+        "B": "To shorten working hours",
+        "C": "To exchange currency",
+        "D": "To change jobs"
+      },
+      "question": "\"Workers fear being short-changed.\" — \"short-change\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "A",
+      "explanation": "To invoke a law or provision is to cite it and apply it in a situation.",
+      "no": 4,
+      "options": {
+        "A": "To cite and apply it",
+        "B": "To repeal it",
+        "C": "To ignore it",
+        "D": "To draft it"
+      },
+      "question": "\"Invoke a provision of the law\" means:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "A provision of an Act is a clause or rule contained in the law.",
+      "no": 5,
+      "options": {
+        "A": "A supply of goods",
+        "B": "A temporary order",
+        "C": "A clause or rule in the law",
+        "D": "A court verdict"
+      },
+      "question": "A \"provision\" of an Act is:",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "A",
+      "explanation": "A rebuke is an expression of sharp disapproval or criticism.",
+      "no": 6,
+      "options": {
+        "A": "Harsh criticism",
+        "B": "Warm praise",
+        "C": "A formal award",
+        "D": "A secret deal"
+      },
+      "question": "\"A scathing rebuke\" is:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "A stronghold is a place where a party or group has its strongest support.",
+      "no": 7,
+      "options": {
+        "A": "It is weakest",
+        "B": "It lost last time",
+        "C": "It has its strongest support",
+        "D": "It has no candidates"
+      },
+      "question": "A party's \"stronghold\" is an area where:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "D",
+      "explanation": "Stewardship is the careful management of something entrusted to one's care.",
+      "no": 8,
+      "options": {
+        "A": "Printing of money",
+        "B": "Ownership of banks",
+        "C": "Taxation of income",
+        "D": "Management and care of the economy"
+      },
+      "question": "\"Stewardship of the economy\" means:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "A barrage is a heavy, continuous outpouring of something.",
+      "no": 9,
+      "options": {
+        "A": "A small amount",
+        "B": "A legal ban",
+        "C": "A heavy, continuous stream",
+        "D": "A tax"
+      },
+      "question": "\"A barrage of outside spending\" — \"barrage\" means:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "A",
+      "explanation": "A litany is a long, tedious list of things, usually problems or complaints.",
+      "no": 10,
+      "options": {
+        "A": "A long list of problems",
+        "B": "A rumour",
+        "C": "A single incident",
+        "D": "A court case"
+      },
+      "question": "\"A litany of controversies\" — \"litany\" means:",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "D",
+      "explanation": "Under 'no work, no pay', a worker receives no wages for days not worked.",
+      "no": 11,
+      "options": {
+        "A": "Gets double pay",
+        "B": "Gets a bonus",
+        "C": "Gets full pay",
+        "D": "Gets no pay for the days missed"
+      },
+      "question": "Under the 'no work, no pay' provision, a worker who does not work:",
+      "section": "Phrases",
+      "source": "CA02"
+    },
+    {
+      "correct": "B",
+      "explanation": "To come to light is to become known after being hidden.",
+      "no": 12,
+      "options": {
+        "A": "To be forgotten",
+        "B": "To become known",
+        "C": "To disappear",
+        "D": "To be rejected"
+      },
+      "question": "\"New details came to light during the investigation.\" — \"come to light\" means:",
+      "section": "Phrases",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "Toufiq Hossain, a garment worker, died after being beaten while filming vandalism during the Gazipur protests.",
+      "no": 13,
+      "options": {
+        "A": "A police officer",
+        "B": "Toufiq Hossain, a garment worker",
+        "C": "A factory owner",
+        "D": "A labour leader"
+      },
+      "question": "Who died during the garment wage protests in Gazipur?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "The revised pay scale takes effect in December 2026; the first salary under it comes in January 2027.",
+      "no": 14,
+      "options": {
+        "A": "November 2026",
+        "B": "January 2027",
+        "C": "March 2027",
+        "D": "December 2026"
+      },
+      "question": "When will the revised garment pay scale take effect?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "C",
+      "explanation": "Democrats captured majorities in both the House and Senate on 3 November 2026.",
+      "no": 15,
+      "options": {
+        "A": "Libertarians",
+        "B": "Republicans",
+        "C": "Democrats",
+        "D": "Greens"
+      },
+      "question": "Which party captured both chambers of the US Congress in the 3 November 2026 midterms?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "Abdul El-Sayed, 42, won Michigan's Senate seat, becoming the first Muslim elected to the US Senate.",
+      "no": 16,
+      "options": {
+        "A": "Jon Ossoff",
+        "B": "Sherrod Brown",
+        "C": "Abdul El-Sayed",
+        "D": "James Talarico"
+      },
+      "question": "Who became the first Muslim elected to the US Senate?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "B",
+      "explanation": "Six more deaths took the 2026 dengue toll to 445; total cases reached 142,775.",
+      "no": 17,
+      "options": {
+        "A": "439",
+        "B": "445",
+        "C": "1,269",
+        "D": "450"
+      },
+      "question": "What was Bangladesh's total dengue death toll in 2026 as of 4 November?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "A",
+      "explanation": "Section 27(KaKa)(3) of the Bank Company Act, 1991 bars lending to classified defaulters; Bangladesh Bank waived it for City Group until 31 December 2027.",
+      "no": 18,
+      "options": {
+        "A": "Section 27(KaKa)(3)",
+        "B": "Section 30",
+        "C": "Section 121",
+        "D": "Section 13(1)"
+      },
+      "question": "Which provision of the Bank Company Act, 1991 bars lending to classified defaulters and was waived for City Group?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "D",
+      "explanation": "The Iranian ambassador said Bangladesh must follow Iran's directions to pass through the Strait of Hormuz.",
+      "no": 19,
+      "options": {
+        "A": "Use only Qatari vessels",
+        "B": "Wait for US permission",
+        "C": "Pay a transit fee",
+        "D": "Follow Iran's directions"
+      },
+      "question": "According to Iran's ambassador, what must Bangladesh do to pass through the Strait of Hormuz?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "C",
+      "explanation": "5,000 physicians will be recruited — 4,700 assistant surgeons and 300 assistant dental surgeons.",
+      "no": 20,
+      "options": {
+        "A": "4,700",
+        "B": "44,635",
+        "C": "5,000",
+        "D": "300"
+      },
+      "question": "How many physicians will be recruited through the 51st Special BCS?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "correct": "B",
+      "explanation": "Dhaka University placed 136th in Asia and 16th in South Asia in the QS Asia 2027 rankings.",
+      "no": 21,
+      "options": {
+        "A": "1st",
+        "B": "136th",
+        "C": "16th",
+        "D": "26th"
+      },
+      "question": "What is Dhaka University's rank in Asia in the QS Asia 2027 rankings?",
+      "section": "Current Affairs",
+      "source": "CA11"
+    },
+    {
+      "correct": "B",
+      "explanation": "The ICJ will deliver its ruling on 19 November 2026, after seven years weighing The Gambia's case.",
+      "no": 22,
+      "options": {
+        "A": "4 November 2026",
+        "B": "19 November 2026",
+        "C": "12 March 2026",
+        "D": "17 November 2025"
+      },
+      "question": "On what date will the ICJ deliver its ruling on Myanmar's Rohingya genocide case?",
+      "section": "Current Affairs",
+      "source": "CA12"
+    },
+    {
+      "correct": "B",
+      "explanation": "The prime minister said around 1.3 million Rohingya are in Bangladesh.",
+      "no": 23,
+      "options": {
+        "A": "Around 1 million",
+        "B": "Around 1.3 million",
+        "C": "Around 2 million",
+        "D": "Around 500,000"
+      },
+      "question": "How many Rohingya are in Bangladesh, according to the prime minister?",
+      "section": "Current Affairs",
+      "source": "CA13"
+    },
+    {
+      "correct": "D",
+      "explanation": "The combined tally was 1,269 — 1,164 suspected and 105 confirmed measles-related deaths.",
+      "no": 24,
+      "options": {
+        "A": "1,164",
+        "B": "445",
+        "C": "234,148",
+        "D": "1,269"
+      },
+      "question": "What is the combined tally of confirmed and suspected measles-related deaths in Bangladesh in 2026 as of 4 November?",
+      "section": "Current Affairs",
+      "source": "CA14"
+    },
+    {
+      "correct": "D",
+      "explanation": "1,173 constables used fake permanent addresses; 980 of them were recruited in Dhaka.",
+      "no": 25,
+      "options": {
+        "A": "76,448",
+        "B": "643",
+        "C": "980",
+        "D": "1,173"
+      },
+      "question": "How many constables were found to have used fake permanent addresses to get quota jobs?",
+      "section": "Current Affairs",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Garment worker dies after attack during Gazipur wage protest",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Garment worker injured in Gazipur protests dies; around 50 factories shut",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/t9wrewwzgk"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Over 100 garment factories shut amid protests and clashes in Savar, Ashulia",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/news/over-100-garment-factories-shut-amid-protests-and-clashes-savar-ashulia-4315506"
+    },
+    {
+      "Source ID": "S04",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Workers block Dhaka-Aricha highway after clash with police in Savar",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/news/workers-block-dhaka-aricha-highway-after-clash-police-savar-4315201"
+    },
+    {
+      "Source ID": "S05",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "DB detains three labour leaders over alleged incitement in Ashulia protests",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "New garment workers’ pay scale to take effect in December",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/business/news/new-garment-workers-pay-scale-take-effect-december-4315341"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "RMG workers fear being short-changed",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "RMG wage board to meet at 11am today amid protests",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Democrats capture Congress in sweeping setback for Trump",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://en.prothomalo.com/international/americas/7c462o97io"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Iran war is ‘the reason we lost’ midterms: US VP Vance",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/iran-war-the-reason-we-lost-midterms-us-vp-vance-4315726"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://en.prothomalo.com/international/americas/sko5u3po5i"
+    },
+    {
+      "Source ID": "S03",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Democrat Keisha Lance Bottoms becomes first Black woman governor in US",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/world/united-states/news/democrat-keisha-lance-bottoms-becomes-first-black-woman-governor-us-4315161"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "6 die of dengue, 1,866 hospitalised in 24 hours",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/6-die-dengue-1866-hospitalised-24-hours-4315576"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "29 Dhaka South wards at high risk of dengue, survey finds",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/29-dhaka-south-wards-high-risk-dengue-survey-finds-4315471"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh considers forming up to $2 billion sovereign fund: finance minister",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-considers-forming-2-billion-sovereign-fund-finance-minister-4315486"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh Bank disconnects DGePay from NPSB over server access from India",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-bank-disconnects-dgepay-npsb-over-server-access-india-4315481"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh Bank clears way for Tk 3,000cr working capital facility for City Group",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-bank-clears-way-tk-3000cr-working-capital-facility-city-group-4315636"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Bangladesh Bank relaxes rules to allow Tk 30b loan to City Group",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://en.prothomalo.com/business/local/zf890hzhcf"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "To pass through Hormuz, Bangladesh must follow Iran's directions: Ambassador",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pass-through-hormuz-bangladesh-must-follow-irans-directions-ambassador-4315551"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "51st BCS: Preliminary exam on 11 December",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/wvvjc2u7xo"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Dhaka University retains top spot among Bangladeshi universities in QS Asia rankings",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/campus/news/dhaka-university-retains-top-spot-among-bangladeshi-universities-qs-asia-rankings-4315536"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Top UN court to rule Nov 19 on Myanmar's Rohingya genocide case",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/top-un-court-rule-nov-19-myanmars-rohingya-genocide-case-4315306"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "PM seeks China's help on Rohingya crisis; Liu to brief Xi on Dhaka's concerns",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-seeks-chinas-help-rohingya-crisis-liu-brief-xi-dhakas-concerns-4315346"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "6 more die with measles-like symptoms in a day",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-measles-symptoms-day-4315586"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Measles vaccine delays: Inquiry commission formed to determine liability of interim govt",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/health/news/measles-vaccine-delays-inquiry-commission-formed-determine-liability-interim-govt-4315786"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "1,173 constables used fake addresses to get jobs in quota",
+      "Publication date": "2026-11-04",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/1173-constables-used-fake-addresses-get-jobs-quota-4315041"
+    }
+  ],
+  "backfilled": true,
+  "backfill_note": "Backfilled edition: built from real articles published 4 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). CA06 (sovereign fund) and CA07 (DGePay) have no Current Affairs MCQ. Note: the Nov 3 edition named Sheikh Ashfaqur Rahman as wage-board chairman (Prothom Alo, 3 Nov); the 4 Nov Daily Star report names Syed Azad Subhani as chairman — sources differ on the chairman's name.",
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+}
