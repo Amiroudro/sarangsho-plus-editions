@@ -1,0 +1,1406 @@
+{
+  "edition_date": "2026-11-12",
+  "edition_day": "Draft",
+  "coverage": "7 Nov 2026, 7:47 AM to 2026-11-12, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 12,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA02",
+      "headline": "Experts call scrapping Dhaka-Gazipur BRT lanes 'suicidal', demand probe",
+      "category": "Bangladesh",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Urban planners and transport experts have called the government's decision to scrap the dedicated lanes of the Dhaka-Gazipur BRT project 'illogical and suicidal', demanding an investigation and a white paper. They opposed the cabinet's 18 October decision to turn the corridor into a six-lane highway after about Tk2,800 crore was spent and nearly 97% of the infrastructure was built over 14 years without a single bus service running.",
+      "why_it_matters": "The BRT is a flagship urban-transport case for BCS/Bank answers on project governance: the Tk2,800 crore cost, the 14-year delay and 97% completion are the figures a written answer would cite.",
+      "exam_facts": "The press conference at the National Press Club on 11 November was organised by the Bangladesh Institute of Planners, the Institute of Architects Bangladesh, Work for a Better Bangladesh Trust and Gazipur Heritage and Development; BIP president Muhammad Ariful Islam sought an independent assessment of financial and operational losses, travel-time savings and environmental benefits before any final decision, plus a third-party investigation into technical flaws and irregularities; Gazipur Heritage president Engineer Shamsul Haque noted a 28-kilometre BRT in Peshawar, Pakistan was built in two years; scrapping the lanes would affect planned crossing facilities at 25 stations; the government plans to spend another Tk45 crore demolishing what took 14 years to build.",
+      "exam_relevance": "Urban transport, project governance, cost overruns, public expenditure — core BCS/Bank development topics.",
+      "key_people": "Muhammad Ariful Islam, Bangladesh Institute of Planners president; Engineer Shamsul Haque, Gazipur Heritage and Development president",
+      "figures": "About Tk2,800 crore spent; nearly 97% of infrastructure complete; 14 years since launch in 2012; Tk45 crore more to demolish the lanes; 25 stations affected; Peshawar built a 28-km BRT in 2 years.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white"
+        }
+      ]
+    },
+    {
+      "id": "CA05",
+      "headline": "Hasina vows December return from exile despite death sentence",
+      "category": "Politics",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Ousted prime minister Sheikh Hasina, 79, has vowed to return to Bangladesh in December from self-imposed exile in India, telling AFP that 'fear cannot decide' her 'duty to the people'. She faces a death sentence from the International Crimes Tribunal for crimes against humanity over the deadly crackdown on the 2024 protests that ended her 15-year rule, and the government has challenged her to seek extradition from India if she is genuinely determined to return.",
+      "why_it_matters": "The return vow, the death sentence and the extradition question are the live core of Bangladesh's post-uprising politics — standard BCS/Bank current-affairs and polity material.",
+      "exam_facts": "Hasina fled on 5 August 2024 as thousands stormed her palace; she told AFP she is 'fully aware' she faces hanging but is not under pressure from India to return; prosecutor Md Aminul Islam said she missed the deadline to appeal and will 'face the execution of the verdict' if she returns; she called the trial a 'jurisprudential joke' and faces other charges including corruption allegations; political science professor Mohammad Jalal Uddin Sikder of North South University called the pledge 'a ploy to rally her party workers and keep them politically energised'; a party loyalist compared it with her 1981 return after her father's assassination in a military coup.",
+      "exam_relevance": "Post-uprising politics, International Crimes Tribunal, extradition, India-Bangladesh relations — core BCS/Bank polity topics.",
+      "key_people": "Sheikh Hasina; Md Aminul Islam, prosecutor; Mohammad Jalal Uddin Sikder, North South University",
+      "figures": "79 years old; fled 5 August 2024; 15-year rule ended; death sentence over the 2024 crackdown; return vowed for December 2026.",
+      "sources": [
+        {
+          "publication": "Yahoo News / AFP",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html"
+        }
+      ]
+    },
+    {
+      "id": "CA06",
+      "headline": "Bangladesh Bank eases import terms for 10 Ramadan essentials",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Bangladesh Bank has told banks to allow imports of 10 essential commodities for Ramadan under a 90-day deferred payment facility, so importers need not pay the full cost on arrival. The circular from the Foreign Exchange Policy Department covers rice, wheat, onions, pulses, soybean and palm oil, sugar, chickpeas, peas, spices and dates, and the facility stays in force until 15 March 2027 to keep supplies steady and prices affordable.",
+      "why_it_matters": "Ramadan price management through LC and deferred-payment rules is a recurring BCS/Bank economy topic — the 10-item list and the 90-day window are the askable facts.",
+      "exam_facts": "The facility works through 'supplier's credit' or 'buyer's credit' arrangements; the circular went to the chief executives of all Authorised Dealer banks licensed for foreign exchange transactions; on 8 November the central bank had already directed banks to keep cash margins for opening letters of credit for these commodities to a minimum, set by the bank-client relationship, and to prioritise opening the LCs.",
+      "exam_relevance": "Central bank policy, letters of credit, Ramadan price management, import finance — core BCS/Bank economy topics.",
+      "key_people": "Bangladesh Bank, Foreign Exchange Policy Department (FEPD-1)",
+      "figures": "10 essential commodities; 90-day deferred payment; facility in force until 15 March 2027; LC cash-margin directive issued 8 November.",
+      "sources": [
+        {
+          "publication": "bdnews24.com",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://bdnews24.com/business/olts589riy"
+        }
+      ]
+    },
+    {
+      "id": "CA07",
+      "headline": "Hasina return claims are 'political propaganda', says Ishraque",
+      "category": "Politics",
+      "event_date": "2026-11-10",
+      "article_date": "2026-11-10",
+      "summary": "Dhaka-6 lawmaker Ishraque Hossain has dismissed claims that Sheikh Hasina will return to Bangladesh in December as 'political propaganda', saying the government wants her back through legal and diplomatic channels. He said the process of bringing her back through an Interpol Red Notice has begun, alongside a prisoner exchange agreement, and that 'we want a convicted mass murderer and killer returned to Bangladesh as an accused person'.",
+      "why_it_matters": "This is the government's side of the Hasina-return story — the Interpol Red Notice and prisoner-exchange route are the procedural facts a BCS/Bank answer needs alongside the vow itself.",
+      "exam_facts": "Ishraque, a former state minister, spoke to reporters on 10 November after a monthly meeting on the law-and-order situation in the capital; he said anything beyond the legal route is 'nothing but a political manoeuvre and propaganda'.",
+      "exam_relevance": "Extradition procedure, Interpol Red Notice, prisoner exchange, post-uprising politics — core BCS/Bank polity topics.",
+      "key_people": "Ishraque Hossain, Dhaka-6 lawmaker and former state minister",
+      "figures": "Interpol Red Notice process begun; remarks made 10 November 2026; Hasina's return claimed for December 2026; Dhaka-6 constituency.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-10",
+          "url": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401"
+        }
+      ]
+    },
+    {
+      "id": "CA08",
+      "headline": "DU admission applications open; fees up Tk150 for four units",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Applications for Dhaka University undergraduate admission for 2026-27 opened at 12:00pm on 11 November and close at 11:59pm on 25 November. Fees for the Arts, Law and Social Sciences, Science, Business Studies and Fine Arts units each rose by Tk150 — to Tk1,200 for the first three and Tk1,400 for Fine Arts — while the IBA fee stays at Tk1,500, and minimum marks required in some subjects have been relaxed.",
+      "why_it_matters": "DU admission dates, fees and the 60-MCQ/40-written pattern are direct BCS/Bank and education-desk facts, and the fee rise is the kind of number written answers cite.",
+      "exam_facts": "Admission tests: IBA on 5 December, Science on 12 December, Arts, Law and Social Sciences on 19 December, Fine Arts on 22 December and Business Studies on 26 December 2026; tests run 11:00am-12:30pm except IBA (10:00am-12:00 noon); tests for three units are held in eight divisional cities including Dhaka; the relaxation was decided at an emergency General Admission Committee meeting on 9 November chaired by Vice-Chancellor Professor ABM Obaidul Islam; fees can be paid at Sonali, Janata, Agrani and Rupali banks or online by debit or credit card and mobile financial services.",
+      "exam_relevance": "Higher education, admission policy, public university fees — BCS/Bank education topics.",
+      "key_people": "Professor ABM Obaidul Islam, Dhaka University Vice-Chancellor",
+      "figures": "Applications 11-25 November 2026; fee rise Tk150 per unit; Science/Arts/Business Tk1,050 to Tk1,200; Fine Arts Tk1,250 to Tk1,400; IBA Tk1,500 unchanged; 5 units.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://en.prothomalo.com/youth/education/yn8t4d7jwg"
+        }
+      ]
+    },
+    {
+      "id": "CA09",
+      "headline": "Home Minister tells Parliament Awami forces 'will never be able to return'",
+      "category": "Politics",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Home Minister Salahuddin Ahmed told Parliament on 11 November that, just as the Nazis could never return to Germany, the 'fascist Awami League forces' who fled during the mass uprising will never return to Bangladesh. In a statement under Rule 300 he said law and order improved between February-October 2026 compared with the same nine months of 2025, and that the government would take strict legal action against sabotage while never turning law enforcement into a force of political repression.",
+      "why_it_matters": "The Nazi comparison, the Rule 300 statement and the nine-month law-and-order comparison are the quotable facts for BCS/Bank questions on post-uprising politics and policing.",
+      "exam_facts": "The minister said the opposition leader had alleged the unrest was instigated from across the border and that he agreed with the assessment; he cited secret meetings in Dhaka between senior leaders of a political party and representatives of foreign organisations; he recalled the 2004 bus arson in front of Hotel Sheraton; he said the fugitive leader had instructed associates over audio calls from across the border to prepare lists of July uprising participants and destroy their homes; he said law enforcement had been instructed to act within their right of private defence after officials lost their lives in Chattogram and elsewhere.",
+      "exam_relevance": "Parliamentary proceedings, law and order, post-uprising politics — core BCS/Bank polity topics.",
+      "key_people": "Salahuddin Ahmed, Home Minister",
+      "figures": "Statement under Rule 300 on 11 November 2026; law-and-order comparison covers February-October 2025 vs February-October 2026; 2004 Sheraton bus arson cited.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su"
+        }
+      ]
+    },
+    {
+      "id": "CA10",
+      "headline": "Government takes tough stance on sabotage; BNP to stay active on streets in December",
+      "category": "Politics",
+      "event_date": "2026-11-10",
+      "article_date": "2026-11-11",
+      "summary": "The government has given police strict instructions to prevent sabotage it blames on the banned Awami League's activities, after 22 vehicles were set on fire and cocktail explosions hit at least 28 places — 19 of them in Dhaka — in the 24 hours from Monday morning to Tuesday morning. The BNP will stay active on the streets through December to tackle the situation politically, while police chief Ali Hossain Fakir ordered 'quality arrests' and warned against indiscriminate arrests.",
+      "why_it_matters": "The 22 vehicles and 28 blast sites are the hard numbers behind the sabotage narrative, and the BNP's December street programme is the political counter-move — both are standard current-affairs material.",
+      "exam_facts": "Inspector General of Police Ali Hossain Fakir held an online meeting on Tuesday with superintendents, metropolitan commissioners and range deputy inspectors across all 64 districts; extra police were deployed in Gopalganj, Shariatpur, Madaripur and Faridpur; police say a few leaders of the banned activities living abroad are inciting and financing the sabotage; three people caught red-handed in the Dhaka University cocktail explosion on Sunday reportedly acted for money and were not directly connected to Awami League politics, according to police.",
+      "exam_relevance": "Law and order, political violence, policing — core BCS/Bank current-affairs topics.",
+      "key_people": "Ali Hossain Fakir, Inspector General of Police",
+      "figures": "22 vehicles set on fire in 24 hours; cocktail explosions in at least 28 places, 19 in Dhaka; IGP meeting covered all 64 districts; extra police in 4 districts.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "",
+          "date": "2026-11-10",
+          "url": "https://en.prothomalo.com/bangladesh/p03w2mzspb"
+        }
+      ]
+    },
+    {
+      "id": "CA11",
+      "headline": "PM meets Chinese VP on investment and climate at COP31",
+      "category": "World",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Prime Minister Tarique Rahman met Chinese Vice-President Han Zheng at 4:30pm on 11 November on the sidelines of COP31 in Antalya, Turkiye, to discuss expanding Chinese investment in Bangladesh and joint work on climate change. Earlier he met Uzbek President Shavkat Mirziyoyev on bilateral ties and climate, and exchanged greetings with world leaders — including the OIC secretary-general, the London mayor and the presidents of Pakistan, Iran and Syria — at the Leaders' Lounge.",
+      "why_it_matters": "COP31 bilateral diplomacy — China on investment and climate, Uzbekistan on ties — is core BCS/Bank foreign-policy material, and the Leaders' Lounge guest list is the detail that makes it askable.",
+      "exam_facts": "State Minister for Foreign Affairs Humaiun Kobir was present at the Chinese meeting; the prime minister reached the venue at 10:10am, where he was welcomed by the organisers as the World Leaders' Summit formally began; the Financial Express reported he exchanged greetings and views with world leaders at the Leaders' Lounge on Wednesday; the meeting took place at the conference venue during the 31st UN Climate Change Conference.",
+      "exam_relevance": "COP31, Bangladesh-China relations, climate diplomacy, multilateral summits — core BCS/Bank foreign-policy topics.",
+      "key_people": "Tarique Rahman, Prime Minister; Han Zheng, Chinese Vice-President; Shavkat Mirziyoyev, Uzbek President; Humaiun Kobir, State Minister for Foreign Affairs",
+      "figures": "Meeting at 4:30pm local time, 11 November 2026; arrived 10:10am; COP31 is the 31st UN Climate Change Conference.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://www.tbsnews.net/foreign-policy/pm-tarique-chinese-vice-president-discuss-investment-climate-cooperation-1599941"
+        },
+        {
+          "publication": "The Financial Express",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://today.thefinancialexpress.com.bd/first-page/pm-exchanges-views-with-world-leaders-1794421725"
+        }
+      ]
+    },
+    {
+      "id": "CA12",
+      "headline": "Hasina seeks new passport and NID; Dhaka presses extradition",
+      "category": "Politics",
+      "event_date": "2026-11-09",
+      "article_date": "2026-11-10",
+      "summary": "Sheikh Hasina sought a new passport and a national identity card from the Government of Bangladesh on Monday, 9 November, as she presses her plan to return. Acting Foreign Minister Humayun Kabir said Bangladesh seeks her extradition under an 'acceptable prisoner transfer process', while The Hindu's explainer notes she wants to return as a political leader and reclaim her party despite the death sentence for the July-August 2024 crackdown.",
+      "why_it_matters": "The passport application is the concrete step behind the return vow, and the 'prisoner transfer process' phrase is the procedural hook a BCS/Bank answer on extradition would use.",
+      "exam_facts": "The Hindu's explainer was published on 11 November 2026 and frames the return around extradition hurdles, political turmoil and security risks in a charged, polarised landscape; Hasina was sentenced to death by the International Crimes Tribunal in Dhaka for ordering the police crackdown of July-August 2024; the explainer notes she stands accused of ordering that crackdown and faces a string of other charges.",
+      "exam_relevance": "Extradition, prisoner transfer, International Crimes Tribunal — core BCS/Bank polity and legal topics.",
+      "key_people": "Sheikh Hasina; Humayun Kabir, Acting Foreign Minister",
+      "figures": "Passport and NID sought 9 November 2026; death sentence over the July-August 2024 crackdown.",
+      "sources": [
+        {
+          "publication": "The Hindu",
+          "headline": "",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+        }
+      ]
+    },
+    {
+      "id": "CA13",
+      "headline": "Bangladesh, Kuwait eye joint investment in ceramics, plastics and leather",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-11",
+      "article_date": "2026-11-11",
+      "summary": "Businesspeople from Bangladesh and Kuwait have expressed interest in joint investment in ceramics, plastics and leather goods, aiming to expand bilateral trade and economic cooperation. The interest was expressed at an online meeting on 11 November 2026, where both sides discussed opportunities to deepen economic ties between the two countries.",
+      "why_it_matters": "Bilateral investment openings with Gulf states are standard BCS/Bank foreign-trade material — the three sectors (ceramics, plastics, leather) are the askable detail.",
+      "exam_facts": "The FBCCI administrator highlighted the longstanding friendly relations between the two countries and invited Kuwaiti entrepreneurs to invest in Bangladesh; the meeting was held online on 11 November 2026.",
+      "exam_relevance": "Foreign direct investment, bilateral trade, Gulf cooperation — BCS/Bank economy and foreign-policy topics.",
+      "key_people": "FBCCI administrator",
+      "figures": "Online meeting 11 November 2026; 3 sectors named: ceramics, plastics and leather goods.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-11",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806"
+        }
+      ]
+    },
+    {
+      "id": "CA14",
+      "headline": "Bangladesh needs a sustainable debt management policy, columnist argues",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-10",
+      "article_date": "2026-11-10",
+      "summary": "Columnist Fahmida Khatun argues Bangladesh's external debt — $113.44 billion at the end of 2025, or about $646 per person — demands a sustainable debt policy before LDC graduation changes borrowing terms. She writes that debt stood at 23.6% of gross national income and 210.5% of exports in 2025, with debt service absorbing 15.7% of export earnings, and urges a credible medium-term revenue plan, whole-public-sector debt management and stronger public investment review.",
+      "why_it_matters": "External-debt ratios — 23.6% of GNI, 210.5% of exports, 15.7% of export earnings — are textbook BCS/Bank economy figures, and the LDC-graduation link makes them current.",
+      "exam_facts": "Khatun, an economist and distinguished fellow at the Centre for Policy Dialogue, writes in The Daily Star on 10 November 2026; the World Bank's International Debt Report 2026 shows external debt up 8.6% on the previous year and nearly triple the 2015 total of $38.77 billion; per-capita debt exceeds South Asia's average of about $564; the IMF estimated total public debt at 41.3% of GDP in FY2024-25, more than half of it domestic; multilateral creditors held about 39.8% of external debt and concessional debt about 32.8% in 2025; the columnist writes the EU will provide a three-year transition to keep Everything But Arms preferences after graduation, with possible GSP+; she writes Bangladesh signed an Economic Partnership Agreement with Japan in February 2026 and a CEPA with South Korea in August 2026 — a date that conflicts with the 11 November report that the CEPA draft is still being finalised by December, so it is flagged here, not settled.",
+      "exam_relevance": "External debt, debt-to-GDP, LDC graduation, trade preferences — core BCS/Bank economy topics.",
+      "key_people": "Dr Fahmida Khatun, economist and CPD distinguished fellow",
+      "figures": "$113.44 billion external debt at end-2025; about $646 per person; up 8.6% year on year; nearly triple the 2015 total of $38.77 billion; 23.6% of GNI; 210.5% of exports; debt service 15.7% of export earnings; total public debt 41.3% of GDP in FY2024-25.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "",
+          "date": "2026-11-10",
+          "url": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606"
+        }
+      ]
+    },
+    {
+      "id": "CA15",
+      "headline": "Bangladesh Bank questions bKash over 7,000-plus fake accounts",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-03",
+      "article_date": "2026-11-10",
+      "summary": "Bangladesh Bank has sought an explanation from bKash, the country's leading mobile financial service provider, after more than 7,000 suspected fake accounts were detected on its platform. Some account holders had listed ages of 100 to 150 years and many accounts showed excessive transactions; the central bank asked on 3 November why bKash should not be fined for violating the Bangladesh Financial Intelligence Unit's Know Your Customer guidelines.",
+      "why_it_matters": "MFS regulation, KYC rules and the Payment and Settlement Act 2024 are live BCS/Bank banking topics — the 7,000-account figure and Section 37 are the askable facts.",
+      "exam_facts": "The explanation was sought under Section 37 of the Payment and Settlement Act, 2024; Bangladesh Bank executive director and spokesperson Arief Hossain Khan said no fine has been imposed yet and seeking an explanation is the first step, with further action depending on whether the response is satisfactory; central bank officials said illegal transactions, online gambling, betting and crypto trading through MFS platforms were on the rise, largely through fake accounts; bKash head of corporate communications Shamsuddin Haider Dalim said accounts are opened through e-KYC or paper KYC with biometric authentication against NID records, blamed errors in NID birth dates for the 100-plus ages, and said all the accounts are under Enhanced Due Diligence; bKash has 8.5 crore registered accounts, of which 4.20 crore are active; bKash is a subsidiary of BRAC Bank.",
+      "exam_relevance": "Mobile financial services, KYC, BFIU, Payment and Settlement Act — core BCS/Bank banking topics.",
+      "key_people": "Arief Hossain Khan, Bangladesh Bank executive director and spokesperson; Shamsuddin Haider Dalim, bKash head of corporate communications",
+      "figures": "More than 7,000 suspected fake accounts; ages listed as 100 to 150 years; explanation sought 3 November 2026; 8.5 crore registered accounts, 4.20 crore active.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "",
+          "date": "2026-11-10",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "irregularities",
+      "IPA": "/ɪˌreɡjəˈlærətiz/",
+      "Bangla phonetic": "ইরেগিউল্যারিটিজ",
+      "Part of speech / type": "Noun (plural)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনিয়ম; নিয়মবহির্ভূত কাজ",
+      "English definition": "Actions or situations that break rules, laws or proper procedures.",
+      "Synonyms": "misconduct; malpractice; anomalies; violations",
+      "Antonyms": "regularity; compliance; propriety",
+      "Word family / derivatives": "irregular; irregularity; irregularly",
+      "Collocations / patterns": "alleged irregularities; financial irregularities; investigate irregularities",
+      "Original example": "Urban planners, architects and transport experts have called the government's decision to scrap the dedicated lanes of the Dhaka-Gazipur Bus Rapid Transit (BRT) project 'illogical and suicidal', demanding an investigation into alleged irregularities and a white paper.",
+      "Newspaper context note": "Experts demand a probe into alleged irregularities in the Dhaka-Gazipur BRT project.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Experts call scrapping Dhaka-Gazipur BRT lanes 'suicidal', demand probe, white paper",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — governance, audit and corruption questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "infrastructure",
+      "IPA": "/ˈɪnfrəstrʌktʃər/",
+      "Bangla phonetic": "ইনফ্রাস্ট্রাকচার",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অবকাঠামো; রাস্তা, সেতু, বিদ্যুৎ ইত্যাদি মৌলিক কাঠামো",
+      "English definition": "The basic physical systems of a country or organisation, such as transport, power and water.",
+      "Synonyms": "facilities; framework; installations; foundations",
+      "Antonyms": "—",
+      "Word family / derivatives": "infrastructural; infrastructure development",
+      "Collocations / patterns": "transport infrastructure; build infrastructure; infrastructure project",
+      "Original example": "At a press conference at the National Press Club yesterday (11 November), they opposed the cabinet's 18 October decision to convert the BRT corridor into a six-lane highway after spending around Tk2,800 crore and completing nearly 97% of its infrastructure without launching bus services.",
+      "Newspaper context note": "Nearly 97% of the Dhaka-Gazipur BRT infrastructure was complete when the government decided to scrap its lanes.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Experts call scrapping Dhaka-Gazipur BRT lanes 'suicidal', demand probe, white paper",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white",
+      "BCS / Bank relevance": "Core BCS/Bank economy and development vocabulary — infrastructure is a standard written-topic word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "extradition",
+      "IPA": "/ˌekstrəˈdɪʃən/",
+      "Bangla phonetic": "এক্সট্রাডিশন",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রত্যর্পণ; অভিযুক্তকে অন্য দেশের কাছে হস্তান্তর",
+      "English definition": "The formal handing over of an accused person to another country for trial.",
+      "Synonyms": "handover; surrender; rendition",
+      "Antonyms": "asylum; refuge; sanctuary",
+      "Word family / derivatives": "extradite; extraditable; extraditing",
+      "Collocations / patterns": "seek extradition; extradition treaty; extradition request",
+      "Original example": "Bangladesh's government challenged her on Tuesday to seek extradition from India if she was genuinely determined to return.",
+      "Newspaper context note": "Dhaka challenged Hasina to seek extradition from India if she genuinely wants to return.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank polity and international-relations vocabulary — extradition treaties are a standard topic.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "rhetoric",
+      "IPA": "/ˈretərɪk/",
+      "Bangla phonetic": "রেটোরিক",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বাগাড়ম্বর; প্রভাব বিস্তারের জন্য সাজানো বক্তব্য",
+      "English definition": "Language that is persuasive but often exaggerated or empty of real substance.",
+      "Synonyms": "oratory; bombast; grandstanding; empty words",
+      "Antonyms": "plain speaking; candour; understatement",
+      "Word family / derivatives": "rhetorical; rhetorically; rhetorician",
+      "Collocations / patterns": "political rhetoric; empty rhetoric; rhetoric designed to rally",
+      "Original example": "Analysts say the pledge may be rhetoric designed to rally the banned party's supporters.",
+      "Newspaper context note": "Analysts say Hasina's return pledge may be rhetoric to keep her party energised.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank English — rhetoric is a frequent vocabulary and comprehension word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "defiance",
+      "IPA": "/dɪˈfaɪəns/",
+      "Bangla phonetic": "ডিফায়ান্স",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবাধ্যতা; আদেশ অমান্য করার মনোভাব",
+      "English definition": "Open resistance or refusal to obey authority.",
+      "Synonyms": "resistance; disobedience; boldness; recalcitrance",
+      "Antonyms": "compliance; obedience; submission",
+      "Word family / derivatives": "defy; defiant; defiantly",
+      "Collocations / patterns": "act of defiance; in defiance of; show defiance",
+      "Original example": "Her defiance may be less a death wish than a bid to remain politically relevant, maintain her supporters' loyalty and keep alive a party that once dominated Bangladesh but is now banned.",
+      "Newspaper context note": "Analysts read Hasina's return vow as defiance aimed at staying politically relevant.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — defiance/defy appear regularly in English sections.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "prosecutor",
+      "IPA": "/ˈprɒsɪkjuːtər/",
+      "Bangla phonetic": "প্রসিকিউটর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অভিশংসক; রাষ্ট্রপক্ষের আইনজীবী",
+      "English definition": "A lawyer who brings criminal charges against someone on behalf of the state.",
+      "Synonyms": "public prosecutor; state's attorney; counsel for the prosecution",
+      "Antonyms": "defence counsel; defendant",
+      "Word family / derivatives": "prosecute; prosecution; prosecutorial",
+      "Collocations / patterns": "chief prosecutor; the prosecutor said; face the prosecutor",
+      "Original example": "The prosecutor who secured Hasina's death sentence, Md Aminul Islam, said she had missed the deadline to appeal against it, and that she will 'face the execution of the verdict' if she returns.",
+      "Newspaper context note": "The prosecutor who secured the death sentence says Hasina missed the appeal deadline.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank legal vocabulary — prosecutor/prosecution are standard polity words.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "deferred",
+      "IPA": "/dɪˈfɜːrd/",
+      "Bangla phonetic": "ডিফার্ড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্থগিত; বিলম্বিত; পরে করার জন্য পিছিয়ে দেওয়া",
+      "English definition": "Postponed to a later time.",
+      "Synonyms": "postponed; delayed; put off; adjourned",
+      "Antonyms": "immediate; prompt; instant",
+      "Word family / derivatives": "defer; deferral; deferment",
+      "Collocations / patterns": "deferred payment; deferred decision; deferred until",
+      "Original example": "Bangladesh Bank has instructed banks to allow imports of 10 essential commodities for Ramadan under a 90-day deferred payment facility to ensure steady supplies and keep prices affordable.",
+      "Newspaper context note": "Ramadan imports are allowed under a 90-day deferred payment facility.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank eases import terms for 10 essential commodities before Ramadan",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://bdnews24.com/business/olts589riy",
+      "BCS / Bank relevance": "BCS/Bank banking and economy vocabulary — deferred payment is a standard trade-finance term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "circular",
+      "IPA": "/ˈsɜːrkjələr/",
+      "Bangla phonetic": "সার্কুলার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পরিপত্র; সরকারি নির্দেশনামা",
+      "English definition": "An official written notice or instruction sent to many people or offices.",
+      "Synonyms": "notice; directive; memorandum; notification",
+      "Antonyms": "—",
+      "Word family / derivatives": "circulate; circulation; circularise",
+      "Collocations / patterns": "issue a circular; central bank circular; as per the circular",
+      "Original example": "The central bank's Foreign Exchange Policy Department (FEPD-1) issued a circular on Wednesday, allowing the imports under 'supplier's credit' or 'buyer's credit' arrangements.",
+      "Newspaper context note": "Bangladesh Bank's FEPD issued a circular allowing Ramadan imports on deferred payment.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank eases import terms for 10 essential commodities before Ramadan",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://bdnews24.com/business/olts589riy",
+      "BCS / Bank relevance": "BCS/Bank banking vocabulary — circulars are how the central bank issues instructions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "propaganda",
+      "IPA": "/ˌprɒpəˈɡændə/",
+      "Bangla phonetic": "প্রোপাগান্ডা",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রচারণা; বিশেষ উদ্দেশ্যে ছড়ানো তথ্য বা অপপ্রচার",
+      "English definition": "Information, often biased or misleading, spread to promote a political cause or point of view.",
+      "Synonyms": "publicity; indoctrination; disinformation; spin",
+      "Antonyms": "fact; truth; objective reporting",
+      "Word family / derivatives": "propagandist; propagandize; propagandistic",
+      "Collocations / patterns": "political propaganda; propaganda campaign; dismiss as propaganda",
+      "Original example": "Dhaka-6 lawmaker and former state minister Ishraque Hossain has dismissed claims that ousted prime minister Sheikh Hasina will return to Bangladesh in December as political propaganda.",
+      "Newspaper context note": "Ishraque Hossain calls claims of Hasina's December return political propaganda.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Claims of Hasina's return in Dec are political propaganda: Ishraque",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401",
+      "BCS / Bank relevance": "BCS/Bank English and polity vocabulary — propaganda is a frequent comprehension word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "eligibility",
+      "IPA": "/ˌelɪdʒəˈbɪləti/",
+      "Bangla phonetic": "এলিজিবিলিটি",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "যোগ্যতা; কোনো কিছুর জন্য উপযুক্ত হওয়া",
+      "English definition": "The state of being qualified or entitled to do or receive something.",
+      "Synonyms": "qualification; suitability; entitlement; fitness",
+      "Antonyms": "ineligibility; disqualification",
+      "Word family / derivatives": "eligible; ineligible; eligibly",
+      "Collocations / patterns": "eligibility criteria; meet the eligibility; check eligibility",
+      "Original example": "Meanwhile, while the minimum eligibility criteria for applying to undergraduate programmes remain unchanged, admission requirements for some departments under different faculties and institutes have been relaxed.",
+      "Newspaper context note": "DU's minimum eligibility criteria for admission remain unchanged, though some requirements were relaxed.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "DU admission applications opens, fees increased for four units",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/yn8t4d7jwg",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — eligibility criteria appear in job circulars and admission notices.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "allegation",
+      "IPA": "/ˌæləˈɡeɪʃən/",
+      "Bangla phonetic": "অ্যালিগেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অভিযোগ; প্রমাণ ছাড়া দোষারোপ",
+      "English definition": "A claim that someone has done something wrong, made without proof.",
+      "Synonyms": "accusation; charge; claim; assertion",
+      "Antonyms": "exoneration; vindication; denial",
+      "Word family / derivatives": "allege; alleged; allegedly",
+      "Collocations / patterns": "face allegations; deny allegations; allegations raised",
+      "Original example": "In his lengthy statement, the home minister spoke about recent labour protests, the government's position against attempts to create instability, allegations raised by the opposition and the overall law and order situation.",
+      "Newspaper context note": "The Home Minister addressed allegations raised by the opposition in his Parliament statement.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Fascist Awami forces will never be able to return: Home Minister tells Parliament",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su",
+      "BCS / Bank relevance": "BCS/Bank legal and polity vocabulary — allegation/alleged are standard news words.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "restraint",
+      "IPA": "/rɪˈstreɪnt/",
+      "Bangla phonetic": "রিস্ট্রেইন্ট",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সংযম; আত্মনিয়ন্ত্রণ; নিজেকে নিয়ন্ত্রণে রাখা",
+      "English definition": "Self-control; the quality of holding back from excess or force.",
+      "Synonyms": "self-control; moderation; discipline; forbearance",
+      "Antonyms": "excess; indulgence; abandon; recklessness",
+      "Word family / derivatives": "restrain; restrained; unrestrained",
+      "Collocations / patterns": "show restraint; exercise restraint; government's restraint",
+      "Original example": "However, he said, the fallen fascist forces had begun taking advantage of the government's restraint.",
+      "Newspaper context note": "The Home Minister said the fallen forces had taken advantage of the government's restraint.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Fascist Awami forces will never be able to return: Home Minister tells Parliament",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — restraint is a frequent word in polity and editorial English.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "indiscriminate",
+      "IPA": "/ˌɪndɪˈskrɪmɪnət/",
+      "Bangla phonetic": "ইনডিসক্রিমিনেট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নির্বিচার; ভালো-মন্দ না বেছে করা",
+      "English definition": "Done without care or judgement; affecting everyone equally, whether guilty or not.",
+      "Synonyms": "random; haphazard; wholesale; unselective",
+      "Antonyms": "selective; discriminating; targeted; careful",
+      "Word family / derivatives": "discriminate; discrimination; indiscriminately",
+      "Collocations / patterns": "indiscriminate arrests; indiscriminate firing; indiscriminate use",
+      "Original example": "However, the IGP also advised against indiscriminate arrests.",
+      "Newspaper context note": "The police chief advised against indiscriminate arrests while acting against sabotage.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Govt takes tough stance to prevent sabotage, BNP to remain active on the streets",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/p03w2mzspb",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — indiscriminate is a classic advanced adjective in English sections.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "transfer",
+      "IPA": "/ˈtrænsfɜːr/",
+      "Bangla phonetic": "ট্রান্সফার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "হস্তান্তর; এক জায়গা থেকে অন্য জায়গায় দেওয়া",
+      "English definition": "The act of moving someone or something from one place, person or position to another.",
+      "Synonyms": "handover; relocation; conveyance; shift",
+      "Antonyms": "retention; keeping",
+      "Word family / derivatives": "transferable; transferee; transference; transfer (verb)",
+      "Collocations / patterns": "prisoner transfer; transfer process; transfer of power",
+      "Original example": "In response, Acting Foreign Minister Humayun Kabir said that Bangladesh seeks her extradition under an 'acceptable prisoner transfer process'.",
+      "Newspaper context note": "Dhaka seeks Hasina's extradition under an 'acceptable prisoner transfer process'.",
+      "Source publication": "The Hindu",
+      "Article headline": "Sheikh Hasina's return to Bangladesh: the hurdles, the risks and the politics | Explained",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece",
+      "BCS / Bank relevance": "BCS/Bank legal and polity vocabulary — transfer is a core word in extradition and posting contexts.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "entrepreneur",
+      "IPA": "/ˌɒntrəprəˈnɜːr/",
+      "Bangla phonetic": "অন্ট্রাপ্রেনার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উদ্যোক্তা; ব্যবসায়ী",
+      "English definition": "A person who starts and runs a business, taking financial risks in the hope of profit.",
+      "Synonyms": "businessperson; founder; industrialist; investor",
+      "Antonyms": "employee; wage-earner",
+      "Word family / derivatives": "entrepreneurship; entrepreneurial; entrepreneurially",
+      "Collocations / patterns": "invite entrepreneurs; young entrepreneurs; Kuwaiti entrepreneurs",
+      "Original example": "FBCCI administrator highlighted the longstanding friendly relations between the two countries and invited Kuwaiti entrepreneurs to invest in Bangladesh.",
+      "Newspaper context note": "The FBCCI administrator invited Kuwaiti entrepreneurs to invest in Bangladesh.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh, Kuwait eye joint investment in ceramics, leather sectors",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806",
+      "BCS / Bank relevance": "BCS/Bank economy vocabulary — entrepreneur/entrepreneurship are standard business words.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "concessional",
+      "IPA": "/kənˈseʃənəl/",
+      "Bangla phonetic": "কনসেশনাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "রেয়াতি; সহজ শর্তে দেওয়া (ঋণ)",
+      "English definition": "(Of a loan) given on generous terms, with low interest and a long repayment period.",
+      "Synonyms": "preferential; subsidised; soft (loan); low-interest",
+      "Antonyms": "commercial; market-rate; hard (loan)",
+      "Word family / derivatives": "concession; concede; concessionality",
+      "Collocations / patterns": "concessional debt; concessional finance; concessional loans",
+      "Original example": "World Bank data shows that multilateral creditors held about 39.8 percent of Bangladesh's external debt stock in 2025, while concessional debt accounted for about 32.8 percent.",
+      "Newspaper context note": "Concessional debt was about 32.8% of Bangladesh's external debt in 2025, the columnist writes.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangladesh needs a sustainable debt management policy",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606",
+      "BCS / Bank relevance": "BCS/Bank economy vocabulary — concessional finance is a key LDC-graduation term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "repayment",
+      "IPA": "/rɪˈpeɪmənt/",
+      "Bangla phonetic": "রিপেমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পরিশোধ; ধার শোধ করা",
+      "English definition": "The act of paying back money that is owed.",
+      "Synonyms": "reimbursement; settlement; amortisation; refund",
+      "Antonyms": "default; non-payment",
+      "Word family / derivatives": "repay; repayable; repaid",
+      "Collocations / patterns": "repayment obligations; loan repayment; repayment schedule",
+      "Original example": "It needs a regularly updated debt strategy that details borrowing by currency, interest rate, maturity and creditor, as well as annual repayment obligations.",
+      "Newspaper context note": "A debt strategy must detail annual repayment obligations, the columnist argues.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangladesh needs a sustainable debt management policy",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606",
+      "BCS / Bank relevance": "BCS/Bank banking and economy vocabulary — repayment is a standard loan word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "durable",
+      "IPA": "/ˈdjʊərəbəl/",
+      "Bangla phonetic": "ডিউরেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "টেকসই; স্থায়ী; দীর্ঘস্থায়ী",
+      "English definition": "Able to last a long time without breaking or wearing out; lasting.",
+      "Synonyms": "lasting; enduring; sustainable; long-lived",
+      "Antonyms": "fragile; short-lived; temporary; flimsy",
+      "Word family / derivatives": "durability; durably",
+      "Collocations / patterns": "durable stabilisation; durable goods; durable solution",
+      "Original example": "The debt-to-GDP ratio is concerning because the economy has not yet achieved durable stabilisation.",
+      "Newspaper context note": "The columnist warns the economy has not yet achieved durable stabilisation.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangladesh needs a sustainable debt management policy",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — durable is a frequent adjective in economy and development passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "biometric",
+      "IPA": "/ˌbaɪəʊˈmetrɪk/",
+      "Bangla phonetic": "বায়োমেট্রিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বায়োমেট্রিক; শারীরিক বৈশিষ্ট্য দিয়ে শনাক্তকরণ-সংক্রান্ত",
+      "English definition": "Relating to identification by physical characteristics such as fingerprints or facial features.",
+      "Synonyms": "fingerprint-based; face-recognition; identity-based",
+      "Antonyms": "manual; paper-based",
+      "Word family / derivatives": "biometrics; biometrically",
+      "Collocations / patterns": "biometric authentication; biometric verification; biometric data",
+      "Original example": "Customers' identities are verified through biometric authentication against National ID (NID) records in the Election Commission (EC) database.",
+      "Newspaper context note": "bKash says customer identities are verified through biometric authentication against NID records.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangladesh Bank questions bKash over more than 7,000 fake accounts",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301",
+      "BCS / Bank relevance": "BCS/Bank technology and banking vocabulary — biometric KYC is a current-affairs term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "cooperation",
+      "IPA": "/kəʊˌɒpəˈreɪʃən/",
+      "Bangla phonetic": "কোঅপারেশন",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সহযোগিতা; যৌথ কাজ",
+      "English definition": "Working together with others towards a shared goal.",
+      "Synonyms": "collaboration; partnership; teamwork; coordination",
+      "Antonyms": "conflict; competition; rivalry; opposition",
+      "Word family / derivatives": "cooperate; cooperative; cooperatively",
+      "Collocations / patterns": "strengthen cooperation; bilateral cooperation; climate cooperation",
+      "Original example": "Businesspeople from Bangladesh and Kuwait have expressed interest in exploring joint investment opportunities in several sectors, including ceramics, plastics and leather goods, aiming to expand bilateral trade and economic cooperation.",
+      "Newspaper context note": "Bangladesh and Kuwait aim to expand bilateral trade and economic cooperation through joint investment.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh, Kuwait eye joint investment in ceramics, leather sectors",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806",
+      "BCS / Bank relevance": "BCS/Bank foreign-policy vocabulary — cooperation is a core international-relations word.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Antonyms": "—",
+      "Article headline": "Workers and police chase each other in Ashulia, 70 factories shut, Gazipur calm",
+      "BCS / Bank relevance": "High — law and order, protests.",
+      "Bangla meaning": "নিক্ষিপ্ত বস্তু",
+      "Bangla phonetic": "প্রোজেক্টাইল",
+      "Collocations / patterns": "damaged by projectiles, throw projectiles",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/tvak5hvcod",
+      "English definition": "An object thrown or fired through the air, such as a stone or a bullet.",
+      "Headword / phrase": "projectile",
+      "IPA": "/prəˈdʒektaɪl/",
+      "Newspaper context note": "A police vehicle was damaged by projectiles thrown by protesters in Ashulia.",
+      "Original example": "A police vehicle was damaged by projectiles thrown by protesters.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "missile, object, stone",
+      "Word family / derivatives": "project (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "Medium — security, vocabulary.",
+      "Bangla meaning": "প্লাটুন",
+      "Bangla phonetic": "প্লাটুন",
+      "Collocations / patterns": "deploy platoons, 33 platoons",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A small military unit, typically of about 30 soldiers, commanded by a lieutenant.",
+      "Headword / phrase": "platoon",
+      "IPA": "/pləˈtuːn/",
+      "Newspaper context note": "Border Guard Bangladesh deployed 33 platoons to maintain security in industrial areas.",
+      "Original example": "BGB deployed 33 platoons to guard the industrial areas.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "squad, unit, detachment",
+      "Word family / derivatives": "platoon (noun)"
+    },
+    {
+      "Antonyms": "peace, order",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "High — law and order, policing.",
+      "Bangla meaning": "দাঙ্গা",
+      "Bangla phonetic": "রায়ট",
+      "Collocations / patterns": "riot control vehicles, riot police",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A violent disturbance of the peace by a crowd; (adjective) relating to such disturbances.",
+      "Headword / phrase": "riot",
+      "IPA": "/ˈraɪət/",
+      "Newspaper context note": "BGB deployed Armoured Personnel Carriers and Riot Control Vehicles to strengthen security.",
+      "Original example": "Riot control vehicles were deployed to strengthen security.",
+      "Part of speech / type": "noun / adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "uprising, disturbance, unrest",
+      "Word family / derivatives": "riot (verb), rioting (noun)"
+    },
+    {
+      "Antonyms": "fiat currency",
+      "Article headline": "RMG unrest: NBR orders freezing bank accounts of 100 suspected individuals",
+      "BCS / Bank relevance": "High — finance, digital money, crime.",
+      "Bangla meaning": "ক্রিপ্টোকারেন্সি",
+      "Bangla phonetic": "ক্রিপ্টোকারেন্সি",
+      "Collocations / patterns": "transactions through cryptocurrency, cryptocurrency payments",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/ongz3mbbmu",
+      "English definition": "A digital currency that uses cryptography for security and operates independently of a central bank.",
+      "Headword / phrase": "cryptocurrency",
+      "IPA": "/ˌkrɪptəʊˈkʌrənsi/",
+      "Newspaper context note": "The NBR found information about transactions through cryptocurrency, in addition to mobile financial services, linked to the unrest.",
+      "Original example": "Investigators found transactions through cryptocurrency and mobile financial services.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "digital currency, crypto",
+      "Word family / derivatives": "crypto (noun)"
+    },
+    {
+      "Antonyms": "calm, suppress",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — politics, law and order.",
+      "Bangla meaning": "উসকানি দেওয়া",
+      "Bangla phonetic": "ফোমেন্ট",
+      "Collocations / patterns": "foment unrest, foment disorder",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To deliberately stir up or encourage trouble, especially political unrest.",
+      "Headword / phrase": "foment",
+      "IPA": "/fəʊˈment/",
+      "Newspaper context note": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Original example": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "instigate, provoke, stir up",
+      "Word family / derivatives": "fomentation (noun)"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "on condition of anonymity",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "নাম প্রকাশ না করার শর্তে",
+      "English explanation": "Used when a source speaks to a reporter only if their name is not published.",
+      "Usage / register": "Formal, news reporting",
+      "Original example 1": "A party loyalist, speaking to AFP on condition of anonymity, compared the current situation to Hasina's return in 1981 after the assassination of her father and most of her family in a military coup.",
+      "Original example 2": "'The reason our leader Sheikh Hasina has applied for a passport is that she genuinely wants to return,' said a party leader based in the Indian city of Kolkata, who spoke on condition of anonymity because he is not authorised to speak to the media on the party's behalf.",
+      "Common collocations / grammar pattern": "speak on condition of anonymity; on condition of anonymity, said ...",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "Exam value": "Standard press-reporting phrase; appears in BCS English comprehension passages."
+    },
+    {
+      "Phrase": "self-imposed exile",
+      "Type": "Noun phrase",
+      "Bangla meaning": "স্বেচ্ছা নির্বাসন",
+      "English explanation": "Exile that a person chooses for themselves rather than being ordered by a court or government.",
+      "Usage / register": "Formal, political reporting",
+      "Original example 1": "Bangladesh's ousted leader Sheikh Hasina has vowed to return in December from self-imposed exile in India, where she has been in hiding since fleeing the uprising that toppled her government.",
+      "Original example 2": "Hasina has been living in self-imposed exile since August 2024 when she was toppled from power by a mass uprising against her authoritarian rule.",
+      "Common collocations / grammar pattern": "live in self-imposed exile; return from self-imposed exile",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "Exam value": "Political vocabulary; exile/self-imposed exile are standard BCS polity terms."
+    },
+    {
+      "Phrase": "ahead of Ramadan",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "রমজানের আগে",
+      "English explanation": "Before Ramadan begins; in preparation for Ramadan.",
+      "Usage / register": "Formal, business and economic reporting",
+      "Original example 1": "On Nov 8, the central bank directed banks to keep cash margins for opening Letters of Credit (LCs) for these commodities to a minimum ahead of Ramadan.",
+      "Original example 2": "90-day credit facility on 11 commodities imports to curb price hikes ahead of Ramadan.",
+      "Common collocations / grammar pattern": "ahead of Ramadan; ahead of the festival; ahead of schedule",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank eases import terms for 10 essential commodities before Ramadan",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://bdnews24.com/business/olts589riy",
+      "Exam value": "Common time phrase; 'ahead of' is a high-frequency BCS prepositional phrase."
+    },
+    {
+      "Phrase": "deferred payment",
+      "Type": "Noun phrase",
+      "Bangla meaning": "বিলম্বিত পরিশোধ",
+      "English explanation": "Payment postponed to a later date by agreement between buyer and seller.",
+      "Usage / register": "Formal, banking and trade",
+      "Original example 1": "Bangladesh Bank has instructed banks to allow imports of 10 essential commodities for Ramadan under a 90-day deferred payment facility to ensure steady supplies and keep prices affordable.",
+      "Original example 2": "Bangladesh Bank (BB) has allowed importers to bring in 11 types of essential commodities on deferred payment (loan) terms of up to 90 days to keep market prices stable and ensure normal supplies.",
+      "Common collocations / grammar pattern": "deferred payment facility; on deferred payment terms; 90-day deferred payment",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank eases import terms for 10 essential commodities before Ramadan",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://bdnews24.com/business/olts589riy",
+      "Exam value": "Trade-finance collocation; directly askable in BCS/Bank banking questions."
+    },
+    {
+      "Phrase": "due diligence",
+      "Type": "Noun phrase",
+      "Bangla meaning": "যথাযথ যাচাই",
+      "English explanation": "Careful checks made before a decision, especially to verify identity or facts.",
+      "Usage / register": "Formal, banking and legal",
+      "Original example 1": "Shamsuddin Haider Dalim, head of corporate communications at bKash, told The Daily Star that all bKash accounts are opened through either e-KYC or paper-based KYC, following the customer due diligence (CDD) protocol set out in the regulator's guidelines.",
+      "Original example 2": "All the accounts in question have been placed under Enhanced Due Diligence (EDD), and necessary risk mitigation measures have been taken, Dalim said.",
+      "Common collocations / grammar pattern": "customer due diligence; enhanced due diligence; conduct due diligence",
+      "Source publication": "The Daily Star",
+      "Article headline": "Bangladesh Bank questions bKash over more than 7,000 fake accounts",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301",
+      "Exam value": "Banking-compliance collocation; due diligence is a standard BCS/Bank term."
+    },
+    {
+      "Phrase": "law and order",
+      "Type": "Noun phrase",
+      "Bangla meaning": "আইনশৃঙ্খলা",
+      "English explanation": "The condition in which laws are obeyed and society is peaceful and stable.",
+      "Usage / register": "Formal, political and administrative",
+      "Original example 1": "In his lengthy statement, the home minister spoke about recent labour protests, the government's position against attempts to create instability, allegations raised by the opposition and the overall law and order situation.",
+      "Original example 2": "They never know whose sentiments might be hurt, where a group of people might suddenly emerge to vandalise the stage, or when the local administration might arrive and order the event to be stopped in the name of maintaining law and order.",
+      "Common collocations / grammar pattern": "law and order situation; maintain law and order; restore law and order",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Fascist Awami forces will never be able to return: Home Minister tells Parliament",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su",
+      "Exam value": "Core polity collocation; law and order is a standard BCS topic phrase."
+    },
+    {
+      "Phrase": "mass uprising",
+      "Type": "Noun phrase",
+      "Bangla meaning": "গণঅভ্যুত্থান",
+      "English explanation": "A large-scale popular revolt against a government or ruler.",
+      "Usage / register": "Formal, political",
+      "Original example 1": "Hasina has been living in self-imposed exile since August 2024 when she was toppled from power by a mass uprising against her authoritarian rule.",
+      "Original example 2": "Following the July 2024 mass uprising, the then commission's members resigned or were removed.",
+      "Common collocations / grammar pattern": "July mass uprising; mass uprising against; toppled by a mass uprising",
+      "Source publication": "The Guardian",
+      "Article headline": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+      "Exam value": "Core BCS polity term — the July 2024 mass uprising is the defining recent event."
+    },
+    {
+      "Phrase": "at the same time",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "একই সঙ্গে; একই সময়ে",
+      "English explanation": "Simultaneously; also — used to introduce a second, related point.",
+      "Usage / register": "Neutral, all registers",
+      "Original example 1": "At the same time, the process of bringing her back through an Interpol Red Notice has begun.",
+      "Original example 2": "At the same time, he said the government had never wanted to turn law enforcement agencies into a force of political repression, nor would it do so in the future.",
+      "Common collocations / grammar pattern": "at the same time as; at the same time, ...",
+      "Source publication": "The Business Standard",
+      "Article headline": "Claims of Hasina's return in Dec are political propaganda: Ishraque",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401",
+      "Exam value": "High-frequency linking phrase for BCS English writing and comprehension."
+    },
+    {
+      "Phrase": "in accordance with",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "অনুযায়ী; মোতাবেক",
+      "English explanation": "Following or obeying a rule, law, instruction or agreement.",
+      "Usage / register": "Formal, legal and administrative",
+      "Original example 1": "Law enforcement agencies will take necessary measures during operations in accordance with their right of private defence,' he said.",
+      "Original example 2": "Admission fees, including session charges, must be determined in accordance with the instructions of the Ministry of Education.",
+      "Common collocations / grammar pattern": "in accordance with the law; in accordance with instructions; act in accordance with",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Fascist Awami forces will never be able to return: Home Minister tells Parliament",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su",
+      "Exam value": "Standard formal phrase; 'in accordance with' is a BCS English staple."
+    },
+    {
+      "Phrase": "on behalf of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "পক্ষে; হয়ে",
+      "English explanation": "Acting for someone else; representing them.",
+      "Usage / register": "Formal",
+      "Original example 1": "On Monday, a British lawyer acting on behalf of Hasina wrote to the Bangladesh high commission in Delhi requesting a new passport and national identity card to be issued 'in a timely fashion', in a letter seen by the Guardian.",
+      "Original example 2": "Bangladesh Bank CIB Director Md Shafiqul Islam and Karmasangsthan Bank Managing Director Arun Kumar Chowdhury signed on behalf of their respective institutions.",
+      "Common collocations / grammar pattern": "act on behalf of; sign on behalf of; speak on behalf of",
+      "Source publication": "The Guardian",
+      "Article headline": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+      "Exam value": "High-frequency formal phrase for BCS English and letter-writing."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "The word 'irregularities' most nearly means —",
+      "options": {
+        "A": "regular routines",
+        "B": "official approvals from the authorities",
+        "C": "rule-breaking acts",
+        "D": "public ceremonies"
+      },
+      "correct": "C",
+      "explanation": "Irregularities are actions that break rules; experts demanded a probe into alleged irregularities in the BRT project.",
+      "source": "CA02"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "The word 'infrastructure' most nearly means —",
+      "options": {
+        "A": "basic physical systems such as roads and transport",
+        "B": "government offices where officials sit and work all day",
+        "C": "bank accounts for saving and spending money",
+        "D": "school curricula for the subjects taught in class"
+      },
+      "correct": "A",
+      "explanation": "Infrastructure means the basic physical systems of a country; nearly 97% of the BRT infrastructure was complete.",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "The word 'extradition' most nearly means —",
+      "options": {
+        "A": "a passport application filed with the immigration authorities",
+        "B": "a prison sentence handed down by a court",
+        "C": "a diplomatic visit between two governments",
+        "D": "handing an accused person over to another country"
+      },
+      "correct": "D",
+      "explanation": "Extradition is the formal handover of an accused person; Dhaka seeks Hasina's extradition from India.",
+      "source": "CA05"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "The word 'rhetoric' most nearly means —",
+      "options": {
+        "A": "a legal verdict delivered by a judge in court",
+        "B": "persuasive but exaggerated language",
+        "C": "a secret meeting held in private",
+        "D": "a trade deal between two countries"
+      },
+      "correct": "B",
+      "explanation": "Rhetoric is language designed to persuade; analysts called the return pledge rhetoric to rally supporters.",
+      "source": "CA05"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "The word 'defiance' most nearly means —",
+      "options": {
+        "A": "open resistance to authority",
+        "B": "quiet agreement with a decision, given without protest",
+        "C": "a legal appeal in court",
+        "D": "a public apology for a fault"
+      },
+      "correct": "A",
+      "explanation": "Defiance is open resistance; Hasina's defiance was her vow to return despite the death sentence.",
+      "source": "CA05"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "The word 'prosecutor' most nearly means —",
+      "options": {
+        "A": "a defence lawyer who argues for the accused in court",
+        "B": "a judge who decides cases in court",
+        "C": "a witness who gives evidence at a trial",
+        "D": "a lawyer who brings charges for the state"
+      },
+      "correct": "D",
+      "explanation": "A prosecutor brings criminal charges for the state; prosecutor Md Aminul Islam secured the death sentence.",
+      "source": "CA05"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "The word 'deferred' most nearly means —",
+      "options": {
+        "A": "paid at once, in full and without delay",
+        "B": "cancelled and never done",
+        "C": "postponed to a later time",
+        "D": "doubled in size or amount"
+      },
+      "correct": "C",
+      "explanation": "Deferred means postponed; imports were allowed under a 90-day deferred payment facility.",
+      "source": "CA06"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "The word 'circular' (noun) most nearly means —",
+      "options": {
+        "A": "a round table where people sit to talk",
+        "B": "an official written notice",
+        "C": "a bank loan for a customer",
+        "D": "a trade fair in a big hall"
+      },
+      "correct": "B",
+      "explanation": "A circular is an official notice; Bangladesh Bank's FEPD issued a circular on Ramadan imports.",
+      "source": "CA06"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "The word 'propaganda' most nearly means —",
+      "options": {
+        "A": "information spread to promote a political cause",
+        "B": "a court verdict delivered by a judge after a trial",
+        "C": "a weather report about rain, heat or storms",
+        "D": "a sports result from a match just played"
+      },
+      "correct": "A",
+      "explanation": "Propaganda is information spread for a political cause; Ishraque called the return claims political propaganda.",
+      "source": "CA07"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "The word 'eligibility' most nearly means —",
+      "options": {
+        "A": "a test score showing marks in an exam",
+        "B": "a fee receipt proving payment",
+        "C": "being qualified for something",
+        "D": "a graduation certificate"
+      },
+      "correct": "C",
+      "explanation": "Eligibility is being qualified; DU's minimum eligibility criteria for admission were unchanged.",
+      "source": "CA08"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "A source who speaks 'on condition of anonymity' —",
+      "options": {
+        "A": "gives their full name and address to the reporter",
+        "B": "speaks only to the police",
+        "C": "refuses to answer any question at all",
+        "D": "speaks only if their name is not published"
+      },
+      "correct": "D",
+      "explanation": "The phrase means the source's name must not be published; a party loyalist spoke to AFP on condition of anonymity.",
+      "source": "CA05"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "'Due diligence' in banking means —",
+      "options": {
+        "A": "paying a fine imposed by a court for breaking a rule",
+        "B": "careful checks to verify identity or facts",
+        "C": "closing an account held at a bank",
+        "D": "issuing a loan to a borrower who applies"
+      },
+      "correct": "B",
+      "explanation": "Due diligence means careful verification checks; bKash accounts follow the customer due diligence protocol.",
+      "source": "CA15"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "How much had been spent on the Dhaka-Gazipur BRT project when experts opposed scrapping its lanes?",
+      "options": {
+        "A": "About Tk2,800 crore",
+        "B": "About Tk45 crore",
+        "C": "About Tk1,686 crore",
+        "D": "About Tk50,000 crore"
+      },
+      "correct": "A",
+      "explanation": "About Tk2,800 crore was spent and nearly 97% of the infrastructure was complete; Tk45 crore is the demolition cost.",
+      "source": "CA02"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "What did Sheikh Hasina tell AFP about her planned return?",
+      "options": {
+        "A": "She will return only after the next national election is held",
+        "B": "She vowed to return in December, saying fear cannot decide her duty",
+        "C": "She has applied for political asylum in India, reports say",
+        "D": "She will appeal the verdict first and then wait for the outcome in India"
+      },
+      "correct": "B",
+      "explanation": "She vowed to return in December, saying 'fear cannot decide' her 'duty to the people'.",
+      "source": "CA05"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "Under Bangladesh Bank's Ramadan facility, importers of the 10 essentials may pay —",
+      "options": {
+        "A": "only in cash on arrival at the port",
+        "B": "after 30 days from the date of shipment",
+        "C": "within 90 days through supplier's or buyer's credit",
+        "D": "only after Ramadan ends and the special facility closes"
+      },
+      "correct": "C",
+      "explanation": "The 90-day deferred payment facility runs through supplier's or buyer's credit, in force until 15 March 2027.",
+      "source": "CA06"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "According to Ishraque Hossain, how does the government want Sheikh Hasina brought back?",
+      "options": {
+        "A": "By a general amnesty covering all past cases, charges and verdicts",
+        "B": "By a direct flight arranged by her party from New Delhi",
+        "C": "By a UN resolution passed by the Security Council",
+        "D": "Through a prisoner exchange agreement and an Interpol Red Notice"
+      },
+      "correct": "D",
+      "explanation": "Ishraque said the government wants her back through a prisoner exchange agreement, and the Interpol Red Notice process has begun.",
+      "source": "CA07"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "For DU admission 2026-27, the application fee for the Science Unit rose from Tk1,050 to —",
+      "options": {
+        "A": "Tk1,200",
+        "B": "Tk1,400",
+        "C": "Tk1,500",
+        "D": "Tk1,050 (unchanged)"
+      },
+      "correct": "A",
+      "explanation": "Science, Arts/Law/Social Sciences and Business Studies fees rose to Tk1,200; Fine Arts to Tk1,400; IBA unchanged at Tk1,500.",
+      "source": "CA08"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "In his Rule 300 statement, the Home Minister compared the Awami League's flight with —",
+      "options": {
+        "A": "the fall of the Roman Empire long ago",
+        "B": "the Nazis' flight from Germany",
+        "C": "the 1971 war of independence",
+        "D": "the 2004 bus arson alone"
+      },
+      "correct": "B",
+      "explanation": "He said just as the Nazis could never return to Germany, the Awami forces will never return to Bangladesh.",
+      "source": "CA09"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "In the 24 hours from Monday morning to Tuesday morning, how many vehicles were set on fire across the country?",
+      "options": {
+        "A": "7",
+        "B": "19",
+        "C": "22",
+        "D": "28"
+      },
+      "correct": "C",
+      "explanation": "22 vehicles were set on fire; cocktail explosions hit at least 28 places, 19 of them in Dhaka.",
+      "source": "CA10"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "At COP31, Prime Minister Tarique Rahman met Chinese Vice-President Han Zheng at —",
+      "options": {
+        "A": "10:10am in Dhaka",
+        "B": "the UN headquarters in New York",
+        "C": "the Bangladesh High Commission in London",
+        "D": "4:30pm local time in Antalya"
+      },
+      "correct": "D",
+      "explanation": "The bilateral meeting took place at 4:30pm local time at the COP31 venue in Antalya, Turkiye.",
+      "source": "CA11"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "Who was present with the Prime Minister at his COP31 meeting with the Chinese Vice-President?",
+      "options": {
+        "A": "The Finance Minister of Bangladesh, who was in Dhaka",
+        "B": "State Minister for Foreign Affairs Humaiun Kobir",
+        "C": "The Bangladesh Bank Governor in Dhaka",
+        "D": "The Army Chief of Bangladesh"
+      },
+      "correct": "B",
+      "explanation": "State Minister for Foreign Affairs Humaiun Kobir was present at the meeting with Han Zheng.",
+      "source": "CA11"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "What did Sheikh Hasina seek from the Government of Bangladesh on 9 November?",
+      "options": {
+        "A": "A new passport and a national identity card",
+        "B": "A prisoner exchange agreement with India",
+        "C": "An Interpol Red Notice issued for her arrest",
+        "D": "A new birth certificate issued in Dhaka"
+      },
+      "correct": "A",
+      "explanation": "She sought a new passport and a national identity card on Monday, 9 November.",
+      "source": "CA12"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "At the 11 November online meeting, Bangladesh and Kuwait explored joint investment in —",
+      "options": {
+        "A": "garments, jute and tea exported from Bangladesh",
+        "B": "ships, steel and cement",
+        "C": "ceramics, plastics and leather goods",
+        "D": "oil, gas and coal from abroad"
+      },
+      "correct": "C",
+      "explanation": "The meeting explored joint investment in ceramics, plastics and leather goods.",
+      "source": "CA13"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "According to the World Bank's International Debt Report 2026 cited by the columnist, Bangladesh's external debt per person is about —",
+      "options": {
+        "A": "$564",
+        "B": "$38.77 billion",
+        "C": "15.7%",
+        "D": "$646"
+      },
+      "correct": "D",
+      "explanation": "About $646 per person; $564 is South Asia's average, $38.77 billion was the 2015 total, and 15.7% is the debt-service share of export earnings.",
+      "source": "CA14"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "Under which law did Bangladesh Bank seek an explanation from bKash?",
+      "options": {
+        "A": "The Bank Company Act, 1991, as amended",
+        "B": "Section 37 of the Payment and Settlement Act, 2024",
+        "C": "The Digital Security Act, 2018, for online offences",
+        "D": "The Money Laundering Prevention Act, 2012, in full"
+      },
+      "correct": "B",
+      "explanation": "The explanation was sought under Section 37 of the Payment and Settlement Act, 2024.",
+      "source": "CA15"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Yahoo News / AFP",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://bdnews24.com/business/olts589riy"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-10",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://en.prothomalo.com/youth/education/yn8t4d7jwg"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "",
+      "Publication date": "2026-11-10",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/p03w2mzspb"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/pm-tarique-chinese-vice-president-discuss-investment-climate-cooperation-1599941"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/first-page/pm-exchanges-views-with-world-leaders-1794421725"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Hindu",
+      "Headline / report": "",
+      "Publication date": "2026-11-10",
+      "Direct URL": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-11",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "",
+      "Publication date": "2026-11-10",
+      "Direct URL": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "",
+      "Publication date": "2026-11-10",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301"
+    }
+  ],
+  "approved_by": "Rudro",
+  "approval_notes": "Rudro tapped 'Approve the fixed Edition 6' on 2026-11-13 00:12 Dhaka. Fixed-mcq copy (longest-correct 21/25 -> 1/25, distractors lengthened only, 54 edits across 20 questions, no correct answer/question/explanation/story/word touched, letters unchanged) swapped in as draft-2026-11-12.json; original backed up as draft-2026-11-12-original.json. CEPA wording as drafted (flagged, not settled). Pack reviewed 17/17."
+}
