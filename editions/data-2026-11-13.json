@@ -164,18 +164,30 @@
       "category": "Economy & Banking",
       "event_date": "2026-11-12",
       "article_date": "2026-11-12",
-      "summary": "Bangladesh Bank's Financial Inclusion Department issued revamped guidelines on 12 November 2026 for its Tk1,500 crore revolving refinance scheme for marginal farmers, low-income professionals, small entrepreneurs, students and remittance-recipient families, replacing all previous circulars including FID Circular-01/2021. Banks get refinancing at 0.5% a year and may lend at most 5% a year, with at least 25% of the loans going to female entrepreneurs.",
-      "why_it_matters": "A Tk1,500 crore scheme at 0.5% refinance and 5% to borrowers, with a 25% women's share and Tk10 lakh individual cap, is exactly the kind of financial-inclusion policy BCS/Bank banking questions test.",
-      "exam_facts": "The scheme runs for five years on Bangladesh Bank's own funds; marginal and landless farmers holding Farmer Smart Cards under the Department of Agricultural Extension get priority loans up to Tk10 lakh; individual loans go up to Tk10 lakh and group loans up to Tk10 lakh per member with a maximum of Tk50 lakh per group; no security collateral can be demanded for loans up to Tk5 lakh, though personal guarantees may be required; loans carry a maximum grace period of 6 months and a total repayment tenor of up to 5 years, with interest calculated quarterly on a diminishing balance; under student banking, loans come with parental repayment guarantees for university, college and madrasa (Alim/Fazil) students, while school students can borrow for educational materials; FLAGGED — TBS reports different figures for the same scheme (refinance 1%, borrowers max 7%, group cap Tk40 lakh), so the rates and the group cap differ between sources and are not settled here.",
+      "summary": "Bangladesh Bank's Financial Inclusion Department issued revamped guidelines on 12 November 2026 for its Tk1,500 crore revolving refinance scheme for marginal farmers, low-income professionals, small entrepreneurs, students and remittance-recipient families, replacing all previous circulars including FID Circular-01/2021. Banks get refinancing at 1% a year and may lend at most 7% a year, with at least 25% of the loans going to female entrepreneurs.",
+      "why_it_matters": "A Tk1,500 crore scheme at 1% refinance and 7% to borrowers, with a 25% women's share and Tk10 lakh individual cap, is exactly the kind of financial-inclusion policy BCS/Bank banking questions test.",
+      "exam_facts": "The scheme runs for five years on Bangladesh Bank's own funds; marginal and landless farmers holding Farmer Smart Cards under the Department of Agricultural Extension get priority loans up to Tk10 lakh; individual loans go up to Tk10 lakh and group loans up to Tk8 lakh per member, for groups of two to five people, with a maximum of Tk40 lakh per group; no security collateral can be demanded for loans up to Tk5 lakh, though personal guarantees may be required; loans carry a maximum grace period of 6 months and a total repayment tenor of up to 5 years, with interest calculated quarterly on a diminishing balance; under student banking, loans come with parental repayment guarantees for university, college and madrasa (Alim/Fazil) students, while school students can borrow for educational materials; corrected 13 Nov 2026: TBS, Daily Inqilab and tob.news all report 1% refinance, 7% borrower max and a Tk40 lakh group cap.",
       "exam_relevance": "Financial inclusion, refinance schemes, SME and agricultural credit, women's entrepreneurship — core BCS/Bank banking topics.",
       "key_people": "Bangladesh Bank, Financial Inclusion Department; Department of Agricultural Extension",
-      "figures": "Tk1,500 crore revolving scheme; 5-year tenure; refinance to banks 0.5% a year; borrowers max 5% a year; at least 25% to female entrepreneurs; individual loans up to Tk10 lakh; group cap Tk50 lakh; no collateral up to Tk5 lakh; grace period up to 6 months; tenor up to 5 years.",
+      "figures": "Tk1,500 crore revolving scheme; 5-year tenure; refinance to banks 1% a year; borrowers max 7% a year; at least 25% to female entrepreneurs; individual loans up to Tk10 lakh; group cap Tk40 lakh; no collateral up to Tk5 lakh; grace period up to 6 months; tenor up to 5 years.",
       "sources": [
         {
           "publication": "MSN / UNB",
           "headline": "",
           "date": "2026-11-11",
           "url": "https://www.msn.com/en-xl/money/personalfinance/bangladesh-bank-issues-revamped-tk-1-500cr-refinance-scheme-for-financial-inclusion/ar-AA2hiqkg"
+        },
+        {
+          "publication": "Daily Times of Bangladesh (tob.news)",
+          "headline": "BB launches Tk1,500cr refinance scheme to boost grassroots entrepreneurship",
+          "date": "2026-11-12",
+          "url": "https://tob.news/bb-launches-tk1500cr-refinance-scheme-to-boost-grassroots-entrepreneurship/"
+        },
+        {
+          "publication": "Daily Inqilab",
+          "headline": "Govt Launches Tk 15 Billion Fund to Expand Financial Inclusion for Marginal Farmers, Small Entrepreneurs & Underserved Groups",
+          "date": "2026-11-12",
+          "url": "https://en.dailyinqilab.com/bangladesh-bank-launches-tk-1500-crore-loan-fund-for-marginal-farmers-and-small-entrepreneurs/"
         }
       ]
     },
@@ -202,22 +214,28 @@
     },
     {
       "id": "CA10",
-      "headline": "Bangladesh Bank sets strict qualifications for CFO, CTO and company secretary posts",
+      "headline": "Bangladesh Bank sets strict qualifications for CFO, CITO and company secretary posts at NBFIs",
       "category": "Economy & Banking",
       "event_date": "2026-11-12",
       "article_date": "2026-11-12",
-      "summary": "Bangladesh Bank has set strict eligibility criteria for appointments to three senior posts — chief financial officer, chief information technology officer and company secretary — across all banks and financial institutions, in a directive issued on 12 November 2026. Candidates convicted of criminal offences, regulatory violations, corruption or moral turpitude are barred, as are loan defaulters and bankrupts, and no prior approval from Bangladesh Bank is required for the appointments.",
-      "why_it_matters": "The 10-year and 8-year experience rules, the Tk1,000 crore threshold and the fit-and-proper bars are the testable facts of a new banking-governance rule — and the post is CTO, not CITO, in the cited version.",
-      "exam_facts": "For CFOs at institutions with loans and investments above Tk1,000 crore, candidates need at least 10 years' experience including 3 years in accounting and taxation; below Tk1,000 crore the minimum is 8 years including 3 years in accounting and tax work; CFO candidates need a master's in finance, accounting or bank management (MBM) or a postgraduate degree in finance, accounting or banking, with CA, CMA or CFA preferred; a CTO needs at least 8 years in IT including 5 years in banks or financial institutions, with a bachelor's in IT, computer science, physics, applied physics, mathematics, statistics or EEE; a company secretary needs 8 years in a bank or financial institution including 4 years in board secretariat or compliance, or 3 years as a company secretary at a listed company, plus a Chartered Secretary qualification recognised by the Institute of Chartered Secretaries of Bangladesh and at least a bachelor's degree; FLAGGED — TBS frames the same directive as applying to non-bank financial institutions only, calls the post CITO, and adds a 31 December 2029 deadline for existing officials, a three-month cap on acting appointments and a full-time-only rule, none of which appear in the UNB version cited here, so the scope and those extra details differ between sources and are not settled.",
+      "summary": "Bangladesh Bank has set strict eligibility criteria for appointments to three senior posts — chief financial officer, chief information technology officer (CITO) and company secretary — at non-bank financial institutions (NBFIs), in a directive issued on 12 November 2026. Candidates convicted of criminal offences, regulatory violations, corruption or moral turpitude are barred, as are loan defaulters and bankrupts, and no prior approval from Bangladesh Bank is required for the appointments.",
+      "why_it_matters": "The 10-year and 8-year experience rules, the Tk1,000 crore threshold and the fit-and-proper bars are the testable facts of a new banking-governance rule — and the post is CITO — Bangladesh Bank’s own term since its 2018 circular — and the rule covers NBFIs only.",
+      "exam_facts": "For CFOs at institutions with loans outstanding above Tk1,000 crore, candidates need at least 10 years' experience including 3 years in accounting and taxation; below Tk1,000 crore the minimum is 8 years including 3 years in accounting and tax work; CFO candidates need a master's in finance, accounting or bank management (MBM) or a postgraduate degree in finance, accounting or banking, with CA, CMA or CFA preferred; a CITO needs at least 8 years in IT including 5 years in banks or financial institutions, with a bachelor's in IT, computer science, physics, applied physics, mathematics, statistics or EEE; a company secretary needs 8 years in a bank or financial institution including 4 years in board secretariat or compliance, or 3 years as a company secretary at a listed company, plus a Chartered Secretary qualification recognised by the Institute of Chartered Secretaries of Bangladesh and at least a bachelor's degree; corrected 13 Nov 2026: TBS confirms the directive covers NBFIs only, calls the post CITO, and adds a 31 December 2029 deadline for existing officials, a three-month cap on acting appointments and a full-time-only rule. Existing officials who do not fully meet the criteria have until 31 December 2029 to do so; the posts must be filled full-time (no contractual or part-time appointments), and an acting appointment may last at most three months.",
       "exam_relevance": "Banking governance, fit-and-proper criteria, NBFI regulation, professional qualifications — core BCS/Bank banking topics.",
       "key_people": "Bangladesh Bank; Institute of Chartered Secretaries of Bangladesh",
-      "figures": "CFO: 10 years above Tk1,000 crore, 8 years below, both including 3 years in accounting/tax; CTO: 8 years in IT including 5 in banks/FIs; company secretary: 8 years including 4 in board secretariat/compliance, or 3 years as company secretary at a listed company.",
+      "figures": "CFO: 10 years above Tk1,000 crore, 8 years below, both including 3 years in accounting/tax; CITO: 8 years in IT including 5 in banks/FIs; company secretary: 8 years including 4 in board secretariat/compliance, or 3 years as company secretary at a listed company.",
       "sources": [
         {
           "publication": "MSN / UNB",
           "headline": "",
           "date": "2026-11-12",
           "url": "https://www.msn.com/en-xl/money/executive-leadership-and-management/bangladesh-bank-sets-strict-qualifications-for-cfo-cto-and-company-secretary-posts/ar-AA2hiOpL"
+        },
+        {
+          "publication": "The Business Standard",
+          "headline": "BB sets new eligibility criteria for CFOs, company secretaries at NBFIs",
+          "date": "2026-11-12",
+          "url": "https://www.tbsnews.net/economy/banking/bb-sets-new-eligibility-criteria-cfos-company-secretaries-nbfis-1600966"
         }
       ]
     },
@@ -1115,7 +1133,7 @@
         "D": "The government printing new currency"
       },
       "correct": "B",
-      "explanation": "Under the scheme, participating banks secure refinancing from Bangladesh Bank at 0.5% a year and lend onward at most 5%. (CA08)",
+      "explanation": "Under the scheme, participating banks secure refinancing from Bangladesh Bank at 1% a year and lend onward at most 7%. (CA08)",
       "source": "CA08"
     },
     {
@@ -1143,7 +1161,7 @@
         "D": "Serious dishonesty or depravity"
       },
       "correct": "D",
-      "explanation": "Moral turpitude is serious dishonesty or depraved conduct. People convicted of it are barred from the CFO, CTO and company secretary posts. (CA10)",
+      "explanation": "Moral turpitude is serious dishonesty or depraved conduct. People convicted of it are barred from the CFO, CITO and company secretary posts. (CA10)",
       "source": "CA10"
     },
     {
@@ -1247,15 +1265,15 @@
     {
       "no": 20,
       "section": "Current Affairs",
-      "question": "Under the refinance scheme as reported by UNB, what is the maximum interest banks may charge borrowers?",
+      "question": "Under the refinance scheme, what is the maximum interest banks may charge borrowers?",
       "options": {
         "A": "0.5% per annum",
         "B": "1% per annum",
         "C": "7% per annum",
         "D": "5% per annum"
       },
-      "correct": "D",
-      "explanation": "UNB reports banks get refinancing at 0.5% and may lend at most 5% a year. TBS reports different figures (1% and 7%) — flagged, not settled. (CA08)",
+      "correct": "C",
+      "explanation": "Banks get refinancing at 1% and may charge borrowers at most 7% a year — TBS, Daily Inqilab and tob.news all report the same figures; UNB’s 0.5%/5% were wrong. (CA08)",
       "source": "CA08"
     },
     {
@@ -1283,7 +1301,7 @@
         "D": "At least 3 years"
       },
       "correct": "B",
-      "explanation": "Above Tk1,000 crore in loans and investments, a CFO needs at least 10 years' experience, including 3 years in accounting and taxation. (CA10)",
+      "explanation": "Above Tk1,000 crore in loans outstanding, a CFO needs at least 10 years' experience, including 3 years in accounting and taxation. (CA10)",
       "source": "CA10"
     },
     {
@@ -1429,6 +1447,6 @@
       "Direct URL": "https://www.thedailystar.net/opinion/views/news/what-holding-back-the-health-sectors-development-spending-4321416"
     }
   ],
-  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
-  "approval_notes": "AUTO-PUBLISHED under Rudro's rule of 2026-11-13 00:18 Dhaka: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this auto-published edition; the operator verified lead figures against the fetched source texts for CA01, CA02, CA04, CA08, CA10 and CA13. Two figure conflicts flagged, not settled: CA08 refinance rates/group cap (UNB 0.5%/5%/Tk50 lakh vs TBS 1%/7%/Tk40 lakh) and CA10 C-suite scope/extras (UNB: all banks+FIs, CTO; TBS: NBFIs-only, CITO, plus 31 Dec 2029 deadline and acting cap not in UNB)."
+  "approved_by": "Rudro (fix approval 2026-11-13 12:13 Dhaka) + auto-17/17 (original auto-publish)",
+  "approval_notes": "AUTO-PUBLISHED under Rudro's rule of 2026-11-13 00:18 Dhaka: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this auto-published edition; the operator verified lead figures against the fetched source texts for CA01, CA02, CA04, CA08, CA10 and CA13. Two figure conflicts flagged, not settled: CA08 refinance rates/group cap (UNB 0.5%/5%/Tk50 lakh vs TBS 1%/7%/Tk40 lakh) and CA10 C-suite scope/extras (UNB: all banks+FIs, CTO; TBS: NBFIs-only, CITO, plus 31 Dec 2029 deadline and acting cap not in UNB). CORRECTION APPROVED by Rudro 2026-11-13 12:13 Dhaka (tapped 'Approve the fixed Edition 7'): fixed copy swapped in as the live edition; CA08 refinance rates corrected 0.5%/5% -> 1%/7%, group cap Tk50 lakh -> Tk40 lakh; CA10 scope NBFIs only, CTO -> CITO, 31 Dec 2029 deadline added; MCQ 10 explanation and MCQ 20 (correct D -> C) corrected. Verified against TBS, Daily Inqilab and tob.news full texts."
 }

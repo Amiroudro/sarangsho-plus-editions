@@ -160,17 +160,17 @@
    "edition_date": "2026-11-13",
    "file": "data-2026-11-13.json",
    "status": "published",
-   "review": "17/17 checks passed; auto-published under Rudro's rule (17/17 + longest-correct 0/25); pack: agent",
+   "review": "17/17 checks passed; auto-published under Rudro's rule (17/17 + longest-correct 0/25); pack: agent. CORRECTION 13 Nov 12:13 (Rudro approved): CA08 refinance rates 0.5%/5% -> 1%/7%, group cap Tk50 lakh -> Tk40 lakh; CA10 NBFIs only, CTO -> CITO, 31 Dec 2029 deadline; MCQ 20 answer D -> C.",
    "stories": 13,
    "words": 20,
    "phrases": 10,
    "mcqs": 25,
    "revision_words": 5,
-   "sources": 14,
+   "sources": 17,
    "coverage": "12 Nov 2026, 7:47 AM to 2026-11-13, 7:47 AM (Asia/Dhaka)"
   }
  ],
  "correct_consecutive_editions": 5,
- "correct_rule": "An edition counts as correct only if published after passing the full review checklist with no failures (17 checks since the 2026-11-11 audit fixes; 12 checks before). Backfilled editions Nov 1-6 each passed 12/12 but do not form a 7-long consecutive run with the forward editions (Nov 7 was not formally review-gated; Nov 8 was 11/12). Editions 9-11 Nov 2026 each passed 17/17 and are published, so the run is 3.",
- "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; stops at the human review gate, never auto-publishes."
+ "correct_rule": "An edition counts as correct only if published after passing the full review checklist with no failures (17 checks since the 2026-11-11 audit fixes; 12 checks before). Backfilled editions Nov 1-6 each passed 12/12 but do not form a 7-long consecutive run with the forward editions (Nov 7 was not formally review-gated; Nov 8 was 11/12). Editions 9-13 Nov 2026 each passed 17/17 and are published, so the run is 5.",
+ "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate."
 }
