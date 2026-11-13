@@ -160,7 +160,7 @@
    "edition_date": "2026-11-13",
    "file": "data-2026-11-13.json",
    "status": "published",
-   "review": "17/17 checks passed; auto-published under Rudro's rule (17/17 + longest-correct 0/25); pack: agent. CORRECTION 13 Nov 12:13 (Rudro approved): CA08 refinance rates 0.5%/5% -> 1%/7%, group cap Tk50 lakh -> Tk40 lakh; CA10 NBFIs only, CTO -> CITO, 31 Dec 2029 deadline; MCQ 20 answer D -> C.",
+   "review": "17/17 checks passed; auto-published under Rudro's rule (17/17 + longest-correct 0/25); pack: agent. CORRECTION 13 Nov 12:13 (Rudro approved): CA08 refinance rates 0.5%/5% -> 1%/7%, group cap Tk50 lakh -> Tk40 lakh; CA10 NBFIs only, CTO -> CITO, 31 Dec 2029 deadline; MCQ 20 answer D -> C. CORRECTION 13 Nov 22:56 (Rudro approved): CA10 exam_facts degree wording — CFO postgraduate in finance/accounting or MBA, CA/CMA/CFA holders need 5 years, company secretary postgraduate + Chartered Secretary; English now matches Bengali.",
    "stories": 13,
    "words": 20,
    "phrases": 10,
