@@ -1,0 +1,2084 @@
+{
+ "edition_date": "2026-11-14",
+ "edition_day": "Saturday",
+ "coverage": "7 Nov 2026, 7:47 AM to 2026-11-14, 7:47 AM (Asia/Dhaka)",
+ "status": "published",
+ "counts": {
+  "stories": 12,
+  "words": 20,
+  "phrases": 10,
+  "mcqs": 25,
+  "revision_words": 5
+ },
+ "stories": [
+  {
+   "id": "CA01",
+   "headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "category": "Economy & Banking",
+   "event_date": "2026-11-14",
+   "article_date": "2026-11-14",
+   "summary": "Garment workers blocked roads across Gazipur, Savar, Ashulia and Narayanganj for several days in early November, factories were vandalised, vehicles torched and the Border Guard Bangladesh deployed, with production suspended at 529 factories affecting nearly 987,000 workers. Point-to-point inflation stood at 8.34% in September, up from 8.26% in August, and the World Bank projects growth of only 3.4% in both FY2025-26 and FY2026-27.",
+   "why_it_matters": "The 529 factories, the 987,000 affected workers, the 8.34% inflation rate and the World Bank's 3.4% growth projection are the live numbers for any BCS/Bank answer on the garment unrest and the cost-of-living crisis — and the piece connects the unrest to the July Uprising's unresolved economic roots.",
+   "exam_facts": "Inflation has remained above 8% for years while wage growth has repeatedly failed to keep pace; the analysis says Bangladesh emerged from the July Uprising with a changed political order, but the two successive administrations inherited a broken economy left by the previous Awami regime, with the banking crisis unresolved, investment weak, energy shortages constraining production and the formal job market unable to absorb young people; the World Bank cites weaker investment, slowing exports and energy constraints behind its 3.4% projection; the piece warns the risk now looms over other sectors as the cost of living keeps rising.",
+   "exam_relevance": "Garment unrest, inflation, wage growth, World Bank growth projections, July Uprising economy — core BCS/Bank economy topics.",
+   "key_people": "Garment workers of Gazipur, Savar, Ashulia and Narayanganj; World Bank",
+   "figures": "529 factories with production suspended; nearly 987,000 workers affected; inflation 8.34% in September 2026 (8.26% in August); World Bank growth projection 3.4% in FY2025-26 and FY2026-27.",
+   "sources": [
+    {
+     "publication": "The Business Standard",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731"
+    }
+   ],
+   "one_liner": "Garment workers blocked roads across Gazipur, Savar, Ashulia and Narayanganj for several days in early November, factories were vandalised, vehicles…",
+   "key_facts": [
+    {
+     "label": "factories with production suspended",
+     "value": "529",
+     "original": "529 factories with production suspended"
+    },
+    {
+     "label": "nearly workers affected",
+     "value": "987,000",
+     "original": "nearly 987,000 workers affected"
+    },
+    {
+     "label": "8.26% in August",
+     "value": "inflation 8.34% in September 2026",
+     "original": "inflation 8.34% in September 2026 (8.26% in August)"
+    },
+    {
+     "label": "World Bank growth projection % in…",
+     "value": "3.4",
+     "original": "World Bank growth projection 3.4% in FY2025-26 and FY2026-27"
+    }
+   ],
+   "what_happened": [
+    "Point-to-point inflation stood at 8.34% in September, up from 8.26% in August, and the World Bank projects growth of only 3.4% in both FY2025-26 and FY2026-27."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is factories with production suspended?",
+     "a": "529"
+    },
+    {
+     "q": "What is nearly workers affected?",
+     "a": "987,000"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Garment workers blocked roads across Gazipur, Savar, Ashulia and Narayanganj for several days in early November, factories were vandalised, vehicles torched and the Border Guard Bangladesh deployed, with production suspended at ______ factories affecting nearly 987,000 workers.",
+     "answer": "529"
+    },
+    {
+     "cloze": "Point-to-point inflation stood at ______% in September, up from 8.26% in August, and the World Bank projects growth of only 3.4% in both FY2025-26 and FY2026-27.",
+     "answer": "8.34"
+    }
+   ],
+   "keywords": [
+    "economy & banking",
+    "economy",
+    "send",
+    "bangladeshis",
+    "back",
+    "streets"
+   ],
+   "detail": "Garment workers blocked roads across Gazipur, Savar, Ashulia and Narayanganj for several days in early November, factories were vandalised, vehicles torched and the Border Guard Bangladesh deployed, with production suspended at 529 factories affecting nearly 987,000 workers. Point-to-point inflation stood at 8.34% in September, up from 8.26% in August, and the World Bank projects growth of only 3.4% in both FY2025-26 and FY2026-27."
+  },
+  {
+   "id": "CA02",
+   "headline": "India declines comment on Hasina's possible return 'by military aircraft'",
+   "category": "Politics",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "India has declined to comment on former prime minister Sheikh Hasina's possible return to Bangladesh through military arrangements. At a media briefing in New Delhi on 13 November, foreign ministry spokesperson Randhir Jaiswal said his repeated references to the matter as a legal issue concern only the extradition process, adding: 'To the other part of your question, I have no comment to offer.'",
+   "why_it_matters": "Delhi's refusal to discuss the military-aircraft reports, while calling the matter a legal one only on extradition, is the latest hard fact for BCS/Bank questions on the Hasina extradition row and India-Bangladesh relations — and the two reported conditions frame the next round of the dispute.",
+   "exam_facts": "BBC Bangla reported on Thursday that India wanted Bangladesh's military to take responsibility for bringing Hasina back, preferably aboard a Bangladeshi military aircraft, and wanted assurances she could appeal against her death sentence and face a fresh trial over killings during the July 2024 uprising; the report, citing Indian government and military officials, said New Delhi set two conditions because Hasina's continued presence in India had become increasingly uncomfortable amid diplomatic and international pressure, while not wanting to appear to interfere in Bangladesh's independent judiciary; the foreign ministry said the next Dhaka-Delhi consular dialogue will be held on a mutually convenient date and will cover revised travel arrangements.",
+   "exam_relevance": "Extradition, India-Bangladesh relations, consular dialogue, judicial process — core BCS/Bank foreign-policy topics.",
+   "key_people": "Randhir Jaiswal, spokesperson, Indian Ministry of External Affairs; Sheikh Hasina, former prime minister",
+   "figures": "Briefing 13 November 2026; two conditions reported by BBC Bangla; consular dialogue to be held on a mutually convenient date.",
+   "sources": [
+    {
+     "publication": "The Business Standard",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661"
+    },
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/bangladesh/yqwv28wg4m"
+    }
+   ],
+   "one_liner": "India has declined to comment on former prime minister Sheikh Hasina's possible return to Bangladesh through military arrangements.",
+   "key_facts": [
+    {
+     "label": "",
+     "value": "Briefing 13 November 2026",
+     "original": "Briefing 13 November 2026"
+    },
+    {
+     "label": "",
+     "value": "two conditions reported by BBC Bangla",
+     "original": "two conditions reported by BBC Bangla"
+    }
+   ],
+   "what_happened": [
+    "At a media briefing in New Delhi on 13 November, foreign ministry spokesperson Randhir Jaiswal said his repeated references to the matter as a legal issue concern only the extradition process,",
+    "adding: 'To the other part of your question, I have no comment to offer.",
+    "'"
+   ],
+   "exam_qa": [],
+   "recall_cards": [
+    {
+     "cloze": "At a media briefing in New Delhi on ______, foreign ministry spokesperson Randhir Jaiswal said his repeated references to the matter as a legal issue concern only the extradition process, adding: 'To the other part of your question, I have no comment to offer.",
+     "answer": "13 November"
+    }
+   ],
+   "keywords": [
+    "politics",
+    "india",
+    "declines",
+    "comment",
+    "hasina",
+    "possible",
+    "return",
+    "military",
+    "aircraft"
+   ],
+   "detail": "India has declined to comment on former prime minister Sheikh Hasina's possible return to Bangladesh through military arrangements. At a media briefing in New Delhi on 13 November, foreign ministry spokesperson Randhir Jaiswal said his repeated references to the matter as a legal issue concern only the extradition process, adding: 'To the other part of your question, I have no comment to offer.'"
+  },
+  {
+   "id": "CA03",
+   "headline": "UK, Norway and Canada launch $10 billion climate finance initiative at COP31",
+   "category": "World",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Development finance institutions from Britain, Norway and Canada launched a joint initiative at COP31 in Antalya on 13 November to channel $10 billion into climate projects in emerging markets by 2030. Under a memorandum of understanding, British International Investment, Norway's Norfund and FinDev Canada will share investment pipelines, coordinate due diligence and cooperate on climate reporting.",
+   "why_it_matters": "A $10 billion joint facility from three state-backed lenders, with a 2030 deadline and named institutions, is the kind of concrete COP31 outcome BCS/Bank questions on climate finance ask for — and it shows how developing countries' calls for support are being answered.",
+   "exam_facts": "The $10 billion target includes private capital the partners expect to attract; funding will support renewable energy, electricity transmission and distribution grids, energy storage, sustainable fuels and industrial decarbonisation; UK Prime Minister Andy Burnham addressed the COP31 conference in Antalya on 12 November; the initiative comes as developing countries most exposed to climate disasters press for support while Western governments face competing priorities including national security and rising living costs.",
+   "exam_relevance": "Climate finance, COP31, development finance institutions, renewable energy investment — core BCS/Bank environment and international topics.",
+   "key_people": "Andy Burnham, Prime Minister of the United Kingdom; British International Investment; Norfund (Norway); FinDev Canada",
+   "figures": "$10 billion into climate projects in emerging markets by 2030; three state-backed lenders; launched 13 November 2026 at COP31, Antalya.",
+   "sources": [
+    {
+     "publication": "The Business Standard",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.tbsnews.net/world/uk-norway-and-canada-launch-10-billion-climate-finance-initiative-1601681"
+    }
+   ],
+   "one_liner": "Development finance institutions from Britain, Norway and Canada launched a joint initiative at COP31 in Antalya on 13 November to…",
+   "key_facts": [
+    {
+     "label": "into climate projects in emerging markets…",
+     "value": "$10 billion",
+     "original": "$10 billion into climate projects in emerging markets by 2030"
+    },
+    {
+     "label": "",
+     "value": "three state-backed lenders",
+     "original": "three state-backed lenders"
+    },
+    {
+     "label": "launched 13 November 2026 at COP…",
+     "value": "31,",
+     "original": "launched 13 November 2026 at COP31, Antalya"
+    },
+    {
+     "label": "The target includes private capital the…",
+     "value": "$10 billion",
+     "original": "The $10 billion target includes private capital the partners expect to attract"
+    }
+   ],
+   "what_happened": [
+    "Under a memorandum of understanding, British International Investment, Norway's Norfund and FinDev Canada will share investment pipelines, coordinate due diligence and cooperate on climate reporting."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is into climate projects in emerging markets…?",
+     "a": "$10 billion"
+    },
+    {
+     "q": "What is The target includes private capital the…?",
+     "a": "$10 billion"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Development finance institutions from Britain, Norway and Canada launched a joint initiative at COP31 in Antalya on ______ to channel $10 billion into climate projects in emerging markets by 2030.",
+     "answer": "13 November"
+    }
+   ],
+   "keywords": [
+    "world",
+    "norway",
+    "canada",
+    "launch",
+    "billion",
+    "climate",
+    "finance",
+    "initiative"
+   ],
+   "detail": "Development finance institutions from Britain, Norway and Canada launched a joint initiative at COP31 in Antalya on 13 November to channel $10 billion into climate projects in emerging markets by 2030. Under a memorandum of understanding, British International Investment, Norway's Norfund and FinDev Canada will share investment pipelines, coordinate due diligence and cooperate on climate reporting."
+  },
+  {
+   "id": "CA04",
+   "headline": "Fire at NCP MP Nusrat Tabassum's Kushtia home: petrol-bomb claim, parliament row, probe under way",
+   "category": "Politics",
+   "event_date": "2026-11-12",
+   "article_date": "2026-11-13",
+   "summary": "A fire broke out at the ancestral home of NCP leader and reserved-seat MP Nusrat Tabassum in Bagoan village, Daulatpur, Kushtia, in the small hours of 12 November. NCP leaders say videos purporting to be CCTV footage are consistent with a petrol bomb attack, while Home Minister Salahuddin Ahmed told parliament he believed no petrol bomb was used and a short circuit from old wiring was highly likely.",
+   "why_it_matters": "A fire at an MP's home, a petrol-bomb allegation against banned Awami League affiliates, a minister contradicting it in parliament and a rural electricity official ruling out a short circuit are the live facts for BCS/Bank questions on law and order, political violence and the July uprising's aftermath.",
+   "exam_facts": "Opposition Chief Whip Nahid Islam told parliament four petrol bombs had been thrown at the house and warned that if NCP families were attacked, BNP families would be next; a Kushtia rural electricity official, Tozammel Haque, inspected the meter, wiring and main switch and said the cut-out was intact, the transformer fuse had not blown and the main switch was undamaged, so there was no possibility of a short circuit; a four-member probe committee formed by the Ministry of Home Affairs visited the house at around 10:30 am on 13 November and questioned residents; Nusrat filed a case at Daulatpur police station alleging attempted murder through arson and an explosion, naming leaders of the banned Bangladesh Chhatra League, Jubo League and Swechchhasebak League; NCP leaders inspected the house on 13 November, found the meter and wiring apparently intact, and said they would publish a report; the home minister said a joint investigation by the Border Guard Bangladesh, fire service, administration and police was under way and action would follow if sabotage was established.",
+   "exam_relevance": "Political violence, law and order, parliamentary debate, investigation process — core BCS/Bank politics and governance topics.",
+   "key_people": "Nusrat Tabassum, NCP joint convener and reserved-seat MP; Salahuddin Ahmed, Home Minister; Nahid Islam, opposition Chief Whip and NCP convener; Abdullah Al Amin, NCP joint convener and MP; Tozammel Haque, Kushtia rural electricity official",
+   "figures": "Fire in the small hours of 12 November 2026; Nahid Islam says four petrol bombs were thrown; four-member probe committee; committee visited the house at around 10:30 am on 13 November.",
+   "sources": [
+    {
+     "publication": "The Business Standard",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.tbsnews.net/bangladesh/politics/ncp-leaders-accuse-home-minister-downplaying-attack-mp-nusrats-residence-1601691"
+    },
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/bangladesh/local-news/yh64q83nl9"
+    },
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/bangladesh/politics/brz9duk9fd"
+    }
+   ],
+   "one_liner": "A fire broke out at the ancestral home of NCP leader and reserved-seat MP Nusrat Tabassum in Bagoan village, Daulatpur,…",
+   "key_facts": [
+    {
+     "label": "",
+     "value": "Nahid Islam says four petrol bombs were thrown",
+     "original": "Nahid Islam says four petrol bombs were thrown"
+    },
+    {
+     "label": "",
+     "value": "four-member probe committee",
+     "original": "four-member probe committee"
+    },
+    {
+     "label": "committee visited the house at around…",
+     "value": "30",
+     "original": "committee visited the house at around 10:30 am on 13 November"
+    },
+    {
+     "label": "a four-member probe committee formed by…",
+     "value": "30",
+     "original": "a four-member probe committee formed by the Ministry of Home Affairs visited the house at around 10:30 am on 13 November and questioned residents"
+    }
+   ],
+   "what_happened": [
+    "NCP leaders say videos purporting to be CCTV footage are consistent with a petrol bomb attack,",
+    "while Home Minister Salahuddin Ahmed told parliament he believed no petrol bomb was used and a short circuit from old wiring was highly likely."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is committee visited the house at around…?",
+     "a": "30"
+    },
+    {
+     "q": "What is a four-member probe committee formed by…?",
+     "a": "30"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "A fire broke out at the ancestral home of NCP leader and reserved-seat MP Nusrat Tabassum in Bagoan village, Daulatpur, Kushtia, in the small hours of ______.",
+     "answer": "12 November"
+    }
+   ],
+   "keywords": [
+    "politics",
+    "fire",
+    "nusrat",
+    "tabassum",
+    "kushtia",
+    "home",
+    "petrol",
+    "bomb",
+    "claim",
+    "parliament",
+    "probe"
+   ],
+   "detail": "A fire broke out at the ancestral home of NCP leader and reserved-seat MP Nusrat Tabassum in Bagoan village, Daulatpur, Kushtia, in the small hours of 12 November. NCP leaders say videos purporting to be CCTV footage are consistent with a petrol bomb attack, while Home Minister Salahuddin Ahmed told parliament he believed no petrol bomb was used and a short circuit from old wiring was highly likely."
+  },
+  {
+   "id": "CA05",
+   "headline": "DU, JU and BUET shut doors on HSC supplementary candidates; most other universities adjust schedules",
+   "category": "Jobs & Education",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "The University of Dhaka and Bangladesh University of Engineering and Technology are not allowing students who pass the HSC supplementary examinations to sit for undergraduate admission tests, sticking to previously announced schedules, while most other universities are revising theirs. Of the 1,240,798 candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5.",
+   "why_it_matters": "A 52.12% pass rate, nearly half the candidates failing, supplementary exams for up to two subjects, and DU and BUET refusing supplementary passers while Chittagong and Rajshahi adjust are the live education facts for candidates and for BCS/Bank questions on admissions and education policy.",
+   "exam_facts": "The HSC and equivalent results were published on 31 October; supplementary examinations for students who failed in up to two subjects run from 1 December to 15 December, with results expected by late December; a University Grants Commission meeting on Monday decided public universities will begin accepting first-year applications from January, with admission tests from February; the University of Chittagong will accept online applications from 10 December to 10 January, with tests from 29 January to 8 February, and supplementary passers may register on the portal before their results; the University of Rajshahi will hold tests from 12 February, with applications from 15 November to 30 November, and supplementary passers get seven days to apply after their results; education stakeholders have urged universities that already announced test dates to reconsider.",
+   "exam_relevance": "HSC examinations, supplementary examinations, university admissions, UGC coordination — core BCS/Bank education topics.",
+   "key_people": "University Grants Commission; University of Dhaka; Bangladesh University of Engineering and Technology (BUET); Jahangirnagar University; University of Chittagong; University of Rajshahi",
+   "figures": "1,240,798 candidates; 646,685 passed; 52.12% pass rate; 40,084 GPA-5; supplementary examinations 1-15 December 2026; Chittagong tests 29 January-8 February 2027; Rajshahi tests from 12 February 2027.",
+   "sources": [
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/youth/education/sm22pntzlz"
+    }
+   ],
+   "one_liner": "The University of Dhaka and Bangladesh University of Engineering and Technology are not allowing students who pass the HSC supplementary…",
+   "key_facts": [
+    {
+     "label": "GPA-5",
+     "value": "40,084",
+     "original": "40,084 GPA-5"
+    },
+    {
+     "label": "",
+     "value": "supplementary examinations 1-15 December 2026",
+     "original": "supplementary examinations 1-15 December 2026"
+    },
+    {
+     "label": "Chittagong tests January-8 February 2027",
+     "value": "29",
+     "original": "Chittagong tests 29 January-8 February 2027"
+    },
+    {
+     "label": "",
+     "value": "Rajshahi tests from 12 February 2027",
+     "original": "Rajshahi tests from 12 February 2027"
+    }
+   ],
+   "what_happened": [
+    "Of the 1,240,798 candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5."
+   ],
+   "exam_qa": [],
+   "recall_cards": [
+    {
+     "cloze": "Of the ______ candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5.",
+     "answer": "1,240,798"
+    }
+   ],
+   "keywords": [
+    "jobs & education",
+    "buet",
+    "shut",
+    "doors",
+    "supplementary",
+    "candidates",
+    "most",
+    "other",
+    "universities",
+    "adjust",
+    "schedules"
+   ],
+   "detail": "The University of Dhaka and Bangladesh University of Engineering and Technology are not allowing students who pass the HSC supplementary examinations to sit for undergraduate admission tests, sticking to previously announced schedules, while most other universities are revising theirs. Of the 1,240,798 candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5."
+  },
+  {
+   "id": "CA06",
+   "headline": "From Kalabogi to COP31: columnist argues developed nations must take responsibility for the climate crisis",
+   "category": "Editorial & Opinion",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Columnist Naim-Ul-Karim Sanchaya writes from Kalabogi, a 'hanging' village on the Shibsa River in Dacope, Khulna, where homes on thatched and bamboo structures must be relocated several times a year as river erosion takes the land. He argues the central question at COP31 is who bears responsibility, and the answer is unambiguous: developed nations, whose historical emissions created the crisis, must take primary responsibility — 'not as charity, but as justice'.",
+   "why_it_matters": "The Kalabogi case — a village that moves several times a year — gives BCS/Bank candidates the human anchor for climate-justice answers, and the column's numbers (over 170 million people, under 0.5% of emissions, $300 billion promised by 2035) are the quotable core of Bangladesh's COP31 position.",
+   "exam_facts": "The columnist writes that Bangladesh, with over 170 million people, contributes less than 0.5% of global emissions yet sits on the frontlines of sea-level rise, salinity intrusion and increasingly violent cyclones; he argues the United States, which has again declined to attend the negotiations, cannot ignore its role as the world's largest historical emitter, while China and other emerging economies have responsibilities that differ in scale and timing; he writes that developed countries promised to mobilise $300 billion a year by 2035 to help vulnerable nations adapt, but that promises made at climate summits have a way of evaporating when the cameras leave; he says Bangladesh's environment minister has made clear poorer countries are paying the heaviest price for emissions largely generated by rich nations.",
+   "exam_relevance": "Climate justice, COP31, historical emissions, loss and damage, LDC climate diplomacy — core BCS/Bank environment topics.",
+   "key_people": "Naim-Ul-Karim Sanchaya, columnist; Abdul Awal Mintoo, Environment, Forest and Climate Change Minister",
+   "figures": "Over 170 million people; less than 0.5% of global emissions; $300 billion a year promised by 2035; COP31 in Antalya, Turkiye.",
+   "sources": [
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u"
+    }
+   ],
+   "one_liner": "Columnist Naim-Ul-Karim Sanchaya writes from Kalabogi, a 'hanging' village on the Shibsa River in Dacope, Khulna, where homes on thatched…",
+   "key_facts": [
+    {
+     "label": "Over people",
+     "value": "170 million",
+     "original": "Over 170 million people"
+    },
+    {
+     "label": "less than % of global emissions",
+     "value": "0.5",
+     "original": "less than 0.5% of global emissions"
+    },
+    {
+     "label": "a year promised by 2035",
+     "value": "$300 billion",
+     "original": "$300 billion a year promised by 2035"
+    },
+    {
+     "label": "COP in Antalya, Turkiye",
+     "value": "31",
+     "original": "COP31 in Antalya, Turkiye"
+    }
+   ],
+   "what_happened": [
+    "He argues the central question at COP31 is who bears responsibility, and the answer is unambiguous: developed nations,",
+    "whose historical emissions created the crisis, must take primary responsibility — 'not as charity, but as justice'."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is Over people?",
+     "a": "170 million"
+    },
+    {
+     "q": "What is less than % of global emissions?",
+     "a": "0.5"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "He argues the central question at COP______ is who bears responsibility, and the answer is unambiguous: developed nations, whose historical emissions created the crisis, must take primary responsibility — 'not as charity, but as justice'.",
+     "answer": "31"
+    }
+   ],
+   "keywords": [
+    "editorial & opinion",
+    "kalabogi",
+    "columnist",
+    "argues",
+    "developed",
+    "nations",
+    "must",
+    "take",
+    "responsibility",
+    "climate",
+    "crisis"
+   ],
+   "detail": "Columnist Naim-Ul-Karim Sanchaya writes from Kalabogi, a 'hanging' village on the Shibsa River in Dacope, Khulna, where homes on thatched and bamboo structures must be relocated several times a year as river erosion takes the land. He argues the central question at COP31 is who bears responsibility, and the answer is unambiguous: developed nations, whose historical emissions created the crisis, must take primary responsibility — 'not as charity, but as justice'."
+  },
+  {
+   "id": "CA07",
+   "headline": "Bangladesh presses for affordable climate finance at COP31 as Climate Investment Funds pledges $30m",
+   "category": "Bangladesh",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Bangladesh's delegation at COP31, led by Environment Minister Abdul Awal Mintoo, told a press briefing on 13 November that low-carbon development and the energy transition depend on predictable and affordable international finance. Under its NDC 3.0, Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035 from domestic resources, plus a further 13.92% conditional on international support — and the Climate Investment Funds has selected Bangladesh for up to $30 million for coastal protection and mangrove restoration.",
+   "why_it_matters": "The NDC 3.0 numbers (6.39% unconditional, 13.92% conditional), the $120 billion-a-year LDC adaptation demand and the $30 million CIF pledge are the exact figures for BCS/Bank questions on Bangladesh's climate negotiating position at COP31.",
+   "exam_facts": "The first four days of formal negotiations had concluded with several key agenda items still unresolved and no final outcomes reached; Bangladesh is working with the Least Developed Countries Group, the G77 and China for a balanced and ambitious outcome; the delegation called for the LDC Group's demand of $120 billion a year in adaptation funding before 2035, a clear pathway for pledged finance, and funding that reaches local communities; Bangladesh is pursuing rooftop solar, tree planting and canal restoration; the delegation raised concerns about the EU's Carbon Border Adjustment Mechanism and urged faster implementation of National Adaptation Plans and more resources for the Fund for Responding to Loss and Damage; the $30 million CIF funding was announced on Thursday at the Bangladesh Pavilion, where Bangladesh is among the first five countries to receive it, and the government is advancing preparations for international carbon credit trading; the World Meteorological Organization's 2026 update put the global average temperature for January to September at about 1.47°C above pre-industrial levels.",
+   "exam_relevance": "COP31 negotiations, NDC 3.0, climate finance, adaptation funding, carbon markets — core BCS/Bank environment and foreign-policy topics.",
+   "key_people": "Abdul Awal Mintoo, Environment, Forest and Climate Change Minister; Dr Md Saimum Parvez, Prime Minister's Special Assistant on Environment; Shama Obaid Islam, State Minister for Foreign Affairs; Sheikh Faridul Islam, State Minister for Environment, Forest and Climate Change",
+   "figures": "NDC 3.0: 6.39% unconditional + 13.92% conditional emissions cuts by 2035; LDC demand $120 billion a year in adaptation funding before 2035; CIF up to $30 million; global temperature about 1.47°C above pre-industrial (January-September 2026).",
+   "sources": [
+    {
+     "publication": "The Daily Observer",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.observerbd.com/news/605956"
+    },
+    {
+     "publication": "The Daily Observer",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.observerbd.com/news/605944"
+    }
+   ],
+   "one_liner": "Bangladesh's delegation at COP31, led by Environment Minister Abdul Awal Mintoo, told a press briefing on 13 November that low-carbon…",
+   "key_facts": [
+    {
+     "label": "NDC 3.0",
+     "value": "6.39% unconditional + 13.92% conditional emissions cuts by 2035",
+     "original": "NDC 3.0: 6.39% unconditional + 13.92% conditional emissions cuts by 2035"
+    },
+    {
+     "label": "LDC demand a year in adaptation…",
+     "value": "$120 billion",
+     "original": "LDC demand $120 billion a year in adaptation funding before 2035"
+    },
+    {
+     "label": "CIF up to",
+     "value": "$30 million",
+     "original": "CIF up to $30 million"
+    },
+    {
+     "label": "January-September 2026",
+     "value": "global temperature about 1.47°C above pre-industrial",
+     "original": "global temperature about 1.47°C above pre-industrial (January-September 2026)"
+    }
+   ],
+   "what_happened": [
+    "Under its NDC 3.0, Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035 from domestic resources,",
+    "plus a further 13.92% conditional on international support — and the Climate Investment Funds has selected Bangladesh for up to $30 million for coastal protection and mangrove restoration."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is CIF up to?",
+     "a": "$30 million"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Bangladesh's delegation at COP31, led by Environment Minister Abdul Awal Mintoo, told a press briefing on ______ that low-carbon development and the energy transition depend on predictable and affordable international finance.",
+     "answer": "13 November"
+    },
+    {
+     "cloze": "Under its NDC ______, Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035 from domestic resources, plus a further 13.92% conditional on international support — and the Climate Investment Funds has selected Bangladesh for up to $30 million for coastal protection and mangrove restoration.",
+     "answer": "3.0"
+    }
+   ],
+   "keywords": [
+    "bangladesh",
+    "presses",
+    "affordable",
+    "climate",
+    "finance",
+    "investment",
+    "funds",
+    "pledges"
+   ],
+   "detail": "Bangladesh's delegation at COP31, led by Environment Minister Abdul Awal Mintoo, told a press briefing on 13 November that low-carbon development and the energy transition depend on predictable and affordable international finance. Under its NDC 3.0, Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035 from domestic resources, plus a further 13.92% conditional on international support — and the Climate Investment Funds has selected Bangladesh for up to $30 million for coastal protection and mangrove restoration."
+  },
+  {
+   "id": "CA08",
+   "headline": "Healthcare decentralisation can work if staff and funds follow the equipment, columnist argues",
+   "category": "Editorial & Opinion",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Columnist Dr Syed Abdul Hamid writes that the Upazila Governance and Development Project, which ran from FY2015-16 to 31 December 2025, delivered more than 47,000 medical works, items and supplies across 408 upazilas, and an assessment of 158 upazilas found 91.88% of the 29,257 items distributed there operational. But he argues the same assessment exposed 'structural friction': 8.11% of the equipment — 2,375 units — was non-functional or underutilised, largely because specialists and funds did not follow the hardware.",
+   "why_it_matters": "The UGDP numbers (47,000 items, 408 upazilas, 91.88% operational, 8.11% idle) and the 'No Staff, No Stuff' prescription are the hard facts for BCS/Bank answers on rural healthcare, decentralisation and public-sector project design.",
+   "exam_facts": "The columnist writes that high-performing upazilas received typically Tk50 lakh a year on top of their Annual Development Programme block allocation, and upazilas invested over Tk113 crore in diagnostic tools and facility upgrades through decentralised procurement; he writes that anaesthesia machines sit idle without sanctioned junior anaesthesia consultants, X-ray and ultrasound units gather dust without radiologists, and ambulances arrive without trained drivers or fuel budgets, while repairs costing under Tk20,000 can sideline a machine for months; he argues over half of physician posts at many upazila health complexes are vacant in some divisions and Bangladesh's health workforce density remains below World Health Organization recommendations; his prescriptions include a 'No Staff, No Stuff' mandate, a Joint Human Resource Mapping Protocol between the health and local government ministries, rural retention incentives, ring-fencing diagnostic income for repairs, bundling a year's consumables and long-term warranties into procurement, and a second phase of the project pledged during the prime minister's visit to Japan.",
+   "exam_relevance": "Rural healthcare, decentralisation, upazila governance, health workforce, public procurement — core BCS/Bank health and governance topics.",
+   "key_people": "Dr Syed Abdul Hamid, professor, Institute of Health Economics, University of Dhaka",
+   "figures": "47,000+ medical works, items and supplies across 408 upazilas; 91.88% of 29,257 items operational in 158 upazilas; 8.11% (2,375 units) non-functional or underutilised; over Tk113 crore invested; Tk50 lakh a year extra for high-performing upazilas; repairs under Tk20,000 sideline machines for months.",
+   "sources": [
+    {
+     "publication": "The Daily Star",
+     "headline": "",
+     "date": "2026-11-12",
+     "url": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541"
+    }
+   ],
+   "one_liner": "Columnist Dr Syed Abdul Hamid writes that the Upazila Governance and Development Project, which ran from FY2015-16 to 31 December…",
+   "key_facts": [
+    {
+     "label": "+ medical works, items and supplies…",
+     "value": "47,000",
+     "original": "47,000+ medical works, items and supplies across 408 upazilas"
+    },
+    {
+     "label": "% of 29,257 items operational in…",
+     "value": "91.88",
+     "original": "91.88% of 29,257 items operational in 158 upazilas"
+    },
+    {
+     "label": "% (2,375 units) non-functional or underutilised",
+     "value": "8.11",
+     "original": "8.11% (2,375 units) non-functional or underutilised"
+    },
+    {
+     "label": "over crore invested",
+     "value": "Tk113",
+     "original": "over Tk113 crore invested"
+    }
+   ],
+   "what_happened": [
+    "But he argues the same assessment exposed 'structural friction': 8.11% of the equipment — 2,375 units — was non-functional or underutilised,",
+    "largely because specialists and funds did not follow the hardware."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is + medical works, items and supplies…?",
+     "a": "47,000"
+    },
+    {
+     "q": "What is over crore invested?",
+     "a": "Tk113"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Columnist Dr Syed Abdul Hamid writes that the Upazila Governance and Development Project, which ran from FY2015-16 to ______, delivered more than 47,000 medical works, items and supplies across 408 upazilas, and an assessment of 158 upazilas found 91.88% of the 29,257 items distributed there operational.",
+     "answer": "31 December 2025"
+    },
+    {
+     "cloze": "But he argues the same assessment exposed 'structural friction': ______% of the equipment — 2,375 units — was non-functional or underutilised, largely because specialists and funds did not follow the hardware.",
+     "answer": "8.11"
+    }
+   ],
+   "keywords": [
+    "editorial & opinion",
+    "healthcare",
+    "decentralisation",
+    "work",
+    "staff",
+    "funds",
+    "follow",
+    "equipment",
+    "columnist",
+    "argues"
+   ],
+   "detail": "Columnist Dr Syed Abdul Hamid writes that the Upazila Governance and Development Project, which ran from FY2015-16 to 31 December 2025, delivered more than 47,000 medical works, items and supplies across 408 upazilas, and an assessment of 158 upazilas found 91.88% of the 29,257 items distributed there operational. But he argues the same assessment exposed 'structural friction': 8.11% of the equipment — 2,375 units — was non-functional or underutilised, largely because specialists and funds did not follow the hardware."
+  },
+  {
+   "id": "CA09",
+   "headline": "Energy crisis hits home in the kitchen as gas rationing and LPG prices bite, columnist writes",
+   "category": "Editorial & Opinion",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Columnist Nahian Rahman writes that Bangladesh's gas supply generally hovers around 2.6 billion cubic feet per day, forcing Petrobangla to ration gas across power plants, industries and households. The two floating LNG terminals at Moheshkhali were repeatedly disrupted — Excelerate's terminal was knocked offline by a fire in July and suffered another fault in August — and a 12 kg LPG cylinder that cost Tk1,837 in October was raised by Tk223 to Tk2,060 on 2 November, while buyers report paying Tk2,200 or more.",
+   "why_it_matters": "The 2.6 billion cubic feet of gas a day, the Tk2,060 official LPG price against Tk2,200 paid on the street, and the Tk41,000 crore power subsidy are the live numbers for BCS/Bank answers on the energy crisis — and the column shows how it reaches the kitchen, not just the factory.",
+   "exam_facts": "The columnist writes that Summit's terminal suspended regasification for maintenance from 4 to 7 November, temporarily reducing supplies to the national grid; he writes that induction cookers use roughly 30% less power than conventional electric heating, while infrared units can cost nearly double to run; under the June residential tariff schedule, units between 301 and 400 cost Tk9.62 and units between 401 and 600 cost Tk15.01, and the June 3 order raised the weighted average retail tariff from Tk9.11 to Tk10.63 per unit — a 16.68% rise — before the lowest tiers were restored, bringing the average to Tk10.40; the regulator's chairman acknowledged no assessment had been conducted of the increase's impact on inflation or household expenditure; the government is still expected to provide around Tk41,000 crore in annual subsidy to the Bangladesh Power Development Board in FY2026-27; Excelerate Energy declared force majeure in March amid the Middle East conflict, suspending contracted LNG deliveries, and was expected to deliver one cargo in October after a seven-month interruption.",
+   "exam_relevance": "Energy crisis, LNG terminals, gas rationing, LPG pricing, electricity tariffs, subsidies — core BCS/Bank economy topics.",
+   "key_people": "Nahian Rahman, research associate, Bangladesh Institute of Governance and Management (BIGM)",
+   "figures": "Gas supply around 2.6 billion cubic feet per day; LPG 12 kg Tk1,837 in October, raised Tk223 to Tk2,060 on 2 November, buyers pay Tk2,200+; tariff Tk9.11 to Tk10.63 per unit (+16.68%), then Tk10.40; BPDB subsidy around Tk41,000 crore in FY2026-27.",
+   "sources": [
+    {
+     "publication": "The Daily Star",
+     "headline": "",
+     "date": "2026-11-12",
+     "url": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141"
+    }
+   ],
+   "one_liner": "Columnist Nahian Rahman writes that Bangladesh's gas supply generally hovers around 2.6 billion cubic feet per day, forcing Petrobangla to…",
+   "key_facts": [
+    {
+     "label": "Gas supply around cubic feet per…",
+     "value": "2.6 billion",
+     "original": "Gas supply around 2.6 billion cubic feet per day"
+    },
+    {
+     "label": "LPG kg Tk1,837 in October, raised…",
+     "value": "12",
+     "original": "LPG 12 kg Tk1,837 in October, raised Tk223 to Tk2,060 on 2 November, buyers pay Tk2,200+"
+    },
+    {
+     "label": "tariff to Tk10.63 per unit (+16.68%),…",
+     "value": "Tk9.11",
+     "original": "tariff Tk9.11 to Tk10.63 per unit (+16.68%), then Tk10.40"
+    },
+    {
+     "label": "BPDB subsidy around crore in FY2026-27",
+     "value": "Tk41,000",
+     "original": "BPDB subsidy around Tk41,000 crore in FY2026-27"
+    }
+   ],
+   "what_happened": [
+    "The two floating LNG terminals at Moheshkhali were repeatedly disrupted — Excelerate's terminal was knocked offline by a fire in July and suffered another fault in August — and a 12 kg LPG cylinder that cost Tk1,",
+    "837 in October was raised by Tk223 to Tk2,060 on 2 November, while buyers report paying Tk2,200 or more."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is Gas supply around cubic feet per…?",
+     "a": "2.6 billion"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Columnist Nahian Rahman writes that Bangladesh's gas supply generally hovers around ______ billion cubic feet per day, forcing Petrobangla to ration gas across power plants, industries and households.",
+     "answer": "2.6"
+    },
+    {
+     "cloze": "The two floating LNG terminals at Moheshkhali were repeatedly disrupted — Excelerate's terminal was knocked offline by a fire in July and suffered another fault in August — and a 12 kg LPG cylinder that cost Tk1,837 in October was raised by Tk223 to Tk2,060 on ______, while buyers report paying Tk2,200 or more.",
+     "answer": "2 November"
+    }
+   ],
+   "keywords": [
+    "editorial & opinion",
+    "energy",
+    "crisis",
+    "hits",
+    "home",
+    "kitchen",
+    "rationing",
+    "prices",
+    "bite",
+    "columnist",
+    "writes"
+   ],
+   "detail": "Columnist Nahian Rahman writes that Bangladesh's gas supply generally hovers around 2.6 billion cubic feet per day, forcing Petrobangla to ration gas across power plants, industries and households. The two floating LNG terminals at Moheshkhali were repeatedly disrupted — Excelerate's terminal was knocked offline by a fire in July and suffered another fault in August — and a 12 kg LPG cylinder that cost Tk1,837 in October was raised by Tk223 to Tk2,060 on 2 November, while buyers report paying Tk2,200 or more."
+  },
+  {
+   "id": "CA10",
+   "headline": "Seven in 10 people with diabetes in Bangladesh unaware of the condition",
+   "category": "Bangladesh",
+   "event_date": "2026-11-14",
+   "article_date": "2026-11-14",
+   "summary": "Around 70% of people with diabetes in Bangladesh are unaware they have the disease, according to the Bangladesh Demographic and Health Survey 2022: 67% of women and 72% of men with diabetes did not know they had high blood glucose, up from 59% and 61% in 2017-18. The International Diabetes Federation's Diabetes Atlas-2025 puts the number of adults aged 20-79 living with diabetes in Bangladesh at around 1.39 crore in 2024.",
+   "why_it_matters": "The 70% unaware, the 1.39 crore adults with diabetes and the 127% rise in registered patients are the headline health numbers for World Diabetes Day — and the urban-rural and wealth gaps are exactly the inequality facts BCS/Bank health questions use.",
+   "exam_facts": "The BDHS 2022, covering 30,018 households, found 17% of women and 15% of men aged 18 and above had diabetes, up from 10% and 11% in 2017-18; the Diabetic Association of Bangladesh registered 30.61 lakh patients in 2014-15 and 69.37 lakh in 2024-25, a rise of 127%, with 3.83 lakh new patients in 2024-25; prevalence was 24% among urban women against 14% among rural women, and 26% among women in the highest wealth quintile against 11% in the lowest; only 6% of female patients and 5% of male patients were aware of their condition, taking medication and with blood glucose under control, while 9% of both had elevated blood glucose but took no medication; doctors say sedentary lifestyles, unhealthy diets, urbanisation and genetic predisposition drive the rise, and lifestyle changes alone can prevent around 58-60% of diabetes cases among people at risk; the country is observing World Diabetes Day on 14 November with the theme 'Early action on diabetes'.",
+   "exam_relevance": "Public health, diabetes, health surveys, urban-rural inequality, non-communicable diseases — core BCS/Bank health topics.",
+   "key_people": "Prof Sharmin Jahan, chairman, Endocrinology and Metabolism, Bangladesh Medical University; Prof Prabath Chandra Biswas, Director General, Directorate General of Health Services; Sardar Md Sakhawat Husain, Health Minister",
+   "figures": "Around 70% unaware; 67% of women and 72% of men unaware (BDHS 2022); 1.39 crore adults aged 20-79 with diabetes (IDF 2024); BADAS patients 30.61 lakh (2014-15) to 69.37 lakh (2024-25), +127%; only 6% of women and 5% of men aware, medicated and controlled.",
+   "sources": [
+    {
+     "publication": "The Daily Star",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171"
+    }
+   ],
+   "one_liner": "Around 70% of people with diabetes in Bangladesh are unaware they have the disease, according to the Bangladesh Demographic and…",
+   "key_facts": [
+    {
+     "label": "Around % unaware",
+     "value": "70",
+     "original": "Around 70% unaware"
+    },
+    {
+     "label": "BDHS 2022",
+     "value": "67% of women and 72% of men unaware",
+     "original": "67% of women and 72% of men unaware (BDHS 2022)"
+    },
+    {
+     "label": "IDF 2024",
+     "value": "1.39 crore adults aged 20-79 with diabetes",
+     "original": "1.39 crore adults aged 20-79 with diabetes (IDF 2024)"
+    },
+    {
+     "label": "BADAS patients lakh (2014-15) to 69.37…",
+     "value": "30.61",
+     "original": "BADAS patients 30.61 lakh (2014-15) to 69.37 lakh (2024-25), +127%"
+    }
+   ],
+   "what_happened": [
+    "The International Diabetes Federation's Diabetes Atlas-2025 puts the number of adults aged 20-79 living with diabetes in Bangladesh at around 1.39 crore in 2024."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is Around % unaware?",
+     "a": "70"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Around ______% of people with diabetes in Bangladesh are unaware they have the disease, according to the Bangladesh Demographic and Health Survey 2022: 67% of women and 72% of men with diabetes did not know they had high blood glucose, up from 59% and 61% in 2017-18.",
+     "answer": "70"
+    },
+    {
+     "cloze": "The International Diabetes Federation's Diabetes Atlas-______ puts the number of adults aged 20-79 living with diabetes in Bangladesh at around 1.39 crore in 2024.",
+     "answer": "2025"
+    }
+   ],
+   "keywords": [
+    "bangladesh",
+    "seven",
+    "people",
+    "diabetes",
+    "unaware",
+    "condition"
+   ],
+   "detail": "Around 70% of people with diabetes in Bangladesh are unaware they have the disease, according to the Bangladesh Demographic and Health Survey 2022: 67% of women and 72% of men with diabetes did not know they had high blood glucose, up from 59% and 61% in 2017-18. The International Diabetes Federation's Diabetes Atlas-2025 puts the number of adults aged 20-79 living with diabetes in Bangladesh at around 1.39 crore in 2024."
+  },
+  {
+   "id": "CA11",
+   "headline": "Jail terms, fines proposed for creating content by harassing animals",
+   "category": "Bangladesh",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Draft amendments to the Animal Welfare Act, 2019 propose up to six months in prison or a fine of Tk50,000, or both, for creating and publishing content by harassing animals — and for assisting in such production. The offence would be cognisable. The move follows viral videos, including a Facebook page's drone footage of a frightened fox that was viewed 781,000 times and a video of a sleeping dog harassed with balloons that drew nearly 500,000 views.",
+   "why_it_matters": "A six-month jail term and Tk50,000 fine for animal-harassment content, a new cognisable offence, and the viral-video trigger are the testable facts of a new law — and the case shows how social-media content creation is entering Bangladesh's statute book.",
+   "exam_facts": "The Animal Welfare Act, 2019 had 14 sub-sections under Section 6; the proposed amendment adds sub-section (ণ), covering content made by harassing animals, frightening them with reflections or by attaching objects to their bodies; more than 100 Facebook pages and profiles carry such videos, and the 'Banglar Drone' page alone has over 100 videos made by harassing foxes and their families; seven types of offences are proposed to become cognisable and non-bailable; the Department of Livestock Services has sent the draft amendments to the Ministry of Fisheries and Livestock, which has published them on its website for stakeholder opinions before sending the draft to the Ministry of Law for vetting.",
+   "exam_relevance": "Animal welfare law, social media regulation, draft legislation, cognisable offences — BCS/Bank law and governance topics.",
+   "key_people": "Md Shahzaman Khan, Acting Director General, Department of Livestock Services",
+   "figures": "Up to 6 months in prison or Tk50,000 fine; fox video 781,000 views; dog video nearly 500,000 views; over 100 pages and profiles; over 100 videos on one page; Section 6, 14 sub-sections.",
+   "sources": [
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/bangladesh/gseqv2e120"
+    }
+   ],
+   "one_liner": "Draft amendments to the Animal Welfare Act, 2019 propose up to six months in prison or a fine of Tk50,000,…",
+   "key_facts": [
+    {
+     "label": "Up to months in prison or…",
+     "value": "6",
+     "original": "Up to 6 months in prison or Tk50,000 fine"
+    },
+    {
+     "label": "fox video views",
+     "value": "781,000",
+     "original": "fox video 781,000 views"
+    },
+    {
+     "label": "dog video nearly views",
+     "value": "500,000",
+     "original": "dog video nearly 500,000 views"
+    },
+    {
+     "label": "over pages and profiles",
+     "value": "100",
+     "original": "over 100 pages and profiles"
+    }
+   ],
+   "what_happened": [
+    "The offence would be cognisable.",
+    "The move follows viral videos, including a Facebook page's drone footage of a frightened fox that was viewed 781,",
+    "000 times and a video of a sleeping dog harassed with balloons that drew nearly 500,000 views."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is fox video views?",
+     "a": "781,000"
+    },
+    {
+     "q": "What is dog video nearly views?",
+     "a": "500,000"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Draft amendments to the Animal Welfare Act, ______ propose up to six months in prison or a fine of Tk50,000, or both, for creating and publishing content by harassing animals — and for assisting in such production.",
+     "answer": "2019"
+    },
+    {
+     "cloze": "The move follows viral videos, including a Facebook page's drone footage of a frightened fox that was viewed ______ times and a video of a sleeping dog harassed with balloons that drew nearly 500,000 views.",
+     "answer": "781,000"
+    }
+   ],
+   "keywords": [
+    "bangladesh",
+    "jail",
+    "terms",
+    "fines",
+    "proposed",
+    "creating",
+    "content",
+    "harassing",
+    "animals"
+   ],
+   "detail": "Draft amendments to the Animal Welfare Act, 2019 propose up to six months in prison or a fine of Tk50,000, or both, for creating and publishing content by harassing animals — and for assisting in such production. The offence would be cognisable. The move follows viral videos, including a Facebook page's drone footage of a frightened fox that was viewed 781,000 times and a video of a sleeping dog harassed with balloons that drew nearly 500,000 views."
+  },
+  {
+   "id": "CA12",
+   "headline": "Tourists flock to Cheradia despite restrictions, raising biodiversity concerns",
+   "category": "Bangladesh",
+   "event_date": "2026-11-13",
+   "article_date": "2026-11-13",
+   "summary": "Tourists are visiting Cheradia, at the southern tip of Saint Martin's Island, every day despite a ban, walking or riding easy-bikes, motorcycles and bicycles from Madhyardia, and crushing red crabs, snails and clams underfoot while damaging coral and algae. Department of Environment volunteers are too few to enforce the rules, although the island is an ecologically critical area with a 1,743 sq km marine protected area and a cap of 3,500 overnight tourists a day.",
+   "why_it_matters": "Saint Martin's is Bangladesh's only coral island, an ecologically critical area since 1999 with a 1,743 sq km marine protected area — and the gap between the 3,500-a-day cap and the enforcement on the ground is the live fact for BCS/Bank questions on conservation versus tourism.",
+   "exam_facts": "Saint Martin's Island covers about eight square kilometres in the Bay of Bengal; the government declared the whole island an Ecologically Critical Area in 1999 and a 1,743-square-kilometre area of the Bay of Bengal around it a Marine Protected Area in January 2023; collecting coral and stones, destroying keya forests, cutting trees, plucking fruits and dumping waste are prohibited, with violations carrying up to 10 years' imprisonment or a fine of up to Tk1 million; the government has kept the island open to tourists from 1 November to 15 March, with a maximum of 3,500 tourists a day staying overnight, and vessels began operating on 5 November, carrying an average of 2,000 tourists a day on three vessels after a 120-kilometre sea journey from Cox's Bazar; a 12-point guideline bans loud noise on the beach, littering with plastic, late-night gatherings that disturb nesting sea turtles, entering keya forests and driving easy-bikes onto the sand.",
+   "exam_relevance": "Conservation, ecologically critical areas, marine protected areas, tourism management — core BCS/Bank environment and geography topics.",
+   "key_people": "Department of Environment",
+   "figures": "Island about 8 sq km; ECA declared 1999; 1,743 sq km Marine Protected Area (January 2023); penalty up to 10 years or Tk1 million; season 1 November-15 March; cap 3,500 tourists a day; about 2,000 a day on 3 vessels; 120 km by sea from Cox's Bazar.",
+   "sources": [
+    {
+     "publication": "Prothom Alo English",
+     "headline": "",
+     "date": "2026-11-13",
+     "url": "https://en.prothomalo.com/bangladesh/exw1bxurzw"
+    }
+   ],
+   "one_liner": "Tourists are visiting Cheradia, at the southern tip of Saint Martin's Island, every day despite a ban, walking or riding…",
+   "key_facts": [
+    {
+     "label": "Island about sq km",
+     "value": "8",
+     "original": "Island about 8 sq km"
+    },
+    {
+     "label": "",
+     "value": "ECA declared 1999",
+     "original": "ECA declared 1999"
+    },
+    {
+     "label": "January 2023",
+     "value": "1,743 sq km Marine Protected Area",
+     "original": "1,743 sq km Marine Protected Area (January 2023)"
+    },
+    {
+     "label": "penalty up to years or Tk1…",
+     "value": "10",
+     "original": "penalty up to 10 years or Tk1 million"
+    }
+   ],
+   "what_happened": [
+    "Department of Environment volunteers are too few to enforce the rules, although the island is an ecologically critical area with a 1,",
+    "743 sq km marine protected area and a cap of 3,500 overnight tourists a day."
+   ],
+   "exam_qa": [
+    {
+     "q": "What is Island about sq km?",
+     "a": "8"
+    }
+   ],
+   "recall_cards": [
+    {
+     "cloze": "Department of Environment volunteers are too few to enforce the rules, although the island is an ecologically critical area with a ______ sq km marine protected area and a cap of 3,500 overnight tourists a day.",
+     "answer": "1,743"
+    }
+   ],
+   "keywords": [
+    "bangladesh",
+    "tourists",
+    "flock",
+    "cheradia",
+    "despite",
+    "restrictions",
+    "raising",
+    "biodiversity",
+    "concerns"
+   ],
+   "detail": "Tourists are visiting Cheradia, at the southern tip of Saint Martin's Island, every day despite a ban, walking or riding easy-bikes, motorcycles and bicycles from Madhyardia, and crushing red crabs, snails and clams underfoot while damaging coral and algae. Department of Environment volunteers are too few to enforce the rules, although the island is an ecologically critical area with a 1,743 sq km marine protected area and a cap of 3,500 overnight tourists a day."
+  }
+ ],
+ "words": [
+  {
+   "Headword / phrase": "escalate",
+   "IPA": "/ˈeskəleɪt/",
+   "Bangla phonetic": "এস্কালেট",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "তীব্রতর হওয়া; দ্রুত বেড়ে যাওয়া",
+   "English definition": "To become more intense or serious; to increase rapidly.",
+   "Synonyms": "intensify; heighten; worsen; flare up",
+   "Antonyms": "ease; de-escalate; subside",
+   "Word family / derivatives": "escalation; escalated; escalating",
+   "Collocations / patterns": "escalate rapidly; escalate unnaturally fast; tensions escalate",
+   "Original example": "The movement escalated unnaturally fast, and the tension has yet to ease.",
+   "Newspaper context note": "The garment workers' movement escalated unnaturally fast in early November.",
+   "Source publication": "The Business Standard",
+   "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+   "BCS / Bank relevance": "BCS/Bank vocabulary for unrest, conflict and crisis reporting.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "scarce",
+   "IPA": "/skeəs/",
+   "Bangla phonetic": "স্কেয়ার্স",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "দুষ্প্রাপ্য; অপ্রতুল",
+   "English definition": "Not enough; hard to find or get.",
+   "Synonyms": "rare; limited; in short supply; insufficient",
+   "Antonyms": "abundant; plentiful; ample",
+   "Word family / derivatives": "scarcity; scarcely",
+   "Collocations / patterns": "scarce opportunities; scarce resources; scarce jobs",
+   "Original example": "Inflation is eroding purchasing power, investment remains weak and employment opportunities are scarce.",
+   "Newspaper context note": "Employment opportunities are scarce as inflation erodes purchasing power.",
+   "Source publication": "The Business Standard",
+   "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+   "BCS / Bank relevance": "Core BCS/Bank economy vocabulary — scarcity is a fundamental economics concept.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "absorb",
+   "IPA": "/əbˈzɔːb/",
+   "Bangla phonetic": "অ্যাবজর্ব",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "শোষণ করা; (চাকরির বাজারে) অন্তর্ভুক্ত করা",
+   "English definition": "To take in and include something, especially people into a system or market.",
+   "Synonyms": "take in; assimilate; accommodate; soak up",
+   "Antonyms": "exclude; expel; reject",
+   "Word family / derivatives": "absorption; absorbent; absorbed",
+   "Collocations / patterns": "absorb workers; absorb shocks; absorb costs",
+   "Original example": "The formal job market remained unable to absorb the country's young people.",
+   "Newspaper context note": "The formal job market cannot absorb Bangladesh's young people, the analysis says.",
+   "Source publication": "The Business Standard",
+   "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+   "BCS / Bank relevance": "BCS/Bank economy and labour-market vocabulary — absorbing workers is a standard employment topic.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "appeal",
+   "IPA": "/əˈpiːl/",
+   "Bangla phonetic": "আপিল",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "আপিল করা; রায়ের বিরুদ্ধে উচ্চ আদালতে আবেদন করা",
+   "English definition": "To ask a higher court to change the decision of a lower court.",
+   "Synonyms": "challenge; contest; petition",
+   "Antonyms": "accept; abide by",
+   "Word family / derivatives": "appeal (noun); appellant; appealed",
+   "Collocations / patterns": "appeal against a sentence; file an appeal; right of appeal",
+   "Original example": "New Delhi reportedly wants assurances that Hasina will be allowed to appeal against her death sentence and receive a fresh trial over allegations of killings during the July 2024 uprising.",
+   "Newspaper context note": "New Delhi reportedly wants Hasina to be allowed to appeal against her death sentence.",
+   "Source publication": "The Business Standard",
+   "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+   "BCS / Bank relevance": "Core BCS/Bank legal vocabulary — appeals are central to court and extradition questions.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "assurance",
+   "IPA": "/əˈʃʊərəns/",
+   "Bangla phonetic": "অ্যাশিওরেন্স",
+   "Part of speech / type": "Noun",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "আশ্বাস; নিশ্চয়তা",
+   "English definition": "A promise or guarantee that something will happen or be true.",
+   "Synonyms": "guarantee; promise; pledge; commitment",
+   "Antonyms": "doubt; uncertainty",
+   "Word family / derivatives": "assure; assured; assurances",
+   "Collocations / patterns": "seek assurance; give assurance; assurance of a fair trial",
+   "Original example": "Asked about reports that India wanted Bangladesh to send a military aircraft to bring Hasina home and wanted assurances of a fair trial for her, Jaiswal also declined to comment.",
+   "Newspaper context note": "India is reported to want assurances of a fair trial for Sheikh Hasina.",
+   "Source publication": "The Business Standard",
+   "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+   "BCS / Bank relevance": "Diplomacy and law vocabulary — assurances are central to extradition and trial discussions.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "channel",
+   "IPA": "/ˈtʃænəl/",
+   "Bangla phonetic": "চ্যানেল",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "নির্দিষ্ট খাতে প্রবাহিত করা; পরিচালনা করা",
+   "English definition": "To direct money, effort or resources into a particular place or purpose.",
+   "Synonyms": "direct; funnel; steer; route",
+   "Antonyms": "divert; scatter; withhold",
+   "Word family / derivatives": "channel (noun); channelled; channelling",
+   "Collocations / patterns": "channel funds into; channel investment; channel resources",
+   "Original example": "Development finance institutions from Britain, Norway and Canada on Friday (13 November) launched a joint initiative to channel $10 billion into climate projects in emerging markets by 2030.",
+   "Newspaper context note": "Three countries' lenders will channel $10 billion into climate projects.",
+   "Source publication": "The Business Standard",
+   "Article headline": "UK, Norway and Canada launch $10 billion climate finance initiative",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/world/uk-norway-and-canada-launch-10-billion-climate-finance-initiative-1601681",
+   "BCS / Bank relevance": "BCS/Bank finance and development vocabulary — channelling funds is a standard policy phrase.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "coordinate",
+   "IPA": "/kəʊˈɔːdɪneɪt/",
+   "Bangla phonetic": "কোঅর্ডিনেট",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "সমন্বয় করা; একসঙ্গে কাজের ব্যবস্থা করা",
+   "English definition": "To organise different parts of an activity so they work together effectively.",
+   "Synonyms": "organise; synchronise; harmonise; align",
+   "Antonyms": "disrupt; disorder; fragment",
+   "Word family / derivatives": "coordination; coordinator; coordinated",
+   "Collocations / patterns": "coordinate due diligence; coordinate efforts; coordinate policy",
+   "Original example": "Under the agreement, the institutions will share investment pipelines, coordinate due diligence and cooperate on climate reporting.",
+   "Newspaper context note": "The three lenders will coordinate due diligence on climate projects.",
+   "Source publication": "The Business Standard",
+   "Article headline": "UK, Norway and Canada launch $10 billion climate finance initiative",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/world/uk-norway-and-canada-launch-10-billion-climate-finance-initiative-1601681",
+   "BCS / Bank relevance": "Core BCS/Bank vocabulary for governance, projects and international cooperation.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "impartiality",
+   "IPA": "/ɪmˌpɑːʃiˈæləti/",
+   "Bangla phonetic": "ইমপারশিয়ালিটি",
+   "Part of speech / type": "Noun (uncountable)",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "নিরপেক্ষতা; পক্ষপাতহীনতা",
+   "English definition": "The quality of treating all sides fairly and without favour.",
+   "Synonyms": "neutrality; fairness; objectivity; even-handedness",
+   "Antonyms": "bias; partiality; prejudice",
+   "Word family / derivatives": "impartial; impartially; partiality",
+   "Collocations / patterns": "doubt the impartiality of; question impartiality; probe's impartiality",
+   "Original example": "Following the home minister's remarks in parliament regarding the alleged petrol bomb attack on her village home in Kushtia, she would remain sceptical about the impartiality of the investigation.",
+   "Newspaper context note": "Nusrat Tabassum doubts the impartiality of the probe into the fire at her home.",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "No possibility of fire at Nusrat’s house from short circuit: Rural electricity official",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/yh64q83nl9",
+   "BCS / Bank relevance": "BCS/Bank governance and judiciary vocabulary — impartiality is a core rule-of-law term.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "intact",
+   "IPA": "/ɪnˈtækt/",
+   "Bangla phonetic": "ইনট্যাক্ট",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "অক্ষত; অটুট; ক্ষতিগ্রস্ত হয়নি এমন",
+   "English definition": "Complete and undamaged; not broken or harmed.",
+   "Synonyms": "undamaged; unharmed; whole; unscathed",
+   "Antonyms": "damaged; broken; destroyed",
+   "Word family / derivatives": "intactness",
+   "Collocations / patterns": "remain intact; found intact; meter intact",
+   "Original example": "He said the team found the electricity meter and wiring apparently intact and had spoken to local residents and officials of the Palli Bidyut.",
+   "Newspaper context note": "NCP leaders found the meter and wiring intact, contradicting the short-circuit theory.",
+   "Source publication": "The Business Standard",
+   "Article headline": "NCP leaders accuse home minister of downplaying attack on MP Nusrat's residence",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/ncp-leaders-accuse-home-minister-downplaying-attack-mp-nusrats-residence-1601691",
+   "BCS / Bank relevance": "Useful BCS/Bank descriptive vocabulary for reports and investigations.",
+   "Priority": "Medium"
+  },
+  {
+   "Headword / phrase": "accommodate",
+   "IPA": "/əˈkɒmədeɪt/",
+   "Bangla phonetic": "অ্যাকোমোডেট",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "স্থান দেওয়া; ব্যবস্থা করা; মানিয়ে নেওয়া",
+   "English definition": "To make room for someone or adjust arrangements to include them.",
+   "Synonyms": "include; make room for; cater for; fit in",
+   "Antonyms": "exclude; shut out; refuse",
+   "Word family / derivatives": "accommodation; accommodating",
+   "Collocations / patterns": "accommodate students; accommodate demand; accommodate changes",
+   "Original example": "Several universities have revised or are adjusting their admission schedules to accommodate these students.",
+   "Newspaper context note": "Most universities are adjusting schedules to accommodate HSC supplementary passers.",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "DU, JU and BUET shut doors on HSC supplementary candidates; where can they apply",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/youth/education/sm22pntzlz",
+   "BCS / Bank relevance": "BCS/Bank education and administration vocabulary.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "salinity",
+   "IPA": "/səˈlɪnəti/",
+   "Bangla phonetic": "স্যালিনিটি",
+   "Part of speech / type": "Noun (uncountable)",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "লবণাক্ততা",
+   "English definition": "The amount of salt dissolved in water or soil.",
+   "Synonyms": "saltiness; salt content",
+   "Antonyms": "freshness (of water)",
+   "Word family / derivatives": "saline; salinisation",
+   "Collocations / patterns": "salinity intrusion; soil salinity; rising salinity",
+   "Original example": "When a mother in Dacope struggles to find safe drinking water because of salinity intrusion, she is bearing the cost of decades of emissions from factories and automobiles in countries she will never visit.",
+   "Newspaper context note": "Salinity intrusion is swallowing drinking water in coastal Khulna.",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "From Kalabogi to COP31: The case for developed-nation responsibility",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u",
+   "BCS / Bank relevance": "Core BCS/Bank environment and geography vocabulary for coastal Bangladesh.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "erosion",
+   "IPA": "/ɪˈrəʊʒən/",
+   "Bangla phonetic": "ইরোশন",
+   "Part of speech / type": "Noun (uncountable)",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "ক্ষয়; ভাঙন",
+   "English definition": "The gradual wearing away of land or rock by water, wind or other natural forces.",
+   "Synonyms": "wearing away; attrition; corrosion",
+   "Antonyms": "deposition; accumulation",
+   "Word family / derivatives": "erode; erosive; eroding",
+   "Collocations / patterns": "river erosion; coastal erosion; soil erosion",
+   "Original example": "Known as a 'hanging' or 'floating village,' Kalabogi homes stand on thatched and bamboo structures that must be relocated several times a year due to regular river erosion driven by climate change.",
+   "Newspaper context note": "River erosion forces Kalabogi's homes to move several times a year.",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "From Kalabogi to COP31: The case for developed-nation responsibility",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u",
+   "BCS / Bank relevance": "Core BCS/Bank geography vocabulary — river erosion is a standard Bangladesh topic.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "decentralisation",
+   "IPA": "/ˌdiːˌsentrəlaɪˈzeɪʃən/",
+   "Bangla phonetic": "ডিসেন্ট্রালাইজেশন",
+   "Part of speech / type": "Noun (uncountable)",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "বিকেন্দ্রীকরণ",
+   "English definition": "The transfer of power, authority or services from a central government to local levels.",
+   "Synonyms": "devolution; delegation; dispersal of power",
+   "Antonyms": "centralisation; concentration",
+   "Word family / derivatives": "decentralise; decentralised",
+   "Collocations / patterns": "healthcare decentralisation; decentralisation of power; fiscal decentralisation",
+   "Original example": "The Upazila Governance and Development Project (UGDP), implemented by the Local Government Division (LGD) under the Ministry of Local Government, Rural Development and Cooperatives, represented a bold bet on decentralisation.",
+   "Newspaper context note": "The UGDP was a bold bet on decentralisation of rural healthcare.",
+   "Source publication": "The Daily Star",
+   "Article headline": "How can we make healthcare decentralisation work? Lessons from an upazila-level project",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541",
+   "BCS / Bank relevance": "Core BCS/Bank governance vocabulary — decentralisation is a standard public-administration topic.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "idle",
+   "IPA": "/ˈaɪdəl/",
+   "Bangla phonetic": "আইডল",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "অলস; অব্যবহৃত",
+   "English definition": "Not in use; not working, when it could be.",
+   "Synonyms": "unused; inactive; dormant; out of service",
+   "Antonyms": "busy; active; in use",
+   "Word family / derivatives": "idleness; idly",
+   "Collocations / patterns": "sit idle; idle machines; idle capacity",
+   "Original example": "Media often reported on high-tech anaesthesia machines sitting idle in facilities lacking sanctioned junior anaesthesia consultants.",
+   "Newspaper context note": "Anaesthesia machines sit idle without specialists to use them.",
+   "Source publication": "The Daily Star",
+   "Article headline": "How can we make healthcare decentralisation work? Lessons from an upazila-level project",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541",
+   "BCS / Bank relevance": "BCS/Bank vocabulary for public-sector efficiency and health.",
+   "Priority": "Medium"
+  },
+  {
+   "Headword / phrase": "ring-fence",
+   "IPA": "/ˈrɪŋ fens/",
+   "Bangla phonetic": "রিং-ফেন্স",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "নির্দিষ্ট কাজের জন্য অর্থ আলাদা করে রাখা",
+   "English definition": "To set aside money for a particular purpose so it cannot be used for anything else.",
+   "Synonyms": "earmark; set aside; reserve; protect",
+   "Antonyms": "divert; pool; reallocate",
+   "Word family / derivatives": "ring-fenced; ring-fencing",
+   "Collocations / patterns": "ring-fence income; ring-fence funds; ring-fence a budget",
+   "Original example": "By authorising upazila parishads to ring-fence a portion of income generated from diagnostic services using UGDP-provided equipment, they can be empowered to handle on-site fixes and utility needs without delay.",
+   "Newspaper context note": "Upazila parishads should be allowed to ring-fence diagnostic income for repairs.",
+   "Source publication": "The Daily Star",
+   "Article headline": "How can we make healthcare decentralisation work? Lessons from an upazila-level project",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541",
+   "BCS / Bank relevance": "Advanced BCS/Bank finance and governance vocabulary.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "ration",
+   "IPA": "/ˈræʃən/",
+   "Bangla phonetic": "র‍্যাশন",
+   "Part of speech / type": "Noun / Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "সীমিত সরবরাহ; ভাগ করে দেওয়া",
+   "English definition": "A fixed amount of something scarce, shared out; to limit the supply of something.",
+   "Synonyms": "allocation; allowance; quota",
+   "Antonyms": "free supply; abundance",
+   "Word family / derivatives": "rationing; rationed",
+   "Collocations / patterns": "gas rationing; ration supplies; maintain rationing",
+   "Original example": "Bangladesh's natural gas supply generally hovers around 2.6 billion cubic feet per day, forcing Petrobangla to maintain rationing across power plants, industries, and household consumers.",
+   "Newspaper context note": "Petrobangla maintains gas rationing as supply hovers around 2.6 bcfd.",
+   "Source publication": "The Daily Star",
+   "Article headline": "The energy crisis really hits home when it hits the kitchen",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141",
+   "BCS / Bank relevance": "BCS/Bank economy vocabulary — rationing is a standard energy and wartime-economy term.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "diverge",
+   "IPA": "/daɪˈvɜːdʒ/",
+   "Bangla phonetic": "ডাইভার্জ",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "ভিন্ন পথে যাওয়া; আলাদা হয়ে যাওয়া",
+   "English definition": "To separate and go in different directions; to become different.",
+   "Synonyms": "differ; split; deviate; part",
+   "Antonyms": "converge; meet; agree",
+   "Word family / derivatives": "divergence; divergent",
+   "Collocations / patterns": "prices diverge; views diverge; diverge sharply",
+   "Original example": "When the official price and the price people actually pay diverge this sharply, the failure is one of enforcement.",
+   "Newspaper context note": "Official and street LPG prices diverge sharply in Dhaka.",
+   "Source publication": "The Daily Star",
+   "Article headline": "The energy crisis really hits home when it hits the kitchen",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141",
+   "BCS / Bank relevance": "BCS/Bank vocabulary for economics, data and opinion writing.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "sedentary",
+   "IPA": "/ˈsedəntri/",
+   "Bangla phonetic": "সেডেন্টারি",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "বসে থাকা; শারীরিক পরিশ্রমহীন",
+   "English definition": "Involving little physical activity; spending much time sitting.",
+   "Synonyms": "inactive; desk-bound; motionless",
+   "Antonyms": "active; mobile; energetic",
+   "Word family / derivatives": "sedentarily; sedentariness",
+   "Collocations / patterns": "sedentary lifestyle; sedentary work; sedentary habits",
+   "Original example": "Modern lifestyles have become increasingly sedentary.",
+   "Newspaper context note": "Sedentary lifestyles are driving diabetes in Bangladesh.",
+   "Source publication": "The Daily Star",
+   "Article headline": "7 in 10 with diabetes unaware of condition",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171",
+   "BCS / Bank relevance": "BCS/Bank health vocabulary — sedentary lifestyle is a standard non-communicable-disease topic.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "prevalence",
+   "IPA": "/ˈprevələns/",
+   "Bangla phonetic": "প্রেভালেন্স",
+   "Part of speech / type": "Noun (uncountable)",
+   "Difficulty": "Intermediate",
+   "Bangla meaning": "প্রচলন; বিস্তার (রোগের হার)",
+   "English definition": "The fact of being widespread; the proportion of a population with a condition.",
+   "Synonyms": "widespread occurrence; frequency; commonness",
+   "Antonyms": "rarity; scarcity",
+   "Word family / derivatives": "prevalent; prevail",
+   "Collocations / patterns": "diabetes prevalence; prevalence rate; high prevalence",
+   "Original example": "However, diabetes prevalence varies by place of residence, age, and socioeconomic status, shows data.",
+   "Newspaper context note": "Diabetes prevalence varies by place, age and wealth in Bangladesh.",
+   "Source publication": "The Daily Star",
+   "Article headline": "7 in 10 with diabetes unaware of condition",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171",
+   "BCS / Bank relevance": "Core BCS/Bank health and statistics vocabulary.",
+   "Priority": "High"
+  },
+  {
+   "Headword / phrase": "cognisable",
+   "IPA": "/ˈkɒɡnɪzəbəl/",
+   "Bangla phonetic": "কগনিজেবল",
+   "Part of speech / type": "Adjective (legal)",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "আমলযোগ্য (অপরাধ)",
+   "English definition": "(Of an offence) serious enough that the police may arrest without a warrant and start an investigation.",
+   "Synonyms": "actionable; triable; arrestable",
+   "Antonyms": "non-cognisable; bailable (in context)",
+   "Word family / derivatives": "cognisance; recognise",
+   "Collocations / patterns": "cognisable offence; cognisable and non-bailable",
+   "Original example": "Under the proposed provision, this will be a cognisable offence.",
+   "Newspaper context note": "Animal-harassment content would become a cognisable offence.",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "Jail terms, fines proposed for creating content by harassing animals",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/bangladesh/gseqv2e120",
+   "BCS / Bank relevance": "BCS/Bank legal vocabulary — cognisable vs non-cognisable offences appear in law questions.",
+   "Priority": "High"
+  }
+ ],
+ "revision_words": [
+  {
+   "Record type": "New word",
+   "Headword / phrase": "bureaucratic",
+   "IPA": "/ˌbjʊərəˈkrætɪk/",
+   "Bangla phonetic": "বিউরোক্র্যাটিক",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "আমলাতান্ত্রিক; দাপ্তরিক জটিলতাপূর্ণ",
+   "English definition": "Relating to an administrative system with many rules and procedures, often causing delay.",
+   "Synonyms": "administrative; procedural; official; rule-bound",
+   "Antonyms": "No direct antonym",
+   "Word family / derivatives": "bureaucracy; bureaucrat; bureaucratically",
+   "Collocations / patterns": "bureaucratic delay; bureaucratic hurdles; bureaucratic procedure",
+   "Original example": "A single digital window could reduce bureaucratic delays for new investors.",
+   "Newspaper context note": "Used in reporting on the proposed overhaul of business approvals to describe delays created by administrative procedures.",
+   "Source publication": "The Business Standard",
+   "Article headline": "Govt plans to cut business approval time to 18 days",
+   "Publication date": "2026-11-06",
+   "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+   "BCS / Bank relevance": "Useful in governance, public administration, investment-climate essays and reading comprehension.",
+   "Priority": "High"
+  },
+  {
+   "Record type": "New word",
+   "Headword / phrase": "overhaul",
+   "IPA": "/ˌəʊvəˈhɔːl/",
+   "Bangla phonetic": "ওভারহল",
+   "Part of speech / type": "Noun / Verb",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "ব্যাপক সংস্কার; আমূল পুনর্গঠন করা",
+   "English definition": "A thorough examination and major improvement or restructuring of a system.",
+   "Synonyms": "revamp; reform; restructure; rework; renovate",
+   "Antonyms": "preserve; maintain; retain; leave unchanged",
+   "Word family / derivatives": "overhauled; overhauling; overhaul (noun/verb)",
+   "Collocations / patterns": "major overhaul; overhaul the system; regulatory overhaul",
+   "Original example": "The proposed overhaul of business approvals aims to reduce the time needed to start a company.",
+   "Newspaper context note": "The article describes a major overhaul of Bangladesh's investment-approval regime.",
+   "Source publication": "The Business Standard",
+   "Article headline": "Govt plans to cut business approval time to 18 days",
+   "Publication date": "2026-11-06",
+   "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+   "BCS / Bank relevance": "A strong formal verb/noun for précis, policy writing and synonym questions.",
+   "Priority": "High"
+  },
+  {
+   "Record type": "New word",
+   "Headword / phrase": "statutory",
+   "IPA": "/ˈstætʃətəri/",
+   "Bangla phonetic": "স্ট্যাচুটরি",
+   "Part of speech / type": "Adjective",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "আইননির্ধারিত; আইনগতভাবে বাধ্যতামূলক",
+   "English definition": "Required, created or regulated by law.",
+   "Synonyms": "legal; legislated; mandated; law-based",
+   "Antonyms": "unlawful; illegal; non-statutory",
+   "Word family / derivatives": "statute; statutorily; statutory",
+   "Collocations / patterns": "statutory requirement; statutory document; statutory obligation",
+   "Original example": "Investors must obtain the statutory documents required before a business can operate.",
+   "Newspaper context note": "The article says investors need 12 statutory documents and proposes simplifying the process for obtaining them.",
+   "Source publication": "The Business Standard",
+   "Article headline": "Govt plans to cut business approval time to 18 days",
+   "Publication date": "2026-11-06",
+   "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+   "BCS / Bank relevance": "High-value legal and governance vocabulary for BCS and bank written exams.",
+   "Priority": "High"
+  },
+  {
+   "Record type": "New word",
+   "Headword / phrase": "prerequisite",
+   "IPA": "/ˌpriːˈrekwəzɪt/",
+   "Bangla phonetic": "প্রি-রেকুইজিট",
+   "Part of speech / type": "Noun",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "পূর্বশর্ত; আবশ্যিক শর্ত",
+   "English definition": "Something that must exist or be completed before something else can happen.",
+   "Synonyms": "precondition; requirement; prior condition; essential condition",
+   "Antonyms": "No direct antonym",
+   "Word family / derivatives": "requisite; prerequisite; prerequisites",
+   "Collocations / patterns": "essential prerequisite; prerequisite for; prerequisite to",
+   "Original example": "Reliable electricity is a prerequisite for expanding energy-intensive manufacturing.",
+   "Newspaper context note": "The business-approval article says the government plans to reduce the number of prerequisites for starting industrial operations.",
+   "Source publication": "The Business Standard",
+   "Article headline": "Govt plans to cut business approval time to 18 days",
+   "Publication date": "2026-11-06",
+   "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+   "BCS / Bank relevance": "Useful for sentence completion, formal writing and reading comprehension.",
+   "Priority": "High"
+  },
+  {
+   "Record type": "New word",
+   "Headword / phrase": "streamline",
+   "IPA": "/ˈstriːmlaɪn/",
+   "Bangla phonetic": "স্ট্রিমলাইন",
+   "Part of speech / type": "Verb",
+   "Difficulty": "Advanced",
+   "Bangla meaning": "প্রক্রিয়া সরল ও কার্যকর করা; সহজতর করা",
+   "English definition": "To make a process simpler, faster and more efficient.",
+   "Synonyms": "simplify; rationalise; optimise; improve",
+   "Antonyms": "complicate; obstruct; impede; hamper",
+   "Word family / derivatives": "streamlined; streamlining; streamline",
+   "Collocations / patterns": "streamline procedures; streamline operations; streamline approvals",
+   "Original example": "The authority plans to streamline approval procedures by processing applications in parallel.",
+   "Newspaper context note": "The article describes a proposed digital platform and parallel processing to streamline business approvals.",
+   "Source publication": "The Business Standard",
+   "Article headline": "Govt plans to cut business approval time to 18 days",
+   "Publication date": "2026-11-06",
+   "Direct source URL": "https://www.tbsnews.net/economy/govt-plans-cut-business-approval-time-18-days-1594341",
+   "BCS / Bank relevance": "Very useful in essays and précis on public-service delivery, banking operations and reform.",
+   "Priority": "High"
+  }
+ ],
+ "phrases": [
+  {
+   "Phrase": "send back to the streets",
+   "Type": "Phrasal verb / collocation",
+   "Bangla meaning": "রাস্তায় ফিরিয়ে পাঠানো; বিক্ষোভে ঠেলে দেওয়া",
+   "English explanation": "To drive people back into street protest, usually by economic pressure.",
+   "Usage / register": "Informal, news and political commentary",
+   "Original example 1": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "Original example 2": "Unless the government addresses these pressures, economic frustration could spill back onto the streets.",
+   "Common collocations / grammar pattern": "send people back to the streets; back to the streets",
+   "Source publication": "The Business Standard",
+   "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+   "Exam value": "Useful for essays on protest, unrest and the July Uprising's aftermath."
+  },
+  {
+   "Phrase": "decline to comment",
+   "Type": "Verb phrase",
+   "Bangla meaning": "মন্তব্য করতে অস্বীকার করা",
+   "English explanation": "To refuse to give an opinion or information about something, usually officially.",
+   "Usage / register": "Formal, diplomatic and press language",
+   "Original example 1": "India has declined to comment on former Bangladesh prime minister Sheikh Hasina's possible return to Bangladesh through military arrangements.",
+   "Original example 2": "Asked about reports that India wanted Bangladesh to send a military aircraft to bring Hasina home and wanted assurances of a fair trial for her, Jaiswal also declined to comment.",
+   "Common collocations / grammar pattern": "decline to comment on; declined to comment further",
+   "Source publication": "The Business Standard",
+   "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+   "Exam value": "Standard diplomatic phrasing for foreign-policy answers."
+  },
+  {
+   "Phrase": "fair trial",
+   "Type": "Noun phrase",
+   "Bangla meaning": "ন্যায্য বিচার; সুষ্ঠু বিচার",
+   "English explanation": "A trial conducted justly, following proper legal process and giving the accused a real chance to defend themselves.",
+   "Usage / register": "Formal, legal and diplomatic",
+   "Original example 1": "Asked about reports that India wanted Bangladesh to send a military aircraft to bring Hasina home and wanted assurances of a fair trial for her, Jaiswal also declined to comment.",
+   "Original example 2": "New Delhi reportedly wants assurances that Hasina will be allowed to appeal against her death sentence and receive a fresh trial over allegations of killings during the July 2024 uprising.",
+   "Common collocations / grammar pattern": "assurances of a fair trial; right to a fair trial; face a fair trial",
+   "Source publication": "The Business Standard",
+   "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+   "Exam value": "Core legal phrase for extradition, judiciary and human-rights answers."
+  },
+  {
+   "Phrase": "sit for",
+   "Type": "Phrasal verb",
+   "Bangla meaning": "পরীক্ষায় বসা; পরীক্ষা দেওয়া",
+   "English explanation": "To take an examination (British and South Asian usage).",
+   "Usage / register": "Formal, education",
+   "Original example 1": "Most universities are now allowing students who pass the Higher Secondary Certificate (HSC) supplementary examinations to sit for undergraduate admission tests.",
+   "Original example 2": "The initiative aims to ensure that students who pass the supplementary examinations can apply for admission to higher education institutions in the next academic year.",
+   "Common collocations / grammar pattern": "sit for an exam; sit for admission tests",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "DU, JU and BUET shut doors on HSC supplementary candidates; where can they apply",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/youth/education/sm22pntzlz",
+   "Exam value": "Standard education phrase for admission and examination answers."
+  },
+  {
+   "Phrase": "floating village",
+   "Type": "Noun phrase",
+   "Bangla meaning": "ভাসমান গ্রাম",
+   "English explanation": "A village whose homes stand on structures that must be moved as water and erosion shift the land.",
+   "Usage / register": "Formal, climate and geography reporting",
+   "Original example 1": "Known as a 'hanging' or 'floating village,' Kalabogi homes stand on thatched and bamboo structures that must be relocated several times a year due to regular river erosion driven by climate change.",
+   "Original example 2": "The village of Kalabogi sits on the Shibsa River in the Dacope sub-district of Bangladesh's southwestern coastal Khulna region.",
+   "Common collocations / grammar pattern": "floating village; hanging village",
+   "Source publication": "Prothom Alo English",
+   "Article headline": "From Kalabogi to COP31: The case for developed-nation responsibility",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u",
+   "Exam value": "Distinctive phrase for climate-vulnerability and coastal-Bangladesh answers."
+  },
+  {
+   "Phrase": "adaptation finance",
+   "Type": "Noun phrase",
+   "Bangla meaning": "অভিযোজন অর্থায়ন",
+   "English explanation": "Funding that helps countries adjust to the effects of climate change, rather than cut emissions.",
+   "Usage / register": "Formal, climate diplomacy",
+   "Original example 1": "The delegation also called for greater and more accessible adaptation finance, highlighting the LDC Group's demand for annual adaptation funding of US$120 billion before 2035.",
+   "Original example 2": "It urged developed countries to establish a clear pathway for fulfilling their climate finance commitments and ensure that funding reaches countries implementing their National Adaptation Plans.",
+   "Common collocations / grammar pattern": "adaptation finance; adaptation funding; access to adaptation finance",
+   "Source publication": "The Daily Observer",
+   "Article headline": "Bangladesh stresses affordable climate finance for energy transition",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.observerbd.com/news/605956",
+   "Exam value": "Core climate-finance term for COP and environment answers."
+  },
+  {
+   "Phrase": "structural friction",
+   "Type": "Noun phrase",
+   "Bangla meaning": "কাঠামোগত বাধা; প্রাতিষ্ঠানিক জটিলতা",
+   "English explanation": "Deep mismatches between the parts of a system — hardware, staff, money, rules — that stop it working smoothly.",
+   "Usage / register": "Formal, governance and development",
+   "Original example 1": "However, the same assessment also exposed systemic 'structural friction' that threatens long-term sustainability.",
+   "Original example 2": "These frictions risk turning hundreds of crores of taka in public assets into depreciating liabilities, eroding public trust, and driving more referrals to already overburdened district and tertiary hospitals.",
+   "Common collocations / grammar pattern": "structural friction; systemic friction",
+   "Source publication": "The Daily Star",
+   "Article headline": "How can we make healthcare decentralisation work? Lessons from an upazila-level project",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541",
+   "Exam value": "Useful phrase for governance, project-design and public-administration answers."
+  },
+  {
+   "Phrase": "electric cooking",
+   "Type": "Noun phrase",
+   "Bangla meaning": "বৈদ্যুতিক রান্না",
+   "English explanation": "Cooking with electricity (induction or infrared cookers) instead of gas.",
+   "Usage / register": "Formal, energy and household reporting",
+   "Original example 1": "In terms of electricity, the sale of electric and induction cookers has been soaring due to the gas crisis.",
+   "Original example 2": "One expert put electric cooking for a family of four at about Tk 2,000 a month, comparable to cylinder costs; however, many families report much higher costs that can depend on usage.",
+   "Common collocations / grammar pattern": "electric cooking; induction cooking; cost of electric cooking",
+   "Source publication": "The Daily Star",
+   "Article headline": "The energy crisis really hits home when it hits the kitchen",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141",
+   "Exam value": "Energy-transition phrase for household-energy and cost-of-living answers."
+  },
+  {
+   "Phrase": "gas supply",
+   "Type": "Noun phrase",
+   "Bangla meaning": "গ্যাস সরবরাহ",
+   "English explanation": "The amount of natural gas available to a country or network.",
+   "Usage / register": "Formal, energy reporting",
+   "Original example 1": "Bangladesh's natural gas supply generally hovers around 2.6 billion cubic feet per day, forcing Petrobangla to maintain rationing across power plants, industries, and household consumers.",
+   "Original example 2": "More recently, Summit's terminal suspended regasification for maintenance from November 4 to 7, temporarily reducing supplies to the national grid.",
+   "Common collocations / grammar pattern": "gas supply; gas supply shortage; maintain gas supply",
+   "Source publication": "The Daily Star",
+   "Article headline": "The energy crisis really hits home when it hits the kitchen",
+   "Publication date": "2026-11-13",
+   "Direct source URL": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141",
+   "Exam value": "Core energy phrase for gas, LNG and rationing answers."
+  },
+  {
+   "Phrase": "blood glucose",
+   "Type": "Noun phrase (medical)",
+   "Bangla meaning": "রক্তে শর্করা; রক্তের গ্লুকোজ",
+   "English explanation": "The amount of sugar (glucose) in the blood; high levels over time indicate diabetes.",
+   "Usage / register": "Formal, medical and health reporting",
+   "Original example 1": "Among adults with diabetes, 67 percent of women and 72 percent of men were not aware that they had high blood glucose levels, according to the Bangladesh Demographic and Health Survey (BDHS) 2022, conducted by the National Institute of Population Research and Training (NIPORT) under the health ministry.",
+   "Original example 2": "According to the BDHS-2022, only 6 percent of female patients and 5 percent of male patients reported being aware of their condition, taking medication, and having their blood glucose levels under control.",
+   "Common collocations / grammar pattern": "blood glucose levels; high blood glucose; blood glucose under control",
+   "Source publication": "The Daily Star",
+   "Article headline": "7 in 10 with diabetes unaware of condition",
+   "Publication date": "2026-11-14",
+   "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171",
+   "Exam value": "Core medical phrase for diabetes and non-communicable-disease answers."
+  }
+ ],
+ "mcqs": [
+  {
+   "no": 1,
+   "section": "Vocabulary",
+   "question": "In the garment-unrest analysis, what does 'escalate' mean when it says the movement 'escalated unnaturally fast'?",
+   "options": {
+    "A": "Became more intense or serious very quickly",
+    "B": "Came to a sudden stop",
+    "C": "Moved to a different city",
+    "D": "Was reported in the newspapers across the country"
+   },
+   "correct": "A",
+   "explanation": "'Escalate' means to become more intense or serious; the garment movement escalated unnaturally fast. (CA01)",
+   "source": "CA01"
+  },
+  {
+   "no": 2,
+   "section": "Vocabulary",
+   "question": "In the garment-unrest analysis, what does 'scarce' mean when it says employment opportunities are scarce?",
+   "options": {
+    "A": "Plentiful and easy to find for everyone",
+    "B": "Illegal and unregulated",
+    "C": "Not enough; hard to find or get",
+    "D": "Reserved for graduates only"
+   },
+   "correct": "C",
+   "explanation": "'Scarce' means not enough and hard to find; employment opportunities are scarce for young people. (CA01)",
+   "source": "CA01"
+  },
+  {
+   "no": 3,
+   "section": "Vocabulary",
+   "question": "What does 'absorb' mean when the analysis says the formal job market could not absorb young people?",
+   "options": {
+    "A": "To reject them outright",
+    "B": "To take them in and employ them",
+    "C": "To train them abroad at great expense",
+    "D": "To count them in a survey"
+   },
+   "correct": "B",
+   "explanation": "To absorb workers into a market means to take them in and employ them; the formal market could not do so. (CA01)",
+   "source": "CA01"
+  },
+  {
+   "no": 4,
+   "section": "Vocabulary",
+   "question": "In the report on Hasina's possible return, what does 'appeal' mean when it says she should be allowed to appeal against her death sentence?",
+   "options": {
+    "A": "To praise the court's decision publicly",
+    "B": "To ask a higher court to change the decision of a lower court",
+    "C": "To provide funding for the courts",
+    "D": "To send observers to watch the trial and report everything back to New Delhi"
+   },
+   "correct": "B",
+   "explanation": "To appeal means to ask a higher court to change a lower court's decision; India reportedly wants Hasina to be allowed to appeal against her death sentence. (CA02)",
+   "source": "CA02"
+  },
+  {
+   "no": 5,
+   "section": "Vocabulary",
+   "question": "What 'assurance' is India reported to want about Sheikh Hasina?",
+   "options": {
+    "A": "Assurance of a new passport",
+    "B": "Assurance she could appeal her death sentence and face a fresh trial",
+    "C": "Assurance of a government job",
+    "D": "Assurance that she would be allowed to remain in India permanently without trial"
+   },
+   "correct": "B",
+   "explanation": "India reportedly wants assurance Hasina could appeal her death sentence and face a fresh trial over the July 2024 killings. (CA02)",
+   "source": "CA02"
+  },
+  {
+   "no": 6,
+   "section": "Vocabulary",
+   "question": "What does 'channel' mean when the lenders will 'channel $10 billion into climate projects'?",
+   "options": {
+    "A": "Direct the money into those projects",
+    "B": "Dig a waterway for the projects",
+    "C": "Broadcast the projects on television for the public",
+    "D": "Block the money from ever reaching them"
+   },
+   "correct": "A",
+   "explanation": "To channel funds means to direct them into a particular purpose — here, climate projects in emerging markets. (CA03)",
+   "source": "CA03"
+  },
+  {
+   "no": 7,
+   "section": "Vocabulary",
+   "question": "What does Nusrat Tabassum doubt when she questions the 'impartiality' of the investigation?",
+   "options": {
+    "A": "Its speed",
+    "B": "Its cost to the government",
+    "C": "Whether it will treat all sides fairly",
+    "D": "Whether the investigation will happen at all"
+   },
+   "correct": "C",
+   "explanation": "Impartiality means treating all sides fairly and without favour; Nusrat doubts the probe will do so. (CA04)",
+   "source": "CA04"
+  },
+  {
+   "no": 8,
+   "section": "Vocabulary",
+   "question": "What does 'intact' mean when the NCP team found the meter and wiring 'apparently intact'?",
+   "options": {
+    "A": "Burned beyond recognition",
+    "B": "Recently replaced by electricians",
+    "C": "Disconnected from the house entirely",
+    "D": "Complete and undamaged"
+   },
+   "correct": "D",
+   "explanation": "Intact means complete and undamaged; the meter and wiring showed no damage, contradicting the short-circuit theory. (CA04)",
+   "source": "CA04"
+  },
+  {
+   "no": 9,
+   "section": "Vocabulary",
+   "question": "In the Kalabogi column, what is 'salinity intrusion'?",
+   "options": {
+    "A": "Salt water pushing into drinking water and farmland",
+    "B": "A new method of irrigation",
+    "C": "A type of cyclone",
+    "D": "A government water project in the Khulna coastal region"
+   },
+   "correct": "A",
+   "explanation": "Salinity intrusion is salt water entering freshwater sources and farmland, a key climate impact in coastal Khulna. (CA06)",
+   "source": "CA06"
+  },
+  {
+   "no": 10,
+   "section": "Vocabulary",
+   "question": "What does it mean for an offence to be 'cognisable' under the proposed Animal Welfare Act amendment?",
+   "options": {
+    "A": "It can only be tried in a foreign court",
+    "B": "It carries no punishment at all",
+    "C": "The police may arrest without a warrant and investigate",
+    "D": "It applies only to social media companies and their owners"
+   },
+   "correct": "C",
+   "explanation": "A cognisable offence is serious enough that police may arrest without a warrant and start an investigation. (CA11)",
+   "source": "CA11"
+  },
+  {
+   "no": 11,
+   "section": "Current Affairs",
+   "question": "How many factories suspended production during the early-November garment unrest, according to the TBS analysis?",
+   "options": {
+    "A": "529 factories",
+    "B": "987 factories",
+    "C": "408 factories",
+    "D": "1,240 factories"
+   },
+   "correct": "A",
+   "explanation": "Production was suspended at 529 factories, affecting nearly 987,000 workers — the 987,000 is workers, not factories. (CA01)",
+   "source": "CA01"
+  },
+  {
+   "no": 12,
+   "section": "Current Affairs",
+   "question": "What did MEA spokesperson Randhir Jaiswal say about Sheikh Hasina's possible return by military aircraft?",
+   "options": {
+    "A": "India has agreed to arrange it",
+    "B": "India will send its own aircraft",
+    "C": "He had no comment to offer on that part of the question",
+    "D": "India has rejected the extradition request outright and closed the case"
+   },
+   "correct": "C",
+   "explanation": "Jaiswal said the legal matter concerned only extradition, and on the military-aircraft question he had no comment to offer. (CA02)",
+   "source": "CA02"
+  },
+  {
+   "no": 13,
+   "section": "Current Affairs",
+   "question": "Which three institutions signed the memorandum of understanding for the $10 billion climate finance initiative?",
+   "options": {
+    "A": "British International Investment, Norfund and FinDev Canada",
+    "B": "World Bank, International Monetary Fund and Asian Development Bank",
+    "C": "Green Climate Fund, CIF and UNDP",
+    "D": "British Council, Norad and CIDA"
+   },
+   "correct": "A",
+   "explanation": "The MoU was signed by British International Investment, Norway's Norfund and FinDev Canada. (CA03)",
+   "source": "CA03"
+  },
+  {
+   "no": 14,
+   "section": "Current Affairs",
+   "question": "What did Kushtia rural electricity official Tozammel Haque conclude after inspecting the meter and wiring at Nusrat Tabassum's house?",
+   "options": {
+    "A": "A short circuit definitely caused the fire",
+    "B": "The transformer had exploded",
+    "C": "The meter had been tampered with by outsiders",
+    "D": "There was no possibility of a short circuit"
+   },
+   "correct": "D",
+   "explanation": "Haque found the cut-out intact, the transformer fuse unblown and the main switch undamaged, so no short circuit was possible. (CA04)",
+   "source": "CA04"
+  },
+  {
+   "no": 15,
+   "section": "Current Affairs",
+   "question": "What was the overall pass rate in the 2026 HSC and equivalent examinations?",
+   "options": {
+    "A": "62.12%",
+    "B": "52.12%",
+    "C": "42.12%",
+    "D": "72.12% (including all 11 boards)"
+   },
+   "correct": "B",
+   "explanation": "Of 1,240,798 candidates, 646,685 passed — a 52.12% pass rate; 40,084 secured GPA-5. (CA05)",
+   "source": "CA05"
+  },
+  {
+   "no": 16,
+   "section": "Current Affairs",
+   "question": "According to the Kalabogi column, what share of global emissions does Bangladesh contribute?",
+   "options": {
+    "A": "Less than 0.5%",
+    "B": "About 5%",
+    "C": "About 17%",
+    "D": "More than 50% of global emissions"
+   },
+   "correct": "A",
+   "explanation": "Bangladesh, with over 170 million people, contributes less than 0.5% of global emissions, the columnist writes. (CA06)",
+   "source": "CA06"
+  },
+  {
+   "no": 17,
+   "section": "Current Affairs",
+   "question": "Under Bangladesh's NDC 3.0, what emissions cut is targeted by 2035 from domestic resources?",
+   "options": {
+    "A": "13.92%",
+    "B": "1.47%",
+    "C": "6.39%",
+    "D": "30%"
+   },
+   "correct": "C",
+   "explanation": "NDC 3.0 targets a 6.39% cut below business-as-usual by 2035 from domestic resources, plus 13.92% conditional on international support. (CA07)",
+   "source": "CA07"
+  },
+  {
+   "no": 18,
+   "section": "Current Affairs",
+   "question": "What share of the medical items distributed under the UGDP was found operational in the 158 upazilas assessed?",
+   "options": {
+    "A": "47%",
+    "B": "8.11% of all medical equipment",
+    "C": "50%",
+    "D": "91.88%"
+   },
+   "correct": "D",
+   "explanation": "91.88% of the 29,257 items distributed in the 158 upazilas were operational; 8.11% were non-functional or underutilised. (CA08)",
+   "source": "CA08"
+  },
+  {
+   "no": 19,
+   "section": "Current Affairs",
+   "question": "What did BERC set as the price of a 12 kg LPG cylinder on 2 November 2026?",
+   "options": {
+    "A": "Tk1,837 (the October price)",
+    "B": "Tk2,060",
+    "C": "Tk2,200",
+    "D": "Tk1,500"
+   },
+   "correct": "B",
+   "explanation": "BERC raised the 12 kg cylinder price by Tk223 to Tk2,060 on 2 November, though buyers report paying Tk2,200 or more. (CA09)",
+   "source": "CA09"
+  },
+  {
+   "no": 20,
+   "section": "Current Affairs",
+   "question": "According to the IDF Diabetes Atlas-2025, about how many adults aged 20-79 in Bangladesh were living with diabetes in 2024?",
+   "options": {
+    "A": "1.39 crore",
+    "B": "69.37 lakh (BADAS registered patients)",
+    "C": "3.83 lakh",
+    "D": "30.61 lakh"
+   },
+   "correct": "A",
+   "explanation": "The IDF Atlas-2025 puts the figure at around 1.39 crore adults; 69.37 lakh is the BADAS registered-patient count. (CA10)",
+   "source": "CA10"
+  },
+  {
+   "no": 21,
+   "section": "Current Affairs",
+   "question": "What punishment does the draft amendment to the Animal Welfare Act propose for creating content by harassing animals?",
+   "options": {
+    "A": "A fine of Tk5,000 only",
+    "B": "Community service only",
+    "C": "Up to six months in prison or a fine of Tk50,000, or both",
+    "D": "A formal warning from the police, with no fine or jail term"
+   },
+   "correct": "C",
+   "explanation": "The draft proposes up to six months in prison or a fine of Tk50,000, or both, and the offence would be cognisable. (CA11)",
+   "source": "CA11"
+  },
+  {
+   "no": 22,
+   "section": "Current Affairs",
+   "question": "How large is the Marine Protected Area around Saint Martin's Island?",
+   "options": {
+    "A": "8 sq km",
+    "B": "120 sq km of protected reef",
+    "C": "3,500 sq km",
+    "D": "1,743 sq km"
+   },
+   "correct": "D",
+   "explanation": "The Marine Protected Area declared in January 2023 covers 1,743 sq km of the Bay of Bengal around the island; 8 sq km is the island itself. (CA12)",
+   "source": "CA12"
+  },
+  {
+   "no": 23,
+   "section": "Current Affairs",
+   "question": "What growth rate does the World Bank project for Bangladesh in FY2025-26 and FY2026-27?",
+   "options": {
+    "A": "8.34%",
+    "B": "3.4%",
+    "C": "6.39%",
+    "D": "7.2%"
+   },
+   "correct": "B",
+   "explanation": "The World Bank projects growth of only 3.4% in both FY2025-26 and FY2026-27, citing weaker investment, slowing exports and energy constraints. (CA01)",
+   "source": "CA01"
+  },
+  {
+   "no": 24,
+   "section": "Phrases",
+   "question": "In the report on Hasina's possible return, what is a 'fair trial'?",
+   "options": {
+    "A": "A trial held in a foreign country under international law",
+    "B": "A trial with no lawyers present",
+    "C": "A trial that is broadcast on television",
+    "D": "A trial conducted justly, with proper legal process"
+   },
+   "correct": "D",
+   "explanation": "A fair trial is one conducted justly, following proper legal process and giving the accused a real chance to defend themselves. (CA02)",
+   "source": "CA02"
+  },
+  {
+   "no": 25,
+   "section": "Phrases",
+   "question": "In the diabetes story, what is 'blood glucose'?",
+   "options": {
+    "A": "The pressure of blood in the arteries",
+    "B": "The number of red blood cells",
+    "C": "The amount of sugar in the blood",
+    "D": "The temperature of the blood"
+   },
+   "correct": "C",
+   "explanation": "'Blood glucose' is the amount of sugar (glucose) in the blood; high levels over time indicate diabetes. (CA10)",
+   "source": "CA10"
+  }
+ ],
+ "sources": [
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Business Standard",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Business Standard",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661"
+  },
+  {
+   "Source ID": "S02",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/bangladesh/yqwv28wg4m"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Business Standard",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.tbsnews.net/world/uk-norway-and-canada-launch-10-billion-climate-finance-initiative-1601681"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Business Standard",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.tbsnews.net/bangladesh/politics/ncp-leaders-accuse-home-minister-downplaying-attack-mp-nusrats-residence-1601691"
+  },
+  {
+   "Source ID": "S02",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/yh64q83nl9"
+  },
+  {
+   "Source ID": "S03",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/bangladesh/politics/brz9duk9fd"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/youth/education/sm22pntzlz"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Daily Observer",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.observerbd.com/news/605956"
+  },
+  {
+   "Source ID": "S02",
+   "Publication / organisation": "The Daily Observer",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.observerbd.com/news/605944"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Daily Star",
+   "Headline / report": "",
+   "Publication date": "2026-11-12",
+   "Direct URL": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Daily Star",
+   "Headline / report": "",
+   "Publication date": "2026-11-12",
+   "Direct URL": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "The Daily Star",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/bangladesh/gseqv2e120"
+  },
+  {
+   "Source ID": "S01",
+   "Publication / organisation": "Prothom Alo English",
+   "Headline / report": "",
+   "Publication date": "2026-11-13",
+   "Direct URL": "https://en.prothomalo.com/bangladesh/exw1bxurzw"
+  }
+ ],
+ "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
+ "approval_notes": "Auto-published under Rudro's rule of 2026-11-13 00:18: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this edition; the operator verified lead figures against the fetched source texts for all 12 stories and attribution throughout the 3 opinion stories. One importer flag is a documented false alarm: the ranker's editorial-slot story is the taka op-ed, a verbatim repeat of Edition 7 CA01 (same URL), correctly excluded; the slot is filled by the Kalabogi op-ed (CA06). Edition is short 3 stories (12/15) — thin COP31 day, not padded."
+}
