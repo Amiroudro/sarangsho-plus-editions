@@ -78,12 +78,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is + accused?",
-          "a": "2,300"
+          "q": "How many factories in Savar and Ashulia were reported closed on 3 November?",
+          "a": "At least 200 factories."
         },
         {
-          "q": "What is about police injured?",
-          "a": "50"
+          "q": "How many people were named in the three cases filed over labour unrest in Savar?",
+          "a": "More than 2,300 people; these were accused, not convicted."
         }
       ],
       "recall_cards": [
@@ -163,12 +163,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is fair wage at least?",
-          "a": "Tk 17,500"
+          "q": "What monthly wage did the analysis say was needed at minimum to restore garment workers' real income?",
+          "a": "At least Tk17,500."
         },
         {
-          "q": "What is inflation?",
-          "a": "8.34 percent"
+          "q": "What was the inflation rate in September 2026, according to the wage-board report?",
+          "a": "8.34%."
         }
       ],
       "recall_cards": [
@@ -248,8 +248,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is oil prices down more than?",
-          "a": "7 percent"
+          "q": "Which Iranian island was reportedly struck by the United States on 2 November?",
+          "a": "Qeshm Island."
+        },
+        {
+          "q": "By how much did oil prices fall on 2 November amid optimism about a possible deal?",
+          "a": "More than 7%."
         }
       ],
       "recall_cards": [
@@ -329,12 +333,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Senate seats?",
-          "a": "35"
+          "q": "How many seats in the US House of Representatives were at stake in the 3 November midterm elections?",
+          "a": "All 435 seats."
         },
         {
-          "q": "What is governorships?",
-          "a": "36"
+          "q": "How many of the 100 US Senate seats were at stake?",
+          "a": "35 seats."
         }
       ],
       "recall_cards": [
@@ -409,8 +413,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is EC draft data?",
-          "a": "3.01 crore entries absent or untraceable"
+          "q": "What did India's Election Commission draft data say about the approximately 3.01 crore flagged voter entries?",
+          "a": "They were absent or untraceable; the draft data did not identify all of them as Bangladeshi nationals."
+        },
+        {
+          "q": "What name was given to the exercise reviewing India's electoral rolls?",
+          "a": "Special Intensive Revision (SIR)."
         }
       ],
       "recall_cards": [
@@ -482,12 +490,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is inflation?",
-          "a": "8.34 percent"
+          "q": "What was private-sector credit growth in Bangladesh in September 2026?",
+          "a": "4.17%, the lowest recorded in the data series cited."
         },
         {
-          "q": "What is IMF projection?",
-          "a": "10.9 percent"
+          "q": "What average inflation rate did the IMF project for the current fiscal year?",
+          "a": "10.9%."
         }
       ],
       "recall_cards": [
@@ -562,12 +570,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Commerce Bank NPL about?",
-          "a": "65 percent"
+          "q": "What was the non-performing loan ratio at Bangladesh Commerce Bank at the end of 2025?",
+          "a": "About 65%."
         },
         {
-          "q": "What is Premier Bank NPL?",
-          "a": "31 percent"
+          "q": "What was the NPL ratio at The Premier Bank?",
+          "a": "31%."
         }
       ],
       "recall_cards": [
@@ -641,8 +649,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is killed in mob beatings?",
-          "a": "22"
+          "q": "How many deaths were attributed to BNP factional clashes in October, according to HRSS?",
+          "a": "Nine deaths."
+        },
+        {
+          "q": "How many people were injured in the 35 BNP factional clashes?",
+          "a": "At least 185 people."
         }
       ],
       "recall_cards": [
@@ -705,12 +717,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Customs duties on electronics raw materials…?",
-          "a": "26 percent"
+          "q": "Which agreement had Bangladesh and South Korea concluded negotiations on before agreeing to form a joint investment task force?",
+          "a": "The Comprehensive Economic Partnership Agreement (CEPA)."
         },
         {
-          "q": "What is priority areas?",
-          "a": "electronics and semiconductors, shipbuilding, renewable energy, AI, digital industries"
+          "q": "By how much were customs duties on electronics raw materials cut, according to the report?",
+          "a": "From 26% to zero."
         }
       ],
       "recall_cards": [],
@@ -780,7 +792,16 @@
         "The tribunal ordered the seizure of their assets, with half to be identified and seized first and the proceeds distributed to the families of those killed in the July uprising,",
         "through the July Foundation or another statutory body."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "On what date did the International Crimes Tribunal sentence Sheikh Hasina and former home minister Asaduzzaman Khan in the case described?",
+          "a": "17 November 2025."
+        },
+        {
+          "q": "What share of the assets did the tribunal direct to be identified and seized first?",
+          "a": "Half of the assets."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The Chief Prosecutor's Office wrote to the Home Ministry to take control of all movable and immovable properties of former prime minister Sheikh Hasina and former home minister Asaduzzaman Khan, who were sentenced to death by the International Crimes Tribunal on ______ for crimes against humanity.",
@@ -847,12 +868,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is hospitalised?",
-          "a": "2,010"
+          "q": "How many dengue deaths had been recorded in the year by 3 November?",
+          "a": "439 deaths."
         },
         {
-          "q": "What is total deaths?",
-          "a": "439"
+          "q": "How many dengue patients were hospitalised in the 24 hours to 8am on 3 November?",
+          "a": "2,010 patients."
         }
       ],
       "recall_cards": [
@@ -928,12 +949,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is MW before next summer?",
-          "a": "3,000-4,000"
+          "q": "How much solar capacity did the government expect to add before the next summer?",
+          "a": "3,000–4,000 megawatts."
         },
         {
-          "q": "What is Solar addition target?",
-          "a": "3,000-4,000MW before next summer"
+          "q": "What renewable-electricity share did the government target for 2030?",
+          "a": "20%."
         }
       ],
       "recall_cards": [
@@ -1004,7 +1025,16 @@
         "The working-age population share is projected to peak in 2045, and Bangladesh is projected to become an aged society by 2051.",
         "About 84 percent of the workforce — roughly 58 million people — are employed in the informal sector."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "In which year was Bangladesh's working-age population share projected to peak?",
+          "a": "2045."
+        },
+        {
+          "q": "What share of the workforce was employed in the informal sector, according to the World Bank report?",
+          "a": "About 84%, or roughly 58 million people."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The working-age population share is projected to peak in ______ and Bangladesh is projected to become an aged society by 2051.",
@@ -1076,8 +1106,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is ordinances lapsed?",
-          "a": "13"
+          "q": "Into which two divisions was the government considering splitting the National Board of Revenue?",
+          "a": "A Revenue Implementation Division and a Revenue Policy Division."
+        },
+        {
+          "q": "How many ordinances lost validity after parliament failed to ratify them within the required period?",
+          "a": "13 ordinances."
         }
       ],
       "recall_cards": [
@@ -1154,8 +1188,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is over proposed?",
-          "a": "$12 million"
+          "q": "How many international aviation companies were shortlisted for ground handling at Dhaka airport's Third Terminal?",
+          "a": "Four companies."
+        },
+        {
+          "q": "What investment did Menzies Aviation propose for the project?",
+          "a": "More than $12 million."
         }
       ],
       "recall_cards": [
@@ -2412,5 +2450,12 @@
   ],
   "backfilled": true,
   "backfill_note": "Backfilled edition: built from real articles published 3 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). Revision words are Nov 2 words at SRS gap 1 (infiltrate, destabilise, surveillance, embezzlement, absconding). CA13 (demographic window) and CA14 (NBR split) have no Current Affairs MCQ.",
-  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+    "Questions preserve distinctions between allegations, draft data, official statements and confirmed figures.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
