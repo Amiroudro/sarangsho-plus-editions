@@ -60,8 +60,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is LDCs about % of merchandise exports,…?",
-          "a": "1"
+          "q": "How much Aid for Trade did Bangladesh receive in 2024?",
+          "a": "$2.67 billion."
+        },
+        {
+          "q": "How was Bangladesh's 2024 Aid for Trade amount divided between grants and loans?",
+          "a": "$134 million in grants and $2,542 million in loans."
         }
       ],
       "recall_cards": [
@@ -130,12 +134,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is net FDI fell % in the…?",
-          "a": "28"
+          "q": "By what percentage did Bangladesh's net FDI fall in the first half of 2026?",
+          "a": "28%."
         },
         {
-          "q": "What is he writes that the US government's…?",
-          "a": "2026"
+          "q": "How much net FDI did Bangladesh attract in 2025, according to the column?",
+          "a": "About $1.77 billion."
         }
       ],
       "recall_cards": [
@@ -209,8 +213,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Public debt above lakh crore?",
-          "a": "Tk22"
+          "q": "What was Bangladesh's total outstanding public debt on 12 July, according to the finance minister's parliamentary statement?",
+          "a": "Tk22,06,462 crore."
+        },
+        {
+          "q": "How much did the FY2026-27 budget allocate for interest payments?",
+          "a": "Tk1,27,500 crore."
         }
       ],
       "recall_cards": [
@@ -281,7 +289,16 @@
       "what_happened": [
         "It notes Bangladesh has received $3.8 billion of a $5.5 billion IMF approval, with $1.7 billion still undisbursed."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "What was the banking system's non-performing loan ratio in June 2026?",
+          "a": "32.78%."
+        },
+        {
+          "q": "How much of the IMF-approved $5.5 billion package had Bangladesh received, according to the analysis?",
+          "a": "$3.8 billion, with $1.7 billion still undisbursed."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The analysis argues that IMF budgetary support can help Bangladesh manage external payment pressures, but only if the money is used productively: the government has set a 6.5% growth target for 2026-27 against the World Bank's 6.1%, while the banking system's non-performing loan ratio reached 32.78% by ______26, or Tk6,06,555 crore.",
@@ -352,12 +369,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is crore sought?",
-          "a": "Tk6,000"
+          "q": "What share of Islami Bank could the state hold if the proposed Tk6,000 crore investment goes ahead?",
+          "a": "78.8%."
         },
         {
-          "q": "What is % state stake?",
-          "a": "78.8"
+          "q": "What net result did Islami Bank report for January to September, 2026?",
+          "a": "A net loss of Tk3,303 crore."
         }
       ],
       "recall_cards": [
@@ -432,12 +449,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is climate debt per person?",
-          "a": "$80"
+          "q": "What climate debt per person did the new index estimate for Bangladesh?",
+          "a": "$80 per person."
         },
         {
-          "q": "What is % of designated climate funding to…?",
-          "a": "18.84"
+          "q": "What share of climate finance directed to Bangladesh's energy sector from 2002 to 2023 came as loans?",
+          "a": "92%."
         }
       ],
       "recall_cards": [
@@ -512,12 +529,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is electricity share from about % to…?",
-          "a": "23"
+          "q": "What electricity share of global final energy use does the 35-by-35 pledge target for 2035?",
+          "a": "35%, up from about 23%."
         },
         {
-          "q": "What is for the Super Pollutant Country Action…?",
-          "a": "$25 million"
+          "q": "How much in new philanthropic commitments did leaders announce to reduce methane and other non-CO2 pollutants?",
+          "a": "More than $480 million."
         }
       ],
       "recall_cards": [
@@ -588,8 +605,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is factories unable to run production?",
-          "a": "147"
+          "q": "How many factories in Savar-Ashulia and Gazipur did BGMEA say could not keep production running?",
+          "a": "147 factories."
+        },
+        {
+          "q": "How many of those factories were closed indefinitely under Section 13(1) of the Labour Act?",
+          "a": "55 factories."
         }
       ],
       "recall_cards": [
@@ -661,7 +682,16 @@
         "The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in November 2025,",
         "and Bangladesh has formally sought her extradition, but New Delhi has not responded."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "Under which agreement did the law minister say Bangladesh was pursuing Sheikh Hasina's return from India?",
+          "a": "The Bangladesh-India extradition treaty."
+        },
+        {
+          "q": "Had India responded to Bangladesh's formal extradition request, according to the article?",
+          "a": "No. The article said New Delhi had not responded."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in ______25, and Bangladesh has formally sought her extradition, but New Delhi has not responded.",
@@ -728,12 +758,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is under Article of the Paris Agreement?",
-          "a": "6"
+          "q": "Which article of the Paris Agreement provides the framework for the Bangladesh-Singapore carbon-market cooperation?",
+          "a": "Article 6."
         },
         {
-          "q": "What is supports NDC?",
-          "a": "3.0"
+          "q": "Who signed the MoU on behalf of Bangladesh?",
+          "a": "State Minister for Environment, Forest and Climate Change Shaikh Faridul Islam."
         }
       ],
       "recall_cards": [
@@ -788,7 +818,16 @@
       "what_happened": [
         "He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on 14 November, where he said the government is negotiating to reduce electricity prices amid a power shortage."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "What risk did the energy minister cite as a reason not to unilaterally withdraw sovereign guarantees?",
+          "a": "Damage to Bangladesh's credit rating and international confidence."
+        },
+        {
+          "q": "Who made the statement about sovereign guarantees and power purchase agreements?",
+          "a": "Power, Energy and Mineral Resources Minister Iqbal Hassan Mahmood Tuku."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on ______, where he said the government is negotiating to reduce electricity prices amid a power shortage.",
@@ -857,12 +896,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is lakh health workers to be hired?",
-          "a": "1"
+          "q": "How many health workers were announced for recruitment to expand preventive healthcare in remote areas?",
+          "a": "One lakh (100,000)."
         },
         {
-          "q": "What is % of positions for women?",
-          "a": "80"
+          "q": "What share of the announced health-worker positions was reserved for women?",
+          "a": "80%."
         }
       ],
       "recall_cards": [
@@ -937,12 +976,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is banks borrow at %, lend at…?",
-          "a": "1"
+          "q": "To what size was Bangladesh Bank's concessional refinancing scheme doubled?",
+          "a": "Tk1,500 crore, about $120 million."
         },
         {
-          "q": "What is at least % to women borrowers…?",
-          "a": "25"
+          "q": "At what rate can commercial banks borrow from Bangladesh Bank and lend to eligible borrowers under the scheme?",
+          "a": "Banks borrow at 1% and may lend at up to 7%."
         }
       ],
       "recall_cards": [
@@ -1008,7 +1047,16 @@
         "Stakeholders have been asked to submit written recommendations within 10 days, and the proposed courts would initially be established in divisional cities,",
         "with three in Dhaka and two in Chattogram."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "When did the law minister say the revised Commercial Courts Act was intended to be placed before parliament?",
+          "a": "January."
+        },
+        {
+          "q": "How long were stakeholders given to submit written recommendations on the proposed changes?",
+          "a": "10 days."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Stakeholders have been asked to submit written recommendations within ______ days, and the proposed courts would initially be established in divisional cities, with three in Dhaka and two in Chattogram.",
@@ -1062,7 +1110,16 @@
         "He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on 14 November,",
         "attended by 34 participants."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "How many participants attended the PET-CT and Cyclotron training programme?",
+          "a": "34 participants."
+        },
+        {
+          "q": "Which two medical technologies were named in the training programme?",
+          "a": "PET-CT and cyclotron."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on ______, attended by 34 participants.",
@@ -2228,5 +2285,12 @@
     }
   ],
   "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
-  "approval_notes": "Auto-approved under Rudro's rule 2026-11-13: review 17/17, longest-correct 0/25. Pack written by operator (agent) acting as the Claude Project. Manual spot-checks done by operator: lead figures verified against full source texts for CA01 ($800bn/$795bn A4T), CA03 (Tk22 lakh crore debt), CA05 (Tk6,000cr / 78.8% Islami Bank), CA06 ($80/person climate debt), CA13 (Tk1,500 crore BB scheme); attribution verified in all 4 opinion/analysis stories (CA01, CA02, CA04, CA07). URL-repeat check vs all published editions: clean. KNOWN LIMIT: checks 13 and 17 include proxy checks and manual spot-checks that got no human eye on this edition. Import flagged 4 problems for the 2 resolver-verified URLs (Islami Bank, Debt by design -- runbook 2b): URLs not in the collected file, so the importer could not see their bodies; both full texts were read live via browser.open in this run and the summaries are written from them, not from titles."
+  "approval_notes": "Auto-approved under Rudro's rule 2026-11-13: review 17/17, longest-correct 0/25. Pack written by operator (agent) acting as the Claude Project. Manual spot-checks done by operator: lead figures verified against full source texts for CA01 ($800bn/$795bn A4T), CA03 (Tk22 lakh crore debt), CA05 (Tk6,000cr / 78.8% Islami Bank), CA06 ($80/person climate debt), CA13 (Tk1,500 crore BB scheme); attribution verified in all 4 opinion/analysis stories (CA01, CA02, CA04, CA07). URL-repeat check vs all published editions: clean. KNOWN LIMIT: checks 13 and 17 include proxy checks and manual spot-checks that got no human eye on this edition. Import flagged 4 problems for the 2 resolver-verified URLs (Islami Bank, Debt by design -- runbook 2b): URLs not in the collected file, so the importer could not see their bodies; both full texts were read live via browser.open in this run and the summaries are written from them, not from titles.",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "All 15 story-level short-question sets were rewritten as clear, source-traceable questions using facts already present in this edition.",
+    "Original story IDs, source URLs, headlines, summaries, exam facts, vocabulary, phrases and MCQs were preserved.",
+    "No new story facts or numerical claims were introduced.",
+    "Human editorial and factual review is still required before publication."
+  ]
 }
