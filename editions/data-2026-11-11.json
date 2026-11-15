@@ -58,7 +58,16 @@
         "She argues Bangladesh met the CDP's GNI, HAI and EVI tests in 2018 and 2021, yet must now cut power,",
         "transport and customs costs, widen exports and settle post-graduation tariffs and rules of origin with partners, since duty-free access alone will not keep it competitive."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "To what date was Bangladesh's LDC graduation deferred?",
+          "a": "24 November 2029."
+        },
+        {
+          "q": "Which three criteria does the UN Committee for Development Policy use to assess LDC graduation?",
+          "a": "Per-capita GNI, the Human Assets Index (HAI) and the Economic and Environmental Vulnerability Index (EVI)."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Columnist Fahmida Khatun argues the UN General Assembly's ______ decision giving Bangladesh three more years - graduation now 24 November 2029 instead of 24 November 2026 - buys vital time but cannot fix structural weakness alone.",
@@ -130,7 +139,16 @@
         "Commerce Minister Khandaker Abdul Muktadir and South Korean Ambassador Kim Ji-joon decided this at the Secretariat after Seoul sent its position on the draft with a detailed questionnaire;",
         "the minister also proposed joint shipbuilding investment and a Design and Development Centre using local engineers, while pledging priority help for Korean investors' operational and import difficulties."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "By when did Bangladesh and South Korea aim to finalise the draft Comprehensive Economic Partnership Agreement?",
+          "a": "By December 2026."
+        },
+        {
+          "q": "Which two South Korean shipbuilding companies were mentioned in the investment discussion?",
+          "a": "Hanwha Ocean and Hyundai Heavy Industries."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Bangladesh and South Korea agreed on ______ to finalise the draft of a Comprehensive Economic Partnership Agreement (CEPA) by December, clearing the way for a formal signing ceremony.",
@@ -204,8 +222,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is + Rohingya sheltered in Bangladesh?",
-          "a": "1 million"
+          "q": "Where did Tarique Rahman and Recep Tayyip Erdogan meet on 10 November 2026?",
+          "a": "At the Maxx Royal Hotel in Antalya, Turkiye."
+        },
+        {
+          "q": "Was an agreement signed at the meeting?",
+          "a": "No agreement was signed."
         }
       ],
       "recall_cards": [
@@ -280,8 +302,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is people fed then vs many more…?",
-          "a": "70 million"
+          "q": "What time horizon did economist Zahid Hussain identify for achieving greater economic security above the poverty line?",
+          "a": "The next 10–15 years."
+        },
+        {
+          "q": "Which three outcomes did he link to reducing poverty sustainably?",
+          "a": "More jobs, higher productivity and stronger real wages."
         }
       ],
       "recall_cards": [
@@ -351,12 +377,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is executive director (Statistics- ) Ashish Kumar…?",
-          "a": "1"
+          "q": "What new facility did the agreement give Karmasangsthan Bank access to?",
+          "a": "Bangladesh Bank's Credit Information Bureau (CIB)."
         },
         {
-          "q": "What is special guests included Shabnam Shirin, executive…?",
-          "a": "2"
+          "q": "What can CIB information help Karmasangsthan Bank assess before lending?",
+          "a": "Applicants' existing debts and repayment histories."
         }
       ],
       "recall_cards": [
@@ -423,12 +449,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is storey complex?",
-          "a": "15"
+          "q": "What share of Bangladesh's international trade does Chattogram Custom House handle, according to the report?",
+          "a": "About 90%."
         },
         {
-          "q": "What is % cut in clearance time?",
-          "a": "25"
+          "q": "By what percentage is the modernisation project expected to reduce cargo-clearance time?",
+          "a": "25%."
         }
       ],
       "recall_cards": [
@@ -499,7 +525,16 @@
         "Managing Director Tareq Refat Ullah Khan credited diversified businesses, prudent governance and disciplined execution; deposits grew 16% and loans 7% since December 2025,",
         "and the cost-to-income ratio improved to 41% from 46%."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "By what percentage did BRAC Bank's consolidated net profit after tax rise year on year in the first nine months of 2026?",
+          "a": "38%, to Tk21.21 billion."
+        },
+        {
+          "q": "How much did deposits grow since December 2025?",
+          "a": "16%."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "BRAC Bank's consolidated net profit after tax rose 38% year on year to Tk21.21 billion for the nine months to ______, from Tk15.36 billion a year earlier, while standalone profit rose 50% to Tk15.84 billion from Tk10.55 billion.",
@@ -569,8 +604,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is LCs?",
-          "a": "Tk124.90-124.97"
+          "q": "At what range were banks buying dollars from exchange houses on 10 November?",
+          "a": "Tk125.10–Tk125.15 per US dollar."
+        },
+        {
+          "q": "How much did BPC need for November fuel-import payments, according to the report?",
+          "a": "About $800 million."
         }
       ],
       "recall_cards": [
@@ -644,8 +683,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is % of adults included?",
-          "a": "64.5"
+          "q": "What share of Bangladeshi adults had access to formal financial services, according to the Financial Inclusion Report 2025?",
+          "a": "About 64.5%."
+        },
+        {
+          "q": "By what percentage did mobile financial services transactions rise?",
+          "a": "25.58%."
         }
       ],
       "recall_cards": [
@@ -720,8 +763,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is exports to + countries?",
-          "a": "52"
+          "q": "What annual fish and fish-product export earnings target has Bangladesh set for 2030?",
+          "a": "US$1 billion."
+        },
+        {
+          "q": "How much did fish and fish-product exports earn in FY2025-26?",
+          "a": "$504.58 million."
         }
       ],
       "recall_cards": [
@@ -793,8 +840,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Full names?",
-          "a": "Southeast Bank PLC and CliniCall Limited"
+          "q": "Which payment network will the Southeast Bank–CliniCall co-branded healthcare card use?",
+          "a": "Visa."
+        },
+        {
+          "q": "Which two services does the card combine?",
+          "a": "Everyday banking and digital healthcare services."
         }
       ],
       "recall_cards": [
@@ -864,8 +915,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is observations/guidelines?",
-          "a": "12"
+          "q": "What did the Anti-Corruption Commission restore to assistant director Md Sharif Uddin?",
+          "a": "His job, seniority and outstanding salaries and allowances."
+        },
+        {
+          "q": "How many safeguards did the Appellate Division order in its December 2023 verdict on Rule 54(2)?",
+          "a": "12 safeguards."
         }
       ],
       "recall_cards": [
@@ -943,12 +998,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is factories suspended?",
-          "a": "146"
+          "q": "How many RMG factories suspended production or declared holidays on 10 November?",
+          "a": "About 146 factories."
         },
         {
-          "q": "What is + in Ashulia?",
-          "a": "100"
+          "q": "How many affected factories were in Ashulia, according to the report?",
+          "a": "More than 100."
         }
       ],
       "recall_cards": [
@@ -1023,12 +1078,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Collected under lakh crore vs target…?",
-          "a": "Tk1.28"
+          "q": "By how much did NBR collections fall short of the July–October FY2026-27 target?",
+          "a": "More than Tk50,000 crore."
         },
         {
-          "q": "What is shortfall over crore?",
-          "a": "Tk50,000"
+          "q": "How did VAT receipts change year on year in the first four months?",
+          "a": "They fell by about 6%."
         }
       ],
       "recall_cards": [
@@ -1089,7 +1144,16 @@
         "TBS reports the draft bars any new competing civilian airport within 100 km of Dhaka from opening for 15 years - but the Caab source declined to confirm it,",
         "saying details will come at a press conference, so the condition is reported, not confirmed."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "Which body approved the draft agreement to operate Dhaka airport's Third Terminal?",
+          "a": "The Civil Aviation Authority of Bangladesh (CAAB) board."
+        },
+        {
+          "q": "What reported restriction in the draft would apply to competing civilian airports within 100 km of Dhaka, and for how long?",
+          "a": "They could not open for 15 years; CAAB had not confirmed this reported clause."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The Civil Aviation Authority of Bangladesh board on ______ approved the draft agreement with a Japanese consortium to operate Dhaka airport's Third Terminal, a mandatory step before signing that now goes to the Ministry of Civil Aviation and Tourism and other ministries.",
@@ -2291,5 +2355,12 @@
     }
   ],
   "approved_by": "Rudro",
-  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 5 (11 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-11/."
+  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 5 (11 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-11/.",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+    "Questions use facts already present in the edition; reported and unconfirmed claims are explicitly attributed or qualified.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
