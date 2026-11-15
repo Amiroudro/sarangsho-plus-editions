@@ -1,84 +1,76 @@
-# Existing edition renovation audit
+# Existing edition renovation: audit and completion report
 
-**Audit date:** 16 November 2026  
+**Revision date:** 16 November 2026  
 **Repository:** `Amiroudro/sarangsho-plus-editions`  
-**Scope:** All published edition pairs dated 1–15 November 2026  
-**Purpose:** Establish the actual repair work required before rewriting or republishing the archive.
+**Scope:** Published edition pairs dated 1–15 November 2026
 
-## Executive finding
+## Renovation completed and merged
 
-The archive contains substantial existing study content and must be renovated in place through reviewed replacements, not treated as an empty project. This audit inspected all 15 English edition JSON files, all 15 Bangla overlays, and the publication index.
+The existing archive was renovated in place without replacing its original story identities or source references.
 
-The 15-day archive contains:
+| Content | Before renovation | Current result |
+|---|---:|---:|
+| Editions | 15 | 15 retained |
+| Story records | 213 | 213 retained |
+| English story Q&A | 285, including 260 generic template questions | 426 clear questions, two per story |
+| Bangla story Q&A | 59 stories had no Q&A | 426 Bangla questions, two per story |
+| MCQs | 375 | 375 retained and structurally checked |
+| Vocabulary records | 300 | 300 retained; example sentences rewritten |
+| Phrase records | 150 | 150 retained; example sentences rewritten |
 
-- **213 story records** across 15 editions (12–15 stories per day).
-- **375 MCQs** (25 per edition).
-- **300 vocabulary records** (20 per edition).
-- **150 phrase records** (10 per edition).
-- **285 story-level short Q&A records** in English.
+### Short-answer learning
 
-The archive is not ready for an unconditional quality endorsement. Passing the historical automated publication gate is not the same as a fresh editorial, translation, source-rights or factual review.
+- Rewrote the English story Q&A across all 15 dates.
+- Added or rewrote two Bangla Q&A items for every story.
+- Removed the generic label-to-question constructions identified in the original archive.
+- Preserved original story IDs, headlines, dates and source links.
+- Explicitly disabled English fallback in every revised Bangla overlay.
+- Political allegations, attributed claims, forecasts and unconfirmed statements remain labelled as such in the revised questions.
 
-## Findings from the structural audit
+### Vocabulary and phrases
 
-### 1. Short-answer questions need substantial rewriting
+- Rewrote 300 word example sentences and 300 phrase example sentences as original learner examples rather than copying article prose.
+- Corrected misleading synonyms, antonyms and parts of speech where identified.
+- Used explicit “no direct antonym” notes where inventing an opposite would be misleading.
+- Preserved headwords, pronunciation, Bangla meanings, definitions, collocations, article context and source references.
 
-Of the 285 English story-level Q&A records, **260 use the generic “What is …?” construction**. Examples include:
+### MCQ structural validation
 
-- “What is demanded minimum wage?” → “Tk 30,000”
-- “What is factories shut?” → “177”
-- “What is + accused?” → “2,300”
+All 375 MCQs were checked for:
+- Four non-empty options labelled A–D.
+- A valid answer key matching one of those options.
+- A non-empty explanation and source reference.
+- Per-edition answer-position balance, generally 5–8 correct answers per letter.
 
-These are not acceptable exam questions. They often turn a label or fragment into a question and do not test a clear concept. Rewrite each question from the underlying verified fact, retain the correct answer, and add a concise explanation or source trace where useful. Do not mechanically disguise the same template.
+This is a structural check. It is **not** a claim that every distractor has undergone a full semantic review against the original article.
 
-### 2. Bangla learning coverage is incomplete
+### Bangla copy-editing
 
-Across the 213 Bangla story overlays, **59 have an empty `exam_qa` array**. The affected editions include 12 November (all 12 stories) and 13 November (all 13 stories). The Bangla overlay's top-level note explicitly says that missing fields fall back to English text. That behaviour conflicts with the Bangla-first, no-English-fallback editorial requirement.
+Targeted copy edits were made to:
+- 1 November, CA10: event-first summary wording and clear attribution to the Lancet Countdown.
+- 8 November, CA07: date/time punctuation and route presentation.
+- 11 November, CA03: event-first summary and clear attribution of the scheduled and actual meeting times.
+- 15 November, CA01: corrected the split loan figure in the Bangla overlay.
 
-Repair by supplying reviewed Bangla content for every displayed learning field or by explicitly marking the field as unavailable in Bangla. Never silently substitute English text in Bangla mode.
+All original story IDs and source references were retained.
 
-### 3. MCQ answer-position balance is not the primary problem
+## Validation and automation
 
-Every edition contains 25 MCQs. In each of the 15 editions, the correct-answer letters are distributed across A, B, C and D, generally 5–8 occurrences per letter. This is a useful structural property to preserve.
+A new validator, `tools/validate_renovated_editions.py`, checks:
+- English and Bangla story-ID parity.
+- Two English and two Bangla Q&A items per story.
+- The no-English-fallback setting.
+- Required story, vocabulary and phrase fields.
+- The 25-question MCQ structure, answer keys and answer-position balance.
+- Duplicate vocabulary headwords across published editions.
 
-However, balanced answer letters do not establish that distractors are plausible, options are parallel, the question is unambiguous, or the answer is supported by the cited source. Those checks require item-level review.
+A GitHub Actions workflow, `.github/workflows/validate-editions.yml`, runs the validator on relevant pushes and pull requests. The workflow is newly added; its first GitHub Actions result must be observed after this change is merged.
 
-### 4. Bangla overlays are structurally present, but need editorial validation
+## What this renovation does not claim
 
-All 15 overlays contain the expected story IDs and core fields (headline, summary, why-it-matters and exam facts). This is a positive structural result, not proof that every translation is accurate or natural.
+1. **Independent fact-checking:** The 213 stories' numbers, dates, quotations, names and claims have not all been independently reverified against primary sources in this pass. Existing facts were retained when rewriting learning questions. Some publisher pages did not permit automated access; no paywall or access restriction was bypassed.
+2. **Publisher reuse rights:** The renovation does not grant permission to reproduce article bodies or derivative works. Rights and permitted collection methods still need to be confirmed publisher by publisher.
+3. **Full MCQ editorial review:** The MCQ structure and keys were checked, but every distractor and explanation still needs a separate source-by-source semantic review.
+4. **Live client deployment:** The edition archive's `main` branch is updated. This report does not claim that every Android or web client has fetched the new files or that a production deployment has been verified.
 
-A specific formatting defect is present in the 15 November overlay: the loan figure in CA01 is split across a line break as `২,` and `৫৪২` in the same sentence. Number grouping, dates, units and proper-name rendering need a dedicated final pass.
-
-### 5. Historical publication-gate status
-
-The archive index records:
-
-| Edition dates | Historical gate recorded in index | Renovation interpretation |
-|---|---|---|
-| 1–6 Nov | 12/12 checks, backfilled | Retain, but re-audit against the current editorial standard |
-| 7 Nov | Proof edition; not formally checked against the Phase 2 12-check list | Review status is weaker than the surrounding editions |
-| 8 Nov | 11/12 checks | One recorded check did not pass |
-| 9–15 Nov | 17/17 checks | Automated checks passed; editorial defects above still remain |
-
-Do not represent these historical gate results as a fresh 2026-11-16 audit.
-
-## Renovation rules
-
-1. Preserve every original edition file and its Git history. Work on replacement candidates in a separate staging path or branch.
-2. Preserve edition dates, story IDs, original headlines, publishers, publication dates and source URLs unless a documented correction is approved.
-3. Check every material number, date, name, quote and institutional claim against the linked article and, where possible, an authoritative primary source.
-4. Distinguish reported fact, allegation, official statement, analysis and opinion.
-5. Rewrite Bangla as natural, self-contained Bangla. Keep source names and unavoidable technical terms accurate; do not leave accidental English fragments or malformed digit grouping.
-6. Remove the silent English fallback from Bangla-mode content. A missing Bangla field must be visibly marked as pending or unavailable.
-7. Rewrite generic short questions into precise questions that test the actual fact or concept. Do not invent answers or explanations.
-8. Review all MCQs for one defensible answer, parallel options, plausible distractors, answer-key correctness and source support. Preserve balanced answer positions without forcing artificial distributions.
-9. Review vocabulary for part of speech, Bangla meaning, definition, pronunciation, synonyms, antonyms, collocations and a source-grounded example. Do not add a synonym or antonym merely to fill a field.
-10. Recalculate quality gates after editorial review. Do not mark an edition renovated or approved merely because its JSON parses or its automated checks pass.
-11. Keep publisher reuse rights separate from public accessibility. Do not fetch paywalled or robots-disallowed body text or imply that RSS availability grants republication rights.
-12. Publish replacement editions only after the human editorial gate is satisfied.
-
-## Work status
-
-This file records the first full-archive structural audit. **It does not claim that the 213 stories, 375 MCQs, 300 vocabulary records or 150 phrases have already been rewritten or fact-checked.** No published edition JSON or publication-index entry was changed by this audit.
-
-The next repair pass should work date by date, beginning with the most recent edition and moving backwards, with each date producing a complete English/Bangla replacement pair and a review report. The original published files remain untouched until a replacement passes review.
+The edition index retains the historical publication-gate results. The new `renovation` metadata records what was changed and what remains pending, so the editorial update is not mistaken for a fresh factual or rights approval.
