@@ -1525,7 +1525,7 @@
   "approval_notes": "Rudro tapped 'Approve the fixed Edition 6' on 2026-11-13 00:12 Dhaka. Fixed-mcq copy (longest-correct 21/25 -> 1/25, distractors lengthened only, 54 edits across 20 questions, no correct answer/question/explanation/story/word touched, letters unchanged) swapped in as draft-2026-11-12.json; original backed up as draft-2026-11-12-original.json. CEPA wording as drafted (flagged, not settled). Pack reviewed 17/17.",
   "renovation_status": "editorially_rewritten_pending_human_review",
   "renovation_notes": [
-    "Added 22 English and 22 Bangla short-answer questions for all 11 stories in this edition.",
+    "Added 24 English and 24 Bangla short-answer questions for all 12 stories in this edition.",
     "Questions use facts already present in the edition; allegations and attributed claims remain attributed.",
     "Original story IDs and source URLs preserved.",
     "Human editorial and factual review remains required before publication."
