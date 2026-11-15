@@ -67,8 +67,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is % of Gazipur factories open on…?",
-          "a": "35"
+          "q": "What minimum monthly wage were garment workers demanding during the unrest?",
+          "a": "Tk30,000."
+        },
+        {
+          "q": "What share of garment factories in Gazipur were open on Friday, 6 November, according to police?",
+          "a": "About 35%."
         }
       ],
       "recall_cards": [
@@ -142,12 +146,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is around companies?",
-          "a": "125"
+          "q": "How many individuals' bank accounts did NBR ask banks to freeze?",
+          "a": "More than 100 individuals."
         },
         {
-          "q": "What is individuals and firms in total?",
-          "a": "225"
+          "q": "How many companies' financial transactions were being scrutinised?",
+          "a": "Around 125 companies."
         }
       ],
       "recall_cards": [
@@ -215,12 +219,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is total deaths?",
-          "a": "455"
+          "q": "How many dengue deaths had been recorded in the year by 6 November?",
+          "a": "455 deaths."
         },
         {
-          "q": "What is total cases?",
-          "a": "145,906"
+          "q": "How many dengue patients were hospitalised in the 24 hours to 8am on 6 November?",
+          "a": "1,535 patients."
         }
       ],
       "recall_cards": [
@@ -290,12 +294,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is combined tally?",
-          "a": "1,276"
+          "q": "What was the combined confirmed and suspected measles-related death tally reported on 6 November?",
+          "a": "1,276 deaths."
         },
         {
-          "q": "What is suspected cases?",
-          "a": "236,714"
+          "q": "How many suspected measles cases had been recorded?",
+          "a": "236,714 cases."
         }
       ],
       "recall_cards": [
@@ -367,12 +371,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is project?",
-          "a": "Tk 447.57bn"
+          "q": "How much was allocated to the health sector in the current fiscal year?",
+          "a": "Tk694.09 billion."
         },
         {
-          "q": "What is Record allocated to the health sector…?",
-          "a": "Tk 694.09 billion"
+          "q": "How many upazila health complexes did the government plan to upgrade into 151-bed hospitals?",
+          "a": "All 503 upazila health complexes."
         }
       ],
       "recall_cards": [
@@ -447,12 +451,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is cr secondary books outstanding?",
-          "a": "6.6"
+          "q": "By what date did the authorities aim to deliver all textbooks for the 2027 academic year to upazilas?",
+          "a": "30 November 2026."
         },
         {
-          "q": "What is cr+ books to print?",
-          "a": "30"
+          "q": "How many textbooks did NCTB plan to print for nearly four crore students?",
+          "a": "More than 30 crore textbooks."
         }
       ],
       "recall_cards": [
@@ -525,12 +529,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is recommended?",
-          "a": "1,807"
+          "q": "How many candidates were recommended by the PSC in the 45th BCS?",
+          "a": "1,807 candidates."
         },
         {
-          "q": "What is gazetted?",
-          "a": "1,702"
+          "q": "How many of those recommended candidates were included in the final gazette?",
+          "a": "1,702 candidates."
         }
       ],
       "recall_cards": [
@@ -609,8 +613,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is NAV?",
-          "a": "Tk 35.84bn"
+          "q": "To what amount did Islami Bank propose to raise its authorised capital?",
+          "a": "Tk10,000 crore, from Tk2,000 crore."
+        },
+        {
+          "q": "What net loss did the bank report for July–September 2026?",
+          "a": "Tk1,970 crore."
         }
       ],
       "recall_cards": [
@@ -683,8 +691,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is EPS?",
-          "a": "Tk 3.24"
+          "q": "What was Bank Asia's net profit for January–September 2026?",
+          "a": "Tk472 crore, up 34% year on year."
+        },
+        {
+          "q": "How much did customer deposits grow to?",
+          "a": "Tk53,308 crore, up 19%."
         }
       ],
       "recall_cards": [
@@ -756,7 +768,16 @@
         "Using Enigio's solution, the banks electronically created and transferred original trade documents, including an electronic bill of lading and a digital promissory note.",
         "The digital process improved transaction visibility and document security, reducing the risks of documents being lost, delayed or altered."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "How much did the BRAC Bank export-document process reduce document processing time to?",
+          "a": "One day, down from 40 days."
+        },
+        {
+          "q": "Which two banks acted as remitting and collecting banks in the transaction?",
+          "a": "BRAC Bank was the remitting bank and Lloyds Bank was the collecting bank."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction, cutting document processing time from ______ days to just one day in a deal involving garment exporter NAZ Bangladesh and UK retailer Matalan.",
@@ -824,12 +845,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is allocated?",
-          "a": "Tk 75.7bn"
+          "q": "By what year did the government target completion of the two Dhaka monorail corridors?",
+          "a": "2030."
         },
         {
-          "q": "What is Dhaka Transport?",
-          "a": "Coordination Authority (DTCA) Additional Executive Director Md Moshiur Rahman"
+          "q": "How much was allocated for the pre-feasibility study and detailed designs?",
+          "a": "Tk75.7 billion."
         }
       ],
       "recall_cards": [
@@ -902,12 +923,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is trillion external debt?",
-          "a": "$9.4"
+          "q": "What was the external debt of developing countries in 2025, according to the World Bank?",
+          "a": "A record $9.4 trillion."
         },
         {
-          "q": "What is % average rate for poorest?",
-          "a": "8.2"
+          "q": "What average rate did the poorest countries pay on new private loans or bonds?",
+          "a": "8.2%, the highest since 1989."
         }
       ],
       "recall_cards": [
@@ -980,12 +1001,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Nearly displaced people at climate risk?",
-          "a": "90 million"
+          "q": "How many forcibly displaced people were living in countries increasingly exposed to climate hazards, according to UNHCR?",
+          "a": "Nearly 90 million."
         },
         {
-          "q": "What is Nearly forcibly displaced people live in…?",
-          "a": "90 million"
+          "q": "What share of the world's forcibly displaced people lived in countries facing severe climate risks?",
+          "a": "Nearly three-quarters."
         }
       ],
       "recall_cards": [
@@ -1055,8 +1076,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Copernicus Climate Change Service, EU?",
-          "a": "2026 'most likely' the second-hottest year on record"
+          "q": "Which year did the EU's Copernicus Climate Change Service say was most likely to be the second-hottest on record?",
+          "a": "2026."
+        },
+        {
+          "q": "How far above pre-industrial levels was October's global temperature?",
+          "a": "1.75°C."
         }
       ],
       "recall_cards": [
@@ -1129,12 +1154,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is % of graduates from National University?",
-          "a": "60-70"
+          "q": "What share of Bangladesh's graduates came from the National University, according to the UGC annual report?",
+          "a": "About 60–70%."
         },
         {
-          "q": "What is of hundreds pass problem-solving tests?",
-          "a": "10-15"
+          "q": "In the example cited from Markopolo.ai, how many applicants per position performed well in problem-solving tests?",
+          "a": "About 10–15."
         }
       ],
       "recall_cards": [
@@ -2337,5 +2362,12 @@
   ],
   "backfilled": true,
   "backfill_note": "Backfilled edition: built from real articles published 6 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). Friday edition — thinner news day (119 articles collected vs 148-166 on other backfill days). CA03 (dengue) and CA04 (measles) have no Current Affairs MCQ.",
-  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+    "Questions use facts already present in the edition; allegations and attributed agency or company claims remain qualified.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
