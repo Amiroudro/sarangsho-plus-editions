@@ -30,6 +30,16 @@
           "date": "2026-11-11",
           "url": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "How much had been spent on the Dhaka-Gazipur BRT project before the proposed conversion of its corridor?",
+          "a": "About Tk2,800 crore."
+        },
+        {
+          "q": "What share of the BRT infrastructure had been built, according to the report?",
+          "a": "Nearly 97%."
+        }
       ]
     },
     {
@@ -50,6 +60,16 @@
           "headline": "",
           "date": "2026-11-11",
           "url": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html"
+        }
+      ],
+      "exam_qa": [
+        {
+          "q": "When did Sheikh Hasina say she intended to return to Bangladesh?",
+          "a": "In December 2026."
+        },
+        {
+          "q": "Which court sentenced her to death in the crimes-against-humanity case described in the report?",
+          "a": "The International Crimes Tribunal."
         }
       ]
     },
@@ -72,6 +92,16 @@
           "date": "2026-11-11",
           "url": "https://bdnews24.com/business/olts589riy"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "How long was the deferred-payment facility for imports of Ramadan essentials?",
+          "a": "90 days."
+        },
+        {
+          "q": "Until what date did the facility remain in force?",
+          "a": "15 March 2027."
+        }
       ]
     },
     {
@@ -92,6 +122,16 @@
           "headline": "",
           "date": "2026-11-10",
           "url": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401"
+        }
+      ],
+      "exam_qa": [
+        {
+          "q": "Which mechanism did Ishraque Hossain say had been initiated to bring Sheikh Hasina back?",
+          "a": "An Interpol Red Notice process, alongside a prisoner-exchange arrangement, according to his statement."
+        },
+        {
+          "q": "What did Ishraque say was the government's preferred route for her return?",
+          "a": "Legal and diplomatic channels."
         }
       ]
     },
@@ -114,6 +154,16 @@
           "date": "2026-11-11",
           "url": "https://en.prothomalo.com/youth/education/yn8t4d7jwg"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "When did applications open for Dhaka University's 2026–27 undergraduate admission?",
+          "a": "At 12:00 noon on 11 November 2026."
+        },
+        {
+          "q": "What was the revised application fee for the Arts, Law and Social Sciences, Science and Business Studies units?",
+          "a": "Tk1,200 for each of those units."
+        }
       ]
     },
     {
@@ -135,6 +185,16 @@
           "date": "2026-11-11",
           "url": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "Under which parliamentary rule did the home minister make his statement on 11 November?",
+          "a": "Rule 300."
+        },
+        {
+          "q": "Which period did the minister compare when describing changes in law and order?",
+          "a": "February to October 2026 compared with the same nine months of 2025."
+        }
       ]
     },
     {
@@ -155,6 +215,16 @@
           "headline": "",
           "date": "2026-11-10",
           "url": "https://en.prothomalo.com/bangladesh/p03w2mzspb"
+        }
+      ],
+      "exam_qa": [
+        {
+          "q": "How many vehicles were set on fire in the 24-hour period described in the report?",
+          "a": "22 vehicles."
+        },
+        {
+          "q": "At how many locations were cocktail explosions reported, including 19 in Dhaka?",
+          "a": "At least 28 locations."
         }
       ]
     },
@@ -183,6 +253,16 @@
           "date": "2026-11-11",
           "url": "https://today.thefinancialexpress.com.bd/first-page/pm-exchanges-views-with-world-leaders-1794421725"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "Which Chinese official met Prime Minister Tarique Rahman on the sidelines of COP31?",
+          "a": "Chinese Vice-President Han Zheng."
+        },
+        {
+          "q": "At what time did the meeting take place on 11 November?",
+          "a": "4:30 pm."
+        }
       ]
     },
     {
@@ -203,6 +283,16 @@
           "headline": "",
           "date": "2026-11-10",
           "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+        }
+      ],
+      "exam_qa": [
+        {
+          "q": "On what date did Sheikh Hasina seek a new passport and national identity card, according to the report?",
+          "a": "Monday, 9 November 2026."
+        },
+        {
+          "q": "Under what process did Bangladesh say it was seeking her extradition?",
+          "a": "An acceptable prisoner-transfer process."
         }
       ]
     },
@@ -225,6 +315,16 @@
           "date": "2026-11-11",
           "url": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "Which three sectors were identified for potential Bangladesh-Kuwait joint investment?",
+          "a": "Ceramics, plastics and leather goods."
+        },
+        {
+          "q": "When was the online meeting held?",
+          "a": "11 November 2026."
+        }
       ]
     },
     {
@@ -246,6 +346,16 @@
           "date": "2026-11-10",
           "url": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606"
         }
+      ],
+      "exam_qa": [
+        {
+          "q": "What was Bangladesh's external debt at the end of 2025, according to the columnist?",
+          "a": "$113.44 billion."
+        },
+        {
+          "q": "What share of export earnings did debt service absorb in 2025?",
+          "a": "15.7%."
+        }
       ]
     },
     {
@@ -266,6 +376,16 @@
           "headline": "",
           "date": "2026-11-10",
           "url": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301"
+        }
+      ],
+      "exam_qa": [
+        {
+          "q": "How many suspected fake bKash accounts had been detected, prompting Bangladesh Bank to seek an explanation?",
+          "a": "More than 7,000."
+        },
+        {
+          "q": "Under which section of the Payment and Settlement Act, 2024, was the explanation sought?",
+          "a": "Section 37."
         }
       ]
     }
@@ -1402,5 +1522,12 @@
     }
   ],
   "approved_by": "Rudro",
-  "approval_notes": "Rudro tapped 'Approve the fixed Edition 6' on 2026-11-13 00:12 Dhaka. Fixed-mcq copy (longest-correct 21/25 -> 1/25, distractors lengthened only, 54 edits across 20 questions, no correct answer/question/explanation/story/word touched, letters unchanged) swapped in as draft-2026-11-12.json; original backed up as draft-2026-11-12-original.json. CEPA wording as drafted (flagged, not settled). Pack reviewed 17/17."
+  "approval_notes": "Rudro tapped 'Approve the fixed Edition 6' on 2026-11-13 00:12 Dhaka. Fixed-mcq copy (longest-correct 21/25 -> 1/25, distractors lengthened only, 54 edits across 20 questions, no correct answer/question/explanation/story/word touched, letters unchanged) swapped in as draft-2026-11-12.json; original backed up as draft-2026-11-12-original.json. CEPA wording as drafted (flagged, not settled). Pack reviewed 17/17.",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Added 22 English and 22 Bangla short-answer questions for all 11 stories in this edition.",
+    "Questions use facts already present in the edition; allegations and attributed claims remain attributed.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
