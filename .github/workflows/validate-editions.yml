@@ -1,0 +1,29 @@
+name: Validate renovated editions
+
+on:
+  push:
+    paths:
+      - "editions/**"
+      - "tools/validate_renovated_editions.py"
+      - ".github/workflows/validate-editions.yml"
+  pull_request:
+    paths:
+      - "editions/**"
+      - "tools/validate_renovated_editions.py"
+      - ".github/workflows/validate-editions.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Validate edition archive
+        run: python tools/validate_renovated_editions.py
