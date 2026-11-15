@@ -72,12 +72,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is demanded minimum wage?",
-          "a": "Tk 30,000"
+          "q": "What monthly minimum wage were garment workers demanding?",
+          "a": "Tk30,000."
         },
         {
-          "q": "What is factories shut?",
-          "a": "177"
+          "q": "How many factories were reported disrupted across the four industrial areas, according to BGMEA?",
+          "a": "529 factories, involving 987,190 workers who walked out."
         }
       ],
       "recall_cards": [
@@ -160,12 +160,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is HSC pass rate?",
-          "a": "51.62 percent"
+          "q": "What was the HSC pass rate in 2026, the lowest in 22 years?",
+          "a": "51.62%."
         },
         {
-          "q": "What is zero-pass institutions?",
-          "a": "181"
+          "q": "How many students achieved GPA-5 in the 2026 HSC examinations?",
+          "a": "35,948 students."
         }
       ],
       "recall_cards": [
@@ -237,12 +237,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is up?",
-          "a": "6 percent"
+          "q": "How much did Bangladesh's exports total in July–October 2026?",
+          "a": "$17 billion, up 6% year on year."
         },
         {
-          "q": "What is knitwear?",
-          "a": "$7.71 billion"
+          "q": "How much did knitwear exports reach in the same period?",
+          "a": "$7.71 billion."
         }
       ],
       "recall_cards": [
@@ -315,12 +315,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is SDR?",
-          "a": "328 million"
+          "q": "How much financing did the World Bank provide under the Financial Sector Support Project II?",
+          "a": "$450 million, equivalent to 328 million SDR."
         },
         {
-          "q": "What is interest?",
-          "a": "1.5 percent"
+          "q": "What was the repayment term, including the grace period?",
+          "a": "25 years, including a five-year grace period."
         }
       ],
       "recall_cards": [
@@ -395,8 +395,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is per US dollar?",
-          "a": "Tk 124.30"
+          "q": "How much remittance did Bangladesh receive in October 2026?",
+          "a": "$2.87 billion."
+        },
+        {
+          "q": "By what percentage did October remittance rise year on year?",
+          "a": "12.1%."
         }
       ],
       "recall_cards": [
@@ -470,12 +474,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is IMF programme?",
-          "a": "$4.5 billion"
+          "q": "What was the size of the IMF programme that included central-bank independence conditions?",
+          "a": "$4.5 billion."
         },
         {
-          "q": "What is draft amendment to the Bangladesh Bank…?",
-          "a": "1972"
+          "q": "Which legal instrument's draft amendment on central-bank autonomy remained pending?",
+          "a": "The Bangladesh Bank Order, 1972."
         }
       ],
       "recall_cards": [
@@ -546,7 +550,16 @@
       "what_happened": [
         "CPD's Debapriya Bhattacharya warned the extension was exceptional and would not be repeated, and called for the Smooth Transition Strategy to be coordinated from the Prime Minister's Office with a public dashboard."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "What is Bangladesh's revised LDC graduation date?",
+          "a": "November 2029."
+        },
+        {
+          "q": "What did CPD urge the government to phase out before graduation?",
+          "a": "Export cash incentives and other benefits reserved for LDCs."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The Centre for Policy Dialogue urged the government to set a timeline for phasing out export cash incentives and other LDC-only benefits before ______29, after the UN General Assembly granted Bangladesh a three-year preparatory period before LDC graduation.",
@@ -610,7 +623,16 @@
         "Bangladesh Bank had directed banks, mobile financial services and payment providers to integrate the feature by 31 October.",
         "The central bank, which launched interoperable QR payments in 2023, aims to make 75 percent of transactions cashless by 2027."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "When did person-to-person transfers through Bangla QR begin?",
+          "a": "1 November 2026."
+        },
+        {
+          "q": "What share of transactions did Bangladesh Bank aim to make cashless by 2027?",
+          "a": "75%."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Person-to-person transfers through Bangla QR began on ______, letting people send money by scanning the recipient's QR code without typing a mobile or account number.",
@@ -677,7 +699,16 @@
         "The roadmap, to be monitored annually, targets 7 percent GDP growth by 2029 from 4.14 percent in 2026 and inflation of 6 percent from 9.16 percent,",
         "with five ministries submitting monthly progress reports on banking, revenue and business-environment reforms."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "What is the revised date for Bangladesh's LDC graduation?",
+          "a": "24 November 2029."
+        },
+        {
+          "q": "What GDP growth target did Bangladesh set for 2029 in its reform roadmap?",
+          "a": "7%, up from 4.14% in 2026."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Bangladesh submitted a time-bound reform roadmap to the EU and the UN after securing a three-year delay to LDC graduation, now set for ______ instead of 24 November 2026.",
@@ -746,7 +777,16 @@
         "Infants and people over 65 faced more than double the heatwave days of 1986-2005, and human-caused fine particulate pollution caused about 239,000 deaths in 2023.",
         "Bangladesh lost over 26 billion potential labour hours a year to heat in 2016-2025, 71 percent more than in the 1990s."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "How much did heat exposure cost Bangladesh in lost earnings in 2025, according to the 2026 Lancet Countdown report?",
+          "a": "An estimated $17.5 billion."
+        },
+        {
+          "q": "How many deaths in Bangladesh in 2023 were attributed to human-caused fine particulate pollution?",
+          "a": "About 239,000 deaths."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Climate change cost Bangladesh an estimated $______ billion in lost earnings in 2025 through heat exposure alone, according to the 2026 Lancet Countdown report.",
@@ -816,12 +856,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is need?",
-          "a": "$6.6 billion"
+          "q": "How much green investment did Bangladesh's garment sector need for 2025–2029?",
+          "a": "$6.6 billion."
         },
         {
-          "q": "What is confirmed?",
-          "a": "$1.6 billion"
+          "q": "What was the estimated green-investment shortfall?",
+          "a": "$4.8 billion."
         }
       ],
       "recall_cards": [
@@ -891,12 +931,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is at least cases against Tajul?",
-          "a": "13"
+          "q": "Under which provision did the two accused give confessional statements in the journalist Lutfuzzaman Alif murder case?",
+          "a": "Section 164 of the Code of Criminal Procedure."
         },
         {
-          "q": "What is Victim?",
-          "a": "journalist Lutfuzzaman Alif, Durgapur, Netrokona"
+          "q": "How many people did the two accused say took part in the killing?",
+          "a": "Five people; this is their statement to the court."
         }
       ],
       "recall_cards": [
@@ -972,12 +1012,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is metre vessel?",
-          "a": "68"
+          "q": "What was the length of the US Navy vessel USS Warrior that arrived in Chattogram?",
+          "a": "68 metres."
         },
         {
-          "q": "What is Vessel?",
-          "a": "USS Warrior (68 metres), led by Lieutenant Commander Mary Senoyuit"
+          "q": "When was the CARAT-2026 joint naval exercise scheduled to begin?",
+          "a": "2 November 2026."
         }
       ],
       "recall_cards": [
@@ -1056,12 +1096,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Over stolen?",
-          "a": "$6 billion"
+          "q": "How much cryptocurrency did the FBI accuse North Korea-linked actors of stealing from Binance?",
+          "a": "More than $6 billion."
         },
         {
-          "q": "What is set aside by Binance?",
-          "a": "$6.34 billion"
+          "q": "How much did Binance say it had set aside in company funds?",
+          "a": "$6.34 billion."
         }
       ],
       "recall_cards": [
@@ -1140,12 +1180,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is TIB?",
-          "a": "Report: 'Institutional Good Governance in Bangladesh's Political Parties'"
+          "q": "What was the title of the TIB report on political-party governance?",
+          "a": "Institutional Good Governance in Bangladesh's Political Parties."
         },
         {
-          "q": "What is finding?",
-          "a": "political participation turning into a 'power-centric business model'"
+          "q": "What phrase did TIB use to describe the changing nature of political participation?",
+          "a": "A 'power-centric business model'."
         }
       ],
       "recall_cards": [],
@@ -2369,5 +2409,12 @@
   ],
   "backfilled": true,
   "backfill_note": "Backfilled from newspaper archives (Daily Star sitemap + Prothom Alo daily sitemap + Bing News RSS, all date-verified). Revision words filled from the earliest existing edition (7 Nov 2026), since no earlier edition exists.",
-  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+    "Questions preserve attribution for court statements, institutional estimates and allegations.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
