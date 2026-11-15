@@ -1,0 +1,2232 @@
+{
+  "edition_date": "2026-11-15",
+  "edition_day": "Sunday",
+  "coverage": "14 Nov 2026, 7:47 AM to 2026-11-15, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 15,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Two decades of A4T and Bangladesh",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-15",
+      "article_date": "2026-11-15",
+      "summary": "The editorial says the WTO's Aid for Trade initiative has disbursed about $800 billion since 2006, $795 billion of it between 2006 and 2024, yet the least-developed countries' share of world exports has barely moved, stuck near 1% for goods and 0.5% for services. Bangladesh, the largest Aid for Trade recipient among LDCs, received $2.67 billion in 2024 -- $134 million in grants and $2,542 million in loans -- down from $3.08 billion in 2022.",
+      "why_it_matters": "The $2.67 billion figure, the grants-versus-loans split and the LDC graduation deferral to November 2029 are the exact numbers for BCS/Bank questions on trade aid -- and the editorial's warning that aid is falling as graduation nears explains the next story on Bangladesh's trade finance.",
+      "exam_facts": "The 10th global review of Aid for Trade was held last month at the WTO headquarters in Geneva under the theme 'Partnerships for trade development'; the editorial says aid for trade is a subset of Official Development Assistance, split into trade policy and regulations, economic infrastructure, building productive capacity and trade-related adjustment; Africa took 38% of the financing and Asia 35%, while LDCs received 28% and small and vulnerable economies 5.8%; developing countries' share of global merchandise exports rose to 48% in 2024 from 38% in 2006 and services exports to 33% from 25%; the OECD-WTO report says ODA fell 8.5% in 2024 and by about 23% in 2025; total commitments for trade-supportive aid fell to $60.65 billion in 2024 from $68.87 billion in 2022; Bangladesh received $5.68 billion in net official aid in 2023, and economic infrastructure took $1.90 billion, or 71%, of its aid for trade in 2024.",
+      "exam_relevance": "Aid for Trade, WTO, LDC graduation, ODA -- core BCS/Bank trade and economy topics.",
+      "key_people": "Asjadul Kibria, columnist; World Trade Organization; Organisation for Economic Co-operation and Development",
+      "figures": "$800 billion disbursed since 2006; $795 billion 2006-2024; Bangladesh $2.67 billion in 2024 ($134 million grants, $2,542 million loans); down from $3.08 billion in 2022; LDCs about 1% of merchandise exports, 0.5% of services exports",
+      "sources": [
+        {
+          "publication": "The Financial Express",
+          "headline": "",
+          "date": "2026-11-15",
+          "url": "https://today.thefinancialexpress.com.bd/editorial/two-decades-of-a4t-and-bangladesh-1794668059"
+        }
+      ],
+      "one_liner": "The editorial says the WTO's Aid for Trade initiative has disbursed about $800 billion since 2006, $795 billion of it…",
+      "key_facts": [
+        {
+          "label": "disbursed since 2006",
+          "value": "$800 billion",
+          "original": "$800 billion disbursed since 2006"
+        },
+        {
+          "label": "2006-2024",
+          "value": "$795 billion",
+          "original": "$795 billion 2006-2024"
+        },
+        {
+          "label": "$134 million grants, $2,542 million loans",
+          "value": "Bangladesh $2.67 billion in 2024",
+          "original": "Bangladesh $2.67 billion in 2024 ($134 million grants, $2,542 million loans)"
+        },
+        {
+          "label": "LDCs about % of merchandise exports,…",
+          "value": "1",
+          "original": "LDCs about 1% of merchandise exports, 0.5% of services exports"
+        }
+      ],
+      "what_happened": [
+        "Bangladesh, the largest Aid for Trade recipient among LDCs, received $2.67 billion in 2024 -- $134 million in grants and $2,",
+        "542 million in loans -- down from $3.08 billion in 2022."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is LDCs about % of merchandise exports,…?",
+          "a": "1"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The editorial says the WTO's Aid for Trade initiative has disbursed about $______ billion since 2006, $795 billion of it between 2006 and 2024, yet the least-developed countries' share of world exports has barely moved, stuck near 1% for goods and 0.5% for services.",
+          "answer": "800"
+        },
+        {
+          "cloze": "Bangladesh, the largest Aid for Trade recipient among LDCs, received $______ billion in 2024 -- $134 million in grants and $2,542 million in loans -- down from $3.08 billion in 2022.",
+          "answer": "2.67"
+        }
+      ],
+      "keywords": [
+        "",
+        "decades",
+        "bangladesh"
+      ],
+      "detail": "The editorial says the WTO's Aid for Trade initiative has disbursed about $800 billion since 2006, $795 billion of it between 2006 and 2024, yet the least-developed countries' share of world exports has barely moved, stuck near 1% for goods and 0.5% for services. Bangladesh, the largest Aid for Trade recipient among LDCs, received $2.67 billion in 2024 -- $134 million in grants and $2,542 million in loans -- down from $3.08 billion in 2022."
+    },
+    {
+      "id": "CA02",
+      "headline": "Beyond garments: What would bring more American investment to Bangladesh?",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Columnist Zillur Rahman argues that selling garments to American retailers is not the same as attracting American capital: 25 US companies visited Dhaka in August, yet Bangladesh Bank figures show net foreign direct investment fell 28% in the first half of 2026. He writes that Bangladesh attracted about $1.77 billion in net FDI in 2025, but fresh equity capital did not increase -- the money came from reinvested profits and inter-company loans, not new entrants.",
+      "why_it_matters": "The 28% fall, the $1.77 billion figure and the February Agreement on Reciprocal Trade are the live numbers for BCS/Bank questions on FDI -- and the column's list of obstacles (contract enforcement, power supply, dividend repatriation) explains why investor visits do not become factories.",
+      "exam_facts": "The columnist writes that the obstacles include contract enforcement, unexpected regulatory changes, the availability of electricity, clearing imported equipment and the repatriation of dividends; he writes that the US government's 2026 assessment of Bangladesh's trade barriers highlighted lengthy and complicated procedures for transferring investment-related funds abroad; he writes that international investors complain about excessive bureaucracy and unpredictable taxation, and that tax holidays are of little use when business planning is uncertain; the Agreement on Reciprocal Trade, signed by the US and Bangladesh in February, provides a starting point, he argues.",
+      "exam_relevance": "Foreign direct investment, US-Bangladesh trade, investment climate -- core BCS/Bank economy topics.",
+      "key_people": "Zillur Rahman, columnist; Bangladesh Bank",
+      "figures": "25 American companies visited Dhaka in August 2026; net FDI fell 28% in the first half of 2026; about $1.77 billion net FDI in 2025",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/thoughts/beyond-garments-what-would-bring-more-american-investment-bangladesh-1602196"
+        }
+      ],
+      "one_liner": "Columnist Zillur Rahman argues that selling garments to American retailers is not the same as attracting American capital: 25 US…",
+      "key_facts": [
+        {
+          "label": "American companies visited Dhaka in August…",
+          "value": "25",
+          "original": "25 American companies visited Dhaka in August 2026"
+        },
+        {
+          "label": "net FDI fell % in the…",
+          "value": "28",
+          "original": "net FDI fell 28% in the first half of 2026"
+        },
+        {
+          "label": "about net FDI in 2025",
+          "value": "$1.77 billion",
+          "original": "about $1.77 billion net FDI in 2025"
+        },
+        {
+          "label": "he writes that the US government's…",
+          "value": "2026",
+          "original": "he writes that the US government's 2026 assessment of Bangladesh's trade barriers highlighted lengthy and complicated procedures for transferring investment-related funds abroad"
+        }
+      ],
+      "what_happened": [
+        "He writes that Bangladesh attracted about $1.77 billion in net FDI in 2025, but fresh equity capital did not increase -- the money came from reinvested profits and inter-company loans,",
+        "not new entrants."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is net FDI fell % in the…?",
+          "a": "28"
+        },
+        {
+          "q": "What is he writes that the US government's…?",
+          "a": "2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Zillur Rahman argues that selling garments to American retailers is not the same as attracting American capital: ______ US companies visited Dhaka in August, yet Bangladesh Bank figures show net foreign direct investment fell 28% in the first half of 2026.",
+          "answer": "25"
+        },
+        {
+          "cloze": "He writes that Bangladesh attracted about $______ billion in net FDI in 2025, but fresh equity capital did not increase -- the money came from reinvested profits and inter-company loans, not new entrants.",
+          "answer": "1.77"
+        }
+      ],
+      "keywords": [
+        "",
+        "beyond",
+        "garments",
+        "what",
+        "bring",
+        "american",
+        "investment",
+        "bangladesh"
+      ],
+      "detail": "Columnist Zillur Rahman argues that selling garments to American retailers is not the same as attracting American capital: 25 US companies visited Dhaka in August, yet Bangladesh Bank figures show net foreign direct investment fell 28% in the first half of 2026. He writes that Bangladesh attracted about $1.77 billion in net FDI in 2025, but fresh equity capital did not increase -- the money came from reinvested profits and inter-company loans, not new entrants."
+    },
+    {
+      "id": "CA03",
+      "headline": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-15",
+      "article_date": "2026-11-15",
+      "summary": "Bangladesh opens its first international debt conference in Cox's Bazar today (15 November), as the Finance Division and the Asian Development Bank search for new ways to manage public debt that has passed Tk22 lakh crore. The finance minister told parliament on 12 July that total outstanding debt stood at Tk22,06,462 crore, including Tk9,59,311 crore in foreign debt, and the FY27 budget sets aside Tk1,27,500 crore for interest payments alone.",
+      "why_it_matters": "The Tk22 lakh crore debt stock, the record $4.494 billion repaid in FY2025-26 and the LDC graduation deferral to 24 November 2029 are the hard numbers for BCS/Bank questions on public debt -- and the conference's agenda (a Debt Management Office, sukuk, Eurobonds, JPMorgan index inclusion) is the reform story to follow.",
+      "exam_facts": "The two-day International Debt Conference Bangladesh 2026, under the theme 'Public Debt Management in a Changing Global Landscape', is inaugurated by Finance and Planning Minister Amir Khosru Mahmud Chowdhury; experts from the United States, the United Kingdom, Malaysia, Indonesia, Pakistan and Sri Lanka are expected; the Finance Division has prepared a Medium-Term Debt Management Strategy, conducts regular debt sustainability analyses and publishes public debt bulletins, and will introduce an Annual Borrowing Plan this fiscal year; the conference will discuss connecting with Euroclear and Clearstream and inclusion in JPMorgan's Government Bond Index-Emerging Markets Global Diversified index; the IMF classified Bangladesh at moderate risk of overall and external debt distress in its 2025 Article IV consultation; new foreign loan commitments of $5.243 billion in FY2025-26 were the lowest in 14 years.",
+      "exam_relevance": "Public debt, debt management, LDC graduation, IMF -- core BCS/Bank economy topics.",
+      "key_people": "Amir Khosru Mahmud Chowdhury, Finance and Planning Minister; Finance Division; Asian Development Bank; International Monetary Fund",
+      "figures": "Public debt above Tk22 lakh crore; Tk22,06,462 crore on 12 July 2026 (foreign Tk9,59,311 crore); FY27 interest Tk1,27,500 crore; repaid a record $4.494 billion in FY2025-26 ($2.95 billion principal, $1.54 billion interest); new commitments $5.243 billion, lowest in 14 years",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-15",
+          "url": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651"
+        }
+      ],
+      "one_liner": "Bangladesh opens its first international debt conference in Cox's Bazar today (15 November), as the Finance Division and the Asian…",
+      "key_facts": [
+        {
+          "label": "Public debt above lakh crore",
+          "value": "Tk22",
+          "original": "Public debt above Tk22 lakh crore"
+        },
+        {
+          "label": "foreign Tk9,59,311 crore",
+          "value": "Tk22,06,462 crore on 12 July 2026",
+          "original": "Tk22,06,462 crore on 12 July 2026 (foreign Tk9,59,311 crore)"
+        },
+        {
+          "label": "FY interest Tk1,27,500 crore",
+          "value": "27",
+          "original": "FY27 interest Tk1,27,500 crore"
+        },
+        {
+          "label": "$2.95 billion principal, $1.54 billion interest",
+          "value": "repaid a record $4.494 billion in FY2025-26",
+          "original": "repaid a record $4.494 billion in FY2025-26 ($2.95 billion principal, $1.54 billion interest)"
+        }
+      ],
+      "what_happened": [
+        "The finance minister told parliament on 12 July that total outstanding debt stood at Tk22,06,462 crore,",
+        "including Tk9,59,311 crore in foreign debt, and the FY27 budget sets aside Tk1,27,500 crore for interest payments alone."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Public debt above lakh crore?",
+          "a": "Tk22"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh opens its first international debt conference in Cox's Bazar today (______), as the Finance Division and the Asian Development Bank search for new ways to manage public debt that has passed Tk22 lakh crore.",
+          "answer": "15 November"
+        },
+        {
+          "cloze": "The finance minister told parliament on ______ that total outstanding debt stood at Tk22,06,462 crore, including Tk9,59,311 crore in foreign debt, and the FY27 budget sets aside Tk1,27,500 crore for interest payments alone.",
+          "answer": "12 July"
+        }
+      ],
+      "keywords": [
+        "",
+        "bangladesh",
+        "seeks",
+        "debt",
+        "strategy",
+        "rising",
+        "repayment",
+        "pressure"
+      ],
+      "detail": "Bangladesh opens its first international debt conference in Cox's Bazar today (15 November), as the Finance Division and the Asian Development Bank search for new ways to manage public debt that has passed Tk22 lakh crore. The finance minister told parliament on 12 July that total outstanding debt stood at Tk22,06,462 crore, including Tk9,59,311 crore in foreign debt, and the FY27 budget sets aside Tk1,27,500 crore for interest payments alone."
+    },
+    {
+      "id": "CA04",
+      "headline": "IMF loans: Whether an attempt to address economic challenges",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "The analysis argues that IMF budgetary support can help Bangladesh manage external payment pressures, but only if the money is used productively: the government has set a 6.5% growth target for 2026-27 against the World Bank's 6.1%, while the banking system's non-performing loan ratio reached 32.78% by June 2026, or Tk6,06,555 crore. It notes Bangladesh has received $3.8 billion of a $5.5 billion IMF approval, with $1.7 billion still undisbursed.",
+      "why_it_matters": "The 32.78% NPL ratio, the $5.5 billion IMF package and the 6.7% tax-to-GDP ratio against the World Bank's 15% target are the numbers BCS/Bank questions on banking reform and IMF programmes use -- and the analysis's warning that loans are not grants frames the debt debate.",
+      "exam_facts": "The analysis says the then Awami League government first approached the IMF amid external payment pressures, and after approval of a $4.7 billion package received three disbursements totalling $2.1 billion before 5 August 2024; during the 18-month interim period only one disbursement of $1.3 billion was made; the programme included the Extended Fund Facility, the Extended Credit Facility and the Resilience and Sustainability Facility; at a discussion in Bangkok on 8 October 2026 the Bangladesh delegation raised exchange-rate management, banking reforms, electricity and fertiliser subsidies and revenue collection; the IMF's January 2026 debt sustainability analysis put total public and publicly guaranteed debt at about 41% of GDP in FY2025, or $188.8 billion, with domestic debt service at 4.2% of GDP, equal to 89.4% of government revenue; total external debt including the private sector was $113.5 billion in June 2026; the World Bank says Bangladesh should raise its tax-to-GDP ratio to 15% from about 6.7%, and the analysis suggests aiming first for 10%.",
+      "exam_relevance": "IMF programmes, non-performing loans, tax-to-GDP, public debt -- core BCS/Bank economy topics.",
+      "key_people": "International Monetary Fund; World Bank; Bangladesh Bank",
+      "figures": "Growth target 6.5% for 2026-27 (World Bank 6.1%); NPL ratio 32.78% in June 2026 (Tk6,06,555 crore); $5.5 billion IMF approval, $3.8 billion received, $1.7 billion undisbursed; public debt about 41% of GDP ($188.8 billion); tax-to-GDP about 6.7% (India 7.4%, Sri Lanka 9.9%, Pakistan 10.5%)",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801"
+        }
+      ],
+      "one_liner": "The analysis argues that IMF budgetary support can help Bangladesh manage external payment pressures, but only if the money is…",
+      "key_facts": [
+        {
+          "label": "World Bank 6.1%",
+          "value": "Growth target 6.5% for 2026-27",
+          "original": "Growth target 6.5% for 2026-27 (World Bank 6.1%)"
+        },
+        {
+          "label": "Tk6,06,555 crore",
+          "value": "NPL ratio 32.78% in June 2026",
+          "original": "NPL ratio 32.78% in June 2026 (Tk6,06,555 crore)"
+        },
+        {
+          "label": "IMF approval, $3.8 billion received, $1.7…",
+          "value": "$5.5 billion",
+          "original": "$5.5 billion IMF approval, $3.8 billion received, $1.7 billion undisbursed"
+        },
+        {
+          "label": "$188.8 billion",
+          "value": "public debt about 41% of GDP",
+          "original": "public debt about 41% of GDP ($188.8 billion)"
+        }
+      ],
+      "what_happened": [
+        "It notes Bangladesh has received $3.8 billion of a $5.5 billion IMF approval, with $1.7 billion still undisbursed."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The analysis argues that IMF budgetary support can help Bangladesh manage external payment pressures, but only if the money is used productively: the government has set a 6.5% growth target for 2026-27 against the World Bank's 6.1%, while the banking system's non-performing loan ratio reached 32.78% by ______26, or Tk6,06,555 crore.",
+          "answer": "June 20"
+        },
+        {
+          "cloze": "It notes Bangladesh has received $______ billion of a $5.5 billion IMF approval, with $1.7 billion still undisbursed.",
+          "answer": "3.8"
+        }
+      ],
+      "keywords": [
+        "",
+        "loans",
+        "whether",
+        "attempt",
+        "address",
+        "economic",
+        "challenges"
+      ],
+      "detail": "The analysis argues that IMF budgetary support can help Bangladesh manage external payment pressures, but only if the money is used productively: the government has set a 6.5% growth target for 2026-27 against the World Bank's 6.1%, while the banking system's non-performing loan ratio reached 32.78% by June 2026, or Tk6,06,555 crore. It notes Bangladesh has received $3.8 billion of a $5.5 billion IMF approval, with $1.7 billion still undisbursed."
+    },
+    {
+      "id": "CA05",
+      "headline": "Islami Bank seeks Tk6,000cr govt investment, could hand state 78.8% ownership",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-13",
+      "article_date": "2026-11-13",
+      "summary": "Islami Bank has sought Tk6,000 crore in equity investment from the government or state-owned institutions, a move that could give the state a 78.8% stake in the country's largest private commercial bank. The bank proposes issuing 600 crore new shares at Tk10 each, lifting paid-up capital from Tk1,609.99 crore to Tk7,609.99 crore, after posting a net loss of Tk3,303 crore in January-September against a Tk79 crore profit a year earlier.",
+      "why_it_matters": "A 78.8% state stake in the largest private bank, Tk1,00,600 crore of defaulted loans and a Tk85,886 crore provisioning shortfall are the testable facts for BCS/Bank questions on banking crises -- and the fight over who owns the new shares decides whether the S Alam Group's frozen 81.59% holding is diluted.",
+      "exam_facts": "The bank submitted its Capital Restoration Plan 2027-2033 to Bangladesh Bank on 4 April; on 9 November the central bank's Banking Regulation and Policy Department wrote to the Financial Institutions Division secretary asking whether the government would agree; a senior bank official told TBS the investment would stop former owners regaining influence by buying the new shares; former governor Ahsan H Mansur criticised the proposal, saying governments worldwide have withdrawn from banking and warning the Tk6,000 crore could be squandered within a few years; he suggested seeking investment from former foreign shareholders including the Islamic Development Bank, Dubai Islamic Bank and Kuwait Finance House; Centre for Policy Dialogue fellow Fahmida Khatun said the decision needs a careful assessment of capital and asset quality; S Alam Group and 24 affiliated entities acquired 131.35-131.89 crore shares, or 81.59%-81.92%, now frozen under court orders; the bank's July-September loss was Tk1,976 crore and its provisioning shortfall Tk85,886 crore.",
+      "exam_relevance": "Bank recapitalisation, state ownership, defaulted loans, S Alam Group -- core BCS/Bank banking topics.",
+      "key_people": "Ahsan H Mansur, former Bangladesh Bank governor; Fahmida Khatun, Centre for Policy Dialogue; S Alam Group",
+      "figures": "Tk6,000 crore sought; 78.8% state stake; 600 crore new shares at Tk10; paid-up capital Tk1,609.99 crore to Tk7,609.99 crore; net loss Tk3,303 crore in January-September 2026 (profit Tk79 crore a year earlier); defaulted loans Tk1,00,600 crore of Tk1,81,860 crore; provisioning shortfall Tk85,886 crore",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-13",
+          "url": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171"
+        }
+      ],
+      "one_liner": "Islami Bank has sought Tk6,000 crore in equity investment from the government or state-owned institutions, a move that could give…",
+      "key_facts": [
+        {
+          "label": "crore sought",
+          "value": "Tk6,000",
+          "original": "Tk6,000 crore sought"
+        },
+        {
+          "label": "% state stake",
+          "value": "78.8",
+          "original": "78.8% state stake"
+        },
+        {
+          "label": "paid-up capital crore to Tk7,609.99 crore",
+          "value": "Tk1,609.99",
+          "original": "paid-up capital Tk1,609.99 crore to Tk7,609.99 crore"
+        },
+        {
+          "label": "profit Tk79 crore a year earlier",
+          "value": "net loss Tk3,303 crore in January-September 2026",
+          "original": "net loss Tk3,303 crore in January-September 2026 (profit Tk79 crore a year earlier)"
+        }
+      ],
+      "what_happened": [
+        "The bank proposes issuing 600 crore new shares at Tk10 each, lifting paid-up capital from Tk1,",
+        "609.99 crore to Tk7,609.99 crore, after posting a net loss of Tk3,303 crore in January-September against a Tk79 crore profit a year earlier."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is crore sought?",
+          "a": "Tk6,000"
+        },
+        {
+          "q": "What is % state stake?",
+          "a": "78.8"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Islami Bank has sought Tk______ crore in equity investment from the government or state-owned institutions, a move that could give the state a 78.8% stake in the country's largest private commercial bank.",
+          "answer": "6,000"
+        },
+        {
+          "cloze": "The bank proposes issuing ______ crore new shares at Tk10 each, lifting paid-up capital from Tk1,609.99 crore to Tk7,609.99 crore, after posting a net loss of Tk3,303 crore in January-September against a Tk79 crore profit a year earlier.",
+          "answer": "600"
+        }
+      ],
+      "keywords": [
+        "",
+        "islami",
+        "bank",
+        "seeks",
+        "govt",
+        "investment",
+        "hand",
+        "state",
+        "ownership"
+      ],
+      "detail": "Islami Bank has sought Tk6,000 crore in equity investment from the government or state-owned institutions, a move that could give the state a 78.8% stake in the country's largest private commercial bank. The bank proposes issuing 600 crore new shares at Tk10 each, lifting paid-up capital from Tk1,609.99 crore to Tk7,609.99 crore, after posting a net loss of Tk3,303 crore in January-September against a Tk79 crore profit a year earlier."
+    },
+    {
+      "id": "CA06",
+      "headline": "'Debt by design': Bangladesh's climate debt estimated at $80 per person, new index finds",
+      "category": "World",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Bangladesh carries an estimated climate debt of $80 per person, putting it in the 'High Risk' category of a new global index presented at a COP31 policy dialogue in Antalya on 14 November. Data shown at the session said 92% of the $2.54 billion in climate finance directed to Bangladesh's energy sector between 2002 and 2023 came as loans, and 18.84% of the funding designated for climate projects went to fossil-fuel initiatives.",
+      "why_it_matters": "The $80-per-person figure, the 92%-loans share and the 15-18% borrowing rates vulnerable economies pay against 2-3% for wealthy nations are the quotable facts for BCS/Bank questions on climate finance -- and the index reframes climate aid as debt, not help.",
+      "exam_facts": "Dhaka-based think tanks Change Initiative and Young Power in Social Action (YPSA) organised the dialogue, titled '25 Years of Climate Finance: Progress, Gaps and Transformative Solutions'; Change Initiative said 69% of public climate finance to developing countries in 2022 came as loans, while international public adaptation finance fell from $28 billion in 2022 to $26 billion in 2023, with 58% delivered as debt; vulnerable economies borrowed at 15-18% interest against 2-3% for wealthy nations and often had to repay infrastructure loans within three to four years; seven of the nine planetary boundaries have now been breached, against three when the framework was first assessed in 2009, with only the ozone layer recovering; international biodiversity finance stood at $18.9 billion in 2024, about one-sixth of the $115.9 billion mobilised for climate finance in 2022; Change Initiative proposed 12 non-debt revenue mechanisms that could generate $35 billion-$400 billion a year by the early 2030s, including a climate damages tax on fossil fuel profits worth $60 billion, a 2% minimum tax on billionaires worth $25 billion, redirecting fossil fuel subsidies worth $15 billion and a 1% contribution from military budgets worth $15 billion.",
+      "exam_relevance": "Climate finance, climate debt, COP31, planetary boundaries -- core BCS/Bank environment topics.",
+      "key_people": "M Zakir Hossain Khan, Change Initiative; Barrister Mahbubul Alam Salehin, lawmaker for Kurigram-3; Muhammad Haseeb Khan, Climate Vulnerable Forum; Mofazzal Hossain, Change Initiative",
+      "figures": "$80 climate debt per person; 92% of $2.54 billion energy-sector climate finance 2002-2023 as loans; 18.84% of designated climate funding to fossil fuels; 69% of public climate finance in 2022 as loans; adaptation finance $28 billion (2022) to $26 billion (2023); borrowing at 15-18% vs 2-3%; 7 of 9 planetary boundaries breached",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/environment/climate-change/debt-design-bangladeshs-climate-debt-estimated-80-person-new-index-finds"
+        }
+      ],
+      "one_liner": "Bangladesh carries an estimated climate debt of $80 per person, putting it in the 'High Risk' category of a new…",
+      "key_facts": [
+        {
+          "label": "climate debt per person",
+          "value": "$80",
+          "original": "$80 climate debt per person"
+        },
+        {
+          "label": "% of $2.54 billion energy-sector climate…",
+          "value": "92",
+          "original": "92% of $2.54 billion energy-sector climate finance 2002-2023 as loans"
+        },
+        {
+          "label": "% of designated climate funding to…",
+          "value": "18.84",
+          "original": "18.84% of designated climate funding to fossil fuels"
+        },
+        {
+          "label": "% of public climate finance in…",
+          "value": "69",
+          "original": "69% of public climate finance in 2022 as loans"
+        }
+      ],
+      "what_happened": [
+        "Data shown at the session said 92% of the $2.54 billion in climate finance directed to Bangladesh's energy sector between 2002 and 2023 came as loans,",
+        "and 18.84% of the funding designated for climate projects went to fossil-fuel initiatives."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is climate debt per person?",
+          "a": "$80"
+        },
+        {
+          "q": "What is % of designated climate funding to…?",
+          "a": "18.84"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh carries an estimated climate debt of $80 per person, putting it in the 'High Risk' category of a new global index presented at a COP31 policy dialogue in Antalya on ______.",
+          "answer": "14 November"
+        },
+        {
+          "cloze": "Data shown at the session said ______% of the $2.54 billion in climate finance directed to Bangladesh's energy sector between 2002 and 2023 came as loans, and 18.84% of the funding designated for climate projects went to fossil-fuel initiatives.",
+          "answer": "92"
+        }
+      ],
+      "keywords": [
+        "",
+        "debt",
+        "design",
+        "bangladesh",
+        "climate",
+        "estimated",
+        "person",
+        "index",
+        "finds"
+      ],
+      "detail": "Bangladesh carries an estimated climate debt of $80 per person, putting it in the 'High Risk' category of a new global index presented at a COP31 policy dialogue in Antalya on 14 November. Data shown at the session said 92% of the $2.54 billion in climate finance directed to Bangladesh's energy sector between 2002 and 2023 came as loans, and 18.84% of the funding designated for climate projects went to fossil-fuel initiatives."
+    },
+    {
+      "id": "CA07",
+      "headline": "COP31: Can climate pledges translate into action?",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-12",
+      "article_date": "2026-11-14",
+      "summary": "Columnist Shahriar Hossain argues the COP31 Leaders' Summit in Antalya on 11-12 November sent one political message: announcing climate ambitions without delivering results must end. He writes that the summit's Global 35-by-35 Electrification Pledge aims to lift electricity's share of global final energy use from about 23% to 35% by 2035, and that leaders announced more than $480 million in new philanthropic commitments to cut methane and other non-CO2 pollutants.",
+      "why_it_matters": "The 35-by-35 pledge, the $480 million methane funding and the 20 November end of negotiations are the concrete COP31 outcomes for BCS/Bank questions -- and the column's five lessons for Bangladesh, from zero waste to a Global Plastics Treaty, give the exam hook for what happens after Antalya.",
+      "exam_facts": "The columnist writes that the summit was convened under Turkiye's COP31 presidency in partnership with Australia, and that the wider negotiations continue until 20 November; he writes that President Recep Tayyip Erdogan emphasised cooperation and country-led action, while UN Secretary-General Antonio Guterres stressed that climate science demands stronger action rather than resignation; he writes that the Leaders' Roundtable on Zero Waste, Circularity and Methane was held on 11 November, and that Guterres called for halving food waste by 2030, ending open dumping and burning, and capturing methane from landfills and wastewater; he writes that the Leaders' Level Non-CO2 Greenhouse Gases Summit on 12 November announced an additional $25 million for the Super Pollutant Country Action Accelerator, expanding support to seven more developing countries; he writes that Bangladesh's ESDO Zero Waste Village initiative offers a foundation for a Low-Methane Cities initiative, and that the Secretary-General cited Dhaka among cities converting organic waste into useful resources.",
+      "exam_relevance": "COP31, electrification, methane, zero waste, climate finance -- core BCS/Bank environment topics.",
+      "key_people": "Shahriar Hossain, columnist; Recep Tayyip Erdogan, President of Turkiye; Antonio Guterres, UN Secretary-General",
+      "figures": "Leaders' Summit 11-12 November 2026; electricity share from about 23% to 35% by 2035; more than $480 million for methane and non-CO2 pollutants; $25 million for the Super Pollutant Country Action Accelerator; negotiations until 20 November 2026",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201"
+        }
+      ],
+      "one_liner": "Columnist Shahriar Hossain argues the COP31 Leaders' Summit in Antalya on 11-12 November sent one political message: announcing climate ambitions…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Leaders' Summit 11-12 November 2026",
+          "original": "Leaders' Summit 11-12 November 2026"
+        },
+        {
+          "label": "electricity share from about % to…",
+          "value": "23",
+          "original": "electricity share from about 23% to 35% by 2035"
+        },
+        {
+          "label": "more than for methane and non-CO2…",
+          "value": "$480 million",
+          "original": "more than $480 million for methane and non-CO2 pollutants"
+        },
+        {
+          "label": "for the Super Pollutant Country Action…",
+          "value": "$25 million",
+          "original": "$25 million for the Super Pollutant Country Action Accelerator"
+        }
+      ],
+      "what_happened": [
+        "He writes that the summit's Global 35-by-35 Electrification Pledge aims to lift electricity's share of global final energy use from about 23% to 35% by 2035,",
+        "and that leaders announced more than $480 million in new philanthropic commitments to cut methane and other non-CO2 pollutants."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is electricity share from about % to…?",
+          "a": "23"
+        },
+        {
+          "q": "What is for the Super Pollutant Country Action…?",
+          "a": "$25 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Shahriar Hossain argues the COP31 Leaders' Summit in Antalya on 11-______ sent one political message: announcing climate ambitions without delivering results must end.",
+          "answer": "12 November"
+        },
+        {
+          "cloze": "He writes that the summit's Global ______-by-35 Electrification Pledge aims to lift electricity's share of global final energy use from about 23% to 35% by 2035, and that leaders announced more than $480 million in new philanthropic commitments to cut methane and other non-CO2 pollutants.",
+          "answer": "35"
+        }
+      ],
+      "keywords": [
+        "",
+        "climate",
+        "pledges",
+        "translate",
+        "action"
+      ],
+      "detail": "Columnist Shahriar Hossain argues the COP31 Leaders' Summit in Antalya on 11-12 November sent one political message: announcing climate ambitions without delivering results must end. He writes that the summit's Global 35-by-35 Electrification Pledge aims to lift electricity's share of global final energy use from about 23% to 35% by 2035, and that leaders announced more than $480 million in new philanthropic commitments to cut methane and other non-CO2 pollutants."
+    },
+    {
+      "id": "CA08",
+      "headline": "BGMEA: Scenario being created for announcing unreasonable wages",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Garment owners say a pretext is being created to force an unreasonable wage announcement by destabilising the readymade garment industry, even though the wage board was formed on 1 November. BGMEA president Mahmud Hasan Khan told a press conference on 14 November that 147 factories in Savar-Ashulia and Gazipur cannot keep production running, with 55 closed indefinitely under Section 13(1) of the Labour Act and 92 forced to declare a holiday on Saturday alone.",
+      "why_it_matters": "The 147 factories, the 55 closures under Section 13(1) and the third wage board meeting on Monday 16 November are the live facts for BCS/Bank questions on the garment wage crisis -- and the owners' warning that talks become questionable while vandalism continues sets up the next round.",
+      "exam_facts": "The joint press conference by BGMEA and the Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA) was held at the BGMEA Complex in Uttara, Dhaka, on 14 November, after a view-exchange meeting attended by over a thousand factory owners; Khan said the effective date for the increased wages was already announced at the wage board's first meeting; he said factories able to maintain regular operations are not permitted to shut down under Section 13(1), but factories that cannot sustain production for even an hour despite their best efforts are legally entitled to close for lack of security; he said law enforcement agencies are working on the unrest and have brought the perpetrators under surveillance; BKMEA executive president Fazlee Shamim Ehsan and vice president Amal Poddar attended, along with BGMEA vice presidents Rezwan Selim and Mizanur Rahman.",
+      "exam_relevance": "Garment industry, wage board, labour law, RMG unrest -- core BCS/Bank economy topics.",
+      "key_people": "Mahmud Hasan Khan, BGMEA president; Fazlee Shamim Ehsan, BKMEA executive president",
+      "figures": "Wage board formed 1 November 2026; 147 factories unable to run production; 55 factories closed indefinitely under Section 13(1); 92 factories forced to declare a holiday; third wage board meeting 16 November 2026",
+      "sources": [
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.dhakatribune.com/business/424650/bgmea-scenario-being-created-for-announcing"
+        }
+      ],
+      "one_liner": "Garment owners say a pretext is being created to force an unreasonable wage announcement by destabilising the readymade garment industry,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Wage board formed 1 November 2026",
+          "original": "Wage board formed 1 November 2026"
+        },
+        {
+          "label": "factories unable to run production",
+          "value": "147",
+          "original": "147 factories unable to run production"
+        },
+        {
+          "label": "1",
+          "value": "55 factories closed indefinitely under Section 13",
+          "original": "55 factories closed indefinitely under Section 13(1)"
+        },
+        {
+          "label": "factories forced to declare a holiday",
+          "value": "92",
+          "original": "92 factories forced to declare a holiday"
+        }
+      ],
+      "what_happened": [
+        "BGMEA president Mahmud Hasan Khan told a press conference on 14 November that 147 factories in Savar-Ashulia and Gazipur cannot keep production running,",
+        "with 55 closed indefinitely under Section 13(1) of the Labour Act and 92 forced to declare a holiday on Saturday alone."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is factories unable to run production?",
+          "a": "147"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garment owners say a pretext is being created to force an unreasonable wage announcement by destabilising the readymade garment industry, even though the wage board was formed on ______.",
+          "answer": "1 November"
+        },
+        {
+          "cloze": "BGMEA president Mahmud Hasan Khan told a press conference on ______ that 147 factories in Savar-Ashulia and Gazipur cannot keep production running, with 55 closed indefinitely under Section 13(1) of the Labour Act and 92 forced to declare a holiday on Saturday alone.",
+          "answer": "14 November"
+        }
+      ],
+      "keywords": [
+        "",
+        "bgmea",
+        "scenario",
+        "being",
+        "created",
+        "announcing",
+        "unreasonable",
+        "wages"
+      ],
+      "detail": "Garment owners say a pretext is being created to force an unreasonable wage announcement by destabilising the readymade garment industry, even though the wage board was formed on 1 November. BGMEA president Mahmud Hasan Khan told a press conference on 14 November that 147 factories in Savar-Ashulia and Gazipur cannot keep production running, with 55 closed indefinitely under Section 13(1) of the Labour Act and 92 forced to declare a holiday on Saturday alone."
+    },
+    {
+      "id": "CA09",
+      "headline": "Hasina will return under extradition treaty with India, says law minister",
+      "category": "Politics",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-15",
+      "summary": "Law Minister Md Asaduzzaman says Sheikh Hasina will be brought back to Bangladesh through a legal process under the extradition treaty with India, adding that Dhaka has done everything required of it and 'what they [India] do next is up to them'. The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in November 2025, and Bangladesh has formally sought her extradition, but New Delhi has not responded.",
+      "why_it_matters": "The law minister's statement that Dhaka's legal process is complete, against India's silence a day after it declined comment, is the newest fact for BCS/Bank questions on extradition -- and the Article 47(3) bar on fundamental-rights claims in crimes-against-humanity cases is the constitutional anchor.",
+      "exam_facts": "Asaduzzaman spoke to reporters on 14 November after the annual general meeting of the Bangladesh Registration Service Association; he said her return would follow established legal procedures and that extradition under the treaty is itself a legal process; he said the Appellate Division has no legal provision to condone delays in appeals involving crimes against humanity cases, citing Article 47(3) of the Constitution and a 1973 amendment under Sheikh Mujibur Rahman's government, which he said prevented anyone accused or convicted of crimes against humanity from claiming fundamental rights; he said only the Indian government could answer whether Hasina might be sent to a third country; he said investigators and prosecutors would decide independently whether to prosecute the Awami League as a party, and that the government does not interfere in their work.",
+      "exam_relevance": "Extradition treaty, International Crimes Tribunal, Article 47(3), India-Bangladesh relations -- core BCS/Bank politics and law topics.",
+      "key_people": "Md Asaduzzaman, Law Minister; Sheikh Hasina, former prime minister",
+      "figures": "Hasina fled to India on 5 August 2024; sentenced to death in November 2025; extradition request unanswered; Article 47(3) of the Constitution; 1973 amendment",
+      "sources": [
+        {
+          "publication": "The Financial Express",
+          "headline": "",
+          "date": "2026-11-15",
+          "url": "https://today.thefinancialexpress.com.bd/politics-policies/hasina-will-return-under-extradition-treaty-with-india-says-law-minister-1794680194"
+        }
+      ],
+      "one_liner": "Law Minister Md Asaduzzaman says Sheikh Hasina will be brought back to Bangladesh through a legal process under the extradition…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Hasina fled to India on 5 August 2024",
+          "original": "Hasina fled to India on 5 August 2024"
+        },
+        {
+          "label": "",
+          "value": "sentenced to death in November 2025",
+          "original": "sentenced to death in November 2025"
+        },
+        {
+          "label": "",
+          "value": "extradition request unanswered",
+          "original": "extradition request unanswered"
+        },
+        {
+          "label": "Article (3) of the Constitution",
+          "value": "47",
+          "original": "Article 47(3) of the Constitution"
+        }
+      ],
+      "what_happened": [
+        "The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in November 2025,",
+        "and Bangladesh has formally sought her extradition, but New Delhi has not responded."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in ______25, and Bangladesh has formally sought her extradition, but New Delhi has not responded.",
+          "answer": "November 20"
+        }
+      ],
+      "keywords": [
+        "",
+        "hasina",
+        "return",
+        "extradition",
+        "treaty",
+        "india",
+        "minister"
+      ],
+      "detail": "Law Minister Md Asaduzzaman says Sheikh Hasina will be brought back to Bangladesh through a legal process under the extradition treaty with India, adding that Dhaka has done everything required of it and 'what they [India] do next is up to them'. The International Crimes Tribunal sentenced Hasina to death in a crimes against humanity case in November 2025, and Bangladesh has formally sought her extradition, but New Delhi has not responded."
+    },
+    {
+      "id": "CA10",
+      "headline": "Bangladesh, Singapore sign MoU on carbon market cooperation",
+      "category": "World",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Bangladesh and Singapore have signed a memorandum of understanding to cooperate in international carbon markets under Article 6 of the Paris Agreement, opening new opportunities for climate financing. The MoU was signed on 14 November at the Singapore Pavilion on the sidelines of COP31 in Antalya, by State Minister for Environment Shaikh Faridul Islam and Singapore's environment ministry secretary Melvin Ong.",
+      "why_it_matters": "The Article 6 MoU, signed at COP31, is the concrete follow-up to Bangladesh's NDC 3.0 carbon-trading plans for BCS/Bank questions on carbon markets -- and it shows how the country plans to turn its emissions cuts into finance.",
+      "exam_facts": "The agreement is expected to facilitate Bangladesh's participation in international carbon markets, expand access to carbon financing and environmentally sustainable investments, and support implementation of the country's Nationally Determined Contributions (NDC 3.0); the two countries will exchange information, knowledge and experience on carbon credits and explore cooperation in greenhouse gas emission reduction projects based on mutual interests and benefits; Faridul Islam said the cooperation would help unlock new opportunities for carbon finance, develop high-quality and transparent carbon markets, and advance NDC 3.0 implementation; the partnership is also expected to support the transfer of climate-friendly technologies, attract private sector investment and create new avenues for international climate finance.",
+      "exam_relevance": "Carbon markets, Article 6, Paris Agreement, NDC 3.0, COP31 -- core BCS/Bank environment topics.",
+      "key_people": "Shaikh Faridul Islam, State Minister for Environment, Forest and Climate Change; Melvin Ong, Secretary, Singapore Ministry of Sustainability and the Environment",
+      "figures": "MoU signed 14 November 2026 at COP31, Antalya; under Article 6 of the Paris Agreement; supports NDC 3.0",
+      "sources": [
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market"
+        }
+      ],
+      "one_liner": "Bangladesh and Singapore have signed a memorandum of understanding to cooperate in international carbon markets under Article 6 of the…",
+      "key_facts": [
+        {
+          "label": "MoU signed 14 November 2026 at…",
+          "value": "31,",
+          "original": "MoU signed 14 November 2026 at COP31, Antalya"
+        },
+        {
+          "label": "under Article of the Paris Agreement",
+          "value": "6",
+          "original": "under Article 6 of the Paris Agreement"
+        },
+        {
+          "label": "supports NDC",
+          "value": "3.0",
+          "original": "supports NDC 3.0"
+        },
+        {
+          "label": "NDC 3.0",
+          "value": "The agreement is expected to facilitate Bangladesh's participation in international carbon markets, expand access to carbon financing and environmentally sustainable investments, and support implementation of the country's Nationally Determined Contributions",
+          "original": "The agreement is expected to facilitate Bangladesh's participation in international carbon markets, expand access to carbon financing and environmentally sustainable investments, and support implementation of the country's Nationally Determined Contributions (NDC 3.0)"
+        }
+      ],
+      "what_happened": [
+        "The MoU was signed on 14 November at the Singapore Pavilion on the sidelines of COP31 in Antalya,",
+        "by State Minister for Environment Shaikh Faridul Islam and Singapore's environment ministry secretary Melvin Ong."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is under Article of the Paris Agreement?",
+          "a": "6"
+        },
+        {
+          "q": "What is supports NDC?",
+          "a": "3.0"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh and Singapore have signed a memorandum of understanding to cooperate in international carbon markets under Article ______ of the Paris Agreement, opening new opportunities for climate financing.",
+          "answer": "6"
+        },
+        {
+          "cloze": "The MoU was signed on ______ at the Singapore Pavilion on the sidelines of COP31 in Antalya, by State Minister for Environment Shaikh Faridul Islam and Singapore's environment ministry secretary Melvin Ong.",
+          "answer": "14 November"
+        }
+      ],
+      "keywords": [
+        "",
+        "bangladesh",
+        "singapore",
+        "sign",
+        "carbon",
+        "market",
+        "cooperation"
+      ],
+      "detail": "Bangladesh and Singapore have signed a memorandum of understanding to cooperate in international carbon markets under Article 6 of the Paris Agreement, opening new opportunities for climate financing. The MoU was signed on 14 November at the Singapore Pavilion on the sidelines of COP31 in Antalya, by State Minister for Environment Shaikh Faridul Islam and Singapore's environment ministry secretary Melvin Ong."
+    },
+    {
+      "id": "CA11",
+      "headline": "Sovereign guarantees limit power deal review: Energy minister",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "The government cannot unilaterally cancel or withdraw sovereign guarantees backing power purchase agreements with Adani and other producers, Power, Energy and Mineral Resources Minister Iqbal Hassan Mahmood Tuku has said, because doing so could damage Bangladesh's credit rating and undermine international confidence. He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on 14 November, where he said the government is negotiating to reduce electricity prices amid a power shortage.",
+      "why_it_matters": "The minister's statement that sovereign guarantees are bankable instruments, not political promises, is the key fact for BCS/Bank questions on power deals and credit ratings -- and the Adani negotiations show the limits of reviewing past contracts.",
+      "exam_facts": "Tuku said sovereign guarantees were bankable instruments that power companies had used to secure loans from financial institutions, so cancellation could have wider financial consequences; he said the government has held discussions with Adani and other Indian power suppliers, with teams from Bangladesh and India exchanging visits; talks are also under way with domestic coal- and gas-fired power producers to reduce electricity prices; he said global fuel price volatility has complicated the negotiations, with producers seeking higher prices citing increased fuel and shipping costs, particularly coal freight charges following the recent conflict; he acknowledged the government had limited room for aggressive measures, as any disruption to electricity supply would hit an existing power shortage.",
+      "exam_relevance": "Sovereign guarantees, power purchase agreements, Adani, credit rating -- core BCS/Bank economy and energy topics.",
+      "key_people": "Iqbal Hassan Mahmood Tuku, Power, Energy and Mineral Resources Minister",
+      "figures": "Fifth Bangladesh Economic Summit 2026, 14 November 2026, Pan Pacific Sonargaon, Dhaka",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/bangladesh/sovereign-guarantees-limit-power-deal-review-energy-minister-1602346"
+        }
+      ],
+      "one_liner": "The government cannot unilaterally cancel or withdraw sovereign guarantees backing power purchase agreements with Adani and other producers, Power, Energy…",
+      "key_facts": [
+        {
+          "label": "Fifth Bangladesh Economic Summit 14 November…",
+          "value": "2026,",
+          "original": "Fifth Bangladesh Economic Summit 2026, 14 November 2026, Pan Pacific Sonargaon, Dhaka"
+        }
+      ],
+      "what_happened": [
+        "He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on 14 November, where he said the government is negotiating to reduce electricity prices amid a power shortage."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on ______, where he said the government is negotiating to reduce electricity prices amid a power shortage.",
+          "answer": "14 November"
+        }
+      ],
+      "keywords": [
+        "",
+        "sovereign",
+        "guarantees",
+        "limit",
+        "power",
+        "deal",
+        "review",
+        "energy",
+        "minister"
+      ],
+      "detail": "The government cannot unilaterally cancel or withdraw sovereign guarantees backing power purchase agreements with Adani and other producers, Power, Energy and Mineral Resources Minister Iqbal Hassan Mahmood Tuku has said, because doing so could damage Bangladesh's credit rating and undermine international confidence. He was speaking at the fifth Bangladesh Economic Summit 2026 in Dhaka on 14 November, where he said the government is negotiating to reduce electricity prices amid a power shortage."
+    },
+    {
+      "id": "CA12",
+      "headline": "80% women among 1 lakh health workers to be hired for remote areas: Zubaida",
+      "category": "Bangladesh",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "One lakh health workers are being recruited to expand preventive healthcare in remote parts of Bangladesh, with 80% of the positions reserved for women, Dr Zubaida Rahman said on 14 November. The vice-president of the Ziaur Rahman Foundation said years of neglect had left preventive healthcare insufficiently prioritised, leaving millions of women across more than 90,000 villages suffering from diseases that could have been prevented.",
+      "why_it_matters": "One lakh jobs, 80% for women and 90,000 villages are the headline numbers for BCS/Bank questions on health policy and women's employment -- and the recruitment drive answers the rural doctor shortage behind the diabetes and decentralisation stories.",
+      "exam_facts": "Zubaida made the announcement at a programme marking the 12th anniversary of the Institute for Developing Science and Health Initiatives (ideSHi), held at a hotel in Gulshan, Dhaka, on 14 November; she congratulated ideSHi founder and head Dr Firdausi Qadri and the institute's scientists and staff; she said Bangladesh needed more scientists to research the country's own challenges and develop solutions; she emphasised sustained cooperation among the government, research-based universities and the pharmaceutical industry; Dr S M Ziauddin Haider, special assistant to the prime minister on health, attended the programme as a special guest.",
+      "exam_relevance": "Preventive healthcare, women's employment, rural health -- core BCS/Bank health topics.",
+      "key_people": "Dr Zubaida Rahman, vice-president, Ziaur Rahman Foundation; Dr Firdausi Qadri, founder and head, ideSHi; Dr S M Ziauddin Haider, special assistant to the prime minister on health",
+      "figures": "1 lakh health workers to be hired; 80% of positions for women; more than 90,000 villages; 12th anniversary of ideSHi",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/bangladesh/health/80-women-among-1-lakh-health-workers-be-hired-remote-areas-zubaida-1602396"
+        }
+      ],
+      "one_liner": "One lakh health workers are being recruited to expand preventive healthcare in remote parts of Bangladesh, with 80% of the…",
+      "key_facts": [
+        {
+          "label": "lakh health workers to be hired",
+          "value": "1",
+          "original": "1 lakh health workers to be hired"
+        },
+        {
+          "label": "% of positions for women",
+          "value": "80",
+          "original": "80% of positions for women"
+        },
+        {
+          "label": "th anniversary of ideSHi",
+          "value": "12",
+          "original": "12th anniversary of ideSHi"
+        },
+        {
+          "label": "Zubaida made the announcement at a…",
+          "value": "12",
+          "original": "Zubaida made the announcement at a programme marking the 12th anniversary of the Institute for Developing Science and Health Initiatives (ideSHi), held at a hotel in Gulshan, Dhaka, on 14 November"
+        }
+      ],
+      "what_happened": [
+        "The vice-president of the Ziaur Rahman Foundation said years of neglect had left preventive healthcare insufficiently prioritised,",
+        "leaving millions of women across more than 90,000 villages suffering from diseases that could have been prevented."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is lakh health workers to be hired?",
+          "a": "1"
+        },
+        {
+          "q": "What is % of positions for women?",
+          "a": "80"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "One lakh health workers are being recruited to expand preventive healthcare in remote parts of Bangladesh, with 80% of the positions reserved for women, Dr Zubaida Rahman said on ______.",
+          "answer": "14 November"
+        },
+        {
+          "cloze": "The vice-president of the Ziaur Rahman Foundation said years of neglect had left preventive healthcare insufficiently prioritised, leaving millions of women across more than ______ villages suffering from diseases that could have been prevented.",
+          "answer": "90,000"
+        }
+      ],
+      "keywords": [
+        "",
+        "women",
+        "lakh",
+        "health",
+        "workers",
+        "hired",
+        "remote",
+        "areas",
+        "zubaida"
+      ],
+      "detail": "One lakh health workers are being recruited to expand preventive healthcare in remote parts of Bangladesh, with 80% of the positions reserved for women, Dr Zubaida Rahman said on 14 November. The vice-president of the Ziaur Rahman Foundation said years of neglect had left preventive healthcare insufficiently prioritised, leaving millions of women across more than 90,000 villages suffering from diseases that could have been prevented."
+    },
+    {
+      "id": "CA13",
+      "headline": "Bangladesh Bank doubles concessional loan scheme to $120 mn",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Bangladesh Bank has doubled its refinancing scheme to Tk1,500 crore (about $120 million) to provide affordable loans to marginalised groups, small businesses and students. Under the scheme, commercial banks can borrow from the central bank at 1% interest and lend at up to 7%, and at least 25% of disbursements must benefit women borrowers and entrepreneurs.",
+      "why_it_matters": "The Tk1,500 crore doubling, the 1%-to-7% rate structure and the 25% women's share are the exact figures for BCS/Bank questions on financial inclusion -- and the scheme is the same refinancing window whose rates were corrected in Edition 7, now expanded.",
+      "exam_facts": "The scheme covers landless and marginal farmers, low-income professionals, small entrepreneurs, low-earning businesspeople, student banking account holders and families receiving remittances; banks can provide group loans of up to Tk40 lakh to groups of two to five people or entities; individual borrowers seeking loans of up to Tk5 lakh will not need collateral, with personal guarantees and recommendations accepted instead; banks can provide loans of up to Tk10 lakh to eligible low-income borrowers; priority will go to small businesses affected by natural disasters, marginalised communities in coastal and haor regions, differently abled individuals and returning migrant workers; student banking account holders aged up to 25 can access concessional loans for vocational training, income-generating activities and higher education, subject to guarantees from their guardians.",
+      "exam_relevance": "Financial inclusion, refinancing, women entrepreneurs, student loans -- core BCS/Bank banking topics.",
+      "key_people": "Bangladesh Bank",
+      "figures": "Scheme doubled to Tk1,500 crore (about $120 million); banks borrow at 1%, lend at up to 7%; at least 25% to women borrowers and entrepreneurs; group loans up to Tk40 lakh; individual loans up to Tk5 lakh without collateral; loans up to Tk10 lakh for low-income borrowers",
+      "sources": [
+        {
+          "publication": "Fibre2Fashion",
+          "headline": "",
+          "date": "2026-11-13",
+          "url": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-doubles-concessional-loan-scheme-to-120-mn-315000-newsdetails.htm"
+        }
+      ],
+      "one_liner": "Bangladesh Bank has doubled its refinancing scheme to Tk1,500 crore (about $120 million) to provide affordable loans to marginalised groups,…",
+      "key_facts": [
+        {
+          "label": "about $120 million",
+          "value": "Scheme doubled to Tk1,500 crore",
+          "original": "Scheme doubled to Tk1,500 crore (about $120 million)"
+        },
+        {
+          "label": "banks borrow at %, lend at…",
+          "value": "1",
+          "original": "banks borrow at 1%, lend at up to 7%"
+        },
+        {
+          "label": "at least % to women borrowers…",
+          "value": "25",
+          "original": "at least 25% to women borrowers and entrepreneurs"
+        },
+        {
+          "label": "group loans up to lakh",
+          "value": "Tk40",
+          "original": "group loans up to Tk40 lakh"
+        }
+      ],
+      "what_happened": [
+        "Under the scheme, commercial banks can borrow from the central bank at 1% interest and lend at up to 7%,",
+        "and at least 25% of disbursements must benefit women borrowers and entrepreneurs."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is banks borrow at %, lend at…?",
+          "a": "1"
+        },
+        {
+          "q": "What is at least % to women borrowers…?",
+          "a": "25"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has doubled its refinancing scheme to Tk______ crore (about $120 million) to provide affordable loans to marginalised groups, small businesses and students.",
+          "answer": "1,500"
+        },
+        {
+          "cloze": "Under the scheme, commercial banks can borrow from the central bank at ______% interest and lend at up to 7%, and at least 25% of disbursements must benefit women borrowers and entrepreneurs.",
+          "answer": "1"
+        }
+      ],
+      "keywords": [
+        "",
+        "bangladesh",
+        "bank",
+        "doubles",
+        "concessional",
+        "loan",
+        "scheme"
+      ],
+      "detail": "Bangladesh Bank has doubled its refinancing scheme to Tk1,500 crore (about $120 million) to provide affordable loans to marginalised groups, small businesses and students. Under the scheme, commercial banks can borrow from the central bank at 1% interest and lend at up to 7%, and at least 25% of disbursements must benefit women borrowers and entrepreneurs."
+    },
+    {
+      "id": "CA14",
+      "headline": "Law minister seeks to update Commercial Courts Act",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-15",
+      "summary": "Law Minister Asaduzzaman has called for recommendations from stakeholders to modernise the Commercial Courts Act, to attract foreign investment and ensure faster resolution of commercial disputes, with the government aiming to place the revised law before parliament in January. Stakeholders have been asked to submit written recommendations within 10 days, and the proposed courts would initially be established in divisional cities, with three in Dhaka and two in Chattogram.",
+      "why_it_matters": "The January parliament target, the 10-day deadline and the three-Dhaka-two-Chattogram court plan are the testable facts for BCS/Bank questions on commercial law reform -- and the minister's promise to cut investment approvals from at least six months to a few days links the courts to the investment climate.",
+      "exam_facts": "The minister spoke at a stakeholder consultation on reforming the law at Pan Pacific Sonargaon Dhaka on 14 November; he said the existing law had several shortcomings and might not adequately address foreign investors' problems, including disputes with local partners, criminal cases filed by workers and VAT-related complications; he said some provisions, including those relating to arbitration, needed reconsideration; he said the government was working to simplify investment approvals through a coordinated system that would reduce the process from at least six months to a few days; he said the limited number of courts would help build specialised expertise; he said the government would also consider provisions concerning criminal cases and arrest warrants against foreign investors while revising the law.",
+      "exam_relevance": "Commercial courts, arbitration, foreign investment, law reform -- core BCS/Bank law and economy topics.",
+      "key_people": "Md Asaduzzaman, Law Minister",
+      "figures": "Recommendations within 10 days; revised law before parliament in January; 3 courts in Dhaka, 2 in Chattogram; approvals from at least 6 months to a few days",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-15",
+          "url": "https://www.tbsnews.net/bangladesh/law-minister-seeks-update-commercial-courts-act-1602671"
+        }
+      ],
+      "one_liner": "Law Minister Asaduzzaman has called for recommendations from stakeholders to modernise the Commercial Courts Act, to attract foreign investment and…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "revised law before parliament in January",
+          "original": "revised law before parliament in January"
+        },
+        {
+          "label": "courts in Dhaka, 2 in Chattogram",
+          "value": "3",
+          "original": "3 courts in Dhaka, 2 in Chattogram"
+        },
+        {
+          "label": "approvals from at least months to…",
+          "value": "6",
+          "original": "approvals from at least 6 months to a few days"
+        }
+      ],
+      "what_happened": [
+        "Stakeholders have been asked to submit written recommendations within 10 days, and the proposed courts would initially be established in divisional cities,",
+        "with three in Dhaka and two in Chattogram."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "Stakeholders have been asked to submit written recommendations within ______ days, and the proposed courts would initially be established in divisional cities, with three in Dhaka and two in Chattogram.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "",
+        "minister",
+        "seeks",
+        "update",
+        "commercial",
+        "courts"
+      ],
+      "detail": "Law Minister Asaduzzaman has called for recommendations from stakeholders to modernise the Commercial Courts Act, to attract foreign investment and ensure faster resolution of commercial disputes, with the government aiming to place the revised law before parliament in January. Stakeholders have been asked to submit written recommendations within 10 days, and the proposed courts would initially be established in divisional cities, with three in Dhaka and two in Chattogram."
+    },
+    {
+      "id": "CA15",
+      "headline": "Bangladesh could become regional hub for precision medicine: Science secretary",
+      "category": "Technology",
+      "event_date": "2026-11-14",
+      "article_date": "2026-11-14",
+      "summary": "Bangladesh has the potential to emerge as a regional hub for advanced cancer diagnosis and treatment by better using genome sequencing, precision medicine and nuclear medicine, Science and Technology Secretary Md Anwar Hossain has said. He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on 14 November, attended by 34 participants.",
+      "why_it_matters": "The PET-CT and cyclotron training, the 34 participants and the genome-sequencing claim are the science facts for BCS/Bank questions on health technology -- and the secretary's point that existing facilities are underused is the follow-up to the health-workforce story.",
+      "exam_facts": "The secretary said that despite having adequate facilities for genome sequencing, their potential is not being utilised properly; he said wider application of precision medicine and genome sequencing could create new opportunities for the healthcare sector; he said leveraging young professionals and skilled medical practitioners could expand research into drug discovery and industrial development, alongside preventive and precision medicine; he said that with proper planning and adherence to international protocols, Bangladesh could develop world-class healthcare services and manufacture medicines at lower costs for domestic consumption and export; the programme was chaired by Dr Mahfuza Khan, member (bioscience) of the Bangladesh Atomic Energy Commission, while Commission Chairman Dr M Moinul Islam attended as special guest; the keynote paper was presented by Professor Dr Zinat Jabin, director of the Institute of Nuclear Medicine and Allied Sciences at Shaheed Suhrawardy Medical College Hospital.",
+      "exam_relevance": "Precision medicine, genome sequencing, nuclear medicine, cancer care -- core BCS/Bank science topics.",
+      "key_people": "Md Anwar Hossain, Science and Technology Secretary; Dr Mahfuza Khan, Bangladesh Atomic Energy Commission; Dr M Moinul Islam, BAEC Chairman; Professor Dr Zinat Jabin, Institute of Nuclear Medicine and Allied Sciences",
+      "figures": "34 participants; training programme until 25 November 2026; PET-CT and Cyclotron training at BAEC, Agargaon",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "",
+          "date": "2026-11-14",
+          "url": "https://www.tbsnews.net/science/bangladesh-could-become-regional-hub-precision-medicine-science-secretary-1602656"
+        }
+      ],
+      "one_liner": "Bangladesh has the potential to emerge as a regional hub for advanced cancer diagnosis and treatment by better using genome…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "training programme until 25 November 2026",
+          "original": "training programme until 25 November 2026"
+        },
+        {
+          "label": "",
+          "value": "PET-CT and Cyclotron training at BAEC, Agargaon",
+          "original": "PET-CT and Cyclotron training at BAEC, Agargaon"
+        }
+      ],
+      "what_happened": [
+        "He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on 14 November,",
+        "attended by 34 participants."
+      ],
+      "exam_qa": [],
+      "recall_cards": [
+        {
+          "cloze": "He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on ______, attended by 34 participants.",
+          "answer": "14 November"
+        }
+      ],
+      "keywords": [
+        "",
+        "bangladesh",
+        "become",
+        "regional",
+        "precision",
+        "medicine",
+        "science",
+        "secretary"
+      ],
+      "detail": "Bangladesh has the potential to emerge as a regional hub for advanced cancer diagnosis and treatment by better using genome sequencing, precision medicine and nuclear medicine, Science and Technology Secretary Md Anwar Hossain has said. He was speaking at the inaugural ceremony of a training programme on PET-CT and Cyclotron at the Bangladesh Atomic Energy Commission headquarters in Agargaon on 14 November, attended by 34 participants."
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "disbursement",
+      "IPA": "/dɪsˈbɜːsmənt/",
+      "Bangla phonetic": "ডিসবার্সমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বিতরণ; (অর্থ) ছাড়করণ; প্রদান",
+      "English definition": "The payment of money from a fund or account.",
+      "Synonyms": "payment; payout; release of funds; settlement",
+      "Antonyms": "collection; withholding; retention",
+      "Word family / derivatives": "disburse; disbursed; disbursing",
+      "Collocations / patterns": "disbursement of funds; aid disbursement; loan disbursement",
+      "Original example": "Actual disbursements in these years stood at $53.89 billion, $50.60 billion, and $51.62 billion, respectively.",
+      "Newspaper context note": "Aid-for-trade disbursements fell over 2022-2024, the OECD-WTO report says.",
+      "Source publication": "The Financial Express",
+      "Article headline": "Two decades of A4T and Bangladesh",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/two-decades-of-a4t-and-bangladesh-1794668059",
+      "BCS / Bank relevance": "Core BCS/Bank finance vocabulary -- disbursement of aid, loans and budgets is a standard exam term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "repatriation",
+      "IPA": "/ˌriːpætriˈeɪʃn/",
+      "Bangla phonetic": "রিপ্যাট্রিয়েশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রত্যাবাসন; দেশে ফেরত পাঠানো",
+      "English definition": "The act of sending money, people or profits back to their country of origin.",
+      "Synonyms": "return; transfer home; remittance (of profits)",
+      "Antonyms": "retention abroad; outflow",
+      "Word family / derivatives": "repatriate; repatriated; repatriating",
+      "Collocations / patterns": "repatriation of dividends; repatriation of profits; repatriation of workers",
+      "Original example": "They include contract enforcement, unexpected regulatory changes, the availability of electricity, the ease of clearing imported equipment and the repatriation of dividends.",
+      "Newspaper context note": "Dividend repatriation is one of the obstacles American investors cite in Bangladesh.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Beyond garments: What would bring more American investment to Bangladesh?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/beyond-garments-what-would-bring-more-american-investment-bangladesh-1602196",
+      "BCS / Bank relevance": "BCS/Bank economy and finance vocabulary -- profit repatriation is central to FDI questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "bureaucracy",
+      "IPA": "/bjʊəˈrɒkrəsi/",
+      "Bangla phonetic": "বিউরোক্রেসি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আমলাতন্ত্র; দাপ্তরিক জটিলতা",
+      "English definition": "A system of government administration with many departments, rules and officials, often slow and complicated.",
+      "Synonyms": "red tape; administration; officialdom",
+      "Antonyms": "deregulation; informality",
+      "Word family / derivatives": "bureaucratic; bureaucrat",
+      "Collocations / patterns": "excessive bureaucracy; cut bureaucracy; bureaucratic hurdles",
+      "Original example": "International investors also complain about excessive bureaucracy and unpredictable taxation.",
+      "Newspaper context note": "Investors cite bureaucracy as a reason American capital stays away from Bangladesh.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Beyond garments: What would bring more American investment to Bangladesh?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/beyond-garments-what-would-bring-more-american-investment-bangladesh-1602196",
+      "BCS / Bank relevance": "Core BCS/Bank governance vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "predictability",
+      "IPA": "/prɪˌdɪktəˈbɪləti/",
+      "Bangla phonetic": "প্রেডিক্ট্যাবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পূর্বানুমেয়তা; নীতির স্থিতিশীলতা",
+      "English definition": "The quality of being able to be predicted; steadiness that lets people plan ahead.",
+      "Synonyms": "certainty; stability; foreseeability",
+      "Antonyms": "unpredictability; volatility; uncertainty",
+      "Word family / derivatives": "predictable; predict; prediction",
+      "Collocations / patterns": "policy predictability; market predictability; lack of predictability",
+      "Original example": "To encourage foreign investment in government securities denominated in taka, the country needs to improve market liquidity, settlement infrastructure, currency convertibility and policy predictability.",
+      "Newspaper context note": "Policy predictability is one of the conditions for foreign bond investors.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
+      "BCS / Bank relevance": "BCS/Bank economy vocabulary -- policy predictability is a standard investment-climate term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "sustainability",
+      "IPA": "/səˌsteɪnəˈbɪləti/",
+      "Bangla phonetic": "সাসটেইনেবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "টেকসইতা; ধারণযোগ্যতা",
+      "English definition": "The ability to continue over time without running out or causing harm; in finance, the capacity to keep debt at manageable levels.",
+      "Synonyms": "durability; viability; soundness",
+      "Antonyms": "unsustainability; collapse",
+      "Word family / derivatives": "sustainable; sustain; sustained",
+      "Collocations / patterns": "debt sustainability; fiscal sustainability; environmental sustainability",
+      "Original example": "The Finance Division has already taken several initiatives to improve debt management, including preparing a Medium-Term Debt Management Strategy (MTDS), conducting regular debt sustainability analyses and publishing public debt bulletins.",
+      "Newspaper context note": "Debt sustainability analyses guide how much Bangladesh can borrow.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
+      "BCS / Bank relevance": "Core BCS/Bank vocabulary for debt, environment and development questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "mobilisation",
+      "IPA": "/ˌməʊbəlaɪˈzeɪʃn/",
+      "Bangla phonetic": "মোবিলাইজেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সংগ্রহ; জোগাড়; সচলকরণ",
+      "English definition": "The act of organising and bringing resources, money or people together for a purpose.",
+      "Synonyms": "collection; gathering; marshalling",
+      "Antonyms": "dispersal; demobilisation",
+      "Word family / derivatives": "mobilise; mobilised; mobilising",
+      "Collocations / patterns": "revenue mobilisation; resource mobilisation; domestic mobilisation",
+      "Original example": "Stronger domestic revenue mobilisation would enable Bangladesh to finance a larger share of its public investment from its own resources, thereby reducing its dependence on repeated borrowing and external financial assistance.",
+      "Newspaper context note": "The analysis calls for stronger domestic revenue mobilisation to cut borrowing.",
+      "Source publication": "The Business Standard",
+      "Article headline": "IMF loans: Whether an attempt to address economic challenges",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801",
+      "BCS / Bank relevance": "Core BCS/Bank fiscal vocabulary -- revenue mobilisation is a standard budget term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "recapitalisation",
+      "IPA": "/ˌriːkæpɪtəlaɪˈzeɪʃn/",
+      "Bangla phonetic": "রিক্যাপিটালাইজেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "মূলধন পুনর্গঠন; পুনঃমূলধনায়ন",
+      "English definition": "The act of giving a bank or company new capital to restore its financial strength.",
+      "Synonyms": "refinancing; capital injection; bailout (informal)",
+      "Antonyms": "decapitalisation; withdrawal of capital",
+      "Word family / derivatives": "recapitalise; recapitalised; capital",
+      "Collocations / patterns": "bank recapitalisation; recapitalisation of state banks",
+      "Original example": "The government cannot solve this problem simply by injecting public money into struggling banks. Recapitalisation may sometimes be necessary to protect depositors and maintain financial stability, but it should follow transparent assessments of each bank's actual financial condition.",
+      "Newspaper context note": "The analysis says bank recapitalisation must follow transparent assessments.",
+      "Source publication": "The Business Standard",
+      "Article headline": "IMF loans: Whether an attempt to address economic challenges",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801",
+      "BCS / Bank relevance": "High-value BCS/Bank banking vocabulary -- recapitalisation is central to bank reform questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "electrification",
+      "IPA": "/ɪˌlektrɪfɪˈkeɪʃn/",
+      "Bangla phonetic": "ইলেকট্রিফিকেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বিদ্যুতায়ন",
+      "English definition": "The process of supplying electricity to an area or of increasing electricity's share of energy use.",
+      "Synonyms": "powering; energisation",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "electrify; electrified; electric",
+      "Collocations / patterns": "rural electrification; clean electrification; electrification pledge",
+      "Original example": "One of the prominent initiatives emerging from the summit was the Global 35-by-35 Electrification Pledge, which aims to increase electricity's share of global final energy consumption from approximately 23% to 35% by 2035.",
+      "Newspaper context note": "The COP31 electrification pledge targets 35% by 2035.",
+      "Source publication": "The Business Standard",
+      "Article headline": "COP31: Can climate pledges translate into action?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201",
+      "BCS / Bank relevance": "BCS/Bank environment and energy vocabulary -- electrification is a COP31 keyword.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "decarbonisation",
+      "IPA": "/ˌdiːkɑːbənaɪˈzeɪʃn/",
+      "Bangla phonetic": "ডিকার্বনাইজেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "কার্বনমুক্তকরণ; কার্বন নিঃসরণ হ্রাস",
+      "English definition": "The process of reducing carbon dioxide emissions, especially by moving away from fossil fuels.",
+      "Synonyms": "low-carbon transition; emissions reduction",
+      "Antonyms": "carbonisation; fossil-fuel dependence",
+      "Word family / derivatives": "decarbonise; decarbonised; carbon",
+      "Collocations / patterns": "decarbonisation of energy; industrial decarbonisation",
+      "Original example": "Electrification alone does not guarantee decarbonisation.",
+      "Newspaper context note": "The column warns electrification alone does not guarantee decarbonisation.",
+      "Source publication": "The Business Standard",
+      "Article headline": "COP31: Can climate pledges translate into action?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201",
+      "BCS / Bank relevance": "Core BCS/Bank climate vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "methane",
+      "IPA": "/ˈmiːθeɪn/",
+      "Bangla phonetic": "মিথেন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "মিথেন (গ্যাস)",
+      "English definition": "A colourless, flammable gas, a powerful greenhouse gas produced by waste, livestock and fossil fuels.",
+      "Synonyms": "natural gas (mainly methane)",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "methane (noun); methanogenic",
+      "Collocations / patterns": "methane reduction; methane emissions; methane capture",
+      "Original example": "Methane reduction is especially important because it can deliver relatively rapid climate benefits while improving air quality, agricultural productivity and public health.",
+      "Newspaper context note": "COP31 put methane reduction on the leaders' agenda.",
+      "Source publication": "The Business Standard",
+      "Article headline": "COP31: Can climate pledges translate into action?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201",
+      "BCS / Bank relevance": "BCS/Bank science and environment vocabulary -- methane is a key greenhouse gas.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "dilute",
+      "IPA": "/daɪˈluːt/",
+      "Bangla phonetic": "ডাইলিউট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পাতলা করা; (মালিকানা) হ্রাস করা; দুর্বল করা",
+      "English definition": "To make weaker or thinner, or to reduce a share by adding more of something.",
+      "Synonyms": "weaken; thin; water down",
+      "Antonyms": "strengthen; concentrate",
+      "Word family / derivatives": "dilution; diluted; diluting",
+      "Collocations / patterns": "dilute ownership; dilute a solution; dilute shares",
+      "Original example": "The fresh share issuance would also dilute the ownership stakes of S Alam Group-linked shareholders, further reducing their influence over the bank.",
+      "Newspaper context note": "New shares would dilute the S Alam Group's stake in Islami Bank.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Islami Bank seeks Tk6,000cr govt investment, could hand state 78.8% ownership",
+      "Publication date": "2026-11-13",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171",
+      "BCS / Bank relevance": "BCS/Bank finance vocabulary -- dilution of shares is a standard banking term.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "default",
+      "IPA": "/dɪˈfɔːlt/",
+      "Bangla phonetic": "ডিফল্ট",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "খেলাপ; (ঋণ) পরিশোধে ব্যর্থতা",
+      "English definition": "Failure to repay a loan or meet a financial obligation when due.",
+      "Synonyms": "non-payment; delinquency; failure to pay",
+      "Antonyms": "repayment; settlement; compliance",
+      "Word family / derivatives": "defaulted; defaulting; defaulter",
+      "Collocations / patterns": "defaulted loans; loan default; default on a loan",
+      "Original example": "At the end of September, its outstanding loans totalled Tk1,81,860 crore, of which Tk1,00,600 crore had turned defaulted, according to Bangladesh Bank data cited in the proposal.",
+      "Newspaper context note": "More than half of Islami Bank's loans had turned defaulted.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Islami Bank seeks Tk6,000cr govt investment, could hand state 78.8% ownership",
+      "Publication date": "2026-11-13",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171",
+      "BCS / Bank relevance": "Core BCS/Bank banking vocabulary -- loan default is central to NPL questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "vandalism",
+      "IPA": "/ˈvændəlɪzəm/",
+      "Bangla phonetic": "ভ্যান্ডালিজম",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ভাঙচুর; ধ্বংসাত্মক কর্মকাণ্ড",
+      "English definition": "Deliberate destruction of or damage to property.",
+      "Synonyms": "destruction; sabotage; wrecking",
+      "Antonyms": "preservation; protection",
+      "Word family / derivatives": "vandalise; vandal; vandalised",
+      "Collocations / patterns": "factory vandalism; acts of vandalism",
+      "Original example": "Conveying the opinions of the participating members, Mahmud Hasan Khan said that continuing discussions at the wage board becomes questionable if factory vandalism and road blockades persist simultaneously.",
+      "Newspaper context note": "Owners say factory vandalism continues despite the wage board.",
+      "Source publication": "Dhaka Tribune",
+      "Article headline": "BGMEA: Scenario being created for announcing unreasonable wages",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.dhakatribune.com/business/424650/bgmea-scenario-being-created-for-announcing",
+      "BCS / Bank relevance": "BCS/Bank vocabulary for law-and-order and labour reporting.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "condone",
+      "IPA": "/kənˈdəʊn/",
+      "Bangla phonetic": "কনডোন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ক্ষমা করা; (অপরাধ) উপেক্ষা করা; মেনে নেওয়া",
+      "English definition": "To accept or allow behaviour that is wrong, without criticising or punishing it.",
+      "Synonyms": "overlook; excuse; tolerate",
+      "Antonyms": "condemn; punish; censure",
+      "Word family / derivatives": "condonation; condoned; condoning",
+      "Collocations / patterns": "condone delays; condone violence; refuse to condone",
+      "Original example": "The Appellate Division has no legal provision to condone delays in such cases because the special law does not allow it.",
+      "Newspaper context note": "The law minister said the Appellate Division cannot condone delays in crimes-against-humanity appeals.",
+      "Source publication": "The Financial Express",
+      "Article headline": "Hasina will return under extradition treaty with India, says law minister",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/politics-policies/hasina-will-return-under-extradition-treaty-with-india-says-law-minister-1794680194",
+      "BCS / Bank relevance": "High-value BCS/Bank legal vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "tribunal",
+      "IPA": "/traɪˈbjuːnl/",
+      "Bangla phonetic": "ট্রাইব্যুনাল",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ট্রাইব্যুনাল; বিশেষ আদালত",
+      "English definition": "A special court or body set up to judge particular cases.",
+      "Synonyms": "court; judiciary; bench",
+      "Antonyms": "No direct antonym",
+      "Word family / derivatives": "tribunal (noun); tribunals (plural)",
+      "Collocations / patterns": "International Crimes Tribunal; war crimes tribunal; special tribunal",
+      "Original example": "The International Crimes Tribunal sentenced her to death in a crimes against humanity case in November 2025.",
+      "Newspaper context note": "The tribunal's death sentence is the basis of the extradition request.",
+      "Source publication": "The Financial Express",
+      "Article headline": "Hasina will return under extradition treaty with India, says law minister",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/politics-policies/hasina-will-return-under-extradition-treaty-with-india-says-law-minister-1794680194",
+      "BCS / Bank relevance": "Core BCS/Bank legal vocabulary -- the International Crimes Tribunal is a standard topic.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "transparent",
+      "IPA": "/trænsˈpærənt/",
+      "Bangla phonetic": "ট্রান্সপ্যারেন্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্বচ্ছ; প্রকাশ্য",
+      "English definition": "Open and honest, with nothing hidden; easy to see through or understand.",
+      "Synonyms": "open; clear; accountable",
+      "Antonyms": "opaque; secretive; hidden",
+      "Word family / derivatives": "transparency; transparently",
+      "Collocations / patterns": "transparent carbon markets; transparent process; transparent governance",
+      "Original example": "The cooperation would help unlock new opportunities for carbon finance, develop high-quality and transparent carbon markets, and advance the implementation of Bangladesh's NDC 3.0.",
+      "Newspaper context note": "The Singapore MoU aims for high-quality and transparent carbon markets.",
+      "Source publication": "Dhaka Tribune",
+      "Article headline": "Bangladesh, Singapore sign MoU on carbon market cooperation",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market",
+      "BCS / Bank relevance": "Core BCS/Bank governance and climate vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "guarantee",
+      "IPA": "/ˌɡærənˈtiː/",
+      "Bangla phonetic": "গ্যারান্টি",
+      "Part of speech / type": "Noun / Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "গ্যারান্টি; নিশ্চয়তা; জামিন",
+      "English definition": "A formal promise that something will happen, or an assurance backing a loan or agreement.",
+      "Synonyms": "assurance; pledge; warranty; surety",
+      "Antonyms": "uncertainty; denial",
+      "Word family / derivatives": "guaranteed; guaranteeing; guarantor",
+      "Collocations / patterns": "sovereign guarantee; bank guarantee; government guarantee",
+      "Original example": "Once a sovereign guarantee is issued to a country or company, negotiations are possible, but it cannot simply be withdrawn.",
+      "Newspaper context note": "The energy minister says sovereign guarantees cannot simply be withdrawn.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Sovereign guarantees limit power deal review: Energy minister",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/sovereign-guarantees-limit-power-deal-review-energy-minister-1602346",
+      "BCS / Bank relevance": "Core BCS/Bank finance and energy vocabulary -- sovereign guarantees back power deals.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "preventive",
+      "IPA": "/prɪˈventɪv/",
+      "Bangla phonetic": "প্রিভেন্টিভ",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রতিরোধমূলক; প্রতিষেধক",
+      "English definition": "Intended to stop something bad from happening, especially disease.",
+      "Synonyms": "precautionary; protective; prophylactic",
+      "Antonyms": "curative; remedial",
+      "Word family / derivatives": "prevent; prevention; preventative",
+      "Collocations / patterns": "preventive healthcare; preventive measures; preventive medicine",
+      "Original example": "One lakh health workers are being recruited to expand preventive healthcare services in remote parts of the country, with 80% of the positions reserved for women, said Dr Zubaida Rahman, vice-president of the Ziaur Rahman Foundation.",
+      "Newspaper context note": "One lakh health workers will expand preventive healthcare in remote areas.",
+      "Source publication": "The Business Standard",
+      "Article headline": "80% women among 1 lakh health workers to be hired for remote areas: Zubaida",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/health/80-women-among-1-lakh-health-workers-be-hired-remote-areas-zubaida-1602396",
+      "BCS / Bank relevance": "Core BCS/Bank health vocabulary.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "arbitration",
+      "IPA": "/ˌɑːbɪˈtreɪʃn/",
+      "Bangla phonetic": "আর্বিট্রেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সালিশ; মধ্যস্থতা",
+      "English definition": "The settlement of a dispute by an independent person or panel instead of a court.",
+      "Synonyms": "mediation; adjudication; settlement",
+      "Antonyms": "litigation; court trial",
+      "Word family / derivatives": "arbitrate; arbitrator; arbitral",
+      "Collocations / patterns": "commercial arbitration; arbitration clause; arbitration proceedings",
+      "Original example": "Some provisions, including those relating to arbitration, also needed reconsideration, he said.",
+      "Newspaper context note": "The law minister says arbitration provisions in the Commercial Courts Act need reconsideration.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Law minister seeks to update Commercial Courts Act",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/law-minister-seeks-update-commercial-courts-act-1602671",
+      "BCS / Bank relevance": "High-value BCS/Bank legal vocabulary -- arbitration is central to commercial disputes.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "nuclear",
+      "IPA": "/ˈnjuːkliə/",
+      "Bangla phonetic": "নিউক্লিয়ার",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পারমাণবিক",
+      "English definition": "Relating to the nucleus of an atom, or to nuclear energy and medicine.",
+      "Synonyms": "atomic",
+      "Antonyms": "conventional; non-nuclear",
+      "Word family / derivatives": "nucleus; nuclear medicine; nuclear energy",
+      "Collocations / patterns": "nuclear medicine; nuclear energy; nuclear power",
+      "Original example": "Bangladesh has the potential to emerge as a world-class regional hub for advanced cancer diagnosis and treatment by better utilising genome sequencing, precision medicine and nuclear medicine technologies, Science and Technology Secretary Md Anwar Hossain has said.",
+      "Newspaper context note": "Nuclear medicine is part of the precision-medicine push.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh could become regional hub for precision medicine: Science secretary",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/science/bangladesh-could-become-regional-hub-precision-medicine-science-secretary-1602656",
+      "BCS / Bank relevance": "BCS/Bank science vocabulary -- nuclear medicine and energy are standard topics.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Record type": "New word",
+      "Headword / phrase": "disruption",
+      "IPA": "/dɪsˈrʌpʃn/",
+      "Bangla phonetic": "ডিসরাপশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিঘ্ন; ব্যাঘাত; স্বাভাবিক কাজে বাধা",
+      "English definition": "A disturbance that interrupts the normal progress of an activity or process.",
+      "Synonyms": "interruption; disturbance; breakdown; obstruction",
+      "Antonyms": "continuity; smooth running; stability",
+      "Word family / derivatives": "disrupt; disrupted; disruptive; disruptively",
+      "Collocations / patterns": "cause disruption; widespread disruption; disruption to services",
+      "Original example": "The protests caused widespread disruption to factory operations across four industrial districts.",
+      "Newspaper context note": "Used in the BGMEA report on labour unrest disrupting operations at 529 garment factories.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Common in reading comprehension and precis on strikes, disasters and supply chains.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "grievance",
+      "IPA": "/ˈɡriːvəns/",
+      "Bangla phonetic": "গ্রিভান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিযোগ; ক্ষোভের কারণ; অসন্তোষ",
+      "English definition": "A real or imagined cause for complaint, especially unfair treatment.",
+      "Synonyms": "complaint; resentment; objection; injustice",
+      "Antonyms": "satisfaction; contentment; praise",
+      "Word family / derivatives": "grieve; aggrieved; grievances",
+      "Collocations / patterns": "air a grievance; address grievances; genuine grievance",
+      "Original example": "The workers listed their grievances, including low pay and the blacklisting of colleagues.",
+      "Newspaper context note": "Used in reporting on garment workers' demands, including a minimum wage and an end to blacklisting.",
+      "Source publication": "The Daily Star",
+      "Article headline": "177 garment factories in Ashulia, Savar shut amid Tk 30,000 wage demand",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/177-garment-factories-ashulia-savar-shut-amid-tk-30000-wage-demand-4312691",
+      "BCS / Bank relevance": "Labour relations and governance vocabulary; appears in comprehension and synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "reinstatement",
+      "IPA": "/ˌriːɪnˈsteɪtmənt/",
+      "Bangla phonetic": "রিইনস্টেটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনর্বহাল; চাকরিতে ফিরিয়ে নেওয়া",
+      "English definition": "The act of giving someone back a job or position they had lost.",
+      "Synonyms": "restoration; reappointment; return to service",
+      "Antonyms": "dismissal; removal; termination",
+      "Word family / derivatives": "reinstate; reinstated; reinstating",
+      "Collocations / patterns": "reinstatement of dismissed workers; demand reinstatement",
+      "Original example": "The union demanded the reinstatement of all workers dismissed during the unrest.",
+      "Newspaper context note": "Used in the BGMEA report: workers demanded reinstatement of dismissed workers alongside a wage rise.",
+      "Source publication": "The Daily Star",
+      "Article headline": "BGMEA reports disruptions at 529 garment factories amid wage protests",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936",
+      "BCS / Bank relevance": "Service rules and labour law vocabulary for BCS and bank written exams.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "scrutiny",
+      "IPA": "/ˈskruːtəni/",
+      "Bangla phonetic": "স্ক্রুটিনি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "যাচাই-বাছাই; নিবিড় পরীক্ষা; পুনঃনিরীক্ষণ",
+      "English definition": "Careful and thorough examination of something.",
+      "Synonyms": "examination; inspection; review; investigation",
+      "Antonyms": "neglect; oversight; cursory glance",
+      "Word family / derivatives": "scrutinise; scrutinised; scrutinising; scrutiniser",
+      "Collocations / patterns": "under scrutiny; close scrutiny; re-scrutiny of answer scripts",
+      "Original example": "Students may apply for re-scrutiny of their answer scripts from 1 to 7 November.",
+      "Newspaper context note": "Used in HSC results reporting: applications for re-scrutiny of answer scripts are open from 1 to 7 November.",
+      "Source publication": "The Daily Star",
+      "Article headline": "Only half the students pass",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+      "BCS / Bank relevance": "Formal noun for exams, audits and investigations; common in synonym questions.",
+      "Priority": "High"
+    },
+    {
+      "Record type": "New word",
+      "Headword / phrase": "deterioration",
+      "IPA": "/dɪˌtɪəriəˈreɪʃn/",
+      "Bangla phonetic": "ডিটেরিওরেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবনতি; ক্রমাগত খারাপ হওয়া",
+      "English definition": "The process of becoming progressively worse.",
+      "Synonyms": "decline; worsening; decay; degradation",
+      "Antonyms": "improvement; recovery; progress",
+      "Word family / derivatives": "deteriorate; deteriorated; deteriorating",
+      "Collocations / patterns": "deterioration in performance; sharp deterioration; gradual deterioration",
+      "Original example": "The results reveal a significant deterioration in academic performance across all boards.",
+      "Newspaper context note": "Used in Prothom Alo's HSC analysis: the results reveal a significant deterioration in academic performance.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "HSC result 2026: Worst performance in 22 years",
+      "Publication date": "2026-11-01",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/ht1u40gv59",
+      "BCS / Bank relevance": "High-value formal noun for essays and precis on the economy, education and health.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "put pressure on",
+      "Type": "Phrasal verb / collocation",
+      "Bangla meaning": "চাপ দেওয়া; চাপ সৃষ্টি করা",
+      "English explanation": "To force someone or something into a difficult position, or to make demands.",
+      "Usage / register": "Formal, news and economics.",
+      "Original example 1": "Bangladesh is looking for new ways to manage its growing public debt as rising interest costs and foreign loan repayments put increasing pressure on government finances.",
+      "Original example 2": "The rising interest burden is putting pressure on the government's capacity to allocate funds for education, healthcare, social protection and development projects.",
+      "Common collocations / grammar pattern": "put pressure on finances; put pressure on the government; put pressure on prices",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
+      "Exam value": "Common BCS/Bank phrasal verb for economy and governance passages."
+    },
+    {
+      "Phrase": "account for",
+      "Type": "Phrasal verb",
+      "Bangla meaning": "হিসাব করা; (শতাংশ) গঠন করা; ব্যাখ্যা করা",
+      "English explanation": "To make up a part of a total, or to explain something.",
+      "Usage / register": "Formal, finance and statistics.",
+      "Original example 1": "In FY2025-26, domestic borrowing accounted for 15.8% of the total budget, amounting to Tk1,25,000 crore and 55.3% of deficit financing.",
+      "Original example 2": "If banks allocate too much of their funds to government borrowing, fewer resources may remain available for entrepreneurs, small and medium-sized enterprises, exporters and industrial investors.",
+      "Common collocations / grammar pattern": "account for 15% of; account for the rise; account for most of",
+      "Source publication": "The Business Standard",
+      "Article headline": "IMF loans: Whether an attempt to address economic challenges",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801",
+      "Exam value": "High-frequency BCS/Bank phrasal verb for data and statistics questions."
+    },
+    {
+      "Phrase": "in search of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "সন্ধানে; খোঁজে",
+      "English explanation": "Looking for something; trying to find it.",
+      "Usage / register": "Formal / neutral.",
+      "Original example 1": "In August, executives representing 25 American companies visited Dhaka in search of opportunities in energy, technology, finance and manufacturing.",
+      "Original example 2": "Yet selling clothes to retailers is different from attracting American capital to productive enterprises.",
+      "Common collocations / grammar pattern": "in search of opportunities; in search of investment; in search of a solution",
+      "Source publication": "The Business Standard",
+      "Article headline": "Beyond garments: What would bring more American investment to Bangladesh?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/beyond-garments-what-would-bring-more-american-investment-bangladesh-1602196",
+      "Exam value": "Common BCS/Bank prepositional phrase."
+    },
+    {
+      "Phrase": "in response to",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "জবাবে; প্রতিক্রিয়ায়",
+      "English explanation": "As a reply or reaction to something.",
+      "Usage / register": "Formal, news.",
+      "Original example 1": "In response, Bangladesh Bank's Banking Regulation and Policy Department (BRPD) sent a letter to the secretary of the Financial Institutions Division on 9 November.",
+      "Original example 2": "He said government investment would reduce capital shortfall and help it meet regulatory capital requirements.",
+      "Common collocations / grammar pattern": "in response to a letter; in response to the proposal",
+      "Source publication": "The Business Standard",
+      "Article headline": "Islami Bank seeks Tk6,000cr govt investment, could hand state 78.8% ownership",
+      "Publication date": "2026-11-13",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171",
+      "Exam value": "Standard BCS/Bank phrase for reporting and comprehension."
+    },
+    {
+      "Phrase": "at least",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "অন্তত; কমপক্ষে",
+      "English explanation": "Not less than a stated amount; at the minimum.",
+      "Usage / register": "Neutral, statistics.",
+      "Original example 1": "At least 25 per cent of disbursements must benefit women borrowers and entrepreneurs.",
+      "Original example 2": "Individual borrowers seeking loans of up to Tk5 lakh will not need to provide collateral.",
+      "Common collocations / grammar pattern": "at least 25 per cent; at least six months",
+      "Source publication": "Fibre2Fashion",
+      "Article headline": "Bangladesh Bank doubles concessional loan scheme to $120 mn",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-doubles-concessional-loan-scheme-to-120-mn-315000-newsdetails.htm",
+      "Exam value": "Essential BCS/Bank phrase for data interpretation."
+    },
+    {
+      "Phrase": "in total",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "মোট; সর্বমোট",
+      "English explanation": "Altogether; when everything is added up.",
+      "Usage / register": "Neutral, statistics.",
+      "Original example 1": "In total, it received $2,676.52 million (or $2.67 billion) in aid for trade in 2024.",
+      "Original example 2": "The report showed that Bangladesh is the largest beneficiary of aid for trade in the LDC category.",
+      "Common collocations / grammar pattern": "in total; received $2.67 billion in total",
+      "Source publication": "The Financial Express",
+      "Article headline": "Two decades of A4T and Bangladesh",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/two-decades-of-a4t-and-bangladesh-1794668059",
+      "Exam value": "Common BCS/Bank phrase for totals and data questions."
+    },
+    {
+      "Phrase": "translate into action",
+      "Type": "Phrasal verb / collocation",
+      "Bangla meaning": "কাজে পরিণত করা; বাস্তবায়ন করা",
+      "English explanation": "To turn promises or plans into real, practical results.",
+      "Usage / register": "Formal, climate and policy.",
+      "Original example 1": "The central challenge is ensuring that those commitments translate into measurable action, adequate financing and tangible improvements in people's lives.",
+      "Original example 2": "The real test will be whether political commitments translate into measurable action.",
+      "Common collocations / grammar pattern": "translate commitments into action; translate pledges into action",
+      "Source publication": "The Business Standard",
+      "Article headline": "COP31: Can climate pledges translate into action?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201",
+      "Exam value": "Key BCS/Bank collocation for climate and policy passages."
+    },
+    {
+      "Phrase": "in recent times",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "সাম্প্রতিক সময়ে; ইদানীং",
+      "English explanation": "In the recent past; lately.",
+      "Usage / register": "Formal / neutral.",
+      "Original example 1": "In recent times, the country has seen a setback in poverty reduction and slow industrial growth.",
+      "Original example 2": "Recapitalisation may sometimes be necessary to protect depositors and maintain financial stability, but it should follow transparent assessments of each bank's actual financial condition.",
+      "Common collocations / grammar pattern": "in recent times; in recent years; in recent months",
+      "Source publication": "The Business Standard",
+      "Article headline": "IMF loans: Whether an attempt to address economic challenges",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801",
+      "Exam value": "Common BCS/Bank phrase for describing recent trends."
+    },
+    {
+      "Phrase": "over the medium term",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "মধ্যমেয়াদে; মাঝারি সময়ের মধ্যে",
+      "English explanation": "Over a period of a few years, not immediately and not in the distant future.",
+      "Usage / register": "Formal, economics and finance.",
+      "Original example 1": "The IMF's debt sustainability analysis accompanying its 2025 Article IV consultation has also warned that the availability of long-term concessional external financing could decline over the medium term.",
+      "Original example 2": "The Finance Division has already taken several initiatives to improve debt management, including preparing a Medium-Term Debt Management Strategy (MTDS), conducting regular debt sustainability analyses and publishing public debt bulletins.",
+      "Common collocations / grammar pattern": "decline over the medium term; over the medium term; medium-term strategy",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "Publication date": "2026-11-15",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
+      "Exam value": "Standard BCS/Bank phrase for economic time horizons."
+    },
+    {
+      "Phrase": "up to",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "পর্যন্ত; অবধি",
+      "English explanation": "As far as a stated amount or limit; not more than.",
+      "Usage / register": "Neutral, data and finance.",
+      "Original example 1": "Individual borrowers seeking loans of up to Tk5 lakh will not need to provide collateral.",
+      "Original example 2": "Banks can provide group loans of up to Tk40 lakh to groups comprising two to five people or entities.",
+      "Common collocations / grammar pattern": "up to Tk5 lakh; up to 7 per cent; up to 25 per cent",
+      "Source publication": "Fibre2Fashion",
+      "Article headline": "Bangladesh Bank doubles concessional loan scheme to $120 mn",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-doubles-concessional-loan-scheme-to-120-mn-315000-newsdetails.htm",
+      "Exam value": "Essential BCS/Bank phrase for limits and data questions."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Vocabulary",
+      "question": "In the Aid for Trade story, what does 'disbursement' mean?",
+      "options": {
+        "A": "A formal request for a loan from a development bank",
+        "B": "The payment of money from a fund",
+        "C": "The cancellation of an unpaid debt by a creditor",
+        "D": "A tax collected on imported goods at a port"
+      },
+      "correct": "B",
+      "explanation": "A disbursement is money paid out from a fund -- the OECD-WTO report counts $795 billion disbursed under Aid for Trade between 2006 and 2024. (CA01)",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Vocabulary",
+      "question": "What does 'repatriation of dividends' mean?",
+      "options": {
+        "A": "Paying a fine to the central bank for late tax returns",
+        "B": "Moving a factory from one country to another",
+        "C": "Sending profits back home",
+        "D": "Borrowing money from foreign banks at low interest"
+      },
+      "correct": "C",
+      "explanation": "Repatriation means sending money or profits back to the home country; the column lists dividend repatriation among the obstacles American investors face. (CA02)",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Vocabulary",
+      "question": "What does 'bureaucracy' mean?",
+      "options": {
+        "A": "A system of officials and rules, often slow",
+        "B": "A private company that builds roads, bridges and ports",
+        "C": "A court that settles disputes between traders and firms",
+        "D": "A bank that lends money to small businesses"
+      },
+      "correct": "A",
+      "explanation": "Bureaucracy is administration by many officials and rules; investors complain about excessive bureaucracy in Bangladesh. (CA02)",
+      "source": "CA02"
+    },
+    {
+      "no": 4,
+      "section": "Vocabulary",
+      "question": "Why does the debt-conference story call for 'policy predictability'?",
+      "options": {
+        "A": "So the government can raise interest rates without warning",
+        "B": "So foreign banks can avoid paying any taxes at all",
+        "C": "So bond prices can rise and fall without any warning",
+        "D": "So investors can plan ahead with confidence"
+      },
+      "correct": "D",
+      "explanation": "Predictability means steadiness that lets people plan; the conference story says Bangladesh needs policy predictability to attract foreign bond investors. (CA03)",
+      "source": "CA03"
+    },
+    {
+      "no": 5,
+      "section": "Vocabulary",
+      "question": "What does 'debt sustainability' mean?",
+      "options": {
+        "A": "The total amount of money a country owes to foreigners",
+        "B": "The ability to keep debt at manageable levels",
+        "C": "The speed at which a government repays all its loans",
+        "D": "A law that forbids borrowing from foreign lenders"
+      },
+      "correct": "B",
+      "explanation": "Sustainability is the capacity to continue without collapse; the Finance Division conducts regular debt sustainability analyses. (CA03)",
+      "source": "CA03"
+    },
+    {
+      "no": 6,
+      "section": "Vocabulary",
+      "question": "What does 'revenue mobilisation' mean?",
+      "options": {
+        "A": "Collecting and organising government income",
+        "B": "Printing new currency to pay for public projects",
+        "C": "Selling state-owned factories to private buyers",
+        "D": "Borrowing from foreign banks at very high interest"
+      },
+      "correct": "A",
+      "explanation": "Mobilisation is bringing resources together for a purpose; the analysis calls for stronger domestic revenue mobilisation to cut borrowing. (CA04)",
+      "source": "CA04"
+    },
+    {
+      "no": 7,
+      "section": "Vocabulary",
+      "question": "What does 'decarbonisation' mean?",
+      "options": {
+        "A": "Building more coal-fired power plants for cheap power",
+        "B": "Increasing the use of petrol and diesel in transport",
+        "C": "Cutting carbon dioxide emissions from energy use",
+        "D": "Storing carbon dioxide underground for a hundred years"
+      },
+      "correct": "C",
+      "explanation": "Decarbonisation is reducing carbon dioxide emissions; the column warns electrification alone does not guarantee it. (CA07)",
+      "source": "CA07"
+    },
+    {
+      "no": 8,
+      "section": "Vocabulary",
+      "question": "What does 'dilute' mean in the Islami Bank story?",
+      "options": {
+        "A": "To sell a company's assets to repay its debts",
+        "B": "To cancel a loan that a borrower cannot repay",
+        "C": "To raise the price of shares on the stock market",
+        "D": "To reduce a share by adding more shares"
+      },
+      "correct": "D",
+      "explanation": "To dilute is to weaken or reduce a share; new shares would dilute the S Alam Group's ownership stake in Islami Bank. (CA05)",
+      "source": "CA05"
+    },
+    {
+      "no": 9,
+      "section": "Vocabulary",
+      "question": "What does 'condone' mean?",
+      "options": {
+        "A": "To pass a new law banning a harmful practice",
+        "B": "To accept wrong behaviour without punishment",
+        "C": "To delay a court hearing until the next year",
+        "D": "To investigate a crime thoroughly and arrest the suspects"
+      },
+      "correct": "B",
+      "explanation": "To condone is to accept wrong behaviour without punishing it; the law minister said the Appellate Division has no provision to condone delays in crimes-against-humanity appeals. (CA09)",
+      "source": "CA09"
+    },
+    {
+      "no": 10,
+      "section": "Vocabulary",
+      "question": "What is a 'tribunal'?",
+      "options": {
+        "A": "A special court set up to judge particular cases",
+        "B": "A government office that issues passports and visas",
+        "C": "A committee that writes the national budget each year",
+        "D": "A prison where convicted criminals serve their sentences"
+      },
+      "correct": "A",
+      "explanation": "A tribunal is a special court for particular cases; the International Crimes Tribunal sentenced Hasina to death in November 2025. (CA09)",
+      "source": "CA09"
+    },
+    {
+      "no": 11,
+      "section": "Phrases",
+      "question": "What does 'put pressure on government finances' mean?",
+      "options": {
+        "A": "To protect them by banning all foreign borrowing",
+        "B": "To reduce them by cutting all public spending at once",
+        "C": "To strain them by increasing costs and repayments",
+        "D": "To publish them in the newspaper every single week"
+      },
+      "correct": "C",
+      "explanation": "To put pressure on something is to strain it; rising interest costs and loan repayments put increasing pressure on government finances. (CA03)",
+      "source": "CA03"
+    },
+    {
+      "no": 12,
+      "section": "Phrases",
+      "question": "What does 'translate pledges into action' mean?",
+      "options": {
+        "A": "To explain a foreign language speech in simple Bengali",
+        "B": "To write down every promise made at a summit meeting",
+        "C": "To repeat the same promises at the next conference",
+        "D": "To turn promises into real, practical results"
+      },
+      "correct": "D",
+      "explanation": "To translate something into action is to turn it into practical results; the COP31 column says commitments must translate into measurable action. (CA07)",
+      "source": "CA07"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "How much aid for trade did Bangladesh receive in 2024?",
+      "options": {
+        "A": "$3.08 billion, the amount received in 2022",
+        "B": "$2.67 billion",
+        "C": "$2.70 billion, the amount received in 2023",
+        "D": "$795 billion disbursed to developing economies since 2006"
+      },
+      "correct": "B",
+      "explanation": "Bangladesh received $2,676.52 million ($2.67 billion) in aid for trade in 2024 -- $134 million in grants and $2,542 million in loans. (CA01)",
+      "source": "CA01"
+    },
+    {
+      "no": 14,
+      "section": "Current Affairs",
+      "question": "By how much did net FDI fall in the first half of 2026?",
+      "options": {
+        "A": "28%",
+        "B": "6.1%, the World Bank's growth target",
+        "C": "$1.77 billion, the net FDI attracted in 2025",
+        "D": "25, the American companies that visited Dhaka"
+      },
+      "correct": "A",
+      "explanation": "Bangladesh Bank figures show net FDI fell 28% in the first half of 2026, even though 25 American companies visited Dhaka in August. (CA02)",
+      "source": "CA02"
+    },
+    {
+      "no": 15,
+      "section": "Current Affairs",
+      "question": "How much did Bangladesh repay in foreign loans in FY2025-26?",
+      "options": {
+        "A": "$5.243 billion in new foreign loan commitments",
+        "B": "$2.95 billion in principal repayments alone",
+        "C": "$4.494 billion",
+        "D": "$1.54 billion in interest payments alone"
+      },
+      "correct": "C",
+      "explanation": "Bangladesh repaid a record $4.494 billion in foreign loan principal and interest in FY2025-26 -- $2.95 billion of principal and $1.54 billion of interest. (CA03)",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Current Affairs",
+      "question": "What was the banking system's non-performing loan ratio in June 2026?",
+      "options": {
+        "A": "24%, the ratio reported in March 2025",
+        "B": "41%, the public debt ratio as a share of GDP",
+        "C": "6.5%, the government's growth target for 2026-27",
+        "D": "32.78%"
+      },
+      "correct": "D",
+      "explanation": "The IMF's January 2026 report put the NPL ratio at about 24% in March 2025; by June 2026 it had reached 32.78%, or Tk6,06,555 crore. (CA04)",
+      "source": "CA04"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "What stake would the government get if it invests Tk6,000 crore in Islami Bank?",
+      "options": {
+        "A": "78.8%",
+        "B": "81.59%, the S Alam Group's frozen shareholding",
+        "C": "51%, a simple majority of the bank's shares",
+        "D": "18.41%, the share held by general investors"
+      },
+      "correct": "A",
+      "explanation": "The Tk6,000 crore equity investment could give the government a 78.8% stake in Islami Bank, the country's largest private commercial bank. (CA05)",
+      "source": "CA05"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "What share of the climate finance to Bangladesh's energy sector came as loans between 2002 and 2023?",
+      "options": {
+        "A": "69%, the share of public climate finance as loans in 2022",
+        "B": "92%",
+        "C": "58%, the share of adaptation finance delivered as debt",
+        "D": "18.84%, the share that went to fossil-fuel projects"
+      },
+      "correct": "B",
+      "explanation": "92% of the $2.54 billion in climate finance to Bangladesh's energy sector between 2002 and 2023 came as loans, the index findings show. (CA06)",
+      "source": "CA06"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "What does the Global 35-by-35 Electrification Pledge aim to do by 2035?",
+      "options": {
+        "A": "Build 35 new power plants in 35 developing countries",
+        "B": "Cut global electricity use by 35% from current levels",
+        "C": "Lift electricity's share of energy use to 35%",
+        "D": "Replace all fossil fuels with solar power by 2035"
+      },
+      "correct": "C",
+      "explanation": "The pledge aims to increase electricity's share of global final energy consumption from about 23% to 35% by 2035. (CA07)",
+      "source": "CA07"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "How many factories could not keep production running, according to BGMEA?",
+      "options": {
+        "A": "55, the factories closed under Section 13(1)",
+        "B": "92, the factories that declared a holiday on Saturday",
+        "C": "1,000, the owners who attended the view-exchange meeting",
+        "D": "147"
+      },
+      "correct": "D",
+      "explanation": "BGMEA said 147 factories in Savar-Ashulia and Gazipur cannot keep production running; 55 closed indefinitely under Section 13(1) and 92 declared a holiday on 14 November. (CA08)",
+      "source": "CA08"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "Under which constitutional provision did the law minister say fundamental-rights claims are barred in crimes-against-humanity cases?",
+      "options": {
+        "A": "Article 47(3)",
+        "B": "Article 15, the provision on basic necessities",
+        "C": "Article 102, the provision on writ petitions",
+        "D": "Article 70, the provision on floor-crossing by MPs"
+      },
+      "correct": "A",
+      "explanation": "The law minister cited Article 47(3) and a 1973 amendment, which he said prevented anyone accused or convicted of crimes against humanity from claiming fundamental rights. (CA09)",
+      "source": "CA09"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "Under which article of the Paris Agreement will Bangladesh and Singapore cooperate on carbon markets?",
+      "options": {
+        "A": "Article 4, the article on national climate targets",
+        "B": "Article 6",
+        "C": "Article 9, the article on climate finance for developing nations",
+        "D": "Article 2, the article on keeping warming well below 2 degrees C"
+      },
+      "correct": "B",
+      "explanation": "The MoU covers cooperation in international carbon markets under Article 6 of the Paris Agreement. (CA10)",
+      "source": "CA10"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "Why did the energy minister say sovereign guarantees cannot simply be withdrawn?",
+      "options": {
+        "A": "It would end the power shortage overnight",
+        "B": "It would stop all negotiations with Indian suppliers",
+        "C": "It could damage Bangladesh's credit rating",
+        "D": "It would cut electricity prices for households at once"
+      },
+      "correct": "C",
+      "explanation": "Minister Tuku said withdrawing a sovereign guarantee would affect Bangladesh's credit rating and people would lose confidence. (CA11)",
+      "source": "CA11"
+    },
+    {
+      "no": 24,
+      "section": "Current Affairs",
+      "question": "How many health workers are being recruited for remote areas?",
+      "options": {
+        "A": "90,000, the number of villages they will serve",
+        "B": "34, the participants in the PET-CT training course",
+        "C": "80%, the share of positions reserved for women",
+        "D": "1 lakh"
+      },
+      "correct": "D",
+      "explanation": "One lakh health workers are being recruited for remote areas, with 80% of the positions reserved for women. (CA12)",
+      "source": "CA12"
+    },
+    {
+      "no": 25,
+      "section": "Current Affairs",
+      "question": "At what rate can banks borrow from Bangladesh Bank under the doubled refinancing scheme?",
+      "options": {
+        "A": "1%",
+        "B": "7%, the maximum rate banks may charge borrowers",
+        "C": "25%, the share reserved for women borrowers",
+        "D": "0.5%, the refinance rate of the old September 2024 scheme"
+      },
+      "correct": "A",
+      "explanation": "Banks can borrow from the central bank at 1% interest and lend at up to 7% under the Tk1,500 crore refinancing scheme. (CA13)",
+      "source": "CA13"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "",
+      "Publication date": "2026-11-15",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/editorial/two-decades-of-a4t-and-bangladesh-1794668059"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/thoughts/beyond-garments-what-would-bring-more-american-investment-bangladesh-1602196"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-15",
+      "Direct URL": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/analysis/imf-loans-whether-attempt-address-economic-challenges-1601801"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-13",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/environment/climate-change/debt-design-bangladeshs-climate-debt-estimated-80-person-new-index-finds"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.dhakatribune.com/business/424650/bgmea-scenario-being-created-for-announcing"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "",
+      "Publication date": "2026-11-15",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/politics-policies/hasina-will-return-under-extradition-treaty-with-india-says-law-minister-1794680194"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/sovereign-guarantees-limit-power-deal-review-energy-minister-1602346"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/health/80-women-among-1-lakh-health-workers-be-hired-remote-areas-zubaida-1602396"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Fibre2Fashion",
+      "Headline / report": "",
+      "Publication date": "2026-11-13",
+      "Direct URL": "https://www.fibre2fashion.com/news/textile-news/bangladesh-bank-doubles-concessional-loan-scheme-to-120-mn-315000-newsdetails.htm"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-15",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/law-minister-seeks-update-commercial-courts-act-1602671"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "",
+      "Publication date": "2026-11-14",
+      "Direct URL": "https://www.tbsnews.net/science/bangladesh-could-become-regional-hub-precision-medicine-science-secretary-1602656"
+    }
+  ],
+  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
+  "approval_notes": "Auto-approved under Rudro's rule 2026-11-13: review 17/17, longest-correct 0/25. Pack written by operator (agent) acting as the Claude Project. Manual spot-checks done by operator: lead figures verified against full source texts for CA01 ($800bn/$795bn A4T), CA03 (Tk22 lakh crore debt), CA05 (Tk6,000cr / 78.8% Islami Bank), CA06 ($80/person climate debt), CA13 (Tk1,500 crore BB scheme); attribution verified in all 4 opinion/analysis stories (CA01, CA02, CA04, CA07). URL-repeat check vs all published editions: clean. KNOWN LIMIT: checks 13 and 17 include proxy checks and manual spot-checks that got no human eye on this edition. Import flagged 4 problems for the 2 resolver-verified URLs (Islami Bank, Debt by design -- runbook 2b): URLs not in the collected file, so the importer could not see their bodies; both full texts were read live via browser.open in this run and the summaries are written from them, not from titles."
+}
