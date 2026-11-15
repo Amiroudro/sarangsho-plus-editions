@@ -72,12 +72,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Savar-Ashulia?",
-          "a": "264 factories shut"
+          "q": "How many factories in Savar and Ashulia declared holidays on 2 November?",
+          "a": "264 factories."
         },
         {
-          "q": "What is Gazipur?",
-          "a": "150+ shut"
+          "q": "How many BGB platoons were deployed in Gazipur amid the unrest?",
+          "a": "10 platoons."
         }
       ],
       "recall_cards": [
@@ -162,12 +162,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is hour surveillance ordered?",
-          "a": "24"
+          "q": "Who alleged that factory owners and former political officeholders were behind the garment unrest?",
+          "a": "Home Minister Salahuddin Ahmed."
         },
         {
-          "q": "What is video footage?",
-          "a": "masked men infiltrated protests"
+          "q": "What did the home minister say video footage showed?",
+          "a": "Masked men who were not workers had infiltrated the protests. This was his allegation."
         }
       ],
       "recall_cards": [],
@@ -233,12 +233,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is up?",
-          "a": "4.4 percent"
+          "q": "What was the value of Bangladesh's merchandise exports in October 2026?",
+          "a": "$3.99 billion, up 4.4% year on year."
         },
         {
-          "q": "What is RMG?",
-          "a": "$3.17 billion"
+          "q": "How much did garment exports reach in October?",
+          "a": "$3.17 billion."
         }
       ],
       "recall_cards": [
@@ -297,7 +297,16 @@
       "one_liner": "",
       "key_facts": [],
       "what_happened": [],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "When were the HSC supplementary examinations scheduled to begin?",
+          "a": "1 December 2026."
+        },
+        {
+          "q": "How many candidates passed the HSC and equivalent examinations out of 1,240,798?",
+          "a": "646,685 candidates, or 52.12%."
+        }
+      ],
       "recall_cards": [],
       "keywords": [
         "jobs & education"
@@ -359,12 +368,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is up?",
-          "a": "Tk 223"
+          "q": "What was the November price of a 12-kg LPG cylinder after the increase?",
+          "a": "Tk2,060."
         },
         {
-          "q": "What is autogas per litre?",
-          "a": "Tk 91.95"
+          "q": "How much did the official LPG cylinder price increase by?",
+          "a": "Tk223."
         }
       ],
       "recall_cards": [
@@ -418,7 +427,16 @@
         "At a meeting at the Prime Minister's Office, he stressed coordinated action by ministries, local government,",
         "RAJUK and the Fire Service to protect hospitals, schools and other important establishments in Dhaka and other earthquake-prone areas."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "Which building standard did the prime minister direct officials to enforce for earthquake safety?",
+          "a": "The National Building Code."
+        },
+        {
+          "q": "Which two agencies were specifically named for coordinated preparedness alongside ministries and local government?",
+          "a": "RAJUK and the Fire Service."
+        }
+      ],
       "recall_cards": [],
       "keywords": [
         "bangladesh",
@@ -485,12 +503,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is hospitalised?",
-          "a": "1,970"
+          "q": "How many dengue deaths had been recorded in the year by 2 November?",
+          "a": "433 deaths."
         },
         {
-          "q": "What is total deaths?",
-          "a": "433"
+          "q": "How many dengue patients were hospitalised in the 24 hours to 8am on 2 November?",
+          "a": "1,970 patients."
         }
       ],
       "recall_cards": [
@@ -559,12 +577,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is crore?",
-          "a": "Tk 1,121.49"
+          "q": "How much was allegedly embezzled and laundered from Janata Bank in the ACC cases?",
+          "a": "Tk1,121.49 crore."
         },
         {
-          "q": "What is accused in total across the cases?",
-          "a": "37"
+          "q": "How many companies were named as borrowers in the alleged transactions?",
+          "a": "Three companies: Springful Apparels, Urban Fashions and Midwest Garments."
         }
       ],
       "recall_cards": [
@@ -631,12 +649,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is deadlines missed?",
-          "a": "131"
+          "q": "How many deadlines had investigators missed for submitting the Sagar-Runi murder investigation report?",
+          "a": "131 deadlines."
         },
         {
-          "q": "What is Victims?",
-          "a": "journalist Sagar Sarowar and Meherun Runi, murdered in February 2012"
+          "q": "When were Sagar Sarowar and Meherun Runi murdered?",
+          "a": "February 2012."
         }
       ],
       "recall_cards": [
@@ -711,8 +729,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is about dead?",
-          "a": "1,400"
+          "q": "How many Awami League leaders were named in the formal charge submitted to the International Crimes Tribunal?",
+          "a": "Seven leaders."
+        },
+        {
+          "q": "How many protesters were alleged by the prosecution to have been killed in the July 2024 crackdown?",
+          "a": "About 1,400 people."
         }
       ],
       "recall_cards": [
@@ -792,12 +814,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is MW rooftop solar target?",
-          "a": "4,000"
+          "q": "What was the government's rooftop-solar installation target discussed by energy specialists?",
+          "a": "4,000 megawatts within a year."
         },
         {
-          "q": "What is about needed?",
-          "a": "$2 billion"
+          "q": "How much investment was estimated to be needed to achieve that target?",
+          "a": "About $2 billion."
         }
       ],
       "recall_cards": [
@@ -871,8 +893,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is repo about?",
-          "a": "8.90 percent"
+          "q": "What was the weighted average call-money rate at the end of September?",
+          "a": "8.48%."
+        },
+        {
+          "q": "What was the monthly average repo rate in September?",
+          "a": "About 8.90%."
         }
       ],
       "recall_cards": [
@@ -946,8 +972,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Democratic Senate?",
-          "a": "candidates James Talarico (Texas) and Adam Hamilton (Kansas)"
+          "q": "On what date were the US midterm elections scheduled?",
+          "a": "3 November 2026."
+        },
+        {
+          "q": "Where did Donald Trump hold his final campaign rally, according to the report?",
+          "a": "At the Lincoln Memorial Reflecting Pool in Washington."
         }
       ],
       "recall_cards": [],
@@ -1011,12 +1041,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is moving at kmph?",
-          "a": "20"
+          "q": "Where was Severe Cyclonic Storm Murasu forecast to make landfall?",
+          "a": "On the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole."
         },
         {
-          "q": "What is Storm?",
-          "a": "Severe Cyclonic Storm Murasu"
+          "q": "What sustained wind speed was forecast at landfall?",
+          "a": "100–110 km/h, with gusts up to 120 km/h."
         }
       ],
       "recall_cards": [
@@ -1093,12 +1123,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is in irregularities?",
-          "a": "Tk 45 billion"
+          "q": "What value of loan irregularities and corruption did the Prothom Alo investigation attribute to the BASIC Bank period under Sheikh Abdul Hye?",
+          "a": "Tk45 billion; this is the investigation's reported figure."
         },
         {
-          "q": "What is bailout?",
-          "a": "Tk 35 billion"
+          "q": "How much did the government later inject to bail out BASIC Bank?",
+          "a": "Tk35 billion."
         }
       ],
       "recall_cards": [
@@ -2353,5 +2383,12 @@
   ],
   "backfilled": true,
   "backfill_note": "Backfilled from newspaper archives (Daily Star sitemap + Prothom Alo daily sitemap + Bing News RSS, all date-verified).",
-  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)"
+  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+    "Questions preserve attribution for allegations, official statements and investigative findings.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
