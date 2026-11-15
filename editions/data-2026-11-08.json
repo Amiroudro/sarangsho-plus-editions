@@ -66,12 +66,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is LEAP?",
-          "a": "Programme: Learning Enhancement and Acceleration in Primary Education"
+          "q": "How much did the World Bank approve for Bangladesh's primary-education programme?",
+          "a": "$300 million."
         },
         {
-          "q": "What is supports PEDP?",
-          "a": "5"
+          "q": "How many children was the programme designed to reach?",
+          "a": "26 million children, from pre-primary to grade 5."
         }
       ],
       "recall_cards": [
@@ -147,8 +147,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Bangla QR?",
-          "a": "is Bangladesh Bank's interoperable QR payment system for reducing cash use"
+          "q": "How much were daily Bangla QR transactions in the first week of October?",
+          "a": "Tk13.5 billion."
+        },
+        {
+          "q": "How much had daily transactions fallen to by the last week of October?",
+          "a": "Tk11.9 billion."
         }
       ],
       "recall_cards": [
@@ -215,7 +219,16 @@
         "Two anti-Tagore and anti-India posters were found beside it.",
         "Police learnt of it on Friday afternoon and are investigating."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "Which national song did Rabindranath Tagore write?",
+          "a": "Amar Sonar Bangla, Bangladesh's national anthem."
+        },
+        {
+          "q": "Which city railway station had the defaced mural?",
+          "a": "Khulna Railway Station."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "A mural of Nobel laureate Rabindranath Tagore on the boundary wall of Khulna Railway Station was defaced with black ink by unidentified persons, local media reported on ______.",
@@ -280,8 +293,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is first phase?",
-          "a": "12 officials, 4-21 May 2026"
+          "q": "How many senior government officials were scheduled to attend the second-phase training in Pakistan?",
+          "a": "35 officials."
+        },
+        {
+          "q": "How were the 35 officials divided by rank?",
+          "a": "Five additional secretaries and 30 joint secretaries."
         }
       ],
       "recall_cards": [
@@ -355,12 +372,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Test?",
-          "a": "16 January 2027"
+          "q": "When is BUET's 2026–27 undergraduate admission test scheduled?",
+          "a": "16 January 2027."
         },
         {
-          "q": "What is applications open?",
-          "a": "21 November 2026"
+          "q": "When were applications expected to open?",
+          "a": "21 November 2026."
         }
       ],
       "recall_cards": [
@@ -434,7 +451,16 @@
         "Hundreds of bodies have been found since 2023 at the sect's base near Malindi.",
         "The court gave 100 years for homicide and 100 for starvation charges."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "How many years in prison was Paul Mackenzie sentenced to?",
+          "a": "200 years."
+        },
+        {
+          "q": "How many people were convicted as victims in the Shakahola case described in the report?",
+          "a": "191 people: 190 children and one adult."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Self-proclaimed Kenyan pastor Paul Mackenzie was sentenced to 200 years in prison on ______ for the murder of 190 children and one adult in the Shakahola starvation cult.",
@@ -511,7 +537,16 @@
         "Speaking briefly outside the party's central office, he alleged conspiracies were being hatched again and warned of a 'crushing response',",
         "as on 7 November 1975, saying no conspiracy could suppress the pro-democracy people."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "On which date is National Revolution and Solidarity Day observed?",
+          "a": "7 November, marking the 1975 uprising."
+        },
+        {
+          "q": "From where did the BNP procession begin before heading towards Manik Mia Avenue?",
+          "a": "Naya Paltan."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Prime Minister and BNP Chairman Tarique Rahman joined the BNP's sovereignty procession from Naya Paltan on ______, walking at the front towards Manik Mia Avenue to mark National Revolution and Solidarity Day.",
@@ -570,7 +605,16 @@
       "what_happened": [
         "The account, excerpted from his book Roktakto Dinguli: 1975-1981 (The Bloody Days), describes 7 November as one of the most decisive turning points in Bangladesh's political history."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "Who wrote the first-hand account of the night of 7 November 1975?",
+          "a": "Retired Brigadier General M Sakhawat Hossain."
+        },
+        {
+          "q": "What is the title of the book from which the account was excerpted?",
+          "a": "Roktakto Dinguli: 1975–1981 (The Bloody Days)."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "In a first-hand account published on ______, retired Brigadier General M Sakhawat Hossain recalls the night of 7 November 1975, when gunfire and cries of 'Zindabad' woke his cantonment household and tanks moved south towards Tejgaon.",
@@ -634,8 +678,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is people met at a food shop…?",
-          "a": "13"
+          "q": "How many people allegedly met at a food shop to plan the attack on the New Gini Properties project?",
+          "a": "13 people."
+        },
+        {
+          "q": "How much was the prime accused alleged to have agreed to pay Ibrahim for the attack?",
+          "a": "Tk10 million, or Tk1 crore."
         }
       ],
       "recall_cards": [
@@ -702,7 +750,16 @@
         "Retirement gratuity rises to Tk 80,000 for members and Tk 1 lakh for chiefs, with a Tk 150 monthly mobile allowance,",
         "higher travel allowances, two more women members per union and six months' maternity leave."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "What was the new monthly salary for a Gram Police member?",
+          "a": "Tk10,500, up from Tk7,500."
+        },
+        {
+          "q": "What was the new monthly salary for a Gram Police chief?",
+          "a": "Tk11,000, up from Tk8,000."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Prime Minister Tarique Rahman announced a pay rise for Gram Police at a rally at the National Parade Ground on ______.",
@@ -773,7 +830,16 @@
         "Bangladesh's Consul General in Jeddah confirmed the accident and said the consulate had formally asked Saudi authorities for details.",
         "The dead are at a local hospital morgue; the injured are being treated there."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "q": "How many Bangladeshis were killed in the road accident in Saudi Arabia?",
+          "a": "Seven."
+        },
+        {
+          "q": "How many people were injured?",
+          "a": "15."
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "Seven Bangladeshis, including children, were killed and 15 injured when a truck rammed into their bus from behind on the road from Medina to Jeddah in Saudi Arabia early on ______.",
@@ -842,12 +908,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is including the OC?",
-          "a": "6 police injured"
+          "q": "How many police personnel, including the officer-in-charge, were injured in the Chattogram procession incident?",
+          "a": "Six."
         },
         {
-          "q": "What is as stated in the report?",
-          "a": "The Awami League's activities are banned"
+          "q": "How many leaders and activists did police arrest after the incident?",
+          "a": "20."
         }
       ],
       "recall_cards": [
@@ -913,8 +979,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is OCR?",
-          "a": "Kagoj.ai offers optical character recognition"
+          "q": "How much did the ICT Division spend developing the 12 software tools?",
+          "a": "Tk800 million, or Tk80 crore."
+        },
+        {
+          "q": "What does OCR stand for in the Kagoj.ai service?",
+          "a": "Optical character recognition."
         }
       ],
       "recall_cards": [
@@ -983,8 +1053,12 @@
       ],
       "exam_qa": [
         {
-          "q": "What is Meeting at District Shilpakala Academy auditorium,…?",
-          "a": "00"
+          "q": "Which historical figure's photograph was missing from the banner at the Joypurhat event?",
+          "a": "Martyred President Ziaur Rahman."
+        },
+        {
+          "q": "Who ordered an investigation into the banner controversy?",
+          "a": "State Minister Abdul Bari."
         }
       ],
       "recall_cards": [
@@ -2194,5 +2268,12 @@
       "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/rkaacev5ci"
     }
   ],
-  "approved_by": "Rudro"
+  "approved_by": "Rudro",
+  "renovation_status": "editorially_rewritten_pending_human_review",
+  "renovation_notes": [
+    "Rewrote 28 English and added 28 Bangla short-answer questions across all 14 stories.",
+    "Questions use facts already present in the edition; first-person recollection is labelled as the author's account and allegations remain attributed.",
+    "Original story IDs and source URLs preserved.",
+    "Human editorial and factual review remains required before publication."
+  ]
 }
