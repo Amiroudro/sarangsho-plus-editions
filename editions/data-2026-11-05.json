@@ -84,12 +84,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is factories shut in Ashulia?",
-     "a": "70"
+     "q": "How many factories in Ashulia declared holidays on 5 November?",
+     "a": "70 of 1,863 factories."
     },
     {
-     "q": "What is + accounts frozen?",
-     "a": "100"
+     "q": "How many BGB platoons were deployed during the garment unrest?",
+     "a": "33 platoons."
     }
    ],
    "recall_cards": [
@@ -400,12 +400,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is exports?",
-     "a": "$11.86bn"
+     "q": "By what percentage did Bangladesh's trade deficit rise year on year in July–September 2026?",
+     "a": "31%, to $7.48 billion."
     },
     {
-     "q": "What is remittances?",
-     "a": "$8.59bn"
+     "q": "How much did petroleum imports rise to in the first quarter of FY2026-27?",
+     "a": "$4.2 billion, up 105%."
     }
    ],
    "recall_cards": [
@@ -707,12 +707,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Reserves?",
-     "a": "$34.85bn"
+     "q": "What was Bangladesh's reserve level after the $1.64 billion ACU payment?",
+     "a": "$34.85 billion."
     },
     {
-     "q": "What is ACU payment?",
-     "a": "$1.64bn"
+     "q": "How much did Bangladesh pay through the Asian Clearing Union?",
+     "a": "$1.64 billion."
     }
    ],
    "recall_cards": [
@@ -1014,12 +1014,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is cr scheme?",
-     "a": "Tk 20,000"
+     "q": "What is the total allocation of the Closed Industry and Service Sector Support Refinancing Scheme?",
+     "a": "Tk20,000 crore."
     },
     {
-     "q": "What is only about % disbursed?",
-     "a": "7"
+     "q": "At what rate do banks receive funds and what is the maximum lending rate to borrowers?",
+     "a": "Banks receive funds at 4% and may lend at up to 7%."
     }
    ],
    "recall_cards": [
@@ -1324,12 +1324,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Net interest income - cr?",
-     "a": "Tk 5,624"
+     "q": "What was the combined net interest income of 27 listed banks in January–September 2026?",
+     "a": "Negative Tk5,624 crore."
     },
     {
-     "q": "What is investment income cr?",
-     "a": "Tk 32,622"
+     "q": "How much did the banks' investment income reach?",
+     "a": "Tk32,622 crore, up 21%."
     }
    ],
    "recall_cards": [
@@ -1638,12 +1638,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is total deaths?",
-     "a": "452"
+     "q": "How many dengue deaths had been recorded in the year by 5 November?",
+     "a": "452 deaths."
     },
     {
-     "q": "What is total cases?",
-     "a": "144,371"
+     "q": "How many dengue patients were hospitalised in the 24 hours to 8am on 5 November?",
+     "a": "1,596 patients."
     }
    ],
    "recall_cards": [
@@ -1948,12 +1948,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is combined tally?",
-     "a": "1,272"
+     "q": "What was the combined confirmed and suspected measles-related death tally reported on 5 November?",
+     "a": "1,272 deaths."
     },
     {
-     "q": "What is suspected cases?",
-     "a": "235,475"
+     "q": "How many suspected measles cases had been recorded?",
+     "a": "235,475 cases."
     }
    ],
    "recall_cards": [
@@ -2257,12 +2257,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is cr?",
-     "a": "Tk 41,090"
+     "q": "What was the total cost of the fifth Primary Education Development Programme?",
+     "a": "Tk41,090 crore."
     },
     {
-     "q": "What is m students get uniforms?",
-     "a": "10.6"
+     "q": "How many tablets were planned under the 'One Teacher, One Tab' initiative?",
+     "a": "383,513 tablets."
     }
    ],
    "recall_cards": [
@@ -2583,12 +2583,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is cr project?",
-     "a": "Tk 4,068"
+     "q": "What was the cost of the Mongla Port Expansion and Modernisation Project?",
+     "a": "Tk4,068 crore."
     },
     {
-     "q": "What is Mongla Port Expansion and Modernisation Project?",
-     "a": "Tk 4,068 crore"
+     "q": "Who laid the foundation stone of the project on 5 November 2026?",
+     "a": "Prime Minister Tarique Rahman."
     }
    ],
    "recall_cards": [
@@ -2881,12 +2881,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is China Civil Engineering Construction Corporation?",
-     "a": "signed by Saleh Ahmed (Invest Bangladesh) and Li Chongyang"
+     "q": "Which two organisations signed the economic and infrastructure cooperation MoU?",
+     "a": "Invest Bangladesh and China Railway Construction Corporation."
     },
     {
-     "q": "What is sectors?",
-     "a": "energy, industrial and green infrastructure, transport, logistics, human resource development"
+     "q": "Which sectors were covered by the cooperation MoU?",
+     "a": "Energy, industrial and green infrastructure, transport, logistics and human-resource development."
     }
    ],
    "recall_cards": [],
@@ -3175,12 +3175,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is MW target?",
-     "a": "5,000"
+     "q": "What solar-power capacity did the government aim to generate before the next summer?",
+     "a": "5,000 megawatts."
     },
     {
-     "q": "What is per unit rooftop buyback?",
-     "a": "Tk 10"
+     "q": "At what rate did the minister say the government would buy electricity from household rooftop solar panels?",
+     "a": "Tk10 per unit."
     }
    ],
    "recall_cards": [
@@ -3478,12 +3478,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is total marks?",
-     "a": "120"
+     "q": "When were Dhaka University's 2026–27 undergraduate admission applications scheduled to open and close?",
+     "a": "11 to 25 November 2026."
     },
     {
-     "q": "What is units?",
-     "a": "5"
+     "q": "How many marks were allocated to the admission assessment in total?",
+     "a": "120 marks: 100 in the test and 20 from SSC/HSC results."
     }
    ],
    "recall_cards": [
@@ -3787,8 +3787,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is not just eligibility?",
-     "a": "first time the registration examination leads directly to recruitment"
+     "q": "What was the proposed month for the Ninth Teacher Recruitment Examination?",
+     "a": "December 2026, subject to approval."
+    },
+    {
+     "q": "What made the new examination different from earlier teacher registration examinations?",
+     "a": "It would lead directly to recruitment rather than only certifying eligibility."
     }
    ],
    "recall_cards": [
@@ -4091,12 +4095,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is UN estimate?",
-     "a": "nearly 1,400 killed"
+     "q": "When did Sheikh Hasina say she planned to return to Bangladesh?",
+     "a": "December 2026."
     },
     {
-     "q": "What is UN estimated nearly killed in the…?",
-     "a": "1,400"
+     "q": "Which news agency did she tell by email about her intended return?",
+     "a": "The Associated Press."
     }
    ],
    "recall_cards": [
@@ -4410,12 +4414,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Senate at least?",
-     "a": "54-44"
+     "q": "What minimum Senate majority did Democrats claim after the election results described?",
+     "a": "At least 54–44."
     },
     {
-     "q": "What is House + seats?",
-     "a": "30"
+     "q": "How many seats did Democrats gain in the House, according to the report?",
+     "a": "At least 30 seats."
     }
    ],
    "recall_cards": [
@@ -5868,5 +5872,14 @@
  "backfill_note": "Backfilled edition: built from real articles published 5 November 2026 (Daily Star, Prothom Alo English, The Business Standard via sitemaps and Bing News RSS). CA07 (measles) and CA11 (solar target) have no Current Affairs MCQ. CA14 (Hasina return) is sourced from IJR reporting an Associated Press email interview.",
  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+  "Questions use facts already present in the edition; expectations and politically sensitive statements remain qualified or attributed.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. Context-specific terms are distinguished from loose associations and false opposites.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

@@ -61,11 +61,11 @@
    ],
    "exam_qa": [
     {
-     "q": "From how much to how much did Bangladesh's reserves fall between August 2021 and mid-2024?",
-     "a": "From nearly $48 billion to $20-25 billion."
+     "q": "From what level to what range did Bangladesh's foreign-exchange reserves fall between August 2021 and mid-2024?",
+     "a": "From nearly $48 billion to $20–25 billion."
     },
     {
-     "q": "What policy rate did Bangladesh raise to, according to the columnists?",
+     "q": "What policy rate did the columnists say Bangladesh Bank raised to?",
      "a": "9.50%."
     }
    ],
@@ -372,12 +372,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What share of electricity does Bangladesh target from renewables by 2030?",
+     "q": "What share of Bangladesh's electricity did the prime minister target from renewable sources by 2030?",
      "a": "20%."
     },
     {
-     "q": "How many trees did the prime minister pledge to plant in five years?",
-     "a": "250 million."
+     "q": "How many trees did the prime minister pledge to plant over five years?",
+     "a": "250 million trees."
     }
    ],
    "recall_cards": [
@@ -679,11 +679,11 @@
    ],
    "exam_qa": [
     {
-     "q": "Who will serve as Nvidia's interim CEO after Jensen Huang's resignation?",
+     "q": "Who was appointed interim chief executive of Nvidia after Jensen Huang resigned?",
      "a": "Chief financial officer Colette Kress."
     },
     {
-     "q": "In which year was Nvidia co-founded by Jensen Huang?",
+     "q": "In which year was Nvidia co-founded?",
      "a": "1993."
     }
    ],
@@ -983,11 +983,11 @@
    ],
    "exam_qa": [
     {
-     "q": "At what rate did Bangladesh Bank sell $205 million on 12 November?",
-     "a": "Tk124.74 per dollar."
+     "q": "At what rate did Bangladesh Bank sell $205 million to commercial banks on 12 November?",
+     "a": "Tk124.74 per US dollar."
     },
     {
-     "q": "What was the reserve position after the $205 million sale?",
+     "q": "What was the reserve position after the sale?",
      "a": "$29.82 billion."
     }
    ],
@@ -1289,11 +1289,11 @@
    ],
    "exam_qa": [
     {
-     "q": "When and where did Tarique Rahman and Erdogan hold their first meeting?",
-     "a": "On 22 September 2026 in New York."
+     "q": "When and where did Tarique Rahman and Recep Tayyip Erdogan first meet in 2026?",
+     "a": "On 22 September in New York."
     },
     {
-     "q": "In which year did Turkiye withdraw its ambassador from Dhaka?",
+     "q": "In which year did Turkiye withdraw its ambassador from Dhaka, according to the analysis?",
      "a": "2016."
     }
    ],
@@ -1605,10 +1605,10 @@
    "exam_qa": [
     {
      "q": "When did US Ambassador Brent T. Christensen arrive in Dhaka?",
-     "a": "On 12 January 2026."
+     "a": "12 January 2026."
     },
     {
-     "q": "Since when has Sheikh Hasina been living in India?",
+     "q": "Since when had Sheikh Hasina been living in India at the time of the report?",
      "a": "Since 5 August 2024."
     }
    ],
@@ -1905,12 +1905,12 @@
    ],
    "exam_qa": [
     {
-     "q": "On which date do the 2026 HSC supplementary examinations begin, and with which paper?",
-     "a": "On 1 December, with English First Paper."
+     "q": "On what date did the 2026 HSC supplementary examinations begin, and which paper was first?",
+     "a": "1 December, with English First Paper."
     },
     {
-     "q": "On which date are the Bangla First and Second Papers of the HSC supplementary examinations held?",
-     "a": "On 2 December."
+     "q": "On what date were the Bangla First and Second Papers scheduled?",
+     "a": "2 December."
     }
    ],
    "recall_cards": [
@@ -2219,12 +2219,12 @@
    ],
    "exam_qa": [
     {
-     "q": "At what rate do banks get refinancing under the revamped scheme, and what is the maximum rate for borrowers?",
-     "a": "Banks get 1% a year; borrowers pay at most 7% a year."
+     "q": "At what annual rate can banks borrow under the revamped Bangladesh Bank refinance scheme, and what is the maximum lending rate?",
+     "a": "Banks borrow at 1%; the maximum borrower rate is 7%."
     },
     {
      "q": "What is the maximum group loan under the scheme?",
-     "a": "Tk40 lakh per group (up to Tk8 lakh per member)."
+     "a": "Tk40 lakh per group, with up to Tk8 lakh per member."
     }
    ],
    "recall_cards": [
@@ -2539,11 +2539,11 @@
    ],
    "exam_qa": [
     {
-     "q": "When did the Bhola Cyclone strike, and how many people died in one night?",
-     "a": "On 12 November 1970; more than a million people died."
+     "q": "When did the Bhola Cyclone strike?",
+     "a": "12 November 1970."
     },
     {
-     "q": "According to the World Meteorological Organization, what record does the Bhola Cyclone hold?",
+     "q": "What record does the World Meteorological Organization attribute to the Bhola Cyclone?",
      "a": "It remains the deadliest tropical cyclone in recorded history."
     }
    ],
@@ -2862,12 +2862,12 @@
    ],
    "exam_qa": [
     {
-     "q": "Which institutions does the new Bangladesh Bank directive on CFO, CITO and company secretary posts cover?",
+     "q": "Which institutions are covered by Bangladesh Bank's new eligibility directive for CFO, CITO and company secretary posts?",
      "a": "Non-bank financial institutions (NBFIs) only."
     },
     {
-     "q": "Until when do existing officials have time to meet the new criteria?",
-     "a": "Until 31 December 2029."
+     "q": "By what date must existing officials meet the new eligibility criteria?",
+     "a": "31 December 2029."
     }
    ],
    "recall_cards": [
@@ -3183,12 +3183,12 @@
    ],
    "exam_qa": [
     {
-     "q": "In which year was the Bangladesh-India consular dialogue mechanism instituted?",
-     "a": "In 2017."
+     "q": "In which year was the Bangladesh-India consular dialogue mechanism established?",
+     "a": "2017."
     },
     {
-     "q": "When and where was the fourth round of the consular dialogue held?",
-     "a": "On 29 May 2024 in New Delhi."
+     "q": "When and where was its fourth round held?",
+     "a": "29 May 2024 in New Delhi."
     }
    ],
    "recall_cards": [
@@ -3492,11 +3492,11 @@
    ],
    "exam_qa": [
     {
-     "q": "Which three corporations' enterprises did the parliamentary committee review?",
+     "q": "Which three state-sector organisations' enterprises did the parliamentary committee review?",
      "a": "BSEC, BSFIC and BSCIC."
     },
     {
-     "q": "Who chaired the committee's 9th meeting on 12 November 2026?",
+     "q": "Who chaired the committee's ninth meeting on 12 November 2026?",
      "a": "Chief Whip Nurul Islam Moni."
     }
    ],
@@ -3796,12 +3796,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What share of its direct ADP allocation did the Health Services Division spend in Q1 of FY2026-27?",
-     "a": "Only 1.78%."
+     "q": "What percentage of its direct ADP allocation did the Health Services Division spend in the first quarter of FY2026-27?",
+     "a": "1.78%."
     },
     {
      "q": "When did the fourth Health, Population and Nutrition Sector Programme end?",
-     "a": "In June 2024."
+     "a": "June 2024."
     }
    ],
    "recall_cards": [
@@ -5228,5 +5228,14 @@
  "approved_by": "Rudro (fix approval 2026-11-13 12:13 Dhaka) + auto-17/17 (original auto-publish)",
  "approval_notes": "AUTO-PUBLISHED under Rudro's rule of 2026-11-13 00:18 Dhaka: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this auto-published edition; the operator verified lead figures against the fetched source texts for CA01, CA02, CA04, CA08, CA10 and CA13. Two figure conflicts flagged, not settled: CA08 refinance rates/group cap (UNB 0.5%/5%/Tk50 lakh vs TBS 1%/7%/Tk40 lakh) and CA10 C-suite scope/extras (UNB: all banks+FIs, CTO; TBS: NBFIs-only, CITO, plus 31 Dec 2029 deadline and acting cap not in UNB). CORRECTION APPROVED by Rudro 2026-11-13 12:13 Dhaka (tapped 'Approve the fixed Edition 7'): fixed copy swapped in as the live edition; CA08 refinance rates corrected 0.5%/5% -> 1%/7%, group cap Tk50 lakh -> Tk40 lakh; CA10 scope NBFIs only, CTO -> CITO, 31 Dec 2029 deadline added; MCQ 10 explanation and MCQ 20 (correct D -> C) corrected. Verified against TBS, Daily Inqilab and tob.news full texts. Top-level sources list completed 2026-11-13 (14 -> 17) with the three correction sources (tob.news, Daily Inqilab, TBS C-suite); story sources already carried them. SECOND CORRECTION APPROVED by Rudro 2026-11-13 22:56 Dhaka (tapped 'Approve the CA10 fix'): CA10 exam_facts degree wording corrected to TBS — CFO postgraduate in finance/accounting or MBA, CA/CMA/CFA holders need at least 5 years, company secretary postgraduate degree + Chartered Secretary; English now matches the Bengali overlay. No MCQ changes.",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Rewrote 26 English and 26 Bangla short-answer questions across all 13 stories.",
+  "Questions use only facts already present in the source edition; no new story facts or numerical claims introduced.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. Related concepts are identified as such rather than presented as exact synonyms or antonyms.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

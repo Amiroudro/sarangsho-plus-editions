@@ -49,12 +49,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is st UN Climate Change Conference?",
-     "a": "31"
+     "q": "Which session of the UN Climate Change Conference was scheduled to take place in Antalya, Türkiye?",
+     "a": "The 31st session, COP31."
     },
     {
-     "q": "What is the summit gathers world leaders in…?",
-     "a": "31"
+     "q": "What does the abbreviation COP stand for in the name of the climate conference?",
+     "a": "Conference of the Parties."
     }
    ],
    "recall_cards": [
@@ -343,7 +343,16 @@
     "At a Dhaka University event marking National Revolution and Solidarity Day on 7 November, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina,",
     "issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "Who said Sheikh Hasina would never return to Bangladesh, according to the report?",
+     "a": "Liberation War Affairs Minister Ahmed Azam Khan."
+    },
+    {
+     "q": "At which university venue did BNP leader Ruhul Kabir Rizvi speak on 8 November?",
+     "a": "The TSC auditorium of Dhaka University."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Liberation War Affairs Minister Ahmed Azam Khan said on ______ that Sheikh Hasina will never return to Bangladesh, warning that attempts to destabilise the country through sabotage will not be tolerated.",
@@ -635,12 +644,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is AUC-ROC?",
-     "a": "0.751"
+     "q": "How many drivers were included in the Gazipur paratransit study?",
+     "a": "507 drivers."
     },
     {
-     "q": "What is Brier?",
-     "a": "0.204"
+     "q": "What AUC-ROC score did regularised logistic regression achieve?",
+     "a": "0.751."
     }
    ],
    "recall_cards": [
@@ -951,8 +960,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is he said three theories explain the…?",
-     "a": "1974"
+     "q": "Which three broad explanations for the 1974 famine did adviser Rashed Al Mahmud Titumir outline?",
+     "a": "Falling food availability, lack of purchasing power or access, and the absence of a social contract."
+    },
+    {
+     "q": "How did the international rice price change between 1972 and 1974, according to the seminar account?",
+     "a": "It rose from US$147 to US$542 per tonne."
     }
    ],
    "recall_cards": [
@@ -1250,12 +1263,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is reforms?",
-     "a": "3"
+     "q": "How many reforms did the government outline to address flaws in previous GDP calculations?",
+     "a": "Three reforms."
     },
     {
-     "q": "What is The review was discussed at a…?",
-     "a": "2026"
+     "q": "What discrepancy did adviser Titumir cite in counts of engine-powered boats?",
+     "a": "An earlier count reported 13,000, while a later count found 267,000."
     }
    ],
    "recall_cards": [
@@ -1561,8 +1574,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is commodities?",
-     "a": "10"
+     "q": "Until what date did Bangladesh Bank's minimum-cash-margin instruction for the 10 Ramadan import items remain in force?",
+     "a": "15 March 2027."
+    },
+    {
+     "q": "Under which section of the Bank Company Act was the circular issued?",
+     "a": "Section 45."
     }
    ],
    "recall_cards": [
@@ -1877,8 +1894,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is BSC's net asset value per share…?",
-     "a": "Tk121.45"
+     "q": "What cash dividend did Bangladesh Shipping Corporation recommend for FY2025-26?",
+     "a": "25%, or Tk2.50 per Tk10 share."
+    },
+    {
+     "q": "What cash dividend did Padma Oil recommend?",
+     "a": "170%, or Tk17 per share."
     }
    ],
    "recall_cards": [
@@ -2179,12 +2200,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is UPs' terms expired?",
-     "a": "4,300"
+     "q": "How many union parishads were expected to take part in the first phase of elections planned for 21 January?",
+     "a": "Around 1,000 union parishads."
     },
     {
-     "q": "What is Akhtar Ahmed?",
-     "a": "spoke at the Election Commission Bhaban in Agargaon"
+     "q": "How many phases did the Election Commission plan for the programme?",
+     "a": "Five phases."
     }
    ],
    "recall_cards": [
@@ -2499,12 +2520,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is pass mark %?",
-     "a": "40"
+     "q": "How many marks was the proposed preliminary test for the Ninth Teacher Recruitment Examination worth?",
+     "a": "100 marks."
     },
     {
-     "q": "What is negative marking?",
-     "a": "0.25"
+     "q": "What was the proposed deduction for each wrong answer in the preliminary test?",
+     "a": "0.25 mark."
     }
    ],
    "recall_cards": [
@@ -2808,12 +2829,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is The Q figure is the first-quarter…?",
-     "a": "1"
+     "q": "By what percentage did Bangladesh's import expenditure rise in the first quarter of FY2026-27?",
+     "a": "11.50%."
     },
     {
-     "q": "What is the per cent rise is measured…?",
-     "a": "11.50"
+     "q": "Which fiscal quarter did the report cover?",
+     "a": "The first quarter, July–September 2026."
     }
    ],
    "recall_cards": [
@@ -3105,7 +3126,16 @@
    "what_happened": [
     "The address to the new officers, reported on 8 November, sets honesty, efficiency and human values as the standard for the civil service."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "Which three values did the prime minister ask newly recruited BCS officers to demonstrate?",
+     "a": "Honesty, efficiency and humanity."
+    },
+    {
+     "q": "What should citizens not face when seeking government services, according to the address?",
+     "a": "Harassment."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "The address to the new officers, reported on ______, sets honesty, efficiency and human values as the standard for the civil service.",
@@ -3394,12 +3424,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is applied?",
-     "a": "4,029"
+     "q": "How many candidates were provisionally shortlisted by lottery for the Malaysian company's zero-cost recruitment?",
+     "a": "300 candidates."
     },
     {
-     "q": "What is to go?",
-     "a": "112"
+     "q": "How many shortlisted candidates were expected to travel to Malaysia with the employer paying medical fees and airfare?",
+     "a": "112 candidates."
     }
    ],
    "recall_cards": [
@@ -3712,12 +3742,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is factories shut in Konabari, Gazipur?",
-     "a": "6"
+     "q": "How many garment factories were shut in Konabari, Gazipur, amid wage protests?",
+     "a": "Six factories."
     },
     {
-     "q": "What is Gazipur Industrial?",
-     "a": "Police Superintendent Amjad Hossain confirmed the shutdowns"
+     "q": "Who confirmed the shutdowns?",
+     "a": "Gazipur Industrial Police Superintendent Amjad Hossain."
     }
    ],
    "recall_cards": [
@@ -5168,5 +5198,14 @@
  "approved_by": "Rudro",
  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 3 (9 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-09/.",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Rewrote 26 English and added 26 Bangla short-answer questions across all 13 stories.",
+  "Questions use facts already present in the edition; political statements remain attributed and editorial claims are identified as such.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. Technical terms are described in context and no-direct-antonym cases are marked explicitly.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

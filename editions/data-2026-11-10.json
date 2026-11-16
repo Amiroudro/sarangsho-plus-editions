@@ -58,7 +58,16 @@
     "He argues Nvidia designs the chips, TSMC in Taiwan manufactures them, and SK Hynix and Samsung supply high-bandwidth memory,",
     "making Taiwan a chokepoint: if its fabs paused, he argues, the global AI revolution would halt."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "Which company does the columnist identify as the leading manufacturer of advanced AI chips?",
+     "a": "TSMC, in Taiwan."
+    },
+    {
+     "q": "Which three companies are named as suppliers of high-bandwidth memory?",
+     "a": "SK Hynix, Samsung and Micron Technology."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "On ______, columnist Sajed ul Islam argued the AI boom is one of history's most capital-intensive industrial build-outs, with tech giants pledging hundreds of billions of dollars while the real story lies in physical supply chains.",
@@ -377,8 +386,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is UN?",
-     "a": "as many as 1,400 killed in 2024"
+     "q": "What documents did Sheikh Hasina request on 9 November to support her proposed return?",
+     "a": "A new Bangladeshi passport and a national identity card."
+    },
+    {
+     "q": "How many people did the UN say may have been killed in the 2024 crackdown, according to the edition?",
+     "a": "As many as 1,400 people."
     }
    ],
    "recall_cards": [
@@ -712,12 +725,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is th meeting of the IGC?",
-     "a": "5"
+     "q": "Which meeting of the Russia-Bangladesh Intergovernmental Commission was held?",
+     "a": "The fifth meeting."
     },
     {
-     "q": "What is The commission is the Intergovernmental Commission…?",
-     "a": "5"
+     "q": "What role will the signed protocol play?",
+     "a": "It will serve as a guideline for practical cooperation and implementation of joint projects."
     }
    ],
    "recall_cards": [
@@ -1013,8 +1026,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is The previous medical treatment limit was?",
-     "a": "$15,000"
+     "q": "To what amount did Bangladesh Bank raise the overseas medical-treatment remittance limit without prior approval?",
+     "a": "$30,000, up from $15,000."
+    },
+    {
+     "q": "Which types of education remittances were newly allowed without prior approval, subject to the stated conditions?",
+     "a": "Secondary and higher-secondary-equivalent education abroad where free education is unavailable."
     }
    ],
    "recall_cards": [
@@ -1321,7 +1338,16 @@
     "Hasina faces a death sentence handed down in absentia by a special tribunal over the deadly 2024 crackdown,",
     "and has lived in India since fleeing in August 2024 after a student-led uprising toppled her government."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "What did Chief Prosecutor Md Aminul Islam call Sheikh Hasina's recent activities?",
+     "a": "Political posturing."
+    },
+    {
+     "q": "Since when had Hasina been living in India at the time of the report?",
+     "a": "Since August 2024, after fleeing Bangladesh."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Chief Prosecutor Md Aminul Islam said on ______ that Sheikh Hasina's recent activities were merely political posturing and that she has no intention of returning from India.",
@@ -1643,12 +1669,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Action Plan?",
-     "a": "2027-2029"
+     "q": "For which years does Bangladesh's Multisectoral Action Plan for Eye Health apply?",
+     "a": "2027–2029."
     },
     {
-     "q": "What is discussions covered strategic priorities, institutional roles…?",
-     "a": "2027-2029"
+     "q": "Which organisation leads the national platform on eye health?",
+     "a": "The Ministry of Health and Family Welfare, with the National Institute of Ophthalmology and Hospital."
     }
    ],
    "recall_cards": [
@@ -1955,8 +1981,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is The official visit runs from to…?",
-     "a": "10"
+     "q": "On which date was Prime Minister Tarique Rahman scheduled to deliver Bangladesh's statement at COP31?",
+     "a": "12 November 2026."
+    },
+    {
+     "q": "What was the scheduled duration of the prime minister's official visit to Turkiye?",
+     "a": "10 to 12 November 2026."
     }
    ],
    "recall_cards": [
@@ -2256,7 +2286,16 @@
     "while manufacturing rose 6.1 points to 50.9 and construction 2.5 points to 51.0.",
     "But demand indicators stayed weak in several sectors and business costs continued to rise."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "What was Bangladesh's overall Purchasing Managers' Index (PMI) in October 2026?",
+     "a": "51.8, up 3.2 points."
+    },
+    {
+     "q": "Which sector recorded a PMI of 61.2 and its 14th consecutive month of expansion?",
+     "a": "Agriculture."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Bangladesh's economy returned to expansion in October after two consecutive months of contraction, with the overall Purchasing Managers' Index rising ______ points to 51.8.",
@@ -2557,12 +2596,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is imports?",
-     "a": "$9.83bn"
+     "q": "How many industrial groups entered the billion-dollar import-export trade club in FY2025-26?",
+     "a": "Nine groups."
     },
     {
-     "q": "What is exports?",
-     "a": "$3.05bn"
+     "q": "What was the combined import-export trade of the nine groups?",
+     "a": "$14.55 billion."
     }
    ],
    "recall_cards": [
@@ -2821,12 +2860,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is per cent margin required by the…?",
-     "a": "100"
+     "q": "Until what date did Bangladesh Bank's minimum-cash-margin directive for the 10 Ramadan import items remain in force?",
+     "a": "15 March 2027."
     },
     {
-     "q": "What is the latest directive takes immediate effect…?",
-     "a": "24"
+     "q": "Under which section of the Bank Company Act did Bangladesh Bank issue the directive?",
+     "a": "Section 45."
     }
    ],
    "recall_cards": [
@@ -3123,7 +3162,16 @@
     "As a result, students passing this year's HSC supplementary examinations, which begin on 1 December, cannot sit the university's admission tests.",
     "The university says delaying by two to three months would create another session jam after Covid-19 disruptions."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "When did Dhaka University's 2026–27 admission applications close, according to the report?",
+     "a": "25 November 2026."
+    },
+    {
+     "q": "Why were HSC supplementary candidates unable to sit Dhaka University's scheduled admission tests?",
+     "a": "The supplementary examinations begin on 1 December, after the university's admission schedule had already been set."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Dhaka University has rejected the University Grants Commission's call to reconsider admission schedules and will keep its 2026-27 admission process on schedule, with applications closing on ______ and tests starting on 5 December.",
@@ -3444,12 +3492,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is for apprentices?",
-     "a": "Tk30,000"
+     "q": "What monthly minimum wage did the workers' side propose for Grade 4 RMG workers?",
+     "a": "Tk32,000."
     },
     {
-     "q": "What is decent living needs?",
-     "a": "Tk45,000-60,000"
+     "q": "What monthly wage did the workers' side propose for new or apprentice workers?",
+     "a": "Tk30,000."
     }
    ],
    "recall_cards": [
@@ -3764,12 +3812,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is crore outstanding?",
-     "a": "Tk2,800"
+     "q": "How much of Beximco's Green Sukuk remained outstanding and due by 23 December?",
+     "a": "Tk2,800 crore."
     },
     {
-     "q": "What is crore converted to shares?",
-     "a": "Tk200"
+     "q": "How much of the original Tk3,000 crore sukuk had been converted into shares?",
+     "a": "About Tk200 crore."
     }
    ],
    "recall_cards": [
@@ -4067,7 +4115,16 @@
     "Exporters, especially knitwear makers, rely on duty-free yarn imports under bond facilities, while mill owners say cheaper imports undercut local yarn.",
     "Since early September, imports under bond require a bank guarantee equal to the yarn's value."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "By what date did the prime minister ask the committee to propose a solution to the yarn-import dispute?",
+     "a": "20 November 2026."
+    },
+    {
+     "q": "What guarantee has been required for yarn imports under bond facilities since early September?",
+     "a": "A bank guarantee equal to the value of the yarn."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Prime Minister Tarique Rahman has directed a committee led by the commerce minister to propose a solution to the yarn-import row by ______, after garment exporters and local textile mill owners presented opposing arguments at a meeting on 9 November.",
@@ -5460,5 +5517,14 @@
  "approved_by": "Rudro",
  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 4 (10 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-10/.",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Added 28 English and 28 Bangla short-answer questions across all 14 stories.",
+  "Questions use facts already present in the edition; allegations and unconfirmed claims remain attributed.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. Technical terms and legal contrasts are labelled carefully; not every related term is treated as a synonym or antonym.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

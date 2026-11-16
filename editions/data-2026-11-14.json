@@ -59,12 +59,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is factories with production suspended?",
-     "a": "529"
+     "q": "How many garment factories had production suspended during the unrest described in the analysis?",
+     "a": "529 factories."
     },
     {
-     "q": "What is nearly workers affected?",
-     "a": "987,000"
+     "q": "What growth rate did the World Bank project for Bangladesh in both FY2025-26 and FY2026-27?",
+     "a": "3.4% in each fiscal year."
     }
    ],
    "recall_cards": [
@@ -392,7 +392,16 @@
     "adding: 'To the other part of your question, I have no comment to offer.",
     "'"
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "What did India's foreign ministry spokesperson say when asked about the possible military-aircraft return of Sheikh Hasina?",
+     "a": "He declined to comment on that part of the question."
+    },
+    {
+     "q": "Which official spoke at the New Delhi media briefing on 13 November?",
+     "a": "Foreign ministry spokesperson Randhir Jaiswal."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "At a media briefing in New Delhi on ______, foreign ministry spokesperson Randhir Jaiswal said his repeated references to the matter as a legal issue concern only the extradition process, adding: 'To the other part of your question, I have no comment to offer.",
@@ -692,12 +701,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is into climate projects in emerging markets…?",
-     "a": "$10 billion"
+     "q": "How much climate finance did the UK, Norway and Canada initiative aim to channel into emerging markets by 2030?",
+     "a": "$10 billion."
     },
     {
-     "q": "What is The target includes private capital the…?",
-     "a": "$10 billion"
+     "q": "Which three development finance institutions launched the initiative?",
+     "a": "British International Investment, Norway's Norfund and FinDev Canada."
     }
    ],
    "recall_cards": [
@@ -1031,12 +1040,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is committee visited the house at around…?",
-     "a": "30"
+     "q": "How many members were on the Home Affairs Ministry's probe committee that visited Nusrat Tabassum's house?",
+     "a": "Four members."
     },
     {
-     "q": "What is a four-member probe committee formed by…?",
-     "a": "30"
+     "q": "What explanation did the home minister say was highly likely for the fire?",
+     "a": "An electrical short circuit caused by old wiring. This was his view; NCP leaders alleged a petrol-bomb attack."
     }
    ],
    "recall_cards": [
@@ -1346,7 +1355,16 @@
    "what_happened": [
     "Of the 1,240,798 candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "How many candidates passed the HSC and equivalent examinations under 11 education boards?",
+     "a": "646,685 candidates."
+    },
+    {
+     "q": "What was the overall pass rate among the 1,240,798 candidates?",
+     "a": "52.12%."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "Of the ______ candidates who sat the HSC under 11 boards, 646,685 passed — a 52.12% pass rate — and 40,084 secured GPA-5.",
@@ -1665,12 +1683,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Over people?",
-     "a": "170 million"
+     "q": "What share of global emissions does Bangladesh contribute, according to the columnist?",
+     "a": "Less than 0.5%."
     },
     {
-     "q": "What is less than % of global emissions?",
-     "a": "0.5"
+     "q": "How much annual climate finance had developed countries promised to mobilise by 2035?",
+     "a": "$300 billion a year."
     }
    ],
    "recall_cards": [
@@ -1993,8 +2011,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is CIF up to?",
-     "a": "$30 million"
+     "q": "Under NDC 3.0, what emissions reduction below business-as-usual did Bangladesh target using domestic resources by 2035?",
+     "a": "6.39%."
+    },
+    {
+     "q": "How much Climate Investment Funds support was Bangladesh selected to receive for coastal protection and mangrove restoration?",
+     "a": "Up to $30 million."
     }
    ],
    "recall_cards": [
@@ -2316,12 +2338,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is + medical works, items and supplies…?",
-     "a": "47,000"
+     "q": "What share of the 29,257 items distributed across the 158 assessed upazilas was operational?",
+     "a": "91.88%."
     },
     {
-     "q": "What is over crore invested?",
-     "a": "Tk113"
+     "q": "How many items were non-functional or underutilised in the assessment?",
+     "a": "2,375 items, or 8.11%."
     }
    ],
    "recall_cards": [
@@ -2645,8 +2667,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Gas supply around cubic feet per…?",
-     "a": "2.6 billion"
+     "q": "Around how much natural gas did Bangladesh's supply generally reach per day, according to the column?",
+     "a": "About 2.6 billion cubic feet per day."
+    },
+    {
+     "q": "What was the revised price of a 12-kg LPG cylinder on 2 November?",
+     "a": "Tk2,060, after a Tk223 increase from Tk1,837."
     }
    ],
    "recall_cards": [
@@ -2966,8 +2992,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Around % unaware?",
-     "a": "70"
+     "q": "What share of people with diabetes in Bangladesh were unaware of their condition, according to BDHS 2022 figures cited in the report?",
+     "a": "About 70%."
+    },
+    {
+     "q": "How many adults aged 20–79 were estimated to be living with diabetes in Bangladesh in 2024?",
+     "a": "About 1.39 crore."
     }
    ],
    "recall_cards": [
@@ -3296,12 +3326,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is fox video views?",
-     "a": "781,000"
+     "q": "What maximum prison term does the draft Animal Welfare Act amendment propose for making content by harassing animals?",
+     "a": "Up to six months."
     },
     {
-     "q": "What is dog video nearly views?",
-     "a": "500,000"
+     "q": "What maximum fine does the draft propose for the offence?",
+     "a": "Tk50,000."
     }
    ],
    "recall_cards": [
@@ -3620,8 +3650,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Island about sq km?",
-     "a": "8"
+     "q": "How large is the marine protected area around Saint Martin's Island?",
+     "a": "1,743 square kilometres."
+    },
+    {
+     "q": "What is the daily cap on overnight tourists allowed on Saint Martin's Island during the permitted season?",
+     "a": "3,500 tourists a day."
     }
    ],
    "recall_cards": [
@@ -5055,5 +5089,14 @@
  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
  "approval_notes": "Auto-published under Rudro's rule of 2026-11-13 00:18: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this edition; the operator verified lead figures against the fetched source texts for all 12 stories and attribution throughout the 3 opinion stories. One importer flag is a documented false alarm: the ranker's editorial-slot story is the taka op-ed, a verbatim repeat of Edition 7 CA01 (same URL), correctly excluded; the slot is filled by the Kalabogi op-ed (CA06). Edition is short 3 stories (12/15) — thin COP31 day, not padded.",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "All 12 story Q&A sets rewritten from existing edition facts.",
+  "Added 24 English and 24 Bangla short-answer questions.",
+  "No new story facts or numerical claims introduced; source URLs and story IDs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. A small number of legal and technical near-equivalents are explicitly labelled as contrasts rather than strict antonyms.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

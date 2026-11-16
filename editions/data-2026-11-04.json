@@ -85,12 +85,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is worker dead?",
-     "a": "1"
+     "q": "What was the name of the garment worker who died after being injured during the wage protests?",
+     "a": "Toufiq Hossain."
     },
     {
-     "q": "What is + factories shut in Savar-Ashulia?",
-     "a": "100"
+     "q": "How many factories in Savar and Ashulia declared holidays on 4 November?",
+     "a": "More than 100 factories."
     }
    ],
    "recall_cards": [
@@ -427,12 +427,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is demand?",
-     "a": "Tk 30,000"
+     "q": "When was the revised garment-worker pay scale scheduled to take effect?",
+     "a": "December 2026."
     },
     {
-     "q": "What is feared rise?",
-     "a": "Tk 1,000-2,000"
+     "q": "What minimum monthly wage were workers demanding?",
+     "a": "Tk30,000, compared with the then-current Tk12,500."
     }
    ],
    "recall_cards": [
@@ -749,12 +749,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Trump carried South Carolina by nearly…?",
-     "a": "18"
+     "q": "Which two chambers of the US Congress did Democrats win majorities in, according to the report?",
+     "a": "The Senate and the House of Representatives."
     },
     {
-     "q": "What is Vice President JD Vance's former seat?",
-     "a": "Sherrod Brown won Ohio"
+     "q": "Which Democrat became the first to win a Kansas Senate seat since the Great Depression?",
+     "a": "Adam Hamilton."
     }
    ],
    "recall_cards": [
@@ -1064,8 +1064,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Rick Jackson spent over?",
-     "a": "$100 million"
+     "q": "What did JD Vance identify as the reason Republicans lost the midterm elections?",
+     "a": "The Iran war, according to his statement."
+    },
+    {
+     "q": "Who became the first Muslim elected to the US Senate, according to the report?",
+     "a": "Abdul El-Sayed of Michigan."
     }
    ],
    "recall_cards": [
@@ -1369,12 +1373,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is total deaths?",
-     "a": "445"
+     "q": "How many dengue deaths had been recorded in the year by 4 November?",
+     "a": "445 deaths."
     },
     {
-     "q": "What is total cases?",
-     "a": "142,775"
+     "q": "How many dengue patients were hospitalised in the 24 hours to 8am on 4 November?",
+     "a": "1,866 patients."
     }
    ],
    "recall_cards": [
@@ -1676,12 +1680,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is proposed fund?",
-     "a": "$1-2 billion"
+     "q": "What size sovereign fund was Bangladesh considering establishing?",
+     "a": "Between $1 billion and $2 billion."
     },
     {
-     "q": "What is EDCF framework?",
-     "a": "$3 billion"
+     "q": "Which Korean institution did the finance minister discuss the proposal with in Seoul?",
+     "a": "Korea Investment Corporation (KIC)."
     }
    ],
    "recall_cards": [
@@ -1987,8 +1991,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is reason?",
-     "a": "security concerns including alleged server access from India"
+     "q": "On what date was DGePay disconnected from the National Payment Switch Bangladesh?",
+     "a": "29 October 2026."
+    },
+    {
+     "q": "What reason did Bangladesh Bank give for disconnecting DGePay?",
+     "a": "Security concerns, including alleged server access from India."
     }
    ],
    "recall_cards": [
@@ -2285,12 +2293,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is crore facility?",
-     "a": "Tk 3,000"
+     "q": "How much working-capital financing was cleared for the five City Group companies?",
+     "a": "Tk3,000 crore."
     },
     {
-     "q": "What is bank syndicate?",
-     "a": "8"
+     "q": "How many banks were in the lending syndicate led by City Bank?",
+     "a": "Eight banks."
     }
    ],
    "recall_cards": [
@@ -2574,8 +2582,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is conditions?",
-     "a": "end of US naval blockade"
+     "q": "Which country did Iran's ambassador say Bangladesh needed to coordinate with for safe passage through the Strait of Hormuz?",
+     "a": "Iran."
+    },
+    {
+     "q": "Which three countries did the ambassador say had plans to reopen the waterway?",
+     "a": "Iran, Qatar and Oman."
     }
    ],
    "recall_cards": [],
@@ -2849,8 +2861,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is posts?",
-     "a": "5,000"
+     "q": "When was the 51st Special BCS preliminary examination scheduled?",
+     "a": "11 December 2026, from 10am to noon."
+    },
+    {
+     "q": "How many physician posts were to be filled through the special BCS?",
+     "a": "5,000 posts: 4,700 assistant surgeons and 300 assistant dental surgeons."
     }
    ],
    "recall_cards": [
@@ -3140,12 +3156,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is th in Asia?",
-     "a": "136"
+     "q": "What position did Dhaka University achieve in Asia in the QS Asia 2027 rankings?",
+     "a": "136th in Asia."
     },
     {
-     "q": "What is th in South Asia?",
-     "a": "16"
+     "q": "How many universities from how many countries and territories were included in the rankings?",
+     "a": "1,722 universities from 26 countries and territories."
     }
    ],
    "recall_cards": [
@@ -3446,8 +3462,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is + Rohingya in Bangladesh?",
-     "a": "1 million"
+     "q": "On what date was the International Court of Justice scheduled to deliver its ruling in The Gambia v Myanmar?",
+     "a": "19 November 2026."
+    },
+    {
+     "q": "Under which international convention was The Gambia's case brought?",
+     "a": "The 1948 UN Genocide Convention."
     }
    ],
    "recall_cards": [
@@ -3744,8 +3764,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Around Rohingya in Bangladesh?",
-     "a": "1.3 million"
+     "q": "How many Rohingya people were said to be living in Bangladesh?",
+     "a": "Around 1.3 million."
+    },
+    {
+     "q": "Which regional trade agreement did Bangladesh seek China's support to join?",
+     "a": "The Regional Comprehensive Economic Partnership (RCEP)."
     }
    ],
    "recall_cards": [
@@ -4040,12 +4064,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is suspected cases?",
-     "a": "234,148"
+     "q": "How many deaths with measles-like symptoms were reported in the 24 hours to 8am on 4 November?",
+     "a": "Six deaths."
     },
     {
-     "q": "What is confirmed?",
-     "a": "24,150"
+     "q": "How long did the inquiry commission have to submit its report?",
+     "a": "60 working days."
     }
    ],
    "recall_cards": [
@@ -4339,12 +4363,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is constables?",
-     "a": "1,173"
+     "q": "How many police constables were found by the investigation to have used fake permanent addresses to obtain quota jobs?",
+     "a": "1,173 constables."
     },
     {
-     "q": "What is in Dhaka?",
-     "a": "980"
+     "q": "How many of those constables were recruited in Dhaka, according to the investigation?",
+     "a": "980 constables."
     }
    ],
    "recall_cards": [
@@ -5848,5 +5872,14 @@
  "backfill_note": "Backfilled edition: built from real articles published 4 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). CA06 (sovereign fund) and CA07 (DGePay) have no Current Affairs MCQ. Note: the Nov 3 edition named Sheikh Ashfaqur Rahman as wage-board chairman (Prothom Alo, 3 Nov); the 4 Nov Daily Star report names Syed Azad Subhani as chairman — sources differ on the chairman's name.",
  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+  "Questions use facts already present in the edition; claims and official positions remain attributed.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase examples are original learner sentences, not quotations from linked articles. Contextual contrasts are not labelled as strict antonyms.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }

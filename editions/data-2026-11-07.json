@@ -61,8 +61,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Ziaur Rahman?",
-     "a": "was then army chief and was released from house arrest"
+     "q": "What anniversary of the events of 7 November 1975 did Bangladesh mark in 2026?",
+     "a": "The 51st anniversary."
+    },
+    {
+     "q": "Who was released from house arrest at Dhaka Cantonment during the events described?",
+     "a": "Then army chief Major General Ziaur Rahman."
     }
    ],
    "recall_cards": [
@@ -362,7 +366,16 @@
     "The government's ultimate target is 14 days.",
     "The plan includes processing 11 of 12 statutory documents within one day each, fewer prerequisites, parallel processing and a single digital platform."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "From how many days to how many days did the business-approval roadmap aim to reduce the interim clearance period?",
+     "a": "From as many as 355 days to 18 days."
+    },
+    {
+     "q": "What was the government's ultimate target for business approval time?",
+     "a": "14 days."
+    }
+   ],
    "recall_cards": [
     {
      "cloze": "A committee reviewing industrial setup procedures discussed an Invest Bangladesh roadmap to reduce the time for business licences, clearances and approvals from as much as ______ days to an interim 18 days.",
@@ -685,12 +698,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Total external debt?",
-     "a": "US$113.4378bn in 2025"
+     "q": "What was Bangladesh's total external debt stock in 2025, according to the World Bank table?",
+     "a": "US$113.4378 billion."
     },
     {
-     "q": "What is long-term PPG debt?",
-     "a": "US$83.4567bn"
+     "q": "What was long-term public and publicly guaranteed external debt in 2025?",
+     "a": "US$83.4567 billion."
     }
    ],
    "recall_cards": [
@@ -996,12 +1009,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Current special fund?",
-     "a": "Tk200 crore per bank"
+     "q": "What size of capital-market fund did BSEC ask Bangladesh Bank to allow per scheduled bank?",
+     "a": "Tk300 crore, up from Tk200 crore."
     },
     {
-     "q": "What is BSEC request?",
-     "a": "Tk300 crore"
+     "q": "For how long did BSEC request an extension of the special fund facility?",
+     "a": "Five years, from 1 January 2027 to 31 December 2031."
     }
    ],
    "recall_cards": [
@@ -1309,12 +1322,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Proposed authorised capital?",
-     "a": "Tk10,000 crore, up from Tk2,000 crore"
+     "q": "What authorised-capital increase did Islami Bank's board propose?",
+     "a": "From Tk2,000 crore to Tk10,000 crore."
     },
     {
-     "q": "What is loss per share?",
-     "a": "Tk12.24"
+     "q": "What approvals are required before the proposed increase takes effect?",
+     "a": "Approval from Bangladesh Bank, other regulators and shareholders at an Extraordinary General Meeting, along with the required constitutional amendments."
     }
    ],
    "recall_cards": [
@@ -1618,12 +1631,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Scheme size?",
-     "a": "Tk2,000 crore"
+     "q": "What is the total size of Bangladesh Bank's pre-finance scheme for the leather sector?",
+     "a": "Tk2,000 crore."
     },
     {
-     "q": "What is maximum end-borrower interest rate?",
-     "a": "7%"
+     "q": "What is the maximum annual interest rate for end-borrowers under the scheme?",
+     "a": "7%."
     }
    ],
    "recall_cards": [
@@ -1931,8 +1944,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is BRAC Bank?",
-     "a": "was remitting bank and Lloyds was collecting bank"
+     "q": "Which technology enabled BRAC Bank's first fully digital export documentary collection?",
+     "a": "Blockchain technology and an electronic bill of lading (eBL)."
+    },
+    {
+     "q": "How long did document processing take after the digital process, compared with the cited conventional 40 days?",
+     "a": "One day."
     }
    ],
    "recall_cards": [
@@ -2244,12 +2261,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Bangladesh imports from Russia?",
-     "a": "US$1.36bn in FY2025"
+     "q": "Which two Russian facilities were discussed as possible sources of LNG and LPG supplies to Bangladesh?",
+     "a": "Sakhalin-2 and Portovaya."
     },
     {
-     "q": "What is Sakhalin- and Portovaya were discussed?",
-     "a": "2"
+     "q": "How much did Bangladesh pay for imports from Russia in FY2025?",
+     "a": "US$1.36 billion."
     }
    ],
    "recall_cards": [
@@ -2551,12 +2568,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Project cost?",
-     "a": "Tk4,068 crore"
+     "q": "What was the cost of the Mongla Port Expansion and Modernisation Project?",
+     "a": "Tk4,068 crore."
     },
     {
-     "q": "What is planned direct rail link?",
-     "a": "Kamalapur ICD to Mongla Port"
+     "q": "Which two locations would be connected by the planned direct container-train service?",
+     "a": "Kamalapur Inland Container Depot in Dhaka and Mongla Port."
     }
    ],
    "recall_cards": [
@@ -2860,12 +2877,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Summit date?",
-     "a": "5 November 2026"
+     "q": "Which two organisations jointly organised the Bangladesh AI Business Summit?",
+     "a": "The Ministry of Science and Technology and the Dhaka Chamber of Commerce and Industry (DCCI)."
     },
     {
-     "q": "What is stated ambition?",
-     "a": "a trillion-dollar economy by 2034"
+     "q": "What year was named for the vision of a trillion-dollar economy?",
+     "a": "2034."
     }
    ],
    "recall_cards": [
@@ -3166,12 +3183,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Expected resumption?",
-     "a": "December 2026"
+     "q": "When did the minister expect Bangladesh to resume sending workers to Malaysia?",
+     "a": "December 2026; this was an expectation, not a confirmed date."
     },
     {
-     "q": "What is first flights proposed free?",
-     "a": "2–3"
+     "q": "How many of the first flights were proposed to carry workers free of charge?",
+     "a": "The first two or three flights."
     }
    ],
    "recall_cards": [
@@ -3487,12 +3504,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Ashulia factories reported closed?",
-     "a": "70"
+     "q": "How many factories in Ashulia were reported to have suspended operations amid the garment unrest?",
+     "a": "70 factories."
     },
     {
-     "q": "What is BGB platoons deployed?",
-     "a": "33"
+     "q": "How many BGB platoons were deployed, according to the report?",
+     "a": "33 platoons."
     }
    ],
    "recall_cards": [
@@ -3803,12 +3820,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is Solar capacity?",
-     "a": "17.84 MW"
+     "q": "What was the installed capacity of the Janata Jute Mills solar project?",
+     "a": "17.84 megawatts."
     },
     {
-     "q": "What is location?",
-     "a": "Boalmari, Faridpur"
+     "q": "Which organisation financed the solar project?",
+     "a": "Infrastructure Development Company Limited (IDCOL)."
     }
    ],
    "recall_cards": [
@@ -4128,12 +4145,12 @@
    ],
    "exam_qa": [
     {
-     "q": "What is leaders' summit?",
-     "a": "11–12 November"
+     "q": "On what dates was COP31 scheduled to take place in Antalya?",
+     "a": "9 to 20 November 2026."
     },
     {
-     "q": "What is adaptation finance?",
-     "a": "US$28.2–31.7bn in 2024"
+     "q": "What annual adaptation-finance need for developing countries by 2035 did UNEP estimate?",
+     "a": "US$305 billion a year."
     }
    ],
    "recall_cards": [
@@ -4444,7 +4461,16 @@
     "Reported provisions include stronger cooperation to track fugitives, prevent suspects from fleeing abroad, recover illicit assets,",
     "protect state and commercial secrets and personal data, and require Chinese companies engaged in cross-border business to establish anti-corruption compliance functions proportionate to their risks."
    ],
-   "exam_qa": [],
+   "exam_qa": [
+    {
+     "q": "Which country adopted the new law targeting cross-border corruption?",
+     "a": "China."
+    },
+    {
+     "q": "Which corporate measure was included in the reported framework for companies engaged in cross-border business?",
+     "a": "Establishing anti-corruption compliance functions proportionate to their risks."
+    }
+   ],
    "recall_cards": [],
    "keywords": [
     "world",
@@ -6086,5 +6112,14 @@
   }
  ],
  "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17"
+ "renovation_date": "2026-11-17",
+ "renovation_notes": [
+  "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
+  "Questions use facts already present in the edition; forecasts, expectations and press-release claims remain qualified or attributed.",
+  "Original story IDs and source URLs preserved.",
+  "Human editorial and factual review remains required before publication."
+ ],
+ "renovation_status": "editorially_rewritten_pending_human_review",
+ "vocabulary_editorial_note": "Vocabulary and phrase example sentences in this edition are original learner examples, not quotations from linked articles. Context-specific financial terms are explained without treating descriptive equivalents as exact synonyms.",
+ "vocabulary_review_status": "editorially_revised_pending_human_review"
 }
