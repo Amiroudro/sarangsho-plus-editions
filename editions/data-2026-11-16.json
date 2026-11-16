@@ -207,7 +207,16 @@
         "The series argues the paradox -- development despite weak institutions -- has become a puzzle, as stronger development has not produced stronger institutions,",
         "and the surplus has turned into a deficit."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "a": "Wahiduddin Mahmud",
+          "q": "Who called Bangladesh's 1990s and 2000s social-development record a 'development surplus'?"
+        },
+        {
+          "a": "A deficit",
+          "q": "According to the series, what has the development surplus turned into?"
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "In the ______s and 2000s the country achieved social-development outcomes well beyond what its income per capita suggested, a record Professor Wahiduddin Mahmud called a development surplus.",
@@ -351,6 +360,10 @@
         {
           "q": "What is th Bangladeshi recipient?",
           "a": "14"
+        },
+        {
+          "a": "359",
+          "q": "How many individuals and organisations across 24 countries has the Ramon Magsaysay Award honoured?"
         }
       ],
       "recall_cards": [
@@ -731,7 +744,16 @@
         "He suggests renewing it for three to five years as an interim arrangement while preparing a new treaty,",
         "arguing that having no treaty at all is worse than having a weak one."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "a": "12 December 2026",
+          "q": "When does the 30-year Ganges Water Sharing Treaty expire?"
+        },
+        {
+          "a": "3–5 years",
+          "q": "For how many years does Manjur Ahmed Chowdhury suggest renewing the treaty as an interim arrangement?"
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "In this interview, former National River Conservation Commission chairman Manjur Ahmed Chowdhury says the 30-year Ganges Water Sharing Treaty expires on ______ and a completely new treaty within the remaining four weeks is very unlikely, though a last-minute renewal is still possible.",
@@ -785,7 +807,16 @@
         "Students can now submit forms from 16 to 18 November and pay fees through Sonali Seba until 19 November,",
         "under a notice issued on 15 November and signed by Controller of Examinations Professor Jesmin Taslima Banu."
       ],
-      "exam_qa": [],
+      "exam_qa": [
+        {
+          "a": "3 days",
+          "q": "By how many days was the HSC supplementary exam form-fill-up deadline extended?"
+        },
+        {
+          "a": "19 November",
+          "q": "Until when can students pay their fees through Sonali Seba?"
+        }
+      ],
       "recall_cards": [
         {
           "cloze": "The Dhaka Secondary and Higher Secondary Education Board has extended the deadline for filling out forms for the ______ Higher Secondary Certificate (HSC) supplementary examinations by three days.",
@@ -859,6 +890,10 @@
         {
           "q": "What is about people lifted out of poverty?",
           "a": "496 million"
+        },
+        {
+          "a": "2.6%",
+          "q": "According to the World Bank's October 2026 brief, what was India's extreme poverty rate in 2023?"
         }
       ],
       "recall_cards": [
@@ -2017,5 +2052,11 @@
     }
   ],
   "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
-  "approval_notes": "Auto-approved under Rudro's rule: review 17/17 + longest-correct 5/25 (<=10). Pack: agent (3 subagents: stories A/B/C). 12 stories (8 of the ranker's top 15 dropped: CA06 Sukuk headline-only, CA07 auto-hub lede-only, CA08 duplicate of 15 Nov CA02, CA11/CA12/CA14/CA15 title-only with no body; 5 borderline stories with full bodies promoted: generals reshuffle, shipbreaking treaty, Ganges talks, HSC supplementary, India poverty strategies). Honest limit: checks 13 (lead-figure proxy) and 17 (opinion attribution) include manual spot-checks that got no human eye on this auto-published edition; CAT spot-checked CA01/CA02/CA09/CA10 figures against source texts. Correct edition 8/7."
+  "approval_notes": "Auto-approved under Rudro's rule: review 17/17 + longest-correct 5/25 (<=10). Pack: agent (3 subagents: stories A/B/C). 12 stories (8 of the ranker's top 15 dropped: CA06 Sukuk headline-only, CA07 auto-hub lede-only, CA08 duplicate of 15 Nov CA02, CA11/CA12/CA14/CA15 title-only with no body; 5 borderline stories with full bodies promoted: generals reshuffle, shipbreaking treaty, Ganges talks, HSC supplementary, India poverty strategies). Honest limit: checks 13 (lead-figure proxy) and 17 (opinion attribution) include manual spot-checks that got no human eye on this auto-published edition; CAT spot-checked CA01/CA02/CA09/CA10 figures against source texts. Correct edition 8/7.",
+  "renovation_status": "exam_qa_top_up_pending_human_review",
+  "renovation_notes": [
+    "Short Q&A topped up to 2 per story from facts already present in the existing edition (stories CA03, CA05, CA11, CA13, CA14, CA15).",
+    "No new story facts or numerical claims were introduced.",
+    "Human editorial and factual review is still required before publication."
+  ]
 }
