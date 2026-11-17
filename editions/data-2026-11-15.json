@@ -163,127 +163,174 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ডব্লিউটিও (বিশ্ব বাণিজ্য সংস্থা): সদর দপ্তর জেনেভা; বাংলাদেশ সদস্য ১৯৯৫ সাল থেকে।",
-      "ওইসিডি (অর্গানাইজেশন ফর ইকোনমিক কো-অপারেশন অ্যান্ড ডেভেলপমেন্ট): ধনী দেশগুলোর অর্থনৈতিক সংস্থা; ওডিএর হিসাব রাখে এর ডেভেলপমেন্ট অ্যাসিসট্যান্স কমিটি (ডিএসি)।",
-      "এলডিসি উত্তরণ: উত্তরণের পর শুল্কমুক্ত বাজার সুবিধা ও ছাড়যুক্ত অর্থায়ন কমে যায় — তাই উত্তরণের প্রস্তুতি পরীক্ষার গুরুত্বপূর্ণ বিষয়।",
-      "পরিকল্পনা কমিশন: এডিপি প্রণয়ন করে; এনইসি অনুমোদন দেয়; একনেক (এক্সিকিউটিভ কমিটি অব দ্য ন্যাশনাল ইকোনমিক কাউন্সিল) বড় প্রকল্প অনুমোদন করে।"
-     ],
-     "sources": [
-      {
-       "name": "WTO — Aid-for-Trade (MC13 briefing)",
-       "url": "https://www-server1.wto.org/english/thewto_e/minist_e/mc13_e/briefing_notes_e/development_e.htm"
-      },
-      {
-       "name": "OECD — Official Development Assistance FAQ",
-       "url": "https://www.oecd.org/en/data/insights/data-explainers/2024/07/frequently-asked-questions-on-official-development-assistance-oda.html"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "২০২৪ সালে বাংলাদেশ এইড ফর ট্রেড হিসেবে কত পেয়েছে?",
-      "options": {
-       "A": "২.৬৭ বিলিয়ন ডলার",
-       "B": "৩.০৮ বিলিয়ন ডলার",
-       "C": "৭৯৫ বিলিয়ন ডলার",
-       "D": "৫.৬৮ বিলিয়ন ডলার"
-      },
-      "correct": "A",
-      "explanation": "সংবাদে বলা হয়েছে, ২০২৪ সালে বাংলাদেশ পেয়েছে ২.৬৭ বিলিয়ন ডলার; ৩.০৮ বিলিয়ন ছিল ২০২২ সালের অঙ্ক।"
+      "name": "ডব্লিউটিও",
+      "full_name": "বিশ্ব বাণিজ্য সংস্থা",
+      "role": "সদর দপ্তর জেনেভা; বাংলাদেশ সদস্য ১৯৯৫ সাল থেকে।",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
      },
      {
-      "no": 2,
-      "question": "এইড ফর ট্রেড উদ্যোগটি কোন সংস্থার?",
-      "options": {
-       "A": "বিশ্বব্যাংক",
-       "B": "আইএমএফ",
-       "C": "বিশ্ব বাণিজ্য সংস্থা (ডব্লিউটিও)",
-       "D": "এশীয় উন্নয়ন ব্যাংক"
-      },
-      "correct": "C",
-      "explanation": "এইড ফর ট্রেড ডব্লিউটিওর উদ্যোগ; শুরু ২০০৫ সালে হংকং সম্মেলনে।"
+      "name": "ওইসিডি",
+      "full_name": "অর্গানাইজেশন ফর ইকোনমিক কো-অপারেশন অ্যান্ড ডেভেলপমেন্ট",
+      "role": "ধনী দেশগুলোর অর্থনৈতিক সংস্থা। ওডিএর হিসাব রাখে এর ডেভেলপমেন্ট অ্যাসিসট্যান্স কমিটি (ডিএসি)।",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
      },
      {
-      "no": 3,
-      "question": "ওডিএ বলতে কী বোঝায়?",
-      "options": {
-       "A": "শুধু বাণিজ্যিক ঋণ",
-       "B": "সরকারি উন্নয়ন সাহায্য — অনুদান ও ছাড়যুক্ত ঋণ",
-       "C": "বেসরকারি বিনিয়োগ",
-       "D": "রেমিট্যান্স"
-      },
-      "correct": "B",
-      "explanation": "ওইসিডির সংজ্ঞায় ওডিএ হলো উন্নয়নশীল দেশের উন্নয়ন ও কল্যাণের লক্ষ্যে দেওয়া সরকারি সাহায্য।"
+      "name": "পরিকল্পনা কমিশন",
+      "role": "এডিপি প্রণয়ন করে",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
      },
      {
-      "no": 4,
-      "question": "বাংলাদেশের ২০২৪ সালের বাণিজ্য সহায়তার মধ্যে অনুদান কত ছিল?",
-      "options": {
-       "A": "২,৫৪২ মিলিয়ন ডলার",
-       "B": "৩.০৮ বিলিয়ন ডলার",
-       "C": "১.৯০ বিলিয়ন ডলার",
-       "D": "১৩৪ মিলিয়ন ডলার"
-      },
-      "correct": "D",
-      "explanation": "সংবাদ অনুযায়ী অনুদান ১৩৪ মিলিয়ন ডলার, ঋণ ২,৫৪২ মিলিয়ন ডলার।"
+      "name": "এনইসি",
+      "role": "অনুমোদন দেয়",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
+     },
+     {
+      "name": "একনেক",
+      "full_name": "এক্সিকিউটিভ কমিটি অব দ্য ন্যাশনাল ইকোনমিক কাউন্সিল",
+      "role": "বড় প্রকল্প অনুমোদন করে।",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "এলডিসি উত্তরণ",
+      "meaning": "উত্তরণের পর শুল্কমুক্ত বাজার সুবিধা ও ছাড়যুক্ত অর্থায়ন কমে যায় — তাই উত্তরণের প্রস্তুতি পরীক্ষার গুরুত্বপূর্ণ বিষয়।",
+      "source": "WTO — Aid-for-Trade (MC13 briefing); OECD — Official Development Assistance FAQ"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "২০২৪ সালে বাংলাদেশ এইড ফর ট্রেড হিসেবে কত পেয়েছে?",
+      "options": [
+       "২.৬৭ বিলিয়ন ডলার",
+       "৩.০৮ বিলিয়ন ডলার",
+       "৭৯৫ বিলিয়ন ডলার",
+       "৫.৬৮ বিলিয়ন ডলার"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদে বলা হয়েছে, ২০২৪ সালে বাংলাদেশ পেয়েছে ২.৬৭ বিলিয়ন ডলার; ৩.০৮ বিলিয়ন ছিল ২০২২ সালের অঙ্ক।",
+      "no": 1
+     },
+     {
+      "question": "এইড ফর ট্রেড উদ্যোগটি কোন সংস্থার?",
+      "options": [
+       "বিশ্বব্যাংক",
+       "আইএমএফ",
+       "বিশ্ব বাণিজ্য সংস্থা (ডব্লিউটিও)",
+       "এশীয় উন্নয়ন ব্যাংক"
+      ],
+      "correct": 2,
+      "explanation": "এইড ফর ট্রেড ডব্লিউটিওর উদ্যোগ; শুরু ২০০৫ সালে হংকং সম্মেলনে।",
+      "no": 2
+     },
+     {
+      "question": "ওডিএ বলতে কী বোঝায়?",
+      "options": [
+       "শুধু বাণিজ্যিক ঋণ",
+       "সরকারি উন্নয়ন সাহায্য — অনুদান ও ছাড়যুক্ত ঋণ",
+       "বেসরকারি বিনিয়োগ",
+       "রেমিট্যান্স"
+      ],
+      "correct": 1,
+      "explanation": "ওইসিডির সংজ্ঞায় ওডিএ হলো উন্নয়নশীল দেশের উন্নয়ন ও কল্যাণের লক্ষ্যে দেওয়া সরকারি সাহায্য।",
+      "no": 3
+     },
+     {
+      "question": "বাংলাদেশের ২০২৪ সালের বাণিজ্য সহায়তার মধ্যে অনুদান কত ছিল?",
+      "options": [
+       "২,৫৪২ মিলিয়ন ডলার",
+       "৩.০৮ বিলিয়ন ডলার",
+       "১.৯০ বিলিয়ন ডলার",
+       "১৩৪ মিলিয়ন ডলার"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ অনুযায়ী অনুদান ১৩৪ মিলিয়ন ডলার, ঋণ ২,৫৪২ মিলিয়ন ডলার।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশের জন্য এইড ফর ট্রেড কেন গুরুত্বপূর্ণ? (সংক্ষিপ্ত প্রশ্ন)",
-      "model_outline": [
+      "outline": [
        "২০২৪ সালের ২.৬৭ বিলিয়ন ডলারের অঙ্ক ও অনুদান-ঋণ ভাগ উল্লেখ করো",
        "অবকাঠামো ও উৎপাদন ক্ষমতা বাড়াতে এর ভূমিকা লেখো",
        "এলডিসি উত্তরণের প্রেক্ষাপটে ঝুঁকি যোগ করো"
       ]
      },
-     {
+     "analytical": {
       "question": "এইড ফর ট্রেড বাড়লেও স্বল্পোন্নত দেশগুলোর রপ্তানি অংশ কেন বাড়ছে না? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "তথ্য: ৮০০ বিলিয়ন ডলার ছাড়, তবু এলডিসির অংশ ১ শতাংশ",
        "কারণ: ঋণের ভাগ বেশি, অবকাঠামো ঘাটতি, সরবরাহ সক্ষমতার সীমা",
        "সমাধান: অনুদান বাড়ানো, উৎপাদন ক্ষমতায় বিনিয়োগ, উত্তরণ-পরবর্তী সহায়তা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "disbursement",
-      "bangla_meaning": "বিতরণ; (অর্থ) ছাড়করণ; প্রদান",
+      "meaning_bn": "বিতরণ; (অর্থ) ছাড়করণ; প্রদান",
       "example": "Actual disbursements in these years stood at $53.89 billion, $50.60 billion, and $51.62 billion, respectively.",
-      "synonym": "payment; payout",
-      "antonym": "collection; withholding"
+      "synonyms": [
+       "payment",
+       "payout"
+      ],
+      "antonyms": [
+       "collection",
+       "withholding"
+      ]
      },
      {
       "word": "grant",
-      "bangla_meaning": "অনুদান; ফেরত দিতে হয় না এমন সাহায্য",
+      "meaning_bn": "অনুদান; ফেরত দিতে হয় না এমন সাহায্য",
       "example": "Bangladesh received $134 million in grants in 2024.",
-      "synonym": "donation; aid",
-      "antonym": "loan; debt"
+      "synonyms": [
+       "donation",
+       "aid"
+      ],
+      "antonyms": [
+       "loan",
+       "debt"
+      ]
      },
      {
       "word": "concessional",
-      "bangla_meaning": "ছাড়যুক্ত; বাজারদরের চেয়ে সস্তা শর্তে দেওয়া",
+      "meaning_bn": "ছাড়যুক্ত; বাজারদরের চেয়ে সস্তা শর্তে দেওয়া",
       "example": "Concessional loans carry lower interest than commercial loans.",
-      "synonym": "subsidised; soft",
-      "antonym": "commercial; market-rate"
+      "synonyms": [
+       "subsidised",
+       "soft"
+      ],
+      "antonyms": [
+       "commercial",
+       "market-rate"
+      ]
      },
      {
       "word": "infrastructure",
-      "bangla_meaning": "অবকাঠামো; সড়ক, বন্দর, বিদ্যুৎ ব্যবস্থা",
+      "meaning_bn": "অবকাঠামো; সড়ক, বন্দর, বিদ্যুৎ ব্যবস্থা",
       "example": "Economic infrastructure took 71% of Bangladesh's aid for trade in 2024.",
-      "synonym": "facilities; framework",
-      "antonym": "superstructure"
+      "synonyms": [
+       "facilities",
+       "framework"
+      ],
+      "antonyms": [
+       "superstructure"
+      ]
      },
      {
       "word": "export",
-      "bangla_meaning": "রপ্তানি; বিদেশে পণ্য বিক্রি",
+      "meaning_bn": "রপ্তানি; বিদেশে পণ্য বিক্রি",
       "example": "LDCs hold about 1% of world merchandise exports.",
-      "synonym": "shipment abroad; overseas sale",
-      "antonym": "import"
+      "synonyms": [
+       "shipment abroad",
+       "overseas sale"
+      ],
+      "antonyms": [
+       "import"
+      ]
      }
     ],
     "revision": {
@@ -459,122 +506,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বাংলাদেশ ব্যাংক: ১৯৭১ সালে প্রতিষ্ঠিত কেন্দ্রীয় ব্যাংক; মুদ্রানীতি, বৈদেশিক মুদ্রা ও ব্যাংক তদারকির দায়িত্বে।",
-      "বিডা (বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ): বিদেশি বিনিয়োগ আকর্ষণ ও বিনিয়োগ পরিবেশ উন্নয়নের দায়িত্বে।",
-      "পরীক্ষায় প্রায়ই আসে: এফডিআইয়ের উপাদান তিনটির নাম ও কোনটি 'নতুন টাকা' বোঝায়।"
-     ],
-     "sources": [
-      {
-       "name": "Bangladesh Bank — FDI Survey Report (concepts & definitions)",
-       "url": "https://www.bb.org.bd/pub/halfyearly/fdisurvey/fdisurveyjanjun2015.pdf"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "২০২৬ সালের প্রথমার্ধে নিট এফডিআই কত কমেছে?",
-      "options": {
-       "A": "১.৭৭ বিলিয়ন ডলার",
-       "B": "২৫ শতাংশ",
-       "C": "২৮ শতাংশ",
-       "D": "১০ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "বাংলাদেশ ব্যাংকের তথ্যে প্রথমার্ধে নিট এফডিআই কমেছে ২৮ শতাংশ।"
+      "name": "বাংলাদেশ ব্যাংক",
+      "role": "১৯৭১ সালে প্রতিষ্ঠিত কেন্দ্রীয় ব্যাংক",
+      "source": "Bangladesh Bank — FDI Survey Report (concepts & definitions)"
      },
      {
-      "no": 2,
-      "question": "এফডিআইয়ের উপাদান কোনটি নয়?",
-      "options": {
-       "A": "ইকুইটি মূলধন",
-       "B": "পুনর্বিনিয়োগকৃত আয়",
-       "C": "আন্তঃকোম্পানি ঋণ",
-       "D": "রেমিট্যান্স"
-      },
-      "correct": "D",
-      "explanation": "বাংলাদেশ ব্যাংকের সংজ্ঞায় এফডিআইয়ের উপাদান তিনটি: ইকুইটি, পুনর্বিনিয়োগকৃত আয়, আন্তঃকোম্পানি ঋণ।"
-     },
-     {
-      "no": 3,
-      "question": "কত শতাংশ মালিকানা থাকলে বিনিয়োগকে প্রত্যক্ষ বিনিয়োগ ধরা হয়?",
-      "options": {
-       "A": "৫ শতাংশ",
-       "B": "১০ শতাংশ বা তার বেশি",
-       "C": "২৫ শতাংশ",
-       "D": "৫১ শতাংশ"
-      },
-      "correct": "B",
-      "explanation": "১০ শতাংশ বা বেশি শেয়ার/ভোটাধিকার থাকলে সেটি প্রত্যক্ষ বিনিয়োগ প্রতিষ্ঠান।"
-     },
-     {
-      "no": 4,
-      "question": "২০২৫ সালে বাংলাদেশ কত নিট এফডিআই পেয়েছে?",
-      "options": {
-       "A": "২৫ বিলিয়ন ডলার",
-       "B": "২৮ বিলিয়ন ডলার",
-       "C": "৩.০৮ বিলিয়ন ডলার",
-       "D": "১.৭৭ বিলিয়ন ডলার"
-      },
-      "correct": "D",
-      "explanation": "সংবাদে বলা হয়েছে, ২০২৫ সালে নিট এফডিআই প্রায় ১.৭৭ বিলিয়ন ডলার।"
+      "name": "বিডা",
+      "full_name": "বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ",
+      "role": "বিদেশি বিনিয়োগ আকর্ষণ ও বিনিয়োগ পরিবেশ উন্নয়নের দায়িত্বে।",
+      "source": "Bangladesh Bank — FDI Survey Report (concepts & definitions)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "মুদ্রানীতি",
+      "meaning": "বৈদেশিক মুদ্রা ও ব্যাংক তদারকির দায়িত্বে।",
+      "source": "Bangladesh Bank — FDI Survey Report (concepts & definitions)"
+     },
+     {
+      "term": "পরীক্ষায় প্রায়ই আসে",
+      "meaning": "এফডিআইয়ের উপাদান তিনটির নাম ও কোনটি 'নতুন টাকা' বোঝায়।",
+      "source": "Bangladesh Bank — FDI Survey Report (concepts & definitions)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "২০২৬ সালের প্রথমার্ধে নিট এফডিআই কত কমেছে?",
+      "options": [
+       "১.৭৭ বিলিয়ন ডলার",
+       "২৫ শতাংশ",
+       "২৮ শতাংশ",
+       "১০ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "বাংলাদেশ ব্যাংকের তথ্যে প্রথমার্ধে নিট এফডিআই কমেছে ২৮ শতাংশ।",
+      "no": 1
+     },
+     {
+      "question": "এফডিআইয়ের উপাদান কোনটি নয়?",
+      "options": [
+       "ইকুইটি মূলধন",
+       "পুনর্বিনিয়োগকৃত আয়",
+       "আন্তঃকোম্পানি ঋণ",
+       "রেমিট্যান্স"
+      ],
+      "correct": 3,
+      "explanation": "বাংলাদেশ ব্যাংকের সংজ্ঞায় এফডিআইয়ের উপাদান তিনটি: ইকুইটি, পুনর্বিনিয়োগকৃত আয়, আন্তঃকোম্পানি ঋণ।",
+      "no": 2
+     },
+     {
+      "question": "কত শতাংশ মালিকানা থাকলে বিনিয়োগকে প্রত্যক্ষ বিনিয়োগ ধরা হয়?",
+      "options": [
+       "৫ শতাংশ",
+       "১০ শতাংশ বা তার বেশি",
+       "২৫ শতাংশ",
+       "৫১ শতাংশ"
+      ],
+      "correct": 1,
+      "explanation": "১০ শতাংশ বা বেশি শেয়ার/ভোটাধিকার থাকলে সেটি প্রত্যক্ষ বিনিয়োগ প্রতিষ্ঠান।",
+      "no": 3
+     },
+     {
+      "question": "২০২৫ সালে বাংলাদেশ কত নিট এফডিআই পেয়েছে?",
+      "options": [
+       "২৫ বিলিয়ন ডলার",
+       "২৮ বিলিয়ন ডলার",
+       "৩.০৮ বিলিয়ন ডলার",
+       "১.৭৭ বিলিয়ন ডলার"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদে বলা হয়েছে, ২০২৫ সালে নিট এফডিআই প্রায় ১.৭৭ বিলিয়ন ডলার।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "নতুন ইকুইটি মূলধন না বাড়লে এফডিআই বাড়লেও তা কেন সুখবর নয়? (সংক্ষিপ্ত প্রশ্ন)",
-      "model_outline": [
+      "outline": [
        "তিন উপাদানের ব্যাখ্যা দাও",
        "পুনর্বিনিয়োগ মানে নতুন বিনিয়োগকারী আসছে না — এই যুক্তি দাও",
        "২০২৫ সালের ১.৭৭ বিলিয়ন ডলারের উদাহরণ দাও"
       ]
      },
-     {
+     "analytical": {
       "question": "বাংলাদেশে মার্কিন বিনিয়োগ বাড়াতে কী কী সংস্কার দরকার? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "বাধা: চুক্তি বাস্তবায়ন, বিদ্যুৎ, লভ্যাংশ প্রত্যাবাসন, আমলাতন্ত্র",
        "সংস্কার: নীতির স্থিতিশীলতা, এক জানালা সেবা, বিদ্যুৎ নিশ্চয়তা",
        "ফেব্রুয়ারির পারস্পরিক বাণিজ্য চুক্তির ভূমিকা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "repatriation",
-      "bangla_meaning": "প্রত্যাবাসন; দেশে ফেরত পাঠানো",
+      "meaning_bn": "প্রত্যাবাসন; দেশে ফেরত পাঠানো",
       "example": "They include contract enforcement, unexpected regulatory changes, the availability of electricity, the ease of clearing imported equipment and the repatriation of dividends.",
-      "synonym": "return; transfer home",
-      "antonym": "retention abroad"
+      "synonyms": [
+       "return",
+       "transfer home"
+      ],
+      "antonyms": [
+       "retention abroad"
+      ]
      },
      {
       "word": "bureaucracy",
-      "bangla_meaning": "আমলাতন্ত্র; দাপ্তরিক জটিলতা",
+      "meaning_bn": "আমলাতন্ত্র; দাপ্তরিক জটিলতা",
       "example": "International investors also complain about excessive bureaucracy and unpredictable taxation.",
-      "synonym": "red tape; administration",
-      "antonym": "deregulation"
+      "synonyms": [
+       "red tape",
+       "administration"
+      ],
+      "antonyms": [
+       "deregulation"
+      ]
      },
      {
       "word": "equity",
-      "bangla_meaning": "ইকুইটি; শেয়ার মূলধন; মালিকানা অংশ",
+      "meaning_bn": "ইকুইটি; শেয়ার মূলধন; মালিকানা অংশ",
       "example": "Fresh equity capital did not increase in 2025.",
-      "synonym": "ownership capital; share capital",
-      "antonym": "debt"
+      "synonyms": [
+       "ownership capital",
+       "share capital"
+      ],
+      "antonyms": [
+       "debt"
+      ]
      },
      {
       "word": "dividend",
-      "bangla_meaning": "লভ্যাংশ; শেয়ারহোল্ডারদের দেওয়া মুনাফার ভাগ",
+      "meaning_bn": "লভ্যাংশ; শেয়ারহোল্ডারদের দেওয়া মুনাফার ভাগ",
       "example": "Investors worry about the repatriation of dividends from Bangladesh.",
-      "synonym": "profit share; payout",
-      "antonym": "loss"
+      "synonyms": [
+       "profit share",
+       "payout"
+      ],
+      "antonyms": [
+       "loss"
+      ]
      },
      {
       "word": "investor",
-      "bangla_meaning": "বিনিয়োগকারী",
+      "meaning_bn": "বিনিয়োগকারী",
       "example": "American investors complain about unpredictable taxation.",
-      "synonym": "financier; backer",
-      "antonym": "borrower"
+      "synonyms": [
+       "financier",
+       "backer"
+      ],
+      "antonyms": [
+       "borrower"
+      ]
      }
     ],
     "revision": {
@@ -759,123 +843,160 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "অর্থ বিভাগ: অর্থ মন্ত্রণালয়ের অধীন; বাজেট, ঋণ ব্যবস্থাপনা ও সরকারি অর্থের দায়িত্বে।",
-      "অর্থনৈতিক সম্পর্ক বিভাগ (ইআরডি): বৈদেশিক সাহায্য ও ঋণ নিয়ে আলোচনা করে।",
-      "সুকুক: শরিয়াহভিত্তিক বন্ড; ইউরোবন্ড: বিদেশি মুদ্রায় ছাড়া বন্ড; জেপিমরগ্যান সূচক: উদীয়মান বাজারের সরকারি বন্ডের সূচক — এতে অন্তর্ভুক্তি মানে বিদেশি বিনিয়োগকারীরা সহজে বন্ড কিনতে পারবে।",
-      "পরীক্ষার সূত্র: মোট ঋণ, বৈদেশিক অংশ, সুদ বরাদ্দ, শোধের রেকর্ড — চারটি সংখ্যাই মুখস্থ রাখো।"
-     ],
-     "sources": [
-      {
-       "name": "Finance Division — Medium-Term Debt Management Strategy FY2024-25 to FY2026-27",
-       "url": "https://www.spfms.gov.bd/uploads/publications/16abc096-aaff-45a6-b5e9-9c44ef7061b4.pdf"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "১২ জুলাই ২০২৬-এ জানানো মোট বকেয়া সরকারি ঋণ কত?",
-      "options": {
-       "A": "২২,০৬,৪৬২ কোটি টাকা",
-       "B": "৯,৫৯,৩১১ কোটি টাকা",
-       "C": "১,২৭,৫০০ কোটি টাকা",
-       "D": "৫.২৪৩ বিলিয়ন ডলার"
-      },
-      "correct": "A",
-      "explanation": "অর্থমন্ত্রী সংসদে জানান মোট বকেয়া ঋণ ২২,০৬,৪৬২ কোটি টাকা।"
+      "name": "অর্থ বিভাগ",
+      "role": "অর্থ মন্ত্রণালয়ের অধীন; বাজেট, ঋণ ব্যবস্থাপনা ও সরকারি অর্থের দায়িত্বে।",
+      "source": "Finance Division — Medium-Term Debt Management Strategy FY2024-25 to FY2026-27"
      },
      {
-      "no": 2,
-      "question": "২০২৫-২৬ অর্থবছরে বাংলাদেশ কত বিদেশি ঋণ শোধ করেছে?",
-      "options": {
-       "A": "৫.২৪৩ বিলিয়ন ডলার",
-       "B": "২.৯৫ বিলিয়ন ডলার",
-       "C": "১.৫৪ বিলিয়ন ডলার",
-       "D": "৪.৪৯৪ বিলিয়ন ডলার"
-      },
-      "correct": "D",
-      "explanation": "রেকর্ড ৪.৪৯৪ বিলিয়ন ডলার শোধ হয়েছে — আসল ২.৯৫ বিলিয়ন, সুদ ১.৫৪ বিলিয়ন।"
-     },
-     {
-      "no": 3,
-      "question": "এমটিডিএস (MTDS) কী?",
-      "options": {
-       "A": "একটি বার্ষিক বাজেট",
-       "B": "সরকারি ঋণের মধ্যমেয়াদি ব্যবস্থাপনা কৌশল",
-       "C": "একটি বৈদেশিক মুদ্রা নীতি",
-       "D": "একটি কর সংস্কার পরিকল্পনা"
-      },
-      "correct": "B",
-      "explanation": "এমটিডিএস হলো অর্থ বিভাগের মধ্যমেয়াদি ঋণ ব্যবস্থাপনা কৌশল।"
-     },
-     {
-      "no": 4,
-      "question": "আইএমএফ বাংলাদেশের ঋণ ঝুঁকিকে কী বলেছে?",
-      "options": {
-       "A": "উচ্চ ঝুঁকি",
-       "B": "নিম্ন ঝুঁকি",
-       "C": "মাঝারি ঝুঁকি",
-       "D": "ঝুঁকিমুক্ত"
-      },
-      "correct": "C",
-      "explanation": "আইএমএফের ২০২৫ আর্টিকেল ফোর পরামর্শে বাংলাদেশ মাঝারি ঝুঁকিতে আছে।"
+      "name": "অর্থনৈতিক সম্পর্ক বিভাগ (ইআরডি)",
+      "role": "বৈদেশিক সাহায্য ও ঋণ নিয়ে আলোচনা করে।",
+      "source": "Finance Division — Medium-Term Debt Management Strategy FY2024-25 to FY2026-27"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "সুকুক",
+      "meaning": "শরিয়াহভিত্তিক বন্ড; ইউরোবন্ড: বিদেশি মুদ্রায় ছাড়া বন্ড; জেপিমরগ্যান সূচক: উদীয়মান বাজারের সরকারি বন্ডের সূচক — এতে অন্তর্ভুক্তি মানে বিদেশি বিনিয়োগকারীরা সহজে বন্ড কিনতে পারবে।",
+      "source": "Finance Division — Medium-Term Debt Management Strategy FY2024-25 to FY2026-27"
+     },
+     {
+      "term": "পরীক্ষার সূত্র",
+      "meaning": "মোট ঋণ, বৈদেশিক অংশ, সুদ বরাদ্দ, শোধের রেকর্ড — চারটি সংখ্যাই মুখস্থ রাখো।",
+      "source": "Finance Division — Medium-Term Debt Management Strategy FY2024-25 to FY2026-27"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "১২ জুলাই ২০২৬-এ জানানো মোট বকেয়া সরকারি ঋণ কত?",
+      "options": [
+       "২২,০৬,৪৬২ কোটি টাকা",
+       "৯,৫৯,৩১১ কোটি টাকা",
+       "১,২৭,৫০০ কোটি টাকা",
+       "৫.২৪৩ বিলিয়ন ডলার"
+      ],
+      "correct": 0,
+      "explanation": "অর্থমন্ত্রী সংসদে জানান মোট বকেয়া ঋণ ২২,০৬,৪৬২ কোটি টাকা।",
+      "no": 1
+     },
+     {
+      "question": "২০২৫-২৬ অর্থবছরে বাংলাদেশ কত বিদেশি ঋণ শোধ করেছে?",
+      "options": [
+       "৫.২৪৩ বিলিয়ন ডলার",
+       "২.৯৫ বিলিয়ন ডলার",
+       "১.৫৪ বিলিয়ন ডলার",
+       "৪.৪৯৪ বিলিয়ন ডলার"
+      ],
+      "correct": 3,
+      "explanation": "রেকর্ড ৪.৪৯৪ বিলিয়ন ডলার শোধ হয়েছে — আসল ২.৯৫ বিলিয়ন, সুদ ১.৫৪ বিলিয়ন।",
+      "no": 2
+     },
+     {
+      "question": "এমটিডিএস (MTDS) কী?",
+      "options": [
+       "একটি বার্ষিক বাজেট",
+       "সরকারি ঋণের মধ্যমেয়াদি ব্যবস্থাপনা কৌশল",
+       "একটি বৈদেশিক মুদ্রা নীতি",
+       "একটি কর সংস্কার পরিকল্পনা"
+      ],
+      "correct": 1,
+      "explanation": "এমটিডিএস হলো অর্থ বিভাগের মধ্যমেয়াদি ঋণ ব্যবস্থাপনা কৌশল।",
+      "no": 3
+     },
+     {
+      "question": "আইএমএফ বাংলাদেশের ঋণ ঝুঁকিকে কী বলেছে?",
+      "options": [
+       "উচ্চ ঝুঁকি",
+       "নিম্ন ঝুঁকি",
+       "মাঝারি ঝুঁকি",
+       "ঝুঁকিমুক্ত"
+      ],
+      "correct": 2,
+      "explanation": "আইএমএফের ২০২৫ আর্টিকেল ফোর পরামর্শে বাংলাদেশ মাঝারি ঝুঁকিতে আছে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশের সরকারি ঋণের চাপ বাড়ছে কেন? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "সংখ্যা: ২২ লাখ কোটি টাকা, সুদে ১,২৭,৫০০ কোটি টাকা",
        "কারণ: নতুন প্রতিশ্রুতি কম, শোধ বেশি, রাজস্ব আয় কম",
        "সম্মেলনের সংস্কার প্রস্তাব যোগ করো"
       ]
      },
-     {
+     "analytical": {
       "question": "ঋণ ব্যবস্থাপনায় মধ্যমেয়াদি কৌশল ও বার্ষিক ঋণ পরিকল্পনার ভূমিকা বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "এমটিডিএস: খরচ-ঝুঁকি বিশ্লেষণ, দেশি-বিদেশি ভারসাম্য",
        "বার্ষিক পরিকল্পনা: আগাম ঘোষণায় বাজারে স্বচ্ছতা",
        "সীমা: রাজস্ব বাড়ানো ছাড়া ঋণ কৌশল একা যথেষ্ট নয়"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "predictability",
-      "bangla_meaning": "পূর্বানুমেয়তা; নীতির স্থিতিশীলতা",
+      "meaning_bn": "পূর্বানুমেয়তা; নীতির স্থিতিশীলতা",
       "example": "To encourage foreign investment in government securities denominated in taka, the country needs to improve market liquidity, settlement infrastructure, currency convertibility and policy predictability.",
-      "synonym": "certainty; stability",
-      "antonym": "unpredictability; volatility"
+      "synonyms": [
+       "certainty",
+       "stability"
+      ],
+      "antonyms": [
+       "unpredictability",
+       "volatility"
+      ]
      },
      {
       "word": "sustainability",
-      "bangla_meaning": "টেকসইতা; ধারণযোগ্যতা",
+      "meaning_bn": "টেকসইতা; ধারণযোগ্যতা",
       "example": "The Finance Division has already taken several initiatives to improve debt management, including preparing a Medium-Term Debt Management Strategy (MTDS), conducting regular debt sustainability analyses and publishing public debt bulletins.",
-      "synonym": "durability; viability",
-      "antonym": "unsustainability; collapse"
+      "synonyms": [
+       "durability",
+       "viability"
+      ],
+      "antonyms": [
+       "unsustainability",
+       "collapse"
+      ]
      },
      {
       "word": "repayment",
-      "bangla_meaning": "পরিশোধ; ঋণ শোধ",
+      "meaning_bn": "পরিশোধ; ঋণ শোধ",
       "example": "Bangladesh repaid a record $4.494 billion in foreign loans in FY2025-26.",
-      "synonym": "reimbursement; settlement",
-      "antonym": "borrowing; default"
+      "synonyms": [
+       "reimbursement",
+       "settlement"
+      ],
+      "antonyms": [
+       "borrowing",
+       "default"
+      ]
      },
      {
       "word": "interest",
-      "bangla_meaning": "সুদ; ঋণের ওপর দেওয়া অতিরিক্ত টাকা",
+      "meaning_bn": "সুদ; ঋণের ওপর দেওয়া অতিরিক্ত টাকা",
       "example": "The FY27 budget sets aside Tk1,27,500 crore for interest payments alone.",
-      "synonym": "charge on a loan",
-      "antonym": "principal (আসল)"
+      "synonyms": [
+       "charge on a loan"
+      ],
+      "antonyms": [
+       "principal (আসল)"
+      ]
      },
      {
       "word": "borrowing",
-      "bangla_meaning": "ঋণ নেওয়া; ধার করা",
+      "meaning_bn": "ঋণ নেওয়া; ধার করা",
       "example": "The government plans to balance domestic and external borrowing.",
-      "synonym": "taking a loan",
-      "antonym": "lending; repayment"
+      "synonyms": [
+       "taking a loan"
+      ],
+      "antonyms": [
+       "lending",
+       "repayment"
+      ]
      }
     ],
     "revision": {
@@ -1054,122 +1175,156 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "আইএমএফ: প্রতিষ্ঠা ১৯৪৪ (ব্রেটন উডস সম্মেলন), সদর দপ্তর ওয়াশিংটন ডিসি; বাংলাদেশ সদস্য ১৯৭৪ সাল থেকে।",
-      "বিশ্বব্যাংক বনাম আইএমএফ: বিশ্বব্যাংক উন্নয়ন প্রকল্পে দীর্ঘমেয়াদি ঋণ দেয়; আইএমএফ লেনদেনের ভারসাম্য ও মুদ্রা স্থিতিশীলতায় স্বল্প-মধ্যমেয়াদি সহায়তা দেয়।",
-      "কর-জিডিপি অনুপাত: সরকারের কর আয় জিডিপির কত শতাংশ — বাংলাদেশে প্রায় ৬.৭ শতাংশ, যা প্রতিবেশীদের চেয়ে কম (ভারত ৭.৪, শ্রীলঙ্কা ৯.৯, পাকিস্তান ১০.৫ শতাংশ — সংবাদের তথ্য)।"
-     ],
-     "sources": [
-      {
-       "name": "IMF — Executive Board approves US$3.3bn ECF/EFF and US$1.4bn RSF for Bangladesh",
-       "url": "https://www.imf.org/en/news/articles/2023/01/30/pr2325-bangladesh-imf-executive-board-approves-usd-ecf-eff-and-usd-under-rsf"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "২০২৬ সালের জুনে খেলাপি ঋণের হার কত ছিল?",
-      "options": {
-       "A": "৬.১ শতাংশ",
-       "B": "৬.৫ শতাংশ",
-       "C": "৩২.৭৮ শতাংশ",
-       "D": "৪১ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "সংবাদে বলা হয়েছে, জুন ২০২৬-এ খেলাপি ঋণের হার ৩২.৭৮ শতাংশ (৬,০৬,৫৫৫ কোটি টাকা)।"
+      "name": "আইএমএফ",
+      "role": "প্রতিষ্ঠা ১৯৪৪ (ব্রেটন উডস সম্মেলন), সদর দপ্তর ওয়াশিংটন ডিসি; বাংলাদেশ সদস্য ১৯৭৪ সাল থেকে। লেনদেনের ভারসাম্য ও মুদ্রা স্থিতিশীলতায় স্বল্প-মধ্যমেয়াদি সহায়তা দেয়।",
+      "source": "IMF — Executive Board approves US$3.3bn ECF/EFF and US$1.4bn RSF for Bangladesh"
      },
      {
-      "no": 2,
-      "question": "আরএসএফ (RSF) কোন কাজে দেওয়া হয়?",
-      "options": {
-       "A": "স্বল্পমেয়াদি বাণিজ্য ঘাটতি মেটাতে",
-       "B": "শুধু মুদ্রা ছাপাতে",
-       "C": "সরকারি চাকরির বেতন দিতে",
-       "D": "জলবায়ু সহনশীলতা ও দীর্ঘমেয়াদি ঝুঁকি মোকাবিলায়"
-      },
-      "correct": "D",
-      "explanation": "আরএসএফ জলবায়ু পরিবর্তন ও মহামারি প্রস্তুতির মতো দীর্ঘমেয়াদি ঝুঁকির জন্য সস্তায় দীর্ঘমেয়াদি অর্থায়ন দেয়।"
-     },
-     {
-      "no": 3,
-      "question": "বাংলাদেশ আইএমএফের ৫.৫ বিলিয়ন ডলার অনুমোদনের মধ্যে কত পেয়েছে?",
-      "options": {
-       "A": "১.৭ বিলিয়ন ডলার",
-       "B": "২.১ বিলিয়ন ডলার",
-       "C": "৩.৮ বিলিয়ন ডলার",
-       "D": "৪.৭ বিলিয়ন ডলার"
-      },
-      "correct": "C",
-      "explanation": "সংবাদ অনুযায়ী পাওয়া গেছে ৩.৮ বিলিয়ন ডলার, বাকি ১.৭ বিলিয়ন ডলার ছাড় হয়নি।"
-     },
-     {
-      "no": 4,
-      "question": "ইসিএফ (ECF) কাদের জন্য?",
-      "options": {
-       "A": "শুধু ধনী দেশের জন্য",
-       "B": "নিম্ন আয়ের দেশের দীর্ঘমেয়াদি লেনদেন সংকটে",
-       "C": "শুধু বেসরকারি ব্যাংকের জন্য",
-       "D": "যুদ্ধবিধ্বস্ত দেশের জন্য মাত্র"
-      },
-      "correct": "B",
-      "explanation": "ইসিএফ নিম্ন আয়ের দেশকে দীর্ঘমেয়াদি লেনদেন সমস্যায় মধ্যমেয়াদি সহায়তা দেয়।"
+      "name": "বিশ্বব্যাংক বনাম আইএমএফ",
+      "role": "বিশ্বব্যাংক উন্নয়ন প্রকল্পে দীর্ঘমেয়াদি ঋণ দেয়",
+      "source": "IMF — Executive Board approves US$3.3bn ECF/EFF and US$1.4bn RSF for Bangladesh"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "কর-জিডিপি অনুপাত",
+      "meaning": "সরকারের কর আয় জিডিপির কত শতাংশ — বাংলাদেশে প্রায় ৬.৭ শতাংশ, যা প্রতিবেশীদের চেয়ে কম (ভারত ৭.৪, শ্রীলঙ্কা ৯.৯, পাকিস্তান ১০.৫ শতাংশ — সংবাদের তথ্য)।",
+      "source": "IMF — Executive Board approves US$3.3bn ECF/EFF and US$1.4bn RSF for Bangladesh"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "২০২৬ সালের জুনে খেলাপি ঋণের হার কত ছিল?",
+      "options": [
+       "৬.১ শতাংশ",
+       "৬.৫ শতাংশ",
+       "৩২.৭৮ শতাংশ",
+       "৪১ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদে বলা হয়েছে, জুন ২০২৬-এ খেলাপি ঋণের হার ৩২.৭৮ শতাংশ (৬,০৬,৫৫৫ কোটি টাকা)।",
+      "no": 1
+     },
+     {
+      "question": "আরএসএফ (RSF) কোন কাজে দেওয়া হয়?",
+      "options": [
+       "স্বল্পমেয়াদি বাণিজ্য ঘাটতি মেটাতে",
+       "শুধু মুদ্রা ছাপাতে",
+       "সরকারি চাকরির বেতন দিতে",
+       "জলবায়ু সহনশীলতা ও দীর্ঘমেয়াদি ঝুঁকি মোকাবিলায়"
+      ],
+      "correct": 3,
+      "explanation": "আরএসএফ জলবায়ু পরিবর্তন ও মহামারি প্রস্তুতির মতো দীর্ঘমেয়াদি ঝুঁকির জন্য সস্তায় দীর্ঘমেয়াদি অর্থায়ন দেয়।",
+      "no": 2
+     },
+     {
+      "question": "বাংলাদেশ আইএমএফের ৫.৫ বিলিয়ন ডলার অনুমোদনের মধ্যে কত পেয়েছে?",
+      "options": [
+       "১.৭ বিলিয়ন ডলার",
+       "২.১ বিলিয়ন ডলার",
+       "৩.৮ বিলিয়ন ডলার",
+       "৪.৭ বিলিয়ন ডলার"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদ অনুযায়ী পাওয়া গেছে ৩.৮ বিলিয়ন ডলার, বাকি ১.৭ বিলিয়ন ডলার ছাড় হয়নি।",
+      "no": 3
+     },
+     {
+      "question": "ইসিএফ (ECF) কাদের জন্য?",
+      "options": [
+       "শুধু ধনী দেশের জন্য",
+       "নিম্ন আয়ের দেশের দীর্ঘমেয়াদি লেনদেন সংকটে",
+       "শুধু বেসরকারি ব্যাংকের জন্য",
+       "যুদ্ধবিধ্বস্ত দেশের জন্য মাত্র"
+      ],
+      "correct": 1,
+      "explanation": "ইসিএফ নিম্ন আয়ের দেশকে দীর্ঘমেয়াদি লেনদেন সমস্যায় মধ্যমেয়াদি সহায়তা দেয়।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "খেলাপি ঋণ ৩২.৭৮ শতাংশ হওয়ার অর্থ কী? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "সংজ্ঞা: সময়মতো কিস্তি/সুদ না দেওয়া ঋণ",
        "অঙ্ক: ৬,০৬,৫৫৫ কোটি টাকা",
        "প্রভাব: ব্যাংকের মুনাফা, ঋণ দেওয়ার ক্ষমতা ও আস্থা কমে"
       ]
      },
-     {
+     "analytical": {
       "question": "আইএমএফের ঋণ কি বাংলাদেশের অর্থনৈতিক সমস্যার সমাধান? পক্ষে-বিপক্ষে বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "পক্ষে: বৈদেশিক মুদ্রার চাপ কমায়, সংস্কারে চাপ দেয়",
        "বিপক্ষে: ঋণ, অনুদান নয়; শর্ত মানতে হয়; উৎপাদনশীল ব্যবহার না হলে ঋণের বোঝা বাড়ে",
        "সিদ্ধান্ত: রাজস্ব ও ব্যাংক সংস্কার ছাড়া ঋণ একা যথেষ্ট নয়"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "mobilisation",
-      "bangla_meaning": "সংগ্রহ; জোগাড়; সচলকরণ",
+      "meaning_bn": "সংগ্রহ; জোগাড়; সচলকরণ",
       "example": "Stronger domestic revenue mobilisation would enable Bangladesh to finance a larger share of its public investment from its own resources, thereby reducing its dependence on repeated borrowing and external financial assistance.",
-      "synonym": "collection; gathering",
-      "antonym": "dispersal; demobilisation"
+      "synonyms": [
+       "collection",
+       "gathering"
+      ],
+      "antonyms": [
+       "dispersal",
+       "demobilisation"
+      ]
      },
      {
       "word": "recapitalisation",
-      "bangla_meaning": "মূলধন পুনর্গঠন; পুনঃমূলধনায়ন",
+      "meaning_bn": "মূলধন পুনর্গঠন; পুনঃমূলধনায়ন",
       "example": "The government cannot solve this problem simply by injecting public money into struggling banks. Recapitalisation may sometimes be necessary to protect depositors and maintain financial stability, but it should follow transparent assessments of each bank's actual financial condition.",
-      "synonym": "capital injection; refinancing",
-      "antonym": "decapitalisation"
+      "synonyms": [
+       "capital injection",
+       "refinancing"
+      ],
+      "antonyms": [
+       "decapitalisation"
+      ]
      },
      {
       "word": "subsidy",
-      "bangla_meaning": "ভর্তুকি; সরকারের দেওয়া আর্থিক সহায়তা",
+      "meaning_bn": "ভর্তুকি; সরকারের দেওয়া আর্থিক সহায়তা",
       "example": "The Bangladesh delegation raised electricity and fertiliser subsidies at the Bangkok discussion.",
-      "synonym": "grant; support payment",
-      "antonym": "tax; levy"
+      "synonyms": [
+       "grant",
+       "support payment"
+      ],
+      "antonyms": [
+       "tax",
+       "levy"
+      ]
      },
      {
       "word": "revenue",
-      "bangla_meaning": "রাজস্ব; সরকারের আয়",
+      "meaning_bn": "রাজস্ব; সরকারের আয়",
       "example": "Domestic debt service equalled 89.4% of government revenue.",
-      "synonym": "income; tax receipts",
-      "antonym": "expenditure"
+      "synonyms": [
+       "income",
+       "tax receipts"
+      ],
+      "antonyms": [
+       "expenditure"
+      ]
      },
      {
       "word": "growth",
-      "bangla_meaning": "প্রবৃদ্ধি; অর্থনৈতিক সম্প্রসারণ",
+      "meaning_bn": "প্রবৃদ্ধি; অর্থনৈতিক সম্প্রসারণ",
       "example": "The government has set a 6.5% growth target for 2026-27.",
-      "synonym": "expansion; increase",
-      "antonym": "contraction; decline"
+      "synonyms": [
+       "expansion",
+       "increase"
+      ],
+      "antonyms": [
+       "contraction",
+       "decline"
+      ]
      }
     ],
     "revision": {
@@ -1360,123 +1515,158 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বাংলাদেশ ব্যাংক: কেন্দ্রীয় ব্যাংক ও ব্যাংক তদারক; ব্যাংকিং প্রবিধি ও নীতি বিভাগ (বিআরপিডি) ব্যাংকের মূলধন ও ঋণ শ্রেণিকরণের নিয়ম দেয়।",
-      "ব্যাংক কোম্পানি আইন ১৯৯১: ব্যাংক পরিচালনার মূল আইন; ইসলামি ব্যাংকও এই আইন ও বাংলাদেশ ব্যাংকের নির্দেশনা মেনে চলে।",
-      "ইসলামিক ডেভেলপমেন্ট ব্যাংক (আইএসডিবি): মুসলিম দেশগুলোর উন্নয়ন ব্যাংক, সদর দপ্তর জেদ্দা; বাংলাদেশ এর সদস্য।"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Islami Bank Bangladesh Limited",
-       "url": "https://en.banglapedia.org/index.php?title=Islami_Bank_Bangladesh_Limited"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "ইসলামী ব্যাংক সরকারের কাছে কত টাকার ইকুইটি বিনিয়োগ চেয়েছে?",
-      "options": {
-       "A": "১,৬০৯.৯৯ কোটি টাকা",
-       "B": "৩,৩০৩ কোটি টাকা",
-       "C": "৬,০০০ কোটি টাকা",
-       "D": "৮৫,৮৮৬ কোটি টাকা"
-      },
-      "correct": "C",
-      "explanation": "সংবাদে বলা হয়েছে, ব্যাংক ৬,০০০ কোটি টাকার ইকুইটি বিনিয়োগ চেয়েছে।"
+      "name": "বাংলাদেশ ব্যাংক",
+      "role": "কেন্দ্রীয় ব্যাংক ও ব্যাংক তদারক; ব্যাংকিং প্রবিধি ও নীতি বিভাগ (বিআরপিডি) ব্যাংকের মূলধন ও ঋণ শ্রেণিকরণের নিয়ম দেয়।",
+      "source": "Banglapedia — Islami Bank Bangladesh Limited"
      },
      {
-      "no": 2,
-      "question": "ইসলামী ব্যাংক বাংলাদেশ কবে কার্যক্রম শুরু করে?",
-      "options": {
-       "A": "১৩ মার্চ ১৯৮৩",
-       "B": "৩০ মার্চ ১৯৮৩",
-       "C": "১২ আগস্ট ১৯৮৩",
-       "D": "২৮ মার্চ ১৯৮৩"
-      },
-      "correct": "B",
-      "explanation": "বাংলাপিডিয়া অনুযায়ী ব্যাংক ৩০ মার্চ ১৯৮৩ থেকে কার্যক্রম শুরু করে।"
-     },
-     {
-      "no": 3,
-      "question": "বিনিয়োগ হলে রাষ্ট্রের মালিকানা কত হতে পারে?",
-      "options": {
-       "A": "৫১ শতাংশ",
-       "B": "৮১.৫৯ শতাংশ",
-       "C": "৭৮.৮ শতাংশ",
-       "D": "৬০ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "সংবাদ অনুযায়ী বিনিয়োগে রাষ্ট্রের মালিকানা হতে পারে ৭৮.৮ শতাংশ।"
-     },
-     {
-      "no": 4,
-      "question": "আইএমএফের সংজ্ঞায় কত দিন কিস্তি বকেয়া থাকলে ঋণ খেলাপি হয়?",
-      "options": {
-       "A": "৯০ দিন বা বেশি",
-       "B": "৩০ দিন",
-       "C": "৬০ দিন",
-       "D": "৩৬৫ দিন"
-      },
-      "correct": "A",
-      "explanation": "আইএমএফের আর্থিক সুস্থতা সূচকে ৯০ দিন বা বেশি বকেয়া থাকলে ঋণ খেলাপি ধরা হয়।"
+      "name": "ইসলামিক ডেভেলপমেন্ট ব্যাংক (আইএসডিবি)",
+      "role": "মুসলিম দেশগুলোর উন্নয়ন ব্যাংক, সদর দপ্তর জেদ্দা; বাংলাদেশ এর সদস্য।",
+      "source": "Banglapedia — Islami Bank Bangladesh Limited"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "ব্যাংক কোম্পানি আইন ১৯৯১",
+      "meaning": "ব্যাংক পরিচালনার মূল আইন; ইসলামি ব্যাংকও এই আইন ও বাংলাদেশ ব্যাংকের নির্দেশনা মেনে চলে।",
+      "source": "Banglapedia — Islami Bank Bangladesh Limited"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "ইসলামী ব্যাংক সরকারের কাছে কত টাকার ইকুইটি বিনিয়োগ চেয়েছে?",
+      "options": [
+       "১,৬০৯.৯৯ কোটি টাকা",
+       "৩,৩০৩ কোটি টাকা",
+       "৬,০০০ কোটি টাকা",
+       "৮৫,৮৮৬ কোটি টাকা"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদে বলা হয়েছে, ব্যাংক ৬,০০০ কোটি টাকার ইকুইটি বিনিয়োগ চেয়েছে।",
+      "no": 1
+     },
+     {
+      "question": "ইসলামী ব্যাংক বাংলাদেশ কবে কার্যক্রম শুরু করে?",
+      "options": [
+       "১৩ মার্চ ১৯৮৩",
+       "৩০ মার্চ ১৯৮৩",
+       "১২ আগস্ট ১৯৮৩",
+       "২৮ মার্চ ১৯৮৩"
+      ],
+      "correct": 1,
+      "explanation": "বাংলাপিডিয়া অনুযায়ী ব্যাংক ৩০ মার্চ ১৯৮৩ থেকে কার্যক্রম শুরু করে।",
+      "no": 2
+     },
+     {
+      "question": "বিনিয়োগ হলে রাষ্ট্রের মালিকানা কত হতে পারে?",
+      "options": [
+       "৫১ শতাংশ",
+       "৮১.৫৯ শতাংশ",
+       "৭৮.৮ শতাংশ",
+       "৬০ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদ অনুযায়ী বিনিয়োগে রাষ্ট্রের মালিকানা হতে পারে ৭৮.৮ শতাংশ।",
+      "no": 3
+     },
+     {
+      "question": "আইএমএফের সংজ্ঞায় কত দিন কিস্তি বকেয়া থাকলে ঋণ খেলাপি হয়?",
+      "options": [
+       "৯০ দিন বা বেশি",
+       "৩০ দিন",
+       "৬০ দিন",
+       "৩৬৫ দিন"
+      ],
+      "correct": 0,
+      "explanation": "আইএমএফের আর্থিক সুস্থতা সূচকে ৯০ দিন বা বেশি বকেয়া থাকলে ঋণ খেলাপি ধরা হয়।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "ইসলামী ব্যাংকের সংকটের মূল সংখ্যাগুলো দিয়ে সংক্ষিপ্ত নোট লেখো।",
-      "model_outline": [
+      "outline": [
        "খেলাপি ঋণ ১,০০,৬০০ কোটি টাকা, প্রভিশন ঘাটতি ৮৫,৮৮৬ কোটি টাকা",
        "লোকসান ৩,৩০৩ কোটি টাকা; প্রস্তাব ৬,০০০ কোটি টাকা",
        "এস আলমের জব্দ শেয়ার ৮১.৫৯ শতাংশ"
       ]
      },
-     {
+     "analytical": {
       "question": "রাষ্ট্রের মালিকানা নেওয়া না বিদেশি বিনিয়োগ খোঁজা — ইসলামী ব্যাংকের জন্য কোন পথ ভালো? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "রাষ্ট্রীয় মালিকানার পক্ষে: দ্রুত মূলধন, আমানতকারীর আস্থা",
        "বিপক্ষে: সরকার ব্যাংকিং থেকে সরে আসছে বিশ্বজুড়ে; টাকা নষ্ট হওয়ার ঝুঁকি (সাবেক গভর্নরের মত)",
        "বিকল্প: আইএসডিবি, দুবাই ইসলামিক ব্যাংকের মতো সাবেক বিদেশি শেয়ারহোল্ডার",
        "সিদ্ধান্ত: মূলধন ও সম্পদের মানের স্বচ্ছ মূল্যায়ন আগে"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "dilute",
-      "bangla_meaning": "পাতলা করা; (মালিকানা) হ্রাস করা; দুর্বল করা",
+      "meaning_bn": "পাতলা করা; (মালিকানা) হ্রাস করা; দুর্বল করা",
       "example": "The fresh share issuance would also dilute the ownership stakes of S Alam Group-linked shareholders, further reducing their influence over the bank.",
-      "synonym": "weaken; thin; water down",
-      "antonym": "strengthen; concentrate"
+      "synonyms": [
+       "weaken",
+       "thin",
+       "water down"
+      ],
+      "antonyms": [
+       "strengthen",
+       "concentrate"
+      ]
      },
      {
       "word": "default",
-      "bangla_meaning": "খেলাপ; (ঋণ) পরিশোধে ব্যর্থতা",
+      "meaning_bn": "খেলাপ; (ঋণ) পরিশোধে ব্যর্থতা",
       "example": "At the end of September, its outstanding loans totalled Tk1,81,860 crore, of which Tk1,00,600 crore had turned defaulted, according to Bangladesh Bank data cited in the proposal.",
-      "synonym": "non-payment; delinquency",
-      "antonym": "repayment; settlement"
+      "synonyms": [
+       "non-payment",
+       "delinquency"
+      ],
+      "antonyms": [
+       "repayment",
+       "settlement"
+      ]
      },
      {
       "word": "provision",
-      "bangla_meaning": "প্রভিশন; সম্ভাব্য ক্ষতির জন্য সরিয়ে রাখা অর্থ",
+      "meaning_bn": "প্রভিশন; সম্ভাব্য ক্ষতির জন্য সরিয়ে রাখা অর্থ",
       "example": "The bank's provisioning shortfall was Tk85,886 crore.",
-      "synonym": "reserve for losses",
-      "antonym": "profit distribution"
+      "synonyms": [
+       "reserve for losses"
+      ],
+      "antonyms": [
+       "profit distribution"
+      ]
      },
      {
       "word": "capital",
-      "bangla_meaning": "মূলধন; ব্যবসায় বিনিয়োগ করা টাকা",
+      "meaning_bn": "মূলধন; ব্যবসায় বিনিয়োগ করা টাকা",
       "example": "The proposal would lift paid-up capital from Tk1,609.99 crore to Tk7,609.99 crore.",
-      "synonym": "fund; equity",
-      "antonym": "debt; liability"
+      "synonyms": [
+       "fund",
+       "equity"
+      ],
+      "antonyms": [
+       "debt",
+       "liability"
+      ]
      },
      {
       "word": "loss",
-      "bangla_meaning": "লোকসান; ক্ষতি",
+      "meaning_bn": "লোকসান; ক্ষতি",
       "example": "The bank posted a net loss of Tk3,303 crore in January-September.",
-      "synonym": "deficit; damage",
-      "antonym": "profit; gain"
+      "synonyms": [
+       "deficit",
+       "damage"
+      ],
+      "antonyms": [
+       "profit",
+       "gain"
+      ]
      }
     ],
     "revision": {
@@ -1667,122 +1857,157 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইউএনএফসিসিসি (জাতিসংঘ জলবায়ু পরিবর্তন কাঠামো কনভেনশন): ১৯৯২ সালে গৃহীত; কপ (কনফারেন্স অব দ্য পার্টিস) এর বার্ষিক সম্মেলন।",
-      "প্যারিস চুক্তি (২০১৫): বৈশ্বিক উষ্ণায়ন প্রাক-শিল্প স্তরের চেয়ে ২ ডিগ্রি সেলসিয়াসের অনেক নিচে, সম্ভব হলে ১.৫ ডিগ্রিতে সীমিত রাখার লক্ষ্য।",
-      "সিবিডিআর (সাধারণ কিন্তু পৃথক দায়িত্ব): সব দেশের দায়িত্ব আছে, তবে ঐতিহাসিক নির্গমন ও সক্ষমতা অনুযায়ী দায়িত্ব আলাদা — এই নীতিতে উন্নত দেশগুলো অর্থায়নের দায় নেয়।"
-     ],
-     "sources": [
-      {
-       "name": "UNFCCC — Introduction to Climate Finance",
-       "url": "https://unfccc.int/topics/climate-finance/the-big-picture/introduction-to-climate-finance"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "no": 1,
-      "question": "বাংলাদেশের মাথাপিছু জলবায়ু ঋণ কত?",
-      "options": {
-       "A": "২৬ ডলার",
-       "B": "৬৯ ডলার",
-       "C": "৮০ ডলার",
-       "D": "৯২ ডলার"
-      },
-      "correct": "C",
-      "explanation": "সংবাদে বলা হয়েছে, মাথাপিছু জলবায়ু ঋণ আনুমানিক ৮০ ডলার।"
+      "term": "ইউএনএফসিসিসি",
+      "full_name": "জাতিসংঘ জলবায়ু পরিবর্তন কাঠামো কনভেনশন",
+      "meaning": "১৯৯২ সালে গৃহীত; কপ (কনফারেন্স অব দ্য পার্টিস) এর বার্ষিক সম্মেলন।",
+      "source": "UNFCCC — Introduction to Climate Finance"
      },
      {
-      "no": 2,
-      "question": "২০০২–২০২৩ সালে জ্বালানি খাতে জলবায়ু অর্থায়নের কত শতাংশ ঋণ হিসেবে এসেছে?",
-      "options": {
-       "A": "৫৮ শতাংশ",
-       "B": "৬৯ শতাংশ",
-       "C": "১৮.৮৪ শতাংশ",
-       "D": "৯২ শতাংশ"
-      },
-      "correct": "D",
-      "explanation": "২.৫৪ বিলিয়ন ডলারের ৯২ শতাংশ ঋণ হিসেবে এসেছে।"
+      "term": "প্যারিস চুক্তি (২০১৫)",
+      "meaning": "বৈশ্বিক উষ্ণায়ন প্রাক-শিল্প স্তরের চেয়ে ২ ডিগ্রি সেলসিয়াসের অনেক নিচে, সম্ভব হলে ১.৫ ডিগ্রিতে সীমিত রাখার লক্ষ্য।",
+      "source": "UNFCCC — Introduction to Climate Finance"
      },
      {
-      "no": 3,
-      "question": "প্রশমন (mitigation) অর্থায়ন কী কাজে লাগে?",
-      "options": {
-       "A": "নির্গমন কমাতে",
-       "B": "শুধু বাঁধ বানাতে",
-       "C": "ঋণ শোধ করতে",
-       "D": "খরা মোকাবিলায় শুধু"
-      },
-      "correct": "A",
-      "explanation": "প্রশমন অর্থায়ন গ্রিনহাউস গ্যাস নির্গমন কমানো বা কার্বন শোষণ বাড়ানোর কাজে লাগে।"
-     },
-     {
-      "no": 4,
-      "question": "অভিযোজন অর্থায়ন ২০২২ সাল থেকে ২০২৩ সালে কেমন বদলেছে?",
-      "options": {
-       "A": "২৮ থেকে ২৬ বিলিয়ন ডলারে কমেছে",
-       "B": "২৬ থেকে ২৮ বিলিয়ন ডলারে বেড়েছে",
-       "C": "একই থেকেছে",
-       "D": "শূন্য হয়ে গেছে"
-      },
-      "correct": "A",
-      "explanation": "সংবাদ অনুযায়ী অভিযোজন অর্থায়ন ২৮ বিলিয়ন ডলার থেকে ২৬ বিলিয়ন ডলারে নেমেছে।"
+      "term": "সিবিডিআর",
+      "full_name": "সাধারণ কিন্তু পৃথক দায়িত্ব",
+      "meaning": "সব দেশের দায়িত্ব আছে, তবে ঐতিহাসিক নির্গমন ও সক্ষমতা অনুযায়ী দায়িত্ব আলাদা — এই নীতিতে উন্নত দেশগুলো অর্থায়নের দায় নেয়।",
+      "source": "UNFCCC — Introduction to Climate Finance"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "বাংলাদেশের মাথাপিছু জলবায়ু ঋণ কত?",
+      "options": [
+       "২৬ ডলার",
+       "৬৯ ডলার",
+       "৮০ ডলার",
+       "৯২ ডলার"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদে বলা হয়েছে, মাথাপিছু জলবায়ু ঋণ আনুমানিক ৮০ ডলার।",
+      "no": 1
+     },
+     {
+      "question": "২০০২–২০২৩ সালে জ্বালানি খাতে জলবায়ু অর্থায়নের কত শতাংশ ঋণ হিসেবে এসেছে?",
+      "options": [
+       "৫৮ শতাংশ",
+       "৬৯ শতাংশ",
+       "১৮.৮৪ শতাংশ",
+       "৯২ শতাংশ"
+      ],
+      "correct": 3,
+      "explanation": "২.৫৪ বিলিয়ন ডলারের ৯২ শতাংশ ঋণ হিসেবে এসেছে।",
+      "no": 2
+     },
+     {
+      "question": "প্রশমন (mitigation) অর্থায়ন কী কাজে লাগে?",
+      "options": [
+       "নির্গমন কমাতে",
+       "শুধু বাঁধ বানাতে",
+       "ঋণ শোধ করতে",
+       "খরা মোকাবিলায় শুধু"
+      ],
+      "correct": 0,
+      "explanation": "প্রশমন অর্থায়ন গ্রিনহাউস গ্যাস নির্গমন কমানো বা কার্বন শোষণ বাড়ানোর কাজে লাগে।",
+      "no": 3
+     },
+     {
+      "question": "অভিযোজন অর্থায়ন ২০২২ সাল থেকে ২০২৩ সালে কেমন বদলেছে?",
+      "options": [
+       "২৮ থেকে ২৬ বিলিয়ন ডলারে কমেছে",
+       "২৬ থেকে ২৮ বিলিয়ন ডলারে বেড়েছে",
+       "একই থেকেছে",
+       "শূন্য হয়ে গেছে"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদ অনুযায়ী অভিযোজন অর্থায়ন ২৮ বিলিয়ন ডলার থেকে ২৬ বিলিয়ন ডলারে নেমেছে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "'জলবায়ু ঋণ' ধারণাটি সংক্ষেপে ব্যাখ্যা করো।",
-      "model_outline": [
+      "outline": [
        "সংখ্যা: মাথাপিছু ৮০ ডলার, জ্বালানি খাতে ৯২ শতাংশ ঋণ",
        "যুক্তি: সাহায্য হিসেবে আসা অর্থ ঋণ হলে তা বোঝা হয়ে দাঁড়ায়",
        "সুদহারের বৈষম্য: ১৫–১৮ শতাংশ বনাম ২–৩ শতাংশ"
       ]
      },
-     {
+     "analytical": {
       "question": "জলবায়ু অর্থায়নে ঋণের ভাগ বেশি হলে ঝুঁকিপূর্ণ দেশগুলোর কী ক্ষতি হয়? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "ঋণের বোঝা: সুদসহ শোধ, স্বল্প মেয়াদ (৩–৪ বছর)",
        "অভিযোজন অর্থায়ন কমছে (২৮ থেকে ২৬ বিলিয়ন ডলার)",
        "সমাধান: অনুদান বাড়ানো, ছাড়যুক্ত শর্ত, ক্ষতি ও ক্ষয়ক্ষতি তহবিল"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "climate finance",
-      "bangla_meaning": "জলবায়ু অর্থায়ন; জলবায়ু মোকাবিলায় দেওয়া অর্থ",
+      "meaning_bn": "জলবায়ু অর্থায়ন; জলবায়ু মোকাবিলায় দেওয়া অর্থ",
       "example": "92% of the $2.54 billion in climate finance directed to Bangladesh's energy sector came as loans.",
-      "synonym": "green finance; climate funding",
-      "antonym": "fossil-fuel subsidy"
+      "synonyms": [
+       "green finance",
+       "climate funding"
+      ],
+      "antonyms": [
+       "fossil-fuel subsidy"
+      ]
      },
      {
       "word": "adaptation",
-      "bangla_meaning": "অভিযোজন; পরিবর্তিত অবস্থার সঙ্গে খাপ খাওয়ানো",
+      "meaning_bn": "অভিযোজন; পরিবর্তিত অবস্থার সঙ্গে খাপ খাওয়ানো",
       "example": "International public adaptation finance fell from $28 billion in 2022 to $26 billion in 2023.",
-      "synonym": "adjustment; acclimatisation",
-      "antonym": "maladaptation"
+      "synonyms": [
+       "adjustment",
+       "acclimatisation"
+      ],
+      "antonyms": [
+       "maladaptation"
+      ]
      },
      {
       "word": "mitigation",
-      "bangla_meaning": "প্রশমন; ক্ষতি বা নির্গমন কমানো",
+      "meaning_bn": "প্রশমন; ক্ষতি বা নির্গমন কমানো",
       "example": "Mitigation finance aims to reduce global carbon emissions.",
-      "synonym": "reduction; alleviation",
-      "antonym": "aggravation; increase"
+      "synonyms": [
+       "reduction",
+       "alleviation"
+      ],
+      "antonyms": [
+       "aggravation",
+       "increase"
+      ]
      },
      {
       "word": "vulnerable",
-      "bangla_meaning": "ঝুঁকিপূর্ণ; সহজে ক্ষতিগ্রস্ত হয় এমন",
+      "meaning_bn": "ঝুঁকিপূর্ণ; সহজে ক্ষতিগ্রস্ত হয় এমন",
       "example": "Vulnerable economies borrowed at 15-18% interest against 2-3% for wealthy nations.",
-      "synonym": "exposed; at risk",
-      "antonym": "resilient; protected"
+      "synonyms": [
+       "exposed",
+       "at risk"
+      ],
+      "antonyms": [
+       "resilient",
+       "protected"
+      ]
      },
      {
       "word": "resilience",
-      "bangla_meaning": "সহনশীলতা; ধাক্কা সয়ে ঘুরে দাঁড়ানোর ক্ষমতা",
+      "meaning_bn": "সহনশীলতা; ধাক্কা সয়ে ঘুরে দাঁড়ানোর ক্ষমতা",
       "example": "Building climate resilience is the aim of the RSF facility.",
-      "synonym": "toughness; adaptability",
-      "antonym": "fragility; vulnerability"
+      "synonyms": [
+       "toughness",
+       "adaptability"
+      ],
+      "antonyms": [
+       "fragility",
+       "vulnerability"
+      ]
      }
     ],
     "revision": {
@@ -1965,123 +2190,155 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইউএনএফসিসিসি: ১৯৯২ সালে রিও সম্মেলনে গৃহীত কনভেনশন; কপ তার সিদ্ধান্ত গ্রহণকারী সংস্থা।",
-      "প্যারিস চুক্তি (২০১৫, কপ২১): এনডিসি (জাতীয়ভাবে নির্ধারিত অবদান) — প্রতিটি দেশ নিজের নির্গমন-হ্রাস লক্ষ্য নিজে ঠিক করে, পাঁচ বছর পর পর বাড়ায়।",
-      "জিরো ওয়েস্ট: বর্জ্য কমানো, পুনর্ব্যবহার ও পুনঃব্যবহারের মাধ্যমে ল্যান্ডফিল ও মিথেন নির্গমন কমানো।"
-     ],
-     "sources": [
-      {
-       "name": "Council on Foreign Relations — COP31 in Turkey: What to Expect",
-       "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "no": 1,
-      "question": "৩৫-বাই-৩৫ অঙ্গীকার ২০৩৫ সালের মধ্যে বিদ্যুতের অংশ কত করতে চায়?",
-      "options": {
-       "A": "২৩ শতাংশ",
-       "B": "৩০ শতাংশ",
-       "C": "৩৫ শতাংশ",
-       "D": "৪৮ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "অঙ্গীকার অনুযায়ী বিদ্যুতের অংশ প্রায় ২৩ শতাংশ থেকে ৩৫ শতাংশে উঠবে।"
+      "term": "ইউএনএফসিসিসি",
+      "meaning": "১৯৯২ সালে রিও সম্মেলনে গৃহীত কনভেনশন; কপ তার সিদ্ধান্ত গ্রহণকারী সংস্থা।",
+      "source": "Council on Foreign Relations — COP31 in Turkey: What to Expect"
      },
      {
-      "no": 2,
-      "question": "কপ৩১ নেতাদের শীর্ষ সম্মেলন কবে হয়েছে?",
-      "options": {
-       "A": "৯–১০ নভেম্বর",
-       "B": "১১–১২ নভেম্বর",
-       "C": "১৪–১৫ নভেম্বর",
-       "D": "২০ নভেম্বর"
-      },
-      "correct": "B",
-      "explanation": "সংবাদে বলা হয়েছে, শীর্ষ সম্মেলন ১১–১২ নভেম্বর আন্তালিয়ায় হয়েছে।"
+      "term": "প্যারিস চুক্তি (২০১৫, কপ২১)",
+      "meaning": "এনডিসি (জাতীয়ভাবে নির্ধারিত অবদান) — প্রতিটি দেশ নিজের নির্গমন-হ্রাস লক্ষ্য নিজে ঠিক করে, পাঁচ বছর পর পর বাড়ায়।",
+      "source": "Council on Foreign Relations — COP31 in Turkey: What to Expect"
      },
      {
-      "no": 3,
-      "question": "মিথেন বৈশ্বিক উষ্ণায়নের কতটুকুর জন্য দায়ী?",
-      "options": {
-       "A": "প্রায় ৫ শতাংশ",
-       "B": "প্রায় ১০ শতাংশ",
-       "C": "প্রায় ৩০ শতাংশ",
-       "D": "প্রায় ৮০ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "সিএফআর অনুযায়ী মিথেন বৈশ্বিক উষ্ণায়নের প্রায় ৩০ শতাংশের জন্য দায়ী।"
-     },
-     {
-      "no": 4,
-      "question": "কপ৩১ কোথায় হচ্ছে?",
-      "options": {
-       "A": "গ্লাসগো",
-       "B": "দুবাই",
-       "C": "বেলেম",
-       "D": "আন্তালিয়া, তুরস্ক"
-      },
-      "correct": "D",
-      "explanation": "কপ৩১ আন্তালিয়ায় ৯–২০ নভেম্বর ২০২৬ অনুষ্ঠিত হচ্ছে।"
+      "term": "জিরো ওয়েস্ট",
+      "meaning": "বর্জ্য কমানো, পুনর্ব্যবহার ও পুনঃব্যবহারের মাধ্যমে ল্যান্ডফিল ও মিথেন নির্গমন কমানো।",
+      "source": "Council on Foreign Relations — COP31 in Turkey: What to Expect"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "৩৫-বাই-৩৫ অঙ্গীকার ২০৩৫ সালের মধ্যে বিদ্যুতের অংশ কত করতে চায়?",
+      "options": [
+       "২৩ শতাংশ",
+       "৩০ শতাংশ",
+       "৩৫ শতাংশ",
+       "৪৮ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "অঙ্গীকার অনুযায়ী বিদ্যুতের অংশ প্রায় ২৩ শতাংশ থেকে ৩৫ শতাংশে উঠবে।",
+      "no": 1
+     },
+     {
+      "question": "কপ৩১ নেতাদের শীর্ষ সম্মেলন কবে হয়েছে?",
+      "options": [
+       "৯–১০ নভেম্বর",
+       "১১–১২ নভেম্বর",
+       "১৪–১৫ নভেম্বর",
+       "২০ নভেম্বর"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, শীর্ষ সম্মেলন ১১–১২ নভেম্বর আন্তালিয়ায় হয়েছে।",
+      "no": 2
+     },
+     {
+      "question": "মিথেন বৈশ্বিক উষ্ণায়নের কতটুকুর জন্য দায়ী?",
+      "options": [
+       "প্রায় ৫ শতাংশ",
+       "প্রায় ১০ শতাংশ",
+       "প্রায় ৩০ শতাংশ",
+       "প্রায় ৮০ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "সিএফআর অনুযায়ী মিথেন বৈশ্বিক উষ্ণায়নের প্রায় ৩০ শতাংশের জন্য দায়ী।",
+      "no": 3
+     },
+     {
+      "question": "কপ৩১ কোথায় হচ্ছে?",
+      "options": [
+       "গ্লাসগো",
+       "দুবাই",
+       "বেলেম",
+       "আন্তালিয়া, তুরস্ক"
+      ],
+      "correct": 3,
+      "explanation": "কপ৩১ আন্তালিয়ায় ৯–২০ নভেম্বর ২০২৬ অনুষ্ঠিত হচ্ছে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "৩৫-বাই-৩৫ অঙ্গীকারের মূল সংখ্যাগুলো লেখো।",
-      "model_outline": [
+      "outline": [
        "বিদ্যুতের অংশ ২৩ শতাংশ থেকে ৩৫ শতাংশ (২০৩৫)",
        "মিথেনে ৪৮০ মিলিয়ন ডলারের বেশি প্রতিশ্রুতি",
        "অ্যাক্সিলারেটরে অতিরিক্ত ২৫ মিলিয়ন ডলার"
       ]
      },
-     {
+     "analytical": {
       "question": "'প্রতিশ্রুতি ঘোষণা করলেই হবে না, ফল দিতে হবে' — কপ৩১-এর এই বার্তা বাংলাদেশের জন্য কী অর্থ বহন করে? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "বাংলাদেশের অবস্থান: নির্গমন কম, ক্ষতি বেশি",
        "সুযোগ: জিরো ওয়েস্ট ভিলেজ, লো-মিথেন সিটিজ",
        "ঝুঁকি: প্রতিশ্রুত অর্থ না এলে অভিযোজন আটকে যায়",
        "করণীয়: এনডিসি বাস্তবায়ন ও অর্থায়নের দাবি জোরদার করা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "electrification",
-      "bangla_meaning": "বিদ্যুতায়ন",
+      "meaning_bn": "বিদ্যুতায়ন",
       "example": "One of the prominent initiatives emerging from the summit was the Global 35-by-35 Electrification Pledge, which aims to increase electricity's share of global final energy consumption from approximately 23% to 35% by 2035.",
-      "synonym": "powering; energisation",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "powering",
+       "energisation"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "decarbonisation",
-      "bangla_meaning": "কার্বনমুক্তকরণ; কার্বন নিঃসরণ হ্রাস",
+      "meaning_bn": "কার্বনমুক্তকরণ; কার্বন নিঃসরণ হ্রাস",
       "example": "Electrification alone does not guarantee decarbonisation.",
-      "synonym": "low-carbon transition; emissions reduction",
-      "antonym": "carbonisation; fossil-fuel dependence"
+      "synonyms": [
+       "low-carbon transition",
+       "emissions reduction"
+      ],
+      "antonyms": [
+       "carbonisation",
+       "fossil-fuel dependence"
+      ]
      },
      {
       "word": "methane",
-      "bangla_meaning": "মিথেন (গ্যাস)",
+      "meaning_bn": "মিথেন (গ্যাস)",
       "example": "Methane reduction is especially important because it can deliver relatively rapid climate benefits while improving air quality, agricultural productivity and public health.",
-      "synonym": "natural gas (mainly methane)",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "natural gas (mainly methane)"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "pledge",
-      "bangla_meaning": "অঙ্গীকার; প্রতিশ্রুতি",
+      "meaning_bn": "অঙ্গীকার; প্রতিশ্রুতি",
       "example": "The Global 35-by-35 Electrification Pledge aims to lift electricity's share of global final energy use.",
-      "synonym": "promise; commitment",
-      "antonym": "retraction; denial"
+      "synonyms": [
+       "promise",
+       "commitment"
+      ],
+      "antonyms": [
+       "retraction",
+       "denial"
+      ]
      },
      {
       "word": "emission",
-      "bangla_meaning": "নির্গমন; নিঃসরণ",
+      "meaning_bn": "নির্গমন; নিঃসরণ",
       "example": "The summit aims to cut methane and other non-CO2 emissions.",
-      "synonym": "discharge; release",
-      "antonym": "absorption; capture"
+      "synonyms": [
+       "discharge",
+       "release"
+      ],
+      "antonyms": [
+       "absorption",
+       "capture"
+      ]
      }
     ],
     "revision": {
@@ -2264,122 +2521,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বাংলাদেশ শ্রম আইন, ২০০৬: শ্রমিক অধিকার, মজুরি, কর্মঘণ্টা ও শিল্প সম্পর্কের মূল আইন।",
-      "ন্যূনতম মজুরি বোর্ড: শ্রম মন্ত্রণালয়ের অধীনে গঠিত হয়; শ্রমিক, মালিক, সরকার ও নিরপেক্ষ সদস্য থাকেন।"
-     ],
-     "sources": [
-      {
-       "name": "The Business Standard — RMG factory owners threaten closures under 'no work, no pay' provision",
-       "url": "https://www.tbsnews.net/economy/rmg/rmg-factory-owners-threaten-closures-under-no-work-no-pay-provision-amid-labour-unrest"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "কতটি কারখানা উৎপাদন চালাতে পারছে না বলে বিজিএমইএ জানিয়েছে?",
-      "options": {
-       "A": "৫৫টি",
-       "B": "৯২টি",
-       "C": "১৪৭টি",
-       "D": "১,০০০টি"
-      },
-      "correct": "C",
-      "explanation": "বিজিএমইএ জানিয়েছে, ১৪৭টি কারখানা উৎপাদন চালাতে পারছে না।"
+      "name": "ন্যূনতম মজুরি বোর্ড",
+      "role": "শ্রম মন্ত্রণালয়ের অধীনে গঠিত হয়",
+      "source": "The Business Standard — RMG factory owners threaten closures under 'no work, no pay' provision"
      },
      {
-      "no": 2,
-      "question": "শ্রম আইনের ১৩(১) ধারায় বন্ধ কারখানার শ্রমিকদের কী হয়?",
-      "options": {
-       "A": "মজুরি পান না — 'নো ওয়ার্ক, নো পে'",
-       "B": "দ্বিগুণ মজুরি পান",
-       "C": "সরকার মজুরি দেয়",
-       "D": "অন্য কারখানায় বদলি হন"
-      },
-      "correct": "A",
-      "explanation": "১৩(১) ধারায় বন্ধের সময় ধর্মঘটে অংশ নেওয়া শ্রমিক মজুরি পান না।"
-     },
-     {
-      "no": 3,
-      "question": "মজুরি বোর্ড কবে গঠিত হয়?",
-      "options": {
-       "A": "১ অক্টোবর ২০২৬",
-       "B": "১ নভেম্বর ২০২৬",
-       "C": "৯ নভেম্বর ২০২৬",
-       "D": "১৪ নভেম্বর ২০২৬"
-      },
-      "correct": "B",
-      "explanation": "সংবাদে বলা হয়েছে, মজুরি বোর্ড ১ নভেম্বর গঠিত হয়েছে।"
-     },
-     {
-      "no": 4,
-      "question": "বর্তমান ন্যূনতম মাসিক মজুরি কত?",
-      "options": {
-       "A": "৩০,০০০ টাকা",
-       "B": "৮,০০০ টাকা",
-       "C": "৩২,০০০ টাকা",
-       "D": "১২,৫০০ টাকা"
-      },
-      "correct": "D",
-      "explanation": "শ্রমিকদের বর্তমান ন্যূনতম মজুরি ১২,৫০০ টাকা; ৩০,০০০ টাকা তাদের দাবি।"
+      "name": "শ্রমিক, মালিক, সরকার",
+      "role": "ও নিরপেক্ষ সদস্য থাকেন।",
+      "source": "The Business Standard — RMG factory owners threaten closures under 'no work, no pay' provision"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "বাংলাদেশ শ্রম আইন, ২০০৬",
+      "meaning": "শ্রমিক অধিকার, মজুরি, কর্মঘণ্টা ও শিল্প সম্পর্কের মূল আইন।",
+      "source": "The Business Standard — RMG factory owners threaten closures under 'no work, no pay' provision"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "কতটি কারখানা উৎপাদন চালাতে পারছে না বলে বিজিএমইএ জানিয়েছে?",
+      "options": [
+       "৫৫টি",
+       "৯২টি",
+       "১৪৭টি",
+       "১,০০০টি"
+      ],
+      "correct": 2,
+      "explanation": "বিজিএমইএ জানিয়েছে, ১৪৭টি কারখানা উৎপাদন চালাতে পারছে না।",
+      "no": 1
+     },
+     {
+      "question": "শ্রম আইনের ১৩(১) ধারায় বন্ধ কারখানার শ্রমিকদের কী হয়?",
+      "options": [
+       "মজুরি পান না — 'নো ওয়ার্ক, নো পে'",
+       "দ্বিগুণ মজুরি পান",
+       "সরকার মজুরি দেয়",
+       "অন্য কারখানায় বদলি হন"
+      ],
+      "correct": 0,
+      "explanation": "১৩(১) ধারায় বন্ধের সময় ধর্মঘটে অংশ নেওয়া শ্রমিক মজুরি পান না।",
+      "no": 2
+     },
+     {
+      "question": "মজুরি বোর্ড কবে গঠিত হয়?",
+      "options": [
+       "১ অক্টোবর ২০২৬",
+       "১ নভেম্বর ২০২৬",
+       "৯ নভেম্বর ২০২৬",
+       "১৪ নভেম্বর ২০২৬"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, মজুরি বোর্ড ১ নভেম্বর গঠিত হয়েছে।",
+      "no": 3
+     },
+     {
+      "question": "বর্তমান ন্যূনতম মাসিক মজুরি কত?",
+      "options": [
+       "৩০,০০০ টাকা",
+       "৮,০০০ টাকা",
+       "৩২,০০০ টাকা",
+       "১২,৫০০ টাকা"
+      ],
+      "correct": 3,
+      "explanation": "শ্রমিকদের বর্তমান ন্যূনতম মজুরি ১২,৫০০ টাকা; ৩০,০০০ টাকা তাদের দাবি।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "১৩(১) ধারা কী? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "ধারা: বেআইনি ধর্মঘটে মালিক কারখানা বন্ধ করতে পারেন",
        "ফল: অংশগ্রহণকারী শ্রমিক মজুরি পান না",
        "সংখ্যা: ৫৫টি বন্ধ, ৯২টি ছুটি, মোট ১৪৭টি"
       ]
      },
-     {
+     "analytical": {
       "question": "মজুরি বোর্ড চলাকালেও অস্থিরতা কেন থামছে না? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "দাবি বনাম প্রস্তাব: ৩০,০০০ টাকা বনাম মালিকপক্ষের প্রস্তাব এখনো আসেনি",
        "আস্থার ঘাটতি: আগের মজুরি ও মূল্যস্ফীতির ব্যবধান",
        "অর্থনৈতিক ঝুঁকি: রপ্তানি আয়ের ৮০ শতাংশের বেশি এই খাত থেকে",
        "সমাধান: দ্রুত, যৌক্তিক ঘোষণা ও আইনশৃঙ্খলা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "vandalism",
-      "bangla_meaning": "ভাঙচুর; ধ্বংসাত্মক কর্মকাণ্ড",
+      "meaning_bn": "ভাঙচুর; ধ্বংসাত্মক কর্মকাণ্ড",
       "example": "Conveying the opinions of the participating members, Mahmud Hasan Khan said that continuing discussions at the wage board becomes questionable if factory vandalism and road blockades persist simultaneously.",
-      "synonym": "destruction; sabotage",
-      "antonym": "preservation; protection"
+      "synonyms": [
+       "destruction",
+       "sabotage"
+      ],
+      "antonyms": [
+       "preservation",
+       "protection"
+      ]
      },
      {
       "word": "wage",
-      "bangla_meaning": "মজুরি; শ্রমের বিনিময়ে পাওয়া টাকা",
+      "meaning_bn": "মজুরি; শ্রমের বিনিময়ে পাওয়া টাকা",
       "example": "Workers are demanding a minimum monthly wage of Tk30,000.",
-      "synonym": "pay; salary; earnings",
-      "antonym": "unpaid labour"
+      "synonyms": [
+       "pay",
+       "salary",
+       "earnings"
+      ],
+      "antonyms": [
+       "unpaid labour"
+      ]
      },
      {
       "word": "strike",
-      "bangla_meaning": "ধর্মঘট; কাজ বন্ধ করে প্রতিবাদ",
+      "meaning_bn": "ধর্মঘট; কাজ বন্ধ করে প্রতিবাদ",
       "example": "Under Section 13(1), employers may close a factory in the event of an illegal strike.",
-      "synonym": "walkout; stoppage",
-      "antonym": "work; resumption"
+      "synonyms": [
+       "walkout",
+       "stoppage"
+      ],
+      "antonyms": [
+       "work",
+       "resumption"
+      ]
      },
      {
       "word": "negotiation",
-      "bangla_meaning": "আলোচনা; দর কষাকষি",
+      "meaning_bn": "আলোচনা; দর কষাকষি",
       "example": "The wage board is the forum for negotiation between workers and owners.",
-      "synonym": "bargaining; discussion",
-      "antonym": "deadlock; refusal"
+      "synonyms": [
+       "bargaining",
+       "discussion"
+      ],
+      "antonyms": [
+       "deadlock",
+       "refusal"
+      ]
      },
      {
       "word": "factory",
-      "bangla_meaning": "কারখানা; উৎপাদন প্রতিষ্ঠান",
+      "meaning_bn": "কারখানা; উৎপাদন প্রতিষ্ঠান",
       "example": "147 factories in Savar-Ashulia and Gazipur cannot keep production running.",
-      "synonym": "plant; mill; workshop",
-      "antonym": "office (বিপরীত অর্থে নয়)"
+      "synonyms": [
+       "plant",
+       "mill",
+       "workshop"
+      ],
+      "antonyms": [
+       "office (বিপরীত অর্থে নয়)"
+      ]
      }
     ],
     "revision": {
@@ -2564,123 +2858,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "সংবিধানের ৪৭(৩) ও ৪৭ক: পরীক্ষায় সবচেয়ে বেশি আসা দুটি অনুচ্ছেদ — ১৯৭৩ সালের প্রথম সংশোধনীতে যোগ হয়।",
-      "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল: প্রথম ট্রাইব্যুনাল (আইসিটি-১) গঠিত হয় ২০১০ সালের ২৫ মার্চ; প্রথম রায় ২০১৩ সালের জানুয়ারিতে।",
-      "ভারত-বাংলাদেশ সম্পর্ক: প্রত্যর্পণ চুক্তি ছাড়াও স্থল সীমান্ত চুক্তি (২০১৫), গঙ্গা পানি চুক্তি (১৯৯৬) পরীক্ষার নিয়মিত বিষয়।"
-     ],
-     "sources": [
-      {
-       "name": "K. Sellars — International Crimes Tribunals, Bangladesh (CUHK Law)",
-       "url": "https://www.law.cuhk.edu.hk/userfiles/people/kirstensellars/K_Sellars_Bangladesh_tribunals_201016.pdf"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তি কবে স্বাক্ষরিত হয়?",
-      "options": {
-       "A": "১৯৭৩ সালে",
-       "B": "২০১০ সালে",
-       "C": "২০১৩ সালে",
-       "D": "২০১৬ সালে"
-      },
-      "correct": "C",
-      "explanation": "চুক্তি স্বাক্ষরিত হয় ২০১৩ সালে; ২০১৬ সালে সংশোধন করা হয়।"
-     },
-     {
-      "no": 2,
-      "question": "কোন অনুচ্ছেদে মানবতাবিরোধী অপরাধে অভিযুক্তদের মৌলিক অধিকারের দাবি বন্ধ করা হয়েছে?",
-      "options": {
-       "A": "অনুচ্ছেদ ১৫",
-       "B": "অনুচ্ছেদ ৪৭(৩)",
-       "C": "অনুচ্ছেদ ৭০",
-       "D": "অনুচ্ছেদ ১০২"
-      },
-      "correct": "B",
-      "explanation": "আইনমন্ত্রী ৪৭(৩) অনুচ্ছেদ ও ১৯৭৩ সালের সংশোধনীর কথা বলেন।"
-     },
-     {
-      "no": 3,
-      "question": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন কবে পাস হয়?",
-      "options": {
-       "A": "২০ জুলাই ১৯৭৩",
-       "B": "১৫ জুলাই ১৯৭৩",
-       "C": "২৫ মার্চ ২০১০",
-       "D": "৫ আগস্ট ২০২৪"
-      },
-      "correct": "A",
-      "explanation": "আইনটি পাস হয় ১৯৭৩ সালের ২০ জুলাই।"
-     },
-     {
-      "no": 4,
-      "question": "হাসিনা ভারতে যান কবে?",
-      "options": {
-       "A": "৫ আগস্ট ২০২৪",
-       "B": "১৭ নভেম্বর ২০২৫",
-       "C": "১৪ নভেম্বর ২০২৬",
-       "D": "১২ জুলাই ২০২৬"
-      },
-      "correct": "A",
-      "explanation": "সংবাদে বলা হয়েছে, হাসিনা ৫ আগস্ট ২০২৪ ভারতে যান।"
+      "name": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল",
+      "role": "প্রথম ট্রাইব্যুনাল (আইসিটি-১) গঠিত হয় ২০১০ সালের ২৫ মার্চ; প্রথম রায় ২০১৩ সালের জানুয়ারিতে।",
+      "source": "K. Sellars — International Crimes Tribunals, Bangladesh (CUHK Law)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "সংবিধানের ৪৭(৩) ও ৪৭ক",
+      "meaning": "পরীক্ষায় সবচেয়ে বেশি আসা দুটি অনুচ্ছেদ — ১৯৭৩ সালের প্রথম সংশোধনীতে যোগ হয়।",
+      "source": "K. Sellars — International Crimes Tribunals, Bangladesh (CUHK Law)"
+     },
+     {
+      "term": "ভারত-বাংলাদেশ সম্পর্ক",
+      "meaning": "প্রত্যর্পণ চুক্তি ছাড়াও স্থল সীমান্ত চুক্তি (২০১৫), গঙ্গা পানি চুক্তি (১৯৯৬) পরীক্ষার নিয়মিত বিষয়।",
+      "source": "K. Sellars — International Crimes Tribunals, Bangladesh (CUHK Law)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তি কবে স্বাক্ষরিত হয়?",
+      "options": [
+       "১৯৭৩ সালে",
+       "২০১০ সালে",
+       "২০১৩ সালে",
+       "২০১৬ সালে"
+      ],
+      "correct": 2,
+      "explanation": "চুক্তি স্বাক্ষরিত হয় ২০১৩ সালে; ২০১৬ সালে সংশোধন করা হয়।",
+      "no": 1
+     },
+     {
+      "question": "কোন অনুচ্ছেদে মানবতাবিরোধী অপরাধে অভিযুক্তদের মৌলিক অধিকারের দাবি বন্ধ করা হয়েছে?",
+      "options": [
+       "অনুচ্ছেদ ১৫",
+       "অনুচ্ছেদ ৪৭(৩)",
+       "অনুচ্ছেদ ৭০",
+       "অনুচ্ছেদ ১০২"
+      ],
+      "correct": 1,
+      "explanation": "আইনমন্ত্রী ৪৭(৩) অনুচ্ছেদ ও ১৯৭৩ সালের সংশোধনীর কথা বলেন।",
+      "no": 2
+     },
+     {
+      "question": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন কবে পাস হয়?",
+      "options": [
+       "২০ জুলাই ১৯৭৩",
+       "১৫ জুলাই ১৯৭৩",
+       "২৫ মার্চ ২০১০",
+       "৫ আগস্ট ২০২৪"
+      ],
+      "correct": 0,
+      "explanation": "আইনটি পাস হয় ১৯৭৩ সালের ২০ জুলাই।",
+      "no": 3
+     },
+     {
+      "question": "হাসিনা ভারতে যান কবে?",
+      "options": [
+       "৫ আগস্ট ২০২৪",
+       "১৭ নভেম্বর ২০২৫",
+       "১৪ নভেম্বর ২০২৬",
+       "১২ জুলাই ২০২৬"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদে বলা হয়েছে, হাসিনা ৫ আগস্ট ২০২৪ ভারতে যান।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "প্রত্যর্পণ চুক্তি কী? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "সংজ্ঞা: চুক্তির আওতায় অভিযুক্ত/দণ্ডিতকে ফেরত পাঠানো",
        "চুক্তি: ২০১৩ সালে, সংশোধন ২০১৬ সালে",
        "এই মামলা: ঢাকার অনুরোধ, নয়াদিল্লির জবাব এখনো আসেনি"
       ]
      },
-     {
+     "analytical": {
       "question": "সংবিধানের ৪৭(৩) অনুচ্ছেদ কেন এই মামলায় গুরুত্বপূর্ণ? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "বিধান: মানবতাবিরোধী অপরাধে মৌলিক অধিকারের দাবি বন্ধ",
        "ইতিহাস: ১৯৭৩ সালের প্রথম সংশোধনী",
        "প্রভাব: আপিলে বিলম্ব মাফের সুযোগ নেই বলে মন্ত্রীর মত",
        "বিতর্ক: ন্যায়বিচারের অধিকার বনাম বিশেষ আইনের যুক্তি"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "condone",
-      "bangla_meaning": "ক্ষমা করা; (অপরাধ) উপেক্ষা করা; মেনে নেওয়া",
+      "meaning_bn": "ক্ষমা করা; (অপরাধ) উপেক্ষা করা; মেনে নেওয়া",
       "example": "The Appellate Division has no legal provision to condone delays in such cases because the special law does not allow it.",
-      "synonym": "overlook; excuse; tolerate",
-      "antonym": "condemn; punish; censure"
+      "synonyms": [
+       "overlook",
+       "excuse",
+       "tolerate"
+      ],
+      "antonyms": [
+       "condemn",
+       "punish",
+       "censure"
+      ]
      },
      {
       "word": "tribunal",
-      "bangla_meaning": "ট্রাইব্যুনাল; বিশেষ আদালত",
+      "meaning_bn": "ট্রাইব্যুনাল; বিশেষ আদালত",
       "example": "The International Crimes Tribunal sentenced her to death in a crimes against humanity case in November 2025.",
-      "synonym": "court; judiciary; bench",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "court",
+       "judiciary",
+       "bench"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "extradition",
-      "bangla_meaning": "প্রত্যর্পণ; অভিযুক্তকে ফেরত পাঠানো",
+      "meaning_bn": "প্রত্যর্পণ; অভিযুক্তকে ফেরত পাঠানো",
       "example": "Bangladesh has formally sought her extradition, but New Delhi has not responded.",
-      "synonym": "surrender; handover",
-      "antonym": "asylum; refuge"
+      "synonyms": [
+       "surrender",
+       "handover"
+      ],
+      "antonyms": [
+       "asylum",
+       "refuge"
+      ]
      },
      {
       "word": "appeal",
-      "bangla_meaning": "আপিল; উচ্চ আদালতে রায়ের বিরুদ্ধে আবেদন",
+      "meaning_bn": "আপিল; উচ্চ আদালতে রায়ের বিরুদ্ধে আবেদন",
       "example": "The Appellate Division has no legal provision to condone delays in appeals involving crimes against humanity cases.",
-      "synonym": "challenge; petition",
-      "antonym": "verdict acceptance"
+      "synonyms": [
+       "challenge",
+       "petition"
+      ],
+      "antonyms": [
+       "verdict acceptance"
+      ]
      },
      {
       "word": "conviction",
-      "bangla_meaning": "দণ্ড; দোষী সাব্যস্ত হওয়া",
+      "meaning_bn": "দণ্ড; দোষী সাব্যস্ত হওয়া",
       "example": "The tribunal sentenced Hasina to death in a crimes against humanity case in November 2025.",
-      "synonym": "sentence; guilty verdict",
-      "antonym": "acquittal"
+      "synonyms": [
+       "sentence",
+       "guilty verdict"
+      ],
+      "antonyms": [
+       "acquittal"
+      ]
      }
     ],
     "revision": {
@@ -2858,122 +3188,158 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্যারিস চুক্তি (২০১৫): কপ২১-এ গৃহীত; লক্ষ্য উষ্ণায়ন ২ ডিগ্রির অনেক নিচে, সম্ভব হলে ১.৫ ডিগ্রিতে রাখা।",
-      "সিঙ্গাপুর: দক্ষিণ-পূর্ব এশিয়ার দ্বীপ-রাষ্ট্র; কার্বন বাজারে সক্রিয় — বাংলাদেশের সঙ্গে এই এমওইউ তারই অংশ।",
-      "এনডিসি ৩.০: বাংলাদেশের তৃতীয় প্রজন্মের জাতীয় জলবায়ু লক্ষ্য — কার্বন বাজার থেকে অর্থায়ন এর বাস্তবায়নে সাহায্য করবে।"
-     ],
-     "sources": [
-      {
-       "name": "UNFCCC — Article 6 of the Paris Agreement",
-       "url": "https://unfccc.int/process-and-meetings/the-paris-agreement/article6?utm_source=chatgpt.com"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "বাংলাদেশ-সিঙ্গাপুর এমওইউ প্যারিস চুক্তির কোন অনুচ্ছেদের আওতায়?",
-      "options": {
-       "A": "৪ নম্বর",
-       "B": "৬ নম্বর",
-       "C": "৯ নম্বর",
-       "D": "২ নম্বর"
-      },
-      "correct": "B",
-      "explanation": "সংবাদে বলা হয়েছে, সহযোগিতা ৬ নম্বর অনুচ্ছেদের আওতায়।"
-     },
-     {
-      "no": 2,
-      "question": "৬.৪ অনুচ্ছেদে কী আছে?",
-      "options": {
-       "A": "বাজার-বহির্ভূত সহযোগিতা",
-       "B": "শুধু অভিযোজন তহবিল",
-       "C": "শুধু বন সংরক্ষণ",
-       "D": "জাতিসংঘের তত্ত্বাবধানে কার্বন ক্রেডিট ব্যবস্থা"
-      },
-      "correct": "D",
-      "explanation": "৬.৪ অনুচ্ছেদে জাতিসংঘের তত্ত্বাবধানে নতুন ক্রেডিট ব্যবস্থা (পিএসিএম) আছে।"
-     },
-     {
-      "no": 3,
-      "question": "এমওইউ স্বাক্ষর হয় কবে, কোথায়?",
-      "options": {
-       "A": "১৪ নভেম্বর, সিঙ্গাপুর প্যাভিলিয়ন, কপ৩১, আন্তালিয়া",
-       "B": "১২ নভেম্বর, ঢাকা",
-       "C": "১৫ নভেম্বর, কক্সবাজার",
-       "D": "১১ নভেম্বর, জেনেভা"
-      },
-      "correct": "A",
-      "explanation": "সংবাদ অনুযায়ী ১৪ নভেম্বর সিঙ্গাপুর প্যাভিলিয়নে স্বাক্ষর হয়েছে।"
-     },
-     {
-      "no": 4,
-      "question": "আইটিএমও (ITMO) কী?",
-      "options": {
-       "A": "একটি জলবায়ু তহবিল",
-       "B": "আন্তর্জাতিকভাবে হস্তান্তরিত প্রশমন ফল",
-       "C": "একটি কার্বন ট্যাক্স",
-       "D": "একটি বন প্রকল্প"
-      },
-      "correct": "B",
-      "explanation": "৬.২ অনুচ্ছেদে দেশগুলো আইটিএমও — আন্তর্জাতিকভাবে হস্তান্তরিত প্রশমন ফল — বিনিময় করে।"
+      "name": "এনডিসি",
+      "role": "৩.০: বাংলাদেশের তৃতীয় প্রজন্মের জাতীয় জলবায়ু লক্ষ্য — কার্বন বাজার থেকে অর্থায়ন এর বাস্তবায়নে সাহায্য করবে।",
+      "source": "UNFCCC — Article 6 of the Paris Agreement"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "প্যারিস চুক্তি (২০১৫)",
+      "meaning": "কপ২১-এ গৃহীত; লক্ষ্য উষ্ণায়ন ২ ডিগ্রির অনেক নিচে, সম্ভব হলে ১.৫ ডিগ্রিতে রাখা।",
+      "source": "UNFCCC — Article 6 of the Paris Agreement"
+     },
+     {
+      "term": "সিঙ্গাপুর",
+      "meaning": "দক্ষিণ-পূর্ব এশিয়ার দ্বীপ-রাষ্ট্র; কার্বন বাজারে সক্রিয় — বাংলাদেশের সঙ্গে এই এমওইউ তারই অংশ।",
+      "source": "UNFCCC — Article 6 of the Paris Agreement"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "বাংলাদেশ-সিঙ্গাপুর এমওইউ প্যারিস চুক্তির কোন অনুচ্ছেদের আওতায়?",
+      "options": [
+       "৪ নম্বর",
+       "৬ নম্বর",
+       "৯ নম্বর",
+       "২ নম্বর"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, সহযোগিতা ৬ নম্বর অনুচ্ছেদের আওতায়।",
+      "no": 1
+     },
+     {
+      "question": "৬.৪ অনুচ্ছেদে কী আছে?",
+      "options": [
+       "বাজার-বহির্ভূত সহযোগিতা",
+       "শুধু অভিযোজন তহবিল",
+       "শুধু বন সংরক্ষণ",
+       "জাতিসংঘের তত্ত্বাবধানে কার্বন ক্রেডিট ব্যবস্থা"
+      ],
+      "correct": 3,
+      "explanation": "৬.৪ অনুচ্ছেদে জাতিসংঘের তত্ত্বাবধানে নতুন ক্রেডিট ব্যবস্থা (পিএসিএম) আছে।",
+      "no": 2
+     },
+     {
+      "question": "এমওইউ স্বাক্ষর হয় কবে, কোথায়?",
+      "options": [
+       "১৪ নভেম্বর, সিঙ্গাপুর প্যাভিলিয়ন, কপ৩১, আন্তালিয়া",
+       "১২ নভেম্বর, ঢাকা",
+       "১৫ নভেম্বর, কক্সবাজার",
+       "১১ নভেম্বর, জেনেভা"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদ অনুযায়ী ১৪ নভেম্বর সিঙ্গাপুর প্যাভিলিয়নে স্বাক্ষর হয়েছে।",
+      "no": 3
+     },
+     {
+      "question": "আইটিএমও (ITMO) কী?",
+      "options": [
+       "একটি জলবায়ু তহবিল",
+       "আন্তর্জাতিকভাবে হস্তান্তরিত প্রশমন ফল",
+       "একটি কার্বন ট্যাক্স",
+       "একটি বন প্রকল্প"
+      ],
+      "correct": 1,
+      "explanation": "৬.২ অনুচ্ছেদে দেশগুলো আইটিএমও — আন্তর্জাতিকভাবে হস্তান্তরিত প্রশমন ফল — বিনিময় করে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "কার্বন বাজার থেকে বাংলাদেশ কীভাবে লাভবান হতে পারে? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "নির্গমন কমিয়ে ক্রেডিট বিক্রি করে অর্থায়ন",
        "এনডিসি ৩.০ বাস্তবায়নে সহায়তা",
        "প্রযুক্তি হস্তান্তর ও বেসরকারি বিনিয়োগ"
       ]
      },
-     {
+     "analytical": {
       "question": "প্যারিস চুক্তির ৬ নম্বর অনুচ্ছেদের তিনটি অংশ ব্যাখ্যা করো ও ডাবল কাউন্টিংয়ের ঝুঁকি বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "৬.২: দ্বিপক্ষীয় আইটিএমও বিনিময়; ৬.৪: জাতিসংঘের ক্রেডিট ব্যবস্থা; ৬.৮: বাজার-বহির্ভূত সহযোগিতা",
        "ঝুঁকি: একই হ্রাস দুই দেশ গুনলে বৈশ্বিক হিসাব ভুল হয়",
        "সমাধান: করেসপন্ডিং অ্যাডজাস্টমেন্ট ও স্বচ্ছ প্রতিবেদন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "transparent",
-      "bangla_meaning": "স্বচ্ছ; প্রকাশ্য",
+      "meaning_bn": "স্বচ্ছ; প্রকাশ্য",
       "example": "The cooperation would help unlock new opportunities for carbon finance, develop high-quality and transparent carbon markets, and advance the implementation of Bangladesh's NDC 3.0.",
-      "synonym": "open; clear; accountable",
-      "antonym": "opaque; secretive"
+      "synonyms": [
+       "open",
+       "clear",
+       "accountable"
+      ],
+      "antonyms": [
+       "opaque",
+       "secretive"
+      ]
      },
      {
       "word": "carbon",
-      "bangla_meaning": "কার্বন; কয়লা-জাতীয় মৌল",
+      "meaning_bn": "কার্বন; কয়লা-জাতীয় মৌল",
       "example": "The MoU covers cooperation in international carbon markets.",
-      "synonym": "carbon dioxide (যৌগ হিসেবে)",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "carbon dioxide (যৌগ হিসেবে)"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "credit",
-      "bangla_meaning": "ক্রেডিট; নির্গমন কমানোর সনদ; ধারে পাওয়া সুবিধা",
+      "meaning_bn": "ক্রেডিট; নির্গমন কমানোর সনদ; ধারে পাওয়া সুবিধা",
       "example": "The two countries will exchange knowledge on carbon credits.",
-      "synonym": "certificate; allowance",
-      "antonym": "debit; debt"
+      "synonyms": [
+       "certificate",
+       "allowance"
+      ],
+      "antonyms": [
+       "debit",
+       "debt"
+      ]
      },
      {
       "word": "emission",
-      "bangla_meaning": "নির্গমন; নিঃসরণ",
+      "meaning_bn": "নির্গমন; নিঃসরণ",
       "example": "The countries will explore cooperation in greenhouse gas emission reduction projects.",
-      "synonym": "discharge; release",
-      "antonym": "absorption; capture"
+      "synonyms": [
+       "discharge",
+       "release"
+      ],
+      "antonyms": [
+       "absorption",
+       "capture"
+      ]
      },
      {
       "word": "agreement",
-      "bangla_meaning": "চুক্তি; সমঝোতা",
+      "meaning_bn": "চুক্তি; সমঝোতা",
       "example": "Bangladesh and Singapore have signed a memorandum of understanding.",
-      "synonym": "treaty; accord; pact",
-      "antonym": "disagreement; dispute"
+      "synonyms": [
+       "treaty",
+       "accord",
+       "pact"
+      ],
+      "antonyms": [
+       "disagreement",
+       "dispute"
+      ]
      }
     ],
     "revision": {
@@ -3136,122 +3502,163 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বিদ্যুৎ বিভাগ: বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়ের অধীন; বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড (বিপিডিবি) বিদ্যুৎ কেনে ও বিতরণ কোম্পানিকে দেয়।",
-      "আদানি: ভারতের বেসরকারি গোষ্ঠী; গোড্ডা বিদ্যুৎকেন্দ্র থেকে বাংলাদেশে বিদ্যুৎ সরবরাহ করে।",
-      "পরীক্ষার সূত্র: গ্যারান্টি = সরকারের নিশ্চয়তা; বাতিল = ক্রেডিট রেটিংয়ে আঘাত; বিকল্প = দর নিয়ে আলোচনা।"
-     ],
-     "sources": [
-      {
-       "name": "Hunton Andrews Kurth — Why Governments May Prefer Put & Call Options Over Sovereign Guarantees",
-       "url": "https://www.hunton.com/printpilot-legal-why-emerging-market-governments-may-prefer-put-and-call-option-agreements-over-sovereign-guarantees.pdf?1750971390"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "সার্বভৌম গ্যারান্টি কী?",
-      "options": {
-       "A": "সরকারের দেওয়া নিশ্চয়তা যে ক্রেতা না দিতে পারলে সরকার দেবে",
-       "B": "একটি কর ছাড়",
-       "C": "একটি ভর্তুকি",
-       "D": "একটি বাণিজ্য চুক্তি"
-      },
-      "correct": "A",
-      "explanation": "গ্যারান্টি হলো সরকারের নিশ্চয়তা — ক্রেতা সংস্থা দায় মেটাতে না পারলে সরকার মেটাবে।"
+      "name": "বিদ্যুৎ বিভাগ",
+      "role": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়ের অধীন",
+      "source": "Hunton Andrews Kurth — Why Governments May Prefer Put & Call Options Over Sovereign Guarantees"
      },
      {
-      "no": 2,
-      "question": "মন্ত্রীর মতে গ্যারান্টি বাতিল করলে কী হবে?",
-      "options": {
-       "A": "বিদ্যুৎ ঘাটতি এক রাতে শেষ হবে",
-       "B": "ক্রেডিট রেটিং ক্ষতিগ্রস্ত হবে ও আস্থা কমবে",
-       "C": "বিদ্যুতের দাম সঙ্গে সঙ্গে কমবে",
-       "D": "আদানির সঙ্গে আলোচনা বন্ধ হবে"
-      },
-      "correct": "B",
-      "explanation": "মন্ত্রী বলেন, বাতিল করলে ক্রেডিট রেটিং ক্ষতিগ্রস্ত হবে ও মানুষ আস্থা হারাবে।"
-     },
-     {
-      "no": 3,
-      "question": "গ্যারান্টি হিসাবের ভাষায় কী ধরনের দায়?",
-      "options": {
-       "A": "সম্ভাব্য দায় (কন্টিনজেন্ট লায়াবিলিটি)",
-       "B": "সরাসরি ঋণ",
-       "C": "সম্পদ",
-       "D": "রাজস্ব"
-      },
-      "correct": "A",
-      "explanation": "গ্যারান্টি সম্ভাব্য দায় — ডাকা না হলে সরাসরি ঋণ হিসেবে ওঠে না।"
-     },
-     {
-      "no": 4,
-      "question": "মন্ত্রী কোথায় বক্তব্য দেন?",
-      "options": {
-       "A": "জাতীয় সংসদে",
-       "B": "পঞ্চম বাংলাদেশ অর্থনৈতিক শীর্ষ সম্মেলনে",
-       "C": "কপ৩১-এ",
-       "D": "ঋণ সম্মেলনে"
-      },
-      "correct": "B",
-      "explanation": "তিনি পঞ্চম বাংলাদেশ অর্থনৈতিক শীর্ষ সম্মেলন ২০২৬-এ বক্তব্য দেন।"
+      "name": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড (বিপিডিবি)",
+      "role": "বিদ্যুৎ কেনে ও বিতরণ কোম্পানিকে দেয়।",
+      "source": "Hunton Andrews Kurth — Why Governments May Prefer Put & Call Options Over Sovereign Guarantees"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "আদানি",
+      "meaning": "ভারতের বেসরকারি গোষ্ঠী; গোড্ডা বিদ্যুৎকেন্দ্র থেকে বাংলাদেশে বিদ্যুৎ সরবরাহ করে।",
+      "source": "Hunton Andrews Kurth — Why Governments May Prefer Put & Call Options Over Sovereign Guarantees"
+     },
+     {
+      "term": "পরীক্ষার সূত্র: গ্যারান্টি",
+      "meaning": "সরকারের নিশ্চয়তা; বাতিল = ক্রেডিট রেটিংয়ে আঘাত; বিকল্প = দর নিয়ে আলোচনা।",
+      "source": "Hunton Andrews Kurth — Why Governments May Prefer Put & Call Options Over Sovereign Guarantees"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "সার্বভৌম গ্যারান্টি কী?",
+      "options": [
+       "সরকারের দেওয়া নিশ্চয়তা যে ক্রেতা না দিতে পারলে সরকার দেবে",
+       "একটি কর ছাড়",
+       "একটি ভর্তুকি",
+       "একটি বাণিজ্য চুক্তি"
+      ],
+      "correct": 0,
+      "explanation": "গ্যারান্টি হলো সরকারের নিশ্চয়তা — ক্রেতা সংস্থা দায় মেটাতে না পারলে সরকার মেটাবে।",
+      "no": 1
+     },
+     {
+      "question": "মন্ত্রীর মতে গ্যারান্টি বাতিল করলে কী হবে?",
+      "options": [
+       "বিদ্যুৎ ঘাটতি এক রাতে শেষ হবে",
+       "ক্রেডিট রেটিং ক্ষতিগ্রস্ত হবে ও আস্থা কমবে",
+       "বিদ্যুতের দাম সঙ্গে সঙ্গে কমবে",
+       "আদানির সঙ্গে আলোচনা বন্ধ হবে"
+      ],
+      "correct": 1,
+      "explanation": "মন্ত্রী বলেন, বাতিল করলে ক্রেডিট রেটিং ক্ষতিগ্রস্ত হবে ও মানুষ আস্থা হারাবে।",
+      "no": 2
+     },
+     {
+      "question": "গ্যারান্টি হিসাবের ভাষায় কী ধরনের দায়?",
+      "options": [
+       "সম্ভাব্য দায় (কন্টিনজেন্ট লায়াবিলিটি)",
+       "সরাসরি ঋণ",
+       "সম্পদ",
+       "রাজস্ব"
+      ],
+      "correct": 0,
+      "explanation": "গ্যারান্টি সম্ভাব্য দায় — ডাকা না হলে সরাসরি ঋণ হিসেবে ওঠে না।",
+      "no": 3
+     },
+     {
+      "question": "মন্ত্রী কোথায় বক্তব্য দেন?",
+      "options": [
+       "জাতীয় সংসদে",
+       "পঞ্চম বাংলাদেশ অর্থনৈতিক শীর্ষ সম্মেলনে",
+       "কপ৩১-এ",
+       "ঋণ সম্মেলনে"
+      ],
+      "correct": 1,
+      "explanation": "তিনি পঞ্চম বাংলাদেশ অর্থনৈতিক শীর্ষ সম্মেলন ২০২৬-এ বক্তব্য দেন।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "সার্বভৌম গ্যারান্টি বলতে কী বোঝায়? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "সংজ্ঞা: সরকারের নিশ্চয়তা",
        "কাজ: ঋণদাতার আস্থা বাড়ায়, বিদ্যুৎকেন্দ্রে বিনিয়োগ আসে",
        "ঝুঁকি: সম্ভাব্য দায়, রেটিংয়ে প্রভাব"
       ]
      },
-     {
+     "analytical": {
       "question": "পুরোনো বিদ্যুৎ চুক্তি পর্যালোচনার সীমা ও সুযোগ বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "সীমা: গ্যারান্টি একতরফা বাতিল করা যায় না; সরবরাহ বিঘ্নের ঝুঁকি",
        "সুযোগ: দর নিয়ে আলোচনা, জ্বালানি খরচের যাচাই",
        "দীর্ঘমেয়াদি করণীয়: নবায়নযোগ্য জ্বালানি, প্রতিযোগিতামূলক দরপত্র"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "guarantee",
-      "bangla_meaning": "গ্যারান্টি; নিশ্চয়তা; জামিন",
+      "meaning_bn": "গ্যারান্টি; নিশ্চয়তা; জামিন",
       "example": "Once a sovereign guarantee is issued to a country or company, negotiations are possible, but it cannot simply be withdrawn.",
-      "synonym": "assurance; pledge; warranty",
-      "antonym": "uncertainty; denial"
+      "synonyms": [
+       "assurance",
+       "pledge",
+       "warranty"
+      ],
+      "antonyms": [
+       "uncertainty",
+       "denial"
+      ]
      },
      {
       "word": "negotiation",
-      "bangla_meaning": "আলোচনা; দর কষাকষি",
+      "meaning_bn": "আলোচনা; দর কষাকষি",
       "example": "The government has held discussions with Adani and other Indian power suppliers.",
-      "synonym": "bargaining; discussion",
-      "antonym": "deadlock; refusal"
+      "synonyms": [
+       "bargaining",
+       "discussion"
+      ],
+      "antonyms": [
+       "deadlock",
+       "refusal"
+      ]
      },
      {
       "word": "shortage",
-      "bangla_meaning": "ঘাটতি; অভাব",
+      "meaning_bn": "ঘাটতি; অভাব",
       "example": "The government is negotiating to reduce electricity prices amid a power shortage.",
-      "synonym": "scarcity; deficit",
-      "antonym": "surplus; abundance"
+      "synonyms": [
+       "scarcity",
+       "deficit"
+      ],
+      "antonyms": [
+       "surplus",
+       "abundance"
+      ]
      },
      {
       "word": "confidence",
-      "bangla_meaning": "আস্থা; বিশ্বাস",
+      "meaning_bn": "আস্থা; বিশ্বাস",
       "example": "Withdrawing a guarantee would affect Bangladesh's credit rating and people would lose confidence.",
-      "synonym": "trust; faith",
-      "antonym": "distrust; doubt"
+      "synonyms": [
+       "trust",
+       "faith"
+      ],
+      "antonyms": [
+       "distrust",
+       "doubt"
+      ]
      },
      {
       "word": "rating",
-      "bangla_meaning": "রেটিং; মূল্যায়ন",
+      "meaning_bn": "রেটিং; মূল্যায়ন",
       "example": "It could damage Bangladesh's credit rating and undermine international confidence.",
-      "synonym": "grade; assessment",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "grade",
+       "assessment"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      }
     ],
     "revision": {
@@ -3438,123 +3845,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "আইডিইএসএইচআই: ঢাকাভিত্তিক গবেষণা প্রতিষ্ঠান; প্রতিষ্ঠাতা ডা. ফেরদৌসী কাদরী — কলেরা ও টিকা গবেষণায় আন্তর্জাতিক খ্যাতিসম্পন্ন বিজ্ঞানী।",
-      "স্বাস্থ্য অধিদপ্তর (ডিজিএইচএস): স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের অধীন; দেশের সরকারি স্বাস্থ্যসেবা পরিচালনা করে।",
-      "পরীক্ষার সূত্র: ১ লাখ, ৮০ শতাংশ নারী, ৯০ হাজার গ্রাম — তিনটি সংখ্যাই মুখস্থ রাখো।"
-     ],
-     "sources": [
-      {
-       "name": "icddr,b — Community Health Workers: Our Background (WHO definition)",
-       "url": "https://chwsymposium2019.icddrb.org/about_us/background"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "কতজন স্বাস্থ্যকর্মী নিয়োগ দেওয়া হচ্ছে?",
-      "options": {
-       "A": "১ লাখ",
-       "B": "৯০ হাজার",
-       "C": "১২ হাজার",
-       "D": "৩৪ জন"
-      },
-      "correct": "A",
-      "explanation": "সংবাদে বলা হয়েছে, ১ লাখ স্বাস্থ্যকর্মী নিয়োগ দেওয়া হচ্ছে।"
-     },
-     {
-      "no": 2,
-      "question": "কত শতাংশ পদ নারীদের জন্য সংরক্ষিত?",
-      "options": {
-       "A": "২৫ শতাংশ",
-       "B": "৫০ শতাংশ",
-       "C": "৮০ শতাংশ",
-       "D": "৯০ শতাংশ"
-      },
-      "correct": "C",
-      "explanation": "৮০ শতাংশ পদ নারীদের জন্য সংরক্ষিত।"
-     },
-     {
-      "no": 3,
-      "question": "ডব্লিউএইচওর সংজ্ঞায় কমিউনিটি স্বাস্থ্যকর্মী কারা?",
-      "options": {
-       "A": "শুধু ডাক্তার",
-       "B": "নিজের এলাকার বাসিন্দা, এলাকার দ্বারা নির্বাচিত, কম প্রশিক্ষণপ্রাপ্ত",
-       "C": "শুধু বিদেশি স্বেচ্ছাসেবক",
-       "D": "শুধু হাসপাতালের নার্স"
-      },
-      "correct": "B",
-      "explanation": "ডব্লিউএইচওর সংজ্ঞায় সিএইচডব্লিউ নিজের এলাকার বাসিন্দা, এলাকার দ্বারা নির্বাচিত ও কম প্রশিক্ষণপ্রাপ্ত।"
-     },
-     {
-      "no": 4,
-      "question": "আইডিইএসএইচআইয়ের কততম প্রতিষ্ঠাবার্ষিকী পালিত হয়?",
-      "options": {
-       "A": "১০ম",
-       "B": "১৪তম",
-       "C": "২৫তম",
-       "D": "১২তম"
-      },
-      "correct": "D",
-      "explanation": "সংবাদে বলা হয়েছে, ১২তম প্রতিষ্ঠাবার্ষিকীর অনুষ্ঠানে ঘোষণা দেওয়া হয়।"
+      "name": "স্বাস্থ্য অধিদপ্তর (ডিজিএইচএস)",
+      "role": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের অধীন; দেশের সরকারি স্বাস্থ্যসেবা পরিচালনা করে।",
+      "source": "icddr,b — Community Health Workers: Our Background (WHO definition)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "আইডিইএসএইচআই",
+      "meaning": "ঢাকাভিত্তিক গবেষণা প্রতিষ্ঠান; প্রতিষ্ঠাতা ডা. ফেরদৌসী কাদরী — কলেরা ও টিকা গবেষণায় আন্তর্জাতিক খ্যাতিসম্পন্ন বিজ্ঞানী।",
+      "source": "icddr,b — Community Health Workers: Our Background (WHO definition)"
+     },
+     {
+      "term": "পরীক্ষার সূত্র",
+      "meaning": "১ লাখ, ৮০ শতাংশ নারী, ৯০ হাজার গ্রাম — তিনটি সংখ্যাই মুখস্থ রাখো।",
+      "source": "icddr,b — Community Health Workers: Our Background (WHO definition)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "কতজন স্বাস্থ্যকর্মী নিয়োগ দেওয়া হচ্ছে?",
+      "options": [
+       "১ লাখ",
+       "৯০ হাজার",
+       "১২ হাজার",
+       "৩৪ জন"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদে বলা হয়েছে, ১ লাখ স্বাস্থ্যকর্মী নিয়োগ দেওয়া হচ্ছে।",
+      "no": 1
+     },
+     {
+      "question": "কত শতাংশ পদ নারীদের জন্য সংরক্ষিত?",
+      "options": [
+       "২৫ শতাংশ",
+       "৫০ শতাংশ",
+       "৮০ শতাংশ",
+       "৯০ শতাংশ"
+      ],
+      "correct": 2,
+      "explanation": "৮০ শতাংশ পদ নারীদের জন্য সংরক্ষিত।",
+      "no": 2
+     },
+     {
+      "question": "ডব্লিউএইচওর সংজ্ঞায় কমিউনিটি স্বাস্থ্যকর্মী কারা?",
+      "options": [
+       "শুধু ডাক্তার",
+       "নিজের এলাকার বাসিন্দা, এলাকার দ্বারা নির্বাচিত, কম প্রশিক্ষণপ্রাপ্ত",
+       "শুধু বিদেশি স্বেচ্ছাসেবক",
+       "শুধু হাসপাতালের নার্স"
+      ],
+      "correct": 1,
+      "explanation": "ডব্লিউএইচওর সংজ্ঞায় সিএইচডব্লিউ নিজের এলাকার বাসিন্দা, এলাকার দ্বারা নির্বাচিত ও কম প্রশিক্ষণপ্রাপ্ত।",
+      "no": 3
+     },
+     {
+      "question": "আইডিইএসএইচআইয়ের কততম প্রতিষ্ঠাবার্ষিকী পালিত হয়?",
+      "options": [
+       "১০ম",
+       "১৪তম",
+       "২৫তম",
+       "১২তম"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদে বলা হয়েছে, ১২তম প্রতিষ্ঠাবার্ষিকীর অনুষ্ঠানে ঘোষণা দেওয়া হয়।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "প্রতিরোধমূলক স্বাস্থ্যসেবা কেন গুরুত্বপূর্ণ? সংক্ষেপে লেখো।",
-      "model_outline": [
+      "outline": [
        "সংজ্ঞা: রোগ হওয়ার আগে ঠেকানো",
        "সংখ্যা: ১ লাখ কর্মী, ৯০ হাজার গ্রাম",
        "সুবিধা: খরচ কম, গ্রামে সেবা পৌঁছায়, নারীদের কর্মসংস্থান"
       ]
      },
-     {
+     "analytical": {
       "question": "গ্রামীণ স্বাস্থ্যসেবায় কমিউনিটি স্বাস্থ্যকর্মীদের ভূমিকা বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "সিএইচডব্লিউ কী: এলাকার মানুষ, কম প্রশিক্ষণে প্রাথমিক সেবা",
        "বাংলাদেশের অভিজ্ঞতা: প্রায় ১,৩০,০০০ কর্মী গ্রামে কাজ করেন",
        "চ্যালেঞ্জ: প্রশিক্ষণ, পারিশ্রমিক, তদারকি",
        "নতুন উদ্যোগ: ১ লাখ নিয়োগ, ৮০ শতাংশ নারী"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "preventive",
-      "bangla_meaning": "প্রতিরোধমূলক; প্রতিষেধক",
+      "meaning_bn": "প্রতিরোধমূলক; প্রতিষেধক",
       "example": "One lakh health workers are being recruited to expand preventive healthcare services in remote parts of the country, with 80% of the positions reserved for women, said Dr Zubaida Rahman, vice-president of the Ziaur Rahman Foundation.",
-      "synonym": "precautionary; protective",
-      "antonym": "curative; remedial"
+      "synonyms": [
+       "precautionary",
+       "protective"
+      ],
+      "antonyms": [
+       "curative",
+       "remedial"
+      ]
      },
      {
       "word": "village",
-      "bangla_meaning": "গ্রাম; পল্লি",
+      "meaning_bn": "গ্রাম; পল্লি",
       "example": "Millions of women across more than 90,000 villages suffer from diseases that could have been prevented.",
-      "synonym": "rural area; hamlet",
-      "antonym": "city; town"
+      "synonyms": [
+       "rural area",
+       "hamlet"
+      ],
+      "antonyms": [
+       "city",
+       "town"
+      ]
      },
      {
       "word": "disease",
-      "bangla_meaning": "রোগ; অসুখ",
+      "meaning_bn": "রোগ; অসুখ",
       "example": "Years of neglect left millions of women suffering from diseases that could have been prevented.",
-      "synonym": "illness; ailment",
-      "antonym": "health; wellness"
+      "synonyms": [
+       "illness",
+       "ailment"
+      ],
+      "antonyms": [
+       "health",
+       "wellness"
+      ]
      },
      {
       "word": "worker",
-      "bangla_meaning": "কর্মী; শ্রমিক",
+      "meaning_bn": "কর্মী; শ্রমিক",
       "example": "One lakh health workers are being recruited for remote areas.",
-      "synonym": "employee; staff",
-      "antonym": "employer; manager"
+      "synonyms": [
+       "employee",
+       "staff"
+      ],
+      "antonyms": [
+       "employer",
+       "manager"
+      ]
      },
      {
       "word": "healthcare",
-      "bangla_meaning": "স্বাস্থ্যসেবা; চিকিৎসা সেবা",
+      "meaning_bn": "স্বাস্থ্যসেবা; চিকিৎসা সেবা",
       "example": "Preventive healthcare had been insufficiently prioritised, she said.",
-      "synonym": "medical care; health services",
-      "antonym": "illness; disease"
+      "synonyms": [
+       "medical care",
+       "health services"
+      ],
+      "antonyms": [
+       "illness",
+       "disease"
+      ]
      }
     ],
     "revision": {
@@ -3747,123 +4190,156 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বাংলাদেশ ব্যাংকের আর্থিক অন্তর্ভুক্তি বিভাগ: এই ধরনের তহবিলের নীতিমালা জারি করে।",
-      "ক্ষুদ্র ও মাঝারি উদ্যোগ (এসএমই): বাংলাদেশ ব্যাংকের সংজ্ঞায় ক্ষুদ্র উদ্যোগে স্থায়ী সম্পদ ৫০ হাজার থেকে ১.৫ কোটি টাকা বা কর্মী ১৬–১০০ জন।",
-      "পরীক্ষার সূত্র: ১,৫০০ কোটি টাকা; ১ শতাংশ বনাম ৭ শতাংশ; ২৫ শতাংশ নারী; ৫ লাখ জামানতমুক্ত; ১০ লাখ ব্যক্তিগত; ৪০ লাখ দলগত।"
-     ],
-     "sources": [
-      {
-       "name": "Springer — Collateral-free credit and women-led enterprise outcomes (BB refinance scheme history)",
-       "url": "https://link.springer.com/article/10.1007/s44282-026-00617-x"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "no": 1,
-      "question": "পুনঃঅর্থায়ন তহবিল কত টাকায় দ্বিগুণ করা হয়েছে?",
-      "options": {
-       "A": "৭৫০ কোটি টাকা",
-       "B": "১,০০০ কোটি টাকা",
-       "C": "১,৫০০ কোটি টাকা",
-       "D": "৩,০০০ কোটি টাকা"
-      },
-      "correct": "C",
-      "explanation": "সংবাদে বলা হয়েছে, তহবিল দ্বিগুণ হয়ে ১,৫০০ কোটি টাকা হয়েছে।"
-     },
-     {
-      "no": 2,
-      "question": "ব্যাংক কেন্দ্রীয় ব্যাংক থেকে কত সুদে টাকা নেবে?",
-      "options": {
-       "A": "৭ শতাংশ",
-       "B": "২৫ শতাংশ",
-       "C": "৫ শতাংশ",
-       "D": "১ শতাংশ"
-      },
-      "correct": "D",
-      "explanation": "ব্যাংক ১ শতাংশ সুদে নিয়ে সর্বোচ্চ ৭ শতাংশ সুদে ঋণ দেবে।"
-     },
-     {
-      "no": 3,
-      "question": "কত টাকা পর্যন্ত ঋণে জামানত লাগবে না?",
-      "options": {
-       "A": "১ লাখ টাকা",
-       "B": "১০ লাখ টাকা",
-       "C": "৪০ লাখ টাকা",
-       "D": "৫ লাখ টাকা"
-      },
-      "correct": "D",
-      "explanation": "৫ লাখ টাকা পর্যন্ত ঋণে জামানত লাগবে না; ব্যক্তিগত জামিন চলবে।"
-     },
-     {
-      "no": 4,
-      "question": "বিতরণের কত শতাংশ নারীদের দিতে হবে?",
-      "options": {
-       "A": "১০ শতাংশ",
-       "B": "২৫ শতাংশ",
-       "C": "৫০ শতাংশ",
-       "D": "৮০ শতাংশ"
-      },
-      "correct": "B",
-      "explanation": "বিতরণের কমপক্ষে ২৫ শতাংশ নারী ঋণগ্রহীতা ও উদ্যোক্তাদের দিতে হবে।"
+      "name": "বাংলাদেশ ব্যাংকের আর্থিক অন্তর্ভুক্তি বিভাগ",
+      "role": "এই ধরনের তহবিলের নীতিমালা জারি করে।",
+      "source": "Springer — Collateral-free credit and women-led enterprise outcomes (BB refinance scheme history)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "ক্ষুদ্র ও মাঝারি উদ্যোগ (এসএমই)",
+      "meaning": "বাংলাদেশ ব্যাংকের সংজ্ঞায় ক্ষুদ্র উদ্যোগে স্থায়ী সম্পদ ৫০ হাজার থেকে ১.৫ কোটি টাকা বা কর্মী ১৬–১০০ জন।",
+      "source": "Springer — Collateral-free credit and women-led enterprise outcomes (BB refinance scheme history)"
+     },
+     {
+      "term": "পরীক্ষার সূত্র",
+      "meaning": "১,৫০০ কোটি টাকা; ১ শতাংশ বনাম ৭ শতাংশ; ২৫ শতাংশ নারী; ৫ লাখ জামানতমুক্ত; ১০ লাখ ব্যক্তিগত; ৪০ লাখ দলগত।",
+      "source": "Springer — Collateral-free credit and women-led enterprise outcomes (BB refinance scheme history)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "পুনঃঅর্থায়ন তহবিল কত টাকায় দ্বিগুণ করা হয়েছে?",
+      "options": [
+       "৭৫০ কোটি টাকা",
+       "১,০০০ কোটি টাকা",
+       "১,৫০০ কোটি টাকা",
+       "৩,০০০ কোটি টাকা"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদে বলা হয়েছে, তহবিল দ্বিগুণ হয়ে ১,৫০০ কোটি টাকা হয়েছে।",
+      "no": 1
+     },
+     {
+      "question": "ব্যাংক কেন্দ্রীয় ব্যাংক থেকে কত সুদে টাকা নেবে?",
+      "options": [
+       "৭ শতাংশ",
+       "২৫ শতাংশ",
+       "৫ শতাংশ",
+       "১ শতাংশ"
+      ],
+      "correct": 3,
+      "explanation": "ব্যাংক ১ শতাংশ সুদে নিয়ে সর্বোচ্চ ৭ শতাংশ সুদে ঋণ দেবে।",
+      "no": 2
+     },
+     {
+      "question": "কত টাকা পর্যন্ত ঋণে জামানত লাগবে না?",
+      "options": [
+       "১ লাখ টাকা",
+       "১০ লাখ টাকা",
+       "৪০ লাখ টাকা",
+       "৫ লাখ টাকা"
+      ],
+      "correct": 3,
+      "explanation": "৫ লাখ টাকা পর্যন্ত ঋণে জামানত লাগবে না; ব্যক্তিগত জামিন চলবে।",
+      "no": 3
+     },
+     {
+      "question": "বিতরণের কত শতাংশ নারীদের দিতে হবে?",
+      "options": [
+       "১০ শতাংশ",
+       "২৫ শতাংশ",
+       "৫০ শতাংশ",
+       "৮০ শতাংশ"
+      ],
+      "correct": 1,
+      "explanation": "বিতরণের কমপক্ষে ২৫ শতাংশ নারী ঋণগ্রহীতা ও উদ্যোক্তাদের দিতে হবে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "এই তহবিলের মূল সংখ্যাগুলো দিয়ে সংক্ষিপ্ত নোট লেখো।",
-      "model_outline": [
+      "outline": [
        "তহবিল ১,৫০০ কোটি টাকা; ১ শতাংশে নিয়ে ৭ শতাংশে দেওয়া",
        "২৫ শতাংশ নারীদের; ৫ লাখ জামানতমুক্ত",
        "সুবিধাভোগী: প্রান্তিক কৃষক, ছোট উদ্যোক্তা, শিক্ষার্থী"
       ]
      },
-     {
+     "analytical": {
       "question": "জামানতমুক্ত ঋণ কীভাবে আর্থিক অন্তর্ভুক্তি বাড়ায়? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "বাধা: গরিবের বন্ধক দেওয়ার সম্পত্তি নেই",
        "সমাধান: ৫ লাখ টাকা পর্যন্ত ব্যক্তিগত জামিনে ঋণ",
        "নারী কোটা ২৫ শতাংশের ভূমিকা",
        "ঝুঁকি: খেলাপি বাড়লে ব্যাংকের সতর্কতা — তদারকির প্রয়োজন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "refinance",
-      "bangla_meaning": "পুনঃঅর্থায়ন; কম সুদে আবার অর্থ দেওয়া",
+      "meaning_bn": "পুনঃঅর্থায়ন; কম সুদে আবার অর্থ দেওয়া",
       "example": "Bangladesh Bank has doubled its refinancing scheme to Tk1,500 crore.",
-      "synonym": "refunding; re-lending",
-      "antonym": "repayment"
+      "synonyms": [
+       "refunding",
+       "re-lending"
+      ],
+      "antonyms": [
+       "repayment"
+      ]
      },
      {
       "word": "collateral",
-      "bangla_meaning": "জামানত; বন্ধক",
+      "meaning_bn": "জামানত; বন্ধক",
       "example": "Individual borrowers seeking loans of up to Tk5 lakh will not need collateral.",
-      "synonym": "security; guarantee",
-      "antonym": "unsecured promise"
+      "synonyms": [
+       "security",
+       "guarantee"
+      ],
+      "antonyms": [
+       "unsecured promise"
+      ]
      },
      {
       "word": "entrepreneur",
-      "bangla_meaning": "উদ্যোক্তা; নতুন ব্যবসা শুরু করা ব্যক্তি",
+      "meaning_bn": "উদ্যোক্তা; নতুন ব্যবসা শুরু করা ব্যক্তি",
       "example": "At least 25% of disbursements must benefit women borrowers and entrepreneurs.",
-      "synonym": "business founder; innovator",
-      "antonym": "employee; worker"
+      "synonyms": [
+       "business founder",
+       "innovator"
+      ],
+      "antonyms": [
+       "employee",
+       "worker"
+      ]
      },
      {
       "word": "marginal",
-      "bangla_meaning": "প্রান্তিক; সীমান্তবর্তী/সুবিধাবঞ্চিত",
+      "meaning_bn": "প্রান্তিক; সীমান্তবর্তী/সুবিধাবঞ্চিত",
       "example": "The scheme covers landless and marginal farmers.",
-      "synonym": "borderline; disadvantaged",
-      "antonym": "central; privileged"
+      "synonyms": [
+       "borderline",
+       "disadvantaged"
+      ],
+      "antonyms": [
+       "central",
+       "privileged"
+      ]
      },
      {
       "word": "inclusion",
-      "bangla_meaning": "অন্তর্ভুক্তি; সবাইকে যুক্ত করা",
+      "meaning_bn": "অন্তর্ভুক্তি; সবাইকে যুক্ত করা",
       "example": "The scheme aims to expand financial inclusion.",
-      "synonym": "incorporation; participation",
-      "antonym": "exclusion"
+      "synonyms": [
+       "incorporation",
+       "participation"
+      ],
+      "antonyms": [
+       "exclusion"
+      ]
      }
     ],
     "revision": {
@@ -4039,123 +4515,157 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "সালিশ আইন, ২০০১: বাংলাদেশে সালিশের মূল আইন; সালিশকারী নিয়োগ, কার্যক্রম ও রায়ের বিধান দেয়।",
-      "দেওয়ানি কার্যবিধি, ১৯০৮ ও চুক্তি আইন, ১৮৭২: বাণিজ্যিক মামলার ভিত্তি আইন।",
-      "পরীক্ষার সূত্র: আইন ২০২৬ সালের ১০ এপ্রিল; ৯০ দিনে বিচার; ঢাকায় ৩টি, চট্টগ্রামে ২টি আদালত; ১০ দিনে সুপারিশ।"
-     ],
-     "sources": [
-      {
-       "name": "Vertex Chambers — The Commercial Court Act, 2026",
-       "url": "https://www.vertexchambers.com/blawg-list/the-commercial-court-act-2026-a-new-era-of-commercial-dispute-resolution-in-bangladesh/"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "no": 1,
-      "question": "ঢাকায় কতটি ও চট্টগ্রামে কতটি বাণিজ্যিক আদালত হবে?",
-      "options": {
-       "A": "ঢাকায় ২টি, চট্টগ্রামে ৩টি",
-       "B": "ঢাকায় ৩টি, চট্টগ্রামে ২টি",
-       "C": "ঢাকায় ৫টি, চট্টগ্রামে ৫টি",
-       "D": "ঢাকায় ১টি, চট্টগ্রামে ১টি"
-      },
-      "correct": "B",
-      "explanation": "সংবাদে বলা হয়েছে, ঢাকায় তিনটি ও চট্টগ্রামে দুটি আদালত হবে।"
+      "term": "সালিশ আইন, ২০০১",
+      "meaning": "বাংলাদেশে সালিশের মূল আইন; সালিশকারী নিয়োগ, কার্যক্রম ও রায়ের বিধান দেয়।",
+      "source": "Vertex Chambers — The Commercial Court Act, 2026"
      },
      {
-      "no": 2,
-      "question": "বাণিজ্যিক আদালত আইন, ২০২৬ কবে পাস হয়?",
-      "options": {
-       "A": "১০ জানুয়ারি ২০২৬",
-       "B": "১৪ নভেম্বর ২০২৬",
-       "C": "১ জানুয়ারি ২০২৭",
-       "D": "১০ এপ্রিল ২০২৬"
-      },
-      "correct": "D",
-      "explanation": "আইনটি ২০২৬ সালের ১০ এপ্রিল পাস হয়।"
+      "term": "দেওয়ানি কার্যবিধি, ১৯০৮ ও চুক্তি আইন, ১৮৭২",
+      "meaning": "বাণিজ্যিক মামলার ভিত্তি আইন।",
+      "source": "Vertex Chambers — The Commercial Court Act, 2026"
      },
      {
-      "no": 3,
-      "question": "চূড়ান্ত শুনানির তারিখ থেকে কত দিনে বিচার শেষ করার বিধান আছে?",
-      "options": {
-       "A": "৩০ দিন",
-       "B": "৬০ দিন",
-       "C": "৯০ দিন",
-       "D": "১৮০ দিন"
-      },
-      "correct": "C",
-      "explanation": "৯(৬) ধারায় ৯০ দিনের মধ্যে বিচার শেষ করার বিধান আছে।"
-     },
-     {
-      "no": 4,
-      "question": "সালিশ (arbitration) বলতে কী বোঝায়?",
-      "options": {
-       "A": "আদালতের বাইরে নিরপেক্ষ ব্যক্তি/প্যানেলের মাধ্যমে বিরোধ নিষ্পত্তি",
-       "B": "পুলিশের তদন্ত",
-       "C": "সংসদে আইন পাস",
-       "D": "ব্যাংক থেকে ঋণ নেওয়া"
-      },
-      "correct": "A",
-      "explanation": "সালিশ হলো আদালতের বদলে স্বাধীন ব্যক্তি বা প্যানেলের মাধ্যমে বিরোধ মীমাংসা।"
+      "term": "পরীক্ষার সূত্র",
+      "meaning": "আইন ২০২৬ সালের ১০ এপ্রিল; ৯০ দিনে বিচার; ঢাকায় ৩টি, চট্টগ্রামে ২টি আদালত; ১০ দিনে সুপারিশ।",
+      "source": "Vertex Chambers — The Commercial Court Act, 2026"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "ঢাকায় কতটি ও চট্টগ্রামে কতটি বাণিজ্যিক আদালত হবে?",
+      "options": [
+       "ঢাকায় ২টি, চট্টগ্রামে ৩টি",
+       "ঢাকায় ৩টি, চট্টগ্রামে ২টি",
+       "ঢাকায় ৫টি, চট্টগ্রামে ৫টি",
+       "ঢাকায় ১টি, চট্টগ্রামে ১টি"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, ঢাকায় তিনটি ও চট্টগ্রামে দুটি আদালত হবে।",
+      "no": 1
+     },
+     {
+      "question": "বাণিজ্যিক আদালত আইন, ২০২৬ কবে পাস হয়?",
+      "options": [
+       "১০ জানুয়ারি ২০২৬",
+       "১৪ নভেম্বর ২০২৬",
+       "১ জানুয়ারি ২০২৭",
+       "১০ এপ্রিল ২০২৬"
+      ],
+      "correct": 3,
+      "explanation": "আইনটি ২০২৬ সালের ১০ এপ্রিল পাস হয়।",
+      "no": 2
+     },
+     {
+      "question": "চূড়ান্ত শুনানির তারিখ থেকে কত দিনে বিচার শেষ করার বিধান আছে?",
+      "options": [
+       "৩০ দিন",
+       "৬০ দিন",
+       "৯০ দিন",
+       "১৮০ দিন"
+      ],
+      "correct": 2,
+      "explanation": "৯(৬) ধারায় ৯০ দিনের মধ্যে বিচার শেষ করার বিধান আছে।",
+      "no": 3
+     },
+     {
+      "question": "সালিশ (arbitration) বলতে কী বোঝায়?",
+      "options": [
+       "আদালতের বাইরে নিরপেক্ষ ব্যক্তি/প্যানেলের মাধ্যমে বিরোধ নিষ্পত্তি",
+       "পুলিশের তদন্ত",
+       "সংসদে আইন পাস",
+       "ব্যাংক থেকে ঋণ নেওয়া"
+      ],
+      "correct": 0,
+      "explanation": "সালিশ হলো আদালতের বদলে স্বাধীন ব্যক্তি বা প্যানেলের মাধ্যমে বিরোধ মীমাংসা।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বাণিজ্যিক আদালত সংস্কারের মূল সংখ্যাগুলো লেখো।",
-      "model_outline": [
+      "outline": [
        "ঢাকায় ৩টি, চট্টগ্রামে ২টি আদালত",
        "১০ দিনে সুপারিশ; জানুয়ারিতে সংসদে",
        "অনুমোদন ছয় মাস থেকে কয়েক দিনে"
       ]
      },
-     {
+     "analytical": {
       "question": "বিদেশি বিনিয়োগ আকর্ষণে দ্রুত বাণিজ্যিক বিরোধ নিষ্পত্তি কেন জরুরি? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "সমস্যা: সাধারণ আদালতে মামলা বছরের পর বছর ঝুলে",
        "সংস্কার: বিশেষ আদালত, ৯০ দিনের সময়সীমা, মধ্যস্থতা",
        "সীমা: বিচারক সংখ্যা, নিয়ম-কানুন এখনো তৈরি হয়নি",
        "সংশ্লিষ্ট বিষয়: সালিশ আইনের সঙ্গে সমন্বয়"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "arbitration",
-      "bangla_meaning": "সালিশ; মধ্যস্থতা",
+      "meaning_bn": "সালিশ; মধ্যস্থতা",
       "example": "Some provisions, including those relating to arbitration, also needed reconsideration, he said.",
-      "synonym": "mediation; adjudication",
-      "antonym": "litigation; court trial"
+      "synonyms": [
+       "mediation",
+       "adjudication"
+      ],
+      "antonyms": [
+       "litigation",
+       "court trial"
+      ]
      },
      {
       "word": "dispute",
-      "bangla_meaning": "বিরোধ; মতবিরোধ",
+      "meaning_bn": "বিরোধ; মতবিরোধ",
       "example": "The courts will ensure faster resolution of commercial disputes.",
-      "synonym": "conflict; disagreement",
-      "antonym": "agreement; harmony"
+      "synonyms": [
+       "conflict",
+       "disagreement"
+      ],
+      "antonyms": [
+       "agreement",
+       "harmony"
+      ]
      },
      {
       "word": "mediation",
-      "bangla_meaning": "মধ্যস্থতা; সমঝোতায় সাহায্য",
+      "meaning_bn": "মধ্যস্থতা; সমঝোতায় সাহায্য",
       "example": "Pre-suit mediation is mandatory in certain circumstances under the Commercial Court Act.",
-      "synonym": "conciliation; negotiation",
-      "antonym": "litigation; confrontation"
+      "synonyms": [
+       "conciliation",
+       "negotiation"
+      ],
+      "antonyms": [
+       "litigation",
+       "confrontation"
+      ]
      },
      {
       "word": "court",
-      "bangla_meaning": "আদালত; বিচারালয়",
+      "meaning_bn": "আদালত; বিচারালয়",
       "example": "The proposed courts would initially be established in divisional cities.",
-      "synonym": "tribunal; bench",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "tribunal",
+       "bench"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "approval",
-      "bangla_meaning": "অনুমোদন; সম্মতি",
+      "meaning_bn": "অনুমোদন; সম্মতি",
       "example": "The government is working to reduce investment approvals from at least six months to a few days.",
-      "synonym": "permission; sanction",
-      "antonym": "rejection; denial"
+      "synonyms": [
+       "permission",
+       "sanction"
+      ],
+      "antonyms": [
+       "rejection",
+       "denial"
+      ]
      }
     ],
     "revision": {
@@ -4324,122 +4834,150 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "জিনোম: কোনো জীবের সম্পূর্ণ ডিএনএ; হিউম্যান জিনোম প্রজেক্ট ১৯৯০–২০০৩ সালে মানুষের জিনোম পড়ে।",
-      "ক্যানসার: দেহের কোষের অনিয়ন্ত্রিত বৃদ্ধি; আগাম শনাক্তকরণে চিকিৎসার সাফল্য বাড়ে — এখানেই পিইটি-সিটির গুরুত্ব।"
-     ],
-     "sources": [
-      {
-       "name": "BonView Press — The Road to Precision Medicine (review, 2026)",
-       "url": "https://ojs.bonviewpress.com/index.php/SWT/article/download/8994/2018/59915"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "no": 1,
-      "question": "প্রশিক্ষণ কর্মসূচিতে কতজন অংশ নিয়েছেন?",
-      "options": {
-       "A": "২৫ জন",
-       "B": "৩৪ জন",
-       "C": "৯০ জন",
-       "D": "১ লাখ"
-      },
-      "correct": "B",
-      "explanation": "সংবাদে বলা হয়েছে, প্রশিক্ষণে ৩৪ জন অংশ নিয়েছেন।"
+      "term": "জিনোম",
+      "meaning": "কোনো জীবের সম্পূর্ণ ডিএনএ; হিউম্যান জিনোম প্রজেক্ট ১৯৯০–২০০৩ সালে মানুষের জিনোম পড়ে।",
+      "source": "BonView Press — The Road to Precision Medicine (review, 2026)"
      },
      {
-      "no": 2,
-      "question": "প্রিসিশন মেডিসিন কী?",
-      "options": {
-       "A": "রোগীর জিন ও বৈশিষ্ট্য অনুযায়ী ব্যক্তিগত চিকিৎসা",
-       "B": "সবার জন্য একই চিকিৎসা",
-       "C": "শুধু সার্জারি",
-       "D": "শুধু ভেষজ চিকিৎসা"
-      },
-      "correct": "A",
-      "explanation": "প্রিসিশন মেডিসিন রোগীর জিনগত ও আণবিক বৈশিষ্ট্য অনুযায়ী চিকিৎসা ঠিক করে।"
-     },
-     {
-      "no": 3,
-      "question": "পিইটি-সিটি কী কাজে লাগে?",
-      "options": {
-       "A": "ক্যানসারসহ রোগের বিপাকীয় ও গাঠনিক ছবি পেতে",
-       "B": "শুধু হাড়ের ছবি তুলতে",
-       "C": "রক্তচাপ মাপতে",
-       "D": "ওজন মাপতে"
-      },
-      "correct": "A",
-      "explanation": "পিইটি/সিটি বিপাকীয় ও গাঠনিক দুই ধরনের তথ্য দেয়, ক্যানসার শনাক্তে ব্যবহৃত হয়।"
-     },
-     {
-      "no": 4,
-      "question": "সাইক্লোট্রন কী তৈরি করে?",
-      "options": {
-       "A": "বিদ্যুৎ",
-       "B": "পিইটি স্ক্যানের জন্য তেজস্ক্রিয় আইসোটোপ",
-       "C": "অক্সিজেন",
-       "D": "ওষুধের ট্যাবলেট"
-      },
-      "correct": "B",
-      "explanation": "সাইক্লোট্রন পিইটি স্ক্যানের জন্য প্রয়োজনীয় স্বল্পস্থায়ী তেজস্ক্রিয় আইসোটোপ তৈরি করে।"
+      "term": "ক্যানসার",
+      "meaning": "দেহের কোষের অনিয়ন্ত্রিত বৃদ্ধি; আগাম শনাক্তকরণে চিকিৎসার সাফল্য বাড়ে — এখানেই পিইটি-সিটির গুরুত্ব।",
+      "source": "BonView Press — The Road to Precision Medicine (review, 2026)"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "প্রশিক্ষণ কর্মসূচিতে কতজন অংশ নিয়েছেন?",
+      "options": [
+       "২৫ জন",
+       "৩৪ জন",
+       "৯০ জন",
+       "১ লাখ"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, প্রশিক্ষণে ৩৪ জন অংশ নিয়েছেন।",
+      "no": 1
+     },
+     {
+      "question": "প্রিসিশন মেডিসিন কী?",
+      "options": [
+       "রোগীর জিন ও বৈশিষ্ট্য অনুযায়ী ব্যক্তিগত চিকিৎসা",
+       "সবার জন্য একই চিকিৎসা",
+       "শুধু সার্জারি",
+       "শুধু ভেষজ চিকিৎসা"
+      ],
+      "correct": 0,
+      "explanation": "প্রিসিশন মেডিসিন রোগীর জিনগত ও আণবিক বৈশিষ্ট্য অনুযায়ী চিকিৎসা ঠিক করে।",
+      "no": 2
+     },
+     {
+      "question": "পিইটি-সিটি কী কাজে লাগে?",
+      "options": [
+       "ক্যানসারসহ রোগের বিপাকীয় ও গাঠনিক ছবি পেতে",
+       "শুধু হাড়ের ছবি তুলতে",
+       "রক্তচাপ মাপতে",
+       "ওজন মাপতে"
+      ],
+      "correct": 0,
+      "explanation": "পিইটি/সিটি বিপাকীয় ও গাঠনিক দুই ধরনের তথ্য দেয়, ক্যানসার শনাক্তে ব্যবহৃত হয়।",
+      "no": 3
+     },
+     {
+      "question": "সাইক্লোট্রন কী তৈরি করে?",
+      "options": [
+       "বিদ্যুৎ",
+       "পিইটি স্ক্যানের জন্য তেজস্ক্রিয় আইসোটোপ",
+       "অক্সিজেন",
+       "ওষুধের ট্যাবলেট"
+      ],
+      "correct": 1,
+      "explanation": "সাইক্লোট্রন পিইটি স্ক্যানের জন্য প্রয়োজনীয় স্বল্পস্থায়ী তেজস্ক্রিয় আইসোটোপ তৈরি করে।",
+      "no": 4
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "প্রিসিশন মেডিসিনে বাংলাদেশের সম্ভাবনার মূল তথ্যগুলো লেখো।",
-      "model_outline": [
+      "outline": [
        "প্রশিক্ষণ: পিইটি-সিটি ও সাইক্লোট্রন, ৩৪ জন, ১৪–২৫ নভেম্বর",
        "সুবিধা আছে, ব্যবহার কম — সচিবের মত",
        "সুযোগ: ওষুধ আবিষ্কার, কম খরচে ওষুধ, রপ্তানি"
       ]
      },
-     {
+     "analytical": {
       "question": "জিনোম সিকোয়েন্সিং ও প্রিসিশন মেডিসিন কীভাবে ক্যানসার চিকিৎসা বদলে দিতে পারে? বিশ্লেষণ করো।",
-      "model_outline": [
+      "outline": [
        "আগাম শনাক্তকরণ: জিনগত ঝুঁকি জানা যায়",
        "লক্ষ্যভিত্তিক ওষুধ: রোগীর জিন অনুযায়ী চিকিৎসা",
        "বাংলাদেশের চ্যালেঞ্জ: সুবিধার ব্যবহার, প্রশিক্ষিত জনবল, খরচ",
        "সম্ভাবনা: আঞ্চলিক কেন্দ্র, ওষুধ রপ্তানি"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "nuclear",
-      "bangla_meaning": "পারমাণবিক",
+      "meaning_bn": "পারমাণবিক",
       "example": "Bangladesh has the potential to emerge as a world-class regional hub for advanced cancer diagnosis and treatment by better utilising genome sequencing, precision medicine and nuclear medicine technologies, Science and Technology Secretary Md Anwar Hossain has said.",
-      "synonym": "atomic",
-      "antonym": "conventional; non-nuclear"
+      "synonyms": [
+       "atomic"
+      ],
+      "antonyms": [
+       "conventional",
+       "non-nuclear"
+      ]
      },
      {
       "word": "genome",
-      "bangla_meaning": "জিনোম; জীবের সম্পূর্ণ ডিএনএ",
+      "meaning_bn": "জিনোম; জীবের সম্পূর্ণ ডিএনএ",
       "example": "Wider application of precision medicine and genome sequencing could create new opportunities for the healthcare sector.",
-      "synonym": "genetic code; DNA set",
-      "antonym": "No direct antonym"
+      "synonyms": [
+       "genetic code",
+       "DNA set"
+      ],
+      "antonyms": [
+       "No direct antonym"
+      ]
      },
      {
       "word": "diagnosis",
-      "bangla_meaning": "নির্ণয়; রোগ শনাক্তকরণ",
+      "meaning_bn": "নির্ণয়; রোগ শনাক্তকরণ",
       "example": "Bangladesh could become a regional hub for advanced cancer diagnosis and treatment.",
-      "synonym": "detection; identification",
-      "antonym": "misdiagnosis"
+      "synonyms": [
+       "detection",
+       "identification"
+      ],
+      "antonyms": [
+       "misdiagnosis"
+      ]
      },
      {
       "word": "treatment",
-      "bangla_meaning": "চিকিৎসা; প্রতিকার",
+      "meaning_bn": "চিকিৎসা; প্রতিকার",
       "example": "Precision medicine improves cancer diagnosis and treatment.",
-      "synonym": "therapy; cure",
-      "antonym": "neglect; disease"
+      "synonyms": [
+       "therapy",
+       "cure"
+      ],
+      "antonyms": [
+       "neglect",
+       "disease"
+      ]
      },
      {
       "word": "cancer",
-      "bangla_meaning": "ক্যানসার; অনিয়ন্ত্রিত কোষ বৃদ্ধির রোগ",
+      "meaning_bn": "ক্যানসার; অনিয়ন্ত্রিত কোষ বৃদ্ধির রোগ",
       "example": "PET-CT scans are used to detect cancerous cells.",
-      "synonym": "malignancy; tumour",
-      "antonym": "health; remission"
+      "synonyms": [
+       "malignancy",
+       "tumour"
+      ],
+      "antonyms": [
+       "health",
+       "remission"
+      ]
      }
     ],
     "revision": {
@@ -5623,8 +6161,8 @@
  ],
  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
  "approval_notes": "Auto-approved under Rudro's rule 2026-11-13: review 17/17, longest-correct 0/25. Pack written by operator (agent) acting as the Claude Project. Manual spot-checks done by operator: lead figures verified against full source texts for CA01 ($800bn/$795bn A4T), CA03 (Tk22 lakh crore debt), CA05 (Tk6,000cr / 78.8% Islami Bank), CA06 ($80/person climate debt), CA13 (Tk1,500 crore BB scheme); attribution verified in all 4 opinion/analysis stories (CA01, CA02, CA04, CA07). URL-repeat check vs all published editions: clean. KNOWN LIMIT: checks 13 and 17 include proxy checks and manual spot-checks that got no human eye on this edition. Import flagged 4 problems for the 2 resolver-verified URLs (Islami Bank, Debt by design -- runbook 2b): URLs not in the collected file, so the importer could not see their bodies; both full texts were read live via browser.open in this run and the summaries are written from them, not from titles.",
- "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17",
+ "renovation_format": "learning-module-v2",
+ "renovation_date": "2026-11-18",
  "renovation_notes": [
   "All 15 story-level short-question sets were rewritten as clear, source-traceable questions using facts already present in this edition.",
   "Original story IDs, source URLs, headlines, summaries, exam facts, vocabulary, phrases and MCQs were preserved.",

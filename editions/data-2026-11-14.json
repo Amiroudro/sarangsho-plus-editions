@@ -95,7 +95,7 @@
      "text": "নভেম্বর মাসের শুরুতে গাজীপুর, সাভার, আশুলিয়া ও নারায়ণগঞ্জে পোশাকশ্রমিকরা কয়েক দিন ধরে সড়ক অবরোধ করেন; কারখানা ভাঙচুর ও গাড়িতে আগুন দেওয়ার ঘটনা ঘটে এবং বর্ডার গার্ড বাংলাদেশ মোতায়েন করা হয়। ৫২৯টি কারখানায় উৎপাদন বন্ধ হয়, যাতে প্রায় ৯ লাখ ৮৭ হাজার শ্রমিক ক্ষতিগ্রস্ত হন। সেপ্টেম্বরে মূল্যস্ফীতি ছিল ৮.৩৪%, আগস্টে ছিল ৮.২৬%; বিশ্বব্যাংক ২০২৫-২৬ ও ২০২৬-২৭ অর্থবছরে মাত্র ৩.৪% প্রবৃদ্ধির পূর্বাভাস দিয়েছে।",
      "source": {
       "publication": "The Business Standard",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731"
      }
     },
@@ -177,137 +177,165 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "RMG বাংলাদেশের রপ্তানি আয়ের প্রধান উৎস — ২০২৪-২৫ অর্থবছরে প্রায় ৮৪%।",
-      "মূল্যস্ফীতি মাপা হয় CPI দিয়ে; পয়েন্ট-টু-পয়েন্ট হারই সংবাদে সবচেয়ে বেশি উদ্ধৃত হয়।",
-      "বিশ্বব্যাংকের প্রবৃদ্ধির পূর্বাভাস BCS/Bank অর্থনীতি প্রশ্নে সরাসরি আসে — সংখ্যা ও কারণ দুটোই মনে রাখতে হবে।"
-     ],
-     "institutions": [
-      {
-       "name": "বিজিএমইএ (BGMEA)",
-       "role": "রপ্তানিমুখী পোশাক প্রস্তুতকারক ও রপ্তানিকারকদের বাণিজ্য সংস্থা"
-      },
-      {
-       "name": "বিশ্বব্যাংক (World Bank)",
-       "role": "উন্নয়নশীল দেশে অর্থনৈতিক প্রবৃদ্ধি ও দারিদ্র্য দূরীকরণে ঋণ ও সহায়তা দেয়; ১৯৪৪ সালে প্রতিষ্ঠিত"
-      },
-      {
-       "name": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)",
-       "role": "ভোক্তা মূল্য সূচক (CPI) ও মূল্যস্ফীতির তথ্য প্রকাশ করে"
-      },
-      {
-       "name": "বর্ডার গার্ড বাংলাদেশ (BGB)",
-       "role": "অস্থিরতার সময় আইনশৃঙ্খলা রক্ষায় মোতায়েন করা হয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — BGMEA",
-       "url": "https://en.banglapedia.org/index.php/Bangladesh_Garment_Manufacturers_and_Exporters_Association"
-      },
-      {
-       "name": "World Bank Group — information brief",
-       "url": "http://documents.worldbank.org/curated/en/161021478501622127/pdf/109417-BRI-WBG-PUBLIC-The-World-Bank-Group-date-04-01-1993.pdf"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "বিজিএমইএ (BGMEA)",
+      "role": "রপ্তানিমুখী পোশাক প্রস্তুতকারক ও রপ্তানিকারকদের বাণিজ্য সংস্থা",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     },
+     {
+      "name": "বিশ্বব্যাংক (World Bank)",
+      "role": "উন্নয়নশীল দেশে অর্থনৈতিক প্রবৃদ্ধি ও দারিদ্র্য দূরীকরণে ঋণ ও সহায়তা দেয়; ১৯৪৪ সালে প্রতিষ্ঠিত",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     },
+     {
+      "name": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)",
+      "role": "ভোক্তা মূল্য সূচক (CPI) ও মূল্যস্ফীতির তথ্য প্রকাশ করে",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     },
+     {
+      "name": "বর্ডার গার্ড বাংলাদেশ (BGB)",
+      "role": "অস্থিরতার সময় আইনশৃঙ্খলা রক্ষায় মোতায়েন করা হয়",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "RMG বাংলাদেশের রপ্তানি আয়ের প্রধান উৎস",
+      "meaning": "২০২৪-২৫ অর্থবছরে প্রায় ৮৪%।",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     },
+     {
+      "term": "মূল্যস্ফীতি",
+      "meaning": "মাপা হয় CPI দিয়ে; পয়েন্ট-টু-পয়েন্ট হারই সংবাদে সবচেয়ে বেশি উদ্ধৃত হয়।",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     },
+     {
+      "term": "বিশ্বব্যাংকের প্রবৃদ্ধির পূর্বাভাস BCS/Bank অর্থনীতি প্রশ্নে সরাসরি আসে",
+      "meaning": "সংখ্যা ও কারণ দুটোই মনে রাখতে হবে।",
+      "source": "Banglapedia — BGMEA; World Bank Group — information brief"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "নভেম্বর ২০২৬-এর শুরুতে পোশাক অস্থিরতায় কতটি কারখানায় উৎপাদন বন্ধ হয়?",
-      "options": {
-       "A": "৪০৮টি",
-       "B": "৫২৯টি",
-       "C": "৯৮৭টি",
-       "D": "১,২৪০টি"
-      },
-      "correct": "B",
+      "options": [
+       "৪০৮টি",
+       "৫২৯টি",
+       "৯৮৭টি",
+       "১,২৪০টি"
+      ],
+      "correct": 1,
       "explanation": "৫২৯টি কারখানায় উৎপাদন বন্ধ হয়, যাতে প্রায় ৯ লাখ ৮৭ হাজার শ্রমিক ক্ষতিগ্রস্ত হন।"
      },
      {
       "question": "২০২৬ সালের সেপ্টেম্বরে পয়েন্ট-টু-পয়েন্ট মূল্যস্ফীতি কত ছিল?",
-      "options": {
-       "A": "৮.৩৪%",
-       "B": "৮.২৬%",
-       "C": "৩.৪%",
-       "D": "৯.৮৭%"
-      },
-      "correct": "A",
+      "options": [
+       "৮.৩৪%",
+       "৮.২৬%",
+       "৩.৪%",
+       "৯.৮৭%"
+      ],
+      "correct": 0,
       "explanation": "সেপ্টেম্বরে মূল্যস্ফীতি ৮.৩৪%, আগস্টে ছিল ৮.২৬%।"
      },
      {
       "question": "২০২৪-২৫ অর্থবছরে বাংলাদেশের মোট রপ্তানি আয়ে তৈরি পোশাকের অংশ কত ছিল?",
-      "options": {
-       "A": "প্রায় ৫০%",
-       "B": "প্রায় ৬০%",
-       "C": "প্রায় ৮৪%",
-       "D": "প্রায় ৯৫%"
-      },
-      "correct": "C",
+      "options": [
+       "প্রায় ৫০%",
+       "প্রায় ৬০%",
+       "প্রায় ৮৪%",
+       "প্রায় ৯৫%"
+      ],
+      "correct": 2,
       "explanation": "বাণিজ্যমন্ত্রীর সংসদে দেওয়া তথ্য অনুযায়ী, ২০২৪-২৫ অর্থবছরে RMG রপ্তানি আয়ের ৮৪% জোগায়।"
      },
      {
       "question": "বিশ্বব্যাংক ২০২৫-২৬ ও ২০২৬-২৭ অর্থবছরে বাংলাদেশের প্রবৃদ্ধি কত পূর্বাভাস দিয়েছে?",
-      "options": {
-       "A": "৮.৩৪%",
-       "B": "৫.২%",
-       "C": "৬.৫%",
-       "D": "৩.৪%"
-      },
-      "correct": "D",
+      "options": [
+       "৮.৩৪%",
+       "৫.২%",
+       "৬.৫%",
+       "৩.৪%"
+      ],
+      "correct": 3,
       "explanation": "বিশ্বব্যাংক উভয় অর্থবছরে মাত্র ৩.৪% প্রবৃদ্ধির পূর্বাভাস দিয়েছে।"
      }
     ],
     "written_prep": {
-     "short_question": "পোশাক খাতে অস্থিরতার পেছনের অর্থনৈতিক কারণগুলো সংক্ষেপে লেখো।",
-     "short_outline": [
-      "মূল্যস্ফীতি ৮%-এর ওপরে, মজুরি তার সঙ্গে তাল মেলাতে পারেনি — ক্রয়ক্ষমতা কমেছে।",
-      "বিনিয়োগ দুর্বল, রপ্তানি ধীর, জ্বালানি সংকট উৎপাদন ব্যাহত করছে।",
-      "আনুষ্ঠানিক চাকরির বাজার তরুণদের ধারণ করতে পারছে না।"
-     ],
-     "analytical_question": "মূল্যস্ফীতি দীর্ঘদিন ৮%-এর ওপরে থাকা অবস্থায় শ্রমিক অসন্তোষ মোকাবিলায় সরকারের করণীয় বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "মজুরি সমন্বয়: মূল্যস্ফীতির সঙ্গে মজুরি পর্যালোচনার প্রাতিষ্ঠানিক ব্যবস্থা।",
-      "সরবরাহ-পাশের পদক্ষেপ: জ্বালানি নিশ্চয়তা, বিনিয়োগ পরিবেশ, রপ্তানি বহুমুখীকরণ।",
-      "সামাজিক সুরক্ষা: নিম্ন আয়ের শ্রমিকের জন্য লক্ষ্যভিত্তিক সহায়তা।",
-      "ত্রিপক্ষীয় সংলাপ: মালিক, শ্রমিক ও সরকারের নিয়মিত আলোচনা।"
-     ]
+     "short": {
+      "question": "পোশাক খাতে অস্থিরতার পেছনের অর্থনৈতিক কারণগুলো সংক্ষেপে লেখো।",
+      "outline": [
+       "মূল্যস্ফীতি ৮%-এর ওপরে, মজুরি তার সঙ্গে তাল মেলাতে পারেনি — ক্রয়ক্ষমতা কমেছে।",
+       "বিনিয়োগ দুর্বল, রপ্তানি ধীর, জ্বালানি সংকট উৎপাদন ব্যাহত করছে।",
+       "আনুষ্ঠানিক চাকরির বাজার তরুণদের ধারণ করতে পারছে না।"
+      ]
+     },
+     "analytical": {
+      "question": "মূল্যস্ফীতি দীর্ঘদিন ৮%-এর ওপরে থাকা অবস্থায় শ্রমিক অসন্তোষ মোকাবিলায় সরকারের করণীয় বিশ্লেষণ করো।",
+      "outline": [
+       "মজুরি সমন্বয়: মূল্যস্ফীতির সঙ্গে মজুরি পর্যালোচনার প্রাতিষ্ঠানিক ব্যবস্থা।",
+       "সরবরাহ-পাশের পদক্ষেপ: জ্বালানি নিশ্চয়তা, বিনিয়োগ পরিবেশ, রপ্তানি বহুমুখীকরণ।",
+       "সামাজিক সুরক্ষা: নিম্ন আয়ের শ্রমিকের জন্য লক্ষ্যভিত্তিক সহায়তা।",
+       "ত্রিপক্ষীয় সংলাপ: মালিক, শ্রমিক ও সরকারের নিয়মিত আলোচনা।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "escalate",
-      "bangla_meaning": "তীব্রতর হওয়া; দ্রুত বেড়ে যাওয়া",
+      "meaning_bn": "তীব্রতর হওয়া; দ্রুত বেড়ে যাওয়া",
       "example": "The movement escalated unnaturally fast, and the tension has yet to ease.",
-      "synonym": "intensify",
-      "antonym": "ease"
+      "synonyms": [
+       "intensify"
+      ],
+      "antonyms": [
+       "ease"
+      ]
      },
      {
       "word": "scarce",
-      "bangla_meaning": "দুষ্প্রাপ্য; অপ্রতুল",
+      "meaning_bn": "দুষ্প্রাপ্য; অপ্রতুল",
       "example": "Inflation is eroding purchasing power, investment remains weak and employment opportunities are scarce.",
-      "synonym": "rare",
-      "antonym": "abundant"
+      "synonyms": [
+       "rare"
+      ],
+      "antonyms": [
+       "abundant"
+      ]
      },
      {
       "word": "absorb",
-      "bangla_meaning": "শোষণ করা; (চাকরির বাজারে) অন্তর্ভুক্ত করা",
+      "meaning_bn": "শোষণ করা; (চাকরির বাজারে) অন্তর্ভুক্ত করা",
       "example": "The formal job market remained unable to absorb the country's young people.",
-      "synonym": "take in",
-      "antonym": "exclude"
+      "synonyms": [
+       "take in"
+      ],
+      "antonyms": [
+       "exclude"
+      ]
      },
      {
       "word": "inflation",
-      "bangla_meaning": "মূল্যস্ফীতি; দ্রব্যমূল্য বৃদ্ধি",
+      "meaning_bn": "মূল্যস্ফীতি; দ্রব্যমূল্য বৃদ্ধি",
       "example": "Point-to-point inflation stood at 8.34% in September, up from 8.26% in August.",
-      "synonym": "price rise",
-      "antonym": "deflation"
+      "synonyms": [
+       "price rise"
+      ],
+      "antonyms": [
+       "deflation"
+      ]
      },
      {
       "word": "unrest",
-      "bangla_meaning": "অস্থিরতা; বিক্ষোভ",
+      "meaning_bn": "অস্থিরতা; বিক্ষোভ",
       "example": "Garment workers blocked roads for several days in early November in a wave of unrest.",
-      "synonym": "turmoil",
-      "antonym": "calm"
+      "synonyms": [
+       "turmoil"
+      ],
+      "antonyms": [
+       "calm"
+      ]
      }
     ],
     "revision": {
@@ -429,7 +457,7 @@
      "text": "ভারত সাবেক প্রধানমন্ত্রী শেখ হাসিনার সামরিক ব্যবস্থায় বাংলাদেশে ফেরার সম্ভাবনা নিয়ে মন্তব্য করতে অস্বীকৃতি জানিয়েছে। ১৩ নভেম্বর নয়া দিল্লিতে এক ব্রিফিংয়ে পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধীর জয়সওয়াল বলেন, তিনি বারবার বিষয়টিকে আইনি বিষয় বলেছেন — তবে তা শুধু প্রত্যর্পণ প্রক্রিয়ার ক্ষেত্রে প্রযোজ্য। প্রশ্নের অন্য অংশে তাঁর কোনো মন্তব্য নেই।",
      "source": {
       "publication": "The Business Standard",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661"
      }
     },
@@ -495,128 +523,160 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্রত্যর্পণ চুক্তি ২০১৩ সালে স্বাক্ষরিত, ২০১৩ সালের অক্টোবরে কার্যকর — তারিখ দুটি আলাদা করে মনে রাখতে হবে।",
-      "ধারা ৬ (রাজনৈতিক অপরাধের ব্যতিক্রম) হাসিনা-প্রত্যর্পণ বিতর্কের কেন্দ্রীয় আইনি প্রশ্ন।",
-      "ন্যায্য বিচার (fair trial) ও আপিলের অধিকার প্রত্যর্পণ আলোচনায় নিয়মিত শর্ত হিসেবে আসে।"
-     ],
-     "institutions": [
-      {
-       "name": "ভারতের পররাষ্ট্র মন্ত্রণালয় (MEA)",
-       "role": "ভারতের পক্ষে প্রত্যর্পণ চুক্তির কেন্দ্রীয় কর্তৃপক্ষ"
-      },
-      {
-       "name": "বাংলাদেশের স্বরাষ্ট্র মন্ত্রণালয়",
-       "role": "বাংলাদেশের পক্ষে প্রত্যর্পণ চুক্তির কেন্দ্রীয় কর্তৃপক্ষ"
-      },
-      {
-       "name": "বিবিসি বাংলা",
-       "role": "দুটি শর্তের খবর প্রথম প্রকাশ করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)",
-       "url": "https://satp.org/Docs/Document/83.pdf"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "ভারতের পররাষ্ট্র মন্ত্রণালয় (MEA)",
+      "role": "ভারতের পক্ষে প্রত্যর্পণ চুক্তির কেন্দ্রীয় কর্তৃপক্ষ",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     },
+     {
+      "name": "বাংলাদেশের স্বরাষ্ট্র মন্ত্রণালয়",
+      "role": "বাংলাদেশের পক্ষে প্রত্যর্পণ চুক্তির কেন্দ্রীয় কর্তৃপক্ষ",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     },
+     {
+      "name": "বিবিসি বাংলা",
+      "role": "দুটি শর্তের খবর প্রথম প্রকাশ করে",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "প্রত্যর্পণ চুক্তি ২০১৩ সালে স্বাক্ষরিত, ২০১৩ সালের অক্টোবরে কার্যকর",
+      "meaning": "তারিখ দুটি আলাদা করে মনে রাখতে হবে।",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     },
+     {
+      "term": "ধারা ৬",
+      "meaning": "ধারা ৬ (রাজনৈতিক অপরাধের ব্যতিক্রম) হাসিনা-প্রত্যর্পণ বিতর্কের কেন্দ্রীয় আইনি প্রশ্ন।",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     },
+     {
+      "term": "ন্যায্য বিচার",
+      "full_name": "fair trial",
+      "meaning": "ও আপিলের অধিকার প্রত্যর্পণ আলোচনায় নিয়মিত শর্ত হিসেবে আসে।",
+      "source": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল পাঠ (SATP)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "রণধীর জয়সওয়ালের ব্রিফিং কবে হয়েছিল?",
-      "options": {
-       "A": "১৩ নভেম্বর ২০২৬",
-       "B": "১২ নভেম্বর ২০২৬",
-       "C": "১৪ নভেম্বর ২০২৬",
-       "D": "১৫ নভেম্বর ২০২৬"
-      },
-      "correct": "A",
+      "options": [
+       "১৩ নভেম্বর ২০২৬",
+       "১২ নভেম্বর ২০২৬",
+       "১৪ নভেম্বর ২০২৬",
+       "১৫ নভেম্বর ২০২৬"
+      ],
+      "correct": 0,
       "explanation": "১৩ নভেম্বর নয়া দিল্লিতে ব্রিফিংয়ে জয়সওয়াল মন্তব্য করেন।"
      },
      {
       "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তি কবে স্বাক্ষরিত হয়?",
-      "options": {
-       "A": "২০১০ সালে",
-       "B": "২০১৩ সালে",
-       "C": "২০১৬ সালে",
-       "D": "২০২৪ সালে"
-      },
-      "correct": "B",
+      "options": [
+       "২০১০ সালে",
+       "২০১৩ সালে",
+       "২০১৬ সালে",
+       "২০২৪ সালে"
+      ],
+      "correct": 1,
       "explanation": "চুক্তি স্বাক্ষরিত হয় ২৮ জানুয়ারি ২০১৩; কার্যকর হয় ২৩ অক্টোবর ২০১৩।"
      },
      {
       "question": "সামরিক বিমানে হাসিনার ফেরার প্রশ্নে জয়সওয়াল কী বলেন?",
-      "options": {
-       "A": "ভারত রাজি হয়েছে",
-       "B": "ভারত নিজের বিমান পাঠাবে",
-       "C": "এ বিষয়ে তাঁর কোনো মন্তব্য নেই",
-       "D": "প্রত্যর্পণের অনুরোধ বাতিল করা হয়েছে"
-      },
-      "correct": "C",
+      "options": [
+       "ভারত রাজি হয়েছে",
+       "ভারত নিজের বিমান পাঠাবে",
+       "এ বিষয়ে তাঁর কোনো মন্তব্য নেই",
+       "প্রত্যর্পণের অনুরোধ বাতিল করা হয়েছে"
+      ],
+      "correct": 2,
       "explanation": "তিনি বলেন, প্রশ্নের ওই অংশে তাঁর কোনো মন্তব্য নেই।"
      },
      {
       "question": "প্রত্যর্পণ চুক্তির কোন ধারায় রাজনৈতিক চরিত্রের অপরাধে প্রত্যর্পণ প্রত্যাখ্যান করা যায়?",
-      "options": {
-       "A": "ধারা ১",
-       "B": "ধারা ৫",
-       "C": "ধারা ১০",
-       "D": "ধারা ৬"
-      },
-      "correct": "D",
+      "options": [
+       "ধারা ১",
+       "ধারা ৫",
+       "ধারা ১০",
+       "ধারা ৬"
+      ],
+      "correct": 3,
       "explanation": "ধারা ৬-এ রাজনৈতিক অপরাধের ব্যতিক্রম (political offence exception) রয়েছে।"
      }
     ],
     "written_prep": {
-     "short_question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল বিধানগুলো সংক্ষেপে লেখো।",
-     "short_outline": [
-      "স্বাক্ষর ২০১৩, কার্যকর ২০১৩; অনুরোধ কূটনৈতিক চ্যানেলে।",
-      "ধারা ৬: রাজনৈতিক অপরাধে প্রত্যর্পণ প্রত্যাখ্যান করা যায়।",
-      "কেন্দ্রীয় কর্তৃপক্ষ: ভারতে MEA, বাংলাদেশে স্বরাষ্ট্র মন্ত্রণালয়।"
-     ],
-     "analytical_question": "হাসিনার প্রত্যর্পণ প্রশ্নে আইনি প্রক্রিয়া ও কূটনৈতিক বাস্তবতার টানাপোড়েন বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "আইনি দিক: চুক্তির শর্ত, ধারা ৬, ন্যায্য বিচারের নিশ্চয়তা।",
-      "কূটনৈতিক দিক: দ্বিপক্ষীয় সম্পর্ক, আন্তর্জাতিক চাপ, বিচার বিভাগের স্বাধীনতা।",
-      "সামনে কী: কনস্যুলার সংলাপ ও আলোচনার সম্ভাব্য পথ।"
-     ]
+     "short": {
+      "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তির মূল বিধানগুলো সংক্ষেপে লেখো।",
+      "outline": [
+       "স্বাক্ষর ২০১৩, কার্যকর ২০১৩; অনুরোধ কূটনৈতিক চ্যানেলে।",
+       "ধারা ৬: রাজনৈতিক অপরাধে প্রত্যর্পণ প্রত্যাখ্যান করা যায়।",
+       "কেন্দ্রীয় কর্তৃপক্ষ: ভারতে MEA, বাংলাদেশে স্বরাষ্ট্র মন্ত্রণালয়।"
+      ]
+     },
+     "analytical": {
+      "question": "হাসিনার প্রত্যর্পণ প্রশ্নে আইনি প্রক্রিয়া ও কূটনৈতিক বাস্তবতার টানাপোড়েন বিশ্লেষণ করো।",
+      "outline": [
+       "আইনি দিক: চুক্তির শর্ত, ধারা ৬, ন্যায্য বিচারের নিশ্চয়তা।",
+       "কূটনৈতিক দিক: দ্বিপক্ষীয় সম্পর্ক, আন্তর্জাতিক চাপ, বিচার বিভাগের স্বাধীনতা।",
+       "সামনে কী: কনস্যুলার সংলাপ ও আলোচনার সম্ভাব্য পথ।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "appeal",
-      "bangla_meaning": "আপিল করা; রায়ের বিরুদ্ধে উচ্চ আদালতে আবেদন করা",
+      "meaning_bn": "আপিল করা; রায়ের বিরুদ্ধে উচ্চ আদালতে আবেদন করা",
       "example": "India reportedly wants assurances that Hasina will be allowed to appeal against her death sentence.",
-      "synonym": "challenge",
-      "antonym": "accept"
+      "synonyms": [
+       "challenge"
+      ],
+      "antonyms": [
+       "accept"
+      ]
      },
      {
       "word": "assurance",
-      "bangla_meaning": "আশ্বাস; নিশ্চয়তা",
+      "meaning_bn": "আশ্বাস; নিশ্চয়তা",
       "example": "India wanted assurances of a fair trial for Hasina.",
-      "synonym": "guarantee",
-      "antonym": "doubt"
+      "synonyms": [
+       "guarantee"
+      ],
+      "antonyms": [
+       "doubt"
+      ]
      },
      {
       "word": "extradition",
-      "bangla_meaning": "প্রত্যর্পণ; পলাতক আসামিকে ফেরত দেওয়া",
+      "meaning_bn": "প্রত্যর্পণ; পলাতক আসামিকে ফেরত দেওয়া",
       "example": "Jaiswal said his references to the matter as a legal issue concern only the extradition process.",
-      "synonym": "deportation (in context)",
-      "antonym": "asylum"
+      "synonyms": [
+       "deportation (in context)"
+      ],
+      "antonyms": [
+       "asylum"
+      ]
      },
      {
       "word": "diplomacy",
-      "bangla_meaning": "কূটনীতি",
+      "meaning_bn": "কূটনীতি",
       "example": "The extradition row has become a test of diplomacy between Dhaka and New Delhi.",
-      "synonym": "statecraft",
-      "antonym": "hostility"
+      "synonyms": [
+       "statecraft"
+      ],
+      "antonyms": [
+       "hostility"
+      ]
      },
      {
       "word": "fugitive",
-      "bangla_meaning": "পলাতক আসামি",
+      "meaning_bn": "পলাতক আসামি",
       "example": "The extradition treaty provides a legal framework for seeking the return of fugitive criminals.",
-      "synonym": "runaway",
-      "antonym": "captive"
+      "synonyms": [
+       "runaway"
+      ],
+      "antonyms": [
+       "captive"
+      ]
      }
     ],
     "revision": {
@@ -735,7 +795,7 @@
      "text": "ব্রিটেন, নরওয়ে ও কানাডার উন্নয়ন অর্থায়ন প্রতিষ্ঠানগুলো ১৩ নভেম্বর আন্তালিয়ায় COP31-এ এক যৌথ উদ্যোগ নিল — ২০৩০ সালের মধ্যে উদীয়মান বাজারের জলবায়ু প্রকল্পে ১০ বিলিয়ন ডলার পৌঁছে দেওয়া হবে। সমঝোতা স্মারক অনুযায়ী ব্রিটিশ ইন্টারন্যাশনাল ইনভেস্টমেন্ট, নরওয়ের নরফান্ড ও ফিনডেভ কানাডা বিনিয়োগের তালিকা ভাগাভাগি করবে, যাচাই-বাছাইয়ে সমন্বয় করবে এবং জলবায়ু প্রতিবেদনে সহযোগিতা করবে।",
      "source": {
       "publication": "The Business Standard",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.tbsnews.net/world/uk-norway-and-canada-launch-10-billion-climate-finance-initiative-1601681"
      }
     },
@@ -809,136 +869,164 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "COP = Conference of the Parties — UNFCCC-এর বার্ষিক সম্মেলন; COP31 আন্তালিয়ায়।",
-      "NCQG: ২০৩৫ সালের মধ্যে বছরে কমপক্ষে ৩০০ বিলিয়ন ডলার — COP29-এর সিদ্ধান্ত।",
-      "GCF বিশ্বের বৃহত্তম জলবায়ু তহবিল; সদর দপ্তর ইনচিওন, দক্ষিণ কোরিয়া।"
-     ],
-     "institutions": [
-      {
-       "name": "UNFCCC",
-       "role": "জাতিসংঘের জলবায়ু পরিবর্তন বিষয়ক কাঠামো কনভেনশন; COP এর অধীনে বসে"
-      },
-      {
-       "name": "গ্রিন ক্লাইমেট ফান্ড (GCF)",
-       "role": "UNFCCC অর্থায়ন ব্যবস্থার পরিচালনাকারী সংস্থা; বৃহত্তম জলবায়ু তহবিল"
-      },
-      {
-       "name": "ব্রিটিশ ইন্টারন্যাশনাল ইনভেস্টমেন্ট (BII)",
-       "role": "ব্রিটেনের উন্নয়ন অর্থায়ন প্রতিষ্ঠান"
-      },
-      {
-       "name": "নরফান্ড (Norfund) ও ফিনডেভ কানাডা",
-       "role": "যথাক্রমে নরওয়ে ও কানাডার উন্নয়ন অর্থায়ন প্রতিষ্ঠান"
-      }
-     ],
-     "sources": [
-      {
-       "name": "ClimaTalk — Financial Mechanism",
-       "url": "https://climatalk.org/2021/04/25/unfccc-and-the-financial-mechanism/"
-      },
-      {
-       "name": "UNFCCC submission — Climate Finance Work Programme",
-       "url": "https://uat.unfccc.int/sites/default/files/resource/C2ES.pdf"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "UNFCCC",
+      "role": "জাতিসংঘের জলবায়ু পরিবর্তন বিষয়ক কাঠামো কনভেনশন; COP এর অধীনে বসে",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     },
+     {
+      "name": "গ্রিন ক্লাইমেট ফান্ড (GCF)",
+      "role": "UNFCCC অর্থায়ন ব্যবস্থার পরিচালনাকারী সংস্থা; বৃহত্তম জলবায়ু তহবিল। বিশ্বের বৃহত্তম জলবায়ু তহবিল। সদর দপ্তর ইনচিওন, দক্ষিণ কোরিয়া।",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     },
+     {
+      "name": "ব্রিটিশ ইন্টারন্যাশনাল ইনভেস্টমেন্ট (BII)",
+      "role": "ব্রিটেনের উন্নয়ন অর্থায়ন প্রতিষ্ঠান",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     },
+     {
+      "name": "নরফান্ড (Norfund) ও ফিনডেভ কানাডা",
+      "role": "যথাক্রমে নরওয়ে ও কানাডার উন্নয়ন অর্থায়ন প্রতিষ্ঠান",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "COP",
+      "meaning": "Conference of the Parties — UNFCCC-এর বার্ষিক সম্মেলন",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     },
+     {
+      "term": "COP31",
+      "meaning": "আন্তালিয়ায়।",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     },
+     {
+      "term": "NCQG",
+      "meaning": "২০৩৫ সালের মধ্যে বছরে কমপক্ষে ৩০০ বিলিয়ন ডলার — COP29-এর সিদ্ধান্ত।",
+      "source": "ClimaTalk — Financial Mechanism; UNFCCC submission — Climate Finance Work Programme"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "তিন দেশের যৌথ উদ্যোগে ২০৩০ সালের মধ্যে জলবায়ু প্রকল্পে কত অর্থ যাবে?",
-      "options": {
-       "A": "৫ বিলিয়ন ডলার",
-       "B": "১০ বিলিয়ন ডলার",
-       "C": "৩০ বিলিয়ন ডলার",
-       "D": "১০০ বিলিয়ন ডলার"
-      },
-      "correct": "B",
+      "options": [
+       "৫ বিলিয়ন ডলার",
+       "১০ বিলিয়ন ডলার",
+       "৩০ বিলিয়ন ডলার",
+       "১০০ বিলিয়ন ডলার"
+      ],
+      "correct": 1,
       "explanation": "২০৩০ সালের মধ্যে উদীয়মান বাজারে ১০ বিলিয়ন ডলার পৌঁছে দেওয়ার লক্ষ্য।"
      },
      {
       "question": "NCQG অনুযায়ী ২০৩৫ সালের মধ্যে উন্নয়নশীল দেশগুলোর জন্য বছরে কমপক্ষে কত জলবায়ু অর্থায়নের লক্ষ্য ঠিক হয়েছে?",
-      "options": {
-       "A": "বছরে কমপক্ষে ৩০০ বিলিয়ন ডলার",
-       "B": "বছরে ১০০ বিলিয়ন ডলার",
-       "C": "বছরে ১০ বিলিয়ন ডলার",
-       "D": "শুধু ১.৩ ট্রিলিয়ন ডলার সরকারি অর্থ"
-      },
-      "correct": "A",
+      "options": [
+       "বছরে কমপক্ষে ৩০০ বিলিয়ন ডলার",
+       "বছরে ১০০ বিলিয়ন ডলার",
+       "বছরে ১০ বিলিয়ন ডলার",
+       "শুধু ১.৩ ট্রিলিয়ন ডলার সরকারি অর্থ"
+      ],
+      "correct": 0,
       "explanation": "COP29-এ NCQG ঠিক হয়: ২০৩৫ সালের মধ্যে বছরে কমপক্ষে ৩০০ বিলিয়ন ডলার।"
      },
      {
       "question": "গ্রিন ক্লাইমেট ফান্ডের (GCF) সদর দপ্তর কোথায়?",
-      "options": {
-       "A": "ওয়াশিংটন ডিসি",
-       "B": "জেনেভা",
-       "C": "ইনচিওন, দক্ষিণ কোরিয়া",
-       "D": "নাইরোবি"
-      },
-      "correct": "C",
+      "options": [
+       "ওয়াশিংটন ডিসি",
+       "জেনেভা",
+       "ইনচিওন, দক্ষিণ কোরিয়া",
+       "নাইরোবি"
+      ],
+      "correct": 2,
       "explanation": "GCF-এর সদর দপ্তর দক্ষিণ কোরিয়ার ইনচিওনে।"
      },
      {
       "question": "১০ বিলিয়ন ডলারের উদ্যোগে কোন তিনটি প্রতিষ্ঠান সমঝোতা স্মারকে সই করে?",
-      "options": {
-       "A": "বিশ্বব্যাংক, IMF ও এশীয় উন্নয়ন ব্যাংক",
-       "B": "গ্রিন ক্লাইমেট ফান্ড, CIF ও UNDP",
-       "C": "ব্রিটিশ কাউন্সিল, নোরাড ও সিডা",
-       "D": "ব্রিটিশ ইন্টারন্যাশনাল ইনভেস্টমেন্ট, নরফান্ড ও ফিনডেভ কানাডা"
-      },
-      "correct": "D",
+      "options": [
+       "বিশ্বব্যাংক, IMF ও এশীয় উন্নয়ন ব্যাংক",
+       "গ্রিন ক্লাইমেট ফান্ড, CIF ও UNDP",
+       "ব্রিটিশ কাউন্সিল, নোরাড ও সিডা",
+       "ব্রিটিশ ইন্টারন্যাশনাল ইনভেস্টমেন্ট, নরফান্ড ও ফিনডেভ কানাডা"
+      ],
+      "correct": 3,
       "explanation": "সমঝোতা স্মারকে সই করে BII, নরফান্ড ও ফিনডেভ কানাডা।"
      }
     ],
     "written_prep": {
-     "short_question": "জলবায়ু অর্থায়ন কী? প্রশমন ও অভিযোজন অর্থায়নের পার্থক্য লেখো।",
-     "short_outline": [
-      "জলবায়ু অর্থায়ন: উন্নত দেশ থেকে উন্নয়নশীল দেশে নির্গমন কমানো ও অভিযোজনের জন্য অর্থ।",
-      "প্রশমন: নবায়নযোগ্য জ্বালানি, জ্বালানি সাশ্রয়; অভিযোজন: বাঁধ, খরা-সহিষ্ণু ফসল।",
-      "আইনি ভিত্তি: UNFCCC ৪.৩ অনুচ্ছেদ, প্যারিস চুক্তির ৯ অনুচ্ছেদ।"
-     ],
-     "analytical_question": "উন্নয়নশীল দেশগুলোর জলবায়ু অর্থায়নের দাবি কতটা যৌক্তিক? বাংলাদেশের প্রেক্ষাপটে বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "ঐতিহাসিক দায়: উন্নত দেশের নির্গমন বেশি, ক্ষতি ভোগে বাংলাদেশের মতো দেশ।",
-      "অর্থের ঘাটতি: প্রতিশ্রুতি বনাম বাস্তব প্রবাহ; ঋণ বনাম অনুদান বিতর্ক।",
-      "বাংলাদেশের অবস্থান: NDC, অভিযোজন চাহিদা, স্থানীয় পর্যায়ে অর্থ পৌঁছানো।"
-     ]
+     "short": {
+      "question": "জলবায়ু অর্থায়ন কী? প্রশমন ও অভিযোজন অর্থায়নের পার্থক্য লেখো।",
+      "outline": [
+       "জলবায়ু অর্থায়ন: উন্নত দেশ থেকে উন্নয়নশীল দেশে নির্গমন কমানো ও অভিযোজনের জন্য অর্থ।",
+       "প্রশমন: নবায়নযোগ্য জ্বালানি, জ্বালানি সাশ্রয়; অভিযোজন: বাঁধ, খরা-সহিষ্ণু ফসল।",
+       "আইনি ভিত্তি: UNFCCC ৪.৩ অনুচ্ছেদ, প্যারিস চুক্তির ৯ অনুচ্ছেদ।"
+      ]
+     },
+     "analytical": {
+      "question": "উন্নয়নশীল দেশগুলোর জলবায়ু অর্থায়নের দাবি কতটা যৌক্তিক? বাংলাদেশের প্রেক্ষাপটে বিশ্লেষণ করো।",
+      "outline": [
+       "ঐতিহাসিক দায়: উন্নত দেশের নির্গমন বেশি, ক্ষতি ভোগে বাংলাদেশের মতো দেশ।",
+       "অর্থের ঘাটতি: প্রতিশ্রুতি বনাম বাস্তব প্রবাহ; ঋণ বনাম অনুদান বিতর্ক।",
+       "বাংলাদেশের অবস্থান: NDC, অভিযোজন চাহিদা, স্থানীয় পর্যায়ে অর্থ পৌঁছানো।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "channel",
-      "bangla_meaning": "নির্দিষ্ট খাতে প্রবাহিত করা; পরিচালনা করা",
+      "meaning_bn": "নির্দিষ্ট খাতে প্রবাহিত করা; পরিচালনা করা",
       "example": "The institutions launched an initiative to channel $10 billion into climate projects in emerging markets by 2030.",
-      "synonym": "direct",
-      "antonym": "divert"
+      "synonyms": [
+       "direct"
+      ],
+      "antonyms": [
+       "divert"
+      ]
      },
      {
       "word": "coordinate",
-      "bangla_meaning": "সমন্বয় করা; একসঙ্গে কাজের ব্যবস্থা করা",
+      "meaning_bn": "সমন্বয় করা; একসঙ্গে কাজের ব্যবস্থা করা",
       "example": "The institutions will share investment pipelines, coordinate due diligence and cooperate on climate reporting.",
-      "synonym": "organise",
-      "antonym": "disrupt"
+      "synonyms": [
+       "organise"
+      ],
+      "antonyms": [
+       "disrupt"
+      ]
      },
      {
       "word": "mitigation",
-      "bangla_meaning": "প্রশমন; (জলবায়ু) ক্ষতি কমানো",
+      "meaning_bn": "প্রশমন; (জলবায়ু) ক্ষতি কমানো",
       "example": "The funding will support renewable energy and industrial decarbonisation — both mitigation measures.",
-      "synonym": "alleviation",
-      "antonym": "aggravation"
+      "synonyms": [
+       "alleviation"
+      ],
+      "antonyms": [
+       "aggravation"
+      ]
      },
      {
       "word": "adaptation",
-      "bangla_meaning": "অভিযোজন; পরিবর্তিত পরিবেশের সঙ্গে খাপ খাওয়ানো",
+      "meaning_bn": "অভিযোজন; পরিবর্তিত পরিবেশের সঙ্গে খাপ খাওয়ানো",
       "example": "Developing countries press for adaptation finance to cope with climate impacts.",
-      "synonym": "adjustment",
-      "antonym": "resistance"
+      "synonyms": [
+       "adjustment"
+      ],
+      "antonyms": [
+       "resistance"
+      ]
      },
      {
       "word": "emerging",
-      "bangla_meaning": "উদীয়মান; উঠতি",
+      "meaning_bn": "উদীয়মান; উঠতি",
       "example": "The initiative will channel $10 billion into climate projects in emerging markets by 2030.",
-      "synonym": "developing",
-      "antonym": "developed"
+      "synonyms": [
+       "developing"
+      ],
+      "antonyms": [
+       "developed"
+      ]
      }
     ],
     "revision": {
@@ -1077,7 +1165,7 @@
      "text": "১২ নভেম্বর ভোররাতে কুষ্টিয়ার দৌলতপুরের বাগোয়ান গ্রামে এনসিপি নেতা ও সংরক্ষিত আসনের এমপি নুসরাত তাবাসসুমের পৈতৃক বাড়িতে আগুন লাগে। এনসিপি নেতারা বলছেন, সিসিটিভি ফুটেজ বলে দাবি করা ভিডিও পেট্রল বোমা হামলার সঙ্গে সামঞ্জস্যপূর্ণ। আর স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ সংসদে বলেন, তাঁর বিশ্বাস পেট্রল বোমা ব্যবহার করা হয়নি; পুরোনো তারের শর্ট সার্কিটের সম্ভাবনাই বেশি।",
      "source": {
       "publication": "The Business Standard",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.tbsnews.net/bangladesh/politics/ncp-leaders-accuse-home-minister-downplaying-attack-mp-nusrats-residence-1601691"
      }
     },
@@ -1147,128 +1235,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "সংসদ: ৩০০টি সরাসরি নির্বাচিত আসন + ৫০টি সংরক্ষিত নারী আসন = ৩৫০ আসন।",
-      "সংরক্ষিত আসনের ভিত্তি সংবিধানের ৬৫(৩) অনুচ্ছেদ; পদ্ধতি আনুপাতিক প্রতিনিধিত্ব ও একক হস্তান্তরযোগ্য ভোট।",
-      "সংখ্যার ইতিহাস: ১৫ (১৯৭২) → ৩০ (১৯৭৯) → ৪৫ (২০০৪) → ৫০ (২০১১)।"
-     ],
-     "institutions": [
-      {
-       "name": "জাতীয় সংসদ",
-       "role": "৩০০ সরাসরি নির্বাচিত ও ৫০ সংরক্ষিত আসনের এককক্ষবিশিষ্ট আইনসভা"
-      },
-      {
-       "name": "স্বরাষ্ট্র মন্ত্রণালয়",
-       "role": "তদন্ত কমিটি গঠন করে; আইনশৃঙ্খলার দায়িত্বে"
-      },
-      {
-       "name": "পল্লী বিদ্যুৎ",
-       "role": "গ্রামীণ বিদ্যুৎ সংযোগ ও মিটার-তারের পরিদর্শন করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)",
-       "url": "https://bdlaws.minlaw.gov.bd/act-print-367/section-print-24619.html"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "জাতীয় সংসদ",
+      "role": "৩০০ সরাসরি নির্বাচিত ও ৫০ সংরক্ষিত আসনের এককক্ষবিশিষ্ট আইনসভা",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     },
+     {
+      "name": "স্বরাষ্ট্র মন্ত্রণালয়",
+      "role": "তদন্ত কমিটি গঠন করে; আইনশৃঙ্খলার দায়িত্বে",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     },
+     {
+      "name": "পল্লী বিদ্যুৎ",
+      "role": "গ্রামীণ বিদ্যুৎ সংযোগ ও মিটার-তারের পরিদর্শন করে",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     },
+     {
+      "name": "সংসদ",
+      "role": "৩০০টি সরাসরি নির্বাচিত আসন + ৫০টি সংরক্ষিত নারী আসন = ৩৫০ আসন।",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "সংরক্ষিত আসনের ভিত্তি সংবিধানের ৬৫ (৩)",
+      "meaning": "অনুচ্ছেদ; পদ্ধতি আনুপাতিক প্রতিনিধিত্ব ও একক হস্তান্তরযোগ্য ভোট।",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     },
+     {
+      "term": "সংখ্যার ইতিহাস",
+      "meaning": "১৫ (১৯৭২) → ৩০ (১৯৭৯) → ৪৫ (২০০৪) → ৫০ (২০১১)।",
+      "source": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান, অনুচ্ছেদ ৬৫ (bdlaws)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "নুসরাত তাবাসসুমের বাড়িতে আগুন কবে লাগে?",
-      "options": {
-       "A": "১২ নভেম্বর ২০২৬ ভোররাতে",
-       "B": "১৩ নভেম্বর ২০২৬",
-       "C": "১১ নভেম্বর ২০২৬",
-       "D": "১৪ নভেম্বর ২০২৬"
-      },
-      "correct": "A",
+      "options": [
+       "১২ নভেম্বর ২০২৬ ভোররাতে",
+       "১৩ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "১৪ নভেম্বর ২০২৬"
+      ],
+      "correct": 0,
       "explanation": "১২ নভেম্বর ভোররাতে কুষ্টিয়ার দৌলতপুরের বাগোয়ান গ্রামে আগুন লাগে।"
      },
      {
       "question": "বাংলাদেশের সংসদে নারীদের জন্য সংরক্ষিত আসন কয়টি?",
-      "options": {
-       "A": "৩০টি",
-       "B": "৫০টি",
-       "C": "৪৫টি",
-       "D": "১০০টি"
-      },
-      "correct": "B",
+      "options": [
+       "৩০টি",
+       "৫০টি",
+       "৪৫টি",
+       "১০০টি"
+      ],
+      "correct": 1,
       "explanation": "সংবিধানের ৬৫(৩) অনুচ্ছেদ অনুযায়ী ৫০টি আসন নারীদের জন্য সংরক্ষিত।"
      },
      {
       "question": "তদন্ত কমিটি কত সদস্যের?",
-      "options": {
-       "A": "২ সদস্যের",
-       "B": "৩ সদস্যের",
-       "C": "৪ সদস্যের",
-       "D": "৫ সদস্যের"
-      },
-      "correct": "C",
+      "options": [
+       "২ সদস্যের",
+       "৩ সদস্যের",
+       "৪ সদস্যের",
+       "৫ সদস্যের"
+      ],
+      "correct": 2,
       "explanation": "স্বরাষ্ট্র মন্ত্রণালয়ের গঠিত তদন্ত কমিটি চার সদস্যের।"
      },
      {
       "question": "মিটার ও তার পরীক্ষা করে পল্লী বিদ্যুৎ কর্মকর্তা তোজাম্মেল হক কী সিদ্ধান্তে আসেন?",
-      "options": {
-       "A": "শর্ট সার্কিটেই আগুন লেগেছে",
-       "B": "ট্রান্সফরমার বিস্ফোরিত হয়েছে",
-       "C": "মিটার বাইরের লোক বিকৃত করেছে",
-       "D": "শর্ট সার্কিটের কোনো সম্ভাবনা নেই"
-      },
-      "correct": "D",
+      "options": [
+       "শর্ট সার্কিটেই আগুন লেগেছে",
+       "ট্রান্সফরমার বিস্ফোরিত হয়েছে",
+       "মিটার বাইরের লোক বিকৃত করেছে",
+       "শর্ট সার্কিটের কোনো সম্ভাবনা নেই"
+      ],
+      "correct": 3,
       "explanation": "কাট-আউট অক্ষত, ফিউজ পোড়েনি ও মূল সুইচ ক্ষতিগ্রস্ত হয়নি বলে তিনি শর্ট সার্কিটের সম্ভাবনা নাকচ করেন।"
      }
     ],
     "written_prep": {
-     "short_question": "সংরক্ষিত নারী আসনের ব্যবস্থাটি সংক্ষেপে ব্যাখ্যা করো।",
-     "short_outline": [
-      "সংবিধানের ৬৫(৩) অনুচ্ছেদ: ৫০টি আসন নারীদের জন্য সংরক্ষিত।",
-      "নির্বাচন পদ্ধতি: এমপিদের ভোটে, আনুপাতিক প্রতিনিধিত্ব, একক হস্তান্তরযোগ্য ভোট।",
-      "ইতিহাস: ১৫ (১৯৭২) থেকে ৫০ (২০১১); ২০১৮ সালে ২৫ বছর বাড়ানো হয়।"
-     ],
-     "analytical_question": "একজন সংসদ সদস্যের বাড়িতে আগুনের ঘটনায় পরস্পরবিরোধী বক্তব্য তদন্তের নিরপেক্ষতা নিয়ে প্রশ্ন তোলে — বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "ঘটনা: মন্ত্রীর শর্ট সার্কিট তত্ত্ব বনাম বিদ্যুৎ কর্মকর্তার পরীক্ষার ফল।",
-      "নিরপেক্ষতার প্রশ্ন: তদন্ত কমিটির গঠন, স্বচ্ছতা ও জনআস্থা।",
-      "করণীয়: স্বাধীন ফরেনসিক পরীক্ষা, সময়মতো প্রতিবেদন প্রকাশ।"
-     ]
+     "short": {
+      "question": "সংরক্ষিত নারী আসনের ব্যবস্থাটি সংক্ষেপে ব্যাখ্যা করো।",
+      "outline": [
+       "সংবিধানের ৬৫(৩) অনুচ্ছেদ: ৫০টি আসন নারীদের জন্য সংরক্ষিত।",
+       "নির্বাচন পদ্ধতি: এমপিদের ভোটে, আনুপাতিক প্রতিনিধিত্ব, একক হস্তান্তরযোগ্য ভোট।",
+       "ইতিহাস: ১৫ (১৯৭২) থেকে ৫০ (২০১১); ২০১৮ সালে ২৫ বছর বাড়ানো হয়।"
+      ]
+     },
+     "analytical": {
+      "question": "একজন সংসদ সদস্যের বাড়িতে আগুনের ঘটনায় পরস্পরবিরোধী বক্তব্য তদন্তের নিরপেক্ষতা নিয়ে প্রশ্ন তোলে — বিশ্লেষণ করো।",
+      "outline": [
+       "ঘটনা: মন্ত্রীর শর্ট সার্কিট তত্ত্ব বনাম বিদ্যুৎ কর্মকর্তার পরীক্ষার ফল।",
+       "নিরপেক্ষতার প্রশ্ন: তদন্ত কমিটির গঠন, স্বচ্ছতা ও জনআস্থা।",
+       "করণীয়: স্বাধীন ফরেনসিক পরীক্ষা, সময়মতো প্রতিবেদন প্রকাশ।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "impartiality",
-      "bangla_meaning": "নিরপেক্ষতা; পক্ষপাতহীনতা",
+      "meaning_bn": "নিরপেক্ষতা; পক্ষপাতহীনতা",
       "example": "She would remain sceptical about the impartiality of the investigation.",
-      "synonym": "neutrality",
-      "antonym": "bias"
+      "synonyms": [
+       "neutrality"
+      ],
+      "antonyms": [
+       "bias"
+      ]
      },
      {
       "word": "intact",
-      "bangla_meaning": "অক্ষত; অটুট; ক্ষতিগ্রস্ত হয়নি এমন",
+      "meaning_bn": "অক্ষত; অটুট; ক্ষতিগ্রস্ত হয়নি এমন",
       "example": "The team found the electricity meter and wiring apparently intact.",
-      "synonym": "undamaged",
-      "antonym": "damaged"
+      "synonyms": [
+       "undamaged"
+      ],
+      "antonyms": [
+       "damaged"
+      ]
      },
      {
       "word": "allegation",
-      "bangla_meaning": "অভিযোগ; দাবি (প্রমাণ ছাড়া)",
+      "meaning_bn": "অভিযোগ; দাবি (প্রমাণ ছাড়া)",
       "example": "NCP leaders say videos are consistent with a petrol bomb attack — an allegation the home minister disputes.",
-      "synonym": "accusation",
-      "antonym": "vindication"
+      "synonyms": [
+       "accusation"
+      ],
+      "antonyms": [
+       "vindication"
+      ]
      },
      {
       "word": "probe",
-      "bangla_meaning": "তদন্ত; অনুসন্ধান",
+      "meaning_bn": "তদন্ত; অনুসন্ধান",
       "example": "A four-member probe committee visited the house at around 10:30 am on 13 November.",
-      "synonym": "investigation",
-      "antonym": "cover-up"
+      "synonyms": [
+       "investigation"
+      ],
+      "antonyms": [
+       "cover-up"
+      ]
      },
      {
       "word": "sabotage",
-      "bangla_meaning": "নাশকতা; ইচ্ছাকৃত ধ্বংস",
+      "meaning_bn": "নাশকতা; ইচ্ছাকৃত ধ্বংস",
       "example": "The home minister said action would follow if sabotage was established.",
-      "synonym": "vandalism",
-      "antonym": "protection"
+      "synonyms": [
+       "vandalism"
+      ],
+      "antonyms": [
+       "protection"
+      ]
      }
     ],
     "revision": {
@@ -1394,7 +1513,7 @@
      "text": "ঢাকা বিশ্ববিদ্যালয় ও বুয়েট এইচএসসি সম্পূরক পরীক্ষায় উত্তীর্ণ শিক্ষার্থীদের স্নাতক ভর্তি পরীক্ষায় বসতে দিচ্ছে না; তারা আগের ঘোষিত সূচিতেই অনড়। আর বেশিরভাগ বিশ্ববিদ্যালয় তাদের সূচি সংশোধন করছে। ১১টি বোর্ডের অধীনে ১২ লাখ ৪০ হাজার ৭৯৮ জন পরীক্ষা দেয়; পাস করে ৬ লাখ ৪৬ হাজার ৬৮৫ জন — পাসের হার ৫২.১২% — আর জিপিএ-৫ পায় ৪০ হাজার ৮৪ জন।",
      "source": {
       "publication": "Prothom Alo English",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://en.prothomalo.com/youth/education/sm22pntzlz"
      }
     },
@@ -1464,136 +1583,164 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইউজিসি: রাষ্ট্রপতির আদেশ নং ১০, ১৯৭৩; কার্যকর ১৬ ডিসেম্বর ১৯৭২ থেকে।",
-      "ইউজিসির মূল কাজ: অর্থ বরাদ্দ, মান নিয়ন্ত্রণ, নতুন বিশ্ববিদ্যালয়ে পরামর্শ।",
-      "২০২৬ সালের এইচএসসি: ১২,৪০,৭৯৮ পরীক্ষার্থী, ৫২.১২% পাস, ৪০,০৮৪ জিপিএ-৫।"
-     ],
-     "institutions": [
-      {
-       "name": "বিশ্ববিদ্যালয় মঞ্জুরী কমিশন (UGC)",
-       "role": "উচ্চশিক্ষার সর্বোচ্চ সংস্থা; বিশ্ববিদ্যালয়ে সরকারি অনুদান বরাদ্দ দেয়"
-      },
-      {
-       "name": "ঢাকা বিশ্ববিদ্যালয়",
-       "role": "সম্পূরক উত্তীর্ণদের ভর্তি পরীক্ষায় বসতে দিচ্ছে না"
-      },
-      {
-       "name": "বুয়েট (BUET)",
-       "role": "সম্পূরক উত্তীর্ণদের ভর্তি পরীক্ষায় বসতে দিচ্ছে না"
-      },
-      {
-       "name": "চট্টগ্রাম ও রাজশাহী বিশ্ববিদ্যালয়",
-       "role": "সম্পূরক উত্তীর্ণদের জন্য সূচি সমন্বয় করেছে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws)",
-       "url": "http://bdlaws.minlaw.gov.bd/act-print-446.html"
-      },
-      {
-       "name": "Banglapedia — University Grants Commission",
-       "url": "https://en.banglapedia.org/index.php?title=University_Grants_Commission"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "বিশ্ববিদ্যালয় মঞ্জুরী কমিশন (UGC)",
+      "role": "উচ্চশিক্ষার সর্বোচ্চ সংস্থা; বিশ্ববিদ্যালয়ে সরকারি অনুদান বরাদ্দ দেয়",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     },
+     {
+      "name": "ঢাকা বিশ্ববিদ্যালয়",
+      "role": "সম্পূরক উত্তীর্ণদের ভর্তি পরীক্ষায় বসতে দিচ্ছে না",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     },
+     {
+      "name": "বুয়েট (BUET)",
+      "role": "সম্পূরক উত্তীর্ণদের ভর্তি পরীক্ষায় বসতে দিচ্ছে না",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     },
+     {
+      "name": "চট্টগ্রাম ও রাজশাহী বিশ্ববিদ্যালয়",
+      "role": "সম্পূরক উত্তীর্ণদের জন্য সূচি সমন্বয় করেছে",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     },
+     {
+      "name": "ইউজিসি",
+      "role": "রাষ্ট্রপতির আদেশ নং ১০, ১৯৭৩; কার্যকর ১৬ ডিসেম্বর ১৯৭২ থেকে।",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "ইউজিসির মূল কাজ",
+      "meaning": "অর্থ বরাদ্দ, মান নিয়ন্ত্রণ, নতুন বিশ্ববিদ্যালয়ে পরামর্শ।",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     },
+     {
+      "term": "২০২৬ সালের এইচএসসি",
+      "meaning": "১২,৪০,৭৯৮ পরীক্ষার্থী, ৫২.১২% পাস, ৪০,০৮৪ জিপিএ-৫।",
+      "source": "The University Grants Commission of Bangladesh Order, 1973 (bdlaws); Banglapedia — University Grants Commission"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২০২৬ সালের এইচএসসি ও সমমান পরীক্ষায় পাসের হার কত ছিল?",
-      "options": {
-       "A": "৬২.১২%",
-       "B": "৫২.১২%",
-       "C": "৪২.১২%",
-       "D": "৭২.১২%"
-      },
-      "correct": "B",
+      "options": [
+       "৬২.১২%",
+       "৫২.১২%",
+       "৪২.১২%",
+       "৭২.১২%"
+      ],
+      "correct": 1,
       "explanation": "৬,৪৬,৬৮৫ জন পাস করে — পাসের হার ৫২.১২%।"
      },
      {
       "question": "ইউজিসি কোন আদেশে প্রতিষ্ঠিত হয়?",
-      "options": {
-       "A": "রাষ্ট্রপতির আদেশ নং ১০, ১৯৭৩",
-       "B": "১৯৭২ সালের সংবিধান",
-       "C": "শিক্ষা আইন ২০১০",
-       "D": "১৯৯২ সালের আইন"
-      },
-      "correct": "A",
+      "options": [
+       "রাষ্ট্রপতির আদেশ নং ১০, ১৯৭৩",
+       "১৯৭২ সালের সংবিধান",
+       "শিক্ষা আইন ২০১০",
+       "১৯৯২ সালের আইন"
+      ],
+      "correct": 0,
       "explanation": "ইউজিসি গঠিত হয় রাষ্ট্রপতির আদেশ নং ১০, ১৯৭৩ অনুযায়ী।"
      },
      {
       "question": "সম্পূরক পরীক্ষা কবে অনুষ্ঠিত হবে?",
-      "options": {
-       "A": "১–১৫ নভেম্বর ২০২৬",
-       "B": "১–১৫ জানুয়ারি ২০২৭",
-       "C": "১–১৫ ডিসেম্বর ২০২৬",
-       "D": "১–১৫ ফেব্রুয়ারি ২০২৭"
-      },
-      "correct": "C",
+      "options": [
+       "১–১৫ নভেম্বর ২০২৬",
+       "১–১৫ জানুয়ারি ২০২৭",
+       "১–১৫ ডিসেম্বর ২০২৬",
+       "১–১৫ ফেব্রুয়ারি ২০২৭"
+      ],
+      "correct": 2,
       "explanation": "সম্পূরক পরীক্ষা ১–১৫ ডিসেম্বর, ফল ডিসেম্বরের শেষে আশা করা হচ্ছে।"
      },
      {
       "question": "২০২৬ সালের এইচএসসিতে জিপিএ-৫ পেয়েছে কতজন?",
-      "options": {
-       "A": "৩০,০৮৪ জন",
-       "B": "৫০,০৮৪ জন",
-       "C": "৬০,০৮৪ জন",
-       "D": "৪০,০৮৪ জন"
-      },
-      "correct": "D",
+      "options": [
+       "৩০,০৮৪ জন",
+       "৫০,০৮৪ জন",
+       "৬০,০৮৪ জন",
+       "৪০,০৮৪ জন"
+      ],
+      "correct": 3,
       "explanation": "৪০,০৮৪ জন পরীক্ষার্থী জিপিএ-৫ পেয়েছে।"
      }
     ],
     "written_prep": {
-     "short_question": "সম্পূরক পরীক্ষায় উত্তীর্ণদের ভর্তি পরীক্ষায় সুযোগ দেওয়া নিয়ে বিশ্ববিদ্যালয়গুলোর ভিন্ন অবস্থান সংক্ষেপে লেখো।",
-     "short_outline": [
-      "ঢাকা বিশ্ববিদ্যালয় ও বুয়েট: সুযোগ দিচ্ছে না, আগের সূচিতেই অনড়।",
-      "চট্টগ্রাম ও রাজশাহী: সূচি সমন্বয় করে সুযোগ দিচ্ছে।",
-      "ইউজিসির সিদ্ধান্ত: জানুয়ারি থেকে আবেদন, ফেব্রুয়ারি থেকে পরীক্ষা।"
-     ],
-     "analytical_question": "পাসের হার ৫২.১২%-এ নেমে আসা বাংলাদেশের মাধ্যমিক শিক্ষার মান নিয়ে কী প্রশ্ন তোলে? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "তথ্য: প্রায় অর্ধেক পরীক্ষার্থী অকৃতকার্য — কারণ অনুসন্ধান জরুরি।",
-      "সম্ভাব্য কারণ: পাঠদানের মান, মূল্যায়ন পদ্ধতি, শিক্ষার্থীর প্রস্তুতি।",
-      "করণীয়: শিক্ষক প্রশিক্ষণ, কারিকুলাম পর্যালোচনা, সম্পূরক ব্যবস্থার কার্যকারিতা।"
-     ]
+     "short": {
+      "question": "সম্পূরক পরীক্ষায় উত্তীর্ণদের ভর্তি পরীক্ষায় সুযোগ দেওয়া নিয়ে বিশ্ববিদ্যালয়গুলোর ভিন্ন অবস্থান সংক্ষেপে লেখো।",
+      "outline": [
+       "ঢাকা বিশ্ববিদ্যালয় ও বুয়েট: সুযোগ দিচ্ছে না, আগের সূচিতেই অনড়।",
+       "চট্টগ্রাম ও রাজশাহী: সূচি সমন্বয় করে সুযোগ দিচ্ছে।",
+       "ইউজিসির সিদ্ধান্ত: জানুয়ারি থেকে আবেদন, ফেব্রুয়ারি থেকে পরীক্ষা।"
+      ]
+     },
+     "analytical": {
+      "question": "পাসের হার ৫২.১২%-এ নেমে আসা বাংলাদেশের মাধ্যমিক শিক্ষার মান নিয়ে কী প্রশ্ন তোলে? বিশ্লেষণ করো।",
+      "outline": [
+       "তথ্য: প্রায় অর্ধেক পরীক্ষার্থী অকৃতকার্য — কারণ অনুসন্ধান জরুরি।",
+       "সম্ভাব্য কারণ: পাঠদানের মান, মূল্যায়ন পদ্ধতি, শিক্ষার্থীর প্রস্তুতি।",
+       "করণীয়: শিক্ষক প্রশিক্ষণ, কারিকুলাম পর্যালোচনা, সম্পূরক ব্যবস্থার কার্যকারিতা।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "accommodate",
-      "bangla_meaning": "স্থান দেওয়া; ব্যবস্থা করা; মানিয়ে নেওয়া",
+      "meaning_bn": "স্থান দেওয়া; ব্যবস্থা করা; মানিয়ে নেওয়া",
       "example": "Several universities have revised their admission schedules to accommodate these students.",
-      "synonym": "include",
-      "antonym": "exclude"
+      "synonyms": [
+       "include"
+      ],
+      "antonyms": [
+       "exclude"
+      ]
      },
      {
       "word": "supplementary",
-      "bangla_meaning": "সম্পূরক; অতিরিক্ত (পরীক্ষা)",
+      "meaning_bn": "সম্পূরক; অতিরিক্ত (পরীক্ষা)",
       "example": "Supplementary examinations for students who failed in up to two subjects run from 1 December to 15 December.",
-      "synonym": "additional",
-      "antonym": "main"
+      "synonyms": [
+       "additional"
+      ],
+      "antonyms": [
+       "main"
+      ]
      },
      {
       "word": "admission",
-      "bangla_meaning": "ভর্তি; প্রবেশ",
+      "meaning_bn": "ভর্তি; প্রবেশ",
       "example": "Most universities are revising their schedules for undergraduate admission tests.",
-      "synonym": "enrolment",
-      "antonym": "expulsion"
+      "synonyms": [
+       "enrolment"
+      ],
+      "antonyms": [
+       "expulsion"
+      ]
      },
      {
       "word": "candidate",
-      "bangla_meaning": "পরীক্ষার্থী; প্রার্থী",
+      "meaning_bn": "পরীক্ষার্থী; প্রার্থী",
       "example": "Of the 1,240,798 candidates who sat the HSC, 646,685 passed.",
-      "synonym": "examinee",
-      "antonym": "examiner"
+      "synonyms": [
+       "examinee"
+      ],
+      "antonyms": [
+       "examiner"
+      ]
      },
      {
       "word": "merit",
-      "bangla_meaning": "মেধা; যোগ্যতা",
+      "meaning_bn": "মেধা; যোগ্যতা",
       "example": "40,084 students secured GPA-5, the highest grade, on merit.",
-      "synonym": "excellence",
-      "antonym": "demerit"
+      "synonyms": [
+       "excellence"
+      ],
+      "antonyms": [
+       "demerit"
+      ]
      }
     ],
     "revision": {
@@ -1720,7 +1867,7 @@
      "text": "কলামিস্ট নাঈম-উল-করিম সঞ্চয় লিখেছেন খুলনার দাকোপের শিবসা নদীর তীরে কালাবগি গ্রাম থেকে — একটি 'ঝুলন্ত' গ্রাম, যেখানে বাঁশ ও ছনের ঘর নদীভাঙনে বছরে কয়েকবার সরাতে হয়। COP31-এ তাঁর প্রশ্ন: দায় কার? উত্তর স্পষ্ট — উন্নত দেশগুলোকেই প্রাথমিক দায় নিতে হবে, 'দয়া হিসেবে নয়, ন্যায়বিচার হিসেবে'।",
      "source": {
       "publication": "Prothom Alo English",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://en.prothomalo.com/opinion/op-ed/79imnkm96u"
      }
     },
@@ -1790,132 +1937,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "CBDR-RC: UNFCCC ৩(১) অনুচ্ছেদ; উৎস রিও ঘোষণার নীতি ৭ (১৯৯২)।",
-      "ক্ষয়ক্ষতি তহবিল: COP27-এ সম্মত, COP28-এ কার্যকর — জলবায়ু অর্থায়নের তৃতীয় স্তম্ভ।",
-      "বাংলাদেশের অবস্থান: ১৭ কোটি মানুষ, ০.৫%-এর কম নির্গমন, অথচ সমুদ্রপৃষ্ঠের উচ্চতা, লবণাক্ততা ও ঘূর্ণিঝড়ের সামনে সারিতে।"
-     ],
-     "institutions": [
-      {
-       "name": "UNFCCC",
-       "role": "জলবায়ু কনভেনশন; CBDR-RC নীতির আইনি ভিত্তি"
-      },
-      {
-       "name": "ক্ষয়ক্ষতি তহবিল (FRLD)",
-       "role": "ঝুঁকিপূর্ণ উন্নয়নশীল দেশকে জলবায়ু-ক্ষতি মোকাবিলায় অর্থ দেয়"
-      },
-      {
-       "name": "LDC গ্রুপ",
-       "role": "স্বল্পোন্নত দেশগুলোর জলবায়ু আলোচনার জোট"
-      }
-     ],
-     "sources": [
-      {
-       "name": "University of the Philippines College of Law — CBDR-RC in Loss and Damage",
-       "url": "https://law.upd.edu.ph/wp-content/uploads/2026/10/The-Fund-May-Never-Be-Enough_Common-But-Differentiated-Responsibilities-and-Respective-Capabilities-in-Loss-and-Damage.pdf"
-      },
-      {
-       "name": "IDR Explains: The Loss and Damage Fund",
-       "url": "https://idronline.org/features/climate-emergency/idr-explains-the-loss-and-damage-fund/?amp"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "UNFCCC",
+      "role": "জলবায়ু কনভেনশন; CBDR-RC নীতির আইনি ভিত্তি",
+      "source": "University of the Philippines College of Law — CBDR-RC in Loss and Damage; IDR Explains: The Loss and Damage Fund"
+     },
+     {
+      "name": "ক্ষয়ক্ষতি তহবিল (FRLD)",
+      "role": "ঝুঁকিপূর্ণ উন্নয়নশীল দেশকে জলবায়ু-ক্ষতি মোকাবিলায় অর্থ দেয়। COP27-এ সম্মত, COP28-এ কার্যকর — জলবায়ু অর্থায়নের তৃতীয় স্তম্ভ।",
+      "source": "University of the Philippines College of Law — CBDR-RC in Loss and Damage; IDR Explains: The Loss and Damage Fund"
+     },
+     {
+      "name": "LDC গ্রুপ",
+      "role": "স্বল্পোন্নত দেশগুলোর জলবায়ু আলোচনার জোট",
+      "source": "University of the Philippines College of Law — CBDR-RC in Loss and Damage; IDR Explains: The Loss and Damage Fund"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "CBDR-RC",
+      "meaning": "UNFCCC ৩(১) অনুচ্ছেদ; উৎস রিও ঘোষণার নীতি ৭ (১৯৯২)।",
+      "source": "University of the Philippines College of Law — CBDR-RC in Loss and Damage; IDR Explains: The Loss and Damage Fund"
+     },
+     {
+      "term": "বাংলাদেশের অবস্থান",
+      "meaning": "১৭ কোটি মানুষ, ০.৫%-এর কম নির্গমন, অথচ সমুদ্রপৃষ্ঠের উচ্চতা, লবণাক্ততা ও ঘূর্ণিঝড়ের সামনে সারিতে।",
+      "source": "University of the Philippines College of Law — CBDR-RC in Loss and Damage; IDR Explains: The Loss and Damage Fund"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "কলাম অনুযায়ী, বৈশ্বিক নির্গমনে বাংলাদেশের অংশ কত?",
-      "options": {
-       "A": "০.৫%-এর কম",
-       "B": "৫%",
-       "C": "১.৫%",
-       "D": "১০%"
-      },
-      "correct": "A",
+      "options": [
+       "০.৫%-এর কম",
+       "৫%",
+       "১.৫%",
+       "১০%"
+      ],
+      "correct": 0,
       "explanation": "বাংলাদেশ ১৭ কোটির বেশি মানুষের দেশ হয়েও বৈশ্বিক নির্গমনের ০.৫%-এর কম অবদান রাখে।"
      },
      {
       "question": "ক্ষয়ক্ষতি তহবিল গঠনে কবে সম্মত হয়?",
-      "options": {
-       "A": "COP26-এ",
-       "B": "COP27-এ",
-       "C": "COP28-এ",
-       "D": "COP29-এ"
-      },
-      "correct": "B",
+      "options": [
+       "COP26-এ",
+       "COP27-এ",
+       "COP28-এ",
+       "COP29-এ"
+      ],
+      "correct": 1,
       "explanation": "তহবিল গঠনে সম্মত হয় COP27 (২০২২)-এ; কার্যকর করা হয় COP28 (২০২৩)-এ।"
      },
      {
       "question": "২০৩৫ সালের মধ্যে বছরে কত অর্থ জোগাড়ের প্রতিশ্রুতি দেওয়া হয়েছিল?",
-      "options": {
-       "A": "১০০ বিলিয়ন ডলার",
-       "B": "১২০ বিলিয়ন ডলার",
-       "C": "৩০০ বিলিয়ন ডলার",
-       "D": "১.৩ ট্রিলিয়ন ডলার"
-      },
-      "correct": "C",
+      "options": [
+       "১০০ বিলিয়ন ডলার",
+       "১২০ বিলিয়ন ডলার",
+       "৩০০ বিলিয়ন ডলার",
+       "১.৩ ট্রিলিয়ন ডলার"
+      ],
+      "correct": 2,
       "explanation": "উন্নত দেশগুলো ২০৩৫ সালের মধ্যে বছরে ৩০০ বিলিয়ন ডলার জোগাড়ের প্রতিশ্রুতি দিয়েছিল।"
      },
      {
       "question": "CBDR নীতির আইনি উৎস কোনটি?",
-      "options": {
-       "A": "প্যারিস চুক্তির ৯ অনুচ্ছেদ",
-       "B": "কিয়োটো প্রটোকল",
-       "C": "মন্ট্রিল প্রটোকল",
-       "D": "রিও ঘোষণার নীতি ৭ ও UNFCCC-এর ৩(১) অনুচ্ছেদ"
-      },
-      "correct": "D",
+      "options": [
+       "প্যারিস চুক্তির ৯ অনুচ্ছেদ",
+       "কিয়োটো প্রটোকল",
+       "মন্ট্রিল প্রটোকল",
+       "রিও ঘোষণার নীতি ৭ ও UNFCCC-এর ৩(১) অনুচ্ছেদ"
+      ],
+      "correct": 3,
       "explanation": "CBDR-এর শিকড় রিও ঘোষণার নীতি ৭-এ; UNFCCC-এর ৩(১) অনুচ্ছেদে এটি সংবিধিবদ্ধ হয়েছে।"
      }
     ],
     "written_prep": {
-     "short_question": "জলবায়ু ন্যায়বিচার বলতে কী বোঝায়? কালাবগির উদাহরণ দিয়ে লেখো।",
-     "short_outline": [
-      "ন্যায়বিচার: যারা কম নির্গমন করে তারাই বেশি ক্ষতিগ্রস্ত — দায় আনুপাতিক হওয়া উচিত।",
-      "কালাবগি: নদীভাঙনে ঘর বছরে কয়েকবার সরাতে হয়; লবণাক্ততায় খাবার পানি সংকট।",
-      "বাংলাদেশ: ০.৫%-এর কম নির্গমন, অথচ সমুদ্রপৃষ্ঠের উচ্চতা ও ঘূর্ণিঝড়ের সামনে।"
-     ],
-     "analytical_question": "'দয়া নয়, ন্যায়বিচার' — COP31-এ বাংলাদেশের এই অবস্থানের যৌক্তিকতা বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "ঐতিহাসিক দায়: উন্নত দেশের দীর্ঘদিনের নির্গমন বনাম বাংলাদেশের নগণ্য অংশ।",
-      "ক্ষতির বাস্তবতা: নদীভাঙন, লবণাক্ততা, ঘূর্ণিঝড় — জীবন ও জীবিকা।",
-      "দাবি: অনুদানভিত্তিক অর্থ, ক্ষয়ক্ষতি তহবিলের কার্যকর বাস্তবায়ন।"
-     ]
+     "short": {
+      "question": "জলবায়ু ন্যায়বিচার বলতে কী বোঝায়? কালাবগির উদাহরণ দিয়ে লেখো।",
+      "outline": [
+       "ন্যায়বিচার: যারা কম নির্গমন করে তারাই বেশি ক্ষতিগ্রস্ত — দায় আনুপাতিক হওয়া উচিত।",
+       "কালাবগি: নদীভাঙনে ঘর বছরে কয়েকবার সরাতে হয়; লবণাক্ততায় খাবার পানি সংকট।",
+       "বাংলাদেশ: ০.৫%-এর কম নির্গমন, অথচ সমুদ্রপৃষ্ঠের উচ্চতা ও ঘূর্ণিঝড়ের সামনে।"
+      ]
+     },
+     "analytical": {
+      "question": "'দয়া নয়, ন্যায়বিচার' — COP31-এ বাংলাদেশের এই অবস্থানের যৌক্তিকতা বিশ্লেষণ করো।",
+      "outline": [
+       "ঐতিহাসিক দায়: উন্নত দেশের দীর্ঘদিনের নির্গমন বনাম বাংলাদেশের নগণ্য অংশ।",
+       "ক্ষতির বাস্তবতা: নদীভাঙন, লবণাক্ততা, ঘূর্ণিঝড় — জীবন ও জীবিকা।",
+       "দাবি: অনুদানভিত্তিক অর্থ, ক্ষয়ক্ষতি তহবিলের কার্যকর বাস্তবায়ন।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "salinity",
-      "bangla_meaning": "লবণাক্ততা",
+      "meaning_bn": "লবণাক্ততা",
       "example": "When a mother in Dacope struggles to find safe drinking water because of salinity intrusion, she is bearing the cost of decades of emissions.",
-      "synonym": "saltiness",
-      "antonym": "freshness"
+      "synonyms": [
+       "saltiness"
+      ],
+      "antonyms": [
+       "freshness"
+      ]
      },
      {
       "word": "erosion",
-      "bangla_meaning": "ক্ষয়; ভাঙন",
+      "meaning_bn": "ক্ষয়; ভাঙন",
       "example": "Kalabogi homes must be relocated several times a year due to regular river erosion driven by climate change.",
-      "synonym": "wearing away",
-      "antonym": "deposition"
+      "synonyms": [
+       "wearing away"
+      ],
+      "antonyms": [
+       "deposition"
+      ]
      },
      {
       "word": "emissions",
-      "bangla_meaning": "নির্গমন; (গ্যাস) নির্গত হওয়া",
+      "meaning_bn": "নির্গমন; (গ্যাস) নির্গত হওয়া",
       "example": "Bangladesh contributes less than 0.5% of global emissions.",
-      "synonym": "discharge",
-      "antonym": "absorption"
+      "synonyms": [
+       "discharge"
+      ],
+      "antonyms": [
+       "absorption"
+      ]
      },
      {
       "word": "vulnerable",
-      "bangla_meaning": "ঝুঁকিপূর্ণ; ক্ষতির মুখে থাকা",
+      "meaning_bn": "ঝুঁকিপূর্ণ; ক্ষতির মুখে থাকা",
       "example": "The fund assists developing countries particularly vulnerable to climate change.",
-      "synonym": "exposed",
-      "antonym": "resilient"
+      "synonyms": [
+       "exposed"
+      ],
+      "antonyms": [
+       "resilient"
+      ]
      },
      {
       "word": "justice",
-      "bangla_meaning": "ন্যায়বিচার",
+      "meaning_bn": "ন্যায়বিচার",
       "example": "Developed nations must take primary responsibility — 'not as charity, but as justice'.",
-      "synonym": "fairness",
-      "antonym": "injustice"
+      "synonyms": [
+       "fairness"
+      ],
+      "antonyms": [
+       "injustice"
+      ]
      }
     ],
     "revision": {
@@ -2049,7 +2218,7 @@
      "text": "পরিবেশমন্ত্রী আব্দুল আউয়াল মিন্টুর নেতৃত্বে বাংলাদেশের প্রতিনিধিদল ১৩ নভেম্বর COP31-এ জানায়, কম-কার্বন উন্নয়ন ও জ্বালানি রূপান্তর নির্ভর করে অনুমানযোগ্য ও সাশ্রয়ী আন্তর্জাতিক অর্থায়নের ওপর। NDC ৩.০ অনুযায়ী বাংলাদেশ ২০৩৫ সালের মধ্যে নিজস্ব সম্পদে ব্যবসা-যথারীতি অবস্থা থেকে ৬.৩৯% নিঃসরণ কমানোর লক্ষ্য নিয়েছে, আর আন্তর্জাতিক সহায়তা পেলে আরও ১৩.৯২% কমাবে। ক্লাইমেট ইনভেস্টমেন্ট ফান্ডস উপকূল সুরক্ষা ও ম্যানগ্রোভ পুনরুদ্ধারে বাংলাদেশকে ৩০ মিলিয়ন ডলার পর্যন্ত দেবে।",
      "source": {
       "publication": "The Daily Observer",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.observerbd.com/news/605956"
      }
     },
@@ -2123,132 +2292,165 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "NDC ৩.০: বাংলাদেশের শর্তহীন ৬.৩৯% + শর্তসাপেক্ষ ১৩.৯২% (২০৩৫)।",
-      "NDC চক্র: প্রতি ৫ বছরে নতুন NDC; প্রতিটি আগেরটির চেয়ে উচ্চাভিলাষী।",
-      "বৈশ্বিক মজুদ পর্যালোচনা (GST): প্রতি ৫ বছরে সামগ্রিক অগ্রগতি পর্যালোচনা; প্রথমটি ২০২৩ সালে।"
-     ],
-     "institutions": [
-      {
-       "name": "UNFCCC সচিবালয়",
-       "role": "NDC-এর পাবলিক রেজিস্ট্রি রাখে"
-      },
-      {
-       "name": "ক্লাইমেট ইনভেস্টমেন্ট ফান্ডস (CIF)",
-       "role": "উন্নয়নশীল দেশে জলবায়ু প্রকল্পে অর্থ দেয়; বাংলাদেশকে ৩০ মিলিয়ন ডলার পর্যন্ত দেবে"
-      },
-      {
-       "name": "LDC গ্রুপ",
-       "role": "স্বল্পোন্নত দেশগুলোর আলোচনার জোট; ১২০ বিলিয়ন ডলার অভিযোজন অর্থ দাবি করে"
-      },
-      {
-       "name": "বিশ্ব আবহাওয়া সংস্থা (WMO)",
-       "role": "বৈশ্বিক তাপমাত্রার তথ্য প্রকাশ করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "UNFCCC — Nationally Determined Contributions (NDCs)",
-       "url": "https://unfccc.int/process-and-meetings/the-paris-agreement/nationally-determined-contributions-ndcs"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "UNFCCC সচিবালয়",
+      "role": "NDC-এর পাবলিক রেজিস্ট্রি রাখে",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     },
+     {
+      "name": "ক্লাইমেট ইনভেস্টমেন্ট ফান্ডস (CIF)",
+      "role": "উন্নয়নশীল দেশে জলবায়ু প্রকল্পে অর্থ দেয়; বাংলাদেশকে ৩০ মিলিয়ন ডলার পর্যন্ত দেবে",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     },
+     {
+      "name": "LDC গ্রুপ",
+      "role": "স্বল্পোন্নত দেশগুলোর আলোচনার জোট; ১২০ বিলিয়ন ডলার অভিযোজন অর্থ দাবি করে",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     },
+     {
+      "name": "বিশ্ব আবহাওয়া সংস্থা (WMO)",
+      "role": "বৈশ্বিক তাপমাত্রার তথ্য প্রকাশ করে",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "NDC ৩.০",
+      "meaning": "বাংলাদেশের শর্তহীন ৬.৩৯% + শর্তসাপেক্ষ ১৩.৯২% (২০৩৫)।",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     },
+     {
+      "term": "NDC চক্র",
+      "meaning": "প্রতি ৫ বছরে নতুন NDC; প্রতিটি আগেরটির চেয়ে উচ্চাভিলাষী।",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     },
+     {
+      "term": "বৈশ্বিক মজুদ পর্যালোচনা",
+      "full_name": "GST",
+      "meaning": "প্রতি ৫ বছরে সামগ্রিক অগ্রগতি পর্যালোচনা; প্রথমটি ২০২৩ সালে।",
+      "source": "UNFCCC — Nationally Determined Contributions (NDCs)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "NDC ৩.০-এ বাংলাদেশের শর্তহীন নিঃসরণ কমানোর লক্ষ্য কত?",
-      "options": {
-       "A": "১৩.৯২%",
-       "B": "৬.৩৯%",
-       "C": "৩০%",
-       "D": "১.৪৭%"
-      },
-      "correct": "B",
+      "options": [
+       "১৩.৯২%",
+       "৬.৩৯%",
+       "৩০%",
+       "১.৪৭%"
+      ],
+      "correct": 1,
       "explanation": "নিজস্ব সম্পদে ৬.৩৯% কমানোর লক্ষ্য; আন্তর্জাতিক সহায়তায় আরও ১৩.৯২%।"
      },
      {
       "question": "আন্তর্জাতিক সহায়তা পেলে বাংলাদেশ অতিরিক্ত কত শতাংশ নিঃসরণ কমাবে?",
-      "options": {
-       "A": "৬.৩৯%",
-       "B": "৩০%",
-       "C": "১২০ বিলিয়ন ডলার",
-       "D": "১৩.৯২%"
-      },
-      "correct": "D",
+      "options": [
+       "৬.৩৯%",
+       "৩০%",
+       "১২০ বিলিয়ন ডলার",
+       "১৩.৯২%"
+      ],
+      "correct": 3,
       "explanation": "শর্তসাপেক্ষ লক্ষ্য আরও ১৩.৯২%।"
      },
      {
       "question": "প্যারিস চুক্তি অনুযায়ী NDC কত বছর পর পর জমা দিতে হয়?",
-      "options": {
-       "A": "৫ বছর",
-       "B": "২ বছর",
-       "C": "১০ বছর",
-       "D": "৩ বছর"
-      },
-      "correct": "A",
+      "options": [
+       "৫ বছর",
+       "২ বছর",
+       "১০ বছর",
+       "৩ বছর"
+      ],
+      "correct": 0,
       "explanation": "NDC প্রতি পাঁচ বছরে জমা দিতে হয়; প্রতিটি নতুন NDC আগেরটির চেয়ে উচ্চাভিলাষী হতে হয়।"
      },
      {
       "question": "ক্লাইমেট ইনভেস্টমেন্ট ফান্ডস বাংলাদেশকে কত অর্থ দেবে?",
-      "options": {
-       "A": "১২০ বিলিয়ন ডলার",
-       "B": "৩০০ বিলিয়ন ডলার",
-       "C": "৩০ মিলিয়ন ডলার পর্যন্ত",
-       "D": "১০ বিলিয়ন ডলার"
-      },
-      "correct": "C",
+      "options": [
+       "১২০ বিলিয়ন ডলার",
+       "৩০০ বিলিয়ন ডলার",
+       "৩০ মিলিয়ন ডলার পর্যন্ত",
+       "১০ বিলিয়ন ডলার"
+      ],
+      "correct": 2,
       "explanation": "CIF উপকূল সুরক্ষা ও ম্যানগ্রোভ পুনরুদ্ধারে ৩০ মিলিয়ন ডলার পর্যন্ত দেবে।"
      }
     ],
     "written_prep": {
-     "short_question": "NDC কী? বাংলাদেশের NDC ৩.০-এর লক্ষ্যগুলো লেখো।",
-     "short_outline": [
-      "NDC: প্যারিস চুক্তির অধীনে প্রতিটি দেশের জলবায়ু কর্মপরিকল্পনা; প্রতি ৫ বছরে জমা দিতে হয়।",
-      "বাংলাদেশের লক্ষ্য: নিজস্ব সম্পদে ৬.৩৯%, সহায়তায় আরও ১৩.৯২% (২০৩৫)।",
-      "সহায়ক ব্যবস্থা: CIF-এর ৩০ মিলিয়ন ডলার, কার্বন ক্রেডিট বাণিজ্যের প্রস্তুতি।"
-     ],
-     "analytical_question": "বাংলাদেশের মতো স্বল্পোন্নত দেশের জন্য শর্তসাপেক্ষ NDC লক্ষ্য কেন গুরুত্বপূর্ণ? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "অর্থের ঘাটতি: নিজস্ব সম্পদে বড় লক্ষ্য নেওয়া কঠিন।",
-      "ন্যায়বিচার: ঐতিহাসিক নির্গমনে বাংলাদেশের দায় নগণ্য, তবু ঝুঁকি সবচেয়ে বেশি।",
-      "আলোচনার হাতিয়ার: শর্তসাপেক্ষ লক্ষ্য অর্থায়নের দাবিকে শক্তিশালী করে।"
-     ]
+     "short": {
+      "question": "NDC কী? বাংলাদেশের NDC ৩.০-এর লক্ষ্যগুলো লেখো।",
+      "outline": [
+       "NDC: প্যারিস চুক্তির অধীনে প্রতিটি দেশের জলবায়ু কর্মপরিকল্পনা; প্রতি ৫ বছরে জমা দিতে হয়।",
+       "বাংলাদেশের লক্ষ্য: নিজস্ব সম্পদে ৬.৩৯%, সহায়তায় আরও ১৩.৯২% (২০৩৫)।",
+       "সহায়ক ব্যবস্থা: CIF-এর ৩০ মিলিয়ন ডলার, কার্বন ক্রেডিট বাণিজ্যের প্রস্তুতি।"
+      ]
+     },
+     "analytical": {
+      "question": "বাংলাদেশের মতো স্বল্পোন্নত দেশের জন্য শর্তসাপেক্ষ NDC লক্ষ্য কেন গুরুত্বপূর্ণ? বিশ্লেষণ করো।",
+      "outline": [
+       "অর্থের ঘাটতি: নিজস্ব সম্পদে বড় লক্ষ্য নেওয়া কঠিন।",
+       "ন্যায়বিচার: ঐতিহাসিক নির্গমনে বাংলাদেশের দায় নগণ্য, তবু ঝুঁকি সবচেয়ে বেশি।",
+       "আলোচনার হাতিয়ার: শর্তসাপেক্ষ লক্ষ্য অর্থায়নের দাবিকে শক্তিশালী করে।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "unconditional",
-      "bangla_meaning": "শর্তহীন; নিঃশর্ত",
+      "meaning_bn": "শর্তহীন; নিঃশর্ত",
       "example": "Under its NDC 3.0, Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035 from domestic resources — its unconditional target.",
-      "synonym": "absolute",
-      "antonym": "conditional"
+      "synonyms": [
+       "absolute"
+      ],
+      "antonyms": [
+       "conditional"
+      ]
      },
      {
       "word": "transition",
-      "bangla_meaning": "রূপান্তর; পরিবর্তন",
+      "meaning_bn": "রূপান্তর; পরিবর্তন",
       "example": "Low-carbon development and the energy transition depend on predictable and affordable international finance.",
-      "synonym": "shift",
-      "antonym": "stagnation"
+      "synonyms": [
+       "shift"
+      ],
+      "antonyms": [
+       "stagnation"
+      ]
      },
      {
       "word": "emissions",
-      "bangla_meaning": "নির্গমন",
+      "meaning_bn": "নির্গমন",
       "example": "Bangladesh targets a 6.39% emissions cut below business-as-usual by 2035.",
-      "synonym": "discharge",
-      "antonym": "absorption"
+      "synonyms": [
+       "discharge"
+      ],
+      "antonyms": [
+       "absorption"
+      ]
      },
      {
       "word": "adaptation",
-      "bangla_meaning": "অভিযোজন; খাপ খাওয়ানো",
+      "meaning_bn": "অভিযোজন; খাপ খাওয়ানো",
       "example": "The delegation called for $120 billion a year in adaptation funding before 2035.",
-      "synonym": "adjustment",
-      "antonym": "resistance"
+      "synonyms": [
+       "adjustment"
+      ],
+      "antonyms": [
+       "resistance"
+      ]
      },
      {
       "word": "conditional",
-      "bangla_meaning": "শর্তসাপেক্ষ; শর্তাধীন",
+      "meaning_bn": "শর্তসাপেক্ষ; শর্তাধীন",
       "example": "A further 13.92% cut is conditional on international support.",
-      "synonym": "contingent",
-      "antonym": "unconditional"
+      "synonyms": [
+       "contingent"
+      ],
+      "antonyms": [
+       "unconditional"
+      ]
      }
     ],
     "revision": {
@@ -2378,7 +2580,7 @@
      "text": "কলামিস্ট ড. সৈয়দ আব্দুল হামিদ লিখেছেন, উপজেলা শাসন ও উন্নয়ন প্রকল্প (UGDP) ২০১৫-১৬ অর্থবছর থেকে ৩১ ডিসেম্বর ২০২৫ পর্যন্ত চলে এবং ৪০৮টি উপজেলায় ৪৭ হাজারের বেশি চিকিৎসা সরঞ্জাম ও সরবরাহ পৌঁছে দেয়। ১৫৮টি উপজেলার মূল্যায়নে দেখা যায়, বিতরণ করা ২৯,২৫৭টি সরঞ্জামের ৯১.৮৮% সচল। কিন্তু একই মূল্যায়নে 'কাঠামোগত জটিলতা' ধরা পড়ে: ৮.১১% সরঞ্জাম — ২,৩৭৫টি — অচল বা অব্যবহৃত, কারণ বিশেষজ্ঞ ও অর্থ যন্ত্রপাতির পিছু পিছু যায়নি।",
      "source": {
       "publication": "The Daily Star",
-      "date": "২০২৬-১১-১২",
+      "date": "2026-11-12",
       "url": "https://www.thedailystar.net/opinion/views/news/how-can-we-make-healthcare-decentralisation-work-lessons-upazila-level-project-4322541"
      }
     },
@@ -2452,132 +2654,164 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "উপজেলা ব্যবস্থা: ১৯৮২ সালে অধ্যাদেশ, ১৯৮৫ সালে প্রথম নির্বাচন, ১৯৯১ সালে বাতিল, ১৯৯৮ সালে আইনে ফেরত।",
-      "UGDP-এর শিক্ষা: 'No Staff, No Stuff' — জনবল ছাড়া যন্ত্রপাতি দেওয়া যাবে না।",
-      "সংখ্যাগুলো মনে রাখো: ৪০৮ উপজেলা, ৪৭,০০০+ সরঞ্জাম, ৯১.৮৮% সচল, ৮.১১% অচল।"
-     ],
-     "institutions": [
-      {
-       "name": "স্থানীয় সরকার বিভাগ (LGD)",
-       "role": "UGDP বাস্তবায়ন করে; স্থানীয় সরকার মন্ত্রণালয়ের অধীন"
-      },
-      {
-       "name": "উপজেলা পরিষদ",
-       "role": "উপজেলা পর্যায়ের নির্বাচিত স্থানীয় সরকার; উন্নয়ন পরিকল্পনা করে"
-      },
-      {
-       "name": "উপজেলা নির্বাহী কর্মকর্তা (UNO)",
-       "role": "উপজেলার প্রধান সরকারি কর্মকর্তা"
-      },
-      {
-       "name": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)",
-       "role": "স্বাস্থ্যকর্মীর ঘনত্বের সুপারিশ দেয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Upazila Parishad",
-       "url": "https://en.banglapedia.org/index.php?title=Upazila_Parishad"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "স্থানীয় সরকার বিভাগ (LGD)",
+      "role": "UGDP বাস্তবায়ন করে; স্থানীয় সরকার মন্ত্রণালয়ের অধীন",
+      "source": "Banglapedia — Upazila Parishad"
+     },
+     {
+      "name": "উপজেলা পরিষদ",
+      "role": "উপজেলা পর্যায়ের নির্বাচিত স্থানীয় সরকার; উন্নয়ন পরিকল্পনা করে",
+      "source": "Banglapedia — Upazila Parishad"
+     },
+     {
+      "name": "উপজেলা নির্বাহী কর্মকর্তা (UNO)",
+      "role": "উপজেলার প্রধান সরকারি কর্মকর্তা",
+      "source": "Banglapedia — Upazila Parishad"
+     },
+     {
+      "name": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)",
+      "role": "স্বাস্থ্যকর্মীর ঘনত্বের সুপারিশ দেয়",
+      "source": "Banglapedia — Upazila Parishad"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "উপজেলা ব্যবস্থা",
+      "meaning": "১৯৮২ সালে অধ্যাদেশ, ১৯৮৫ সালে প্রথম নির্বাচন, ১৯৯১ সালে বাতিল, ১৯৯৮ সালে আইনে ফেরত।",
+      "source": "Banglapedia — Upazila Parishad"
+     },
+     {
+      "term": "UGDP-এর শিক্ষা",
+      "meaning": "'No Staff, No Stuff' — জনবল ছাড়া যন্ত্রপাতি দেওয়া যাবে না।",
+      "source": "Banglapedia — Upazila Parishad"
+     },
+     {
+      "term": "সংখ্যাগুলো মনে রাখো",
+      "meaning": "৪০৮ উপজেলা, ৪৭,০০০+ সরঞ্জাম, ৯১.৮৮% সচল, ৮.১১% অচল।",
+      "source": "Banglapedia — Upazila Parishad"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "UGDP কতটি উপজেলায় চিকিৎসা সরঞ্জাম পৌঁছে দেয়?",
-      "options": {
-       "A": "৪০৮টি",
-       "B": "১৫৮টি",
-       "C": "৫০০টি",
-       "D": "৬৪টি"
-      },
-      "correct": "A",
+      "options": [
+       "৪০৮টি",
+       "১৫৮টি",
+       "৫০০টি",
+       "৬৪টি"
+      ],
+      "correct": 0,
       "explanation": "UGDP ৪০৮টি উপজেলায় ৪৭ হাজারের বেশি সরঞ্জাম ও সরবরাহ দেয়।"
      },
      {
       "question": "উপজেলা পরিষদের প্রথম নির্বাচন কবে হয়?",
-      "options": {
-       "A": "১৯৮২ সালে",
-       "B": "১৯৮৫ সালে",
-       "C": "১৯৯১ সালে",
-       "D": "১৯৯৮ সালে"
-      },
-      "correct": "B",
+      "options": [
+       "১৯৮২ সালে",
+       "১৯৮৫ সালে",
+       "১৯৯১ সালে",
+       "১৯৯৮ সালে"
+      ],
+      "correct": 1,
       "explanation": "উপজেলা পরিষদের প্রথম নির্বাচন হয় ১৯৮৫ সালে; ১৯৯১ সালে ব্যবস্থাটি বাতিল হয়।"
      },
      {
       "question": "১৫৮টি উপজেলায় বিতরণ করা সরঞ্জামের কত শতাংশ সচল পাওয়া যায়?",
-      "options": {
-       "A": "৮.১১%",
-       "B": "৪৭%",
-       "C": "৯১.৮৮%",
-       "D": "৫০%"
-      },
-      "correct": "C",
+      "options": [
+       "৮.১১%",
+       "৪৭%",
+       "৯১.৮৮%",
+       "৫০%"
+      ],
+      "correct": 2,
       "explanation": "২৯,২৫৭টি সরঞ্জামের ৯১.৮৮% সচল ছিল।"
      },
      {
       "question": "অচল বা অব্যবহৃত সরঞ্জাম কতটি ছিল?",
-      "options": {
-       "A": "২৯,২৫৭টি",
-       "B": "৪৭,০০০টি",
-       "C": "৫০,০০০টি",
-       "D": "২,৩৭৫টি"
-      },
-      "correct": "D",
+      "options": [
+       "২৯,২৫৭টি",
+       "৪৭,০০০টি",
+       "৫০,০০০টি",
+       "২,৩৭৫টি"
+      ],
+      "correct": 3,
       "explanation": "৮.১১% সরঞ্জাম — ২,৩৭৫টি — অচল বা অব্যবহৃত ছিল।"
      }
     ],
     "written_prep": {
-     "short_question": "UGDP-এর মূল্যায়নে ধরা পড়া 'কাঠামোগত জটিলতা' বলতে কী বোঝায়?",
-     "short_outline": [
-      "যন্ত্র আছে, চালানোর লোক নেই: অ্যানেসথেসিয়া মেশিন অচল, কারণ জুনিয়র অ্যানেসথেসিয়া কনসালট্যান্ট নেই।",
-      "অর্থ নেই: ২০ হাজার টাকার কম মেরামতেও যন্ত্র মাসের পর মাস অচল থাকে।",
-      "চালক ও জ্বালানি নেই: অ্যাম্বুলেন্স এসেছে, প্রশিক্ষিত চালক ও জ্বালানির বাজেট আসেনি।"
-     ],
-     "analytical_question": "গ্রামীণ স্বাস্থ্যসেবার বিকেন্দ্রীকরণ সফল করতে জনবল ও অর্থের সমন্বয় কেন জরুরি? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "UGDP-এর শিক্ষা: যন্ত্রপাতি দেওয়ার সঙ্গে বিশেষজ্ঞ, অর্থ ও রক্ষণাবেক্ষণ দিতে হয়।",
-      "প্রস্তাব: 'No Staff, No Stuff' নীতি; স্বাস্থ্য ও স্থানীয় সরকার মন্ত্রণালয়ের যৌথ জনবল পরিকল্পনা।",
-      "অর্থায়ন: রোগ নির্ণয়ের আয় মেরামতের জন্য আলাদা (ring-fence) করা; গ্রামীণ প্রণোদনা।"
-     ]
+     "short": {
+      "question": "UGDP-এর মূল্যায়নে ধরা পড়া 'কাঠামোগত জটিলতা' বলতে কী বোঝায়?",
+      "outline": [
+       "যন্ত্র আছে, চালানোর লোক নেই: অ্যানেসথেসিয়া মেশিন অচল, কারণ জুনিয়র অ্যানেসথেসিয়া কনসালট্যান্ট নেই।",
+       "অর্থ নেই: ২০ হাজার টাকার কম মেরামতেও যন্ত্র মাসের পর মাস অচল থাকে।",
+       "চালক ও জ্বালানি নেই: অ্যাম্বুলেন্স এসেছে, প্রশিক্ষিত চালক ও জ্বালানির বাজেট আসেনি।"
+      ]
+     },
+     "analytical": {
+      "question": "গ্রামীণ স্বাস্থ্যসেবার বিকেন্দ্রীকরণ সফল করতে জনবল ও অর্থের সমন্বয় কেন জরুরি? বিশ্লেষণ করো।",
+      "outline": [
+       "UGDP-এর শিক্ষা: যন্ত্রপাতি দেওয়ার সঙ্গে বিশেষজ্ঞ, অর্থ ও রক্ষণাবেক্ষণ দিতে হয়।",
+       "প্রস্তাব: 'No Staff, No Stuff' নীতি; স্বাস্থ্য ও স্থানীয় সরকার মন্ত্রণালয়ের যৌথ জনবল পরিকল্পনা।",
+       "অর্থায়ন: রোগ নির্ণয়ের আয় মেরামতের জন্য আলাদা (ring-fence) করা; গ্রামীণ প্রণোদনা।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "decentralisation",
-      "bangla_meaning": "বিকেন্দ্রীকরণ",
+      "meaning_bn": "বিকেন্দ্রীকরণ",
       "example": "The Upazila Governance and Development Project represented a bold bet on decentralisation.",
-      "synonym": "devolution",
-      "antonym": "centralisation"
+      "synonyms": [
+       "devolution"
+      ],
+      "antonyms": [
+       "centralisation"
+      ]
      },
      {
       "word": "idle",
-      "bangla_meaning": "অলস; অব্যবহৃত",
+      "meaning_bn": "অলস; অব্যবহৃত",
       "example": "High-tech anaesthesia machines sit idle in facilities lacking sanctioned junior anaesthesia consultants.",
-      "synonym": "unused",
-      "antonym": "busy"
+      "synonyms": [
+       "unused"
+      ],
+      "antonyms": [
+       "busy"
+      ]
      },
      {
       "word": "ring-fence",
-      "bangla_meaning": "নির্দিষ্ট কাজের জন্য অর্থ আলাদা করে রাখা",
+      "meaning_bn": "নির্দিষ্ট কাজের জন্য অর্থ আলাদা করে রাখা",
       "example": "Upazila parishads should be allowed to ring-fence diagnostic income for repairs.",
-      "synonym": "earmark",
-      "antonym": "divert"
+      "synonyms": [
+       "earmark"
+      ],
+      "antonyms": [
+       "divert"
+      ]
      },
      {
       "word": "procurement",
-      "bangla_meaning": "ক্রয়; সংগ্রহ",
+      "meaning_bn": "ক্রয়; সংগ্রহ",
       "example": "Upazilas invested over Tk113 crore in diagnostic tools through decentralised procurement.",
-      "synonym": "purchasing",
-      "antonym": "disposal"
+      "synonyms": [
+       "purchasing"
+      ],
+      "antonyms": [
+       "disposal"
+      ]
      },
      {
       "word": "vacant",
-      "bangla_meaning": "শূন্য; খালি (পদ)",
+      "meaning_bn": "শূন্য; খালি (পদ)",
       "example": "Over half of physician posts at many upazila health complexes are vacant in some divisions.",
-      "synonym": "unfilled",
-      "antonym": "occupied"
+      "synonyms": [
+       "unfilled"
+      ],
+      "antonyms": [
+       "occupied"
+      ]
      }
     ],
     "revision": {
@@ -2708,7 +2942,7 @@
      "text": "বাংলাদেশের গ্যাস সরবরাহ সাধারণত দিনে প্রায় ২.৬ বিলিয়ন ঘনফুটের আশপাশে থাকে, ফলে পেট্রোবাংলাকে বিদ্যুৎকেন্দ্র, শিল্প ও গৃহস্থালিতে গ্যাসের রেশনিং চালাতে হয়। মহেশখালীর দুটি ভাসমান এলএনজি টার্মিনাল বারবার বিঘ্নিত হয়েছে — জুলাইয়ে আগুনে এক্সিলারেটের টার্মিনাল বন্ধ হয়ে যায়, আগস্টে আবার ত্রুটি দেখা দেয়। ১২ কেজির এলপিজি সিলিন্ডার অক্টোবরে ১,৮৩৭ টাকা ছিল; ২ নভেম্বর ২২৩ টাকা বেড়ে ২,০৬০ টাকা হয়, আর ক্রেতারা জানাচ্ছেন তাঁরা ২,২০০ টাকা বা তার বেশি দিচ্ছেন।",
      "source": {
       "publication": "The Daily Star",
-      "date": "২০২৬-১১-১২",
+      "date": "2026-11-12",
       "url": "https://www.thedailystar.net/opinion/views/news/the-energy-crisis-really-hits-home-when-it-hits-the-kitchen-4322141"
      }
     },
@@ -2782,128 +3016,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "পেট্রোবাংলা: বাংলাদেশ তেল, গ্যাস ও খনিজ সম্পদ করপোরেশন — রাষ্ট্রায়ত্ত।",
-      "মহেশখালী: দুটি FSRU — সামিট (৫০০ মিলিয়ন ঘনফুট/দিন) ও এক্সিলারেট (৬০০ মিলিয়ন ঘনফুট/দিন)।",
-      "জ্বালানি সংকটের সংখ্যা: গ্যাস ২.৬ বিলিয়ন ঘনফুট/দিন; এলপিজি ২,০৬০ টাকা; বিপিডিবি ভর্তুকি ৪১,০০০ কোটি টাকা।"
-     ],
-     "institutions": [
-      {
-       "name": "পেট্রোবাংলা",
-       "role": "রাষ্ট্রায়ত্ত তেল, গ্যাস ও খনিজ সম্পদ করপোরেশন; এলএনজি আমদানিকারক"
-      },
-      {
-       "name": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড (BPDB)",
-       "role": "বিদ্যুৎ উৎপাদন ও সরবরাহ; বছরে প্রায় ৪১,০০০ কোটি টাকা ভর্তুকি পায়"
-      },
-      {
-       "name": "এক্সিলারেট এনার্জি ও সামিট গ্রুপ",
-       "role": "মহেশখালীর দুটি FSRU-এর পরিচালক"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Global Energy Monitor — Moheshkhali Floating LNG Terminal",
-       "url": "https://www.gem.wiki/Moheshkhali_Floating_LNG_Terminal"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "পেট্রোবাংলা",
+      "role": "রাষ্ট্রায়ত্ত তেল, গ্যাস ও খনিজ সম্পদ করপোরেশন; এলএনজি আমদানিকারক। বাংলাদেশ তেল, গ্যাস ও খনিজ সম্পদ করপোরেশন — রাষ্ট্রায়ত্ত।",
+      "source": "Global Energy Monitor — Moheshkhali Floating LNG Terminal"
+     },
+     {
+      "name": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড (BPDB)",
+      "role": "বিদ্যুৎ উৎপাদন ও সরবরাহ; বছরে প্রায় ৪১,০০০ কোটি টাকা ভর্তুকি পায়",
+      "source": "Global Energy Monitor — Moheshkhali Floating LNG Terminal"
+     },
+     {
+      "name": "এক্সিলারেট এনার্জি ও সামিট গ্রুপ",
+      "role": "মহেশখালীর দুটি FSRU-এর পরিচালক",
+      "source": "Global Energy Monitor — Moheshkhali Floating LNG Terminal"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "মহেশখালী",
+      "meaning": "দুটি FSRU — সামিট (৫০০ মিলিয়ন ঘনফুট/দিন) ও এক্সিলারেট (৬০০ মিলিয়ন ঘনফুট/দিন)।",
+      "source": "Global Energy Monitor — Moheshkhali Floating LNG Terminal"
+     },
+     {
+      "term": "জ্বালানি সংকটের সংখ্যা",
+      "meaning": "গ্যাস ২.৬ বিলিয়ন ঘনফুট/দিন; এলপিজি ২,০৬০ টাকা; বিপিডিবি ভর্তুকি ৪১,০০০ কোটি টাকা।",
+      "source": "Global Energy Monitor — Moheshkhali Floating LNG Terminal"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "বাংলাদেশের গ্যাস সরবরাহ সাধারণত দিনে কত ঘনফুটের আশপাশে থাকে?",
-      "options": {
-       "A": "১.৬ বিলিয়ন",
-       "B": "২.৬ বিলিয়ন",
-       "C": "৩.৬ বিলিয়ন",
-       "D": "৪.৫ বিলিয়ন"
-      },
-      "correct": "B",
+      "options": [
+       "১.৬ বিলিয়ন",
+       "২.৬ বিলিয়ন",
+       "৩.৬ বিলিয়ন",
+       "৪.৫ বিলিয়ন"
+      ],
+      "correct": 1,
       "explanation": "গ্যাস সরবরাহ সাধারণত দিনে প্রায় ২.৬ বিলিয়ন ঘনফুট থাকে।"
      },
      {
       "question": "বাংলাদেশের প্রথম ভাসমান এলএনজি টার্মিনাল বাণিজ্যিকভাবে কবে চালু হয়?",
-      "options": {
-       "A": "আগস্ট ২০১৮",
-       "B": "জুলাই ২০১৬",
-       "C": "জানুয়ারি ২০২৪",
-       "D": "মার্চ ২০২৬"
-      },
-      "correct": "A",
+      "options": [
+       "আগস্ট ২০১৮",
+       "জুলাই ২০১৬",
+       "জানুয়ারি ২০২৪",
+       "মার্চ ২০২৬"
+      ],
+      "correct": 0,
       "explanation": "মহেশখালীর টার্মিনাল ২০১৮ সালের আগস্টে বাণিজ্যিকভাবে চালু হয়।"
      },
      {
       "question": "২০২৬-২৭ অর্থবছরে বিপিডিবিকে প্রায় কত ভর্তুকি দিতে হবে?",
-      "options": {
-       "A": "২০,০০০ কোটি টাকা",
-       "B": "৩০,০০০ কোটি টাকা",
-       "C": "প্রায় ৪১,০০০ কোটি টাকা",
-       "D": "৫০,০০০ কোটি টাকা"
-      },
-      "correct": "C",
+      "options": [
+       "২০,০০০ কোটি টাকা",
+       "৩০,০০০ কোটি টাকা",
+       "প্রায় ৪১,০০০ কোটি টাকা",
+       "৫০,০০০ কোটি টাকা"
+      ],
+      "correct": 2,
       "explanation": "সরকার ২০২৬-২৭ অর্থবছরে বিপিডিবিকে প্রায় ৪১,০০০ কোটি টাকা ভর্তুকি দেবে বলে আশা করা হচ্ছে।"
      },
      {
       "question": "২ নভেম্বর ১২ কেজির এলপিজি সিলিন্ডারের দাম কত হয়?",
-      "options": {
-       "A": "১,৮৩৭ টাকা",
-       "B": "২,২০০ টাকা",
-       "C": "২,২৮৩ টাকা",
-       "D": "২,০৬০ টাকা"
-      },
-      "correct": "D",
+      "options": [
+       "১,৮৩৭ টাকা",
+       "২,২০০ টাকা",
+       "২,২৮৩ টাকা",
+       "২,০৬০ টাকা"
+      ],
+      "correct": 3,
       "explanation": "২২৩ টাকা বেড়ে দাম হয় ২,০৬০ টাকা; তবে ক্রেতারা ২,২০০ টাকার বেশি দিচ্ছেন।"
      }
     ],
     "written_prep": {
-     "short_question": "বাংলাদেশের জ্বালানি সংকট রান্নাঘরে কীভাবে পৌঁছেছে? সংখ্যাসহ লেখো।",
-     "short_outline": [
-      "গ্যাস ২.৬ বিলিয়ন ঘনফুট/দিন — রেশনিং চলছে।",
-      "এলপিজি: ১,৮৩৭ থেকে ২,০৬০ টাকা; বাজারে ২,২০০ টাকার বেশি।",
-      "বিদ্যুৎ শুল্ক ১৬.৬৮% বেড়েছিল; বিপিডিবি ভর্তুকি ৪১,০০০ কোটি টাকা।"
-     ],
-     "analytical_question": "এলএনজি আমদানিনির্ভরতা বাংলাদেশের জ্বালানি নিরাপত্তার জন্য কী ঝুঁকি তৈরি করে? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "সরবরাহ ঝুঁকি: টার্মিনালে আগুন, ত্রুটি, ফোর্স ম্যাজিউর — একটিই বিঘ্নে সরবরাহ কমে।",
-      "মূল্য ঝুঁকি: আন্তর্জাতিক এলএনজি মূল্য ও ডলারের ওঠানামা ভর্তুকি বাড়ায়।",
-      "সমাধান: দেশীয় গ্যাস অনুসন্ধান, নবায়নযোগ্য জ্বালানি, তৃতীয় টার্মিনাল ও মজুদ ব্যবস্থা।"
-     ]
+     "short": {
+      "question": "বাংলাদেশের জ্বালানি সংকট রান্নাঘরে কীভাবে পৌঁছেছে? সংখ্যাসহ লেখো।",
+      "outline": [
+       "গ্যাস ২.৬ বিলিয়ন ঘনফুট/দিন — রেশনিং চলছে।",
+       "এলপিজি: ১,৮৩৭ থেকে ২,০৬০ টাকা; বাজারে ২,২০০ টাকার বেশি।",
+       "বিদ্যুৎ শুল্ক ১৬.৬৮% বেড়েছিল; বিপিডিবি ভর্তুকি ৪১,০০০ কোটি টাকা।"
+      ]
+     },
+     "analytical": {
+      "question": "এলএনজি আমদানিনির্ভরতা বাংলাদেশের জ্বালানি নিরাপত্তার জন্য কী ঝুঁকি তৈরি করে? বিশ্লেষণ করো।",
+      "outline": [
+       "সরবরাহ ঝুঁকি: টার্মিনালে আগুন, ত্রুটি, ফোর্স ম্যাজিউর — একটিই বিঘ্নে সরবরাহ কমে।",
+       "মূল্য ঝুঁকি: আন্তর্জাতিক এলএনজি মূল্য ও ডলারের ওঠানামা ভর্তুকি বাড়ায়।",
+       "সমাধান: দেশীয় গ্যাস অনুসন্ধান, নবায়নযোগ্য জ্বালানি, তৃতীয় টার্মিনাল ও মজুদ ব্যবস্থা।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "ration",
-      "bangla_meaning": "সীমিত সরবরাহ; ভাগ করে দেওয়া",
+      "meaning_bn": "সীমিত সরবরাহ; ভাগ করে দেওয়া",
       "example": "Petrobangla maintains rationing across power plants, industries, and household consumers.",
-      "synonym": "allocation",
-      "antonym": "abundance"
+      "synonyms": [
+       "allocation"
+      ],
+      "antonyms": [
+       "abundance"
+      ]
      },
      {
       "word": "diverge",
-      "bangla_meaning": "ভিন্ন পথে যাওয়া; আলাদা হয়ে যাওয়া",
+      "meaning_bn": "ভিন্ন পথে যাওয়া; আলাদা হয়ে যাওয়া",
       "example": "When the official price and the price people actually pay diverge this sharply, the failure is one of enforcement.",
-      "synonym": "differ",
-      "antonym": "converge"
+      "synonyms": [
+       "differ"
+      ],
+      "antonyms": [
+       "converge"
+      ]
      },
      {
       "word": "subsidy",
-      "bangla_meaning": "ভর্তুকি; সরকারি সহায়তা",
+      "meaning_bn": "ভর্তুকি; সরকারি সহায়তা",
       "example": "The government is expected to provide around Tk41,000 crore in annual subsidy to the Bangladesh Power Development Board.",
-      "synonym": "grant",
-      "antonym": "tax"
+      "synonyms": [
+       "grant"
+      ],
+      "antonyms": [
+       "tax"
+      ]
      },
      {
       "word": "tariff",
-      "bangla_meaning": "শুল্ক; নির্ধারিত মূল্যহার",
+      "meaning_bn": "শুল্ক; নির্ধারিত মূল্যহার",
       "example": "The June 3 order raised the weighted average retail tariff from Tk9.11 to Tk10.63 per unit.",
-      "synonym": "rate",
-      "antonym": "discount"
+      "synonyms": [
+       "rate"
+      ],
+      "antonyms": [
+       "discount"
+      ]
      },
      {
       "word": "regasification",
-      "bangla_meaning": "পুনঃগ্যাসীকরণ; তরল গ্যাসকে আবার গ্যাসে রূপান্তর",
+      "meaning_bn": "পুনঃগ্যাসীকরণ; তরল গ্যাসকে আবার গ্যাসে রূপান্তর",
       "example": "Summit's terminal suspended regasification for maintenance from 4 to 7 November.",
-      "synonym": "vaporisation",
-      "antonym": "liquefaction"
+      "synonyms": [
+       "vaporisation"
+      ],
+      "antonyms": [
+       "liquefaction"
+      ]
      }
     ],
     "revision": {
@@ -3028,7 +3288,7 @@
      "text": "বাংলাদেশে ডায়াবেটিসে আক্রান্ত প্রায় ৭০% মানুষ জানেন না তাঁদের রোগ আছে — বাংলাদেশ জনমিতি ও স্বাস্থ্য জরিপ (BDHS) ২০২২ অনুযায়ী। ডায়াবেটিসে আক্রান্ত নারীদের ৬৭% ও পুরুষদের ৭২% জানতেন না তাঁদের রক্তে শর্করা বেশি; ২০১৭-১৮ সালে এই হার ছিল ৫৯% ও ৬১%। ইন্টারন্যাশনাল ডায়াবেটিস ফেডারেশনের ডায়াবেটিস অ্যাটলাস-২০২৫ অনুযায়ী ২০২৪ সালে বাংলাদেশে ২০–৭৯ বছর বয়সী প্রায় ১.৩৯ কোটি প্রাপ্তবয়স্ক ডায়াবেটিসে আক্রান্ত।",
      "source": {
       "publication": "The Daily Star",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://www.thedailystar.net/news/bangladesh/news/7-10-diabetes-unaware-condition-4323171"
      }
     },
@@ -3110,132 +3370,165 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বাংলাদেশের সংখ্যা: প্রায় ৭০% অজানা; ১.৩৯ কোটি প্রাপ্তবয়স্ক (IDF, ২০২৪); BADAS রোগী ১২৭% বেড়েছে।",
-      "বৈশ্বিক সংখ্যা (WHO): ১৯৯০ সালে ২০ কোটি → ২০২২ সালে ৮৩ কোটি; প্রাপ্তবয়স্কদের ১৪%।",
-      "টাইপ ২ ৯৫%-এর বেশি; জীবনযাপন পরিবর্তনে ঝুঁকিপূর্ণদের ৫৮–৬০% প্রতিরোধ সম্ভব।"
-     ],
-     "institutions": [
-      {
-       "name": "বাংলাদেশ জনমিতি ও স্বাস্থ্য জরিপ (BDHS)",
-       "role": "জাতীয় স্বাস্থ্য জরিপ; NIPORT পরিচালনা করে"
-      },
-      {
-       "name": "ইন্টারন্যাশনাল ডায়াবেটিস ফেডারেশন (IDF)",
-       "role": "ডায়াবেটিস অ্যাটলাস প্রকাশ করে; বৈশ্বিক অনুমান দেয়"
-      },
-      {
-       "name": "ডায়াবেটিক অ্যাসোসিয়েশন অব বাংলাদেশ (BADAS)",
-       "role": "ডায়াবেটিস রোগীদের নিবন্ধন ও সেবা দেয়"
-      },
-      {
-       "name": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)",
-       "role": "বৈশ্বিক ডায়াবেটিস তথ্য ও প্রতিরোধ নির্দেশনা দেয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "WHO — Diabetes fact sheet",
-       "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "বাংলাদেশ জনমিতি ও স্বাস্থ্য জরিপ (BDHS)",
+      "role": "জাতীয় স্বাস্থ্য জরিপ; NIPORT পরিচালনা করে",
+      "source": "WHO — Diabetes fact sheet"
+     },
+     {
+      "name": "ইন্টারন্যাশনাল ডায়াবেটিস ফেডারেশন (IDF)",
+      "role": "ডায়াবেটিস অ্যাটলাস প্রকাশ করে; বৈশ্বিক অনুমান দেয়",
+      "source": "WHO — Diabetes fact sheet"
+     },
+     {
+      "name": "ডায়াবেটিক অ্যাসোসিয়েশন অব বাংলাদেশ (BADAS)",
+      "role": "ডায়াবেটিস রোগীদের নিবন্ধন ও সেবা দেয়",
+      "source": "WHO — Diabetes fact sheet"
+     },
+     {
+      "name": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)",
+      "role": "বৈশ্বিক ডায়াবেটিস তথ্য ও প্রতিরোধ নির্দেশনা দেয়",
+      "source": "WHO — Diabetes fact sheet"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "বাংলাদেশের সংখ্যা",
+      "meaning": "প্রায় ৭০% অজানা; ১.৩৯ কোটি প্রাপ্তবয়স্ক (IDF, ২০২৪); BADAS রোগী ১২৭% বেড়েছে।",
+      "source": "WHO — Diabetes fact sheet"
+     },
+     {
+      "term": "বৈশ্বিক সংখ্যা",
+      "full_name": "WHO",
+      "meaning": "১৯৯০ সালে ২০ কোটি → ২০২২ সালে ৮৩ কোটি; প্রাপ্তবয়স্কদের ১৪%।",
+      "source": "WHO — Diabetes fact sheet"
+     },
+     {
+      "term": "টাইপ ২ ৯৫%-এর বেশি",
+      "meaning": "টাইপ ২ ৯৫%-এর বেশি; জীবনযাপন পরিবর্তনে ঝুঁকিপূর্ণদের ৫৮–৬০% প্রতিরোধ সম্ভব।",
+      "source": "WHO — Diabetes fact sheet"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "বাংলাদেশে ডায়াবেটিসে আক্রান্তদের প্রায় কত শতাংশ জানেন না তাঁদের রোগ আছে?",
-      "options": {
-       "A": "প্রায় ৭০%",
-       "B": "৫০%",
-       "C": "৩০%",
-       "D": "৯০%"
-      },
-      "correct": "A",
+      "options": [
+       "প্রায় ৭০%",
+       "৫০%",
+       "৩০%",
+       "৯০%"
+      ],
+      "correct": 0,
       "explanation": "BDHS ২০২২ অনুযায়ী প্রায় ৭০% রোগী জানেন না তাঁদের ডায়াবেটিস আছে।"
      },
      {
       "question": "WHO অনুযায়ী, ডায়াবেটিস রোগীদের কত শতাংশের বেশি টাইপ ২-এ আক্রান্ত?",
-      "options": {
-       "A": "৫০%",
-       "B": "৯৫%-এর বেশি",
-       "C": "৩০%",
-       "D": "৭০%"
-      },
-      "correct": "B",
+      "options": [
+       "৫০%",
+       "৯৫%-এর বেশি",
+       "৩০%",
+       "৭০%"
+      ],
+      "correct": 1,
       "explanation": "৯৫%-এর বেশি ডায়াবেটিস রোগীর টাইপ ২; এটি প্রায়ই প্রতিরোধযোগ্য।"
      },
      {
       "question": "IDF ডায়াবেটিস অ্যাটলাস-২০২৫ অনুযায়ী ২০২৪ সালে বাংলাদেশে ২০–৭৯ বছর বয়সী ডায়াবেটিস রোগী কত?",
-      "options": {
-       "A": "৬৯.৩৭ লাখ",
-       "B": "৩০.৬১ লাখ",
-       "C": "প্রায় ১.৩৯ কোটি",
-       "D": "৮৩ কোটি"
-      },
-      "correct": "C",
+      "options": [
+       "৬৯.৩৭ লাখ",
+       "৩০.৬১ লাখ",
+       "প্রায় ১.৩৯ কোটি",
+       "৮৩ কোটি"
+      ],
+      "correct": 2,
       "explanation": "IDF অনুযায়ী ২০২৪ সালে প্রায় ১.৩৯ কোটি প্রাপ্তবয়স্ক ডায়াবেটিসে আক্রান্ত।"
      },
      {
       "question": "BDHS ২০২২ অনুযায়ী ডায়াবেটিসে আক্রান্ত নারীদের কত শতাংশ জানতেন না তাঁদের রক্তে শর্করা বেশি?",
-      "options": {
-       "A": "৫৯%",
-       "B": "৬১%",
-       "C": "৭২%",
-       "D": "৬৭%"
-      },
-      "correct": "D",
+      "options": [
+       "৫৯%",
+       "৬১%",
+       "৭২%",
+       "৬৭%"
+      ],
+      "correct": 3,
       "explanation": "নারীদের ৬৭% ও পুরুষদের ৭২% জানতেন না তাঁদের রক্তে শর্করা বেশি।"
      }
     ],
     "written_prep": {
-     "short_question": "বাংলাদেশে ডায়াবেটিসের অজানা রোগীর হার এত বেশি কেন? তথ্যসহ লেখো।",
-     "short_outline": [
-      "প্রায় ৭০% রোগী অজানা; নারী ৬৭%, পুরুষ ৭২% (BDHS ২০২২)।",
-      "কারণ: নিয়মিত পরীক্ষার অভাব, সচেতনতার ঘাটতি, উপসর্গ দেরিতে ধরা পড়া।",
-      "পরিণতি: মাত্র ৫–৬% রোগীর রোগ জানা, ওষুধ খাওয়া ও নিয়ন্ত্রণ — তিনটিই আছে।"
-     ],
-     "analytical_question": "ডায়াবেটিস প্রতিরোধে জীবনযাপন পরিবর্তন ও প্রাথমিক স্বাস্থ্যসেবার ভূমিকা বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "প্রতিরোধ: জীবনযাপন পরিবর্তনে ঝুঁকিপূর্ণদের ৫৮–৬০% প্রতিরোধ সম্ভব।",
-      "প্রাথমিক সেবা: নিয়মিত রক্তে শর্করা পরীক্ষা, কমিউনিটি ক্লিনিকে স্ক্রিনিং।",
-      "বৈষম্য: শহর-গ্রাম ও ধনী-দরিদ্রের প্রচলনের পার্থক্য কমাতে লক্ষ্যভিত্তিক কর্মসূচি।"
-     ]
+     "short": {
+      "question": "বাংলাদেশে ডায়াবেটিসের অজানা রোগীর হার এত বেশি কেন? তথ্যসহ লেখো।",
+      "outline": [
+       "প্রায় ৭০% রোগী অজানা; নারী ৬৭%, পুরুষ ৭২% (BDHS ২০২২)।",
+       "কারণ: নিয়মিত পরীক্ষার অভাব, সচেতনতার ঘাটতি, উপসর্গ দেরিতে ধরা পড়া।",
+       "পরিণতি: মাত্র ৫–৬% রোগীর রোগ জানা, ওষুধ খাওয়া ও নিয়ন্ত্রণ — তিনটিই আছে।"
+      ]
+     },
+     "analytical": {
+      "question": "ডায়াবেটিস প্রতিরোধে জীবনযাপন পরিবর্তন ও প্রাথমিক স্বাস্থ্যসেবার ভূমিকা বিশ্লেষণ করো।",
+      "outline": [
+       "প্রতিরোধ: জীবনযাপন পরিবর্তনে ঝুঁকিপূর্ণদের ৫৮–৬০% প্রতিরোধ সম্ভব।",
+       "প্রাথমিক সেবা: নিয়মিত রক্তে শর্করা পরীক্ষা, কমিউনিটি ক্লিনিকে স্ক্রিনিং।",
+       "বৈষম্য: শহর-গ্রাম ও ধনী-দরিদ্রের প্রচলনের পার্থক্য কমাতে লক্ষ্যভিত্তিক কর্মসূচি।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "sedentary",
-      "bangla_meaning": "বসে থাকা; শারীরিক পরিশ্রমহীন",
+      "meaning_bn": "বসে থাকা; শারীরিক পরিশ্রমহীন",
       "example": "Modern lifestyles have become increasingly sedentary.",
-      "synonym": "inactive",
-      "antonym": "active"
+      "synonyms": [
+       "inactive"
+      ],
+      "antonyms": [
+       "active"
+      ]
      },
      {
       "word": "prevalence",
-      "bangla_meaning": "প্রচলন; বিস্তার (রোগের হার)",
+      "meaning_bn": "প্রচলন; বিস্তার (রোগের হার)",
       "example": "Diabetes prevalence varies by place of residence, age, and socioeconomic status.",
-      "synonym": "frequency",
-      "antonym": "rarity"
+      "synonyms": [
+       "frequency"
+      ],
+      "antonyms": [
+       "rarity"
+      ]
      },
      {
       "word": "diagnosis",
-      "bangla_meaning": "রোগ নির্ণয়",
+      "meaning_bn": "রোগ নির্ণয়",
       "example": "Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose.",
-      "synonym": "detection",
-      "antonym": "misdiagnosis"
+      "synonyms": [
+       "detection"
+      ],
+      "antonyms": [
+       "misdiagnosis"
+      ]
      },
      {
       "word": "glucose",
-      "bangla_meaning": "গ্লুকোজ; রক্তের শর্করা",
+      "meaning_bn": "গ্লুকোজ; রক্তের শর্করা",
       "example": "67% of women with diabetes did not know they had high blood glucose.",
-      "synonym": "blood sugar",
-      "antonym": "সরাসরি বিপরীত শব্দ নেই"
+      "synonyms": [
+       "blood sugar"
+      ],
+      "antonyms": [
+       "সরাসরি বিপরীত শব্দ নেই"
+      ]
      },
      {
       "word": "chronic",
-      "bangla_meaning": "দীর্ঘস্থায়ী (রোগ)",
+      "meaning_bn": "দীর্ঘস্থায়ী (রোগ)",
       "example": "Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin.",
-      "synonym": "long-term",
-      "antonym": "acute"
+      "synonyms": [
+       "long-term"
+      ],
+      "antonyms": [
+       "acute"
+      ]
      }
     ],
     "revision": {
@@ -3365,7 +3658,7 @@
      "text": "প্রাণিকল্যাণ আইন, ২০১৯-এর খসড়া সংশোধনীতে প্রাণীকে হয়রানি করে কনটেন্ট তৈরি ও প্রকাশের জন্য সর্বোচ্চ ছয় মাসের কারাদণ্ড বা ৫০ হাজার টাকা জরিমানা, বা উভয় দণ্ডের প্রস্তাব করা হয়েছে — এমন তৈরি কাজে সহায়তা করলেও একই শাস্তি। অপরাধটি আমলযোগ্য হবে। এই উদ্যোগের পেছনে ভাইরাল ভিডিও রয়েছে — একটি ফেসবুক পেজের ড্রোনে তোলা ভীত শিয়ালের ফুটেজ দেখা হয়েছে ৭ লাখ ৮১ হাজার বার, আর ঘুমন্ত কুকুরকে বেলুন দিয়ে হয়রানির ভিডিও দেখা হয়েছে প্রায় ৫ লাখ বার।",
      "source": {
       "publication": "Prothom Alo English",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://en.prothomalo.com/bangladesh/gseqv2e120"
      }
     },
@@ -3439,128 +3732,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্রাণিকল্যাণ আইন, ২০১৯: ১২ নং আইন; ২৪টি ধারা; ১৯২০ সালের আইনকে প্রতিস্থাপন করে।",
-      "ধারা ৬: নিষ্ঠুরতার তালিকা; নতুন উপধারা (ণ): হয়রানি করে কনটেন্ট তৈরি।",
-      "বর্তমান আইনে অপরাধ আমল-অযোগ্য ও জামিনযোগ্য — সংশোধনীতে ৭ ধরনের অপরাধ আমলযোগ্য ও জামিন-অযোগ্য করার প্রস্তাব।"
-     ],
-     "institutions": [
-      {
-       "name": "প্রাণিসম্পদ অধিদপ্তর (DLS)",
-       "role": "খসড়া সংশোধনী তৈরি করে; আইনে শুধু এর লিখিত অভিযোগেই আদালত বিচার করতে পারে"
-      },
-      {
-       "name": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়",
-       "role": "খসড়া মতামতের জন্য প্রকাশ করেছে; আইন মন্ত্রণালয়ে পাঠাবে"
-      },
-      {
-       "name": "আইন মন্ত্রণালয়",
-       "role": "খসড়ার আইনি যাচাই (vetting) করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "TRW — Animal Welfare Law in Bangladesh",
-       "url": "https://trw.co/animal-welfare-law-in-bangladesh/"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "প্রাণিসম্পদ অধিদপ্তর (DLS)",
+      "role": "খসড়া সংশোধনী তৈরি করে; আইনে শুধু এর লিখিত অভিযোগেই আদালত বিচার করতে পারে",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     },
+     {
+      "name": "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়",
+      "role": "খসড়া মতামতের জন্য প্রকাশ করেছে; আইন মন্ত্রণালয়ে পাঠাবে",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     },
+     {
+      "name": "আইন মন্ত্রণালয়",
+      "role": "খসড়ার আইনি যাচাই (vetting) করে",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "প্রাণিকল্যাণ আইন, ২০১৯",
+      "meaning": "১২ নং আইন; ২৪টি ধারা; ১৯২০ সালের আইনকে প্রতিস্থাপন করে।",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     },
+     {
+      "term": "ধারা ৬",
+      "meaning": "ধারা ৬: নিষ্ঠুরতার তালিকা; নতুন উপধারা (ণ): হয়রানি করে কনটেন্ট তৈরি।",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     },
+     {
+      "term": "বর্তমান আইনে অপরাধ আমল-অযোগ্য ও জামিনযোগ্য",
+      "meaning": "সংশোধনীতে ৭ ধরনের অপরাধ আমলযোগ্য ও জামিন-অযোগ্য করার প্রস্তাব।",
+      "source": "TRW — Animal Welfare Law in Bangladesh"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "প্রাণী হয়রানি করে কনটেন্ট তৈরির প্রস্তাবিত সর্বোচ্চ কারাদণ্ড কত?",
-      "options": {
-       "A": "২ বছর",
-       "B": "৬ মাস",
-       "C": "৩ মাস",
-       "D": "১ বছর"
-      },
-      "correct": "B",
+      "options": [
+       "২ বছর",
+       "৬ মাস",
+       "৩ মাস",
+       "১ বছর"
+      ],
+      "correct": 1,
       "explanation": "প্রস্তাবে সর্বোচ্চ ৬ মাসের কারাদণ্ড বা ৫০,০০০ টাকা জরিমানা, বা উভয় দণ্ডের কথা বলা হয়েছে।"
      },
      {
       "question": "প্রাণিকল্যাণ আইন, ২০১৯ কোন আইনকে প্রতিস্থাপন করে?",
-      "options": {
-       "A": "১৯২০ সালের পশুর প্রতি নিষ্ঠুরতা আইন",
-       "B": "১৮৬০ সালের দণ্ডবিধি",
-       "C": "২০১২ সালের বন্যপ্রাণী আইন",
-       "D": "২০১৩ সালের আইন"
-      },
-      "correct": "A",
+      "options": [
+       "১৯২০ সালের পশুর প্রতি নিষ্ঠুরতা আইন",
+       "১৮৬০ সালের দণ্ডবিধি",
+       "২০১২ সালের বন্যপ্রাণী আইন",
+       "২০১৩ সালের আইন"
+      ],
+      "correct": 0,
       "explanation": "২০১৯ সালের আইন ঔপনিবেশিক আমলের ১৯২০ সালের পশুর প্রতি নিষ্ঠুরতা আইনকে প্রতিস্থাপন করে।"
      },
      {
       "question": "ভীত শিয়ালের ড্রোন ভিডিওটি কতবার দেখা হয়েছে?",
-      "options": {
-       "A": "৫,০০,০০০ বার",
-       "B": "১,০০,০০০ বার",
-       "C": "৭,৮১,০০০ বার",
-       "D": "১০,০০,০০০ বার"
-      },
-      "correct": "C",
+      "options": [
+       "৫,০০,০০০ বার",
+       "১,০০,০০০ বার",
+       "৭,৮১,০০০ বার",
+       "১০,০০,০০০ বার"
+      ],
+      "correct": 2,
       "explanation": "শিয়ালের ভিডিও ৭,৮১,০০০ বার দেখা হয়েছে; কুকুরের ভিডিও প্রায় ৫,০০,০০০ বার।"
      },
      {
       "question": "প্রস্তাবিত সংশোধনী অনুযায়ী প্রাণী হয়রানির কনটেন্ট তৈরির অপরাধ কেমন হবে?",
-      "options": {
-       "A": "আমল-অযোগ্য ও জরিমানামাত্র",
-       "B": "শুধু সতর্কতা",
-       "C": "দেওয়ানি অপরাধ",
-       "D": "আমলযোগ্য অপরাধ"
-      },
-      "correct": "D",
+      "options": [
+       "আমল-অযোগ্য ও জরিমানামাত্র",
+       "শুধু সতর্কতা",
+       "দেওয়ানি অপরাধ",
+       "আমলযোগ্য অপরাধ"
+      ],
+      "correct": 3,
       "explanation": "খসড়া অনুযায়ী অপরাধটি আমলযোগ্য হবে; সাত ধরনের অপরাধ আমলযোগ্য ও জামিন-অযোগ্য করার প্রস্তাব আছে।"
      }
     ],
     "written_prep": {
-     "short_question": "প্রাণিকল্যাণ আইন, ২০১৯-এর মূল বিধানগুলো সংক্ষেপে লেখো।",
-     "short_outline": [
-      "২০১৯ সালের ১২ নং আইন; ২৪টি ধারা; ১৯২০ সালের আইনের জায়গা নেয়।",
-      "ধারা ৬: নিষ্ঠুরতার তালিকা; শাস্তি ৬ মাস–২ বছর, ১০,০০০–৫০,০০০ টাকা।",
-      "বর্তমানে অপরাধ আমল-অযোগ্য ও জামিনযোগ্য; শুধু DLS-এর লিখিত অভিযোগে বিচার।"
-     ],
-     "analytical_question": "সামাজিক যোগাযোগমাধ্যমে প্রাণী হয়রানির কনটেন্ট রোধে আইনি শাস্তি কতটা কার্যকর হবে? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "শাস্তির ভূমিকা: ৬ মাসের কারাদণ্ড ও ৫০,০০০ টাকা জরিমানা প্রতিরোধক হিসেবে কাজ করতে পারে।",
-      "প্রয়োগের চ্যালেঞ্জ: ভাইরাল ভিডিও শনাক্তকরণ, প্ল্যাটফর্মের সহযোগিতা, অভিযোগের ব্যবস্থা।",
-      "সম্পূরক ব্যবস্থা: সচেতনতা, প্ল্যাটফর্মের কনটেন্ট নীতি, দ্রুত অপসারণ।"
-     ]
+     "short": {
+      "question": "প্রাণিকল্যাণ আইন, ২০১৯-এর মূল বিধানগুলো সংক্ষেপে লেখো।",
+      "outline": [
+       "২০১৯ সালের ১২ নং আইন; ২৪টি ধারা; ১৯২০ সালের আইনের জায়গা নেয়।",
+       "ধারা ৬: নিষ্ঠুরতার তালিকা; শাস্তি ৬ মাস–২ বছর, ১০,০০০–৫০,০০০ টাকা।",
+       "বর্তমানে অপরাধ আমল-অযোগ্য ও জামিনযোগ্য; শুধু DLS-এর লিখিত অভিযোগে বিচার।"
+      ]
+     },
+     "analytical": {
+      "question": "সামাজিক যোগাযোগমাধ্যমে প্রাণী হয়রানির কনটেন্ট রোধে আইনি শাস্তি কতটা কার্যকর হবে? বিশ্লেষণ করো।",
+      "outline": [
+       "শাস্তির ভূমিকা: ৬ মাসের কারাদণ্ড ও ৫০,০০০ টাকা জরিমানা প্রতিরোধক হিসেবে কাজ করতে পারে।",
+       "প্রয়োগের চ্যালেঞ্জ: ভাইরাল ভিডিও শনাক্তকরণ, প্ল্যাটফর্মের সহযোগিতা, অভিযোগের ব্যবস্থা।",
+       "সম্পূরক ব্যবস্থা: সচেতনতা, প্ল্যাটফর্মের কনটেন্ট নীতি, দ্রুত অপসারণ।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "cognisable",
-      "bangla_meaning": "আমলযোগ্য (অপরাধ)",
+      "meaning_bn": "আমলযোগ্য (অপরাধ)",
       "example": "Under the proposed provision, this will be a cognisable offence.",
-      "synonym": "actionable",
-      "antonym": "non-cognisable"
+      "synonyms": [
+       "actionable"
+      ],
+      "antonyms": [
+       "non-cognisable"
+      ]
      },
      {
       "word": "harassment",
-      "bangla_meaning": "হয়রানি; বিরক্ত করা",
+      "meaning_bn": "হয়রানি; বিরক্ত করা",
       "example": "Draft amendments propose jail terms for creating content by harassing animals.",
-      "synonym": "torment",
-      "antonym": "protection"
+      "synonyms": [
+       "torment"
+      ],
+      "antonyms": [
+       "protection"
+      ]
      },
      {
       "word": "amendment",
-      "bangla_meaning": "সংশোধনী; সংশোধন",
+      "meaning_bn": "সংশোধনী; সংশোধন",
       "example": "Draft amendments to the Animal Welfare Act, 2019 propose up to six months in prison.",
-      "synonym": "revision",
-      "antonym": "repeal"
+      "synonyms": [
+       "revision"
+      ],
+      "antonyms": [
+       "repeal"
+      ]
      },
      {
       "word": "offence",
-      "bangla_meaning": "অপরাধ",
+      "meaning_bn": "অপরাধ",
       "example": "Seven types of offences are proposed to become cognisable and non-bailable.",
-      "synonym": "crime",
-      "antonym": "compliance"
+      "synonyms": [
+       "crime"
+      ],
+      "antonyms": [
+       "compliance"
+      ]
      },
      {
       "word": "cruelty",
-      "bangla_meaning": "নিষ্ঠুরতা",
+      "meaning_bn": "নিষ্ঠুরতা",
       "example": "The Animal Welfare Act, 2019 replaced the Cruelty to Animals Act, 1920.",
-      "synonym": "brutality",
-      "antonym": "kindness"
+      "synonyms": [
+       "brutality"
+      ],
+      "antonyms": [
+       "kindness"
+      ]
      }
     ],
     "revision": {
@@ -3685,7 +4009,7 @@
      "text": "নিষেধাজ্ঞা সত্ত্বেও প্রতিদিন পর্যটকরা সেন্ট মার্টিন দ্বীপের দক্ষিণ প্রান্ত চেরাদিয়ায় যাচ্ছেন — মধ্যরদিয়া থেকে হেঁটে বা ইজিবাইক, মোটরসাইকেল ও সাইকেলে। পায়ের নিচে পিষ্ট হচ্ছে লাল কাঁকড়া, শামুক ও ঝিনুক; ক্ষতি হচ্ছে প্রবাল ও শৈবালের। পরিবেশ অধিদপ্তরের স্বেচ্ছাসেবক সংখ্যায় এত কম যে নিয়ম মানানো যাচ্ছে না, অথচ দ্বীপটি প্রতিবেশগত সংকটাপন্ন এলাকা; এর চারপাশে ১,৭৪৩ বর্গকিলোমিটার সামুদ্রিক সংরক্ষিত এলাকা ও দিনে ৩,৫০০ রাত্রিযাপনকারী পর্যটকের সীমা রয়েছে।",
      "source": {
       "publication": "Prothom Alo English",
-      "date": "২০২৬-১১-১৩",
+      "date": "2026-11-13",
       "url": "https://en.prothomalo.com/bangladesh/exw1bxurzw"
      }
     },
@@ -3771,128 +4095,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "সেন্ট মার্টিন: বাংলাদেশের একমাত্র প্রবাল দ্বীপ; প্রায় ৮ বর্গকিলোমিটার।",
-      "ECA ১৯৯৯; MPA ৪ জানুয়ারি ২০২৩, ১,৭৪৩ বর্গকিলোমিটার — বন্যপ্রাণী আইন, ২০১২-এর ১৩ ধারায়।",
-      "শাস্তি: সর্বোচ্চ ১০ বছর বা ১০ লাখ টাকা জরিমানা; মৌসুম ১ নভেম্বর–১৫ মার্চ; সীমা ৩,৫০০/দিন।"
-     ],
-     "institutions": [
-      {
-       "name": "পরিবেশ অধিদপ্তর (DoE)",
-       "role": "ECA ও MPA-এর তদারকি; স্বেচ্ছাসেবক দিয়ে নিয়ম মানায়"
-      },
-      {
-       "name": "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়",
-       "role": "MPA ঘোষণা করে; পর্যটন নির্দেশনা জারি করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "The Business Standard — Saint Martin's season opens",
-       "url": "https://www.tbsnews.net/bangladesh/1174-tourists-sail-saint-martin-season-opens-1299001"
-      },
-      {
-       "name": "Friendship NGO — Saving Bangladesh's Only Coral Island",
-       "url": "https://friendship.ngo/saving-bangladeshs-only-coral-island/"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "পরিবেশ অধিদপ্তর (DoE)",
+      "role": "ECA ও MPA-এর তদারকি; স্বেচ্ছাসেবক দিয়ে নিয়ম মানায়",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     },
+     {
+      "name": "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়",
+      "role": "MPA ঘোষণা করে; পর্যটন নির্দেশনা জারি করে",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "সেন্ট মার্টিন",
+      "meaning": "বাংলাদেশের একমাত্র প্রবাল দ্বীপ; প্রায় ৮ বর্গকিলোমিটার।",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     },
+     {
+      "term": "ECA",
+      "meaning": "১৯৯৯",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     },
+     {
+      "term": "MPA ৪ জানুয়ারি ২০২৩, ১,৭৪৩ বর্গকিলোমিটার",
+      "meaning": "বন্যপ্রাণী আইন, ২০১২-এর ১৩ ধারায়।",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     },
+     {
+      "term": "শাস্তি",
+      "meaning": "সর্বোচ্চ ১০ বছর বা ১০ লাখ টাকা জরিমানা; মৌসুম ১ নভেম্বর–১৫ মার্চ; সীমা ৩,৫০০/দিন।",
+      "source": "The Business Standard — Saint Martin's season opens; Friendship NGO — Saving Bangladesh's Only Coral Island"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "সেন্ট মার্টিন দ্বীপের আয়তন প্রায় কত?",
-      "options": {
-       "A": "প্রায় ৮ বর্গকিলোমিটার",
-       "B": "১,৭৪৩ বর্গকিলোমিটার",
-       "C": "১২০ বর্গকিলোমিটার",
-       "D": "৫৯০ বর্গকিলোমিটার"
-      },
-      "correct": "A",
+      "options": [
+       "প্রায় ৮ বর্গকিলোমিটার",
+       "১,৭৪৩ বর্গকিলোমিটার",
+       "১২০ বর্গকিলোমিটার",
+       "৫৯০ বর্গকিলোমিটার"
+      ],
+      "correct": 0,
       "explanation": "দ্বীপটির আয়তন প্রায় ৮ বর্গকিলোমিটার।"
      },
      {
       "question": "সামুদ্রিক সংরক্ষিত এলাকা (MPA) কোন আইনে ঘোষিত হয়?",
-      "options": {
-       "A": "পরিবেশ সংরক্ষণ আইন, ১৯৯৫",
-       "B": "বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২",
-       "C": "মৎস্য আইন",
-       "D": "পর্যটন আইন"
-      },
-      "correct": "B",
+      "options": [
+       "পরিবেশ সংরক্ষণ আইন, ১৯৯৫",
+       "বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২",
+       "মৎস্য আইন",
+       "পর্যটন আইন"
+      ],
+      "correct": 1,
       "explanation": "MPA ঘোষিত হয় বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২-এর ১৩(১) ও ১৩(২) ধারায়।"
      },
      {
       "question": "সামুদ্রিক সংরক্ষিত এলাকার আয়তন কত?",
-      "options": {
-       "A": "৮ বর্গকিলোমিটার",
-       "B": "৫৯০ বর্গকিলোমিটার",
-       "C": "১,৭৪৩ বর্গকিলোমিটার",
-       "D": "৩,৫০০ বর্গকিলোমিটার"
-      },
-      "correct": "C",
+      "options": [
+       "৮ বর্গকিলোমিটার",
+       "৫৯০ বর্গকিলোমিটার",
+       "১,৭৪৩ বর্গকিলোমিটার",
+       "৩,৫০০ বর্গকিলোমিটার"
+      ],
+      "correct": 2,
       "explanation": "চারপাশের ১,৭৪৩ বর্গকিলোমিটার বঙ্গোপসাগর MPA ঘোষিত হয়।"
      },
      {
       "question": "দিনে সর্বোচ্চ কতজন পর্যটক রাত্রিযাপন করতে পারেন?",
-      "options": {
-       "A": "২,০০০ জন",
-       "B": "১,০০০ জন",
-       "C": "৫,০০০ জন",
-       "D": "৩,৫০০ জন"
-      },
-      "correct": "D",
+      "options": [
+       "২,০০০ জন",
+       "১,০০০ জন",
+       "৫,০০০ জন",
+       "৩,৫০০ জন"
+      ],
+      "correct": 3,
       "explanation": "দিনে সর্বোচ্চ ৩,৫০০ পর্যটক রাত্রিযাপন করতে পারেন।"
      }
     ],
     "written_prep": {
-     "short_question": "সেন্ট মার্টিনের সুরক্ষা ব্যবস্থাগুলো (ECA, MPA, পর্যটন সীমা) সংক্ষেপে লেখো।",
-     "short_outline": [
-      "ECA ১৯৯৯; MPA ৪ জানুয়ারি ২০২৩, ১,৭৪৩ বর্গকিলোমিটার।",
-      "শাস্তি: সর্বোচ্চ ১০ বছর বা ১০ লাখ টাকা জরিমানা।",
-      "মৌসুম ১ নভেম্বর–১৫ মার্চ; রাত্রিযাপন সীমা ৩,৫০০/দিন; ১২ দফা নির্দেশনা।"
-     ],
-     "analytical_question": "চেরাদিয়ায় নিষেধাজ্ঞা সত্ত্বেও পর্যটক যাওয়া সংরক্ষণ বনাম পর্যটনের কোন দ্বন্দ্ব দেখায়? বিশ্লেষণ করো।",
-     "analytical_outline": [
-      "আইন আছে, প্রয়োগ নেই: DoE স্বেচ্ছাসেবক কম; চেরাদিয়ায় নিয়ম মানানো যাচ্ছে না।",
-      "ক্ষতি: লাল কাঁকড়া, শামুক, প্রবাল ও শৈবাল পিষ্ট হচ্ছে; কচ্ছপের বাসায় ব্যাঘাত।",
-      "সমাধান: স্বেচ্ছাসেবক বাড়ানো, জরিমানা প্রয়োগ, নৌকা-ভিত্তিক নিয়ন্ত্রণ, স্থানীয়দের বিকল্প আয়।"
-     ]
+     "short": {
+      "question": "সেন্ট মার্টিনের সুরক্ষা ব্যবস্থাগুলো (ECA, MPA, পর্যটন সীমা) সংক্ষেপে লেখো।",
+      "outline": [
+       "ECA ১৯৯৯; MPA ৪ জানুয়ারি ২০২৩, ১,৭৪৩ বর্গকিলোমিটার।",
+       "শাস্তি: সর্বোচ্চ ১০ বছর বা ১০ লাখ টাকা জরিমানা।",
+       "মৌসুম ১ নভেম্বর–১৫ মার্চ; রাত্রিযাপন সীমা ৩,৫০০/দিন; ১২ দফা নির্দেশনা।"
+      ]
+     },
+     "analytical": {
+      "question": "চেরাদিয়ায় নিষেধাজ্ঞা সত্ত্বেও পর্যটক যাওয়া সংরক্ষণ বনাম পর্যটনের কোন দ্বন্দ্ব দেখায়? বিশ্লেষণ করো।",
+      "outline": [
+       "আইন আছে, প্রয়োগ নেই: DoE স্বেচ্ছাসেবক কম; চেরাদিয়ায় নিয়ম মানানো যাচ্ছে না।",
+       "ক্ষতি: লাল কাঁকড়া, শামুক, প্রবাল ও শৈবাল পিষ্ট হচ্ছে; কচ্ছপের বাসায় ব্যাঘাত।",
+       "সমাধান: স্বেচ্ছাসেবক বাড়ানো, জরিমানা প্রয়োগ, নৌকা-ভিত্তিক নিয়ন্ত্রণ, স্থানীয়দের বিকল্প আয়।"
+      ]
+     }
     },
     "vocabulary": [
      {
       "word": "biodiversity",
-      "bangla_meaning": "জীববৈচিত্র্য",
+      "meaning_bn": "জীববৈচিত্র্য",
       "example": "Tourists are visiting Cheradia despite restrictions, raising biodiversity concerns.",
-      "synonym": "ecological diversity",
-      "antonym": "monoculture"
+      "synonyms": [
+       "ecological diversity"
+      ],
+      "antonyms": [
+       "monoculture"
+      ]
      },
      {
       "word": "coral",
-      "bangla_meaning": "প্রবাল",
+      "meaning_bn": "প্রবাল",
       "example": "Tourists are crushing red crabs and damaging coral and algae underfoot.",
-      "synonym": "reef",
-      "antonym": "সরাসরি বিপরীত শব্দ নেই"
+      "synonyms": [
+       "reef"
+      ],
+      "antonyms": [
+       "সরাসরি বিপরীত শব্দ নেই"
+      ]
      },
      {
       "word": "ecosystem",
-      "bangla_meaning": "বাস্তুতন্ত্র",
+      "meaning_bn": "বাস্তুতন্ত্র",
       "example": "The island's fragile ecosystem is protected as an ecologically critical area.",
-      "synonym": "habitat system",
-      "antonym": "সরাসরি বিপরীত শব্দ নেই"
+      "synonyms": [
+       "habitat system"
+      ],
+      "antonyms": [
+       "সরাসরি বিপরীত শব্দ নেই"
+      ]
      },
      {
       "word": "nesting",
-      "bangla_meaning": "বাসা বাঁধা (ডিম পাড়া)",
+      "meaning_bn": "বাসা বাঁধা (ডিম পাড়া)",
       "example": "The 12-point guideline bans late-night gatherings that disturb nesting sea turtles.",
-      "synonym": "breeding",
-      "antonym": "সরাসরি বিপরীত শব্দ নেই"
+      "synonyms": [
+       "breeding"
+      ],
+      "antonyms": [
+       "সরাসরি বিপরীত শব্দ নেই"
+      ]
      },
      {
       "word": "conservation",
-      "bangla_meaning": "সংরক্ষণ",
+      "meaning_bn": "সংরক্ষণ",
       "example": "The gap between the cap and enforcement is the live fact for questions on conservation versus tourism.",
-      "synonym": "protection",
-      "antonym": "destruction"
+      "synonyms": [
+       "protection"
+      ],
+      "antonyms": [
+       "destruction"
+      ]
      }
     ],
     "revision": {
@@ -5088,8 +5443,8 @@
  ],
  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
  "approval_notes": "Auto-published under Rudro's rule of 2026-11-13 00:18: draft passed the full 17-check review 17/17 AND the correct answer is longest-or-tied-longest in 0 of 25 MCQs (limit 10). Pack written by operator (agent), acting as the Claude Project. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks (5 lead figures, opinion attribution) that got no human eye on this edition; the operator verified lead figures against the fetched source texts for all 12 stories and attribution throughout the 3 opinion stories. One importer flag is a documented false alarm: the ranker's editorial-slot story is the taka op-ed, a verbatim repeat of Edition 7 CA01 (same URL), correctly excluded; the slot is filled by the Kalabogi op-ed (CA06). Edition is short 3 stories (12/15) — thin COP31 day, not padded.",
- "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17",
+ "renovation_format": "learning-module-v2",
+ "renovation_date": "2026-11-18",
  "renovation_notes": [
   "All 12 story Q&A sets rewritten from existing edition facts.",
   "Added 24 English and 24 Bangla short-answer questions.",

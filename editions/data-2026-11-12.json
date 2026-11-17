@@ -96,7 +96,14 @@
      "label": "ঢাকা–গাজীপুর বিআরটি প্রকল্পে ব্যয়",
      "figure": "প্রায় ২,৮০০ কোটি টাকা"
     },
-    "news_summary": "ঢাকা–গাজীপুর বিআরটি (Bus Rapid Transit) প্রকল্পের আলাদা লেন বাতিলের সরকারি সিদ্ধান্তকে নগর পরিকল্পনাবিদ ও পরিবহন বিশেষজ্ঞরা ‘অযৌক্তিক ও আত্মঘাতী’ বলেছেন। প্রায় ২,৮০০ কোটি টাকা ব্যয়ে ও ১৪ বছরে প্রায় ৯৭% অবকাঠামো তৈরি হওয়ার পরও একটিও বাস চলেনি, আর এখন লেন ভাঙতে আরও ৪৫ কোটি টাকা লাগবে বলে জানানো হয়েছে। বিশেষজ্ঞরা তদন্ত ও শ্বেতপত্র দাবি করেছেন।",
+    "news_summary": {
+     "text": "ঢাকা–গাজীপুর বিআরটি (Bus Rapid Transit) প্রকল্পের আলাদা লেন বাতিলের সরকারি সিদ্ধান্তকে নগর পরিকল্পনাবিদ ও পরিবহন বিশেষজ্ঞরা ‘অযৌক্তিক ও আত্মঘাতী’ বলেছেন। প্রায় ২,৮০০ কোটি টাকা ব্যয়ে ও ১৪ বছরে প্রায় ৯৭% অবকাঠামো তৈরি হওয়ার পরও একটিও বাস চলেনি, আর এখন লেন ভাঙতে আরও ৪৫ কোটি টাকা লাগবে বলে জানানো হয়েছে। বিশেষজ্ঞরা তদন্ত ও শ্বেতপত্র দাবি করেছেন।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-11",
+      "url": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white"
+     }
+    },
     "verified_facts": [
      {
       "label": "প্রকল্পে ব্যয়",
@@ -180,138 +187,169 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্রকল্প-শাসন (project governance): ব্যয় বৃদ্ধি, সময় বৃদ্ধি ও অসমাপ্ত সেবা — লিখিত পরীক্ষায় উন্নয়ন-প্রকল্পের ব্যর্থতার উদাহরণ হিসেবে ব্যবহার করা যায়।",
-      "শ্বেতপত্র (white paper): কোনো বিষয়ে সরকার বা সংস্থার আনুষ্ঠানিক অবস্থান ও তথ্য তুলে ধরা দলিল; এখানে বিশেষজ্ঞরা বিআরটি নিয়ে শ্বেতপত্র চেয়েছেন।",
-      "উন্নয়ন সহযোগী: এশীয় উন্নয়ন ব্যাংক (ADB) ও ফরাসি উন্নয়ন সংস্থা (AFD) এই প্রকল্পের অর্থায়নকারী; প্রকল্প বন্ধে তাদের সঙ্গে আইনি জটিলতা মেটাতে আলোচনার নির্দেশ দেওয়া হয়েছে।"
-     ],
-     "institutions": [
-      {
-       "name": "সড়ক পরিবহন ও মহাসড়ক বিভাগ",
-       "role": "প্রকল্পের দায়িত্বপ্রাপ্ত সরকারি বিভাগ; ক্যাবিনেটে চারটি বিকল্প উপস্থাপন করে"
-      },
-      {
-       "name": "ঢাকা বাস র‌্যাপিড ট্রানজিট পিএলসি",
-       "role": "২০১৩ সালে গঠিত রাষ্ট্রায়ত্ত কোম্পানি, বিআরটি পরিচালনার জন্য; বাতিলের সিদ্ধান্তে এটি বিলুপ্ত করে দায়িত্ব সড়ক ও জনপথ অধিদপ্তরে দেওয়া হচ্ছে"
-      },
-      {
-       "name": "বাংলাদেশ ইনস্টিটিউট অব প্ল্যানার্স (বিআইপি)",
-       "role": "নগর পরিকল্পনাবিদদের সংগঠন; সভাপতি মুহাম্মদ আরিফুল ইসলাম স্বাধীন মূল্যায়ন ও তদন্ত দাবি করেছেন"
-      }
-     ],
-     "sources": [
-      {
-       "name": "The Business Standard — Did govt pick the worst option to scrap BRT?",
-       "url": "https://www.tbsnews.net/bangladesh/did-govt-pick-worst-option-scrap-brt-1601121"
-      },
-      {
-       "name": "Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?",
-       "url": "https://itdp.org/2025/04/17/what-is-brt-and-why-do-cities-need-it/"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "আলাদা পথাধিকার (Dedicated Right-of-Way)",
-       "B": "সব গাড়ির জন্য উন্মুক্ত লেন",
-       "C": "বাসে উঠে ভাড়া দেওয়া",
-       "D": "মোড়ে বাসের জন্য অপেক্ষা বাড়ানো"
-      },
-      "explanation": "আইটিডিপির বিআরটি স্ট্যান্ডার্ড অনুযায়ী আলাদা পথাধিকার পাঁচটি মৌলিক বৈশিষ্ট্যের একটি।",
-      "correct": "A",
-      "question": "বিআরটির পাঁচটি মৌলিক বৈশিষ্ট্যের একটি কোনটি?"
+      "name": "সড়ক পরিবহন ও মহাসড়ক বিভাগ",
+      "role": "প্রকল্পের দায়িত্বপ্রাপ্ত সরকারি বিভাগ; ক্যাবিনেটে চারটি বিকল্প উপস্থাপন করে",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
      },
      {
-      "options": {
-       "A": "প্রায় ৪৫ কোটি টাকা",
-       "B": "প্রায় ২,৮০০ কোটি টাকা",
-       "C": "প্রায় ৪,২৬৮ কোটি টাকা",
-       "D": "প্রায় ২০ কোটি টাকা"
-      },
-      "explanation": "সংবাদে বলা হয়েছে, প্রকল্পে প্রায় ২,৮০০ কোটি টাকা ব্যয় হয়েছে।",
-      "correct": "B",
-      "question": "ঢাকা–গাজীপুর বিআরটি প্রকল্পে প্রায় কত টাকা ব্যয় হয়েছে?"
+      "name": "ঢাকা বাস র‌্যাপিড ট্রানজিট পিএলসি",
+      "role": "২০১৩ সালে গঠিত রাষ্ট্রায়ত্ত কোম্পানি, বিআরটি পরিচালনার জন্য; বাতিলের সিদ্ধান্তে এটি বিলুপ্ত করে দায়িত্ব সড়ক ও জনপথ অধিদপ্তরে দেওয়া হচ্ছে",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
      },
      {
-      "options": {
-       "A": "৫,০০০ যাত্রী",
-       "B": "১০,০০০ যাত্রী",
-       "C": "২০,০০০ যাত্রী",
-       "D": "৫০,০০০ যাত্রী"
-      },
-      "explanation": "টিবিএসের প্রতিবেদন অনুযায়ী বিআরটি লেনে ঘণ্টায় ২০,০০০ যাত্রী বহন সম্ভব, মিশ্র লেনে ৫,০০০।",
-      "correct": "C",
-      "question": "ক্যাবিনেটের নথি অনুযায়ী আলাদা বিআরটি লেন ঘণ্টায় কত যাত্রী বহন করতে পারে?"
-     },
-     {
-      "options": {
-       "A": "সড়ক ও জনপথ অধিদপ্তর",
-       "B": "ঢাকা বাস র‌্যাপিড ট্রানজিট পিএলসি",
-       "C": "এশীয় উন্নয়ন ব্যাংক",
-       "D": "বাংলাদেশ ইনস্টিটিউট অব প্ল্যানার্স"
-      },
-      "explanation": "সংবাদ সম্মেলন আয়োজন করে বিআইপি, আইএবি, ওয়ার্ক ফর আ বেটার বাংলাদেশ ট্রাস্ট ও গাজীপুর হেরিটেজ অ্যান্ড ডেভেলপমেন্ট।",
-      "correct": "D",
-      "question": "১১ নভেম্বরের সংবাদ সম্মেলনের আয়োজকদের মধ্যে কে ছিল?"
+      "name": "বাংলাদেশ ইনস্টিটিউট অব প্ল্যানার্স (বিআইপি)",
+      "role": "নগর পরিকল্পনাবিদদের সংগঠন; সভাপতি মুহাম্মদ আরিফুল ইসলাম স্বাধীন মূল্যায়ন ও তদন্ত দাবি করেছেন",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "প্রকল্প-শাসন",
+      "full_name": "project governance",
+      "meaning": "ব্যয় বৃদ্ধি, সময় বৃদ্ধি ও অসমাপ্ত সেবা — লিখিত পরীক্ষায় উন্নয়ন-প্রকল্পের ব্যর্থতার উদাহরণ হিসেবে ব্যবহার করা যায়।",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
+     },
+     {
+      "term": "শ্বেতপত্র",
+      "full_name": "white paper",
+      "meaning": "কোনো বিষয়ে সরকার বা সংস্থার আনুষ্ঠানিক অবস্থান ও তথ্য তুলে ধরা দলিল; এখানে বিশেষজ্ঞরা বিআরটি নিয়ে শ্বেতপত্র চেয়েছেন।",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
+     },
+     {
+      "term": "উন্নয়ন সহযোগী",
+      "meaning": "এশীয় উন্নয়ন ব্যাংক (ADB) ও ফরাসি উন্নয়ন সংস্থা (AFD) এই প্রকল্পের অর্থায়নকারী; প্রকল্প বন্ধে তাদের সঙ্গে আইনি জটিলতা মেটাতে আলোচনার নির্দেশ দেওয়া হয়েছে।",
+      "source": "The Business Standard — Did govt pick the worst option to scrap BRT?; Institute for Transportation and Development Policy (ITDP) — What Is BRT and Why Do Cities Need It?"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "বিআরটির পাঁচটি মৌলিক বৈশিষ্ট্যের একটি কোনটি?",
+      "options": [
+       "আলাদা পথাধিকার (Dedicated Right-of-Way)",
+       "সব গাড়ির জন্য উন্মুক্ত লেন",
+       "বাসে উঠে ভাড়া দেওয়া",
+       "মোড়ে বাসের জন্য অপেক্ষা বাড়ানো"
+      ],
+      "correct": 0,
+      "explanation": "আইটিডিপির বিআরটি স্ট্যান্ডার্ড অনুযায়ী আলাদা পথাধিকার পাঁচটি মৌলিক বৈশিষ্ট্যের একটি।"
+     },
+     {
+      "question": "ঢাকা–গাজীপুর বিআরটি প্রকল্পে প্রায় কত টাকা ব্যয় হয়েছে?",
+      "options": [
+       "প্রায় ৪৫ কোটি টাকা",
+       "প্রায় ২,৮০০ কোটি টাকা",
+       "প্রায় ৪,২৬৮ কোটি টাকা",
+       "প্রায় ২০ কোটি টাকা"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, প্রকল্পে প্রায় ২,৮০০ কোটি টাকা ব্যয় হয়েছে।"
+     },
+     {
+      "question": "ক্যাবিনেটের নথি অনুযায়ী আলাদা বিআরটি লেন ঘণ্টায় কত যাত্রী বহন করতে পারে?",
+      "options": [
+       "৫,০০০ যাত্রী",
+       "১০,০০০ যাত্রী",
+       "২০,০০০ যাত্রী",
+       "৫০,০০০ যাত্রী"
+      ],
+      "correct": 2,
+      "explanation": "টিবিএসের প্রতিবেদন অনুযায়ী বিআরটি লেনে ঘণ্টায় ২০,০০০ যাত্রী বহন সম্ভব, মিশ্র লেনে ৫,০০০।"
+     },
+     {
+      "question": "১১ নভেম্বরের সংবাদ সম্মেলনের আয়োজকদের মধ্যে কে ছিল?",
+      "options": [
+       "সড়ক ও জনপথ অধিদপ্তর",
+       "ঢাকা বাস র‌্যাপিড ট্রানজিট পিএলসি",
+       "এশীয় উন্নয়ন ব্যাংক",
+       "বাংলাদেশ ইনস্টিটিউট অব প্ল্যানার্স"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ সম্মেলন আয়োজন করে বিআইপি, আইএবি, ওয়ার্ক ফর আ বেটার বাংলাদেশ ট্রাস্ট ও গাজীপুর হেরিটেজ অ্যান্ড ডেভেলপমেন্ট।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "ঢাকা–গাজীপুর বিআরটি প্রকল্পের ব্যয়, সময় ও অগ্রগতির তথ্য দিয়ে প্রকল্প-শাসনের দুর্বলতাগুলো সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "প্রায় ২,৮০০ কোটি টাকা ব্যয় ও ১৪ বছরে ৯৭% কাজ শেষ হয়েও সেবা চালু হয়নি",
        "ক্যাবিনেটের ১৮ অক্টোবরের সিদ্ধান্ত ও ভাঙতে আরও ৪৫ কোটি টাকা",
        "স্বাধীন মূল্যায়ন, তৃতীয় পক্ষের তদন্ত ও শ্বেতপত্রের দাবি"
       ]
      },
-     {
+     "analytical": {
       "question": "বিআরটি লেন বাতিল করে ছয় লেনের মহাসড়ক করা বনাম বাকি কাজ শেষ করে বিআরটি চালু করা — কোন পথটি যুক্তিযুক্ত? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "ধারণক্ষমতা: বিআরটি লেন ঘণ্টায় ২০,০০০ যাত্রী বনাম মিশ্র লেনে ৫,০০০",
        "ডুবে যাওয়া ব্যয় (sunk cost) ও ভাঙার বাড়তি ব্যয়ের হিসাব",
        "উন্নয়ন সহযোগীদের সঙ্গে আইনি জটিলতা ও ভবিষ্যৎ প্রকল্পে শিক্ষা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "irregularities",
-      "bangla_meaning": "অনিয়ম; নিয়মবহির্ভূত কাজ",
+      "meaning_bn": "অনিয়ম; নিয়মবহির্ভূত কাজ",
       "example": "Experts demanded an investigation into alleged irregularities in the BRT project.",
-      "synonym": "misconduct; malpractice",
-      "antonym": "regularity; compliance"
+      "synonyms": [
+       "misconduct",
+       "malpractice"
+      ],
+      "antonyms": [
+       "regularity",
+       "compliance"
+      ]
      },
      {
       "word": "infrastructure",
-      "bangla_meaning": "অবকাঠামো",
+      "meaning_bn": "অবকাঠামো",
       "example": "Nearly 97% of the BRT infrastructure was complete without a single bus service running.",
-      "synonym": "facilities; framework",
-      "antonym": "—"
+      "synonyms": [
+       "facilities",
+       "framework"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "corridor",
-      "bangla_meaning": "করিডর; চলাচলের পথ",
+      "meaning_bn": "করিডর; চলাচলের পথ",
       "example": "The BRT corridor runs from Dhaka airport to Gazipur.",
-      "synonym": "passage; route",
-      "antonym": "—"
+      "synonyms": [
+       "passage",
+       "route"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "demolition",
-      "bangla_meaning": "ভাঙা; ধ্বংস করা",
+      "meaning_bn": "ভাঙা; ধ্বংস করা",
       "example": "The government plans to spend Tk45 crore demolishing the BRT lanes.",
-      "synonym": "destruction; dismantling",
-      "antonym": "construction; building"
+      "synonyms": [
+       "destruction",
+       "dismantling"
+      ],
+      "antonyms": [
+       "construction",
+       "building"
+      ]
      },
      {
       "word": "dedicated",
-      "bangla_meaning": "নির্দিষ্ট কাজের জন্য আলাদা করে রাখা",
+      "meaning_bn": "নির্দিষ্ট কাজের জন্য আলাদা করে রাখা",
       "example": "The project had dedicated lanes only for buses.",
-      "synonym": "exclusive; reserved",
-      "antonym": "shared; general"
+      "synonyms": [
+       "exclusive",
+       "reserved"
+      ],
+      "antonyms": [
+       "shared",
+       "general"
+      ]
      }
     ],
     "revision": {
@@ -433,7 +471,14 @@
      "label": "শেখ হাসিনার ফেরার ঘোষিত সময়",
      "figure": "ডিসেম্বর ২০২৬"
     },
-    "news_summary": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা (৭৯) ভারতে স্বেচ্ছা নির্বাসন থেকে ডিসেম্বরে বাংলাদেশে ফেরার প্রতিশ্রুতি দিয়েছেন। ২০২৪ সালের বিক্ষোভ দমনে মানবতাবিরোধী অপরাধের অভিযোগে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের মৃত্যুদণ্ড তাঁর বিরুদ্ধে রয়েছে, আর সরকার তাঁকে ভারতের কাছে প্রত্যর্পণ চাইতে চ্যালেঞ্জ জানিয়েছে।",
+    "news_summary": {
+     "text": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা (৭৯) ভারতে স্বেচ্ছা নির্বাসন থেকে ডিসেম্বরে বাংলাদেশে ফেরার প্রতিশ্রুতি দিয়েছেন। ২০২৪ সালের বিক্ষোভ দমনে মানবতাবিরোধী অপরাধের অভিযোগে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের মৃত্যুদণ্ড তাঁর বিরুদ্ধে রয়েছে, আর সরকার তাঁকে ভারতের কাছে প্রত্যর্পণ চাইতে চ্যালেঞ্জ জানিয়েছে।",
+     "source": {
+      "publication": "Yahoo News / AFP",
+      "date": "2026-11-11",
+      "url": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html"
+     }
+    },
     "verified_facts": [
      {
       "label": "বয়স",
@@ -516,134 +561,161 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্রত্যর্পণ (extradition): অভিযুক্ত ব্যক্তিকে বিচারের জন্য অন্য দেশের কাছে হস্তান্তরের আনুষ্ঠানিক প্রক্রিয়া।",
-      "আপিলের সময়সীমা: প্রসিকিউটরের ভাষ্য অনুযায়ী হাসিনা আপিলের সময়সীমা পার করেছেন; ফিরলে রায় কার্যকর হবে বলে তিনি জানিয়েছেন।",
-      "১৯৮১ সালের প্রত্যাবর্তন: দলীয় অনুসারীরা বর্তমান পরিস্থিতির সঙ্গে পিতার হত্যার পর ১৯৮১ সালে হাসিনার ফেরার তুলনা করেছেন।"
-     ],
-     "institutions": [
-      {
-       "name": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল (আইসিটি)",
-       "role": "১৯৭৩ সালের আইনের অধীনে গঠিত বিশেষ আদালত; স্থায়ী আসন ঢাকায়"
-      },
-      {
-       "name": "আন্তর্জাতিক অপরাধ আদালত (আইসিসি)",
-       "role": "রোম সংবিধির অধীন আন্তর্জাতিক আদালত; আইসিটি প্রয়োজনে এর ‘এলিমেন্টস অব ক্রাইম’ বিবেচনা করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — International Crimes (Tribunal) Act, 1973",
-       "url": "https://en.banglapedia.org/index.php/International_Crimes_(Tribunal)_Act,_1973"
-      },
-      {
-       "name": "Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973",
-       "url": "https://bdlaws.minlaw.gov.bd/act-print-435/section-print-12479.html"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "১৯৭৩ সালে",
-       "B": "১৯৭১ সালে",
-       "C": "২০১০ সালে",
-       "D": "২০২৪ সালে"
-      },
-      "explanation": "বাংলাপিডিয়া অনুযায়ী আইনটি ১৯৭৩ সালের ২০ জুলাই প্রণীত হয়।",
-      "correct": "A",
-      "question": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন কত সালে প্রণীত হয়?"
+      "name": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল (আইসিটি)",
+      "role": "১৯৭৩ সালের আইনের অধীনে গঠিত বিশেষ আদালত; স্থায়ী আসন ঢাকায়",
+      "source": "Banglapedia — International Crimes (Tribunal) Act, 1973; Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973"
      },
      {
-      "options": {
-       "A": "৫ আগস্ট ২০২৩",
-       "B": "৫ আগস্ট ২০২৪",
-       "C": "১১ নভেম্বর ২০২৪",
-       "D": "৫ ডিসেম্বর ২০২৪"
-      },
-      "explanation": "সংবাদে বলা হয়েছে, তিনি ৫ আগস্ট ২০২৪-এ দেশ ছাড়েন।",
-      "correct": "B",
-      "question": "শেখ হাসিনা বাংলাদেশ ছাড়েন কবে?"
-     },
-     {
-      "options": {
-       "A": "১৯৭৩ সালে",
-       "B": "২০০৯ সালে",
-       "C": "২০১০ সালে",
-       "D": "২০১৫ সালে"
-      },
-      "explanation": "বাংলাপিডিয়া অনুযায়ী প্রথম ট্রাইব্যুনাল গঠিত হয় ২০১০ সালে।",
-      "correct": "C",
-      "question": "বাংলাদেশে প্রথম আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল গঠিত হয় কবে?"
-     },
-     {
-      "options": {
-       "A": "শুধু কর ফাঁকি",
-       "B": "শুধু যানজট সৃষ্টি",
-       "C": "শুধু বাণিজ্যিক বিরোধ",
-       "D": "বেসামরিক জনগণের বিরুদ্ধে ব্যাপক হামলার অংশ হিসেবে হত্যা"
-      },
-      "explanation": "আইনের ৩ ধারা অনুযায়ী বেসামরিক জনগণের বিরুদ্ধে ব্যাপক হামলার অংশ হিসেবে হত্যা মানবতাবিরোধী অপরাধ।",
-      "correct": "D",
-      "question": "মানবতাবিরোধী অপরাধের আওতায় কোনটি পড়ে?"
+      "name": "আন্তর্জাতিক অপরাধ আদালত (আইসিসি)",
+      "role": "রোম সংবিধির অধীন আন্তর্জাতিক আদালত; আইসিটি প্রয়োজনে এর ‘এলিমেন্টস অব ক্রাইম’ বিবেচনা করে",
+      "source": "Banglapedia — International Crimes (Tribunal) Act, 1973; Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "প্রত্যর্পণ (extradition)",
+      "meaning": "অভিযুক্ত ব্যক্তিকে বিচারের জন্য অন্য দেশের কাছে হস্তান্তরের আনুষ্ঠানিক প্রক্রিয়া।",
+      "source": "Banglapedia — International Crimes (Tribunal) Act, 1973; Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973"
+     },
+     {
+      "term": "আপিলের সময়সীমা",
+      "meaning": "প্রসিকিউটরের ভাষ্য অনুযায়ী হাসিনা আপিলের সময়সীমা পার করেছেন; ফিরলে রায় কার্যকর হবে বলে তিনি জানিয়েছেন।",
+      "source": "Banglapedia — International Crimes (Tribunal) Act, 1973; Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973"
+     },
+     {
+      "term": "১৯৮১ সালের প্রত্যাবর্তন",
+      "meaning": "দলীয় অনুসারীরা বর্তমান পরিস্থিতির সঙ্গে পিতার হত্যার পর ১৯৮১ সালে হাসিনার ফেরার তুলনা করেছেন।",
+      "source": "Banglapedia — International Crimes (Tribunal) Act, 1973; Laws of Bangladesh (Ministry of Law) — International Crimes (Tribunals) Act, 1973"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন কত সালে প্রণীত হয়?",
+      "options": [
+       "১৯৭৩ সালে",
+       "১৯৭১ সালে",
+       "২০১০ সালে",
+       "২০২৪ সালে"
+      ],
+      "correct": 0,
+      "explanation": "বাংলাপিডিয়া অনুযায়ী আইনটি ১৯৭৩ সালের ২০ জুলাই প্রণীত হয়।"
+     },
+     {
+      "question": "শেখ হাসিনা বাংলাদেশ ছাড়েন কবে?",
+      "options": [
+       "৫ আগস্ট ২০২৩",
+       "৫ আগস্ট ২০২৪",
+       "১১ নভেম্বর ২০২৪",
+       "৫ ডিসেম্বর ২০২৪"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, তিনি ৫ আগস্ট ২০২৪-এ দেশ ছাড়েন।"
+     },
+     {
+      "question": "বাংলাদেশে প্রথম আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল গঠিত হয় কবে?",
+      "options": [
+       "১৯৭৩ সালে",
+       "২০০৯ সালে",
+       "২০১০ সালে",
+       "২০১৫ সালে"
+      ],
+      "correct": 2,
+      "explanation": "বাংলাপিডিয়া অনুযায়ী প্রথম ট্রাইব্যুনাল গঠিত হয় ২০১০ সালে।"
+     },
+     {
+      "question": "মানবতাবিরোধী অপরাধের আওতায় কোনটি পড়ে?",
+      "options": [
+       "শুধু কর ফাঁকি",
+       "শুধু যানজট সৃষ্টি",
+       "শুধু বাণিজ্যিক বিরোধ",
+       "বেসামরিক জনগণের বিরুদ্ধে ব্যাপক হামলার অংশ হিসেবে হত্যা"
+      ],
+      "correct": 3,
+      "explanation": "আইনের ৩ ধারা অনুযায়ী বেসামরিক জনগণের বিরুদ্ধে ব্যাপক হামলার অংশ হিসেবে হত্যা মানবতাবিরোধী অপরাধ।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "আন্তর্জাতিক অপরাধ (ট্রাইব্যুনাল) আইন, ১৯৭৩-এর মূল বৈশিষ্ট্যগুলো সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "১৯৭৩ সালের আইন, বিশ্বের প্রথম জাতীয় যুদ্ধাপরাধ আইন",
        "আওতাধীন অপরাধ: গণহত্যা, মানবতাবিরোধী অপরাধ, যুদ্ধাপরাধ",
        "প্রথম ট্রাইব্যুনাল ২০১০ সালে"
       ]
      },
-     {
+     "analytical": {
       "question": "একজন দণ্ডপ্রাপ্ত সাবেক প্রধানমন্ত্রীর ফেরার ঘোষণা ও প্রত্যর্পণ প্রশ্ন বাংলাদেশের রাজনীতি ও কূটনীতিতে কী প্রভাব ফেলতে পারে? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "আইনি দিক: আপিলের সময়সীমা, রায় কার্যকর, প্রত্যর্পণ চুক্তি",
        "রাজনৈতিক দিক: দলীয় কর্মীদের মনোবল ও জনমত",
        "কূটনৈতিক দিক: ভারতের সঙ্গে সম্পর্ক"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "extradition",
-      "bangla_meaning": "প্রত্যর্পণ; অভিযুক্তকে অন্য দেশের কাছে হস্তান্তর",
+      "meaning_bn": "প্রত্যর্পণ; অভিযুক্তকে অন্য দেশের কাছে হস্তান্তর",
       "example": "The government challenged her to seek extradition from India.",
-      "synonym": "handover; surrender",
-      "antonym": "asylum; refuge"
+      "synonyms": [
+       "handover",
+       "surrender"
+      ],
+      "antonyms": [
+       "asylum",
+       "refuge"
+      ]
      },
      {
       "word": "rhetoric",
-      "bangla_meaning": "বাগাড়ম্বর; প্রভাব বিস্তারের জন্য সাজানো বক্তব্য",
+      "meaning_bn": "বাগাড়ম্বর; প্রভাব বিস্তারের জন্য সাজানো বক্তব্য",
       "example": "Analysts say the pledge may be rhetoric designed to rally supporters.",
-      "synonym": "oratory; bombast",
-      "antonym": "plain speaking; candour"
+      "synonyms": [
+       "oratory",
+       "bombast"
+      ],
+      "antonyms": [
+       "plain speaking",
+       "candour"
+      ]
      },
      {
       "word": "defiance",
-      "bangla_meaning": "অবাধ্যতা; আদেশ অমান্য করার মনোভাব",
+      "meaning_bn": "অবাধ্যতা; আদেশ অমান্য করার মনোভাব",
       "example": "Her defiance may be a bid to remain politically relevant.",
-      "synonym": "resistance; disobedience",
-      "antonym": "compliance; obedience"
+      "synonyms": [
+       "resistance",
+       "disobedience"
+      ],
+      "antonyms": [
+       "compliance",
+       "obedience"
+      ]
      },
      {
       "word": "prosecutor",
-      "bangla_meaning": "অভিশংসক; রাষ্ট্রপক্ষের আইনজীবী",
+      "meaning_bn": "অভিশংসক; রাষ্ট্রপক্ষের আইনজীবী",
       "example": "The prosecutor said she had missed the deadline to appeal.",
-      "synonym": "public prosecutor",
-      "antonym": "defence counsel"
+      "synonyms": [
+       "public prosecutor"
+      ],
+      "antonyms": [
+       "defence counsel"
+      ]
      },
      {
       "word": "exile",
-      "bangla_meaning": "নির্বাসন; দেশছাড়া থাকা",
+      "meaning_bn": "নির্বাসন; দেশছাড়া থাকা",
       "example": "She has vowed to return from self-imposed exile in India.",
-      "synonym": "banishment",
-      "antonym": "return; homecoming"
+      "synonyms": [
+       "banishment"
+      ],
+      "antonyms": [
+       "return",
+       "homecoming"
+      ]
      }
     ],
     "revision": {
@@ -764,7 +836,14 @@
      "label": "রমজানের পণ্য আমদানিতে বিলম্বিত পরিশোধের মেয়াদ",
      "figure": "৯০ দিন"
     },
-    "news_summary": "বাংলাদেশ ব্যাংক রমজানের ১০টি নিত্যপণ্য আমদানিতে ৯০ দিনের বিলম্বিত পরিশোধ সুবিধা দিয়েছে, যাতে আমদানিকারকদের পণ্য পৌঁছেই পুরো দাম দিতে না হয়। চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্যতেল, চিনি, ছোলা, মটর, মসলা ও খেজুর এই সুবিধার আওতায় থাকবে ১৫ মার্চ ২০২৭ পর্যন্ত, যাতে সরবরাহ স্বাভাবিক থাকে ও দাম সহনীয় হয়।",
+    "news_summary": {
+     "text": "বাংলাদেশ ব্যাংক রমজানের ১০টি নিত্যপণ্য আমদানিতে ৯০ দিনের বিলম্বিত পরিশোধ সুবিধা দিয়েছে, যাতে আমদানিকারকদের পণ্য পৌঁছেই পুরো দাম দিতে না হয়। চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্যতেল, চিনি, ছোলা, মটর, মসলা ও খেজুর এই সুবিধার আওতায় থাকবে ১৫ মার্চ ২০২৭ পর্যন্ত, যাতে সরবরাহ স্বাভাবিক থাকে ও দাম সহনীয় হয়।",
+     "source": {
+      "publication": "bdnews24.com",
+      "date": "2026-11-11",
+      "url": "https://bdnews24.com/business/olts589riy"
+     }
+    },
     "verified_facts": [
      {
       "label": "পণ্যের সংখ্যা",
@@ -855,134 +934,160 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "পরিপত্র (circular): কেন্দ্রীয় ব্যাংকের লিখিত নির্দেশনা; ব্যাংকগুলো তা মানতে বাধ্য।",
-      "অথরাইজড ডিলার (AD) ব্যাংক: বৈদেশিক মুদ্রা লেনদেনের লাইসেন্সপ্রাপ্ত ব্যাংক; সব আমদানি-রপ্তানি লেনদেন এদের মাধ্যমে হয়।",
-      "রমজানে দাম নিয়ন্ত্রণ: সরবরাহ বাড়ানো ও আমদানি ব্যয়ের চাপ কমানো — দুটোই দাম সহনীয় রাখার উপায়।"
-     ],
-     "institutions": [
-      {
-       "name": "বাংলাদেশ ব্যাংক",
-       "role": "কেন্দ্রীয় ব্যাংক; বৈদেশিক মুদ্রা নীতি ও ব্যাংক তদারকির দায়িত্বে"
-      },
-      {
-       "name": "বৈদেশিক মুদ্রা নীতি বিভাগ (FEPD)",
-       "role": "বাংলাদেশ ব্যাংকের বিভাগ; আমদানি-রপ্তানির বৈদেশিক মুদ্রা নিয়মের পরিপত্র জারি করে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Bangladesh Bank — About Bangladesh Bank",
-       "url": "https://www.bb.org.bd/en/index.php/about/index"
-      },
-      {
-       "name": "Bangladesh Bank — Regulators of the Financial System",
-       "url": "https://www.bb.org.bd/en/index.php/financialsystems/regulator"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "১৯৭১ সালের ১৬ ডিসেম্বর",
-       "B": "১৯৭২ সালের ১৬ ডিসেম্বর",
-       "C": "১৯৭৩ সালের ১৬ ডিসেম্বর",
-       "D": "১৯৭১ সালের ২৬ মার্চ"
-      },
-      "explanation": "বাংলাদেশ ব্যাংকের নিজস্ব তথ্য অনুযায়ী ব্যাংকটি ১৯৭১ সালের ১৬ ডিসেম্বর থেকে কার্যকর হয়।",
-      "correct": "A",
-      "question": "বাংলাদেশ ব্যাংক কবে থেকে কার্যকর হয়?"
+      "name": "বাংলাদেশ ব্যাংক",
+      "role": "কেন্দ্রীয় ব্যাংক; বৈদেশিক মুদ্রা নীতি ও ব্যাংক তদারকির দায়িত্বে",
+      "source": "Bangladesh Bank — About Bangladesh Bank; Bangladesh Bank — Regulators of the Financial System"
      },
      {
-      "options": {
-       "A": "৮টি",
-       "B": "১০টি",
-       "C": "১২টি",
-       "D": "১৫টি"
-      },
-      "explanation": "সংবাদে বলা হয়েছে ১০টি নিত্যপণ্যের আমদানিতে এই সুবিধা দেওয়া হয়েছে।",
-      "correct": "B",
-      "question": "রমজানের কতটি পণ্যের আমদানিতে ৯০ দিনের বিলম্বিত পরিশোধ সুবিধা দেওয়া হয়েছে?"
+      "name": "বৈদেশিক মুদ্রা নীতি বিভাগ (FEPD)",
+      "role": "বাংলাদেশ ব্যাংকের বিভাগ; আমদানি-রপ্তানির বৈদেশিক মুদ্রা নিয়মের পরিপত্র জারি করে",
+      "source": "Bangladesh Bank — About Bangladesh Bank; Bangladesh Bank — Regulators of the Financial System"
      },
      {
-      "options": {
-       "A": "৮ নভেম্বর ২০২৬",
-       "B": "১১ নভেম্বর ২০২৬",
-       "C": "১৫ মার্চ ২০২৭",
-       "D": "১৫ মার্চ ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী সুবিধাটি ১৫ মার্চ ২০২৭ পর্যন্ত কার্যকর থাকবে।",
-      "correct": "C",
-      "question": "বিলম্বিত পরিশোধ সুবিধা কত তারিখ পর্যন্ত কার্যকর থাকবে?"
-     },
-     {
-      "options": {
-       "A": "বিদেশি বিক্রেতা",
-       "B": "সরকার",
-       "C": "আমদানিকারক নিজে",
-       "D": "ব্যাংক বা তৃতীয় পক্ষ ক্রেতার হয়ে"
-      },
-      "explanation": "বায়ার্স ক্রেডিটে ব্যাংক ক্রেতার হয়ে আগে অর্থ দেয়; সাপ্লায়ার্স ক্রেডিটে বিক্রেতা অপেক্ষা করে।",
-      "correct": "D",
-      "question": "বায়ার্স ক্রেডিট ব্যবস্থায় কে আগে অর্থ দেয়?"
+      "name": "অথরাইজড ডিলার (AD) ব্যাংক",
+      "role": "বৈদেশিক মুদ্রা লেনদেনের লাইসেন্সপ্রাপ্ত ব্যাংক; সব আমদানি-রপ্তানি লেনদেন এদের মাধ্যমে হয়।",
+      "source": "Bangladesh Bank — About Bangladesh Bank; Bangladesh Bank — Regulators of the Financial System"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "পরিপত্র (circular)",
+      "meaning": "কেন্দ্রীয় ব্যাংকের লিখিত নির্দেশনা; ব্যাংকগুলো তা মানতে বাধ্য।",
+      "source": "Bangladesh Bank — About Bangladesh Bank; Bangladesh Bank — Regulators of the Financial System"
+     },
+     {
+      "term": "রমজানে দাম নিয়ন্ত্রণ",
+      "meaning": "সরবরাহ বাড়ানো ও আমদানি ব্যয়ের চাপ কমানো — দুটোই দাম সহনীয় রাখার উপায়।",
+      "source": "Bangladesh Bank — About Bangladesh Bank; Bangladesh Bank — Regulators of the Financial System"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "বাংলাদেশ ব্যাংক কবে থেকে কার্যকর হয়?",
+      "options": [
+       "১৯৭১ সালের ১৬ ডিসেম্বর",
+       "১৯৭২ সালের ১৬ ডিসেম্বর",
+       "১৯৭৩ সালের ১৬ ডিসেম্বর",
+       "১৯৭১ সালের ২৬ মার্চ"
+      ],
+      "correct": 0,
+      "explanation": "বাংলাদেশ ব্যাংকের নিজস্ব তথ্য অনুযায়ী ব্যাংকটি ১৯৭১ সালের ১৬ ডিসেম্বর থেকে কার্যকর হয়।"
+     },
+     {
+      "question": "রমজানের কতটি পণ্যের আমদানিতে ৯০ দিনের বিলম্বিত পরিশোধ সুবিধা দেওয়া হয়েছে?",
+      "options": [
+       "৮টি",
+       "১০টি",
+       "১২টি",
+       "১৫টি"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে ১০টি নিত্যপণ্যের আমদানিতে এই সুবিধা দেওয়া হয়েছে।"
+     },
+     {
+      "question": "বিলম্বিত পরিশোধ সুবিধা কত তারিখ পর্যন্ত কার্যকর থাকবে?",
+      "options": [
+       "৮ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "১৫ মার্চ ২০২৭",
+       "১৫ মার্চ ২০২৬"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদ অনুযায়ী সুবিধাটি ১৫ মার্চ ২০২৭ পর্যন্ত কার্যকর থাকবে।"
+     },
+     {
+      "question": "বায়ার্স ক্রেডিট ব্যবস্থায় কে আগে অর্থ দেয়?",
+      "options": [
+       "বিদেশি বিক্রেতা",
+       "সরকার",
+       "আমদানিকারক নিজে",
+       "ব্যাংক বা তৃতীয় পক্ষ ক্রেতার হয়ে"
+      ],
+      "correct": 3,
+      "explanation": "বায়ার্স ক্রেডিটে ব্যাংক ক্রেতার হয়ে আগে অর্থ দেয়; সাপ্লায়ার্স ক্রেডিটে বিক্রেতা অপেক্ষা করে।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "রমজানের আগে নিত্যপণ্যের দাম সহনীয় রাখতে বাংলাদেশ ব্যাংকের দুটি পদক্ষেপ সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "৮ নভেম্বর: এলসির নগদ মার্জিন সর্বনিম্ন রাখা ও এলসি খোলায় অগ্রাধিকার",
        "১১ নভেম্বর: ১০ পণ্যে ৯০ দিনের বিলম্বিত পরিশোধ (সাপ্লায়ার্স/বায়ার্স ক্রেডিট)",
        "মেয়াদ ১৫ মার্চ ২০২৭ পর্যন্ত"
       ]
      },
-     {
+     "analytical": {
       "question": "বিলম্বিত পরিশোধ সুবিধা কীভাবে আমদানিকারক ও ভোক্তা — দুপক্ষেরই উপকার করে? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "আমদানিকারক: পণ্য পৌঁছেই পুরো দাম দিতে হয় না, নগদ চাপ কমে",
        "সরবরাহ: আমদানি বাড়ে, ঘাটতি কমে",
        "ভোক্তা: দাম সহনীয় থাকে; ঝুঁকি: বৈদেশিক মুদ্রার চাপ ও ঋণের বোঝা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "deferred",
-      "bangla_meaning": "স্থগিত; বিলম্বিত; পরে করার জন্য পিছিয়ে দেওয়া",
+      "meaning_bn": "স্থগিত; বিলম্বিত; পরে করার জন্য পিছিয়ে দেওয়া",
       "example": "Imports are allowed under a 90-day deferred payment facility.",
-      "synonym": "postponed; delayed",
-      "antonym": "immediate; prompt"
+      "synonyms": [
+       "postponed",
+       "delayed"
+      ],
+      "antonyms": [
+       "immediate",
+       "prompt"
+      ]
      },
      {
       "word": "circular",
-      "bangla_meaning": "পরিপত্র; সরকারি নির্দেশনামা",
+      "meaning_bn": "পরিপত্র; সরকারি নির্দেশনামা",
       "example": "The Foreign Exchange Policy Department issued a circular on Wednesday.",
-      "synonym": "notice; directive",
-      "antonym": "—"
+      "synonyms": [
+       "notice",
+       "directive"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "commodity",
-      "bangla_meaning": "পণ্য; নিত্যপ্রয়োজনীয় দ্রব্য",
+      "meaning_bn": "পণ্য; নিত্যপ্রয়োজনীয় দ্রব্য",
       "example": "The facility covers 10 essential commodities for Ramadan.",
-      "synonym": "goods; product",
-      "antonym": "—"
+      "synonyms": [
+       "goods",
+       "product"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "importer",
-      "bangla_meaning": "আমদানিকারক; বিদেশ থেকে পণ্য আনে যে",
+      "meaning_bn": "আমদানিকারক; বিদেশ থেকে পণ্য আনে যে",
       "example": "Importers need not pay the full cost on arrival.",
-      "synonym": "buyer; purchaser",
-      "antonym": "exporter"
+      "synonyms": [
+       "buyer",
+       "purchaser"
+      ],
+      "antonyms": [
+       "exporter"
+      ]
      },
      {
       "word": "affordable",
-      "bangla_meaning": "সহনীয় দামের; ক্রয়ক্ষমতার মধ্যে",
+      "meaning_bn": "সহনীয় দামের; ক্রয়ক্ষমতার মধ্যে",
       "example": "The facility aims to keep prices affordable during Ramadan.",
-      "synonym": "reasonably priced",
-      "antonym": "expensive; unaffordable"
+      "synonyms": [
+       "reasonably priced"
+      ],
+      "antonyms": [
+       "expensive",
+       "unaffordable"
+      ]
      }
     ],
     "revision": {
@@ -1103,7 +1208,14 @@
      "label": "ইশরাক হোসেনের সংসদীয় আসন",
      "figure": "ঢাকা-৬"
     },
-    "news_summary": "ঢাকা-৬ আসনের সংসদ সদস্য ইশরাক হোসেন শেখ হাসিনার ডিসেম্বরে ফেরার দাবিকে ‘রাজনৈতিক প্রচারণা’ বলে উড়িয়ে দিয়েছেন। তিনি জানান, আইনি ও কূটনৈতিক পথে তাঁকে ফেরানোর চেষ্টা চলছে — ইন্টারপোল রেড নোটিশের প্রক্রিয়া শুরু হয়েছে এবং বন্দি বিনিময় চুক্তিও রয়েছে। আইনি পথের বাইরে বাকি সবই তাঁর ভাষায় ‘রাজনৈতিক কৌশল ও প্রচারণা’।",
+    "news_summary": {
+     "text": "ঢাকা-৬ আসনের সংসদ সদস্য ইশরাক হোসেন শেখ হাসিনার ডিসেম্বরে ফেরার দাবিকে ‘রাজনৈতিক প্রচারণা’ বলে উড়িয়ে দিয়েছেন। তিনি জানান, আইনি ও কূটনৈতিক পথে তাঁকে ফেরানোর চেষ্টা চলছে — ইন্টারপোল রেড নোটিশের প্রক্রিয়া শুরু হয়েছে এবং বন্দি বিনিময় চুক্তিও রয়েছে। আইনি পথের বাইরে বাকি সবই তাঁর ভাষায় ‘রাজনৈতিক কৌশল ও প্রচারণা’।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-10",
+      "url": "https://www.tbsnews.net/bangladesh/claims-hasinas-return-dec-are-political-propaganda-ishraque-1598401"
+     }
+    },
     "verified_facts": [
      {
       "label": "বক্তা",
@@ -1172,130 +1284,161 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইন্টারপোলের নিয়ম: রেড নোটিশ শুধু গুরুতর সাধারণ আইনের অপরাধে প্রকাশ করা যায়; রাজনৈতিক, সামরিক, ধর্মীয় বা জাতিগত চরিত্রের বিষয়ে হস্তক্ষেপ নিষিদ্ধ (সংবিধানের ৩ ধারা)।",
-      "বন্দি বিনিময় চুক্তি: দণ্ডপ্রাপ্ত ব্যক্তিকে নিজ দেশে দণ্ড ভোগের জন্য ফেরত পাঠানোর ব্যবস্থা; প্রত্যর্পণ চুক্তি থেকে আলাদা।",
-      "ঢাকা-৬: ঢাকা মহানগরের একটি সংসদীয় আসন; সংসদ সদস্য সরাসরি ভোটে নির্বাচিত হন।"
-     ],
-     "institutions": [
-      {
-       "name": "ইন্টারপোল (INTERPOL)",
-       "role": "সদস্য দেশগুলোর পুলিশের মধ্যে তথ্য আদান-প্রদান ও সহযোগিতা সমন্বয় করে; নিজে কাউকে গ্রেপ্তার করে না"
-      },
-      {
-       "name": "জাতীয় সংসদ",
-       "role": "আইন প্রণয়নকারী সংস্থা; ইশরাক হোসেন ঢাকা-৬ আসনের সংসদ সদস্য"
-      }
-     ],
-     "sources": [
-      {
-       "name": "INTERPOL — About Red Notices",
-       "url": "https://www.interpol.int/How-we-work/Notices/Red-Notices"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "ব্যক্তিকে খুঁজে প্রত্যর্পণের জন্য সাময়িকভাবে গ্রেপ্তার করা",
-       "B": "ব্যক্তিকে নাগরিকত্ব দেওয়া",
-       "C": "ব্যক্তির বিরুদ্ধে মামলা তুলে নেওয়া",
-       "D": "ব্যক্তিকে রাজনৈতিক আশ্রয় দেওয়া"
-      },
-      "explanation": "ইন্টারপোলের ভাষ্য অনুযায়ী রেড নোটিশ হলো ব্যক্তিকে খুঁজে প্রত্যর্পণের জন্য সাময়িক গ্রেপ্তারের অনুরোধ।",
-      "correct": "A",
-      "question": "ইন্টারপোল রেড নোটিশ কীসের অনুরোধ?"
+      "name": "ইন্টারপোল (INTERPOL)",
+      "role": "সদস্য দেশগুলোর পুলিশের মধ্যে তথ্য আদান-প্রদান ও সহযোগিতা সমন্বয় করে; নিজে কাউকে গ্রেপ্তার করে না",
+      "source": "INTERPOL — About Red Notices"
      },
      {
-      "options": {
-       "A": "ঢাকা-৫",
-       "B": "ঢাকা-৬",
-       "C": "ঢাকা-৭",
-       "D": "ঢাকা-১০"
-      },
-      "explanation": "সংবাদে বলা হয়েছে, ইশরাক হোসেন ঢাকা-৬ আসনের সংসদ সদস্য।",
-      "correct": "B",
-      "question": "ইশরাক হোসেন কোন আসনের সংসদ সদস্য?"
-     },
-     {
-      "options": {
-       "A": "সংবাদপত্রের প্রতিবেদনের ভিত্তিতে",
-       "B": "সামাজিক যোগাযোগমাধ্যমের পোস্টের ভিত্তিতে",
-       "C": "অনুরোধকারী দেশের আদালতের গ্রেপ্তারি পরোয়ানা বা আদেশের ভিত্তিতে",
-       "D": "জাতিসংঘের প্রস্তাবের ভিত্তিতে"
-      },
-      "explanation": "রেড নোটিশ অনুরোধকারী দেশের বিচার বিভাগের গ্রেপ্তারি পরোয়ানা বা আদালতের আদেশের ভিত্তিতে জারি হয়।",
-      "correct": "C",
-      "question": "রেড নোটিশ কিসের ভিত্তিতে জারি হয়?"
-     },
-     {
-      "options": {
-       "A": "৯ নভেম্বর ২০২৬",
-       "B": "১১ নভেম্বর ২০২৬",
-       "C": "১২ নভেম্বর ২০২৬",
-       "D": "১০ নভেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী তিনি ১০ নভেম্বর সাংবাদিকদের সঙ্গে কথা বলেন।",
-      "correct": "D",
-      "question": "ইশরাক হোসেন কবে মন্তব্যটি করেন?"
+      "name": "জাতীয় সংসদ",
+      "role": "আইন প্রণয়নকারী সংস্থা; ইশরাক হোসেন ঢাকা-৬ আসনের সংসদ সদস্য",
+      "source": "INTERPOL — About Red Notices"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "ইন্টারপোলের নিয়ম",
+      "meaning": "রেড নোটিশ শুধু গুরুতর সাধারণ আইনের অপরাধে প্রকাশ করা যায়; রাজনৈতিক, সামরিক, ধর্মীয় বা জাতিগত চরিত্রের বিষয়ে হস্তক্ষেপ নিষিদ্ধ (সংবিধানের ৩ ধারা)।",
+      "source": "INTERPOL — About Red Notices"
+     },
+     {
+      "term": "বন্দি বিনিময় চুক্তি",
+      "meaning": "দণ্ডপ্রাপ্ত ব্যক্তিকে নিজ দেশে দণ্ড ভোগের জন্য ফেরত পাঠানোর ব্যবস্থা; প্রত্যর্পণ চুক্তি থেকে আলাদা।",
+      "source": "INTERPOL — About Red Notices"
+     },
+     {
+      "term": "ঢাকা-৬",
+      "meaning": "ঢাকা মহানগরের একটি সংসদীয় আসন; সংসদ সদস্য সরাসরি ভোটে নির্বাচিত হন।",
+      "source": "INTERPOL — About Red Notices"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "ইন্টারপোল রেড নোটিশ কীসের অনুরোধ?",
+      "options": [
+       "ব্যক্তিকে খুঁজে প্রত্যর্পণের জন্য সাময়িকভাবে গ্রেপ্তার করা",
+       "ব্যক্তিকে নাগরিকত্ব দেওয়া",
+       "ব্যক্তির বিরুদ্ধে মামলা তুলে নেওয়া",
+       "ব্যক্তিকে রাজনৈতিক আশ্রয় দেওয়া"
+      ],
+      "correct": 0,
+      "explanation": "ইন্টারপোলের ভাষ্য অনুযায়ী রেড নোটিশ হলো ব্যক্তিকে খুঁজে প্রত্যর্পণের জন্য সাময়িক গ্রেপ্তারের অনুরোধ।"
+     },
+     {
+      "question": "ইশরাক হোসেন কোন আসনের সংসদ সদস্য?",
+      "options": [
+       "ঢাকা-৫",
+       "ঢাকা-৬",
+       "ঢাকা-৭",
+       "ঢাকা-১০"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদে বলা হয়েছে, ইশরাক হোসেন ঢাকা-৬ আসনের সংসদ সদস্য।"
+     },
+     {
+      "question": "রেড নোটিশ কিসের ভিত্তিতে জারি হয়?",
+      "options": [
+       "সংবাদপত্রের প্রতিবেদনের ভিত্তিতে",
+       "সামাজিক যোগাযোগমাধ্যমের পোস্টের ভিত্তিতে",
+       "অনুরোধকারী দেশের আদালতের গ্রেপ্তারি পরোয়ানা বা আদেশের ভিত্তিতে",
+       "জাতিসংঘের প্রস্তাবের ভিত্তিতে"
+      ],
+      "correct": 2,
+      "explanation": "রেড নোটিশ অনুরোধকারী দেশের বিচার বিভাগের গ্রেপ্তারি পরোয়ানা বা আদালতের আদেশের ভিত্তিতে জারি হয়।"
+     },
+     {
+      "question": "ইশরাক হোসেন কবে মন্তব্যটি করেন?",
+      "options": [
+       "৯ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "১২ নভেম্বর ২০২৬",
+       "১০ নভেম্বর ২০২৬"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ অনুযায়ী তিনি ১০ নভেম্বর সাংবাদিকদের সঙ্গে কথা বলেন।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "ইন্টারপোল রেড নোটিশ কী? সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "সংজ্ঞা: খুঁজে সাময়িক গ্রেপ্তারের অনুরোধ",
        "ভিত্তি: দেশের আদালতের গ্রেপ্তারি পরোয়ানা",
        "সীমা: এটি নিজে আন্তর্জাতিক গ্রেপ্তারি পরোয়ানা নয়"
       ]
      },
-     {
+     "analytical": {
       "question": "দণ্ডপ্রাপ্ত পলাতক ব্যক্তিকে ফেরাতে রেড নোটিশ ও প্রত্যর্পণ চুক্তি কীভাবে একসঙ্গে কাজ করে? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "রেড নোটিশ: সন্ধান ও সাময়িক গ্রেপ্তার",
        "প্রত্যর্পণ চুক্তি: আইনি হস্তান্তরের কাঠামো",
        "সীমাবদ্ধতা: রাজনৈতিক অপরাধের ব্যতিক্রম, প্রতিটি দেশের নিজস্ব সিদ্ধান্ত"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "propaganda",
-      "bangla_meaning": "প্রচারণা; বিশেষ উদ্দেশ্যে ছড়ানো তথ্য বা অপপ্রচার",
+      "meaning_bn": "প্রচারণা; বিশেষ উদ্দেশ্যে ছড়ানো তথ্য বা অপপ্রচার",
       "example": "Ishraque Hossain dismissed claims of Hasina's return as political propaganda.",
-      "synonym": "publicity; disinformation",
-      "antonym": "fact; truth"
+      "synonyms": [
+       "publicity",
+       "disinformation"
+      ],
+      "antonyms": [
+       "fact",
+       "truth"
+      ]
      },
      {
       "word": "fugitive",
-      "bangla_meaning": "পলাতক ব্যক্তি; আইন থেকে পালিয়ে বেড়ানো লোক",
+      "meaning_bn": "পলাতক ব্যক্তি; আইন থেকে পালিয়ে বেড়ানো লোক",
       "example": "The fugitive ex-prime minister lives in exile in India.",
-      "synonym": "runaway; escapee",
-      "antonym": "—"
+      "synonyms": [
+       "runaway",
+       "escapee"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "diplomatic",
-      "bangla_meaning": "কূটনৈতিক; দেশের মধ্যে সম্পর্ক-সংক্রান্ত",
+      "meaning_bn": "কূটনৈতিক; দেশের মধ্যে সম্পর্ক-সংক্রান্ত",
       "example": "The government wants her back through legal and diplomatic channels.",
-      "synonym": "consular; foreign-policy",
-      "antonym": "—"
+      "synonyms": [
+       "consular",
+       "foreign-policy"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "manoeuvre",
-      "bangla_meaning": "কৌশল; চতুর পদক্ষেপ",
+      "meaning_bn": "কৌশল; চতুর পদক্ষেপ",
       "example": "Anything beyond the legal route is a political manoeuvre, he said.",
-      "synonym": "tactic; move",
-      "antonym": "—"
+      "synonyms": [
+       "tactic",
+       "move"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "rally",
-      "bangla_meaning": "উজ্জীবিত করা; সমবেত করা",
+      "meaning_bn": "উজ্জীবিত করা; সমবেত করা",
       "example": "Analysts say the pledge may rally the party's supporters.",
-      "synonym": "mobilise; gather",
-      "antonym": "disperse; demoralise"
+      "synonyms": [
+       "mobilise",
+       "gather"
+      ],
+      "antonyms": [
+       "disperse",
+       "demoralise"
+      ]
      }
     ],
     "revision": {
@@ -1418,7 +1561,14 @@
      "label": "চার ইউনিটে ভর্তি ফি বৃদ্ধি",
      "figure": "১৫০ টাকা"
     },
-    "news_summary": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের স্নাতক ভর্তির আবেদন শুরু হয়েছে ১১ নভেম্বর দুপুর ১২টায়, চলবে ২৫ নভেম্বর রাত ১১টা ৫৯ মিনিট পর্যন্ত। কলা, আইন ও সামাজিক বিজ্ঞান, বিজ্ঞান, ব্যবসায় শিক্ষা ও চারুকলা ইউনিটের ফি ১৫০ টাকা করে বেড়েছে — প্রথম তিনটিতে ১,২০০ টাকা, চারুকলায় ১,৪০০ টাকা। আইবিএর ফি ১,৫০০ টাকাই আছে, আর কিছু বিষয়ে ন্যূনতম নম্বরের শর্ত শিথিল করা হয়েছে।",
+    "news_summary": {
+     "text": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৬-২৭ শিক্ষাবর্ষের স্নাতক ভর্তির আবেদন শুরু হয়েছে ১১ নভেম্বর দুপুর ১২টায়, চলবে ২৫ নভেম্বর রাত ১১টা ৫৯ মিনিট পর্যন্ত। কলা, আইন ও সামাজিক বিজ্ঞান, বিজ্ঞান, ব্যবসায় শিক্ষা ও চারুকলা ইউনিটের ফি ১৫০ টাকা করে বেড়েছে — প্রথম তিনটিতে ১,২০০ টাকা, চারুকলায় ১,৪০০ টাকা। আইবিএর ফি ১,৫০০ টাকাই আছে, আর কিছু বিষয়ে ন্যূনতম নম্বরের শর্ত শিথিল করা হয়েছে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-11",
+      "url": "https://en.prothomalo.com/youth/education/yn8t4d7jwg"
+     }
+    },
     "verified_facts": [
      {
       "label": "আবেদনের সময়",
@@ -1498,130 +1648,161 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ভর্তি পরীক্ষার ধরন: ঢাকা বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষায় সাধারণত এমসিকিউ ও লিখিত অংশ থাকে — তারিখ ও ফি মনে রাখা জরুরি।",
-      "উপাচার্য: বিশ্ববিদ্যালয়ের প্রধান নির্বাহী; সাধারণ ভর্তি কমিটির সভায় সভাপতিত্ব করেন।",
-      "শর্ত শিথিল: কিছু বিষয়ে ন্যূনতম নম্বরের শর্ত কমানো হয়েছে, তবে আবেদনের ন্যূনতম যোগ্যতা অপরিবর্তিত আছে।"
-     ],
-     "institutions": [
-      {
-       "name": "ঢাকা বিশ্ববিদ্যালয়",
-       "role": "১৯২১ সালে প্রতিষ্ঠিত, দেশের প্রাচীনতম সরকারি বিশ্ববিদ্যালয়"
-      },
-      {
-       "name": "সাধারণ ভর্তি কমিটি",
-       "role": "ভর্তি নীতি ও শর্ত নির্ধারণকারী কমিটি; উপাচার্য সভাপতি"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka",
-       "url": "https://teachers.gov.bd/content/details/671326"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "১৯২১ সালে",
-       "B": "১৯১১ সালে",
-       "C": "১৯৪৭ সালে",
-       "D": "১৯৭১ সালে"
-      },
-      "explanation": "সরকারি তথ্য অনুযায়ী ঢাকা বিশ্ববিদ্যালয় ১৯২১ সালে প্রতিষ্ঠিত হয়।",
-      "correct": "A",
-      "question": "ঢাকা বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়?"
+      "name": "ঢাকা বিশ্ববিদ্যালয়",
+      "role": "১৯২১ সালে প্রতিষ্ঠিত, দেশের প্রাচীনতম সরকারি বিশ্ববিদ্যালয়",
+      "source": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka"
      },
      {
-      "options": {
-       "A": "১১ নভেম্বর ২০২৬",
-       "B": "২৫ নভেম্বর ২০২৬",
-       "C": "৫ ডিসেম্বর ২০২৬",
-       "D": "২৬ ডিসেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী আবেদন চলবে ২৫ নভেম্বর রাত ১১টা ৫৯ মিনিট পর্যন্ত।",
-      "correct": "B",
-      "question": "২০২৬-২৭ শিক্ষাবর্ষের ভর্তির আবেদন কবে শেষ হবে?"
-     },
-     {
-      "options": {
-       "A": "নবাব সলিমুল্লাহ",
-       "B": "লর্ড হার্ডিঞ্জ",
-       "C": "ড. পি. জে. হার্টগ",
-       "D": "অধ্যাপক এ বি এম ওবায়দুল ইসলাম"
-      },
-      "explanation": "প্রথম উপাচার্য ছিলেন ড. পি. জে. হার্টগ।",
-      "correct": "C",
-      "question": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম উপাচার্য কে ছিলেন?"
-     },
-     {
-      "options": {
-       "A": "৫ ডিসেম্বর ২০২৬",
-       "B": "১৯ ডিসেম্বর ২০২৬",
-       "C": "২২ ডিসেম্বর ২০২৬",
-       "D": "১২ ডিসেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী বিজ্ঞান ইউনিটের পরীক্ষা ১২ ডিসেম্বর ২০২৬।",
-      "correct": "D",
-      "question": "বিজ্ঞান ইউনিটের ভর্তি পরীক্ষা কবে হবে?"
+      "name": "সাধারণ ভর্তি কমিটি",
+      "role": "ভর্তি নীতি ও শর্ত নির্ধারণকারী কমিটি; উপাচার্য সভাপতি",
+      "source": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "ভর্তি পরীক্ষার ধরন",
+      "meaning": "ঢাকা বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষায় সাধারণত এমসিকিউ ও লিখিত অংশ থাকে — তারিখ ও ফি মনে রাখা জরুরি।",
+      "source": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka"
+     },
+     {
+      "term": "উপাচার্য",
+      "meaning": "বিশ্ববিদ্যালয়ের প্রধান নির্বাহী; সাধারণ ভর্তি কমিটির সভায় সভাপতিত্ব করেন।",
+      "source": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka"
+     },
+     {
+      "term": "শর্ত শিথিল",
+      "meaning": "কিছু বিষয়ে ন্যূনতম নম্বরের শর্ত কমানো হয়েছে, তবে আবেদনের ন্যূনতম যোগ্যতা অপরিবর্তিত আছে।",
+      "source": "Shikkhok Batayon (teachers.gov.bd, Government of Bangladesh) — University of Dhaka"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "ঢাকা বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+       "১৯২১ সালে",
+       "১৯১১ সালে",
+       "১৯৪৭ সালে",
+       "১৯৭১ সালে"
+      ],
+      "correct": 0,
+      "explanation": "সরকারি তথ্য অনুযায়ী ঢাকা বিশ্ববিদ্যালয় ১৯২১ সালে প্রতিষ্ঠিত হয়।"
+     },
+     {
+      "question": "২০২৬-২৭ শিক্ষাবর্ষের ভর্তির আবেদন কবে শেষ হবে?",
+      "options": [
+       "১১ নভেম্বর ২০২৬",
+       "২৫ নভেম্বর ২০২৬",
+       "৫ ডিসেম্বর ২০২৬",
+       "২৬ ডিসেম্বর ২০২৬"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী আবেদন চলবে ২৫ নভেম্বর রাত ১১টা ৫৯ মিনিট পর্যন্ত।"
+     },
+     {
+      "question": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম উপাচার্য কে ছিলেন?",
+      "options": [
+       "নবাব সলিমুল্লাহ",
+       "লর্ড হার্ডিঞ্জ",
+       "ড. পি. জে. হার্টগ",
+       "অধ্যাপক এ বি এম ওবায়দুল ইসলাম"
+      ],
+      "correct": 2,
+      "explanation": "প্রথম উপাচার্য ছিলেন ড. পি. জে. হার্টগ।"
+     },
+     {
+      "question": "বিজ্ঞান ইউনিটের ভর্তি পরীক্ষা কবে হবে?",
+      "options": [
+       "৫ ডিসেম্বর ২০২৬",
+       "১৯ ডিসেম্বর ২০২৬",
+       "২২ ডিসেম্বর ২০২৬",
+       "১২ ডিসেম্বর ২০২৬"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ অনুযায়ী বিজ্ঞান ইউনিটের পরীক্ষা ১২ ডিসেম্বর ২০২৬।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "২০২৬-২৭ শিক্ষাবর্ষে ঢাকা বিশ্ববিদ্যালয়ের ভর্তির আবেদন, ফি ও পরীক্ষার তারিখগুলো সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "আবেদন ১১–২৫ নভেম্বর",
        "ফি: ১,২০০ / ১,৪০০ / ১,৫০০ টাকা",
        "পরীক্ষা ৫–২৬ ডিসেম্বর, আট বিভাগীয় শহরে"
       ]
      },
-     {
+     "analytical": {
       "question": "সরকারি বিশ্ববিদ্যালয়ে ভর্তি ফি বাড়ানো নিয়ে পক্ষে-বিপক্ষে যুক্তি বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "পক্ষে: পরিচালন ব্যয়, সেবার মান",
        "বিপক্ষে: দরিদ্র শিক্ষার্থীর চাপ, শিক্ষার সুযোগ",
        "সমাধান: বৃত্তি, কিস্তি, শর্ত শিথিলের ভূমিকা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "eligibility",
-      "bangla_meaning": "যোগ্যতা; কোনো কিছুর জন্য উপযুক্ত হওয়া",
+      "meaning_bn": "যোগ্যতা; কোনো কিছুর জন্য উপযুক্ত হওয়া",
       "example": "The minimum eligibility criteria for applying remain unchanged.",
-      "synonym": "qualification; suitability",
-      "antonym": "ineligibility; disqualification"
+      "synonyms": [
+       "qualification",
+       "suitability"
+      ],
+      "antonyms": [
+       "ineligibility",
+       "disqualification"
+      ]
      },
      {
       "word": "admission",
-      "bangla_meaning": "ভর্তি; কোনো প্রতিষ্ঠানে ঢোকার অনুমতি",
+      "meaning_bn": "ভর্তি; কোনো প্রতিষ্ঠানে ঢোকার অনুমতি",
       "example": "Applications for Dhaka University undergraduate admission opened on 11 November.",
-      "synonym": "enrolment; entry",
-      "antonym": "expulsion; rejection"
+      "synonyms": [
+       "enrolment",
+       "entry"
+      ],
+      "antonyms": [
+       "expulsion",
+       "rejection"
+      ]
      },
      {
       "word": "relax",
-      "bangla_meaning": "শিথিল করা; কঠোরতা কমানো",
+      "meaning_bn": "শিথিল করা; কঠোরতা কমানো",
       "example": "Minimum marks required in some subjects have been relaxed.",
-      "synonym": "ease; loosen",
-      "antonym": "tighten; stiffen"
+      "synonyms": [
+       "ease",
+       "loosen"
+      ],
+      "antonyms": [
+       "tighten",
+       "stiffen"
+      ]
      },
      {
       "word": "divisional",
-      "bangla_meaning": "বিভাগীয়; বিভাগ-সংক্রান্ত",
+      "meaning_bn": "বিভাগীয়; বিভাগ-সংক্রান্ত",
       "example": "Tests for three units are held in eight divisional cities including Dhaka.",
-      "synonym": "regional",
-      "antonym": "—"
+      "synonyms": [
+       "regional"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "fee",
-      "bangla_meaning": "ফি; নির্ধারিত অর্থ",
+      "meaning_bn": "ফি; নির্ধারিত অর্থ",
       "example": "Fees for four units each rose by Tk150.",
-      "synonym": "charge; payment",
-      "antonym": "—"
+      "synonyms": [
+       "charge",
+       "payment"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -1739,7 +1920,14 @@
      "label": "আইনশৃঙ্খলা তুলনার সময়কাল (গত বছরের একই সময়ের সঙ্গে)",
      "figure": "ফেব্রুয়ারি–অক্টোবর ২০২৬"
     },
-    "news_summary": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ ১১ নভেম্বর সংসদে ৩০০ বিধিতে বিবৃতি দিয়ে বলেন, নাৎসিরা যেমন জার্মানিতে আর ফিরতে পারেনি, তেমনি গণঅভ্যুত্থানে পালিয়ে যাওয়া ‘ফ্যাসিস্ট আওয়ামী লীগ শক্তি’ও বাংলাদেশে আর ফিরতে পারবে না। তিনি জানান, ২০২৫ সালের একই নয় মাসের তুলনায় ২০২৬ সালের ফেব্রুয়ারি–অক্টোবরে আইনশৃঙ্খলা পরিস্থিতির উন্নতি হয়েছে, আর নাশকতার বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়া হবে।",
+    "news_summary": {
+     "text": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ ১১ নভেম্বর সংসদে ৩০০ বিধিতে বিবৃতি দিয়ে বলেন, নাৎসিরা যেমন জার্মানিতে আর ফিরতে পারেনি, তেমনি গণঅভ্যুত্থানে পালিয়ে যাওয়া ‘ফ্যাসিস্ট আওয়ামী লীগ শক্তি’ও বাংলাদেশে আর ফিরতে পারবে না। তিনি জানান, ২০২৫ সালের একই নয় মাসের তুলনায় ২০২৬ সালের ফেব্রুয়ারি–অক্টোবরে আইনশৃঙ্খলা পরিস্থিতির উন্নতি হয়েছে, আর নাশকতার বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়া হবে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-11",
+      "url": "https://en.prothomalo.com/bangladesh/politics/6xq5i6l2su"
+     }
+    },
     "verified_facts": [
      {
       "label": "বক্তা",
@@ -1818,79 +2006,80 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "৩০০ বিধি: এই সংবাদে মন্ত্রীর বিবৃতির বিধি হিসেবে উল্লেখ আছে। বিধিটির পূর্ণাঙ্গ বিষয়বস্তু যাচাই করা যায়নি, তাই এখানে এর ব্যাখ্যা দেওয়া হয়নি।",
-      "স্বরাষ্ট্র মন্ত্রণালয়: আইনশৃঙ্খলা রক্ষা, পুলিশ ও সীমান্তরক্ষী বাহিনীর প্রশাসনিক তদারকি এই মন্ত্রণালয়ের কাজ।",
-      "আত্মরক্ষার অধিকার (right of private defence): আইনশৃঙ্খলা বাহিনীকে অভিযানের সময় নিজেদের আত্মরক্ষার অধিকার অনুযায়ী ব্যবস্থা নেওয়ার নির্দেশ দেওয়া হয়েছে বলে সংবাদে বলা হয়েছে।"
-     ],
-     "institutions": [
-      {
-       "name": "জাতীয় সংসদ",
-       "role": "দেশের আইনসভা; ৩৫০ আসন, শেরেবাংলা নগরে অধিবেশন"
-      },
-      {
-       "name": "স্বরাষ্ট্র মন্ত্রণালয়",
-       "role": "আইনশৃঙ্খলা ও অভ্যন্তরীণ নিরাপত্তার দায়িত্বপ্রাপ্ত মন্ত্রণালয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Wikipedia — Jatiya Sangsad (citing Banglapedia: National Encyclopedia of Bangladesh)",
-       "url": "https://en.wikipedia.org/wiki/Parliament_of_Bangladesh"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "৩৫০টি",
-       "B": "৩০০টি",
-       "C": "৪৫০টি",
-       "D": "২৫০টি"
-      },
-      "explanation": "জাতীয় সংসদে মোট ৩৫০টি আসন — ৩০০টি সরাসরি নির্বাচিত ও ৫০টি নারীদের জন্য সংরক্ষিত।",
-      "correct": "A",
-      "question": "জাতীয় সংসদে মোট কতটি আসন আছে?"
+      "name": "জাতীয় সংসদ",
+      "role": "দেশের আইনসভা; ৩৫০ আসন, শেরেবাংলা নগরে অধিবেশন",
+      "source": "Wikipedia — Jatiya Sangsad (citing Banglapedia: National Encyclopedia of Bangladesh)"
      },
      {
-      "options": {
-       "A": "১০ নভেম্বর ২০২৬",
-       "B": "১১ নভেম্বর ২০২৬",
-       "C": "৯ নভেম্বর ২০২৬",
-       "D": "১২ নভেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী তিনি ১১ নভেম্বর সংসদে বিবৃতি দেন।",
-      "correct": "B",
-      "question": "স্বরাষ্ট্রমন্ত্রী সংসদে বিবৃতি দেন কবে?"
-     },
-     {
-      "options": {
-       "A": "১৯৭১ সালে",
-       "B": "১৯৭২ সালে",
-       "C": "১৯৭৩ সালে",
-       "D": "১৯৮১ সালে"
-      },
-      "explanation": "জাতীয় সংসদের প্রথম নির্বাচন হয় ৭ মার্চ ১৯৭৩।",
-      "correct": "C",
-      "question": "জাতীয় সংসদের প্রথম নির্বাচন কবে হয়?"
-     },
-     {
-      "options": {
-       "A": "২০২৪ বনাম ২০২৫",
-       "B": "জানুয়ারি–জুন ২০২৫ বনাম ২০২৬",
-       "C": "২০২৫ সালের পুরো বছর বনাম ২০২৬",
-       "D": "২০২৫ সালের ফেব্রুয়ারি–অক্টোবর বনাম ২০২৬ সালের ফেব্রুয়ারি–অক্টোবর"
-      },
-      "explanation": "সংবাদে বলা হয়েছে, ২০২৫ সালের একই নয় মাসের তুলনায় ২০২৬ সালের ফেব্রুয়ারি–অক্টোবরে উন্নতি হয়েছে।",
-      "correct": "D",
-      "question": "মন্ত্রী আইনশৃঙ্খলার তুলনা কোন সময়কালের করেছেন?"
+      "name": "স্বরাষ্ট্র মন্ত্রণালয়",
+      "role": "আইনশৃঙ্খলা ও অভ্যন্তরীণ নিরাপত্তার দায়িত্বপ্রাপ্ত মন্ত্রণালয়। আইনশৃঙ্খলা রক্ষা, পুলিশ ও সীমান্তরক্ষী বাহিনীর প্রশাসনিক তদারকি এই মন্ত্রণালয়ের কাজ।",
+      "source": "Wikipedia — Jatiya Sangsad (citing Banglapedia: National Encyclopedia of Bangladesh)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "৩০০ বিধি",
+      "meaning": "এই সংবাদে মন্ত্রীর বিবৃতির বিধি হিসেবে উল্লেখ আছে। বিধিটির পূর্ণাঙ্গ বিষয়বস্তু যাচাই করা যায়নি, তাই এখানে এর ব্যাখ্যা দেওয়া হয়নি।",
+      "source": "Wikipedia — Jatiya Sangsad (citing Banglapedia: National Encyclopedia of Bangladesh)"
+     },
+     {
+      "term": "আত্মরক্ষার অধিকার",
+      "full_name": "right of private defence",
+      "meaning": "আইনশৃঙ্খলা বাহিনীকে অভিযানের সময় নিজেদের আত্মরক্ষার অধিকার অনুযায়ী ব্যবস্থা নেওয়ার নির্দেশ দেওয়া হয়েছে বলে সংবাদে বলা হয়েছে।",
+      "source": "Wikipedia — Jatiya Sangsad (citing Banglapedia: National Encyclopedia of Bangladesh)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "জাতীয় সংসদে মোট কতটি আসন আছে?",
+      "options": [
+       "৩৫০টি",
+       "৩০০টি",
+       "৪৫০টি",
+       "২৫০টি"
+      ],
+      "correct": 0,
+      "explanation": "জাতীয় সংসদে মোট ৩৫০টি আসন — ৩০০টি সরাসরি নির্বাচিত ও ৫০টি নারীদের জন্য সংরক্ষিত।"
+     },
+     {
+      "question": "স্বরাষ্ট্রমন্ত্রী সংসদে বিবৃতি দেন কবে?",
+      "options": [
+       "১০ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "৯ নভেম্বর ২০২৬",
+       "১২ নভেম্বর ২০২৬"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী তিনি ১১ নভেম্বর সংসদে বিবৃতি দেন।"
+     },
+     {
+      "question": "জাতীয় সংসদের প্রথম নির্বাচন কবে হয়?",
+      "options": [
+       "১৯৭১ সালে",
+       "১৯৭২ সালে",
+       "১৯৭৩ সালে",
+       "১৯৮১ সালে"
+      ],
+      "correct": 2,
+      "explanation": "জাতীয় সংসদের প্রথম নির্বাচন হয় ৭ মার্চ ১৯৭৩।"
+     },
+     {
+      "question": "মন্ত্রী আইনশৃঙ্খলার তুলনা কোন সময়কালের করেছেন?",
+      "options": [
+       "২০২৪ বনাম ২০২৫",
+       "জানুয়ারি–জুন ২০২৫ বনাম ২০২৬",
+       "২০২৫ সালের পুরো বছর বনাম ২০২৬",
+       "২০২৫ সালের ফেব্রুয়ারি–অক্টোবর বনাম ২০২৬ সালের ফেব্রুয়ারি–অক্টোবর"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদে বলা হয়েছে, ২০২৫ সালের একই নয় মাসের তুলনায় ২০২৬ সালের ফেব্রুয়ারি–অক্টোবরে উন্নতি হয়েছে।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "স্বরাষ্ট্রমন্ত্রীর সংসদীয় বিবৃতির মূল বক্তব্যগুলো সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "৩০০ বিধিতে বিবৃতি, ১১ নভেম্বর",
        "নাৎসি তুলনা ও ফেরা অসম্ভবের দাবি",
@@ -1898,51 +2087,80 @@
        "নাশকতার বিরুদ্ধে কঠোর ব্যবস্থা, দমন নয়"
       ]
      },
-     {
+     "analytical": {
       "question": "আইনশৃঙ্খলা রক্ষা ও রাজনৈতিক স্বাধীনতার ভারসাম্য কীভাবে রাখা যায়? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "নাশকতা প্রতিরোধে কঠোরতার যুক্তি",
        "নির্বিচার গ্রেপ্তার ও দমনের ঝুঁকি",
        "আইনের শাসন, স্বচ্ছ তদন্ত ও জবাবদিহির ভূমিকা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "allegation",
-      "bangla_meaning": "অভিযোগ; প্রমাণ ছাড়া দোষারোপ",
+      "meaning_bn": "অভিযোগ; প্রমাণ ছাড়া দোষারোপ",
       "example": "The home minister addressed allegations raised by the opposition.",
-      "synonym": "accusation; charge",
-      "antonym": "exoneration; vindication"
+      "synonyms": [
+       "accusation",
+       "charge"
+      ],
+      "antonyms": [
+       "exoneration",
+       "vindication"
+      ]
      },
      {
       "word": "restraint",
-      "bangla_meaning": "সংযম; আত্মনিয়ন্ত্রণ",
+      "meaning_bn": "সংযম; আত্মনিয়ন্ত্রণ",
       "example": "The fallen forces had begun taking advantage of the government's restraint.",
-      "synonym": "self-control; moderation",
-      "antonym": "excess; recklessness"
+      "synonyms": [
+       "self-control",
+       "moderation"
+      ],
+      "antonyms": [
+       "excess",
+       "recklessness"
+      ]
      },
      {
       "word": "sabotage",
-      "bangla_meaning": "নাশকতা; ইচ্ছাকৃতভাবে ক্ষতি করা",
+      "meaning_bn": "নাশকতা; ইচ্ছাকৃতভাবে ক্ষতি করা",
       "example": "The government would take strict legal action against sabotage.",
-      "synonym": "destruction; subversion",
-      "antonym": "protection; support"
+      "synonyms": [
+       "destruction",
+       "subversion"
+      ],
+      "antonyms": [
+       "protection",
+       "support"
+      ]
      },
      {
       "word": "repression",
-      "bangla_meaning": "দমন; বলপ্রয়োগে নিয়ন্ত্রণ",
+      "meaning_bn": "দমন; বলপ্রয়োগে নিয়ন্ত্রণ",
       "example": "The government never wanted to turn law enforcement into a force of political repression.",
-      "synonym": "suppression; crackdown",
-      "antonym": "freedom; liberation"
+      "synonyms": [
+       "suppression",
+       "crackdown"
+      ],
+      "antonyms": [
+       "freedom",
+       "liberation"
+      ]
      },
      {
       "word": "defence",
-      "bangla_meaning": "আত্মরক্ষা; প্রতিরক্ষা",
+      "meaning_bn": "আত্মরক্ষা; প্রতিরক্ষা",
       "example": "Law enforcement will act in accordance with their right of private defence.",
-      "synonym": "protection; safeguard",
-      "antonym": "attack; offence"
+      "synonyms": [
+       "protection",
+       "safeguard"
+      ],
+      "antonyms": [
+       "attack",
+       "offence"
+      ]
      }
     ],
     "revision": {
@@ -2066,7 +2284,14 @@
      "label": "২৪ ঘণ্টায় পোড়ানো যানবাহন",
      "figure": "২২টি"
     },
-    "news_summary": "নিষিদ্ধ আওয়ামী লীগের কর্মকাণ্ডের জন্য দায়ী করে সরকার নাশকতা ঠেকাতে পুলিশকে কঠোর নির্দেশ দিয়েছে। সোমবার সকাল থেকে মঙ্গলবার সকাল পর্যন্ত ২৪ ঘণ্টায় ২২টি যানবাহনে আগুন দেওয়া হয় ও অন্তত ২৮ জায়গায় ককটেল বিস্ফোরণ ঘটে, যার ১৯টি ঢাকায়। বিএনপি ডিসেম্বরজুড়ে রাস্তায় সক্রিয় থাকবে বলে জানিয়েছে, আর পুলিশপ্রধান ‘মানের গ্রেপ্তার’ চেয়ে নির্বিচার গ্রেপ্তার থেকে সতর্ক করেছেন।",
+    "news_summary": {
+     "text": "নিষিদ্ধ আওয়ামী লীগের কর্মকাণ্ডের জন্য দায়ী করে সরকার নাশকতা ঠেকাতে পুলিশকে কঠোর নির্দেশ দিয়েছে। সোমবার সকাল থেকে মঙ্গলবার সকাল পর্যন্ত ২৪ ঘণ্টায় ২২টি যানবাহনে আগুন দেওয়া হয় ও অন্তত ২৮ জায়গায় ককটেল বিস্ফোরণ ঘটে, যার ১৯টি ঢাকায়। বিএনপি ডিসেম্বরজুড়ে রাস্তায় সক্রিয় থাকবে বলে জানিয়েছে, আর পুলিশপ্রধান ‘মানের গ্রেপ্তার’ চেয়ে নির্বিচার গ্রেপ্তার থেকে সতর্ক করেছেন।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-10",
+      "url": "https://en.prothomalo.com/bangladesh/p03w2mzspb"
+     }
+    },
     "verified_facts": [
      {
       "label": "পোড়ানো যানবাহন",
@@ -2158,134 +2383,162 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "৬৪ জেলা: বাংলাদেশে ৬৪টি জেলা; আইজিপির সভায় সব জেলার কর্মকর্তারা যুক্ত ছিলেন।",
-      "রেঞ্জ: বিভাগভিত্তিক পুলিশের প্রশাসনিক একক; রেঞ্জের প্রধান উপ-মহাপরিদর্শক (ডিআইজি)।",
-      "নাশকতা (sabotage): জনজীবন ও সম্পত্তির ক্ষতির উদ্দেশ্যে ইচ্ছাকৃত ধ্বংসাত্মক কাজ।"
-     ],
-     "institutions": [
-      {
-       "name": "বাংলাদেশ পুলিশ",
-       "role": "প্রধান আইনশৃঙ্খলা বাহিনী; প্রধান আইজিপি"
-      },
-      {
-       "name": "স্বরাষ্ট্র মন্ত্রণালয়",
-       "role": "পুলিশের প্রশাসনিক তত্ত্বাবধানকারী মন্ত্রণালয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP",
-       "url": "https://www.police.gov.bd/en/life_sketch_of_igp"
-      },
-      {
-       "name": "Wikipedia — Inspector General of Police (Bangladesh)",
-       "url": "https://en.wikipedia.org/wiki/Inspector_General_of_Police_(Bangladesh)"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "পুলিশের মহাপরিদর্শক (আইজিপি)",
-       "B": "পুলিশ সুপার (এসপি)",
-       "C": "উপ-মহাপরিদর্শক (ডিআইজি)",
-       "D": "মহানগর কমিশনার"
-      },
-      "explanation": "আইজিপি বাংলাদেশ পুলিশের সর্বোচ্চ পদমর্যাদার কর্মকর্তা ও পেশাদার প্রধান।",
-      "correct": "A",
-      "question": "বাংলাদেশ পুলিশের সর্বোচ্চ পদ কোনটি?"
+      "name": "বাংলাদেশ পুলিশ",
+      "role": "প্রধান আইনশৃঙ্খলা বাহিনী; প্রধান আইজিপি",
+      "source": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP; Wikipedia — Inspector General of Police (Bangladesh)"
      },
      {
-      "options": {
-       "A": "১৯টি",
-       "B": "২২টি",
-       "C": "২৮টি",
-       "D": "৬৪টি"
-      },
-      "explanation": "সংবাদ অনুযায়ী ২৪ ঘণ্টায় ২২টি যানবাহনে আগুন দেওয়া হয়।",
-      "correct": "B",
-      "question": "২৪ ঘণ্টায় কতটি যানবাহনে আগুন দেওয়া হয়?"
-     },
-     {
-      "options": {
-       "A": "ফৌজদারি কার্যবিধি, ১৮৯৮",
-       "B": "বাংলাদেশ ব্যাংক আদেশ, ১৯৭২",
-       "C": "পুলিশ আইন, ১৮৬১",
-       "D": "সংবিধান, ১৯৭২"
-      },
-      "explanation": "আইজিপি পদের গঠনকারী আইন হলো পুলিশ আইন, ১৮৬১।",
-      "correct": "C",
-      "question": "আইজিপি পদ কোন আইনের অধীনে গঠিত?"
-     },
-     {
-      "options": {
-       "A": "১৯ জায়গায়",
-       "B": "২২ জায়গায়",
-       "C": "২৪ জায়গায়",
-       "D": "২৮ জায়গায়"
-      },
-      "explanation": "সংবাদ অনুযায়ী অন্তত ২৮ জায়গায় ককটেল বিস্ফোরণ ঘটে, যার ১৯টি ঢাকায়।",
-      "correct": "D",
-      "question": "ককটেল বিস্ফোরণ ঘটে অন্তত কত জায়গায়?"
+      "name": "স্বরাষ্ট্র মন্ত্রণালয়",
+      "role": "পুলিশের প্রশাসনিক তত্ত্বাবধানকারী মন্ত্রণালয়",
+      "source": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP; Wikipedia — Inspector General of Police (Bangladesh)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "৬৪ জেলা",
+      "meaning": "বাংলাদেশে ৬৪টি জেলা; আইজিপির সভায় সব জেলার কর্মকর্তারা যুক্ত ছিলেন।",
+      "source": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP; Wikipedia — Inspector General of Police (Bangladesh)"
+     },
+     {
+      "term": "রেঞ্জ",
+      "meaning": "বিভাগভিত্তিক পুলিশের প্রশাসনিক একক; রেঞ্জের প্রধান উপ-মহাপরিদর্শক (ডিআইজি)।",
+      "source": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP; Wikipedia — Inspector General of Police (Bangladesh)"
+     },
+     {
+      "term": "নাশকতা (sabotage)",
+      "meaning": "জনজীবন ও সম্পত্তির ক্ষতির উদ্দেশ্যে ইচ্ছাকৃত ধ্বংসাত্মক কাজ।",
+      "source": "Bangladesh Police (police.gov.bd) — Life Sketch of the IGP; Wikipedia — Inspector General of Police (Bangladesh)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "বাংলাদেশ পুলিশের সর্বোচ্চ পদ কোনটি?",
+      "options": [
+       "পুলিশের মহাপরিদর্শক (আইজিপি)",
+       "পুলিশ সুপার (এসপি)",
+       "উপ-মহাপরিদর্শক (ডিআইজি)",
+       "মহানগর কমিশনার"
+      ],
+      "correct": 0,
+      "explanation": "আইজিপি বাংলাদেশ পুলিশের সর্বোচ্চ পদমর্যাদার কর্মকর্তা ও পেশাদার প্রধান।"
+     },
+     {
+      "question": "২৪ ঘণ্টায় কতটি যানবাহনে আগুন দেওয়া হয়?",
+      "options": [
+       "১৯টি",
+       "২২টি",
+       "২৮টি",
+       "৬৪টি"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী ২৪ ঘণ্টায় ২২টি যানবাহনে আগুন দেওয়া হয়।"
+     },
+     {
+      "question": "আইজিপি পদ কোন আইনের অধীনে গঠিত?",
+      "options": [
+       "ফৌজদারি কার্যবিধি, ১৮৯৮",
+       "বাংলাদেশ ব্যাংক আদেশ, ১৯৭২",
+       "পুলিশ আইন, ১৮৬১",
+       "সংবিধান, ১৯৭২"
+      ],
+      "correct": 2,
+      "explanation": "আইজিপি পদের গঠনকারী আইন হলো পুলিশ আইন, ১৮৬১।"
+     },
+     {
+      "question": "ককটেল বিস্ফোরণ ঘটে অন্তত কত জায়গায়?",
+      "options": [
+       "১৯ জায়গায়",
+       "২২ জায়গায়",
+       "২৪ জায়গায়",
+       "২৮ জায়গায়"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ অনুযায়ী অন্তত ২৮ জায়গায় ককটেল বিস্ফোরণ ঘটে, যার ১৯টি ঢাকায়।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "নাশকতার ঘটনার সংখ্যাগুলো দিয়ে পরিস্থিতির সংক্ষিপ্ত বিবরণ লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "২৪ ঘণ্টায় ২২ যানবাহনে আগুন, ২৮ জায়গায় বিস্ফোরণ (১৯ ঢাকায়)",
        "আইজিপির ৬৪ জেলার সভা ও চার জেলায় অতিরিক্ত পুলিশ",
        "বিএনপির ডিসেম্বরের কর্মসূচি"
       ]
      },
-     {
+     "analytical": {
       "question": "‘মানের গ্রেপ্তার’ বনাম নির্বিচার গ্রেপ্তার — আইনশৃঙ্খলা রক্ষায় এই পার্থক্য কেন গুরুত্বপূর্ণ? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "নির্বিচার গ্রেপ্তারে নিরপরাধ মানুষের হয়রানি ও আস্থা নষ্ট",
        "প্রমাণভিত্তিক গ্রেপ্তারে অপরাধীর শাস্তি নিশ্চিত হয়",
        "আইনের শাসন ও মানবাধিকারের সঙ্গে ভারসাম্য"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "indiscriminate",
-      "bangla_meaning": "নির্বিচার; ভালো-মন্দ না বেছে করা",
+      "meaning_bn": "নির্বিচার; ভালো-মন্দ না বেছে করা",
       "example": "The IGP advised against indiscriminate arrests.",
-      "synonym": "random; wholesale",
-      "antonym": "selective; targeted"
+      "synonyms": [
+       "random",
+       "wholesale"
+      ],
+      "antonyms": [
+       "selective",
+       "targeted"
+      ]
      },
      {
       "word": "arrest",
-      "bangla_meaning": "গ্রেপ্তার; আটক করা",
+      "meaning_bn": "গ্রেপ্তার; আটক করা",
       "example": "The police chief ordered quality arrests.",
-      "synonym": "detention; apprehension",
-      "antonym": "release; freedom"
+      "synonyms": [
+       "detention",
+       "apprehension"
+      ],
+      "antonyms": [
+       "release",
+       "freedom"
+      ]
      },
      {
       "word": "explosion",
-      "bangla_meaning": "বিস্ফোরণ; প্রচণ্ড শব্দে ফেটে যাওয়া",
+      "meaning_bn": "বিস্ফোরণ; প্রচণ্ড শব্দে ফেটে যাওয়া",
       "example": "Cocktail explosions hit at least 28 places.",
-      "synonym": "blast; detonation",
-      "antonym": "—"
+      "synonyms": [
+       "blast",
+       "detonation"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "deploy",
-      "bangla_meaning": "মোতায়েন করা; দায়িত্বে পাঠানো",
+      "meaning_bn": "মোতায়েন করা; দায়িত্বে পাঠানো",
       "example": "Extra police were deployed in four districts.",
-      "synonym": "station; post",
-      "antonym": "withdraw; recall"
+      "synonyms": [
+       "station",
+       "post"
+      ],
+      "antonyms": [
+       "withdraw",
+       "recall"
+      ]
      },
      {
       "word": "district",
-      "bangla_meaning": "জেলা; প্রশাসনিক এলাকা",
+      "meaning_bn": "জেলা; প্রশাসনিক এলাকা",
       "example": "The IGP held a meeting with officers across all 64 districts.",
-      "synonym": "area; region",
-      "antonym": "—"
+      "synonyms": [
+       "area",
+       "region"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -2409,7 +2662,14 @@
      "label": "জাতিসংঘ জলবায়ু সম্মেলন (COP31)",
      "figure": "৩১তম"
     },
-    "news_summary": "প্রধানমন্ত্রী তারিক রহমান ১১ নভেম্বর বিকেল ৪টা ৩০ মিনিটে তুরস্কের আন্তালিয়ায় কপ৩১-এর ফাঁকে চীনের ভাইস-প্রেসিডেন্ট হান ঝেংয়ের সঙ্গে বৈঠক করেন। আলোচনায় ছিল বাংলাদেশে চীনা বিনিয়োগ বাড়ানো ও জলবায়ু পরিবর্তনে যৌথ কাজ। এর আগে তিনি উজবেকিস্তানের প্রেসিডেন্ট শাভকাত মির্জিয়োয়েভের সঙ্গে বৈঠক করেন ও লিডার্স লাউঞ্জে বিশ্বনেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেন।",
+    "news_summary": {
+     "text": "প্রধানমন্ত্রী তারিক রহমান ১১ নভেম্বর বিকেল ৪টা ৩০ মিনিটে তুরস্কের আন্তালিয়ায় কপ৩১-এর ফাঁকে চীনের ভাইস-প্রেসিডেন্ট হান ঝেংয়ের সঙ্গে বৈঠক করেন। আলোচনায় ছিল বাংলাদেশে চীনা বিনিয়োগ বাড়ানো ও জলবায়ু পরিবর্তনে যৌথ কাজ। এর আগে তিনি উজবেকিস্তানের প্রেসিডেন্ট শাভকাত মির্জিয়োয়েভের সঙ্গে বৈঠক করেন ও লিডার্স লাউঞ্জে বিশ্বনেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেন।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-11",
+      "url": "https://www.tbsnews.net/foreign-policy/pm-tarique-chinese-vice-president-discuss-investment-climate-cooperation-1599941"
+     }
+    },
     "verified_facts": [
      {
       "label": "চীনা বৈঠক",
@@ -2496,130 +2756,160 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "দ্বিপক্ষীয় বৈঠক: দুই দেশের নেতাদের সরাসরি বৈঠক; বহুপক্ষীয় সম্মেলনের ফাঁকে এগুলোই আসল কূটনীতি।",
-      "বাংলাদেশ-চীন সম্পর্ক: বিনিয়োগ, বাণিজ্য ও জলবায়ু সহযোগিতা — পররাষ্ট্রনীতির নিয়মিত প্রশ্ন।",
-      "ওআইসি (OIC): ইসলামি সহযোগিতা সংস্থা; মুসলিম দেশগুলোর আন্তঃসরকারি সংস্থা।"
-     ],
-     "institutions": [
-      {
-       "name": "জাতিসংঘ জলবায়ু পরিবর্তন কাঠামো কনভেনশন (UNFCCC)",
-       "role": "জলবায়ু আলোচনার মূল চুক্তি ও কপ সম্মেলনের আয়োজক কাঠামো"
-      },
-      {
-       "name": "পররাষ্ট্র মন্ত্রণালয়",
-       "role": "বাংলাদেশের পররাষ্ট্রনীতি ও কূটনৈতিক সম্পর্কের দায়িত্বে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "UNFCCC — About COP31",
-       "url": "https://unfccc.int/cop31/about"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "আন্তালিয়া, তুরস্ক",
-       "B": "ঢাকা, বাংলাদেশ",
-       "C": "প্যারিস, ফ্রান্স",
-       "D": "বেইজিং, চীন"
-      },
-      "explanation": "ইউএনএফসিসিসির তথ্য অনুযায়ী কপ৩১ হচ্ছে তুরস্কের আন্তালিয়ায়।",
-      "correct": "A",
-      "question": "কপ৩১ কোথায় অনুষ্ঠিত হচ্ছে?"
+      "name": "জাতিসংঘ জলবায়ু পরিবর্তন কাঠামো কনভেনশন (UNFCCC)",
+      "role": "জলবায়ু আলোচনার মূল চুক্তি ও কপ সম্মেলনের আয়োজক কাঠামো",
+      "source": "UNFCCC — About COP31"
      },
      {
-      "options": {
-       "A": "সকাল ১০টা ১০ মিনিটে",
-       "B": "বিকেল ৪টা ৩০ মিনিটে",
-       "C": "দুপুর ১২টায়",
-       "D": "রাত ৮টায়"
-      },
-      "explanation": "সংবাদ অনুযায়ী বৈঠক হয় ১১ নভেম্বর বিকেল ৪টা ৩০ মিনিটে।",
-      "correct": "B",
-      "question": "প্রধানমন্ত্রী চীনের ভাইস-প্রেসিডেন্টের সঙ্গে বৈঠক করেন কখন?"
+      "name": "পররাষ্ট্র মন্ত্রণালয়",
+      "role": "বাংলাদেশের পররাষ্ট্রনীতি ও কূটনৈতিক সম্পর্কের দায়িত্বে",
+      "source": "UNFCCC — About COP31"
      },
      {
-      "options": {
-       "A": "২০১৫ সালে",
-       "B": "১৯৯৭ সালে",
-       "C": "১৯৯২ সালে",
-       "D": "২০২৬ সালে"
-      },
-      "explanation": "ইউএনএফসিসিসি ১৯৯২ সালে রিওতে গৃহীত যুগান্তকারী চুক্তি।",
-      "correct": "C",
-      "question": "ইউএনএফসিসিসি চুক্তি কত সালে রিওতে গৃহীত হয়?"
-     },
-     {
-      "options": {
-       "A": "বৃদ্ধি ৫° সেলসিয়াসে সীমিত রাখা",
-       "B": "বৃদ্ধি ৩° সেলসিয়াসে সীমিত রাখা",
-       "C": "কোনো লক্ষ্য নেই",
-       "D": "বৃদ্ধি ২° সেলসিয়াসের অনেক নিচে রাখা, চেষ্টা ১.৫° সেলসিয়াস"
-      },
-      "explanation": "প্যারিস চুক্তির লক্ষ্য তাপমাত্রা বৃদ্ধি ২° সেলসিয়াসের অনেক নিচে রাখা, চেষ্টা ১.৫° সেলসিয়াসে সীমিত রাখা।",
-      "correct": "D",
-      "question": "প্যারিস চুক্তির তাপমাত্রা লক্ষ্য কী?"
+      "name": "ওআইসি",
+      "full_name": "OIC",
+      "role": "ইসলামি সহযোগিতা সংস্থা। মুসলিম দেশগুলোর আন্তঃসরকারি সংস্থা।",
+      "source": "UNFCCC — About COP31"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "দ্বিপক্ষীয় বৈঠক",
+      "meaning": "দুই দেশের নেতাদের সরাসরি বৈঠক; বহুপক্ষীয় সম্মেলনের ফাঁকে এগুলোই আসল কূটনীতি।",
+      "source": "UNFCCC — About COP31"
+     },
+     {
+      "term": "বাংলাদেশ-চীন সম্পর্ক",
+      "meaning": "বিনিয়োগ, বাণিজ্য ও জলবায়ু সহযোগিতা — পররাষ্ট্রনীতির নিয়মিত প্রশ্ন।",
+      "source": "UNFCCC — About COP31"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "কপ৩১ কোথায় অনুষ্ঠিত হচ্ছে?",
+      "options": [
+       "আন্তালিয়া, তুরস্ক",
+       "ঢাকা, বাংলাদেশ",
+       "প্যারিস, ফ্রান্স",
+       "বেইজিং, চীন"
+      ],
+      "correct": 0,
+      "explanation": "ইউএনএফসিসিসির তথ্য অনুযায়ী কপ৩১ হচ্ছে তুরস্কের আন্তালিয়ায়।"
+     },
+     {
+      "question": "প্রধানমন্ত্রী চীনের ভাইস-প্রেসিডেন্টের সঙ্গে বৈঠক করেন কখন?",
+      "options": [
+       "সকাল ১০টা ১০ মিনিটে",
+       "বিকেল ৪টা ৩০ মিনিটে",
+       "দুপুর ১২টায়",
+       "রাত ৮টায়"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী বৈঠক হয় ১১ নভেম্বর বিকেল ৪টা ৩০ মিনিটে।"
+     },
+     {
+      "question": "ইউএনএফসিসিসি চুক্তি কত সালে রিওতে গৃহীত হয়?",
+      "options": [
+       "২০১৫ সালে",
+       "১৯৯৭ সালে",
+       "১৯৯২ সালে",
+       "২০২৬ সালে"
+      ],
+      "correct": 2,
+      "explanation": "ইউএনএফসিসিসি ১৯৯২ সালে রিওতে গৃহীত যুগান্তকারী চুক্তি।"
+     },
+     {
+      "question": "প্যারিস চুক্তির তাপমাত্রা লক্ষ্য কী?",
+      "options": [
+       "বৃদ্ধি ৫° সেলসিয়াসে সীমিত রাখা",
+       "বৃদ্ধি ৩° সেলসিয়াসে সীমিত রাখা",
+       "কোনো লক্ষ্য নেই",
+       "বৃদ্ধি ২° সেলসিয়াসের অনেক নিচে রাখা, চেষ্টা ১.৫° সেলসিয়াস"
+      ],
+      "correct": 3,
+      "explanation": "প্যারিস চুক্তির লক্ষ্য তাপমাত্রা বৃদ্ধি ২° সেলসিয়াসের অনেক নিচে রাখা, চেষ্টা ১.৫° সেলসিয়াসে সীমিত রাখা।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "কপ৩১-এ প্রধানমন্ত্রীর বৈঠকগুলোর মূল তথ্য সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "চীনের ভাইস-প্রেসিডেন্ট: ৪টা ৩০ মিনিট, বিনিয়োগ ও জলবায়ু",
        "উজবেকিস্তানের প্রেসিডেন্ট: দ্বিপক্ষীয় সম্পর্ক ও জলবায়ু",
        "লিডার্স লাউঞ্জে বিশ্বনেতাদের সঙ্গে শুভেচ্ছা বিনিময়"
       ]
      },
-     {
+     "analytical": {
       "question": "বহুপক্ষীয় জলবায়ু সম্মেলনের ফাঁকে দ্বিপক্ষীয় বৈঠক কেন গুরুত্বপূর্ণ? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "বিনিয়োগ ও বাণিজ্যের সরাসরি আলোচনা",
        "জলবায়ু অর্থায়ন ও প্রযুক্তি সহযোগিতা",
        "বাংলাদেশের মতো ঝুঁকিপূর্ণ দেশের কূটনৈতিক সুযোগ"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "investment",
-      "bangla_meaning": "বিনিয়োগ; লাভের আশায় অর্থ খাটানো",
+      "meaning_bn": "বিনিয়োগ; লাভের আশায় অর্থ খাটানো",
       "example": "They discussed expanding Chinese investment in Bangladesh.",
-      "synonym": "funding; capital",
-      "antonym": "divestment; withdrawal"
+      "synonyms": [
+       "funding",
+       "capital"
+      ],
+      "antonyms": [
+       "divestment",
+       "withdrawal"
+      ]
      },
      {
       "word": "climate",
-      "bangla_meaning": "জলবায়ু; কোনো অঞ্চলের দীর্ঘমেয়াদি আবহাওয়া",
+      "meaning_bn": "জলবায়ু; কোনো অঞ্চলের দীর্ঘমেয়াদি আবহাওয়া",
       "example": "They discussed joint work on climate change.",
-      "synonym": "weather pattern",
-      "antonym": "—"
+      "synonyms": [
+       "weather pattern"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "bilateral",
-      "bangla_meaning": "দ্বিপক্ষীয়; দুই দেশের মধ্যে",
+      "meaning_bn": "দ্বিপক্ষীয়; দুই দেশের মধ্যে",
       "example": "He met the Uzbek President on bilateral ties and climate.",
-      "synonym": "two-sided",
-      "antonym": "multilateral; unilateral"
+      "synonyms": [
+       "two-sided"
+      ],
+      "antonyms": [
+       "multilateral",
+       "unilateral"
+      ]
      },
      {
       "word": "summit",
-      "bangla_meaning": "শীর্ষ সম্মেলন; শীর্ষ নেতাদের বৈঠক",
+      "meaning_bn": "শীর্ষ সম্মেলন; শীর্ষ নেতাদের বৈঠক",
       "example": "The World Leaders' Summit formally began at the venue.",
-      "synonym": "conference; meeting",
-      "antonym": "—"
+      "synonyms": [
+       "conference",
+       "meeting"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "negotiation",
-      "bangla_meaning": "আলোচনা; দর কষাকষি",
+      "meaning_bn": "আলোচনা; দর কষাকষি",
       "example": "Chris Bowen of Australia is the President of Negotiations at COP31.",
-      "synonym": "talks; bargaining",
-      "antonym": "—"
+      "synonyms": [
+       "talks",
+       "bargaining"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -2736,7 +3026,14 @@
      "label": "পাসপোর্ট ও এনআইডির আবেদনের তারিখ",
      "figure": "৯ নভেম্বর ২০২৬"
     },
-    "news_summary": "শেখ হাসিনা ৯ নভেম্বর সোমবার বাংলাদেশ সরকারের কাছে নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্রের (এনআইডি) আবেদন করেছেন, ফেরার পরিকল্পনা এগিয়ে নিতে। ভারপ্রাপ্ত পররাষ্ট্রমন্ত্রী হুমায়ুন কবির জানিয়েছেন, বাংলাদেশ ‘গ্রহণযোগ্য বন্দি হস্তান্তর প্রক্রিয়ায়’ তাঁর প্রত্যর্পণ চায়। দ্য হিন্দুর ব্যাখ্যামূলক প্রতিবেদনে বলা হয়েছে, মৃত্যুদণ্ড সত্ত্বেও তিনি রাজনৈতিক নেতা হিসেবে ফিরে দল পুনরুদ্ধার করতে চান।",
+    "news_summary": {
+     "text": "শেখ হাসিনা ৯ নভেম্বর সোমবার বাংলাদেশ সরকারের কাছে নতুন পাসপোর্ট ও জাতীয় পরিচয়পত্রের (এনআইডি) আবেদন করেছেন, ফেরার পরিকল্পনা এগিয়ে নিতে। ভারপ্রাপ্ত পররাষ্ট্রমন্ত্রী হুমায়ুন কবির জানিয়েছেন, বাংলাদেশ ‘গ্রহণযোগ্য বন্দি হস্তান্তর প্রক্রিয়ায়’ তাঁর প্রত্যর্পণ চায়। দ্য হিন্দুর ব্যাখ্যামূলক প্রতিবেদনে বলা হয়েছে, মৃত্যুদণ্ড সত্ত্বেও তিনি রাজনৈতিক নেতা হিসেবে ফিরে দল পুনরুদ্ধার করতে চান।",
+     "source": {
+      "publication": "The Hindu",
+      "date": "2026-11-10",
+      "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+     }
+    },
     "verified_facts": [
      {
       "label": "আবেদন",
@@ -2817,137 +3114,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "২০১৬ সংশোধন: চুক্তির ১০(৩) ধারা সংশোধন করে পলাতক অপরাধীদের দ্রুত প্রত্যর্পণ সহজ করা হয়।",
-      "ভারতের প্রত্যর্পণ আইন, ১৯৬২: এর ২৯ ধারা অনুযায়ী তুচ্ছ, অসদিচ্ছাপ্রণোদিত বা রাজনৈতিক বিবেচনায় করা অনুরোধ প্রত্যাখ্যান করা যায়।"
-     ],
-     "institutions": [
-      {
-       "name": "নির্বাচন কমিশন",
-       "role": "জাতীয় পরিচয়পত্র (এনআইডি) দেওয়া ও নাগরিক নিবন্ধন তথ্যভান্ডার রাখা"
-      },
-      {
-       "name": "অভিবাসন ও পাসপোর্ট অধিদপ্তর (ডিআইপি)",
-       "role": "পাসপোর্ট দেওয়ার দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর"
-      },
-      {
-       "name": "পররাষ্ট্র মন্ত্রণালয়",
-       "role": "প্রত্যর্পণ অনুরোধসহ কূটনৈতিক প্রক্রিয়ার দায়িত্বে"
-      }
-     ],
-     "sources": [
-      {
-       "name": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition",
-       "url": "https://www.isas.nus.edu.sg/papers/the-hasina-verdict-and-the-extradition-implications-for-dhaka-delhi-relations/"
-      },
-      {
-       "name": "UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)",
-       "url": "https://www.gov.uk/government/publications/bangladesh-country-policy-and-information-notes/country-information-note-documentation-bangladesh-november-2024-accessible"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "২০১৩ সালে",
-       "B": "২০১০ সালে",
-       "C": "২০১৬ সালে",
-       "D": "২০২৪ সালে"
-      },
-      "explanation": "চুক্তিটি সই হয় ২০১৩ সালের ২৮ জানুয়ারি, ঢাকায়।",
-      "correct": "A",
-      "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তি কত সালে সই হয়?"
+      "name": "নির্বাচন কমিশন",
+      "role": "জাতীয় পরিচয়পত্র (এনআইডি) দেওয়া ও নাগরিক নিবন্ধন তথ্যভান্ডার রাখা",
+      "source": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition; UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)"
      },
      {
-      "options": {
-       "A": "৫ আগস্ট ২০২৪",
-       "B": "৯ নভেম্বর ২০২৬",
-       "C": "১১ নভেম্বর ২০২৬",
-       "D": "১০ নভেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী তিনি ৯ নভেম্বর সোমবার আবেদন করেন।",
-      "correct": "B",
-      "question": "হাসিনা পাসপোর্ট ও এনআইডির আবেদন করেন কবে?"
+      "name": "অভিবাসন ও পাসপোর্ট অধিদপ্তর (ডিআইপি)",
+      "role": "পাসপোর্ট দেওয়ার দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর",
+      "source": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition; UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)"
      },
      {
-      "options": {
-       "A": "৩ ধারা",
-       "B": "৮ ধারা",
-       "C": "৬(১) ধারা",
-       "D": "১০(৩) ধারা"
-      },
-      "explanation": "চুক্তির ৬(১) ধারা অনুযায়ী অপরাধটি রাজনৈতিক চরিত্রের হলে প্রত্যর্পণ প্রত্যাখ্যান করা যায়।",
-      "correct": "C",
-      "question": "চুক্তির কোন ধারা অনুযায়ী রাজনৈতিক চরিত্রের অপরাধে প্রত্যর্পণ প্রত্যাখ্যান করা যায়?"
-     },
-     {
-      "options": {
-       "A": "অভিবাসন ও পাসপোর্ট অধিদপ্তর",
-       "B": "বাংলাদেশ ব্যাংক",
-       "C": "স্বরাষ্ট্র মন্ত্রণালয়",
-       "D": "বাংলাদেশ নির্বাচন কমিশন"
-      },
-      "explanation": "এনআইডি দেয় বাংলাদেশ নির্বাচন কমিশন; পাসপোর্ট দেয় অভিবাসন ও পাসপোর্ট অধিদপ্তর।",
-      "correct": "D",
-      "question": "বাংলাদেশে জাতীয় পরিচয়পত্র (এনআইডি) কোন সংস্থা দেয়?"
+      "name": "পররাষ্ট্র মন্ত্রণালয়",
+      "role": "প্রত্যর্পণ অনুরোধসহ কূটনৈতিক প্রক্রিয়ার দায়িত্বে",
+      "source": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition; UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "২০১৬ সংশোধন",
+      "meaning": "চুক্তির ১০(৩) ধারা সংশোধন করে পলাতক অপরাধীদের দ্রুত প্রত্যর্পণ সহজ করা হয়।",
+      "source": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition; UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)"
+     },
+     {
+      "term": "ভারতের প্রত্যর্পণ আইন, ১৯৬২",
+      "meaning": "এর ২৯ ধারা অনুযায়ী তুচ্ছ, অসদিচ্ছাপ্রণোদিত বা রাজনৈতিক বিবেচনায় করা অনুরোধ প্রত্যাখ্যান করা যায়।",
+      "source": "NUS Institute of South Asian Studies — The Hasina Verdict and the Extradition; UK Home Office — Country information note: Documentation, Bangladesh (Nov 2024)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "ভারত-বাংলাদেশ প্রত্যর্পণ চুক্তি কত সালে সই হয়?",
+      "options": [
+       "২০১৩ সালে",
+       "২০১০ সালে",
+       "২০১৬ সালে",
+       "২০২৪ সালে"
+      ],
+      "correct": 0,
+      "explanation": "চুক্তিটি সই হয় ২০১৩ সালের ২৮ জানুয়ারি, ঢাকায়।"
+     },
+     {
+      "question": "হাসিনা পাসপোর্ট ও এনআইডির আবেদন করেন কবে?",
+      "options": [
+       "৫ আগস্ট ২০২৪",
+       "৯ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "১০ নভেম্বর ২০২৬"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী তিনি ৯ নভেম্বর সোমবার আবেদন করেন।"
+     },
+     {
+      "question": "চুক্তির কোন ধারা অনুযায়ী রাজনৈতিক চরিত্রের অপরাধে প্রত্যর্পণ প্রত্যাখ্যান করা যায়?",
+      "options": [
+       "৩ ধারা",
+       "৮ ধারা",
+       "৬(১) ধারা",
+       "১০(৩) ধারা"
+      ],
+      "correct": 2,
+      "explanation": "চুক্তির ৬(১) ধারা অনুযায়ী অপরাধটি রাজনৈতিক চরিত্রের হলে প্রত্যর্পণ প্রত্যাখ্যান করা যায়।"
+     },
+     {
+      "question": "বাংলাদেশে জাতীয় পরিচয়পত্র (এনআইডি) কোন সংস্থা দেয়?",
+      "options": [
+       "অভিবাসন ও পাসপোর্ট অধিদপ্তর",
+       "বাংলাদেশ ব্যাংক",
+       "স্বরাষ্ট্র মন্ত্রণালয়",
+       "বাংলাদেশ নির্বাচন কমিশন"
+      ],
+      "correct": 3,
+      "explanation": "এনআইডি দেয় বাংলাদেশ নির্বাচন কমিশন; পাসপোর্ট দেয় অভিবাসন ও পাসপোর্ট অধিদপ্তর।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "হাসিনার পাসপোর্ট-এনআইডি আবেদন ও সরকারের প্রত্যর্পণ দাবির মূল তথ্য সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "আবেদন ৯ নভেম্বর ২০২৬",
        "‘গ্রহণযোগ্য বন্দি হস্তান্তর প্রক্রিয়া’ — হুমায়ুন কবির",
        "দণ্ড: জুলাই-আগস্ট ২০২৪ দমন অভিযানের নির্দেশের অভিযোগ"
       ]
      },
-     {
+     "analytical": {
       "question": "প্রত্যর্পণ চুক্তিতে রাজনৈতিক অপরাধের ব্যতিক্রম কেন রাখা হয়? হাসিনার ক্ষেত্রে এর প্রাসঙ্গিকতা বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "ব্যতিক্রমের উদ্দেশ্য: রাজনৈতিক প্রতিহিংসা থেকে সুরক্ষা",
        "চুক্তির ৬(১) ও ৮(৩) ধারার শর্ত",
        "দ্বৈত অপরাধ নীতি ও সদিচ্ছার প্রশ্ন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "transfer",
-      "bangla_meaning": "হস্তান্তর; এক জায়গা থেকে অন্য জায়গায় দেওয়া",
+      "meaning_bn": "হস্তান্তর; এক জায়গা থেকে অন্য জায়গায় দেওয়া",
       "example": "Bangladesh seeks her extradition under an acceptable prisoner transfer process.",
-      "synonym": "handover; conveyance",
-      "antonym": "retention; keeping"
+      "synonyms": [
+       "handover",
+       "conveyance"
+      ],
+      "antonyms": [
+       "retention",
+       "keeping"
+      ]
      },
      {
       "word": "passport",
-      "bangla_meaning": "পাসপোর্ট; আন্তর্জাতিক ভ্রমণের পরিচয়পত্র",
+      "meaning_bn": "পাসপোর্ট; আন্তর্জাতিক ভ্রমণের পরিচয়পত্র",
       "example": "She sought a new passport from the Government of Bangladesh.",
-      "synonym": "travel document",
-      "antonym": "—"
+      "synonyms": [
+       "travel document"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "identity",
-      "bangla_meaning": "পরিচয়; কে তা প্রমাণ",
+      "meaning_bn": "পরিচয়; কে তা প্রমাণ",
       "example": "She sought a national identity card along with a passport.",
-      "synonym": "identification",
-      "antonym": "anonymity"
+      "synonyms": [
+       "identification"
+      ],
+      "antonyms": [
+       "anonymity"
+      ]
      },
      {
       "word": "return",
-      "bangla_meaning": "ফেরা; ফিরে আসা",
+      "meaning_bn": "ফেরা; ফিরে আসা",
       "example": "She wants to return as a political leader and reclaim her party.",
-      "synonym": "comeback; homecoming",
-      "antonym": "departure; exile"
+      "synonyms": [
+       "comeback",
+       "homecoming"
+      ],
+      "antonyms": [
+       "departure",
+       "exile"
+      ]
      },
      {
       "word": "process",
-      "bangla_meaning": "প্রক্রিয়া; ধাপে ধাপে কাজ",
+      "meaning_bn": "প্রক্রিয়া; ধাপে ধাপে কাজ",
       "example": "Bangladesh seeks extradition under an acceptable prisoner transfer process.",
-      "synonym": "procedure; mechanism",
-      "antonym": "—"
+      "synonyms": [
+       "procedure",
+       "mechanism"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -3060,7 +3379,14 @@
      "label": "যৌথ বিনিয়োগের খাত — সিরামিক, প্লাস্টিক, চামড়া",
      "figure": "৩টি খাত"
     },
-    "news_summary": "বাংলাদেশ ও কুয়েতের ব্যবসায়ীরা সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্যে যৌথ বিনিয়োগের আগ্রহ প্রকাশ করেছেন। ১১ নভেম্বর ২০২৬-এর অনলাইন বৈঠকে দুই পক্ষ দ্বিপক্ষীয় বাণিজ্য ও অর্থনৈতিক সহযোগিতা বাড়ানোর উপায় নিয়ে আলোচনা করে। এফবিসিসিআইয়ের প্রশাসক দুই দেশের দীর্ঘদিনের বন্ধুত্বপূর্ণ সম্পর্কের কথা তুলে ধরে কুয়েতি উদ্যোক্তাদের বাংলাদেশে বিনিয়োগের আমন্ত্রণ জানান।",
+    "news_summary": {
+     "text": "বাংলাদেশ ও কুয়েতের ব্যবসায়ীরা সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্যে যৌথ বিনিয়োগের আগ্রহ প্রকাশ করেছেন। ১১ নভেম্বর ২০২৬-এর অনলাইন বৈঠকে দুই পক্ষ দ্বিপক্ষীয় বাণিজ্য ও অর্থনৈতিক সহযোগিতা বাড়ানোর উপায় নিয়ে আলোচনা করে। এফবিসিসিআইয়ের প্রশাসক দুই দেশের দীর্ঘদিনের বন্ধুত্বপূর্ণ সম্পর্কের কথা তুলে ধরে কুয়েতি উদ্যোক্তাদের বাংলাদেশে বিনিয়োগের আমন্ত্রণ জানান।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-11",
+      "url": "https://www.tbsnews.net/foreign-policy/bangladesh-kuwait-eye-joint-investment-ceramics-leather-sectors-1599806"
+     }
+    },
     "verified_facts": [
      {
       "label": "বৈঠক",
@@ -3137,134 +3463,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "উপসাগরীয় সহযোগিতা: কুয়েতসহ উপসাগরীয় দেশগুলো বাংলাদেশের বড় শ্রমবাজার ও বিনিয়োগের সম্ভাব্য উৎস।",
-      "তিন খাতের গুরুত্ব: সিরামিক, প্লাস্টিক ও চামড়া — তিনটিই বাংলাদেশের রপ্তানি-সম্ভাবনাময় শিল্প।",
-      "অনলাইন বৈঠক: ভৌগোলিক দূরত্ব পেরিয়ে ব্যবসায়িক আলোচনার সহজ মাধ্যম; কূটনৈতিক ও বাণিজ্যিক উভয় ক্ষেত্রে ব্যবহৃত হয়।"
-     ],
-     "institutions": [
-      {
-       "name": "এফবিসিসিআই (FBCCI)",
-       "role": "বেসরকারি খাতের সর্বোচ্চ বাণিজ্য সংগঠন; ১৯৭৩ সালে প্রতিষ্ঠিত"
-      },
-      {
-       "name": "বাণিজ্য মন্ত্রণালয়",
-       "role": "বাণিজ্য নীতি ও বৈদেশিক বাণিজ্যের দায়িত্বপ্রাপ্ত মন্ত্রণালয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "FBCCI — Brief History (fbcci.org)",
-       "url": "https://fbcci.org/web/contents/brief-history"
-      },
-      {
-       "name": "Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry",
-       "url": "https://en.banglapedia.org/index.php?title=Federation_of_Bangladesh_Chambers_of_Commerce_and_Industry"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "১৯৭৩ সালে",
-       "B": "১৯৭১ সালে",
-       "C": "১৯৬১ সালে",
-       "D": "১৯৯৪ সালে"
-      },
-      "explanation": "এফবিসিসিআইয়ের নিজস্ব তথ্য অনুযায়ী এটি ১৯৭৩ সালে প্রতিষ্ঠিত হয়।",
-      "correct": "A",
-      "question": "এফবিসিসিআই কত সালে প্রতিষ্ঠিত হয়?"
+      "name": "এফবিসিসিআই (FBCCI)",
+      "role": "বেসরকারি খাতের সর্বোচ্চ বাণিজ্য সংগঠন; ১৯৭৩ সালে প্রতিষ্ঠিত",
+      "source": "FBCCI — Brief History (fbcci.org); Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry"
      },
      {
-      "options": {
-       "A": "২টি — তৈরি পোশাক ও চা",
-       "B": "৩টি — সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্য",
-       "C": "৪টি — চাল, গম, চিনি ও তেল",
-       "D": "৫টি — ওষুধ, সিমেন্ট, ইস্পাত, কাগজ ও কাচ"
-      },
-      "explanation": "সংবাদ অনুযায়ী তিন খাতে যৌথ বিনিয়োগের আগ্রহ প্রকাশ করা হয়েছে — সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্য।",
-      "correct": "B",
-      "question": "বাংলাদেশ-কুয়েত যৌথ বিনিয়োগের খাত কয়টি ও কী কী?"
-     },
-     {
-      "options": {
-       "A": "১০ নভেম্বর ২০২৬",
-       "B": "৯ নভেম্বর ২০২৬",
-       "C": "১১ নভেম্বর ২০২৬",
-       "D": "১২ নভেম্বর ২০২৬"
-      },
-      "explanation": "সংবাদ অনুযায়ী বৈঠক হয় ১১ নভেম্বর ২০২৬।",
-      "correct": "C",
-      "question": "অনলাইন বৈঠকটি কবে হয়?"
-     },
-     {
-      "options": {
-       "A": "একটি ব্যাংক",
-       "B": "একটি সরকারি মন্ত্রণালয়",
-       "C": "একটি বিশ্ববিদ্যালয়",
-       "D": "দেশের সর্বোচ্চ বাণিজ্য সংগঠন"
-      },
-      "explanation": "এফবিসিসিআই বাংলাদেশের সর্বোচ্চ বাণিজ্য সংগঠন, বেসরকারি খাতের স্বার্থ রক্ষায় কাজ করে।",
-      "correct": "D",
-      "question": "এফবিসিসিআই কী ধরনের সংগঠন?"
+      "name": "বাণিজ্য মন্ত্রণালয়",
+      "role": "বাণিজ্য নীতি ও বৈদেশিক বাণিজ্যের দায়িত্বপ্রাপ্ত মন্ত্রণালয়",
+      "source": "FBCCI — Brief History (fbcci.org); Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "উপসাগরীয় সহযোগিতা",
+      "meaning": "কুয়েতসহ উপসাগরীয় দেশগুলো বাংলাদেশের বড় শ্রমবাজার ও বিনিয়োগের সম্ভাব্য উৎস।",
+      "source": "FBCCI — Brief History (fbcci.org); Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry"
+     },
+     {
+      "term": "তিন খাতের গুরুত্ব",
+      "meaning": "সিরামিক, প্লাস্টিক ও চামড়া — তিনটিই বাংলাদেশের রপ্তানি-সম্ভাবনাময় শিল্প।",
+      "source": "FBCCI — Brief History (fbcci.org); Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry"
+     },
+     {
+      "term": "অনলাইন বৈঠক",
+      "meaning": "ভৌগোলিক দূরত্ব পেরিয়ে ব্যবসায়িক আলোচনার সহজ মাধ্যম; কূটনৈতিক ও বাণিজ্যিক উভয় ক্ষেত্রে ব্যবহৃত হয়।",
+      "source": "FBCCI — Brief History (fbcci.org); Banglapedia — Federation of Bangladesh Chambers of Commerce and Industry"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "এফবিসিসিআই কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+       "১৯৭৩ সালে",
+       "১৯৭১ সালে",
+       "১৯৬১ সালে",
+       "১৯৯৪ সালে"
+      ],
+      "correct": 0,
+      "explanation": "এফবিসিসিআইয়ের নিজস্ব তথ্য অনুযায়ী এটি ১৯৭৩ সালে প্রতিষ্ঠিত হয়।"
+     },
+     {
+      "question": "বাংলাদেশ-কুয়েত যৌথ বিনিয়োগের খাত কয়টি ও কী কী?",
+      "options": [
+       "২টি — তৈরি পোশাক ও চা",
+       "৩টি — সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্য",
+       "৪টি — চাল, গম, চিনি ও তেল",
+       "৫টি — ওষুধ, সিমেন্ট, ইস্পাত, কাগজ ও কাচ"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী তিন খাতে যৌথ বিনিয়োগের আগ্রহ প্রকাশ করা হয়েছে — সিরামিক, প্লাস্টিক ও চামড়াজাত পণ্য।"
+     },
+     {
+      "question": "অনলাইন বৈঠকটি কবে হয়?",
+      "options": [
+       "১০ নভেম্বর ২০২৬",
+       "৯ নভেম্বর ২০২৬",
+       "১১ নভেম্বর ২০২৬",
+       "১২ নভেম্বর ২০২৬"
+      ],
+      "correct": 2,
+      "explanation": "সংবাদ অনুযায়ী বৈঠক হয় ১১ নভেম্বর ২০২৬।"
+     },
+     {
+      "question": "এফবিসিসিআই কী ধরনের সংগঠন?",
+      "options": [
+       "একটি ব্যাংক",
+       "একটি সরকারি মন্ত্রণালয়",
+       "একটি বিশ্ববিদ্যালয়",
+       "দেশের সর্বোচ্চ বাণিজ্য সংগঠন"
+      ],
+      "correct": 3,
+      "explanation": "এফবিসিসিআই বাংলাদেশের সর্বোচ্চ বাণিজ্য সংগঠন, বেসরকারি খাতের স্বার্থ রক্ষায় কাজ করে।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশ-কুয়েত যৌথ বিনিয়োগের বৈঠকের মূল তথ্য সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "অনলাইন বৈঠক ১১ নভেম্বর ২০২৬",
        "তিন খাত: সিরামিক, প্লাস্টিক, চামড়াজাত পণ্য",
        "এফবিসিসিআই প্রশাসকের আমন্ত্রণ"
       ]
      },
-     {
+     "analytical": {
       "question": "বাংলাদেশে বিদেশি বিনিয়োগ আকৃষ্ট করতে বাণিজ্য সংগঠনগুলোর ভূমিকা বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "নীতি পরামর্শে বেসরকারি খাতের প্রতিনিধিত্ব",
        "বিদেশি উদ্যোক্তাদের সঙ্গে সংযোগ ও আস্থা তৈরি",
        "খাতভিত্তিক সম্ভাবনা তুলে ধরা (যেমন সিরামিক, চামড়া)"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "entrepreneur",
-      "bangla_meaning": "উদ্যোক্তা; ব্যবসায়ী",
+      "meaning_bn": "উদ্যোক্তা; ব্যবসায়ী",
       "example": "The FBCCI administrator invited Kuwaiti entrepreneurs to invest in Bangladesh.",
-      "synonym": "businessperson; founder",
-      "antonym": "employee"
+      "synonyms": [
+       "businessperson",
+       "founder"
+      ],
+      "antonyms": [
+       "employee"
+      ]
      },
      {
       "word": "cooperation",
-      "bangla_meaning": "সহযোগিতা; যৌথ কাজ",
+      "meaning_bn": "সহযোগিতা; যৌথ কাজ",
       "example": "Both sides aim to expand bilateral trade and economic cooperation.",
-      "synonym": "collaboration; partnership",
-      "antonym": "conflict; rivalry"
+      "synonyms": [
+       "collaboration",
+       "partnership"
+      ],
+      "antonyms": [
+       "conflict",
+       "rivalry"
+      ]
      },
      {
       "word": "investment",
-      "bangla_meaning": "বিনিয়োগ; লাভের আশায় অর্থ খাটানো",
+      "meaning_bn": "বিনিয়োগ; লাভের আশায় অর্থ খাটানো",
       "example": "Businesspeople expressed interest in joint investment.",
-      "synonym": "funding; capital",
-      "antonym": "divestment"
+      "synonyms": [
+       "funding",
+       "capital"
+      ],
+      "antonyms": [
+       "divestment"
+      ]
      },
      {
       "word": "bilateral",
-      "bangla_meaning": "দ্বিপক্ষীয়; দুই দেশের মধ্যে",
+      "meaning_bn": "দ্বিপক্ষীয়; দুই দেশের মধ্যে",
       "example": "Both sides discussed opportunities to deepen bilateral ties.",
-      "synonym": "two-sided",
-      "antonym": "multilateral"
+      "synonyms": [
+       "two-sided"
+      ],
+      "antonyms": [
+       "multilateral"
+      ]
      },
      {
       "word": "trade",
-      "bangla_meaning": "বাণিজ্য; কেনাবেচা",
+      "meaning_bn": "বাণিজ্য; কেনাবেচা",
       "example": "The meeting aimed to expand bilateral trade.",
-      "synonym": "commerce; exchange",
-      "antonym": "—"
+      "synonyms": [
+       "commerce",
+       "exchange"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -3385,7 +3736,14 @@
      "label": "২০২৫ শেষে বাংলাদেশের বৈদেশিক ঋণ",
      "figure": "১১৩.৪৪ বিলিয়ন ডলার"
     },
-    "news_summary": "অর্থনীতিবিদ ফাহমিদা খাতুন লিখেছেন, ২০২৫ সালের শেষে বাংলাদেশের বৈদেশিক ঋণ ১১৩.৪৪ বিলিয়ন ডলার — মাথাপিছু প্রায় ৬৪৬ ডলার — তাই এলডিসি থেকে উত্তরণের আগে টেকসই ঋণ ব্যবস্থাপনা নীতি দরকার। ঋণ ছিল মোট জাতীয় আয়ের ২৩.৬% ও রপ্তানির ২১০.৫%, আর ঋণ পরিশোধে গেছে রপ্তানি আয়ের ১৫.৭%। তিনি নির্ভরযোগ্য মধ্যমেয়াদি রাজস্ব পরিকল্পনা, পুরো সরকারি খাতের ঋণ ব্যবস্থাপনা ও সরকারি বিনিয়োগের কঠোর পর্যালোচনা চেয়েছেন।",
+    "news_summary": {
+     "text": "অর্থনীতিবিদ ফাহমিদা খাতুন লিখেছেন, ২০২৫ সালের শেষে বাংলাদেশের বৈদেশিক ঋণ ১১৩.৪৪ বিলিয়ন ডলার — মাথাপিছু প্রায় ৬৪৬ ডলার — তাই এলডিসি থেকে উত্তরণের আগে টেকসই ঋণ ব্যবস্থাপনা নীতি দরকার। ঋণ ছিল মোট জাতীয় আয়ের ২৩.৬% ও রপ্তানির ২১০.৫%, আর ঋণ পরিশোধে গেছে রপ্তানি আয়ের ১৫.৭%। তিনি নির্ভরযোগ্য মধ্যমেয়াদি রাজস্ব পরিকল্পনা, পুরো সরকারি খাতের ঋণ ব্যবস্থাপনা ও সরকারি বিনিয়োগের কঠোর পর্যালোচনা চেয়েছেন।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-10",
+      "url": "https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606"
+     }
+    },
     "verified_facts": [
      {
       "label": "বৈদেশিক ঋণ",
@@ -3482,138 +3840,169 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "মাথাপিছু ঋণ একা যথেষ্ট নয়: দেশের আয়, রপ্তানি, সুদের হার ও শোধের সময়সূচি একসঙ্গে দেখতে হয়।",
-      "ইবিএ (Everything But Arms): ইউরোপীয় ইউনিয়নের সুবিধা — এলডিসি দেশগুলো শুল্কমুক্ত বাজার পায়; উত্তরণের পর তিন বছরের ক্রান্তিকাল দেওয়া হয়, পরে জিএসপি+ পাওয়ার সুযোগ থাকে।",
-      "টেকসই ঋণ নীতি: নিয়মিত হালনাগাদ ঋণ কৌশল, মুদ্রা-সুদ-মেয়াদ-ঋণদাতাভিত্তিক বিবরণ ও বার্ষিক পরিশোধের হিসাব।"
-     ],
-     "institutions": [
-      {
-       "name": "বিশ্বব্যাংক",
-       "role": "আন্তর্জাতিক ঋণ প্রতিবেদন (International Debt Report) প্রকাশ করে; বাংলাদেশের বড় বহুপক্ষীয় ঋণদাতা"
-      },
-      {
-       "name": "আন্তর্জাতিক মুদ্রা তহবিল (আইএমএফ)",
-       "role": "মোট সরকারি ঋণ ও অর্থনৈতিক স্থিতি মূল্যায়ন করে"
-      },
-      {
-       "name": "সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)",
-       "role": "বাংলাদেশের বেসরকারি গবেষণা প্রতিষ্ঠান; ঋণ নীতি নিয়ে গবেষণা ও মতামত দেয়"
-      }
-     ],
-     "sources": [
-      {
-       "name": "UN-OHRLLS — Least Developed Countries Category",
-       "url": "https://www.un.org/ohrlls/node/1330"
-      },
-      {
-       "name": "Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)",
-       "url": "https://cpd.org.bd/bangladesh-needs-a-sustainable-debt-management-policy/"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "১১৩.৪৪ বিলিয়ন ডলার",
-       "B": "৩৮.৭৭ বিলিয়ন ডলার",
-       "C": "৫৬৪ বিলিয়ন ডলার",
-       "D": "৬৪৬ বিলিয়ন ডলার"
-      },
-      "explanation": "বিশ্বব্যাংকের আন্তর্জাতিক ঋণ প্রতিবেদন ২০২৬ অনুযায়ী বৈদেশিক ঋণ ছিল ১১৩.৪৪ বিলিয়ন ডলার।",
-      "correct": "A",
-      "question": "২০২৫ সালের শেষে বাংলাদেশের বৈদেশিক ঋণ কত ছিল?"
+      "name": "বিশ্বব্যাংক",
+      "role": "আন্তর্জাতিক ঋণ প্রতিবেদন (International Debt Report) প্রকাশ করে; বাংলাদেশের বড় বহুপক্ষীয় ঋণদাতা",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
      },
      {
-      "options": {
-       "A": "৫৬৪ ডলার",
-       "B": "৬৪৬ ডলার",
-       "C": "৩৮.৭৭ ডলার",
-       "D": "১১৩.৪৪ ডলার"
-      },
-      "explanation": "কলাম অনুযায়ী মাথাপিছু বৈদেশিক ঋণ প্রায় ৬৪৬ ডলার।",
-      "correct": "B",
-      "question": "মাথাপিছু বৈদেশিক ঋণ প্রায় কত ডলার?"
+      "name": "আন্তর্জাতিক মুদ্রা তহবিল (আইএমএফ)",
+      "role": "মোট সরকারি ঋণ ও অর্থনৈতিক স্থিতি মূল্যায়ন করে",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
      },
      {
-      "options": {
-       "A": "২টি",
-       "B": "৪টি",
-       "C": "৩টি",
-       "D": "৫টি"
-      },
-      "explanation": "জাতিসংঘের তিনটি মানদণ্ড — জিএনআই, এইচএআই ও ইভিআই।",
-      "correct": "C",
-      "question": "এলডিসি উত্তরণের মানদণ্ড কয়টি?"
-     },
-     {
-      "options": {
-       "A": "১৫.৭%",
-       "B": "৩২.৮%",
-       "C": "৪১.৩%",
-       "D": "২৩.৬%"
-      },
-      "explanation": "কলাম অনুযায়ী ২০২৫ সালে বৈদেশিক ঋণ ছিল মোট জাতীয় আয়ের ২৩.৬%।",
-      "correct": "D",
-      "question": "২০২৫ সালে বৈদেশিক ঋণ মোট জাতীয় আয়ের কত শতাংশ ছিল?"
+      "name": "সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)",
+      "role": "বাংলাদেশের বেসরকারি গবেষণা প্রতিষ্ঠান; ঋণ নীতি নিয়ে গবেষণা ও মতামত দেয়",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "মাথাপিছু ঋণ একা যথেষ্ট নয়",
+      "meaning": "দেশের আয়, রপ্তানি, সুদের হার ও শোধের সময়সূচি একসঙ্গে দেখতে হয়।",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
+     },
+     {
+      "term": "ইবিএ",
+      "full_name": "Everything But Arms",
+      "meaning": "ইউরোপীয় ইউনিয়নের সুবিধা — এলডিসি দেশগুলো শুল্কমুক্ত বাজার পায়; উত্তরণের পর তিন বছরের ক্রান্তিকাল দেওয়া হয়, পরে জিএসপি+ পাওয়ার সুযোগ থাকে।",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
+     },
+     {
+      "term": "টেকসই ঋণ নীতি",
+      "meaning": "নিয়মিত হালনাগাদ ঋণ কৌশল, মুদ্রা-সুদ-মেয়াদ-ঋণদাতাভিত্তিক বিবরণ ও বার্ষিক পরিশোধের হিসাব।",
+      "source": "UN-OHRLLS — Least Developed Countries Category; Centre for Policy Dialogue — Bangladesh needs a sustainable debt management policy (Dr Fahmida Khatun, originally The Daily Star, 10 Nov 2026)"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "২০২৫ সালের শেষে বাংলাদেশের বৈদেশিক ঋণ কত ছিল?",
+      "options": [
+       "১১৩.৪৪ বিলিয়ন ডলার",
+       "৩৮.৭৭ বিলিয়ন ডলার",
+       "৫৬৪ বিলিয়ন ডলার",
+       "৬৪৬ বিলিয়ন ডলার"
+      ],
+      "correct": 0,
+      "explanation": "বিশ্বব্যাংকের আন্তর্জাতিক ঋণ প্রতিবেদন ২০২৬ অনুযায়ী বৈদেশিক ঋণ ছিল ১১৩.৪৪ বিলিয়ন ডলার।"
+     },
+     {
+      "question": "মাথাপিছু বৈদেশিক ঋণ প্রায় কত ডলার?",
+      "options": [
+       "৫৬৪ ডলার",
+       "৬৪৬ ডলার",
+       "৩৮.৭৭ ডলার",
+       "১১৩.৪৪ ডলার"
+      ],
+      "correct": 1,
+      "explanation": "কলাম অনুযায়ী মাথাপিছু বৈদেশিক ঋণ প্রায় ৬৪৬ ডলার।"
+     },
+     {
+      "question": "এলডিসি উত্তরণের মানদণ্ড কয়টি?",
+      "options": [
+       "২টি",
+       "৪টি",
+       "৩টি",
+       "৫টি"
+      ],
+      "correct": 2,
+      "explanation": "জাতিসংঘের তিনটি মানদণ্ড — জিএনআই, এইচএআই ও ইভিআই।"
+     },
+     {
+      "question": "২০২৫ সালে বৈদেশিক ঋণ মোট জাতীয় আয়ের কত শতাংশ ছিল?",
+      "options": [
+       "১৫.৭%",
+       "৩২.৮%",
+       "৪১.৩%",
+       "২৩.৬%"
+      ],
+      "correct": 3,
+      "explanation": "কলাম অনুযায়ী ২০২৫ সালে বৈদেশিক ঋণ ছিল মোট জাতীয় আয়ের ২৩.৬%।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশের বৈদেশিক ঋণের মূল সংখ্যাগুলো দিয়ে সংক্ষিপ্ত নোট লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "১১৩.৪৪ বিলিয়ন ডলার; মাথাপিছু ৬৪৬ ডলার",
        "জিএনআইয়ের ২৩.৬%, রপ্তানির ২১০.৫%, পরিশোধ রপ্তানি আয়ের ১৫.৭%",
        "২০১৫ সালের ৩৮.৭৭ বিলিয়ন থেকে প্রায় তিন গুণ"
       ]
      },
-     {
+     "analytical": {
       "question": "এলডিসি উত্তরণের আগে বাংলাদেশের টেকসই ঋণ নীতি কেন দরকার? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "উত্তরণে রেয়াতি ঋণ ও বাণিজ্য সুবিধা কমার ঝুঁকি",
        "ঋণ পরিশোধের চাপ ও রপ্তানি আয়ের সীমা",
        "সমাধান: রাজস্ব পরিকল্পনা, পুরো সরকারি খাতের ঋণ ব্যবস্থাপনা, বিনিয়োগ পর্যালোচনা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "concessional",
-      "bangla_meaning": "রেয়াতি; সহজ শর্তে দেওয়া (ঋণ)",
+      "meaning_bn": "রেয়াতি; সহজ শর্তে দেওয়া (ঋণ)",
       "example": "Concessional debt accounted for about 32.8 percent of external debt.",
-      "synonym": "preferential; low-interest",
-      "antonym": "commercial; market-rate"
+      "synonyms": [
+       "preferential",
+       "low-interest"
+      ],
+      "antonyms": [
+       "commercial",
+       "market-rate"
+      ]
      },
      {
       "word": "repayment",
-      "bangla_meaning": "পরিশোধ; ধার শোধ করা",
+      "meaning_bn": "পরিশোধ; ধার শোধ করা",
       "example": "A debt strategy must detail annual repayment obligations.",
-      "synonym": "reimbursement; settlement",
-      "antonym": "default; non-payment"
+      "synonyms": [
+       "reimbursement",
+       "settlement"
+      ],
+      "antonyms": [
+       "default",
+       "non-payment"
+      ]
      },
      {
       "word": "durable",
-      "bangla_meaning": "টেকসই; স্থায়ী; দীর্ঘস্থায়ী",
+      "meaning_bn": "টেকসই; স্থায়ী; দীর্ঘস্থায়ী",
       "example": "The economy has not yet achieved durable stabilisation.",
-      "synonym": "lasting; enduring",
-      "antonym": "fragile; short-lived"
+      "synonyms": [
+       "lasting",
+       "enduring"
+      ],
+      "antonyms": [
+       "fragile",
+       "short-lived"
+      ]
      },
      {
       "word": "debt",
-      "bangla_meaning": "ঋণ; ধার",
+      "meaning_bn": "ঋণ; ধার",
       "example": "External debt stood at $113.44 billion at the end of 2025.",
-      "synonym": "loan; liability",
-      "antonym": "asset; credit"
+      "synonyms": [
+       "loan",
+       "liability"
+      ],
+      "antonyms": [
+       "asset",
+       "credit"
+      ]
      },
      {
       "word": "sustainable",
-      "bangla_meaning": "টেকসই; দীর্ঘদিন চালিয়ে যাওয়া যায় এমন",
+      "meaning_bn": "টেকসই; দীর্ঘদিন চালিয়ে যাওয়া যায় এমন",
       "example": "Bangladesh needs a sustainable debt management policy.",
-      "synonym": "viable; maintainable",
-      "antonym": "unsustainable"
+      "synonyms": [
+       "viable",
+       "maintainable"
+      ],
+      "antonyms": [
+       "unsustainable"
+      ]
      }
     ],
     "revision": {
@@ -3733,7 +4122,14 @@
      "label": "বিকাশে শনাক্ত সন্দেহজনক ভুয়া অ্যাকাউন্ট",
      "figure": "৭,০০০+"
     },
-    "news_summary": "৭,০০০-এর বেশি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়ার পর বাংলাদেশ ব্যাংক দেশের শীর্ষ মোবাইল আর্থিক সেবা বিকাশের কাছে ব্যাখ্যা চেয়েছে। কিছু অ্যাকাউন্টে বয়স ১০০ থেকে ১৫০ বছর লেখা ছিল, আর অনেক অ্যাকাউন্টে অতিরিক্ত লেনদেন দেখা গেছে। ৩ নভেম্বর কেন্দ্রীয় ব্যাংক জানতে চেয়েছে, বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিটের (বিএফআইইউ) গ্রাহক-পরিচয় যাচাই (কেওয়াইসি) নির্দেশনা ভঙ্গের জন্য বিকাশকে কেন জরিমানা করা হবে না।",
+    "news_summary": {
+     "text": "৭,০০০-এর বেশি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়ার পর বাংলাদেশ ব্যাংক দেশের শীর্ষ মোবাইল আর্থিক সেবা বিকাশের কাছে ব্যাখ্যা চেয়েছে। কিছু অ্যাকাউন্টে বয়স ১০০ থেকে ১৫০ বছর লেখা ছিল, আর অনেক অ্যাকাউন্টে অতিরিক্ত লেনদেন দেখা গেছে। ৩ নভেম্বর কেন্দ্রীয় ব্যাংক জানতে চেয়েছে, বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিটের (বিএফআইইউ) গ্রাহক-পরিচয় যাচাই (কেওয়াইসি) নির্দেশনা ভঙ্গের জন্য বিকাশকে কেন জরিমানা করা হবে না।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-10",
+      "url": "https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301"
+     }
+    },
     "verified_facts": [
      {
       "label": "ভুয়া অ্যাকাউন্ট",
@@ -3816,134 +4212,165 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪: পেমেন্ট ব্যবস্থার আইনি কাঠামো; এর ৩৭ ধারায় ব্যাখ্যা চাওয়া হয়েছে।",
-      "বায়োমেট্রিক যাচাই: আঙুলের ছাপ বা মুখের ছবি মিলিয়ে পরিচয় নিশ্চিত করা; এনআইডি ডেটাবেসের সঙ্গে মেলানো হয়।",
-      "ভুয়া অ্যাকাউন্টের ঝুঁকি: জুয়া, বাজি ও ক্রিপ্টো লেনদেনসহ অবৈধ অর্থপ্রবাহ — তাই কেওয়াইসি পরীক্ষায় উত্তীর্ণ হওয়া জরুরি।"
-     ],
-     "institutions": [
-      {
-       "name": "বাংলাদেশ ব্যাংক",
-       "role": "কেন্দ্রীয় ব্যাংক ও পেমেন্ট ব্যবস্থার নিয়ন্ত্রক"
-      },
-      {
-       "name": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট (বিএফআইইউ)",
-       "role": "অর্থ পাচার ও সন্ত্রাসে অর্থায়ন প্রতিরোধে কেওয়াইসি নির্দেশনা ও তদারকি"
-      },
-      {
-       "name": "বিকাশ",
-       "role": "দেশের শীর্ষ মোবাইল আর্থিক সেবা; ব্র্যাক ব্যাংকের সহযোগী প্রতিষ্ঠান"
-      }
-     ],
-     "sources": [
-      {
-       "name": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026",
-       "url": "https://www.bb.org.bd/aboutus/regulationguideline/brpd/ekyc2026.pdf"
-      }
-     ]
-    },
-    "mcq_practice": [
+    "institutions": [
      {
-      "options": {
-       "A": "৭,০০০-এর বেশি",
-       "B": "৭০০-এর বেশি",
-       "C": "৭০,০০০-এর বেশি",
-       "D": "৭০-এর বেশি"
-      },
-      "explanation": "সংবাদ অনুযায়ী ৭,০০০-এর বেশি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়েছে।",
-      "correct": "A",
-      "question": "বিকাশে কতটি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়েছে?"
+      "name": "বাংলাদেশ ব্যাংক",
+      "role": "কেন্দ্রীয় ব্যাংক ও পেমেন্ট ব্যবস্থার নিয়ন্ত্রক",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
      },
      {
-      "options": {
-       "A": "মানি লন্ডারিং আইনের ২৫ ধারায়",
-       "B": "পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪-এর ৩৭ ধারায়",
-       "C": "ব্যাংক কোম্পানি আইনের ৩৭ ধারায়",
-       "D": "বাংলাদেশ ব্যাংক আদেশের ৭ ধারায়"
-      },
-      "explanation": "সংবাদ অনুযায়ী ব্যাখ্যা চাওয়া হয়েছে পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪-এর ৩৭ ধারায়।",
-      "correct": "B",
-      "question": "বাংলাদেশ ব্যাংক কোন আইনের কত ধারায় ব্যাখ্যা চেয়েছে?"
+      "name": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট (বিএফআইইউ)",
+      "role": "অর্থ পাচার ও সন্ত্রাসে অর্থায়ন প্রতিরোধে কেওয়াইসি নির্দেশনা ও তদারকি",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
      },
      {
-      "options": {
-       "A": "৩ নভেম্বর ২০২৬",
-       "B": "৮ জানুয়ারি ২০২৪",
-       "C": "৮ জানুয়ারি ২০২০",
-       "D": "মার্চ ২০২৬"
-      },
-      "explanation": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী প্রথম ই-কেওয়াইসি নির্দেশনা জারি হয় ৮ জানুয়ারি ২০২০ (বিএফআইইউ সার্কুলার নং ২৫)।",
-      "correct": "C",
-      "question": "বিএফআইইউর প্রথম ই-কেওয়াইসি নির্দেশনা কবে জারি হয়?"
-     },
-     {
-      "options": {
-       "A": "৮.৫ কোটি",
-       "B": "৭ কোটি",
-       "C": "৩ কোটি",
-       "D": "৪.২০ কোটি"
-      },
-      "explanation": "সংবাদ অনুযায়ী বিকাশের ৮.৫ কোটি নিবন্ধিত অ্যাকাউন্টের মধ্যে ৪.২০ কোটি সক্রিয়।",
-      "correct": "D",
-      "question": "বিকাশের কত কোটি অ্যাকাউন্ট সক্রিয়?"
+      "name": "বিকাশ",
+      "role": "দেশের শীর্ষ মোবাইল আর্থিক সেবা; ব্র্যাক ব্যাংকের সহযোগী প্রতিষ্ঠান",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪",
+      "meaning": "পেমেন্ট ব্যবস্থার আইনি কাঠামো; এর ৩৭ ধারায় ব্যাখ্যা চাওয়া হয়েছে।",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
+     },
+     {
+      "term": "বায়োমেট্রিক যাচাই",
+      "meaning": "আঙুলের ছাপ বা মুখের ছবি মিলিয়ে পরিচয় নিশ্চিত করা; এনআইডি ডেটাবেসের সঙ্গে মেলানো হয়।",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
+     },
+     {
+      "term": "ভুয়া অ্যাকাউন্টের ঝুঁকি",
+      "meaning": "জুয়া, বাজি ও ক্রিপ্টো লেনদেনসহ অবৈধ অর্থপ্রবাহ — তাই কেওয়াইসি পরীক্ষায় উত্তীর্ণ হওয়া জরুরি।",
+      "source": "Bangladesh Bank — Guidelines on Electronic Know Your Customer (e-KYC), March 2026"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "বিকাশে কতটি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়েছে?",
+      "options": [
+       "৭,০০০-এর বেশি",
+       "৭০০-এর বেশি",
+       "৭০,০০০-এর বেশি",
+       "৭০-এর বেশি"
+      ],
+      "correct": 0,
+      "explanation": "সংবাদ অনুযায়ী ৭,০০০-এর বেশি সন্দেহজনক ভুয়া অ্যাকাউন্ট ধরা পড়েছে।"
+     },
+     {
+      "question": "বাংলাদেশ ব্যাংক কোন আইনের কত ধারায় ব্যাখ্যা চেয়েছে?",
+      "options": [
+       "মানি লন্ডারিং আইনের ২৫ ধারায়",
+       "পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪-এর ৩৭ ধারায়",
+       "ব্যাংক কোম্পানি আইনের ৩৭ ধারায়",
+       "বাংলাদেশ ব্যাংক আদেশের ৭ ধারায়"
+      ],
+      "correct": 1,
+      "explanation": "সংবাদ অনুযায়ী ব্যাখ্যা চাওয়া হয়েছে পেমেন্ট অ্যান্ড সেটেলমেন্ট আইন, ২০২৪-এর ৩৭ ধারায়।"
+     },
+     {
+      "question": "বিএফআইইউর প্রথম ই-কেওয়াইসি নির্দেশনা কবে জারি হয়?",
+      "options": [
+       "৩ নভেম্বর ২০২৬",
+       "৮ জানুয়ারি ২০২৪",
+       "৮ জানুয়ারি ২০২০",
+       "মার্চ ২০২৬"
+      ],
+      "correct": 2,
+      "explanation": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী প্রথম ই-কেওয়াইসি নির্দেশনা জারি হয় ৮ জানুয়ারি ২০২০ (বিএফআইইউ সার্কুলার নং ২৫)।"
+     },
+     {
+      "question": "বিকাশের কত কোটি অ্যাকাউন্ট সক্রিয়?",
+      "options": [
+       "৮.৫ কোটি",
+       "৭ কোটি",
+       "৩ কোটি",
+       "৪.২০ কোটি"
+      ],
+      "correct": 3,
+      "explanation": "সংবাদ অনুযায়ী বিকাশের ৮.৫ কোটি নিবন্ধিত অ্যাকাউন্টের মধ্যে ৪.২০ কোটি সক্রিয়।"
+     }
+    ],
+    "written_prep": {
+     "short": {
       "question": "বিকাশের ভুয়া অ্যাকাউন্ট ঘটনার মূল তথ্য সংক্ষেপে লেখো।",
-      "type": "সংক্ষিপ্ত প্রশ্ন",
       "outline": [
        "৭,০০০+ ভুয়া অ্যাকাউন্ট; বয়স ১০০–১৫০ বছর",
        "৩ নভেম্বর ব্যাখ্যা চাওয়া, ৩৭ ধারা; জরিমানা এখনো হয়নি",
        "বিকাশের জবাব: এনআইডির ভুল, ইডিডির আওতায়"
       ]
      },
-     {
+     "analytical": {
       "question": "মোবাইল আর্থিক সেবায় ভুয়া অ্যাকাউন্ট কেন বিপজ্জনক? কেওয়াইসি কীভাবে তা ঠেকায়? বিশ্লেষণ করো।",
-      "type": "বিশ্লেষণধর্মী প্রশ্ন",
       "outline": [
        "ঝুঁকি: জুয়া, বাজি, ক্রিপ্টো ও অবৈধ লেনদেন",
        "কেওয়াইসি: এনআইডি + বায়োমেট্রিক যাচাই",
        "ইডিডি: উচ্চ ঝুঁকির অ্যাকাউন্টে বাড়তি নজরদারি"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "biometric",
-      "bangla_meaning": "বায়োমেট্রিক; শারীরিক বৈশিষ্ট্য দিয়ে শনাক্তকরণ-সংক্রান্ত",
+      "meaning_bn": "বায়োমেট্রিক; শারীরিক বৈশিষ্ট্য দিয়ে শনাক্তকরণ-সংক্রান্ত",
       "example": "Identities are verified through biometric authentication against NID records.",
-      "synonym": "fingerprint-based; face-recognition",
-      "antonym": "manual; paper-based"
+      "synonyms": [
+       "fingerprint-based",
+       "face-recognition"
+      ],
+      "antonyms": [
+       "manual",
+       "paper-based"
+      ]
      },
      {
       "word": "account",
-      "bangla_meaning": "অ্যাকাউন্ট; হিসাব",
+      "meaning_bn": "অ্যাকাউন্ট; হিসাব",
       "example": "bKash has 8.5 crore registered accounts.",
-      "synonym": "profile; record",
-      "antonym": "—"
+      "synonyms": [
+       "profile",
+       "record"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "transaction",
-      "bangla_meaning": "লেনদেন; টাকা বা পণ্যের আদান-প্রদান",
+      "meaning_bn": "লেনদেন; টাকা বা পণ্যের আদান-প্রদান",
       "example": "Many accounts showed excessive transactions.",
-      "synonym": "deal; transfer",
-      "antonym": "—"
+      "synonyms": [
+       "deal",
+       "transfer"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "gambling",
-      "bangla_meaning": "জুয়া; বাজি ধরা",
+      "meaning_bn": "জুয়া; বাজি ধরা",
       "example": "Illegal transactions, online gambling and betting through MFS platforms were on the rise.",
-      "synonym": "betting; wagering",
-      "antonym": "—"
+      "synonyms": [
+       "betting",
+       "wagering"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "verification",
-      "bangla_meaning": "যাচাই; সত্যতা পরীক্ষা",
+      "meaning_bn": "যাচাই; সত্যতা পরীক্ষা",
       "example": "Customer identity is verified against the NID database.",
-      "synonym": "confirmation; authentication",
-      "antonym": "—"
+      "synonyms": [
+       "confirmation",
+       "authentication"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -5114,8 +5541,8 @@
  ],
  "approved_by": "Rudro",
  "approval_notes": "Rudro tapped 'Approve the fixed Edition 6' on 2026-11-13 00:12 Dhaka. Fixed-mcq copy (longest-correct 21/25 -> 1/25, distractors lengthened only, 54 edits across 20 questions, no correct answer/question/explanation/story/word touched, letters unchanged) swapped in as draft-2026-11-12.json; original backed up as draft-2026-11-12-original.json. CEPA wording as drafted (flagged, not settled). Pack reviewed 17/17. CORRECTION 2026-11-13 (validator gate): CA06 Ramadan list corrected to the circular's 10 items (rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices, dates) — the draft listed wheat separately and pulses/soybean-palm oil instead of lentils/edible oil. Circular verified via Prothom Alo 8 Nov verbatim list.",
- "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17",
+ "renovation_format": "learning-module-v2",
+ "renovation_date": "2026-11-18",
  "renovation_notes": [
   "Added 24 English and 24 Bangla short-answer questions for all 12 stories in this edition.",
   "Questions use facts already present in the edition; allegations and attributed claims remain attributed.",

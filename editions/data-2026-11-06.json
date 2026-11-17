@@ -101,7 +101,14 @@
      "note": "পাঁচ দিনের অস্থিরতার পর পরিস্থিতি স্বাভাবিকের দিকে",
      "figure": "৩৫%"
     },
-    "news_summary": "পাঁচ দিনের শ্রমিক অস্থিরতার পর ৬ নভেম্বর শ্রমিকেরা কাজে ফিরে যাওয়ায় পোশাক খাতে পরিস্থিতি শান্ত হয়। গাজীপুর, নারায়ণগঞ্জ ও মিরপুরে স্বাভাবিক অবস্থা অনেকটাই ফিরে আসে, তবে আশুলিয়া ও সাভারের কিছু অংশে উত্তেজনা ছিল। শুক্রবার গাজীপুরের প্রায় ৩৫ শতাংশ কারখানা খোলা ছিল বলে পুলিশ জানায়।",
+    "news_summary": {
+     "text": "পাঁচ দিনের শ্রমিক অস্থিরতার পর ৬ নভেম্বর শ্রমিকেরা কাজে ফিরে যাওয়ায় পোশাক খাতে পরিস্থিতি শান্ত হয়। গাজীপুর, নারায়ণগঞ্জ ও মিরপুরে স্বাভাবিক অবস্থা অনেকটাই ফিরে আসে, তবে আশুলিয়া ও সাভারের কিছু অংশে উত্তেজনা ছিল। শুক্রবার গাজীপুরের প্রায় ৩৫ শতাংশ কারখানা খোলা ছিল বলে পুলিশ জানায়।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816"
+     }
+    },
     "verified_facts": [
      {
       "fact": "অস্থিরতা শুরু ১ নভেম্বর, দাবি ছিল ৩০,০০০ টাকা ন্যূনতম মজুরি (বর্তমান ১২,৫০০ টাকা)",
@@ -152,125 +159,159 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "শ্রম আইনের ১৪১ ধারা অনুযায়ী মজুরি সুপারিশে বিবেচ্য: জীবনযাত্রার ব্যয়, জীবনযাত্রার মান, উৎপাদন ব্যয়, উৎপাদনশীলতা, মুদ্রাস্ফীতি ও নিয়োগকর্তার সামর্থ্য",
-      "ন্যূনতম মজুরি বোর্ড ত্রিপক্ষীয়: সরকার, মালিক ও শ্রমিক প্রতিনিধি নিয়ে গঠিত",
-      "পোশাক খাত বাংলাদেশের রপ্তানি আয়ের প্রধান উৎস; তাই মজুরি-অস্থিরতা রপ্তানি ও বৈদেশিক মুদ্রা আয়ে প্রভাব ফেলে",
-      "মনে রাখার কৌশল: মজুরি ধারা ৬২৭ → ৯৩০ → ১,৬৬২ → ৩,০০০ → ৫,৩০০ → ৮,০০০ → ১২,৫০০ (১৯৮৬–২০২৩)"
-     ],
-     "sources": [
-      {
-       "name": "The Daily New Nation — A Living Wage for Garment Workers",
-       "url": "https://dailynewnation.com/news/867867"
-      },
-      {
-       "name": "The Business Standard — RMG workers propose Tk32,000 minimum wage",
-       "url": "https://www.tbsnews.net/economy/rmg/rmg-workers-propose-tk32000-minimum-wage-owners-get-4-days-submit-counterproposal"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "ন্যূনতম মজুরি বোর্ড ত্রিপক্ষীয়",
+      "role": "সরকার, মালিক ও শ্রমিক প্রতিনিধি নিয়ে গঠিত",
+      "source": "The Daily New Nation — A Living Wage for Garment Workers; The Business Standard — RMG workers propose Tk32,000 minimum wage"
+     },
+     {
+      "name": "পোশাক",
+      "role": "খাত বাংলাদেশের রপ্তানি আয়ের প্রধান উৎস; তাই মজুরি-অস্থিরতা রপ্তানি ও বৈদেশিক মুদ্রা আয়ে প্রভাব ফেলে",
+      "source": "The Daily New Nation — A Living Wage for Garment Workers; The Business Standard — RMG workers propose Tk32,000 minimum wage"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "শ্রম আইনের ১৪১ ধারা অনুযায়ী মজুরি সুপারিশে বিবেচ্য",
+      "meaning": "জীবনযাত্রার ব্যয়, জীবনযাত্রার মান, উৎপাদন ব্যয়, উৎপাদনশীলতা, মুদ্রাস্ফীতি ও নিয়োগকর্তার সামর্থ্য",
+      "source": "The Daily New Nation — A Living Wage for Garment Workers; The Business Standard — RMG workers propose Tk32,000 minimum wage"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "মজুরি ধারা ৬২৭ → ৯৩০ → ১,৬৬২ → ৩,০০০ → ৫,৩০০ → ৮,০০০ → ১২,৫০০ (১৯৮৬–২০২৩)",
+      "source": "The Daily New Nation — A Living Wage for Garment Workers; The Business Standard — RMG workers propose Tk32,000 minimum wage"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "৬ নভেম্বর গাজীপুরের কত শতাংশ পোশাক কারখানা খোলা ছিল?",
-      "options": {
-       "A": "২৫ শতাংশ",
-       "B": "৩৫ শতাংশ",
-       "C": "৪৫ শতাংশ",
-       "D": "৫৫ শতাংশ"
-      },
-      "correct": "B",
+      "options": [
+       "২৫ শতাংশ",
+       "৩৫ শতাংশ",
+       "৪৫ শতাংশ",
+       "৫৫ শতাংশ"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে শুক্রবার গাজীপুরের প্রায় ৩৫ শতাংশ কারখানা খোলা ছিল।"
      },
      {
       "question": "পোশাক শ্রমিকদের বর্তমান ন্যূনতম মজুরি কত?",
-      "options": {
-       "A": "৮,০০০ টাকা",
-       "B": "১০,০০০ টাকা",
-       "C": "১২,৫০০ টাকা",
-       "D": "১৫,০০০ টাকা"
-      },
-      "correct": "C",
+      "options": [
+       "৮,০০০ টাকা",
+       "১০,০০০ টাকা",
+       "১২,৫০০ টাকা",
+       "১৫,০০০ টাকা"
+      ],
+      "correct": 2,
       "explanation": "২০২৩ সালের ডিসেম্বর থেকে ন্যূনতম মজুরি ১২,৫০০ টাকা।"
      },
      {
       "question": "২০১৮ সালে পোশাক শ্রমিকদের ন্যূনতম মজুরি কত ছিল?",
-      "options": {
-       "A": "৮,০০০ টাকা",
-       "B": "৫,৩০০ টাকা",
-       "C": "১২,৫০০ টাকা",
-       "D": "৩,০০০ টাকা"
-      },
-      "correct": "A",
+      "options": [
+       "৮,০০০ টাকা",
+       "৫,৩০০ টাকা",
+       "১২,৫০০ টাকা",
+       "৩,০০০ টাকা"
+      ],
+      "correct": 0,
       "explanation": "মজুরির ধারায় ২০১৮ সালের হার ছিল ৮,০০০ টাকা।"
      },
      {
       "question": "পোশাক শ্রমিকেরা ২০২৬ সালের অস্থিরতায় কত টাকা ন্যূনতম মজুরি দাবি করেছিল?",
-      "options": {
-       "A": "২০,০০০ টাকা",
-       "B": "২৫,০০০ টাকা",
-       "C": "২৩,০০০ টাকা",
-       "D": "৩০,০০০ টাকা"
-      },
-      "correct": "D",
+      "options": [
+       "২০,০০০ টাকা",
+       "২৫,০০০ টাকা",
+       "২৩,০০০ টাকা",
+       "৩০,০০০ টাকা"
+      ],
+      "correct": 3,
       "explanation": "খবরে বলা হয়েছে শ্রমিকেরা ৩০,০০০ টাকা ন্যূনতম মজুরি দাবি করেছিল।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "পোশাক খাতে বারবার মজুরি-অস্থিরতা দেখা দেয় কেন? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "মজুরি পর্যালোচনার দীর্ঘ ব্যবধান ও মুদ্রাস্ফীতিতে প্রকৃত আয় কমে যাওয়া",
        "জীবনযাত্রার ব্যয়ের সঙ্গে মজুরির ব্যবধান",
        "ত্রিপক্ষীয় আলোচনায় আস্থার ঘাটতি"
       ]
      },
-     {
+     "analytical": {
       "question": "ন্যূনতম মজুরি বাড়ানো ও রপ্তানি প্রতিযোগিতা ধরে রাখার মধ্যে ভারসাম্য কীভাবে আনা যায়? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "উৎপাদনশীলতা বাড়িয়ে মজুরি বৃদ্ধির ব্যয় মেটানো",
        "উচ্চমূল্যের পণ্যে বৈচিত্র্য আনা ও ক্রেতাদের সঙ্গে মূল্য আলোচনা",
        "শ্রমিকের দক্ষতা উন্নয়ন ও কারখানার দক্ষতা বাড়ানো"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "normalcy",
-      "bangla_meaning": "স্বাভাবিক অবস্থা",
+      "meaning_bn": "স্বাভাবিক অবস্থা",
       "example": "Normalcy largely returned to Gazipur, Narayanganj and Mirpur.",
-      "synonym": "normality, order, calm",
-      "antonym": "chaos, unrest"
+      "synonyms": [
+       "normality",
+       "order",
+       "calm"
+      ],
+      "antonyms": [
+       "chaos",
+       "unrest"
+      ]
      },
      {
       "word": "precaution",
-      "bangla_meaning": "সতর্কতামূলক ব্যবস্থা",
+      "meaning_bn": "সতর্কতামূলক ব্যবস্থা",
       "example": "Some factories remained closed as a precaution.",
-      "synonym": "safeguard, measure, care",
-      "antonym": "carelessness, risk"
+      "synonyms": [
+       "safeguard",
+       "measure",
+       "care"
+      ],
+      "antonyms": [
+       "carelessness",
+       "risk"
+      ]
      },
      {
       "word": "queue",
-      "bangla_meaning": "সারি",
+      "meaning_bn": "সারি",
       "example": "Workers were seen standing in a queue outside factories in the morning.",
-      "synonym": "line up, wait in line",
-      "antonym": "—"
+      "synonyms": [
+       "line up",
+       "wait in line"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "unrest",
-      "bangla_meaning": "অস্থিরতা",
+      "meaning_bn": "অস্থিরতা",
       "example": "After five days of labour unrest, the situation eased.",
-      "synonym": "turmoil, disturbance",
-      "antonym": "calm, peace"
+      "synonyms": [
+       "turmoil",
+       "disturbance"
+      ],
+      "antonyms": [
+       "calm",
+       "peace"
+      ]
      },
      {
       "word": "wage",
-      "bangla_meaning": "মজুরি",
+      "meaning_bn": "মজুরি",
       "example": "Workers demanded a minimum wage of Tk 30,000.",
-      "synonym": "pay, salary",
-      "antonym": "—"
+      "synonyms": [
+       "pay",
+       "salary"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -385,7 +426,14 @@
      "note": "১০০ জনের বেশি ব্যক্তি ও প্রায় ১২৫টি কোম্পানি",
      "figure": "২২৫"
     },
-    "news_summary": "জাতীয় রাজস্ব বোর্ড (এনবিআর) পোশাক খাতে অস্থিরতায় অর্থায়নের অভিযোগে ১০০ জনের বেশি ব্যক্তির ব্যাংক হিসাব জব্দ করতে ব্যাংকগুলোকে বলেছে এবং প্রায় ১২৫টি কোম্পানির লেনদেন খতিয়ে দেখছে। কেন্দ্রীয় গোয়েন্দা সেল ও আয়কর গোয়েন্দা ও তদন্ত ইউনিট হিসাবগুলো অনুসরণ করছে। কোম্পানির হিসাব জব্দ করা হচ্ছে না, তাই ব্যবসা ও শ্রমিকদের বেতন চলবে।",
+    "news_summary": {
+     "text": "জাতীয় রাজস্ব বোর্ড (এনবিআর) পোশাক খাতে অস্থিরতায় অর্থায়নের অভিযোগে ১০০ জনের বেশি ব্যক্তির ব্যাংক হিসাব জব্দ করতে ব্যাংকগুলোকে বলেছে এবং প্রায় ১২৫টি কোম্পানির লেনদেন খতিয়ে দেখছে। কেন্দ্রীয় গোয়েন্দা সেল ও আয়কর গোয়েন্দা ও তদন্ত ইউনিট হিসাবগুলো অনুসরণ করছে। কোম্পানির হিসাব জব্দ করা হচ্ছে না, তাই ব্যবসা ও শ্রমিকদের বেতন চলবে।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846"
+     }
+    },
     "verified_facts": [
      {
       "fact": "১০০ জনের বেশি ব্যক্তির হিসাব জব্দের নির্দেশ; প্রায় ১২৫টি কোম্পানির লেনদেন খতিয়ে দেখা হচ্ছে",
@@ -432,121 +480,161 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "এনবিআরের করের মধ্যে আছে: শুল্ক, ভ্যাট, সম্পূরক শুল্ক, ব্যক্তিগত আয়কর ও করপোরেট আয়কর",
-      "আয়কর আইন ২০২৩ ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ — এনবিআর পরিচালিত প্রধান দুটি আইন",
-      "অর্থ পাচার (money laundering) মানে অবৈধ অর্থকে বৈধ দেখানো; এর তদন্তে যুক্ত সংস্থা: এনবিআরের সিআইসি, বিএফআইইউ, দুদক, সিআইডি",
-      "মনে রাখার কৌশল: এনবিআর = ১৯৭২, আদেশ ৭৬; তিন শাখা — শুল্ক, ভ্যাট, আয়কর"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — National Board of Revenue",
-       "url": "https://en.banglapedia.org/index.php/National_Board_of_Revenue"
-      }
-     ]
-    },
+    "institutions": [],
+    "extra_knowledge": [
+     {
+      "term": "এনবিআরের করের মধ্যে আছে",
+      "meaning": "শুল্ক, ভ্যাট, সম্পূরক শুল্ক, ব্যক্তিগত আয়কর ও করপোরেট আয়কর",
+      "source": "Banglapedia — National Board of Revenue"
+     },
+     {
+      "term": "আয়কর আইন ২০২৩ ও মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২",
+      "meaning": "এনবিআর পরিচালিত প্রধান দুটি আইন",
+      "source": "Banglapedia — National Board of Revenue"
+     },
+     {
+      "term": "অর্থ পাচার",
+      "full_name": "money laundering",
+      "meaning": "অবৈধ অর্থকে বৈধ দেখানো; এর তদন্তে যুক্ত সংস্থা: এনবিআরের সিআইসি, বিএফআইইউ, দুদক, সিআইডি",
+      "source": "Banglapedia — National Board of Revenue"
+     },
+     {
+      "term": "মনে রাখার কৌশল: এনবিআর",
+      "meaning": "১৯৭২, আদেশ ৭৬; তিন শাখা — শুল্ক, ভ্যাট, আয়কর",
+      "source": "Banglapedia — National Board of Revenue"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "এনবিআরের নজরদারিতে মোট কত ব্যক্তি ও প্রতিষ্ঠান আছে?",
-      "options": {
-       "A": "১০০",
-       "B": "১২৫",
-       "C": "২২৫",
-       "D": "৩২৫"
-      },
-      "correct": "C",
+      "options": [
+       "১০০",
+       "১২৫",
+       "২২৫",
+       "৩২৫"
+      ],
+      "correct": 2,
       "explanation": "১০০ জনের বেশি ব্যক্তি ও প্রায় ১২৫টি কোম্পানি — মোট ২২৫।"
      },
      {
       "question": "এনবিআর কত সালে প্রতিষ্ঠিত হয়?",
-      "options": {
-       "A": "১৯৭১",
-       "B": "১৯৭২",
-       "C": "১৯৭৩",
-       "D": "১৯৭৫"
-      },
-      "correct": "B",
+      "options": [
+       "১৯৭১",
+       "১৯৭২",
+       "১৯৭৩",
+       "১৯৭৫"
+      ],
+      "correct": 1,
       "explanation": "রাষ্ট্রপতির আদেশ নং ৭৬ অনুযায়ী ১৯৭২ সালে এনবিআর প্রতিষ্ঠিত হয়।"
      },
      {
       "question": "এনবিআরের তিনটি কর-শাখা কোনগুলো?",
-      "options": {
-       "A": "শুল্ক, ভ্যাট, আয়কর",
-       "B": "শুল্ক, আবগারি, স্ট্যাম্প",
-       "C": "ভ্যাট, আয়কর, সম্পদ কর",
-       "D": "শুল্ক, ভ্যাট, জমি কর"
-      },
-      "correct": "A",
+      "options": [
+       "শুল্ক, ভ্যাট, আয়কর",
+       "শুল্ক, আবগারি, স্ট্যাম্প",
+       "ভ্যাট, আয়কর, সম্পদ কর",
+       "শুল্ক, ভ্যাট, জমি কর"
+      ],
+      "correct": 0,
       "explanation": "এনবিআরের তিন কর-শাখা: শুল্ক, ভ্যাট ও আয়কর।"
      },
      {
       "question": "কোনটি প্রত্যক্ষ কর?",
-      "options": {
-       "A": "মূল্য সংযোজন কর",
-       "B": "শুল্ক",
-       "C": "আবগারি শুল্ক",
-       "D": "আয়কর"
-      },
-      "correct": "D",
+      "options": [
+       "মূল্য সংযোজন কর",
+       "শুল্ক",
+       "আবগারি শুল্ক",
+       "আয়কর"
+      ],
+      "correct": 3,
       "explanation": "আয়কর সরাসরি আয়ের ওপর আরোপিত প্রত্যক্ষ কর; ভ্যাট ও শুল্ক পরোক্ষ কর।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "কোম্পানির হিসাব জব্দ না করে ব্যক্তির হিসাব জব্দের সিদ্ধান্ত কেন যুক্তিযুক্ত? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "ব্যবসা ও উৎপাদন সচল থাকে",
        "শ্রমিকদের বেতন বন্ধ হয় না",
        "তদন্তের লক্ষ্য অর্থায়নকারী ব্যক্তি, প্রতিষ্ঠান নয়"
       ]
      },
-     {
+     "analytical": {
       "question": "অর্থ পাচার রোধে বাংলাদেশের প্রাতিষ্ঠানিক কাঠামোর দুর্বলতা ও করণীয় বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "তদন্ত সংস্থাগুলোর মধ্যে সমন্বয়ের ঘাটতি",
        "সন্দেহজনক লেনদেন শনাক্তকরণে ব্যাংকের ভূমিকা",
        "আন্তর্জাতিক সহযোগিতা ও সম্পদ ফেরতের চ্যালেঞ্জ"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "scrutinise",
-      "bangla_meaning": "খুঁটিয়ে পরীক্ষা করা",
+      "meaning_bn": "খুঁটিয়ে পরীক্ষা করা",
       "example": "The NBR continues to scrutinise the transactions of around 125 companies.",
-      "synonym": "examine, inspect, probe",
-      "antonym": "overlook, ignore"
+      "synonyms": [
+       "examine",
+       "inspect",
+       "probe"
+      ],
+      "antonyms": [
+       "overlook",
+       "ignore"
+      ]
      },
      {
       "word": "hamper",
-      "bangla_meaning": "ব্যাহত করা",
+      "meaning_bn": "ব্যাহত করা",
       "example": "The unrest has hampered production and raised concerns about exports.",
-      "synonym": "hinder, impede, obstruct",
-      "antonym": "help, facilitate"
+      "synonyms": [
+       "hinder",
+       "impede",
+       "obstruct"
+      ],
+      "antonyms": [
+       "help",
+       "facilitate"
+      ]
      },
      {
       "word": "trace",
-      "bangla_meaning": "খুঁজে বের করা",
+      "meaning_bn": "খুঁজে বের করা",
       "example": "The scrutiny aims to trace possible funding channels.",
-      "synonym": "track, follow, find",
-      "antonym": "lose, miss"
+      "synonyms": [
+       "track",
+       "follow",
+       "find"
+      ],
+      "antonyms": [
+       "lose",
+       "miss"
+      ]
      },
      {
       "word": "freeze",
-      "bangla_meaning": "জব্দ করা",
+      "meaning_bn": "জব্দ করা",
       "example": "The NBR asked banks to freeze the accounts of more than 100 individuals.",
-      "synonym": "seize, block",
-      "antonym": "unfreeze, release"
+      "synonyms": [
+       "seize",
+       "block"
+      ],
+      "antonyms": [
+       "unfreeze",
+       "release"
+      ]
      },
      {
       "word": "allegation",
-      "bangla_meaning": "অভিযোগ",
+      "meaning_bn": "অভিযোগ",
       "example": "The accounts were frozen over allegations of financing unrest.",
-      "synonym": "accusation, charge",
-      "antonym": "—"
+      "synonyms": [
+       "accusation",
+       "charge"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -662,7 +750,14 @@
      "note": "মোট আক্রান্ত ১,৪৫,৯০৬ জন",
      "figure": "৪৫৫"
     },
-    "news_summary": "২৪ ঘণ্টায় ডেঙ্গুতে আরও ৩ জন মারা গেছে এবং ১,৫৩৫ জন হাসপাতালে ভর্তি হয়েছে বলে স্বাস্থ্য অধিদপ্তর জানিয়েছে। এতে বছরের মৃত্যু ৪৫৫ জনে ও আক্রান্তের সংখ্যা ১,৪৫,৯০৬ জনে পৌঁছেছে। বর্তমানে ৫,৭৭৩ জন রোগী হাসপাতালে চিকিৎসাধীন।",
+    "news_summary": {
+     "text": "২৪ ঘণ্টায় ডেঙ্গুতে আরও ৩ জন মারা গেছে এবং ১,৫৩৫ জন হাসপাতালে ভর্তি হয়েছে বলে স্বাস্থ্য অধিদপ্তর জানিয়েছে। এতে বছরের মৃত্যু ৪৫৫ জনে ও আক্রান্তের সংখ্যা ১,৪৫,৯০৬ জনে পৌঁছেছে। বর্তমানে ৫,৭৭৩ জন রোগী হাসপাতালে চিকিৎসাধীন।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/healthcare/disease/news/3-die-1535-hospitalised-dengue-24-hours-4317161"
+     }
+    },
     "verified_facts": [
      {
       "fact": "২৪ ঘণ্টায় মৃত্যু ৩ জন, হাসপাতালে ভর্তি ১,৫৩৫ জন (৬ নভেম্বর সকাল ৮টা পর্যন্ত)",
@@ -706,121 +801,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "স্বাস্থ্য অধিদপ্তর (Directorate General of Health Services, DGHS) স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের অধীন; এটি ডেঙ্গুসহ রোগের দৈনিক তথ্য প্রকাশ করে",
-      "পরীক্ষায় প্রায়ই আসে: ডেঙ্গুর বাহক (এডিস ইজিপ্টি), ভাইরাসের ধরন (৪টি), লক্ষণ ও প্রতিকার",
-      "প্রতিরোধ: মশার প্রজননস্থল ধ্বংস (জমে থাকা পানি), মশারি, প্রতিরোধক ব্যবহার",
-      "মনে রাখার কৌশল: ডেঙ্গু = ৪ ধরন, ৪–১০ দিনে লক্ষণ, বাহক স্ত্রী এডিস"
-     ],
-     "sources": [
-      {
-       "name": "WHO — Dengue and severe dengue (fact sheet)",
-       "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue/"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "স্বাস্থ্য অধিদপ্তর",
+      "full_name": "Directorate General of Health Services, DGHS",
+      "role": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়ের অধীন; এটি ডেঙ্গুসহ রোগের দৈনিক তথ্য প্রকাশ করে",
+      "source": "WHO — Dengue and severe dengue (fact sheet)"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "পরীক্ষায় প্রায়ই আসে",
+      "meaning": "ডেঙ্গুর বাহক (এডিস ইজিপ্টি), ভাইরাসের ধরন (৪টি), লক্ষণ ও প্রতিকার",
+      "source": "WHO — Dengue and severe dengue (fact sheet)"
+     },
+     {
+      "term": "প্রতিরোধ",
+      "meaning": "মশার প্রজননস্থল ধ্বংস (জমে থাকা পানি), মশারি, প্রতিরোধক ব্যবহার",
+      "source": "WHO — Dengue and severe dengue (fact sheet)"
+     },
+     {
+      "term": "মনে রাখার কৌশল: ডেঙ্গু",
+      "meaning": "৪ ধরন, ৪–১০ দিনে লক্ষণ, বাহক স্ত্রী এডিস",
+      "source": "WHO — Dengue and severe dengue (fact sheet)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২৪ ঘণ্টায় ডেঙ্গুতে কত জন মারা গেছে?",
-      "options": {
-       "A": "৩ জন",
-       "B": "২ জন",
-       "C": "৪ জন",
-       "D": "৫ জন"
-      },
-      "correct": "A",
+      "options": [
+       "৩ জন",
+       "২ জন",
+       "৪ জন",
+       "৫ জন"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে ২৪ ঘণ্টায় ৩ জন মারা গেছে।"
      },
      {
       "question": "ডেঙ্গুর প্রধান বাহক কোন মশা?",
-      "options": {
-       "A": "অ্যানোফিলিস",
-       "B": "কিউলেক্স",
-       "C": "এডিস ইজিপ্টি",
-       "D": "ম্যানসোনিয়া"
-      },
-      "correct": "C",
+      "options": [
+       "অ্যানোফিলিস",
+       "কিউলেক্স",
+       "এডিস ইজিপ্টি",
+       "ম্যানসোনিয়া"
+      ],
+      "correct": 2,
       "explanation": "WHO অনুযায়ী ডেঙ্গুর প্রধান বাহক স্ত্রী এডিস ইজিপ্টি মশা।"
      },
      {
       "question": "২০২৬ সালে ৬ নভেম্বর পর্যন্ত ডেঙ্গুতে মোট মৃত্যু কত?",
-      "options": {
-       "A": "৩৫৫",
-       "B": "৪৫৫",
-       "C": "৫৫৫",
-       "D": "১,২৭৬"
-      },
-      "correct": "B",
+      "options": [
+       "৩৫৫",
+       "৪৫৫",
+       "৫৫৫",
+       "১,২৭৬"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে মোট মৃত্যু ৪৫৫ জন।"
      },
      {
       "question": "ডেঙ্গু ভাইরাসের কয়টি ধরন আছে?",
-      "options": {
-       "A": "২টি",
-       "B": "৩টি",
-       "C": "৫টি",
-       "D": "৪টি"
-      },
-      "correct": "D",
+      "options": [
+       "২টি",
+       "৩টি",
+       "৫টি",
+       "৪টি"
+      ],
+      "correct": 3,
       "explanation": "ডেঙ্গু ভাইরাসের চারটি ধরন: ডেন-১ থেকে ডেন-৪।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশে প্রতি বছর ডেঙ্গু প্রকোপ বাড়ার কারণগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "নগরায়ণ ও জমে থাকা পানিতে এডিস মশার বংশবৃদ্ধি",
        "বর্ষা মৌসুম ও জলবায়ু",
        "সচেতনতা ও মশক নিধনে ঘাটতি"
       ]
      },
-     {
+     "analytical": {
       "question": "ডেঙ্গু নিয়ন্ত্রণে সরকারি ও নাগরিক পর্যায়ে কী কী পদক্ষেপ নেওয়া যায়? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "উৎস ধ্বংস: নিয়মিত পরিষ্কার-পরিচ্ছন্নতা অভিযান",
        "হাসপাতালের প্রস্তুতি ও দ্রুত শনাক্তকরণ",
        "জনসচেতনতা ও স্থানীয় সরকারের ভূমিকা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "cumulative",
-      "bangla_meaning": "ক্রমবর্ধমান",
+      "meaning_bn": "ক্রমবর্ধমান",
       "example": "The cumulative number of dengue cases reached 145,906.",
-      "synonym": "total, aggregate, accumulated",
-      "antonym": "individual, single"
+      "synonyms": [
+       "total",
+       "aggregate",
+       "accumulated"
+      ],
+      "antonyms": [
+       "individual",
+       "single"
+      ]
      },
      {
       "word": "hospitalised",
-      "bangla_meaning": "হাসপাতালে ভর্তি",
+      "meaning_bn": "হাসপাতালে ভর্তি",
       "example": "1,535 others were hospitalised in 24 hours.",
-      "synonym": "admitted",
-      "antonym": "discharged"
+      "synonyms": [
+       "admitted"
+      ],
+      "antonyms": [
+       "discharged"
+      ]
      },
      {
       "word": "toll",
-      "bangla_meaning": "মৃতের সংখ্যা",
+      "meaning_bn": "মৃতের সংখ্যা",
       "example": "The death toll reached 455.",
-      "synonym": "death count",
-      "antonym": "—"
+      "synonyms": [
+       "death count"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "outbreak",
-      "bangla_meaning": "প্রাদুর্ভাব",
+      "meaning_bn": "প্রাদুর্ভাব",
       "example": "The dengue outbreak peaks during the monsoon.",
-      "synonym": "epidemic",
-      "antonym": "—"
+      "synonyms": [
+       "epidemic"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "fatal",
-      "bangla_meaning": "প্রাণঘাতী",
+      "meaning_bn": "প্রাণঘাতী",
       "example": "Severe dengue can be fatal without treatment.",
-      "synonym": "deadly, lethal",
-      "antonym": "harmless"
+      "synonyms": [
+       "deadly",
+       "lethal"
+      ],
+      "antonyms": [
+       "harmless"
+      ]
      }
     ],
     "revision": {
@@ -937,7 +1065,14 @@
      "note": "এর মধ্যে নিশ্চিত ১০৫, সন্দেহভাজন ১,১৭১",
      "figure": "১,২৭৬"
     },
-    "news_summary": "২৪ ঘণ্টায় হাম-সদৃশ উপসর্গে আরও ৪ জন মারা গেছে, ফলে বছরের মোট মৃত্যু ১,২৭৬ জনে পৌঁছেছে বলে স্বাস্থ্য অধিদপ্তর জানিয়েছে। সন্দেহভাজন আক্রান্ত ২,৩৬,৭১৪ জন ও নিশ্চিত আক্রান্ত ২৪,২৯৪ জন। ১৫ মার্চ থেকে ২,১০,৯৮২ জন হাসপাতালে ভর্তি হয়েছে এবং ২,০২,৩৯৪ জন সুস্থ হয়েছে।",
+    "news_summary": {
+     "text": "২৪ ঘণ্টায় হাম-সদৃশ উপসর্গে আরও ৪ জন মারা গেছে, ফলে বছরের মোট মৃত্যু ১,২৭৬ জনে পৌঁছেছে বলে স্বাস্থ্য অধিদপ্তর জানিয়েছে। সন্দেহভাজন আক্রান্ত ২,৩৬,৭১৪ জন ও নিশ্চিত আক্রান্ত ২৪,২৯৪ জন। ১৫ মার্চ থেকে ২,১০,৯৮২ জন হাসপাতালে ভর্তি হয়েছে এবং ২,০২,৩৯৪ জন সুস্থ হয়েছে।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-more-die-measles-symptoms-24-hours-4317156"
+     }
+    },
     "verified_facts": [
      {
       "fact": "২৪ ঘণ্টায় হাম-সদৃশ উপসর্গে মৃত্যু ৪ জন (৬ নভেম্বর সকাল ৮টা পর্যন্ত)",
@@ -985,121 +1120,153 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "EPI (Expanded Programme on Immunization) বাংলাদেশে ১৯৭৯ সাল থেকে চলছে; সরকারি EPI টিকা বিনামূল্যে দেওয়া হয়",
-      "পরীক্ষার গুরুত্বপূর্ণ সংখ্যা: ৯৫ শতাংশ কভারেজ লক্ষ্য, এমআর ২০১২, দ্বিতীয় ডোজ ২০১৫",
-      "হাম অত্যন্ত সংক্রামক: একজন আক্রান্ত থেকে অনেকজন আক্রান্ত হতে পারে — তাই কভারেজে সামান্য ঘাটতিও প্রাদুর্ভাব ডেকে আনে",
-      "মনে রাখার কৌশল: EPI ১৯৭৯ → MR ২০১২ → MR2 ২০১৫ → ক্যাম্পেইন বন্ধ ২০২০-এর পর"
-     ],
-     "sources": [
-      {
-       "name": "CDC Emerging Infectious Diseases — Measles Resurgence, Bangladesh 2026",
-       "url": "https://wwwnc.cdc.gov/eid/article/32/11/pdfs/26-1019-combined.pdf"
-      }
-     ]
-    },
+    "institutions": [],
+    "extra_knowledge": [
+     {
+      "term": "EPI",
+      "full_name": "Expanded Programme on Immunization",
+      "meaning": "বাংলাদেশে ১৯৭৯ সাল থেকে চলছে; সরকারি EPI টিকা বিনামূল্যে দেওয়া হয়",
+      "source": "CDC Emerging Infectious Diseases — Measles Resurgence, Bangladesh 2026"
+     },
+     {
+      "term": "পরীক্ষার গুরুত্বপূর্ণ সংখ্যা",
+      "meaning": "৯৫ শতাংশ কভারেজ লক্ষ্য, এমআর ২০১২, দ্বিতীয় ডোজ ২০১৫",
+      "source": "CDC Emerging Infectious Diseases — Measles Resurgence, Bangladesh 2026"
+     },
+     {
+      "term": "হাম অত্যন্ত সংক্রামক",
+      "meaning": "একজন আক্রান্ত থেকে অনেকজন আক্রান্ত হতে পারে — তাই কভারেজে সামান্য ঘাটতিও প্রাদুর্ভাব ডেকে আনে",
+      "source": "CDC Emerging Infectious Diseases — Measles Resurgence, Bangladesh 2026"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "EPI ১৯৭৯ → MR ২০১২ → MR2 ২০১৫ → ক্যাম্পেইন বন্ধ ২০২০-এর পর",
+      "source": "CDC Emerging Infectious Diseases — Measles Resurgence, Bangladesh 2026"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২৪ ঘণ্টায় হাম-সদৃশ উপসর্গে কত জন মারা গেছে?",
-      "options": {
-       "A": "৩ জন",
-       "B": "৪ জন",
-       "C": "৫ জন",
-       "D": "৬ জন"
-      },
-      "correct": "B",
+      "options": [
+       "৩ জন",
+       "৪ জন",
+       "৫ জন",
+       "৬ জন"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে ২৪ ঘণ্টায় ৪ জন মারা গেছে।"
      },
      {
       "question": "বাংলাদেশে হাম-রুবেলা (MR) টিকা কবে চালু হয়?",
-      "options": {
-       "A": "২০০৫ সালে",
-       "B": "২০১০ সালে",
-       "C": "২০১২ সালে",
-       "D": "২০১৫ সালে"
-      },
-      "correct": "C",
+      "options": [
+       "২০০৫ সালে",
+       "২০১০ সালে",
+       "২০১২ সালে",
+       "২০১৫ সালে"
+      ],
+      "correct": 2,
       "explanation": "এমআর টিকা ২০১২ সালে চালু হয়; দ্বিতীয় ডোজ ২০১৫ সালে।"
      },
      {
       "question": "সংক্রমণ ঠেকাতে WHO দুটি ডোজে কত শতাংশ কভারেজ সুপারিশ করে?",
-      "options": {
-       "A": "৮০ শতাংশ",
-       "B": "৮৫ শতাংশ",
-       "C": "৯০ শতাংশ",
-       "D": "৯৫ শতাংশ"
-      },
-      "correct": "D",
+      "options": [
+       "৮০ শতাংশ",
+       "৮৫ শতাংশ",
+       "৯০ শতাংশ",
+       "৯৫ শতাংশ"
+      ],
+      "correct": 3,
       "explanation": "WHO দুটি ডোজে অন্তত ৯৫ শতাংশ কভারেজ সুপারিশ করে।"
      },
      {
       "question": "২০২৬ সালে হামে মোট মৃত্যু (নিশ্চিত + সন্দেহভাজন) কত?",
-      "options": {
-       "A": "১,২৭৬",
-       "B": "১,১৭১",
-       "C": "১০৫",
-       "D": "২৪,২৯৪"
-      },
-      "correct": "A",
+      "options": [
+       "১,২৭৬",
+       "১,১৭১",
+       "১০৫",
+       "২৪,২৯৪"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে মোট মৃত্যু ১,২৭৬ (নিশ্চিত ১০৫ + সন্দেহভাজন ১,১৭১)।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "টিকা থাকা সত্ত্বেও ২০২৬ সালে হামের প্রাদুর্ভাব কেন ফিরল? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "২০২৪–২০২৫ সালে এমআর টিকার ঘাটতি",
        "২০২০ সালের পর দেশব্যাপী সম্পূরক ক্যাম্পেইন না হওয়া",
        "কভারেজ কমে অনেক শিশু অরক্ষিত থেকে যাওয়া"
       ]
      },
-     {
+     "analytical": {
       "question": "বাংলাদেশের টিকাদান কর্মসূচির সাফল্য ধরে রাখতে কী কী পদক্ষেপ দরকার? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "নিয়মিত টিকাদানে ৯৫ শতাংশ কভারেজ ধরে রাখা",
        "টিকার সরবরাহ শৃঙ্খল ও মজুত ব্যবস্থাপনা",
        "নিয়মিত সম্পূরক ক্যাম্পেইন ও নজরদারি"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "contagious",
-      "bangla_meaning": "সংক্রামক",
+      "meaning_bn": "সংক্রামক",
       "example": "Measles is an extremely contagious viral disease.",
-      "synonym": "infectious, transmissible",
-      "antonym": "non-contagious"
+      "synonyms": [
+       "infectious",
+       "transmissible"
+      ],
+      "antonyms": [
+       "non-contagious"
+      ]
      },
      {
       "word": "symptom",
-      "bangla_meaning": "উপসর্গ",
+      "meaning_bn": "উপসর্গ",
       "example": "Four patients died with measles-like symptoms.",
-      "synonym": "sign, indication",
-      "antonym": "—"
+      "synonyms": [
+       "sign",
+       "indication"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "outbreak",
-      "bangla_meaning": "প্রাদুর্ভাব",
+      "meaning_bn": "প্রাদুর্ভাব",
       "example": "The measles outbreak affected unvaccinated children.",
-      "synonym": "epidemic",
-      "antonym": "—"
+      "synonyms": [
+       "epidemic"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "vaccine",
-      "bangla_meaning": "টিকা",
+      "meaning_bn": "টিকা",
       "example": "A safe and effective measles vaccine has existed for decades.",
-      "synonym": "immunisation, inoculation",
-      "antonym": "—"
+      "synonyms": [
+       "immunisation",
+       "inoculation"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "immunity",
-      "bangla_meaning": "রোগ প্রতিরোধ ক্ষমতা",
+      "meaning_bn": "রোগ প্রতিরোধ ক্ষমতা",
       "example": "Two doses of vaccine are necessary for full protection.",
-      "synonym": "resistance, protection",
-      "antonym": "susceptibility"
+      "synonyms": [
+       "resistance",
+       "protection"
+      ],
+      "antonyms": [
+       "susceptibility"
+      ]
      }
     ],
     "revision": {
@@ -1220,7 +1387,14 @@
      "note": "চলতি অর্থবছরে স্বাস্থ্য খাতে সর্বোচ্চ বরাদ্দ",
      "figure": "৬৯৪.০৯ বিলিয়ন টাকা"
     },
-    "news_summary": "সরকার স্বাস্থ্যব্যবস্থা পুনর্গঠনের ব্যাপক পরিকল্পনা ঘোষণা করেছে — চলতি অর্থবছরে স্বাস্থ্য খাতে রেকর্ড ৬৯৪.০৯ বিলিয়ন টাকা বরাদ্দ দেওয়া হয়েছে, যা জাতীয় বাজেটের ৭.৪ শতাংশ। ৪৪৭.৫৭ বিলিয়ন টাকার প্রকল্পে ২০২৬ সালের ডিসেম্বর থেকে ২০২৯ সালের ডিসেম্বরের মধ্যে উপজেলা স্বাস্থ্য কমপ্লেক্সগুলো ধাপে ধাপে উন্নীত করা হবে, আর সব ৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্সকে পূর্ণাঙ্গ ১৫১ শয্যার হাসপাতালে রূপান্তর করা হবে।",
+    "news_summary": {
+     "text": "সরকার স্বাস্থ্যব্যবস্থা পুনর্গঠনের ব্যাপক পরিকল্পনা ঘোষণা করেছে — চলতি অর্থবছরে স্বাস্থ্য খাতে রেকর্ড ৬৯৪.০৯ বিলিয়ন টাকা বরাদ্দ দেওয়া হয়েছে, যা জাতীয় বাজেটের ৭.৪ শতাংশ। ৪৪৭.৫৭ বিলিয়ন টাকার প্রকল্পে ২০২৬ সালের ডিসেম্বর থেকে ২০২৯ সালের ডিসেম্বরের মধ্যে উপজেলা স্বাস্থ্য কমপ্লেক্সগুলো ধাপে ধাপে উন্নীত করা হবে, আর সব ৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্সকে পূর্ণাঙ্গ ১৫১ শয্যার হাসপাতালে রূপান্তর করা হবে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-06",
+      "url": "https://en.prothomalo.com/bangladesh/tpl7l9fui9"
+     }
+    },
     "verified_facts": [
      {
       "fact": "স্বাস্থ্য খাতে রেকর্ড বরাদ্দ ৬৯৪.০৯ বিলিয়ন টাকা — জাতীয় বাজেটের ৭.৪ শতাংশ",
@@ -1270,121 +1444,160 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "স্বাস্থ্য খাতের বরাদ্দ ৬৯৪.০৯ বিলিয়ন টাকা (বাজেটের ৭.৪%) — রেকর্ড; পরীক্ষায় সংখ্যাটি গুরুত্বপূর্ণ",
-      "৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্স → ১৫১ শয্যা; প্রকল্প ৪৪৭.৫৭ বিলিয়ন টাকা, ২০২৬–২০২৯",
-      "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয় নীতিনির্ধারণ করে; বাস্তবায়ন করে DGHS ও DGFP",
-      "মনে রাখার কৌশল: ৬৯৪.০৯ বিলিয়ন (৭.৪%) — ৫০৩ উপজেলা — ১৫১ শয্যা"
-     ],
-     "sources": [
-      {
-       "name": "DGHS Facility Registry — Upazila Health Complex profile",
-       "url": "https://hrm.dghs.gov.bd/public/facility-registry/facilities/824/profile?tab=detailed-information"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়",
+      "role": "নীতিনির্ধারণ করে; বাস্তবায়ন করে DGHS ও DGFP",
+      "source": "DGHS Facility Registry — Upazila Health Complex profile"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "স্বাস্থ্য খাতের বরাদ্দ ৬৯৪.০৯ বিলিয়ন টাকা",
+      "meaning": "স্বাস্থ্য খাতের বরাদ্দ ৬৯৪.০৯ বিলিয়ন টাকা (বাজেটের ৭.৪%) — রেকর্ড; পরীক্ষায় সংখ্যাটি গুরুত্বপূর্ণ",
+      "source": "DGHS Facility Registry — Upazila Health Complex profile"
+     },
+     {
+      "meaning": "৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্স → ১৫১ শয্যা; প্রকল্প ৪৪৭.৫৭ বিলিয়ন টাকা, ২০২৬–২০২৯",
+      "term": "৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্স → ১৫১ শয্যা",
+      "source": "DGHS Facility Registry — Upazila Health Complex profile"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "৬৯৪.০৯ বিলিয়ন (৭.৪%) — ৫০৩ উপজেলা — ১৫১ শয্যা",
+      "source": "DGHS Facility Registry — Upazila Health Complex profile"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "চলতি অর্থবছরে স্বাস্থ্য খাতে বরাদ্দ জাতীয় বাজেটের কত শতাংশ?",
-      "options": {
-       "A": "৫.৪ শতাংশ",
-       "B": "৭.৪ শতাংশ",
-       "C": "৯.৪ শতাংশ",
-       "D": "১০.৪ শতাংশ"
-      },
-      "correct": "B",
+      "options": [
+       "৫.৪ শতাংশ",
+       "৭.৪ শতাংশ",
+       "৯.৪ শতাংশ",
+       "১০.৪ শতাংশ"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে ৬৯৪.০৯ বিলিয়ন টাকা বরাদ্দ জাতীয় বাজেটের ৭.৪ শতাংশ।"
      },
      {
       "question": "উপজেলা স্বাস্থ্য কমপ্লেক্স স্বাস্থ্যব্যবস্থার কোন স্তরের প্রতিষ্ঠান?",
-      "options": {
-       "A": "প্রাথমিক স্তর",
-       "B": "তৃতীয় স্তর",
-       "C": "মাধ্যমিক স্তর",
-       "D": "বিভাগীয় স্তর"
-      },
-      "correct": "A",
+      "options": [
+       "প্রাথমিক স্তর",
+       "তৃতীয় স্তর",
+       "মাধ্যমিক স্তর",
+       "বিভাগীয় স্তর"
+      ],
+      "correct": 0,
       "explanation": "উপজেলা স্বাস্থ্য কমপ্লেক্স প্রাথমিক স্তরের সেবা দেয়।"
      },
      {
       "question": "কতটি উপজেলা স্বাস্থ্য কমপ্লেক্সকে ১৫১ শয্যার হাসপাতালে রূপান্তরের পরিকল্পনা আছে?",
-      "options": {
-       "A": "৪০৩টি",
-       "B": "৪৪৩টি",
-       "C": "৫৩০টি",
-       "D": "৫০৩টি"
-      },
-      "correct": "D",
+      "options": [
+       "৪০৩টি",
+       "৪৪৩টি",
+       "৫৩০টি",
+       "৫০৩টি"
+      ],
+      "correct": 3,
       "explanation": "খবরে বলা হয়েছে সব ৫০৩টি উপজেলা স্বাস্থ্য কমপ্লেক্সকে ১৫১ শয্যার হাসপাতালে রূপান্তর করা হবে।"
      },
      {
       "question": "উপজেলা স্বাস্থ্য কমপ্লেক্স উন্নীতকরণ প্রকল্পের ব্যয় কত?",
-      "options": {
-       "A": "৩৪৭.৫৭ বিলিয়ন টাকা",
-       "B": "৫৪৭.৫৭ বিলিয়ন টাকা",
-       "C": "৪৪৭.৫৭ বিলিয়ন টাকা",
-       "D": "৬৯৪.০৯ বিলিয়ন টাকা"
-      },
-      "correct": "C",
+      "options": [
+       "৩৪৭.৫৭ বিলিয়ন টাকা",
+       "৫৪৭.৫৭ বিলিয়ন টাকা",
+       "৪৪৭.৫৭ বিলিয়ন টাকা",
+       "৬৯৪.০৯ বিলিয়ন টাকা"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে প্রকল্পের ব্যয় ৪৪৭.৫৭ বিলিয়ন টাকা।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "উপজেলা স্বাস্থ্য কমপ্লেক্স ১৫১ শয্যায় উন্নীত হলে গ্রামীণ স্বাস্থ্যসেবায় কী পরিবর্তন আসবে? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "গ্রামে বিশেষায়িত সেবার সুযোগ বাড়বে",
        "জেলা হাসপাতালের চাপ কমবে",
        "চিকিৎসক-নার্স ও যন্ত্রপাতির ঘাটতি পূরণের চ্যালেঞ্জ"
       ]
      },
-     {
+     "analytical": {
       "question": "স্বাস্থ্য খাতে বরাদ্দ বাড়ালেই কি সেবার মান বাড়ে? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "বরাদ্দ বনাম ব্যয়ের দক্ষতা ও দুর্নীতি",
        "জনবল, ওষুধ ও যন্ত্রপাতির সমন্বয়",
        "প্রাথমিক স্বাস্থ্যসেবায় বিনিয়োগের সুফল"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "collapse",
-      "bangla_meaning": "ভেঙে পড়া",
+      "meaning_bn": "ভেঙে পড়া",
       "example": "The government inherited a collapsed healthcare system.",
-      "synonym": "fall apart, crumble, fail",
-      "antonym": "recover, rebuild"
+      "synonyms": [
+       "fall apart",
+       "crumble",
+       "fail"
+      ],
+      "antonyms": [
+       "recover",
+       "rebuild"
+      ]
      },
      {
       "word": "renovation",
-      "bangla_meaning": "সংস্কার",
+      "meaning_bn": "সংস্কার",
       "example": "Many health facilities had not received adequate repair or renovation for years.",
-      "synonym": "refurbishment, repair, renewal",
-      "antonym": "neglect, decay"
+      "synonyms": [
+       "refurbishment",
+       "repair",
+       "renewal"
+      ],
+      "antonyms": [
+       "neglect",
+       "decay"
+      ]
      },
      {
       "word": "integrated",
-      "bangla_meaning": "সমন্বিত",
+      "meaning_bn": "সমন্বিত",
       "example": "The health system must be rebuilt through an integrated plan.",
-      "synonym": "unified, combined, coordinated",
-      "antonym": "fragmented, separate"
+      "synonyms": [
+       "unified",
+       "combined",
+       "coordinated"
+      ],
+      "antonyms": [
+       "fragmented",
+       "separate"
+      ]
      },
      {
       "word": "allocate",
-      "bangla_meaning": "বরাদ্দ দেওয়া",
+      "meaning_bn": "বরাদ্দ দেওয়া",
       "example": "A record Tk 694.09 billion was allocated to the health sector.",
-      "synonym": "assign, earmark",
-      "antonym": "withhold"
+      "synonyms": [
+       "assign",
+       "earmark"
+      ],
+      "antonyms": [
+       "withhold"
+      ]
      },
      {
       "word": "upgrade",
-      "bangla_meaning": "উন্নীত করা",
+      "meaning_bn": "উন্নীত করা",
       "example": "The project will progressively upgrade upazila health complexes.",
-      "synonym": "improve, enhance",
-      "antonym": "downgrade"
+      "synonyms": [
+       "improve",
+       "enhance"
+      ],
+      "antonyms": [
+       "downgrade"
+      ]
      }
     ],
     "revision": {
@@ -1503,7 +1716,14 @@
      "note": "মাধ্যমিক বই পৌঁছেছে ৬৩.১৮%",
      "figure": "৯৬%"
     },
-    "news_summary": "কর্তৃপক্ষ আশা করছে ২০২৭ শিক্ষাবর্ষের সব পাঠ্যবই ৩০ নভেম্বরের মধ্যে উপজেলায় পৌঁছে দেওয়া হবে — ২০১০ সালের পর এই প্রথম বিতরণ নভেম্বরের মধ্যে শেষ হবে। প্রাথমিকের প্রায় ৯৬ শতাংশ ও মাধ্যমিকের ৬৩.১৮ শতাংশ বই ইতিমধ্যে উপজেলায় পৌঁছেছে, তবে প্রায় ৬.৬ কোটি মাধ্যমিক বই এখনো বাকি এবং নবম শ্রেণির বই পৌঁছেছে মাত্র ১৯.৬২ শতাংশ।",
+    "news_summary": {
+     "text": "কর্তৃপক্ষ আশা করছে ২০২৭ শিক্ষাবর্ষের সব পাঠ্যবই ৩০ নভেম্বরের মধ্যে উপজেলায় পৌঁছে দেওয়া হবে — ২০১০ সালের পর এই প্রথম বিতরণ নভেম্বরের মধ্যে শেষ হবে। প্রাথমিকের প্রায় ৯৬ শতাংশ ও মাধ্যমিকের ৬৩.১৮ শতাংশ বই ইতিমধ্যে উপজেলায় পৌঁছেছে, তবে প্রায় ৬.৬ কোটি মাধ্যমিক বই এখনো বাকি এবং নবম শ্রেণির বই পৌঁছেছে মাত্র ১৯.৬২ শতাংশ।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/govt-aims-deliver-all-textbooks-nov-4316831"
+     }
+    },
     "verified_facts": [
      {
       "fact": "লক্ষ্য: ২০২৭ শিক্ষাবর্ষের সব পাঠ্যবই ৩০ নভেম্বর ২০২৬-এর মধ্যে উপজেলায় পৌঁছে দেওয়া",
@@ -1554,121 +1774,152 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "এনসিটিবি: ১৯৮৩ সালে গঠিত (মূল ১৯৫৪); শিক্ষা মন্ত্রণালয়ের অধীন স্বায়ত্তশাসিত সংস্থা",
-      "বিনামূল্যে বই বিতরণ শুরু ২০১০ সালে, ১ম–১০ম শ্রেণি",
-      "পরীক্ষায় প্রায়ই আসে: এনসিটিবি কবে গঠিত, এর কাজ কী, বিনামূল্যে বই কবে থেকে",
-      "মনে রাখার কৌশল: ১৯৫৪ (সূচনা) → ১৯৮৩ (NCTB) → ২০১০ (বিনামূল্যে বই)"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — National Curriculum and Textbook Board",
-       "url": "https://en.banglapedia.org/index.php?title=National_Curriculum_and_Textbook_Board"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "এনসিটিবি",
+      "role": "১৯৮৩ সালে গঠিত (মূল ১৯৫৪)। শিক্ষা মন্ত্রণালয়ের অধীন স্বায়ত্তশাসিত সংস্থা। বিনামূল্যে বই বিতরণ শুরু ২০১০ সালে, ১ম–১০ম শ্রেণি",
+      "source": "Banglapedia — National Curriculum and Textbook Board"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "পরীক্ষায় প্রায়ই আসে",
+      "meaning": "এনসিটিবি কবে গঠিত, এর কাজ কী, বিনামূল্যে বই কবে থেকে",
+      "source": "Banglapedia — National Curriculum and Textbook Board"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "১৯৫৪ (সূচনা) → ১৯৮৩ (NCTB) → ২০১০ (বিনামূল্যে বই)",
+      "source": "Banglapedia — National Curriculum and Textbook Board"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২০২৭ শিক্ষাবর্ষের সব পাঠ্যবই কবে নাগাদ উপজেলায় পৌঁছে দেওয়ার লক্ষ্য?",
-      "options": {
-       "A": "৩০ অক্টোবর ২০২৬",
-       "B": "৩০ নভেম্বর ২০২৬",
-       "C": "৩১ ডিসেম্বর ২০২৬",
-       "D": "৩১ জানুয়ারি ২০২৭"
-      },
-      "correct": "B",
+      "options": [
+       "৩০ অক্টোবর ২০২৬",
+       "৩০ নভেম্বর ২০২৬",
+       "৩১ ডিসেম্বর ২০২৬",
+       "৩১ জানুয়ারি ২০২৭"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে লক্ষ্য ৩০ নভেম্বর ২০২৬-এর মধ্যে সব বই পৌঁছে দেওয়া।"
      },
      {
       "question": "NCTB কত সালে বর্তমান রূপে গঠিত হয়?",
-      "options": {
-       "A": "১৯৫৪ সালে",
-       "B": "১৯৭৬ সালে",
-       "C": "২০১০ সালে",
-       "D": "১৯৮৩ সালে"
-      },
-      "correct": "D",
+      "options": [
+       "১৯৫৪ সালে",
+       "১৯৭৬ সালে",
+       "২০১০ সালে",
+       "১৯৮৩ সালে"
+      ],
+      "correct": 3,
       "explanation": "১৯৮৩ সালে NCDC ও টেক্সটবুক বোর্ড একীভূত হয়ে NCTB হয়।"
      },
      {
       "question": "প্রাথমিক পাঠ্যবইয়ের কত শতাংশ উপজেলায় পৌঁছেছে?",
-      "options": {
-       "A": "৬৩.১৮ শতাংশ",
-       "B": "১৯.৬২ শতাংশ",
-       "C": "৯৬ শতাংশ",
-       "D": "১০০ শতাংশ"
-      },
-      "correct": "C",
+      "options": [
+       "৬৩.১৮ শতাংশ",
+       "১৯.৬২ শতাংশ",
+       "৯৬ শতাংশ",
+       "১০০ শতাংশ"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে প্রাথমিকের প্রায় ৯৬ শতাংশ বই পৌঁছেছে।"
      },
      {
       "question": "নবম শ্রেণির বইয়ের কত শতাংশ উপজেলায় পৌঁছেছে?",
-      "options": {
-       "A": "১৯.৬২ শতাংশ",
-       "B": "৩০ শতাংশ",
-       "C": "৬৩.১৮ শতাংশ",
-       "D": "৯৬ শতাংশ"
-      },
-      "correct": "A",
+      "options": [
+       "১৯.৬২ শতাংশ",
+       "৩০ শতাংশ",
+       "৬৩.১৮ শতাংশ",
+       "৯৬ শতাংশ"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে নবম শ্রেণির বই পৌঁছেছে মাত্র ১৯.৬২ শতাংশ।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "বছরের পর বছর পাঠ্যবই বিতরণে বিলম্ব হতো কেন? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "ছাপা ও কাগজ সরবরাহে বিলম্ব",
        "পরিবহন ও বিতরণ ব্যবস্থাপনার দুর্বলতা",
        "পাঠ্যক্রম পরিবর্তনে দেরি"
       ]
      },
-     {
+     "analytical": {
       "question": "সময়ে পাঠ্যবই পৌঁছে দেওয়া শিক্ষার মানের জন্য কেন গুরুত্বপূর্ণ? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "শিক্ষাবর্ষের শুরুতে বই না পেলে পাঠদান ব্যাহত হয়",
        "দরিদ্র শিক্ষার্থীরা সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়",
        "পরিকল্পনা, ছাপা ও বিতরণে সমন্বয়ের প্রয়োজন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "milestone",
-      "bangla_meaning": "মাইলফলক",
+      "meaning_bn": "মাইলফলক",
       "example": "Delivering all textbooks by November would be a milestone.",
-      "synonym": "landmark, achievement, turning point",
-      "antonym": "setback"
+      "synonyms": [
+       "landmark",
+       "achievement",
+       "turning point"
+      ],
+      "antonyms": [
+       "setback"
+      ]
      },
      {
       "word": "outstanding",
-      "bangla_meaning": "বাকি",
+      "meaning_bn": "বাকি",
       "example": "Around 6.6 crore secondary textbooks are still outstanding.",
-      "synonym": "remaining, unpaid, pending",
-      "antonym": "settled, completed"
+      "synonyms": [
+       "remaining",
+       "unpaid",
+       "pending"
+      ],
+      "antonyms": [
+       "settled",
+       "completed"
+      ]
      },
      {
       "word": "distribute",
-      "bangla_meaning": "বিতরণ করা",
+      "meaning_bn": "বিতরণ করা",
       "example": "The NCTB plans to print and distribute more than 30 crore textbooks.",
-      "synonym": "deliver, hand out",
-      "antonym": "collect"
+      "synonyms": [
+       "deliver",
+       "hand out"
+      ],
+      "antonyms": [
+       "collect"
+      ]
      },
      {
       "word": "delay",
-      "bangla_meaning": "বিলম্ব",
+      "meaning_bn": "বিলম্ব",
       "example": "After years of delays that left students waiting months.",
-      "synonym": "postponement, lag",
-      "antonym": "promptness"
+      "synonyms": [
+       "postponement",
+       "lag"
+      ],
+      "antonyms": [
+       "promptness"
+      ]
      },
      {
       "word": "academic",
-      "bangla_meaning": "শিক্ষাবর্ষ সংক্রান্ত",
+      "meaning_bn": "শিক্ষাবর্ষ সংক্রান্ত",
       "example": "Textbooks for the 2027 academic year will be delivered by 30 November.",
-      "synonym": "educational, scholastic",
-      "antonym": "—"
+      "synonyms": [
+       "educational",
+       "scholastic"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -1787,7 +2038,14 @@
      "note": "সুপারিশপ্রাপ্ত ১,৮০৭ জনের মধ্যে গেজেটভুক্ত ১,৭০২",
      "figure": "১০৫"
     },
-    "news_summary": "৪৫তম বিসিএসে নিয়োগের জন্য সুপারিশপ্রাপ্ত হয়েও চূড়ান্ত গেজেট থেকে বাদ পড়া ১০৫ প্রার্থীর বিষয়ে পুনরায় যাচাই শুরু হয়েছে, সিদ্ধান্ত আসবে এই মাসেই। সুপারিশপ্রাপ্ত ১,৮০৭ জনের মধ্যে গেজেটভুক্ত হয়েছে ১,৭০২ জন; বাদ পড়াদের মধ্যে ৪৯ জন সময়মতো কাগজপত্র জমা দিতে পারেনি, আর ৫৬ জন অন্য প্রশাসনিক কারণে — যেমন পুলিশ যাচাই — বাদ পড়েছে।",
+    "news_summary": {
+     "text": "৪৫তম বিসিএসে নিয়োগের জন্য সুপারিশপ্রাপ্ত হয়েও চূড়ান্ত গেজেট থেকে বাদ পড়া ১০৫ প্রার্থীর বিষয়ে পুনরায় যাচাই শুরু হয়েছে, সিদ্ধান্ত আসবে এই মাসেই। সুপারিশপ্রাপ্ত ১,৮০৭ জনের মধ্যে গেজেটভুক্ত হয়েছে ১,৭০২ জন; বাদ পড়াদের মধ্যে ৪৯ জন সময়মতো কাগজপত্র জমা দিতে পারেনি, আর ৫৬ জন অন্য প্রশাসনিক কারণে — যেমন পুলিশ যাচাই — বাদ পড়েছে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-06",
+      "url": "https://en.prothomalo.com/youth/employment/7faouaes9h"
+     }
+    },
     "verified_facts": [
      {
       "fact": "৪৫তম বিসিএস: সুপারিশপ্রাপ্ত ১,৮০৭, গেজেটভুক্ত ১,৭০২, বাদ ১০৫",
@@ -1838,121 +2096,155 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বিপিএসসি: সংবিধানের ১৩৭–১৪১ অনুচ্ছেদ; প্রতিষ্ঠা ১৯৭২; একীভূত কমিশন ১৯৭৭",
-      "৪৫তম বিসিএসের সংখ্যা: সুপারিশ ১,৮০৭ — গেজেট ১,৭০২ — বাদ ১০৫ (৪৯ কাগজপত্র + ৫৬ অন্যান্য)",
-      "গেজেট মানে সরকারি বিজ্ঞপ্তি; গেজেটভুক্ত হলেই নিয়োগ আনুষ্ঠানিক হয়",
-      "মনে রাখার কৌশল: ১,৮০৭ − ১,৭০২ = ১০৫; ৪৯ + ৫৬ = ১০৫"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Bangladesh Public Service Commission",
-       "url": "https://en.banglapedia.org/index.php/Bangladesh_Public_Service_Commission"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "বিপিএসসি",
+      "role": "সংবিধানের ১৩৭–১৪১ অনুচ্ছেদ। প্রতিষ্ঠা ১৯৭২। একীভূত কমিশন ১৯৭৭",
+      "source": "Banglapedia — Bangladesh Public Service Commission"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "৪৫তম বিসিএসের সংখ্যা",
+      "meaning": "সুপারিশ ১,৮০৭ — গেজেট ১,৭০২ — বাদ ১০৫ (৪৯ কাগজপত্র + ৫৬ অন্যান্য)",
+      "source": "Banglapedia — Bangladesh Public Service Commission"
+     },
+     {
+      "term": "গেজেট",
+      "meaning": "সরকারি বিজ্ঞপ্তি; গেজেটভুক্ত হলেই নিয়োগ আনুষ্ঠানিক হয়",
+      "source": "Banglapedia — Bangladesh Public Service Commission"
+     },
+     {
+      "term": "মনে রাখার কৌশল: ১,৮০৭ − ১,৭০২",
+      "meaning": "১০৫; ৪৯ + ৫৬ = ১০৫",
+      "source": "Banglapedia — Bangladesh Public Service Commission"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "৪৫তম বিসিএসে মোট কত জন প্রার্থী সুপারিশপ্রাপ্ত হয়েছিল?",
-      "options": {
-       "A": "১,৮০৭ জন",
-       "B": "১,৭০২ জন",
-       "C": "১,৯০৭ জন",
-       "D": "১,৬০২ জন"
-      },
-      "correct": "A",
+      "options": [
+       "১,৮০৭ জন",
+       "১,৭০২ জন",
+       "১,৯০৭ জন",
+       "১,৬০২ জন"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে ১,৮০৭ জন সুপারিশপ্রাপ্ত হয়েছিল।"
      },
      {
       "question": "বিপিএসসি সংবিধানের কোন অনুচ্ছেদগুলো অনুযায়ী প্রতিষ্ঠিত?",
-      "options": {
-       "A": "১৩৩–১৩৬",
-       "B": "১৩৭–১৪১",
-       "C": "১৪২–১৪৫",
-       "D": "১২৭–১৩১"
-      },
-      "correct": "B",
+      "options": [
+       "১৩৩–১৩৬",
+       "১৩৭–১৪১",
+       "১৪২–১৪৫",
+       "১২৭–১৩১"
+      ],
+      "correct": 1,
       "explanation": "বিপিএসসি সংবিধানের ১৩৭–১৪১ অনুচ্ছেদ অনুযায়ী প্রতিষ্ঠিত।"
      },
      {
       "question": "গেজেট থেকে বাদ পড়া ১০৫ জনের মধ্যে কত জন কাগজপত্র জমা দিতে পারেনি?",
-      "options": {
-       "A": "৩৯ জন",
-       "B": "৫৬ জন",
-       "C": "৪৯ জন",
-       "D": "৬৫ জন"
-      },
-      "correct": "C",
+      "options": [
+       "৩৯ জন",
+       "৫৬ জন",
+       "৪৯ জন",
+       "৬৫ জন"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে ৪৯ জন সময়মতো কাগজপত্র জমা দিতে পারেনি।"
      },
      {
       "question": "বিসিএস নিয়োগের চূড়ান্ত গেজেট কোন মন্ত্রণালয় প্রকাশ করে?",
-      "options": {
-       "A": "শিক্ষা মন্ত্রণালয়",
-       "B": "অর্থ মন্ত্রণালয়",
-       "C": "স্বরাষ্ট্র মন্ত্রণালয়",
-       "D": "জনপ্রশাসন মন্ত্রণালয়"
-      },
-      "correct": "D",
+      "options": [
+       "শিক্ষা মন্ত্রণালয়",
+       "অর্থ মন্ত্রণালয়",
+       "স্বরাষ্ট্র মন্ত্রণালয়",
+       "জনপ্রশাসন মন্ত্রণালয়"
+      ],
+      "correct": 3,
       "explanation": "গেজেট প্রকাশ করে জনপ্রশাসন মন্ত্রণালয়; বিপিএসসি শুধু সুপারিশ করে।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "সুপারিশপ্রাপ্ত হয়েও গেজেট থেকে বাদ পড়ার ঘটনা প্রার্থীদের মধ্যে কী ধরনের সমস্যা তৈরি করে? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "বছরের পর বছর প্রস্তুতির পর অনিশ্চয়তা",
        "বাদ পড়ার কারণ স্বচ্ছ না হলে আস্থার সংকট",
        "আইনি ও প্রশাসনিক জটিলতা"
       ]
      },
-     {
+     "analytical": {
       "question": "বিসিএস নিয়োগ প্রক্রিয়ায় স্বচ্ছতা ও জবাবদিহি বাড়াতে কী কী সংস্কার দরকার? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "যাচাই প্রক্রিয়ার সময়সীমা ও কারণ জানানো",
        "গেজেটে বাদ পড়ার কারণ লিখিতভাবে জানানো",
        "অভিযোগ নিষ্পত্তির দ্রুত ব্যবস্থা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "gazette",
-      "bangla_meaning": "গেজেট",
+      "meaning_bn": "গেজেট",
       "example": "105 candidates were left out of the final gazette.",
-      "synonym": "official journal, notification",
-      "antonym": "—"
+      "synonyms": [
+       "official journal",
+       "notification"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "verification",
-      "bangla_meaning": "যাচাই",
+      "meaning_bn": "যাচাই",
       "example": "56 candidates were denied appointments for reasons including police verification.",
-      "synonym": "checking, confirmation, vetting",
-      "antonym": "—"
+      "synonyms": [
+       "checking",
+       "confirmation",
+       "vetting"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "recommend",
-      "bangla_meaning": "সুপারিশ করা",
+      "meaning_bn": "সুপারিশ করা",
       "example": "The PSC recommended 1,807 candidates for appointment.",
-      "synonym": "suggest, propose",
-      "antonym": "oppose"
+      "synonyms": [
+       "suggest",
+       "propose"
+      ],
+      "antonyms": [
+       "oppose"
+      ]
      },
      {
       "word": "exclude",
-      "bangla_meaning": "বাদ দেওয়া",
+      "meaning_bn": "বাদ দেওয়া",
       "example": "105 candidates were excluded from the final gazette.",
-      "synonym": "leave out, omit",
-      "antonym": "include"
+      "synonyms": [
+       "leave out",
+       "omit"
+      ],
+      "antonyms": [
+       "include"
+      ]
      },
      {
       "word": "protest",
-      "bangla_meaning": "প্রতিবাদ",
+      "meaning_bn": "প্রতিবাদ",
       "example": "The excluded candidates had protested and staged a hunger strike.",
-      "synonym": "demonstrate, object",
-      "antonym": "accept"
+      "synonyms": [
+       "demonstrate",
+       "object"
+      ],
+      "antonyms": [
+       "accept"
+      ]
      }
     ],
     "revision": {
@@ -2078,7 +2370,14 @@
      "note": "বর্তমান ২,০০০ কোটি থেকে বাড়িয়ে ১০,০০০ কোটি",
      "figure": "১০,০০০ কোটি টাকা"
     },
-    "news_summary": "ইসলামী ব্যাংক বাংলাদেশ তাদের অনুমোদিত মূলধন ২,০০০ কোটি টাকা থেকে বাড়িয়ে ১০,০০০ কোটি টাকা করার পরিকল্পনা করেছে। এর জন্য ব্যাংকের স্মারকলিপি ও সংঘবিধি সংশোধন, বাংলাদেশ ব্যাংক ও অন্যান্য নিয়ন্ত্রকের ছাড়পত্র এবং শেয়ারহোল্ডারদের অনুমোদন দরকার। জুলাই–সেপ্টেম্বর প্রান্তিকে ব্যাংক ১,৯৭০ কোটি টাকা ক্ষতি করেছে, যার বড় কারণ এস আলম গ্রুপের সঙ্গে যুক্ত খেলাপি বিনিয়োগ।",
+    "news_summary": {
+     "text": "ইসলামী ব্যাংক বাংলাদেশ তাদের অনুমোদিত মূলধন ২,০০০ কোটি টাকা থেকে বাড়িয়ে ১০,০০০ কোটি টাকা করার পরিকল্পনা করেছে। এর জন্য ব্যাংকের স্মারকলিপি ও সংঘবিধি সংশোধন, বাংলাদেশ ব্যাংক ও অন্যান্য নিয়ন্ত্রকের ছাড়পত্র এবং শেয়ারহোল্ডারদের অনুমোদন দরকার। জুলাই–সেপ্টেম্বর প্রান্তিকে ব্যাংক ১,৯৭০ কোটি টাকা ক্ষতি করেছে, যার বড় কারণ এস আলম গ্রুপের সঙ্গে যুক্ত খেলাপি বিনিয়োগ।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/business/organisation-news/news/islami-bank-raise-authorised-capital-tk-10000cr-4316721"
+     }
+    },
     "verified_facts": [
      {
       "fact": "অনুমোদিত মূলধন: ২,০০০ কোটি থেকে ১০,০০০ কোটি টাকা (বৃদ্ধি ৮০ বিলিয়ন টাকা)",
@@ -2134,125 +2433,162 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইসলামী ব্যাংক: ১৩ মার্চ ১৯৮৩ নিবন্ধিত; দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার প্রথম শরিয়াহভিত্তিক ব্যাংক",
-      "অনুমোদিত মূলধন ২,০০০ → ১০,০০০ কোটি টাকা (বৃদ্ধি ৮০ বিলিয়ন); নয় মাসের ক্ষতি ৩৩.০৩ বিলিয়ন টাকা",
-      "খেলাপি ঋণ/বিনিয়োগ (NPL) মানে নির্ধারিত সময়ে আদায় না হওয়া ঋণ — ব্যাংকের ক্ষতির প্রধান কারণ",
-      "মনে রাখার কৌশল: ১৯৮৩ = ইসলামী ব্যাংক; ১০,০০০ কোটি = নতুন অনুমোদিত মূলধন"
-     ],
-     "sources": [
-      {
-       "name": "Islami Bank Bangladesh PLC — About Us (official)",
-       "url": "https://www.islamibankbd.com/about-us"
-      },
-      {
-       "name": "Banglapedia — Islami Banking",
-       "url": "https://en.banglapedia.org/index.php?title=Islami_Banking"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "ইসলামী ব্যাংক",
+      "role": "১৩ মার্চ ১৯৮৩ নিবন্ধিত। দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার প্রথম শরিয়াহভিত্তিক ব্যাংক",
+      "source": "Islami Bank Bangladesh PLC — About Us (official); Banglapedia — Islami Banking"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "অনুমোদিত মূলধন",
+      "meaning": "২,০০০ → ১০,০০০ কোটি টাকা (বৃদ্ধি ৮০ বিলিয়ন); নয় মাসের ক্ষতি ৩৩.০৩ বিলিয়ন টাকা",
+      "source": "Islami Bank Bangladesh PLC — About Us (official); Banglapedia — Islami Banking"
+     },
+     {
+      "term": "খেলাপি ঋণ/বিনিয়োগ",
+      "full_name": "NPL",
+      "meaning": "নির্ধারিত সময়ে আদায় না হওয়া ঋণ — ব্যাংকের ক্ষতির প্রধান কারণ",
+      "source": "Islami Bank Bangladesh PLC — About Us (official); Banglapedia — Islami Banking"
+     },
+     {
+      "term": "মনে রাখার কৌশল: ১৯৮৩",
+      "meaning": "ইসলামী ব্যাংক; ১০,০০০ কোটি = নতুন অনুমোদিত মূলধন",
+      "source": "Islami Bank Bangladesh PLC — About Us (official); Banglapedia — Islami Banking"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "ইসলামী ব্যাংক বাংলাদেশ কবে নিবন্ধিত হয়?",
-      "options": {
-       "A": "১৩ মার্চ ১৯৮৩",
-       "B": "৩০ মার্চ ১৯৮৩",
-       "C": "১২ আগস্ট ১৯৮৩",
-       "D": "১৩ মার্চ ১৯৮৫"
-      },
-      "correct": "A",
+      "options": [
+       "১৩ মার্চ ১৯৮৩",
+       "৩০ মার্চ ১৯৮৩",
+       "১২ আগস্ট ১৯৮৩",
+       "১৩ মার্চ ১৯৮৫"
+      ],
+      "correct": 0,
       "explanation": "ব্যাংকটি ১৯৮৩ সালের ১৩ মার্চ নিবন্ধিত হয়।"
      },
      {
       "question": "ইসলামী ব্যাংকের অনুমোদিত মূলধন কত থেকে কততে বাড়ানোর পরিকল্পনা?",
-      "options": {
-       "A": "১,০০০ থেকে ৫,০০০ কোটি",
-       "B": "২,০০০ থেকে ১০,০০০ কোটি",
-       "C": "৫,০০০ থেকে ১০,০০০ কোটি",
-       "D": "২,০০০ থেকে ৫,০০০ কোটি"
-      },
-      "correct": "B",
+      "options": [
+       "১,০০০ থেকে ৫,০০০ কোটি",
+       "২,০০০ থেকে ১০,০০০ কোটি",
+       "৫,০০০ থেকে ১০,০০০ কোটি",
+       "২,০০০ থেকে ৫,০০০ কোটি"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে ২,০০০ কোটি থেকে ১০,০০০ কোটি টাকা করার পরিকল্পনা।"
      },
      {
       "question": "জুলাই–সেপ্টেম্বর ২০২৬ প্রান্তিকে ইসলামী ব্যাংকের ক্ষতি কত?",
-      "options": {
-       "A": "৯৭০ কোটি টাকা",
-       "B": "২,৯৭০ কোটি টাকা",
-       "C": "১,৯৭০ কোটি টাকা",
-       "D": "৩,৩০৩ কোটি টাকা"
-      },
-      "correct": "C",
+      "options": [
+       "৯৭০ কোটি টাকা",
+       "২,৯৭০ কোটি টাকা",
+       "১,৯৭০ কোটি টাকা",
+       "৩,৩০৩ কোটি টাকা"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে প্রান্তিকে ক্ষতি ১,৯৭০ কোটি টাকা।"
      },
      {
       "question": "কোনটি ইসলামী ব্যাংকিংয়ের পদ্ধতি?",
-      "options": {
-       "A": "সুদভিত্তিক ঋণ",
-       "B": "ক্রেডিট কার্ড সুদ",
-       "C": "ওভারড্রাফট সুদ",
-       "D": "মুদারাবা"
-      },
-      "correct": "D",
+      "options": [
+       "সুদভিত্তিক ঋণ",
+       "ক্রেডিট কার্ড সুদ",
+       "ওভারড্রাফট সুদ",
+       "মুদারাবা"
+      ],
+      "correct": 3,
       "explanation": "মুদারাবা (মুনাফা ভাগাভাগি) ইসলামী ব্যাংকিংয়ের একটি পদ্ধতি।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "ইসলামী ব্যাংকের ক্ষতির প্রধান কারণগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "বিনিয়োগ আয় কমে যাওয়া",
        "এস আলম গ্রুপের সঙ্গে যুক্ত খেলাপি বিনিয়োগ",
        "নিট সম্পদ মূল্য প্রায় অর্ধেকে নেমে আসা"
       ]
      },
-     {
+     "analytical": {
       "question": "ব্যাংক খাতে সুশাসন ফেরাতে অনুমোদিত মূলধন বাড়ানো কি যথেষ্ট? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "মূলধন বাড়ানো সীমা বাড়ায়, টাকা আনে না",
        "খেলাপি বিনিয়োগ আদায় ও পরিচালনায় স্বচ্ছতা",
        "বিদেশি কৌশলগত বিনিয়োগকারীর ভূমিকা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "authorised",
-      "bangla_meaning": "অনুমোদিত",
+      "meaning_bn": "অনুমোদিত",
       "example": "Islami Bank plans to raise its authorised capital to Tk 10,000 crore.",
-      "synonym": "approved, sanctioned, permitted",
-      "antonym": "unauthorised, unapproved"
+      "synonyms": [
+       "approved",
+       "sanctioned",
+       "permitted"
+      ],
+      "antonyms": [
+       "unauthorised",
+       "unapproved"
+      ]
      },
      {
       "word": "disclosure",
-      "bangla_meaning": "প্রকাশ",
+      "meaning_bn": "প্রকাশ",
       "example": "The bank made the disclosure to the Dhaka Stock Exchange.",
-      "synonym": "revelation, announcement, statement",
-      "antonym": "concealment, secrecy"
+      "synonyms": [
+       "revelation",
+       "announcement",
+       "statement"
+      ],
+      "antonyms": [
+       "concealment",
+       "secrecy"
+      ]
      },
      {
       "word": "legacy",
-      "bangla_meaning": "পুরনো",
+      "meaning_bn": "পুরনো",
       "example": "Non-performing investments remained high due to large legacy exposures.",
-      "synonym": "inherited, old, historical",
-      "antonym": "new, recent"
+      "synonyms": [
+       "inherited",
+       "old",
+       "historical"
+      ],
+      "antonyms": [
+       "new",
+       "recent"
+      ]
      },
      {
       "word": "capital",
-      "bangla_meaning": "মূলধন",
+      "meaning_bn": "মূলধন",
       "example": "Islami Bank plans to raise its authorised capital to Tk 10,000 crore.",
-      "synonym": "fund, investment",
-      "antonym": "debt"
+      "synonyms": [
+       "fund",
+       "investment"
+      ],
+      "antonyms": [
+       "debt"
+      ]
      },
      {
       "word": "loss",
-      "bangla_meaning": "ক্ষতি",
+      "meaning_bn": "ক্ষতি",
       "example": "The bank posted a loss of Tk 1,970 crore in the July-September quarter.",
-      "synonym": "deficit, damage",
-      "antonym": "profit, gain"
+      "synonyms": [
+       "deficit",
+       "damage"
+      ],
+      "antonyms": [
+       "profit",
+       "gain"
+      ]
      }
     ],
     "revision": {
@@ -2372,7 +2708,14 @@
      "note": "গত বছরের একই সময়ের চেয়ে ৩৪% বেশি",
      "figure": "৪৭২ কোটি টাকা"
     },
-    "news_summary": "ব্যাংক এশিয়া ২০২৬ সালের জানুয়ারি–সেপ্টেম্বরে নিট মুনাফা ৪৭২ কোটি টাকা করেছে, যা গত বছরের একই সময়ের চেয়ে ৩৪ শতাংশ বেশি। আমানত ১৯ শতাংশ বেড়ে ৫৩,৩০৮ কোটি টাকা হয়েছে, শেয়ারপ্রতি আয় (ইপিএস) ৩৭ শতাংশ বেড়ে ৩.২৪ টাকা হয়েছে, আর খেলাপি ঋণের হার কমেছে। জুলাই–সেপ্টেম্বর প্রান্তিকে মুনাফা প্রায় ২০৮ কোটি টাকা।",
+    "news_summary": {
+     "text": "ব্যাংক এশিয়া ২০২৬ সালের জানুয়ারি–সেপ্টেম্বরে নিট মুনাফা ৪৭২ কোটি টাকা করেছে, যা গত বছরের একই সময়ের চেয়ে ৩৪ শতাংশ বেশি। আমানত ১৯ শতাংশ বেড়ে ৫৩,৩০৮ কোটি টাকা হয়েছে, শেয়ারপ্রতি আয় (ইপিএস) ৩৭ শতাংশ বেড়ে ৩.২৪ টাকা হয়েছে, আর খেলাপি ঋণের হার কমেছে। জুলাই–সেপ্টেম্বর প্রান্তিকে মুনাফা প্রায় ২০৮ কোটি টাকা।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/business/economy/news/bank-asia-reports-34-rise-jan-sept-profit-4316691"
+     }
+    },
     "verified_facts": [
      {
       "fact": "জানুয়ারি–সেপ্টেম্বর ২০২৬ নিট মুনাফা ৪৭২ কোটি টাকা, গত বছরের চেয়ে ৩৪% বেশি",
@@ -2420,121 +2763,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ব্যাংক এশিয়া: ২৭ নভেম্বর ১৯৯৯; তৃতীয় প্রজন্মের বেসরকারি ব্যাংক; ২০১৪ সালে প্রথম এজেন্ট ব্যাংকিং",
-      "খবরের সংখ্যা: মুনাফা ৪৭২ কোটি (+৩৪%), আমানত ৫৩,৩০৮ কোটি (+১৯%), EPS ৩.২৪ টাকা (+৩৭%)",
-      "EPS, NPL, NAV — ব্যাংক পরীক্ষায় বারবার আসা তিনটি সংক্ষিপ্ত রূপ",
-      "মনে রাখার কৌশল: ৪৭২ কোটি মুনাফা — ৩৪% বৃদ্ধি — EPS ৩.২৪"
-     ],
-     "sources": [
-      {
-       "name": "Bank Asia PLC — About Bank Asia (official)",
-       "url": "https://www.bankasia-bd.com/about/aboutus"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "ব্যাংক এশিয়া",
+      "role": "২৭ নভেম্বর ১৯৯৯। তৃতীয় প্রজন্মের বেসরকারি ব্যাংক। ২০১৪ সালে প্রথম এজেন্ট ব্যাংকিং",
+      "source": "Bank Asia PLC — About Bank Asia (official)"
+     },
+     {
+      "name": "EPS,",
+      "role": "NPL, NAV: ব্যাংক পরীক্ষায় বারবার আসা তিনটি সংক্ষিপ্ত রূপ",
+      "source": "Bank Asia PLC — About Bank Asia (official)"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "খবরের সংখ্যা",
+      "meaning": "মুনাফা ৪৭২ কোটি (+৩৪%), আমানত ৫৩,৩০৮ কোটি (+১৯%), EPS ৩.২৪ টাকা (+৩৭%)",
+      "source": "Bank Asia PLC — About Bank Asia (official)"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "৪৭২ কোটি মুনাফা — ৩৪% বৃদ্ধি — EPS ৩.২৪",
+      "source": "Bank Asia PLC — About Bank Asia (official)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "ব্যাংক এশিয়ার জানুয়ারি–সেপ্টেম্বর ২০২৬ নিট মুনাফা কত?",
-      "options": {
-       "A": "৩৭২ কোটি টাকা",
-       "B": "৪৭২ কোটি টাকা",
-       "C": "৫৭২ কোটি টাকা",
-       "D": "২০৮ কোটি টাকা"
-      },
-      "correct": "B",
+      "options": [
+       "৩৭২ কোটি টাকা",
+       "৪৭২ কোটি টাকা",
+       "৫৭২ কোটি টাকা",
+       "২০৮ কোটি টাকা"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে নিট মুনাফা ৪৭২ কোটি টাকা।"
      },
      {
       "question": "ব্যাংক এশিয়া কবে যাত্রা শুরু করে?",
-      "options": {
-       "A": "২৭ নভেম্বর ১৯৯৯",
-       "B": "২৭ নভেম্বর ১৯৮৯",
-       "C": "২৮ সেপ্টেম্বর ২০০১",
-       "D": "১৬ এপ্রিল ২০২৪"
-      },
-      "correct": "A",
+      "options": [
+       "২৭ নভেম্বর ১৯৯৯",
+       "২৭ নভেম্বর ১৯৮৯",
+       "২৮ সেপ্টেম্বর ২০০১",
+       "১৬ এপ্রিল ২০২৪"
+      ],
+      "correct": 0,
       "explanation": "ব্যাংক এশিয়া ১৯৯৯ সালের ২৭ নভেম্বর যাত্রা শুরু করে।"
      },
      {
       "question": "ব্যাংক এশিয়ার আমানত কত শতাংশ বেড়েছে?",
-      "options": {
-       "A": "৯ শতাংশ",
-       "B": "১৪ শতাংশ",
-       "C": "১৯ শতাংশ",
-       "D": "৩৪ শতাংশ"
-      },
-      "correct": "C",
+      "options": [
+       "৯ শতাংশ",
+       "১৪ শতাংশ",
+       "১৯ শতাংশ",
+       "৩৪ শতাংশ"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে আমানত ১৯ শতাংশ বেড়ে ৫৩,৩০৮ কোটি টাকা হয়েছে।"
      },
      {
       "question": "EPS-এর পূর্ণরূপ কী?",
-      "options": {
-       "A": "Equity Per Share",
-       "B": "Expense Per Share",
-       "C": "Export Per Share",
-       "D": "Earnings Per Share"
-      },
-      "correct": "D",
+      "options": [
+       "Equity Per Share",
+       "Expense Per Share",
+       "Export Per Share",
+       "Earnings Per Share"
+      ],
+      "correct": 3,
       "explanation": "EPS মানে Earnings Per Share — শেয়ারপ্রতি আয়।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "ব্যাংক এশিয়ার মুনাফা বৃদ্ধির কারণগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "পরিচালন নগদ প্রবাহ বেড়েছে",
        "আমানত ১৯% বেড়েছে",
        "খেলাপি ঋণের হার কমেছে"
       ]
      },
-     {
+     "analytical": {
       "question": "একটি ব্যাংকের আর্থিক স্বাস্থ্য যাচাইয়ে কোন সূচকগুলো দেখতে হয়? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "মুনাফা ও EPS-এর ধারা",
        "আমানত বৃদ্ধি ও ঋণ-আমানত অনুপাত",
        "NPL হার ও মূলধন পর্যাপ্ততা"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "deposit",
-      "bangla_meaning": "আমানত",
+      "meaning_bn": "আমানত",
       "example": "Deposits grew 19 percent to Tk 53,308 crore.",
-      "synonym": "savings, funds",
-      "antonym": "withdrawal"
+      "synonyms": [
+       "savings",
+       "funds"
+      ],
+      "antonyms": [
+       "withdrawal"
+      ]
      },
      {
       "word": "profit",
-      "bangla_meaning": "মুনাফা",
+      "meaning_bn": "মুনাফা",
       "example": "Bank Asia reported a 34 percent rise in net profit.",
-      "synonym": "gain, earnings",
-      "antonym": "loss"
+      "synonyms": [
+       "gain",
+       "earnings"
+      ],
+      "antonyms": [
+       "loss"
+      ]
      },
      {
       "word": "earnings",
-      "bangla_meaning": "আয়",
+      "meaning_bn": "আয়",
       "example": "Earnings per share rose 37 percent to Tk 3.24.",
-      "synonym": "income, profit",
-      "antonym": "loss"
+      "synonyms": [
+       "income",
+       "profit"
+      ],
+      "antonyms": [
+       "loss"
+      ]
      },
      {
       "word": "asset",
-      "bangla_meaning": "সম্পদ",
+      "meaning_bn": "সম্পদ",
       "example": "The bank's net asset value per share rose to Tk 28.46.",
-      "synonym": "property, holding",
-      "antonym": "liability"
+      "synonyms": [
+       "property",
+       "holding"
+      ],
+      "antonyms": [
+       "liability"
+      ]
      },
      {
       "word": "liability",
-      "bangla_meaning": "দায়",
+      "meaning_bn": "দায়",
       "example": "Deposits are a bank's liability to its customers.",
-      "synonym": "obligation, debt",
-      "antonym": "asset"
+      "synonyms": [
+       "obligation",
+       "debt"
+      ],
+      "antonyms": [
+       "asset"
+      ]
      }
     ],
     "revision": {
@@ -2650,7 +3026,14 @@
      "note": "বাংলাদেশের প্রথম ব্লকচেইনভিত্তিক রপ্তানি লেনদেন",
      "figure": "৪০ দিন → ১ দিন"
     },
-    "news_summary": "ব্র্যাক ব্যাংক বাংলাদেশের প্রথম ব্লকচেইনভিত্তিক ডিজিটাল রপ্তানি লেনদেন সম্পন্ন করেছে — নথি প্রক্রিয়াকরণের সময় ৪০ দিন থেকে কমে মাত্র এক দিন হয়েছে। পোশাক রপ্তানিকারক নাজ বাংলাদেশ (NAZ Bangladesh) থেকে যুক্তরাজ্যের খুচরা বিক্রেতা ম্যাটালানের (Matalan) কাছে এই লেনদেনে এনিজিওর (Enigio) সমাধান ব্যবহার করে ইলেকট্রনিক বিল অব লেডিং ও ডিজিটাল প্রমিসরি নোট তৈরি ও হস্তান্তর করা হয়।",
+    "news_summary": {
+     "text": "ব্র্যাক ব্যাংক বাংলাদেশের প্রথম ব্লকচেইনভিত্তিক ডিজিটাল রপ্তানি লেনদেন সম্পন্ন করেছে — নথি প্রক্রিয়াকরণের সময় ৪০ দিন থেকে কমে মাত্র এক দিন হয়েছে। পোশাক রপ্তানিকারক নাজ বাংলাদেশ (NAZ Bangladesh) থেকে যুক্তরাজ্যের খুচরা বিক্রেতা ম্যাটালানের (Matalan) কাছে এই লেনদেনে এনিজিওর (Enigio) সমাধান ব্যবহার করে ইলেকট্রনিক বিল অব লেডিং ও ডিজিটাল প্রমিসরি নোট তৈরি ও হস্তান্তর করা হয়।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/business/organisation-news/news/brac-bank-completes-blockchain-based-export-deal-4316741"
+     }
+    },
     "verified_facts": [
      {
       "fact": "বাংলাদেশের প্রথম ব্লকচেইনভিত্তিক ডিজিটাল রপ্তানি লেনদেন",
@@ -2702,125 +3085,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "প্রথম: বাংলাদেশের প্রথম ব্লকচেইন রপ্তানি লেনদেন — ব্র্যাক ব্যাংক, নাজ বাংলাদেশ → ম্যাটালান (যুক্তরাজ্য)",
-      "৪০ দিন → ১ দিন (শুধু নথি প্রক্রিয়াকরণে, পুরো চক্রে নয়)",
-      "eBL = electronic bill of lading; MLETR ২০১৭ = ইলেকট্রনিক দলিলের আইনি ভিত্তি",
-      "মনে রাখার কৌশল: eBL তিন কাজ — রসিদ, চুক্তির প্রমাণ, মালিকানার দলিল"
-     ],
-     "sources": [
-      {
-       "name": "ICC Academy — Digital trade platforms and the eBL interoperability gap",
-       "url": "https://academy.iccwbo.org/digital-trade/article/federated-trade-ecosystems-part-1/"
-      },
-      {
-       "name": "UNCITRAL — Model Law on Electronic Transferable Records (MLETR)",
-       "url": "https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records"
-      }
-     ]
-    },
+    "institutions": [],
+    "extra_knowledge": [
+     {
+      "term": "প্রথম",
+      "meaning": "বাংলাদেশের প্রথম ব্লকচেইন রপ্তানি লেনদেন — ব্র্যাক ব্যাংক, নাজ বাংলাদেশ → ম্যাটালান (যুক্তরাজ্য)",
+      "source": "ICC Academy — Digital trade platforms and the eBL interoperability gap; UNCITRAL — Model Law on Electronic Transferable Records (MLETR)"
+     },
+     {
+      "term": "৪০ দিন → ১ দিন",
+      "meaning": "৪০ দিন → ১ দিন (শুধু নথি প্রক্রিয়াকরণে, পুরো চক্রে নয়)",
+      "source": "ICC Academy — Digital trade platforms and the eBL interoperability gap; UNCITRAL — Model Law on Electronic Transferable Records (MLETR)"
+     },
+     {
+      "term": "eBL",
+      "meaning": "electronic bill of lading; MLETR ২০১৭ = ইলেকট্রনিক দলিলের আইনি ভিত্তি",
+      "source": "ICC Academy — Digital trade platforms and the eBL interoperability gap; UNCITRAL — Model Law on Electronic Transferable Records (MLETR)"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "eBL তিন কাজ — রসিদ, চুক্তির প্রমাণ, মালিকানার দলিল",
+      "source": "ICC Academy — Digital trade platforms and the eBL interoperability gap; UNCITRAL — Model Law on Electronic Transferable Records (MLETR)"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "ব্লকচেইন লেনদেনে নথি প্রক্রিয়াকরণের সময় কত থেকে কত হয়েছে?",
-      "options": {
-       "A": "৪০ দিন থেকে ১ দিন",
-       "B": "৩০ দিন থেকে ৩ দিন",
-       "C": "২০ দিন থেকে ২ দিন",
-       "D": "১০ দিন থেকে ১ দিন"
-      },
-      "correct": "A",
+      "options": [
+       "৪০ দিন থেকে ১ দিন",
+       "৩০ দিন থেকে ৩ দিন",
+       "২০ দিন থেকে ২ দিন",
+       "১০ দিন থেকে ১ দিন"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে নথি প্রক্রিয়াকরণ ৪০ দিন থেকে ১ দিনে নেমেছে।"
      },
      {
       "question": "বিল অব লেডিংয়ের কাজ কোনটি?",
-      "options": {
-       "A": "শুধু রসিদ",
-       "B": "রসিদ, পরিবহন চুক্তির প্রমাণ ও মালিকানার দলিল",
-       "C": "শুধু বীমা",
-       "D": "শুধু শুল্কের কাগজ"
-      },
-      "correct": "B",
+      "options": [
+       "শুধু রসিদ",
+       "রসিদ, পরিবহন চুক্তির প্রমাণ ও মালিকানার দলিল",
+       "শুধু বীমা",
+       "শুধু শুল্কের কাগজ"
+      ],
+      "correct": 1,
       "explanation": "বিল অব লেডিং রসিদ, পরিবহন চুক্তির প্রমাণ ও মালিকানার দলিল — তিনটি কাজই করে।"
      },
      {
       "question": "বাংলাদেশের প্রথম ব্লকচেইন রপ্তানি লেনদেন কোন ব্যাংক সম্পন্ন করে?",
-      "options": {
-       "A": "ইসলামী ব্যাংক",
-       "B": "ব্যাংক এশিয়া",
-       "C": "ব্র্যাক ব্যাংক",
-       "D": "ডাচ-বাংলা ব্যাংক"
-      },
-      "correct": "C",
+      "options": [
+       "ইসলামী ব্যাংক",
+       "ব্যাংক এশিয়া",
+       "ব্র্যাক ব্যাংক",
+       "ডাচ-বাংলা ব্যাংক"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে ব্র্যাক ব্যাংক এই লেনদেন সম্পন্ন করেছে।"
      },
      {
       "question": "MLETR কোন সংস্থার মডেল আইন?",
-      "options": {
-       "A": "বিশ্বব্যাংক",
-       "B": "আইএমএফ",
-       "C": "UNCITRAL",
-       "D": "WTO"
-      },
-      "correct": "D",
+      "options": [
+       "বিশ্বব্যাংক",
+       "আইএমএফ",
+       "UNCITRAL",
+       "WTO"
+      ],
+      "correct": 3,
       "explanation": "MLETR হলো UNCITRAL-এর ২০১৭ সালের মডেল আইন।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "ডিজিটাল বাণিজ্যে eBL ব্যবহারের সুবিধাগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "সময় বাঁচে: ৪০ দিন থেকে ১ দিন",
        "নথি হারানো বা জালিয়াতির ঝুঁকি কমে",
        "লেনদেনের স্বচ্ছতা বাড়ে"
       ]
      },
-     {
+     "analytical": {
       "question": "বাংলাদেশের রপ্তানি বাণিজ্যে ডিজিটালায়নের সম্ভাবনা ও চ্যালেঞ্জ বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "সম্ভাবনা: সময় ও খরচ বাঁচা, প্রতিযোগিতা বাড়া",
        "চ্যালেঞ্জ: আইনি স্বীকৃতি, সব পক্ষের একই প্ল্যাটফর্মে আসা",
        "ব্যাংক, বন্দর ও শুল্ক বিভাগের সমন্বয়"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "promissory",
-      "bangla_meaning": "প্রতিশ্রুতিমূলক",
+      "meaning_bn": "প্রতিশ্রুতিমূলক",
       "example": "The banks transferred a digital promissory note electronically.",
-      "synonym": "pledged",
-      "antonym": "—"
+      "synonyms": [
+       "pledged"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "transaction",
-      "bangla_meaning": "লেনদেন",
+      "meaning_bn": "লেনদেন",
       "example": "BRAC Bank completed Bangladesh's first blockchain-based digital export transaction.",
-      "synonym": "deal, exchange",
-      "antonym": "—"
+      "synonyms": [
+       "deal",
+       "exchange"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "digital",
-      "bangla_meaning": "ডিজিটাল",
+      "meaning_bn": "ডিজিটাল",
       "example": "The banks electronically created and transferred original trade documents.",
-      "synonym": "electronic, online",
-      "antonym": "analogue, paper-based"
+      "synonyms": [
+       "electronic",
+       "online"
+      ],
+      "antonyms": [
+       "analogue",
+       "paper-based"
+      ]
      },
      {
       "word": "document",
-      "bangla_meaning": "দলিল; নথি",
+      "meaning_bn": "দলিল; নথি",
       "example": "The digital process improved transaction visibility and document security.",
-      "synonym": "paper, record",
-      "antonym": "—"
+      "synonyms": [
+       "paper",
+       "record"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "secure",
-      "bangla_meaning": "নিরাপদ",
+      "meaning_bn": "নিরাপদ",
       "example": "The digital process improved document security.",
-      "synonym": "safe, protected",
-      "antonym": "insecure, risky"
+      "synonyms": [
+       "safe",
+       "protected"
+      ],
+      "antonyms": [
+       "insecure",
+       "risky"
+      ]
      }
     ],
     "revision": {
@@ -2938,7 +3350,14 @@
      "note": "প্রাক-সম্ভাব্যতা যাচাই সম্পন্ন; বিস্তারিত নকশা ৬ মাসের মধ্যে",
      "figure": "২টি করিডর"
     },
-    "news_summary": "ঢাকায় ২০৩০ সালের মধ্যে দুটি মনোরেল করিডর চালুর পরিকল্পনা এগোচ্ছে — বুয়েটের প্রাক-সম্ভাব্যতা যাচাই শেষে পরামর্শকেরা এখন বিস্তারিত নকশা করছে। করিডরগুলো বিদ্যমান ও পরিকল্পিত মেট্রো রেলের সঙ্গে যুক্ত হয়ে শেষ প্রান্তের যাতায়াত (last-mile connectivity) সহজ করবে। প্রাক-সম্ভাব্যতা যাচাই ও বিস্তারিত নকশার জন্য রাজস্ব বাজেট থেকে ৭৫.৭ বিলিয়ন টাকা বরাদ্দ দেওয়া হয়েছে।",
+    "news_summary": {
+     "text": "ঢাকায় ২০৩০ সালের মধ্যে দুটি মনোরেল করিডর চালুর পরিকল্পনা এগোচ্ছে — বুয়েটের প্রাক-সম্ভাব্যতা যাচাই শেষে পরামর্শকেরা এখন বিস্তারিত নকশা করছে। করিডরগুলো বিদ্যমান ও পরিকল্পিত মেট্রো রেলের সঙ্গে যুক্ত হয়ে শেষ প্রান্তের যাতায়াত (last-mile connectivity) সহজ করবে। প্রাক-সম্ভাব্যতা যাচাই ও বিস্তারিত নকশার জন্য রাজস্ব বাজেট থেকে ৭৫.৭ বিলিয়ন টাকা বরাদ্দ দেওয়া হয়েছে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-06",
+      "url": "https://en.prothomalo.com/bangladesh/city/ifbhb3yvh8"
+     }
+    },
     "verified_facts": [
      {
       "fact": "দুটি মনোরেল করিডর ২০৩০ সালের মধ্যে সম্পন্নের লক্ষ্য",
@@ -2986,121 +3405,157 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ঢাকা মনোরেল: ২টি করিডর, ২০৩০ সালের লক্ষ্য, ৭৫.৭ বিলিয়ন টাকা বরাদ্দ, বুয়েটের BRTC প্রাক-সম্ভাব্যতা যাচাই",
-      "STP ২০০৫: বিশ্বব্যাংকের সহায়তায় ২০ বছরের কৌশলগত পরিবহন পরিকল্পনা; ছয়টি মেট্রো লাইন",
-      "DTCA = Dhaka Transport Coordination Authority (ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ)",
-      "মনে রাখার কৌশল: মনো = এক (এক বীম); মেট্রো = মূল মেরুদণ্ড, বেশি ধারণক্ষমতা"
-     ],
-     "sources": [
-      {
-       "name": "The Times of Dhaka — Metro Rail or Monorail: Which System Is More Suitable for Dhaka?",
-       "url": "https://thetimesofdhaka.com/editors/metro-rail-editors/12251/"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "STP",
+      "role": "২০০৫: বিশ্বব্যাংকের সহায়তায় ২০ বছরের কৌশলগত পরিবহন পরিকল্পনা; ছয়টি মেট্রো লাইন",
+      "source": "The Times of Dhaka — Metro Rail or Monorail: Which System Is More Suitable for Dhaka?"
+     },
+     {
+      "name": "DTCA",
+      "full_name": "Dhaka Transport Coordination Authority",
+      "role": "Dhaka Transport Coordination Authority (ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ)",
+      "source": "The Times of Dhaka — Metro Rail or Monorail: Which System Is More Suitable for Dhaka?"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "ঢাকা মনোরেল",
+      "meaning": "২টি করিডর, ২০৩০ সালের লক্ষ্য, ৭৫.৭ বিলিয়ন টাকা বরাদ্দ, বুয়েটের BRTC প্রাক-সম্ভাব্যতা যাচাই",
+      "source": "The Times of Dhaka — Metro Rail or Monorail: Which System Is More Suitable for Dhaka?"
+     },
+     {
+      "term": "মনে রাখার কৌশল: মনো",
+      "meaning": "এক (এক বীম); মেট্রো = মূল মেরুদণ্ড, বেশি ধারণক্ষমতা",
+      "source": "The Times of Dhaka — Metro Rail or Monorail: Which System Is More Suitable for Dhaka?"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "ঢাকায় কয়টি মনোরেল করিডর ২০৩০ সালের মধ্যে সম্পন্নের লক্ষ্য?",
-      "options": {
-       "A": "২টি",
-       "B": "১টি",
-       "C": "৩টি",
-       "D": "৬টি"
-      },
-      "correct": "A",
+      "options": [
+       "২টি",
+       "১টি",
+       "৩টি",
+       "৬টি"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে দুটি মনোরেল করিডর ২০৩০ সালের মধ্যে সম্পন্নের লক্ষ্য।"
      },
      {
       "question": "মনোরেল কীসের ওপর চলে?",
-      "options": {
-       "A": "দুটি সমান্তরাল লাইনে",
-       "B": "একটিমাত্র বীমে",
-       "C": "সড়কে",
-       "D": "পানিতে"
-      },
-      "correct": "B",
+      "options": [
+       "দুটি সমান্তরাল লাইনে",
+       "একটিমাত্র বীমে",
+       "সড়কে",
+       "পানিতে"
+      ],
+      "correct": 1,
       "explanation": "মনোরেল একটিমাত্র বীমের ওপর চলে; মেট্রো দুটি লাইনে চলে।"
      },
      {
       "question": "মনোরেলের প্রাক-সম্ভাব্যতা যাচাই ও নকশার জন্য কত টাকা বরাদ্দ?",
-      "options": {
-       "A": "৫৭.৭ বিলিয়ন টাকা",
-       "B": "৯৫.৭ বিলিয়ন টাকা",
-       "C": "৭৫.৭ বিলিয়ন টাকা",
-       "D": "৪৪৭.৫৭ বিলিয়ন টাকা"
-      },
-      "correct": "C",
+      "options": [
+       "৫৭.৭ বিলিয়ন টাকা",
+       "৯৫.৭ বিলিয়ন টাকা",
+       "৭৫.৭ বিলিয়ন টাকা",
+       "৪৪৭.৫৭ বিলিয়ন টাকা"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে ৭৫.৭ বিলিয়ন টাকা বরাদ্দ দেওয়া হয়েছে।"
      },
      {
       "question": "ঢাকার কৌশলগত পরিবহন পরিকল্পনা (STP) কবে তৈরি হয়?",
-      "options": {
-       "A": "১৯৯৫ সালে",
-       "B": "২০১৫ সালে",
-       "C": "২০২২ সালে",
-       "D": "২০০৫ সালে"
-      },
-      "correct": "D",
+      "options": [
+       "১৯৯৫ সালে",
+       "২০১৫ সালে",
+       "২০২২ সালে",
+       "২০০৫ সালে"
+      ],
+      "correct": 3,
       "explanation": "STP ২০০৫ সালে বিশ্বব্যাংকের সহায়তায় তৈরি হয়।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "ঢাকায় মনোরেল কেন মেট্রোর পরিপূরক হিসেবে ভাবা হচ্ছে? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "সরু ও ঘনবসতি এলাকায় মেট্রো বসানো কঠিন ও ব্যয়বহুল",
        "মনোরেল কম জায়গায় বসে ও বাঁকা পথে চলে",
        "মেট্রোর সঙ্গে যুক্ত হয়ে শেষ প্রান্তের সংযোগ দেয়"
       ]
      },
-     {
+     "analytical": {
       "question": "ঢাকার যানজট নিরসনে গণপরিবহনের ভূমিকা বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "মেট্রো মূল মেরুদণ্ড, মনোরেল ফিডার, বিআরটি সহায়ক",
        "সমন্বিত টিকিট ও সংযোগের প্রয়োজন",
        "ব্যক্তিগত গাড়ির ব্যবহার কমানো"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "feasibility",
-      "bangla_meaning": "সম্ভাব্যতা",
+      "meaning_bn": "সম্ভাব্যতা",
       "example": "BUET completed the pre-feasibility study for the monorail.",
-      "synonym": "viability, practicality, workability",
-      "antonym": "infeasibility"
+      "synonyms": [
+       "viability",
+       "practicality",
+       "workability"
+      ],
+      "antonyms": [
+       "infeasibility"
+      ]
      },
      {
       "word": "corridor",
-      "bangla_meaning": "করিডর",
+      "meaning_bn": "করিডর",
       "example": "Two monorail corridors are targeted for completion by 2030.",
-      "synonym": "passage, route, channel",
-      "antonym": "—"
+      "synonyms": [
+       "passage",
+       "route",
+       "channel"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "transit",
-      "bangla_meaning": "পরিবহন",
+      "meaning_bn": "পরিবহন",
       "example": "A new mass-transit mode for Dhaka is planned.",
-      "synonym": "transport, travel",
-      "antonym": "—"
+      "synonyms": [
+       "transport",
+       "travel"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "commute",
-      "bangla_meaning": "যাতায়াত",
+      "meaning_bn": "যাতায়াত",
       "example": "The corridors will improve last-mile connectivity for commuters.",
-      "synonym": "travel, journey",
-      "antonym": "—"
+      "synonyms": [
+       "travel",
+       "journey"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "congestion",
-      "bangla_meaning": "যানজট",
+      "meaning_bn": "যানজট",
       "example": "Metro rail reduces congestion in Dhaka.",
-      "synonym": "traffic jam, gridlock",
-      "antonym": "free flow"
+      "synonyms": [
+       "traffic jam",
+       "gridlock"
+      ],
+      "antonyms": [
+       "free flow"
+      ]
      }
     ],
     "revision": {
@@ -3221,7 +3676,14 @@
      "note": "মহামারির পর সবচেয়ে দ্রুত বৃদ্ধি",
      "figure": "৯.৪ ট্রিলিয়ন ডলার"
     },
-    "news_summary": "উন্নয়নশীল দেশগুলোর বৈদেশিক ঋণ ২০২৫ সালে মহামারির পর সবচেয়ে দ্রুত হারে বেড়ে রেকর্ড ৯.৪ ট্রিলিয়ন ডলারে পৌঁছেছে বলে বিশ্বব্যাংক জানিয়েছে। বৃদ্ধির বড় অংশ এসেছে বেসরকারি অর্থায়ন থেকে — বেসরকারি ঋণদাতাদের কাছ থেকে ঋণ ও রাষ্ট্রায়ত্ত প্রতিষ্ঠানের বন্ড প্রায় ৩৫ শতাংশ বেড়েছে। সবচেয়ে দরিদ্র দেশগুলো নতুন বেসরকারি ঋণে গড়ে ৮.২ শতাংশ সুদ দিচ্ছে — ১৯৮৯ সালের পর সর্বোচ্চ।",
+    "news_summary": {
+     "text": "উন্নয়নশীল দেশগুলোর বৈদেশিক ঋণ ২০২৫ সালে মহামারির পর সবচেয়ে দ্রুত হারে বেড়ে রেকর্ড ৯.৪ ট্রিলিয়ন ডলারে পৌঁছেছে বলে বিশ্বব্যাংক জানিয়েছে। বৃদ্ধির বড় অংশ এসেছে বেসরকারি অর্থায়ন থেকে — বেসরকারি ঋণদাতাদের কাছ থেকে ঋণ ও রাষ্ট্রায়ত্ত প্রতিষ্ঠানের বন্ড প্রায় ৩৫ শতাংশ বেড়েছে। সবচেয়ে দরিদ্র দেশগুলো নতুন বেসরকারি ঋণে গড়ে ৮.২ শতাংশ সুদ দিচ্ছে — ১৯৮৯ সালের পর সর্বোচ্চ।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/world/news/developing-countries-debt-hit-record-94-trillion-2025-world-bank-4316781"
+     }
+    },
     "verified_facts": [
      {
       "fact": "উন্নয়নশীল দেশগুলোর বৈদেশিক ঋণ ২০২৫ সালে রেকর্ড ৯.৪ ট্রিলিয়ন ডলার; মহামারির পর সবচেয়ে দ্রুত বৃদ্ধি",
@@ -3269,121 +3731,157 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "বিশ্বব্যাংকের আন্তর্জাতিক ঋণ প্রতিবেদন (International Debt Report) — বার্ষিক প্রতিবেদন",
-      "মূল সংখ্যা: ৯.৪ ট্রিলিয়ন ডলার (২০২৫), ৮.২% (দরিদ্রতম দেশের সুদ, ১৯৮৯-এর পর সর্বোচ্চ), ১.৪ ট্রিলিয়ন ডলার (ঋণ পরিশোধ)",
-      "IDA = International Development Association — বিশ্বব্যাংকের সহজ শর্তের ঋণ শাখা, দরিদ্রতম দেশগুলোর জন্য",
-      "মনে রাখার কৌশল: ৯.৪ ট্রিলিয়ন ঋণ — ৮.২% সুদ — ১.৪ ট্রিলিয়ন পরিশোধ"
-     ],
-     "sources": [
-      {
-       "name": "Reuters via 93.5 The Lloyd — Developing countries' external debt hit record $9.4 trillion",
-       "url": "https://935thelloyd.com/2026/11/05/developing-countries-external-debt-hit-record-9-4-trillion-in-2025-world-bank-says/"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "IDA",
+      "full_name": "International Development Association",
+      "role": "International Development Association — বিশ্বব্যাংকের সহজ শর্তের ঋণ শাখা, দরিদ্রতম দেশগুলোর জন্য",
+      "source": "Reuters via 93.5 The Lloyd — Developing countries' external debt hit record $9.4 trillion"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "বিশ্বব্যাংকের আন্তর্জাতিক ঋণ প্রতিবেদন",
+      "full_name": "International Debt Report",
+      "meaning": "বার্ষিক প্রতিবেদন",
+      "source": "Reuters via 93.5 The Lloyd — Developing countries' external debt hit record $9.4 trillion"
+     },
+     {
+      "term": "মূল সংখ্যা",
+      "meaning": "৯.৪ ট্রিলিয়ন ডলার (২০২৫), ৮.২% (দরিদ্রতম দেশের সুদ, ১৯৮৯-এর পর সর্বোচ্চ), ১.৪ ট্রিলিয়ন ডলার (ঋণ পরিশোধ)",
+      "source": "Reuters via 93.5 The Lloyd — Developing countries' external debt hit record $9.4 trillion"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "৯.৪ ট্রিলিয়ন ঋণ — ৮.২% সুদ — ১.৪ ট্রিলিয়ন পরিশোধ",
+      "source": "Reuters via 93.5 The Lloyd — Developing countries' external debt hit record $9.4 trillion"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২০২৫ সালে উন্নয়নশীল দেশগুলোর বৈদেশিক ঋণ কত হয়েছে?",
-      "options": {
-       "A": "৭.৪ ট্রিলিয়ন ডলার",
-       "B": "৮.৪ ট্রিলিয়ন ডলার",
-       "C": "৯.৪ ট্রিলিয়ন ডলার",
-       "D": "১০.৪ ট্রিলিয়ন ডলার"
-      },
-      "correct": "C",
+      "options": [
+       "৭.৪ ট্রিলিয়ন ডলার",
+       "৮.৪ ট্রিলিয়ন ডলার",
+       "৯.৪ ট্রিলিয়ন ডলার",
+       "১০.৪ ট্রিলিয়ন ডলার"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে বৈদেশিক ঋণ রেকর্ড ৯.৪ ট্রিলিয়ন ডলারে পৌঁছেছে।"
      },
      {
       "question": "IDA কী?",
-      "options": {
-       "A": "বিশ্বব্যাংকের সহজ শর্তে ঋণ দেওয়ার শাখা",
-       "B": "আইএমএফের একটি তহবিল",
-       "C": "একটি বেসরকারি ব্যাংক",
-       "D": "জাতিসংঘের একটি সংস্থা"
-      },
-      "correct": "A",
+      "options": [
+       "বিশ্বব্যাংকের সহজ শর্তে ঋণ দেওয়ার শাখা",
+       "আইএমএফের একটি তহবিল",
+       "একটি বেসরকারি ব্যাংক",
+       "জাতিসংঘের একটি সংস্থা"
+      ],
+      "correct": 0,
       "explanation": "IDA বিশ্বব্যাংকের সহজ শর্তে (স্বল্প সুদে) ঋণ দেওয়ার শাখা।"
      },
      {
       "question": "সবচেয়ে দরিদ্র দেশগুলো নতুন বেসরকারি ঋণে গড়ে কত শতাংশ সুদ দিয়েছে?",
-      "options": {
-       "A": "৫.৫ শতাংশ",
-       "B": "৮.২ শতাংশ",
-       "C": "৯.৪ শতাংশ",
-       "D": "১.৯ শতাংশ"
-      },
-      "correct": "B",
+      "options": [
+       "৫.৫ শতাংশ",
+       "৮.২ শতাংশ",
+       "৯.৪ শতাংশ",
+       "১.৯ শতাংশ"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে গড়ে ৮.২ শতাংশ — ১৯৮৯ সালের পর সর্বোচ্চ।"
      },
      {
       "question": "২০২৫ সালে নিম্ন ও মধ্যম আয়ের দেশগুলো ঋণ পরিশোধে কত দিয়েছে?",
-      "options": {
-       "A": "৯৪০ বিলিয়ন ডলার",
-       "B": "৪৩৬ বিলিয়ন ডলার",
-       "C": "২৫১ বিলিয়ন ডলার",
-       "D": "১.৪ ট্রিলিয়ন ডলার"
-      },
-      "correct": "D",
+      "options": [
+       "৯৪০ বিলিয়ন ডলার",
+       "৪৩৬ বিলিয়ন ডলার",
+       "২৫১ বিলিয়ন ডলার",
+       "১.৪ ট্রিলিয়ন ডলার"
+      ],
+      "correct": 3,
       "explanation": "খবরে বলা হয়েছে ঋণ পরিশোধে ১.৪ ট্রিলিয়ন ডলার দেওয়া হয়েছে।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "উন্নয়নশীল দেশগুলোর ঋণ বাড়ার প্রধান কারণগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "বেসরকারি ঋণদাতাদের কাছ থেকে ঋণ বেড়েছে",
        "রাষ্ট্রায়ত্ত প্রতিষ্ঠানের বন্ড ৩৫% বেড়েছে",
        "উচ্চ সুদে নতুন ঋণ নেওয়া হচ্ছে"
       ]
      },
-     {
+     "analytical": {
       "question": "ঋণ পরিশোধের ব্যয় বাড়লে উন্নয়ন কীভাবে ক্ষতিগ্রস্ত হয়? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "শিক্ষা, স্বাস্থ্য ও অবকাঠামোতে বিনিয়োগ কমে (crowding out)",
        "নতুন অর্থায়নের চেয়ে বেশি টাকা বাইরে চলে যায়",
        "ঋণ পুনর্গঠন ও সহজ শর্তের ঋণের প্রয়োজন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "debt",
-      "bangla_meaning": "ঋণ",
+      "meaning_bn": "ঋণ",
       "example": "Developing countries' debt hit a record $9.4 trillion.",
-      "synonym": "loan, liability",
-      "antonym": "credit, asset"
+      "synonyms": [
+       "loan",
+       "liability"
+      ],
+      "antonyms": [
+       "credit",
+       "asset"
+      ]
      },
      {
       "word": "creditor",
-      "bangla_meaning": "ঋণদাতা",
+      "meaning_bn": "ঋণদাতা",
       "example": "Borrowing from private creditors drove the increase.",
-      "synonym": "lender",
-      "antonym": "debtor, borrower"
+      "synonyms": [
+       "lender"
+      ],
+      "antonyms": [
+       "debtor",
+       "borrower"
+      ]
      },
      {
       "word": "default",
-      "bangla_meaning": "খেলাপ",
+      "meaning_bn": "খেলাপ",
       "example": "High borrowing costs raise the risk of debt default.",
-      "synonym": "non-payment, failure to pay",
-      "antonym": "repayment"
+      "synonyms": [
+       "non-payment",
+       "failure to pay"
+      ],
+      "antonyms": [
+       "repayment"
+      ]
      },
      {
       "word": "bond",
-      "bangla_meaning": "বন্ড",
+      "meaning_bn": "বন্ড",
       "example": "Bond issuance by public enterprises rose nearly 35 percent.",
-      "synonym": "security, debenture",
-      "antonym": "—"
+      "synonyms": [
+       "security",
+       "debenture"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "deficit",
-      "bangla_meaning": "ঘাটতি",
+      "meaning_bn": "ঘাটতি",
       "example": "Debt service crowds out spending on education and health.",
-      "synonym": "shortfall, gap",
-      "antonym": "surplus"
+      "synonyms": [
+       "shortfall",
+       "gap"
+      ],
+      "antonyms": [
+       "surplus"
+      ]
      }
     ],
     "revision": {
@@ -3499,7 +3997,14 @@
      "note": "বিশ্বের বাস্তুচ্যুত মানুষের প্রায় তিন-চতুর্থাংশ",
      "figure": "৯০ মিলিয়ন"
     },
-    "news_summary": "জাতিসংঘের শরণার্থী সংস্থা (UNHCR) জানিয়েছে, প্রায় ৯ কোটি জোরপূর্বক বাস্তুচ্যুত মানুষ এমন দেশে বাস করছে যেখানে জলবায়ুজনিত খরা, বন্যা ও তীব্র তাপের ঝুঁকি বাড়ছে। বিশ্বের বাস্তুচ্যুত মানুষের প্রায় তিন-চতুর্থাংশ আফগানিস্তান ও বাংলাদেশের মতো তীব্র জলবায়ু ঝুঁকির দেশে থাকে। তুরস্কের আন্তালিয়ায় কপ৩১ জলবায়ু সম্মেলনের আগে সংস্থাটি আরও জলবায়ু অর্থায়নের আহ্বান জানিয়েছে।",
+    "news_summary": {
+     "text": "জাতিসংঘের শরণার্থী সংস্থা (UNHCR) জানিয়েছে, প্রায় ৯ কোটি জোরপূর্বক বাস্তুচ্যুত মানুষ এমন দেশে বাস করছে যেখানে জলবায়ুজনিত খরা, বন্যা ও তীব্র তাপের ঝুঁকি বাড়ছে। বিশ্বের বাস্তুচ্যুত মানুষের প্রায় তিন-চতুর্থাংশ আফগানিস্তান ও বাংলাদেশের মতো তীব্র জলবায়ু ঝুঁকির দেশে থাকে। তুরস্কের আন্তালিয়ায় কপ৩১ জলবায়ু সম্মেলনের আগে সংস্থাটি আরও জলবায়ু অর্থায়নের আহ্বান জানিয়েছে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-06",
+      "url": "https://en.prothomalo.com/international/g6t5yf50f7"
+     }
+    },
     "verified_facts": [
      {
       "fact": "প্রায় ৯০ মিলিয়ন জোরপূর্বক বাস্তুচ্যুত মানুষ জলবায়ুজনিত খরা, বন্যা ও তীব্র তাপের ঝুঁকিতে থাকা দেশে বাস করে",
@@ -3546,121 +4051,156 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "UNHCR = United Nations High Commissioner for Refugees (জাতিসংঘের শরণার্থী সংস্থা)",
-      "মূল সংখ্যা: ৯০ মিলিয়ন বাস্তুচ্যুত মানুষ জলবায়ু ঝুঁকিতে; তিন-চতুর্থাংশ; ২০৫০ সালে ১০০ দিন বিপজ্জনক তাপ",
-      "কপ৩১: আন্তালিয়া, তুরস্ক; ৯–২০ নভেম্বর ২০২৬",
-      "মনে রাখার কৌশল: ৯০ মিলিয়ন = তিন-চতুর্থাংশ; বাংলাদেশ নাম আছে ঝুঁকির দেশের তালিকায়"
-     ],
-     "sources": [
-      {
-       "name": "UNHCR — Ahead of COP31, UNHCR warns nearly 90 million displaced people face severe climate risks",
-       "url": "https://www.unhcr.org/news/press-releases/ahead-cop31-unhcr-warns-nearly-90-million-displaced-people-face-severe-climate"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "UNHCR",
+      "full_name": "United Nations High Commissioner for Refugees",
+      "role": "United Nations High Commissioner for Refugees (জাতিসংঘের শরণার্থী সংস্থা)",
+      "source": "UNHCR — Ahead of COP31, UNHCR warns nearly 90 million displaced people face severe climate risks"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "মূল সংখ্যা",
+      "meaning": "৯০ মিলিয়ন বাস্তুচ্যুত মানুষ জলবায়ু ঝুঁকিতে; তিন-চতুর্থাংশ; ২০৫০ সালে ১০০ দিন বিপজ্জনক তাপ",
+      "source": "UNHCR — Ahead of COP31, UNHCR warns nearly 90 million displaced people face severe climate risks"
+     },
+     {
+      "term": "কপ৩১",
+      "meaning": "আন্তালিয়া, তুরস্ক; ৯–২০ নভেম্বর ২০২৬",
+      "source": "UNHCR — Ahead of COP31, UNHCR warns nearly 90 million displaced people face severe climate risks"
+     },
+     {
+      "term": "মনে রাখার কৌশল: ৯০ মিলিয়ন",
+      "meaning": "তিন-চতুর্থাংশ; বাংলাদেশ নাম আছে ঝুঁকির দেশের তালিকায়",
+      "source": "UNHCR — Ahead of COP31, UNHCR warns nearly 90 million displaced people face severe climate risks"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "জলবায়ু ঝুঁকিতে থাকা জোরপূর্বক বাস্তুচ্যুত মানুষ কত?",
-      "options": {
-       "A": "প্রায় ৫০ মিলিয়ন",
-       "B": "প্রায় ৯০ মিলিয়ন",
-       "C": "প্রায় ৭০ মিলিয়ন",
-       "D": "প্রায় ১২০ মিলিয়ন"
-      },
-      "correct": "B",
+      "options": [
+       "প্রায় ৫০ মিলিয়ন",
+       "প্রায় ৯০ মিলিয়ন",
+       "প্রায় ৭০ মিলিয়ন",
+       "প্রায় ১২০ মিলিয়ন"
+      ],
+      "correct": 1,
       "explanation": "খবরে বলা হয়েছে প্রায় ৯০ মিলিয়ন বাস্তুচ্যুত মানুষ জলবায়ু ঝুঁকিতে আছে।"
      },
      {
       "question": "UNHCR-এর পূর্ণরূপ কী?",
-      "options": {
-       "A": "United Nations High Commissioner for Refugees",
-       "B": "United Nations Humanitarian Council for Refugees",
-       "C": "Universal Network for Human Rights and Refugees",
-       "D": "United Nations Health Commission for Refugees"
-      },
-      "correct": "A",
+      "options": [
+       "United Nations High Commissioner for Refugees",
+       "United Nations Humanitarian Council for Refugees",
+       "Universal Network for Human Rights and Refugees",
+       "United Nations Health Commission for Refugees"
+      ],
+      "correct": 0,
       "explanation": "UNHCR মানে United Nations High Commissioner for Refugees — জাতিসংঘের শরণার্থী সংস্থা।"
      },
      {
       "question": "বিশ্বের বাস্তুচ্যুত মানুষের কত অংশ জলবায়ু ঝুঁকির দেশে থাকে?",
-      "options": {
-       "A": "এক-চতুর্থাংশ",
-       "B": "অর্ধেক",
-       "C": "সবাই",
-       "D": "তিন-চতুর্থাংশ"
-      },
-      "correct": "D",
+      "options": [
+       "এক-চতুর্থাংশ",
+       "অর্ধেক",
+       "সবাই",
+       "তিন-চতুর্থাংশ"
+      ],
+      "correct": 3,
       "explanation": "খবরে বলা হয়েছে প্রায় তিন-চতুর্থাংশ বাস্তুচ্যুত মানুষ জলবায়ু ঝুঁকির দেশে থাকে।"
      },
      {
       "question": "কপ৩১ কোথায় হচ্ছে?",
-      "options": {
-       "A": "বাকু, আজারবাইজান",
-       "B": "দুবাই, সংযুক্ত আরব আমিরাত",
-       "C": "আন্তালিয়া, তুরস্ক",
-       "D": "গ্লাসগো, যুক্তরাজ্য"
-      },
-      "correct": "C",
+      "options": [
+       "বাকু, আজারবাইজান",
+       "দুবাই, সংযুক্ত আরব আমিরাত",
+       "আন্তালিয়া, তুরস্ক",
+       "গ্লাসগো, যুক্তরাজ্য"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে কপ৩১ তুরস্কের আন্তালিয়ায় হচ্ছে।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "বাংলাদেশ কেন জলবায়ু-বাস্তুচ্যুতির ঝুঁকিতে আছে? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "বন্যা, ঘূর্ণিঝড় ও লবণাক্ততা",
        "নদীভাঙন ও সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি",
        "ঘনবসতি ও দারিদ্র্য"
       ]
      },
-     {
+     "analytical": {
       "question": "জলবায়ু পরিবর্তন ও বাস্তুচ্যুতির সম্পর্ক বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "জলবায়ু ঝুঁকি জীবিকা ধ্বংস করে, মানুষ বাড়ি ছাড়তে বাধ্য হয়",
        "বাস্তুচ্যুত মানুষ আবার ঝুঁকির দেশেই ফেরে — দুষ্টচক্র",
        "অভিযোজন অর্থায়ন ও টেকসই প্রত্যাবর্তনের প্রয়োজন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "refugee",
-      "bangla_meaning": "শরণার্থী",
+      "meaning_bn": "শরণার্থী",
       "example": "Nearly 90 million forcibly displaced people are at climate risk.",
-      "synonym": "asylum seeker, exile",
-      "antonym": "citizen"
+      "synonyms": [
+       "asylum seeker",
+       "exile"
+      ],
+      "antonyms": [
+       "citizen"
+      ]
      },
      {
       "word": "displacement",
-      "bangla_meaning": "বাস্তুচ্যুতি",
+      "meaning_bn": "বাস্তুচ্যুতি",
       "example": "Climate change is making it harder for displaced people to return home.",
-      "synonym": "eviction, uprooting",
-      "antonym": "settlement"
+      "synonyms": [
+       "eviction",
+       "uprooting"
+      ],
+      "antonyms": [
+       "settlement"
+      ]
      },
      {
       "word": "shelter",
-      "bangla_meaning": "আশ্রয়",
+      "meaning_bn": "আশ্রয়",
       "example": "Refugee settlements need shelter from extreme heat.",
-      "synonym": "refuge, housing",
-      "antonym": "exposure"
+      "synonyms": [
+       "refuge",
+       "housing"
+      ],
+      "antonyms": [
+       "exposure"
+      ]
      },
      {
       "word": "vulnerable",
-      "bangla_meaning": "ঝুঁকিপূর্ণ",
+      "meaning_bn": "ঝুঁকিপূর্ণ",
       "example": "Displaced people live in countries highly vulnerable to climate hazards.",
-      "synonym": "exposed, at risk",
-      "antonym": "protected, safe"
+      "synonyms": [
+       "exposed",
+       "at risk"
+      ],
+      "antonyms": [
+       "protected",
+       "safe"
+      ]
      },
      {
       "word": "resettlement",
-      "bangla_meaning": "পুনর্বাসন",
+      "meaning_bn": "পুনর্বাসন",
       "example": "Sustainable return and resettlement need climate finance.",
-      "synonym": "relocation, rehabilitation",
-      "antonym": "displacement"
+      "synonyms": [
+       "relocation",
+       "rehabilitation"
+      ],
+      "antonyms": [
+       "displacement"
+      ]
      }
     ],
     "revision": {
@@ -3779,7 +4319,14 @@
      "note": "সবচেয়ে উষ্ণ অক্টোবর; টানা তৃতীয় মাস ১.৫°সে-র ওপরে",
      "figure": "১.৭৫°সে"
     },
-    "news_summary": "২০২৬ সাল দ্বিতীয় উষ্ণতম বছর হতে যাচ্ছে বলে ইউরোপীয় ইউনিয়নের কোপার্নিকাস জলবায়ু পরিবর্তন সেবা জানিয়েছে — ব্যতিক্রমী শক্তিশালী এল নিনো মানবসৃষ্ট বৈশ্বিক উষ্ণায়নকে আরও বাড়িয়ে দিচ্ছে। এই বছর ২০২৪ সালকে ছাড়িয়ে সবচেয়ে উষ্ণ বছর হওয়ার ২০ শতাংশ সম্ভাবনা আছে। ২০২৬ সালে বৈশ্বিক তাপমাত্রা প্রাক-শিল্প স্তরের চেয়ে ১.৫ ডিগ্রি সেলসিয়াসের বেশি হবে বলে প্রায় নিশ্চিত, আর অক্টোবর ছিল রেকর্ডে সবচেয়ে উষ্ণ অক্টোবর।",
+    "news_summary": {
+     "text": "২০২৬ সাল দ্বিতীয় উষ্ণতম বছর হতে যাচ্ছে বলে ইউরোপীয় ইউনিয়নের কোপার্নিকাস জলবায়ু পরিবর্তন সেবা জানিয়েছে — ব্যতিক্রমী শক্তিশালী এল নিনো মানবসৃষ্ট বৈশ্বিক উষ্ণায়নকে আরও বাড়িয়ে দিচ্ছে। এই বছর ২০২৪ সালকে ছাড়িয়ে সবচেয়ে উষ্ণ বছর হওয়ার ২০ শতাংশ সম্ভাবনা আছে। ২০২৬ সালে বৈশ্বিক তাপমাত্রা প্রাক-শিল্প স্তরের চেয়ে ১.৫ ডিগ্রি সেলসিয়াসের বেশি হবে বলে প্রায় নিশ্চিত, আর অক্টোবর ছিল রেকর্ডে সবচেয়ে উষ্ণ অক্টোবর।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-06",
+      "url": "https://www.thedailystar.net/news/world/news/2026-most-likely-be-second-hottest-year-record-eu-monitor-4317066"
+     }
+    },
     "verified_facts": [
      {
       "fact": "২০২৬ সাল 'সম্ভবত' দ্বিতীয় উষ্ণতম বছর হবে (কোপার্নিকাস জলবায়ু পরিবর্তন সেবা, ইউরোপীয় ইউনিয়ন)",
@@ -3835,121 +4382,154 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "কোপার্নিকাস (C3S): ইউরোপীয় ইউনিয়নের জলবায়ু সেবা, পরিচালক ECMWF",
-      "প্যারিস চুক্তি ২০১৫: ২°সে-র নিচে, লক্ষ্য ১.৫°সে (প্রাক-শিল্প স্তর = ১৮৫০–১৯০০)",
-      "মূল সংখ্যা: অক্টোবর ১.৭৫°সে বেশি; ২০২৬ দ্বিতীয় উষ্ণতম বছর হওয়ার সম্ভাবনা; ২০% সম্ভাবনা ২০২৪-কে ছাড়ানোর",
-      "মনে রাখার কৌশল: ১.৫°সে = প্যারিস লক্ষ্য; এল নিনো = উষ্ণ পানি = বেশি তাপ"
-     ],
-     "sources": [
-      {
-       "name": "Argus Media — This year almost certain to breach 1.5°C: EU Copernicus",
-       "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2901086-this-year-almost-certain-to-breach-1.5degc-eu-copernicus"
-      }
-     ]
-    },
+    "institutions": [],
+    "extra_knowledge": [
+     {
+      "term": "কোপার্নিকাস",
+      "full_name": "C3S",
+      "meaning": "ইউরোপীয় ইউনিয়নের জলবায়ু সেবা, পরিচালক ECMWF",
+      "source": "Argus Media — This year almost certain to breach 1.5°C: EU Copernicus"
+     },
+     {
+      "term": "প্যারিস চুক্তি ২০১৫",
+      "meaning": "২°সে-র নিচে, লক্ষ্য ১.৫°সে (প্রাক-শিল্প স্তর = ১৮৫০–১৯০০)",
+      "source": "Argus Media — This year almost certain to breach 1.5°C: EU Copernicus"
+     },
+     {
+      "term": "মূল সংখ্যা",
+      "meaning": "অক্টোবর ১.৭৫°সে বেশি; ২০২৬ দ্বিতীয় উষ্ণতম বছর হওয়ার সম্ভাবনা; ২০% সম্ভাবনা ২০২৪-কে ছাড়ানোর",
+      "source": "Argus Media — This year almost certain to breach 1.5°C: EU Copernicus"
+     },
+     {
+      "term": "মনে রাখার কৌশল: ১.৫°সে",
+      "meaning": "প্যারিস লক্ষ্য; এল নিনো = উষ্ণ পানি = বেশি তাপ",
+      "source": "Argus Media — This year almost certain to breach 1.5°C: EU Copernicus"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "২০২৬ সাল কোন স্থানে থাকবে বলে আশা করা হচ্ছে?",
-      "options": {
-       "A": "দ্বিতীয় উষ্ণতম বছর",
-       "B": "সবচেয়ে উষ্ণ বছর",
-       "C": "তৃতীয় উষ্ণতম বছর",
-       "D": "পঞ্চম উষ্ণতম বছর"
-      },
-      "correct": "A",
+      "options": [
+       "দ্বিতীয় উষ্ণতম বছর",
+       "সবচেয়ে উষ্ণ বছর",
+       "তৃতীয় উষ্ণতম বছর",
+       "পঞ্চম উষ্ণতম বছর"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে ২০২৬ সাল 'সম্ভবত' দ্বিতীয় উষ্ণতম বছর হবে।"
      },
      {
       "question": "প্যারিস চুক্তি কোন সালে হয়?",
-      "options": {
-       "A": "২০১০ সালে",
-       "B": "২০২০ সালে",
-       "C": "২০২১ সালে",
-       "D": "২০১৫ সালে"
-      },
-      "correct": "D",
+      "options": [
+       "২০১০ সালে",
+       "২০২০ সালে",
+       "২০২১ সালে",
+       "২০১৫ সালে"
+      ],
+      "correct": 3,
       "explanation": "প্যারিস চুক্তি ২০১৫ সালে হয়; লক্ষ্য উষ্ণায়ন ১.৫°সে-তে সীমিত রাখা।"
      },
      {
       "question": "অক্টোবর ২০২৬-এ বৈশ্বিক তাপমাত্রা প্রাক-শিল্প স্তরের চেয়ে কত বেশি ছিল?",
-      "options": {
-       "A": "১.২৫°সে",
-       "B": "১.৫°সে",
-       "C": "১.৭৫°সে",
-       "D": "২.০°সে"
-      },
-      "correct": "C",
+      "options": [
+       "১.২৫°সে",
+       "১.৫°সে",
+       "১.৭৫°সে",
+       "২.০°সে"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে অক্টোবর প্রাক-শিল্প সময়ের চেয়ে ১.৭৫°সে বেশি ছিল।"
      },
      {
       "question": "এখন পর্যন্ত রেকর্ডে সবচেয়ে উষ্ণ বছর কোনটি?",
-      "options": {
-       "A": "২০২৩ সাল",
-       "B": "২০২৪ সাল",
-       "C": "২০২৫ সাল",
-       "D": "২০২৬ সাল"
-      },
-      "correct": "B",
+      "options": [
+       "২০২৩ সাল",
+       "২০২৪ সাল",
+       "২০২৫ সাল",
+       "২০২৬ সাল"
+      ],
+      "correct": 1,
       "explanation": "২০২৪ সাল এখন পর্যন্ত রেকর্ডে সবচেয়ে উষ্ণ বছর।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "এল নিনো বৈশ্বিক তাপমাত্রা বাড়ায় কীভাবে? সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "প্রশান্ত মহাসাগরের পানি উষ্ণ হয়",
        "বায়ুমণ্ডলে তাপ ছড়ায়",
        "মানবসৃষ্ট উষ্ণায়নের সঙ্গে যুক্ত হয়ে রেকর্ড তাপ দেয়"
       ]
      },
-     {
+     "analytical": {
       "question": "১.৫°সে লক্ষ্য ছাড়ানো মানে কী? প্যারিস চুক্তির প্রেক্ষাপটে বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "১.৫°সে দীর্ঘমেয়াদি গড়ের লক্ষ্য, এক বছরের নয়",
        "এক বছর ছাড়ানো সতর্ক সংকেত, চুক্তি ভঙ্গ নয়",
        "নির্গমন কমানো ও অভিযোজনের জরুরি প্রয়োজন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "emission",
-      "bangla_meaning": "নির্গমন",
+      "meaning_bn": "নির্গমন",
       "example": "Human-driven global warming is caused by greenhouse gas emissions.",
-      "synonym": "discharge, release",
-      "antonym": "absorption"
+      "synonyms": [
+       "discharge",
+       "release"
+      ],
+      "antonyms": [
+       "absorption"
+      ]
      },
      {
       "word": "warming",
-      "bangla_meaning": "উষ্ণায়ন",
+      "meaning_bn": "উষ্ণায়ন",
       "example": "El Niño turbocharges human-driven global warming.",
-      "synonym": "heating, temperature rise",
-      "antonym": "cooling"
+      "synonyms": [
+       "heating",
+       "temperature rise"
+      ],
+      "antonyms": [
+       "cooling"
+      ]
      },
      {
       "word": "threshold",
-      "bangla_meaning": "সীমা",
+      "meaning_bn": "সীমা",
       "example": "Global temperatures are virtually certain to exceed the 1.5°C threshold in 2026.",
-      "synonym": "limit, boundary",
-      "antonym": "—"
+      "synonyms": [
+       "limit",
+       "boundary"
+      ],
+      "antonyms": [
+       "—"
+      ]
      },
      {
       "word": "anomaly",
-      "bangla_meaning": "ব্যত্যয়; স্বাভাবিক থেকে বিচ্যুতি",
+      "meaning_bn": "ব্যত্যয়; স্বাভাবিক থেকে বিচ্যুতি",
       "example": "October was 0.90°C above the 1991-2020 average.",
-      "synonym": "deviation, abnormality",
-      "antonym": "norm"
+      "synonyms": [
+       "deviation",
+       "abnormality"
+      ],
+      "antonyms": [
+       "norm"
+      ]
      },
      {
       "word": "fossil",
-      "bangla_meaning": "জীবাশ্ম",
+      "meaning_bn": "জীবাশ্ম",
       "example": "Burning fossil fuels is the main cause of global warming.",
-      "synonym": "ancient, petrified",
-      "antonym": "—"
+      "synonyms": [
+       "ancient",
+       "petrified"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -4065,7 +4645,14 @@
      "note": "দেশের স্নাতকদের বেশির ভাগই জাতীয় বিশ্ববিদ্যালয়ের",
      "figure": "৬০–৭০%"
     },
-    "news_summary": "উচ্চশিক্ষা বাড়লেও শিক্ষিত মানুষের মধ্যে বেকারত্ব বাড়ছে, কারণ কর্মসংস্থান আনুপাতিক হারে বাড়েনি এবং স্নাতকদের মধ্যে নিয়োগকর্তাদের চাওয়া দক্ষতার ঘাটতি আছে। বিশ্ববিদ্যালয় মঞ্জুরি কমিশনের (ইউজিসি) বার্ষিক প্রতিবেদন বলছে, দেশের স্নাতকদের প্রায় ৬০–৭০ শতাংশ আসে জাতীয় বিশ্ববিদ্যালয় থেকে — অনেকেই সমাজবিজ্ঞান, মানবিক ও ব্যবসায় শিক্ষায় পড়েছে। নিয়োগকর্তারা বলছেন, প্রার্থীদের ব্যবসায়িক সমস্যা সমাধান, পণ্য তৈরি ও বাস্তব প্রয়োগের দক্ষতা নেই।",
+    "news_summary": {
+     "text": "উচ্চশিক্ষা বাড়লেও শিক্ষিত মানুষের মধ্যে বেকারত্ব বাড়ছে, কারণ কর্মসংস্থান আনুপাতিক হারে বাড়েনি এবং স্নাতকদের মধ্যে নিয়োগকর্তাদের চাওয়া দক্ষতার ঘাটতি আছে। বিশ্ববিদ্যালয় মঞ্জুরি কমিশনের (ইউজিসি) বার্ষিক প্রতিবেদন বলছে, দেশের স্নাতকদের প্রায় ৬০–৭০ শতাংশ আসে জাতীয় বিশ্ববিদ্যালয় থেকে — অনেকেই সমাজবিজ্ঞান, মানবিক ও ব্যবসায় শিক্ষায় পড়েছে। নিয়োগকর্তারা বলছেন, প্রার্থীদের ব্যবসায়িক সমস্যা সমাধান, পণ্য তৈরি ও বাস্তব প্রয়োগের দক্ষতা নেই।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-06",
+      "url": "https://en.prothomalo.com/youth/employment/snqz3e2d3j"
+     }
+    },
     "verified_facts": [
      {
       "fact": "দেশের স্নাতকদের প্রায় ৬০–৭০ শতাংশ জাতীয় বিশ্ববিদ্যালয় থেকে আসে (ইউজিসি বার্ষিক প্রতিবেদন)",
@@ -4116,121 +4703,152 @@
       }
      ]
     },
-    "exam_notes": {
-     "notes": [
-      "ইউজিসি: ১৯৭৩ সালে প্রতিষ্ঠিত (রাষ্ট্রপতির আদেশ নং ১০); উচ্চশিক্ষার সর্বোচ্চ সংবিধিবদ্ধ সংস্থা",
-      "জাতীয় বিশ্ববিদ্যালয়: ১৯৯২ সালে প্রতিষ্ঠিত; ২,২৫৪টি অধিভুক্ত কলেজ; বিশ্বের দ্বিতীয় বৃহত্তম (ভর্তির দিক থেকে)",
-      "খবরের সংখ্যা: ৬০–৭০% স্নাতক জাতীয় বিশ্ববিদ্যালয় থেকে; শত শত আবেদনে ভালো করে ১০–১৫ জন",
-      "মনে রাখার কৌশল: UGC ১৯৭৩ — NU ১৯৯২ — ৬০–৭০%"
-     ],
-     "sources": [
-      {
-       "name": "Academia.edu — Some Aspects of Institutional Governance of Higher Educational Institutions in Bangladesh",
-       "url": "https://www.academia.edu/32739357/Some_Aspects_of_Institutional_Governance_of_Higher_Educational_Institutions_in_Bangladesh"
-      }
-     ]
-    },
+    "institutions": [
+     {
+      "name": "ইউজিসি",
+      "role": "১৯৭৩ সালে প্রতিষ্ঠিত (রাষ্ট্রপতির আদেশ নং ১০)। উচ্চশিক্ষার সর্বোচ্চ সংবিধিবদ্ধ সংস্থা",
+      "source": "Academia.edu — Some Aspects of Institutional Governance of Higher Educational Institutions in Bangladesh"
+     },
+     {
+      "name": "জাতীয় বিশ্ববিদ্যালয়",
+      "role": "১৯৯২ সালে প্রতিষ্ঠিত; ২,২৫৪টি অধিভুক্ত কলেজ; বিশ্বের দ্বিতীয় বৃহত্তম (ভর্তির দিক থেকে)",
+      "source": "Academia.edu — Some Aspects of Institutional Governance of Higher Educational Institutions in Bangladesh"
+     }
+    ],
+    "extra_knowledge": [
+     {
+      "term": "খবরের সংখ্যা",
+      "meaning": "৬০–৭০% স্নাতক জাতীয় বিশ্ববিদ্যালয় থেকে; শত শত আবেদনে ভালো করে ১০–১৫ জন",
+      "source": "Academia.edu — Some Aspects of Institutional Governance of Higher Educational Institutions in Bangladesh"
+     },
+     {
+      "term": "মনে রাখার কৌশল",
+      "meaning": "UGC ১৯৭৩ — NU ১৯৯২ — ৬০–৭০%",
+      "source": "Academia.edu — Some Aspects of Institutional Governance of Higher Educational Institutions in Bangladesh"
+     }
+    ],
     "mcq_practice": [
      {
       "question": "দেশের স্নাতকদের কত শতাংশ জাতীয় বিশ্ববিদ্যালয় থেকে আসে?",
-      "options": {
-       "A": "৬০–৭০ শতাংশ",
-       "B": "৩০–৪০ শতাংশ",
-       "C": "৪০–৫০ শতাংশ",
-       "D": "৮০–৯০ শতাংশ"
-      },
-      "correct": "A",
+      "options": [
+       "৬০–৭০ শতাংশ",
+       "৩০–৪০ শতাংশ",
+       "৪০–৫০ শতাংশ",
+       "৮০–৯০ শতাংশ"
+      ],
+      "correct": 0,
       "explanation": "খবরে বলা হয়েছে প্রায় ৬০–৭০ শতাংশ স্নাতক জাতীয় বিশ্ববিদ্যালয় থেকে আসে।"
      },
      {
       "question": "ইউজিসি কত সালে প্রতিষ্ঠিত হয়?",
-      "options": {
-       "A": "১৯৭২ সালে",
-       "B": "১৯৭৩ সালে",
-       "C": "১৯৯২ সালে",
-       "D": "২০০০ সালে"
-      },
-      "correct": "B",
+      "options": [
+       "১৯৭২ সালে",
+       "১৯৭৩ সালে",
+       "১৯৯২ সালে",
+       "২০০০ সালে"
+      ],
+      "correct": 1,
       "explanation": "ইউজিসি ১৯৭৩ সালে রাষ্ট্রপতির আদেশ নং ১০ অনুযায়ী প্রতিষ্ঠিত হয়।"
      },
      {
       "question": "জাতীয় বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়?",
-      "options": {
-       "A": "১৯৭৩ সালে",
-       "B": "১৯৮২ সালে",
-       "C": "২০০২ সালে",
-       "D": "১৯৯২ সালে"
-      },
-      "correct": "D",
+      "options": [
+       "১৯৭৩ সালে",
+       "১৯৮২ সালে",
+       "২০০২ সালে",
+       "১৯৯২ সালে"
+      ],
+      "correct": 3,
       "explanation": "জাতীয় বিশ্ববিদ্যালয় ১৯৯২ সালে প্রতিষ্ঠিত হয়।"
      },
      {
       "question": "মার্কোপোলো.এআই-এর তথ্য অনুযায়ী, সমস্যা সমাধান পরীক্ষায় ভালো করে কত জন?",
-      "options": {
-       "A": "পাঁচ-ছয় জন",
-       "B": "৫০–৬০ জন",
-       "C": "১০–১৫ জন",
-       "D": "শত শত জন"
-      },
-      "correct": "C",
+      "options": [
+       "পাঁচ-ছয় জন",
+       "৫০–৬০ জন",
+       "১০–১৫ জন",
+       "শত শত জন"
+      ],
+      "correct": 2,
       "explanation": "খবরে বলা হয়েছে শত শত আবেদনের মধ্যে সমস্যা সমাধান পরীক্ষায় ভালো করে মাত্র ১০–১৫ জন।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
       "question": "শিক্ষিত বেকারত্ব বাড়ার কারণগুলো সংক্ষেপে লিখুন।",
-      "type": "short",
       "outline": [
        "কর্মসংস্থান শিক্ষার হারে বাড়ছে না",
        "পাঠ্যক্রম ও নিয়োগকর্তার চাহিদার মধ্যে ফারাক",
        "বাস্তব দক্ষতার ঘাটতি"
       ]
      },
-     {
+     "analytical": {
       "question": "দক্ষতার ঘাটতি মেটাতে উচ্চশিক্ষায় কী কী সংস্কার দরকার? বিশ্লেষণ করুন।",
-      "type": "analytical",
       "outline": [
        "পাঠ্যক্রমে বাস্তব সমস্যা সমাধান ও হাতে-কলমে কাজ",
        "শিল্প-শিক্ষা সংযোগ ও ইন্টার্নশিপ",
        "জাতীয় বিশ্ববিদ্যালয়ের কলেজগুলোতে মানোন্নয়ন"
       ]
      }
-    ],
+    },
     "vocabulary": [
      {
       "word": "unemployment",
-      "bangla_meaning": "বেকারত্ব",
+      "meaning_bn": "বেকারত্ব",
       "example": "Unemployment among educated people is rising.",
-      "synonym": "joblessness",
-      "antonym": "employment"
+      "synonyms": [
+       "joblessness"
+      ],
+      "antonyms": [
+       "employment"
+      ]
      },
      {
       "word": "graduate",
-      "bangla_meaning": "স্নাতক",
+      "meaning_bn": "স্নাতক",
       "example": "About 60-70 percent of the country's graduates come from the National University.",
-      "synonym": "degree holder",
-      "antonym": "undergraduate"
+      "synonyms": [
+       "degree holder"
+      ],
+      "antonyms": [
+       "undergraduate"
+      ]
      },
      {
       "word": "skill",
-      "bangla_meaning": "দক্ষতা",
+      "meaning_bn": "দক্ষতা",
       "example": "Graduates lack the skills employers need.",
-      "synonym": "ability, expertise",
-      "antonym": "incompetence"
+      "synonyms": [
+       "ability",
+       "expertise"
+      ],
+      "antonyms": [
+       "incompetence"
+      ]
      },
      {
       "word": "employer",
-      "bangla_meaning": "নিয়োগকর্তা",
+      "meaning_bn": "নিয়োগকর্তা",
       "example": "Employers say applicants lack practical application skills.",
-      "synonym": "boss, recruiter",
-      "antonym": "employee"
+      "synonyms": [
+       "boss",
+       "recruiter"
+      ],
+      "antonyms": [
+       "employee"
+      ]
      },
      {
       "word": "proportion",
-      "bangla_meaning": "অনুপাত; হার",
+      "meaning_bn": "অনুপাত; হার",
       "example": "Employment has not grown proportionally with higher education.",
-      "synonym": "ratio, share",
-      "antonym": "—"
+      "synonyms": [
+       "ratio",
+       "share"
+      ],
+      "antonyms": [
+       "—"
+      ]
      }
     ],
     "revision": {
@@ -5449,8 +6067,8 @@
  "backfilled": true,
  "backfill_note": "Backfilled edition: built from real articles published 6 November 2026 (Daily Star, Prothom Alo English via sitemaps and Bing News RSS). Friday edition — thinner news day (119 articles collected vs 148-166 on other backfill days). CA03 (dengue) and CA04 (measles) have no Current Affairs MCQ.",
  "approved_by": "Rudro (via granted full autonomy — 'do everything do not wait for me', 2026-11-07)",
- "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17",
+ "renovation_format": "learning-module-v2",
+ "renovation_date": "2026-11-18",
  "renovation_notes": [
   "Rewrote 30 English and added 30 Bangla short-answer questions across all 15 stories.",
   "Questions use facts already present in the edition; allegations and attributed agency or company claims remain qualified.",

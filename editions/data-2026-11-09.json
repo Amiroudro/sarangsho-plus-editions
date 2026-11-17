@@ -73,107 +73,40 @@
    ],
    "detail": "The Dhaka Tribune editorial says that as world leaders assemble in Antalya, Türkiye, for COP31, the 31st United Nations Climate Change Conference, the threat of climate change has long ceased to be an abstract danger, and the world must now be held accountable for the climate crisis. The editorial presents the Antalya summit as the forum where that accountability is due.",
    "learning_module": {
-    "deep_prep": [
-     "UNFCCC: গঠন ও উদ্দেশ্য",
-     "কিয়োটো প্রটোকল (১৯৯৭)",
-     "প্যারিস চুক্তি (২০১৫)",
-     "Loss and Damage Fund",
-     "বাংলাদেশের জলবায়ু ঝুঁকি ও অভিযোজন",
-     "Global Stocktake"
-    ],
-    "exam_notes": {
-     "notes": [
-      "COP = Conference of the Parties; UNFCCC = United Nations Framework Convention on Climate Change।",
-      "পরীক্ষায় আসে: COP-এর সংখ্যা ও স্থান, কিয়োটো (১৯৯৭) ও প্যারিস (২০১৫) চুক্তির বছর, UNFCCC গৃহীত ১৯৯২ ও কার্যকর ১৯৯৪।",
-      "জলবায়ু অর্থায়ন (climate finance), অভিযোজন (adaptation) ও ক্ষয়ক্ষতি (loss and damage) — COP আলোচনার তিনটি মূল বিষয়।",
-      "বাংলাদেশ জলবায়ু-ঝুঁকিপূর্ণ দেশ হিসেবে ক্ষতিপূরণ ও অভিযোজন অর্থায়নের দাবি তোলে।"
-     ],
-     "sources": [
-      {
-       "name": "UNFCCC — The Global Negotiation Process",
-       "url": "https://unfccc.int/about-us/unfccc-archives/the-unfccc-archival-exhibition/the-global-negotiation-process"
-      }
-     ]
-    },
     "hero": {
      "label": "COP31 — জাতিসংঘ জলবায়ু সম্মেলনের ৩১তম অধিবেশন, আন্তালিয়া, তুরস্ক",
      "figure": "৩১তম"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "ঢাকা ট্রিবিউনের সম্পাদকীয় (৮ নভেম্বর ২০২৬) বলছে, বিশ্বনেতারা যখন তুরস্কের আন্তালিয়ায় COP31-এ জড়ো হচ্ছেন, তখন জলবায়ু সংকট আর বিমূর্ত বিপদ নয় — এখন বিশ্বকে এর জন্য জবাবদিহি করতে হবে। সম্পাদকীয়টি আন্তালিয়া সম্মেলনকেই সেই জবাবদিহির মঞ্চ হিসেবে দেখছে।",
+     "source": {
+      "publication": "Dhaka Tribune",
+      "date": "2026-11-08",
+      "url": "https://www.dhakatribune.com/opinion/editorial/424069/holding-the-world-accountable-for-the-climate"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "B",
-      "explanation": "COP = Conference of the Parties — UNFCCC-র সর্বোচ্চ সিদ্ধান্ত গ্রহণকারী সংস্থা।",
-      "options": {
-       "A": "Committee of Parties",
-       "B": "Conference of the Parties",
-       "C": "Council of Participating States",
-       "D": "Convention on Pollution"
-      },
-      "question": "COP-এর পূর্ণরূপ কী?"
+      "label": "প্রকাশনা ও তারিখ",
+      "source": "Dhaka Tribune, 8 Nov 2026",
+      "value": "ঢাকা ট্রিবিউন সম্পাদকীয়, ৮ নভেম্বর ২০২৬"
      },
      {
-      "correct": "D",
-      "explanation": "COP31 তুরস্কের আন্তালিয়ায় অনুষ্ঠিত হচ্ছে।",
-      "options": {
-       "A": "দুবাই, সংযুক্ত আরব আমিরাত",
-       "B": "শার্ম এল-শেখ, মিসর",
-       "C": "জেনেভা, সুইজারল্যান্ড",
-       "D": "আন্তালিয়া, তুরস্ক"
-      },
-      "question": "COP31 কোথায় অনুষ্ঠিত হচ্ছে?"
+      "label": "সম্মেলন",
+      "source": "Dhaka Tribune, 8 Nov 2026",
+      "value": "COP31 — ৩১তম জাতিসংঘ জলবায়ু পরিবর্তন সম্মেলন"
      },
      {
-      "correct": "A",
-      "explanation": "COP1 হয়েছিল ১৯৯৫ সালে জার্মানির বার্লিনে।",
-      "options": {
-       "A": "১৯৯৫ সালে বার্লিনে",
-       "B": "১৯৯২ সালে রিওতে",
-       "C": "১৯৯৭ সালে কিয়োটোতে",
-       "D": "২০১৫ সালে প্যারিসে"
-      },
-      "question": "প্রথম COP কবে ও কোথায় হয়েছিল?"
+      "label": "স্থান",
+      "source": "Dhaka Tribune, 8 Nov 2026",
+      "value": "আন্তালিয়া, তুরস্ক — বিশ্বনেতারা সেখানে জড়ো হচ্ছেন"
      },
      {
-      "correct": "C",
-      "explanation": "প্যারিস চুক্তি ২০১৫ সালে COP21-এ গৃহীত হয়।",
-      "options": {
-       "A": "COP3",
-       "B": "COP15",
-       "C": "COP21",
-       "D": "COP28"
-      },
-      "question": "প্যারিস চুক্তি কোন COP-এ গৃহীত হয়?"
+      "label": "COP-এর অর্থ",
+      "source": "Dhaka Tribune story exam_facts",
+      "value": "Conference of the Parties — জাতিসংঘের জলবায়ু আলোচনা"
      }
     ],
-    "news_summary": "ঢাকা ট্রিবিউনের সম্পাদকীয় (৮ নভেম্বর ২০২৬) বলছে, বিশ্বনেতারা যখন তুরস্কের আন্তালিয়ায় COP31-এ জড়ো হচ্ছেন, তখন জলবায়ু সংকট আর বিমূর্ত বিপদ নয় — এখন বিশ্বকে এর জন্য জবাবদিহি করতে হবে। সম্পাদকীয়টি আন্তালিয়া সম্মেলনকেই সেই জবাবদিহির মঞ্চ হিসেবে দেখছে।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "আন্তালিয়া, তুরস্ক",
-       "q": "COP31 কোথায় হচ্ছে?"
-      },
-      {
-       "a": "Conference of the Parties",
-       "q": "COP-এর পূর্ণরূপ কী?"
-      },
-      {
-       "a": "COP3, কিয়োটো, ১৯৯৭",
-       "q": "কিয়োটো প্রটোকল কোন COP-এ গৃহীত হয়?"
-      },
-      {
-       "a": "২০১৫ সালে, COP21-এ",
-       "q": "প্যারিস চুক্তি কোন সালে গৃহীত হয়?"
-      },
-      {
-       "a": "১৯৯৪ সালে",
-       "q": "UNFCCC কবে কার্যকর হয়?"
-      }
-     ],
-     "next_revision": [
-      "COP-এর সঙ্গে CMP ও CMA-র পার্থক্য কী?",
-      "কিয়োটো প্রটোকল ও প্যারিস চুক্তির মূল পার্থক্য কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "COP বনাম CMP বনাম CMA: COP কনভেনশনের, CMP কিয়োটো প্রটোকলের, CMA প্যারিস চুক্তির সর্বোচ্চ সংস্থা।",
@@ -209,84 +142,188 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "প্রকাশনা ও তারিখ",
-      "source": "Dhaka Tribune, 8 Nov 2026",
-      "value": "ঢাকা ট্রিবিউন সম্পাদকীয়, ৮ নভেম্বর ২০২৬"
-     },
-     {
-      "label": "সম্মেলন",
-      "source": "Dhaka Tribune, 8 Nov 2026",
-      "value": "COP31 — ৩১তম জাতিসংঘ জলবায়ু পরিবর্তন সম্মেলন"
-     },
-     {
-      "label": "স্থান",
-      "source": "Dhaka Tribune, 8 Nov 2026",
-      "value": "আন্তালিয়া, তুরস্ক — বিশ্বনেতারা সেখানে জড়ো হচ্ছেন"
-     },
-     {
-      "label": "COP-এর অর্থ",
-      "source": "Dhaka Tribune story exam_facts",
-      "value": "Conference of the Parties — জাতিসংঘের জলবায়ু আলোচনা"
+      "name": "UNFCCC",
+      "role": "United Nations Framework Convention on Climate Change।",
+      "source": "UNFCCC — The Global Negotiation Process"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "unaccountable",
-      "bangla_meaning": "জবাবদিহিমূলক; দায়বদ্ধ",
-      "example": "Holding the world accountable for the climate crisis.",
-      "synonym": "responsible",
-      "word": "accountable"
+      "term": "COP",
+      "full_name": "Conference of the Parties",
+      "meaning": "COP = Conference of the Parties",
+      "source": "UNFCCC — The Global Negotiation Process"
      },
      {
-      "antonym": "dispersal",
-      "bangla_meaning": "সমাবেশ; জমায়েত",
-      "example": "World leaders assemble in Antalya for COP31.",
-      "synonym": "gathering",
-      "word": "assembly"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "COP-এর সংখ্যা ও স্থান, কিয়োটো (১৯৯৭) ও প্যারিস (২০১৫) চুক্তির বছর, UNFCCC গৃহীত ১৯৯২ ও কার্যকর ১৯৯৪।",
+      "source": "UNFCCC — The Global Negotiation Process"
      },
      {
-      "antonym": "concrete",
-      "bangla_meaning": "বিমূর্ত; অস্পষ্ট",
-      "example": "The threat of climate change has long ceased to be an abstract danger.",
-      "synonym": "theoretical",
-      "word": "abstract"
-     },
-     {
-      "antonym": "stability",
-      "bangla_meaning": "সংকট",
-      "example": "The world must now be held accountable for the climate crisis.",
-      "synonym": "emergency",
-      "word": "crisis"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "শীর্ষ সম্মেলন",
-      "example": "The Antalya summit is the forum where accountability is due.",
-      "synonym": "conference",
-      "word": "summit"
+      "term": "জলবায়ু অর্থায়ন (climate finance), অভিযোজন (adaptation) ও ক্ষয়ক্ষতি",
+      "full_name": "loss and damage",
+      "meaning": "COP আলোচনার তিনটি মূল বিষয়। বাংলাদেশ জলবায়ু-ঝুঁকিপূর্ণ দেশ হিসেবে ক্ষতিপূরণ ও অভিযোজন অর্থায়নের দাবি তোলে।",
+      "source": "UNFCCC — The Global Negotiation Process"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "COP-এর পূর্ণরূপ কী?",
+      "options": [
+       "Committee of Parties",
+       "Conference of the Parties",
+       "Council of Participating States",
+       "Convention on Pollution"
+      ],
+      "correct": 1,
+      "explanation": "COP = Conference of the Parties — UNFCCC-র সর্বোচ্চ সিদ্ধান্ত গ্রহণকারী সংস্থা।"
+     },
+     {
+      "question": "COP31 কোথায় অনুষ্ঠিত হচ্ছে?",
+      "options": [
+       "দুবাই, সংযুক্ত আরব আমিরাত",
+       "শার্ম এল-শেখ, মিসর",
+       "জেনেভা, সুইজারল্যান্ড",
+       "আন্তালিয়া, তুরস্ক"
+      ],
+      "correct": 3,
+      "explanation": "COP31 তুরস্কের আন্তালিয়ায় অনুষ্ঠিত হচ্ছে।"
+     },
+     {
+      "question": "প্রথম COP কবে ও কোথায় হয়েছিল?",
+      "options": [
+       "১৯৯৫ সালে বার্লিনে",
+       "১৯৯২ সালে রিওতে",
+       "১৯৯৭ সালে কিয়োটোতে",
+       "২০১৫ সালে প্যারিসে"
+      ],
+      "correct": 0,
+      "explanation": "COP1 হয়েছিল ১৯৯৫ সালে জার্মানির বার্লিনে।"
+     },
+     {
+      "question": "প্যারিস চুক্তি কোন COP-এ গৃহীত হয়?",
+      "options": [
+       "COP3",
+       "COP15",
+       "COP21",
+       "COP28"
+      ],
+      "correct": 2,
+      "explanation": "প্যারিস চুক্তি ২০১৫ সালে COP21-এ গৃহীত হয়।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "COP31-এ বাংলাদেশের প্রধান দাবিগুলো কী হওয়া উচিত? সংক্ষেপে লেখো।",
       "outline": [
        "জলবায়ু অর্থায়ন বাড়ানো — অভিযোজন ও ক্ষয়ক্ষতির জন্য অর্থ",
        "উন্নত দেশগুলোর নির্গমন কমানোর প্রতিশ্রুতি বাস্তবায়ন",
        "Loss and Damage Fund থেকে বাংলাদেশের প্রাপ্য নিশ্চিত করা"
-      ],
-      "question": "COP31-এ বাংলাদেশের প্রধান দাবিগুলো কী হওয়া উচিত? সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "‘জলবায়ু সংকটের জন্য বিশ্বকে জবাবদিহি করতে হবে’ — এই বক্তব্যের পক্ষে-বিপক্ষে যুক্তি দিয়ে বিশ্লেষণ করো।",
       "outline": [
        "ঐতিহাসিক নির্গমনে উন্নত দেশের দায় বেশি — ন্যায়ের প্রশ্ন",
        "ঝুঁকিপূর্ণ দেশগুলোর ক্ষতি বনাম তাদের নির্গমন — অসাম্য",
        "জবাবদিহির বাস্তব উপায়: অর্থায়ন, প্রযুক্তি হস্তান্তর, ক্ষতিপূরণ তহবিল"
-      ],
-      "question": "‘জলবায়ু সংকটের জন্য বিশ্বকে জবাবদিহি করতে হবে’ — এই বক্তব্যের পক্ষে-বিপক্ষে যুক্তি দিয়ে বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "accountable",
+      "meaning_bn": "জবাবদিহিমূলক; দায়বদ্ধ",
+      "example": "Holding the world accountable for the climate crisis.",
+      "synonyms": [
+       "responsible"
+      ],
+      "antonyms": [
+       "unaccountable"
+      ]
+     },
+     {
+      "word": "assembly",
+      "meaning_bn": "সমাবেশ; জমায়েত",
+      "example": "World leaders assemble in Antalya for COP31.",
+      "synonyms": [
+       "gathering"
+      ],
+      "antonyms": [
+       "dispersal"
+      ]
+     },
+     {
+      "word": "abstract",
+      "meaning_bn": "বিমূর্ত; অস্পষ্ট",
+      "example": "The threat of climate change has long ceased to be an abstract danger.",
+      "synonyms": [
+       "theoretical"
+      ],
+      "antonyms": [
+       "concrete"
+      ]
+     },
+     {
+      "word": "crisis",
+      "meaning_bn": "সংকট",
+      "example": "The world must now be held accountable for the climate crisis.",
+      "synonyms": [
+       "emergency"
+      ],
+      "antonyms": [
+       "stability"
+      ]
+     },
+     {
+      "word": "summit",
+      "meaning_bn": "শীর্ষ সম্মেলন",
+      "example": "The Antalya summit is the forum where accountability is due.",
+      "synonyms": [
+       "conference"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "COP31 কোথায় হচ্ছে?",
+       "a": "আন্তালিয়া, তুরস্ক"
+      },
+      {
+       "q": "COP-এর পূর্ণরূপ কী?",
+       "a": "Conference of the Parties"
+      },
+      {
+       "q": "কিয়োটো প্রটোকল কোন COP-এ গৃহীত হয়?",
+       "a": "COP3, কিয়োটো, ১৯৯৭"
+      },
+      {
+       "q": "প্যারিস চুক্তি কোন সালে গৃহীত হয়?",
+       "a": "২০১৫ সালে, COP21-এ"
+      },
+      {
+       "q": "UNFCCC কবে কার্যকর হয়?",
+       "a": "১৯৯৪ সালে"
+      }
+     ],
+     "next_revision": [
+      "COP-এর সঙ্গে CMP ও CMA-র পার্থক্য কী?",
+      "কিয়োটো প্রটোকল ও প্যারিস চুক্তির মূল পার্থক্য কী?"
+     ]
+    },
+    "deep_prep": [
+     "UNFCCC: গঠন ও উদ্দেশ্য",
+     "কিয়োটো প্রটোকল (১৯৯৭)",
+     "প্যারিস চুক্তি (২০১৫)",
+     "Loss and Damage Fund",
+     "বাংলাদেশের জলবায়ু ঝুঁকি ও অভিযোজন",
+     "Global Stocktake"
     ]
    }
   },
@@ -376,133 +413,17 @@
    ],
    "detail": "Liberation War Affairs Minister Ahmed Azam Khan said on 8 November that Sheikh Hasina will never return to Bangladesh, warning that attempts to destabilise the country through sabotage will not be tolerated. At a Dhaka University event marking National Revolution and Solidarity Day on 7 November, BNP acting secretary-general Ruhul Kabir Rizvi said Hasina, issuing threats from India, imagines crowds greeting her with drums and applause, but the people will never accord her a reception.",
    "learning_module": {
-    "deep_prep": [
-     "চতুর্থ সংশোধনী, ১৯৭৫",
-     "১৫ আগস্ট ১৯৭৫ ও পরবর্তী ঘটনাপ্রবাহ",
-     "৩ নভেম্বর ১৯৭৫",
-     "বহুদলীয় গণতন্ত্র বনাম একদলীয় ব্যবস্থা",
-     "জুলাই ২০২৪ গণঅভ্যুত্থান",
-     "বাংলাদেশ-ভারত সম্পর্ক"
-    ],
-    "exam_notes": {
-     "notes": [
-      "BAKSAL = Bangladesh Krishak Sramik Awami League; গঠন ১৯৭৫, চতুর্থ সংশোধনী।",
-      "৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস হিসেবে পালিত হয়; রিজভীর মতে এই দিন বহুদলীয় গণতন্ত্রের সূচনা।",
-      "জুলাই ২০২৪ গণঅভ্যুত্থান বিসিএসের সাম্প্রতিক রাজনীতি অংশে আসে — ১৭ বছরের শাসনের অবসান।",
-      "পরীক্ষায় আসে: BAKSAL-এর পূর্ণরূপ, চতুর্থ সংশোধনী, ৭ নভেম্বর দিবসের তাৎপর্য।"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Bangladesh Krishak Sramik Awami League",
-       "url": "https://en.banglapedia.org/index.php/Bangladesh_Krishak_Sramik_Awami_League"
-      }
-     ]
-    },
     "hero": {
      "label": "জাতীয় বিপ্লব ও সংহতি দিবস",
      "figure": "৭ নভেম্বর"
     },
-    "mcq_practice": [
-     {
-      "correct": "A",
-      "explanation": "BAKSAL = Bangladesh Krishak Sramik Awami League।",
-      "options": {
-       "A": "Bangladesh Krishak Sramik Awami League",
-       "B": "Bangladesh Kendra Sramik Awami League",
-       "C": "Bangladesh Krishak Samaj Awami League",
-       "D": "Bangladesh Karmachari Sramik Awami League"
-      },
-      "question": "BAKSAL-এর পূর্ণরূপ কী?"
-     },
-     {
-      "correct": "C",
-      "explanation": "রিজভী বলেন, ৭ নভেম্বর থেকে বহুদলীয় গণতন্ত্র শুরু হয়।",
-      "options": {
-       "A": "একদলীয় শাসন",
-       "B": "সামরিক শাসন",
-       "C": "বহুদলীয় গণতন্ত্র",
-       "D": "তত্ত্বাবধায়ক সরকার"
-      },
-      "question": "রিজভীর মতে ৭ নভেম্বর থেকে কী শুরু হয়েছিল?"
-     },
-     {
-      "correct": "D",
-      "explanation": "জুলাই ২০২৪ গণঅভ্যুত্থান ১৭ বছরের শাসনের অবসান ঘটায়।",
-      "options": {
-       "A": "৯ বছর",
-       "B": "১৫ বছর",
-       "C": "২১ বছর",
-       "D": "১৭ বছর"
-      },
-      "question": "জুলাই ২০২৪ গণঅভ্যুত্থান কত বছরের শাসনের অবসান ঘটায়?"
-     },
-     {
-      "correct": "B",
-      "explanation": "রিজভী ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে ছাত্রদলের আলোচনায় বক্তব্য দেন।",
-      "options": {
-       "A": "জাতীয় সংসদ ভবনে",
-       "B": "ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে",
-       "C": "সোহরাওয়ার্দী উদ্যানে",
-       "D": "বঙ্গবন্ধু আন্তর্জাতিক সম্মেলন কেন্দ্রে"
-      },
-      "question": "রিজভী কোথায় বক্তব্য দেন?"
+    "news_summary": {
+     "text": "মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান ৮ নভেম্বর বলেন, শেখ হাসিনা আর কখনো বাংলাদেশে ফিরবেন না; নাশকতার মাধ্যমে দেশ অস্থিতিশীল করার চেষ্টা সহ্য করা হবে না। একই দিন ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে ৭ নভেম্বর উপলক্ষে ছাত্রদলের আলোচনায় বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেন, ভারত থেকে হুমকি দিয়ে হাসিনা ভাবছেন ঢাক-ঢোল বাজিয়ে তাঁকে স্বাগত জানানো হবে, কিন্তু জনগণ কখনো তাঁকে অভ্যর্থনা জানাবে না।",
+     "source": {
+      "publication": "Dhaka Tribune",
+      "date": "2026-11-08",
+      "url": "https://www.dhakatribune.com/bangladesh/424064/minister-sheikh-hasina-will-never-return-to"
      }
-    ],
-    "news_summary": "মুক্তিযুদ্ধবিষয়ক মন্ত্রী আহমেদ আজম খান ৮ নভেম্বর বলেন, শেখ হাসিনা আর কখনো বাংলাদেশে ফিরবেন না; নাশকতার মাধ্যমে দেশ অস্থিতিশীল করার চেষ্টা সহ্য করা হবে না। একই দিন ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে ৭ নভেম্বর উপলক্ষে ছাত্রদলের আলোচনায় বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী বলেন, ভারত থেকে হুমকি দিয়ে হাসিনা ভাবছেন ঢাক-ঢোল বাজিয়ে তাঁকে স্বাগত জানানো হবে, কিন্তু জনগণ কখনো তাঁকে অভ্যর্থনা জানাবে না।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "৭ জুন ১৯৭৫",
-       "q": "BAKSAL কবে গঠিত হয়?"
-      },
-      {
-       "a": "জাতীয় বিপ্লব ও সংহতি দিবস",
-       "q": "৭ নভেম্বর কোন দিবস?"
-      },
-      {
-       "a": "১৭ বছর",
-       "q": "জুলাই ২০২৪ গণঅভ্যুত্থান কত বছরের শাসনের অবসান ঘটায়?"
-      },
-      {
-       "a": "বিএনপির ভারপ্রাপ্ত মহাসচিব ও প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা",
-       "q": "রিজভী কোন পদে আছেন?"
-      }
-     ],
-     "next_revision": [
-      "BAKSAL কবে সংবিধান থেকে বাদ দেওয়া হয়?",
-      "চতুর্থ সংশোধনীতে কী পরিবর্তন আসে?"
-     ]
-    },
-    "topic_gk": {
-     "distinctions": [
-      "BAKSAL বনাম বহুদলীয় গণতন্ত্র: BAKSAL-এ একটিমাত্র দল বৈধ ছিল; বহুদলীয় ব্যবস্থায় একাধিক দল নির্বাচনে অংশ নেয়।",
-      "চতুর্থ সংশোধনী বনাম আগের ব্যবস্থা: চতুর্থ সংশোধনীতে সংসদীয় ব্যবস্থার বদলে রাষ্ট্রপতিশাসিত একদলীয় ব্যবস্থা আসে।"
-     ],
-     "facts": [
-      {
-       "label": "গঠন",
-       "value": "৭ জুন ১৯৭৫ — চতুর্থ সংশোধনীর (অনুচ্ছেদ ১১৭ক) অধীনে"
-      },
-      {
-       "label": "মর্যাদা",
-       "value": "দেশের একমাত্র আইনস্বীকৃত দল; ১ সেপ্টেম্বর ১৯৭৫ থেকে অন্য সব রাজনৈতিক সংগঠনের স্থলাভিষিক্ত হওয়ার কথা ছিল"
-      },
-      {
-       "label": "সংগঠন",
-       "value": "১৫ সদস্যের কার্যনির্বাহী কমিটি, ১১৫ সদস্যের কেন্দ্রীয় কমিটি ও পাঁচটি ফ্রন্ট সংগঠন"
-      },
-      {
-       "label": "অবসান",
-       "value": "১৯৭৯ সালের এপ্রিলে সংবিধান থেকে বাদ দেওয়া হয়; বহুদলীয় ব্যবস্থা ফিরে আসে"
-      }
-     ],
-     "intro": "BAKSAL (বাংলাদেশ কৃষক শ্রমিক আওয়ামী লীগ) ছিল ১৯৭৫ সালের একদলীয় ব্যবস্থা। সংবিধানের চতুর্থ সংশোধনীর মাধ্যমে এটি গঠিত হয় এবং বহুদলীয় ব্যবস্থার বিপরীতে একটিমাত্র আইনস্বীকৃত দল হিসেবে কাজ করে।",
-     "sources": [
-      {
-       "name": "Banglapedia — Bangladesh Krishak Sramik Awami League",
-       "url": "https://en.banglapedia.org/index.php/Bangladesh_Krishak_Sramik_Awami_League"
-      }
-     ]
     },
     "verified_facts": [
      {
@@ -536,62 +457,213 @@
       "value": "জুলাই ২০২৪ গণঅভ্যুত্থান ১৭ বছরের শাসনের অবসান ঘটায়; ওই সময় ৭ নভেম্বর পালন নিষিদ্ধ ছিল"
      }
     ],
-    "vocabulary": [
+    "topic_gk": {
+     "distinctions": [
+      "BAKSAL বনাম বহুদলীয় গণতন্ত্র: BAKSAL-এ একটিমাত্র দল বৈধ ছিল; বহুদলীয় ব্যবস্থায় একাধিক দল নির্বাচনে অংশ নেয়।",
+      "চতুর্থ সংশোধনী বনাম আগের ব্যবস্থা: চতুর্থ সংশোধনীতে সংসদীয় ব্যবস্থার বদলে রাষ্ট্রপতিশাসিত একদলীয় ব্যবস্থা আসে।"
+     ],
+     "facts": [
+      {
+       "label": "গঠন",
+       "value": "৭ জুন ১৯৭৫ — চতুর্থ সংশোধনীর (অনুচ্ছেদ ১১৭ক) অধীনে"
+      },
+      {
+       "label": "মর্যাদা",
+       "value": "দেশের একমাত্র আইনস্বীকৃত দল; ১ সেপ্টেম্বর ১৯৭৫ থেকে অন্য সব রাজনৈতিক সংগঠনের স্থলাভিষিক্ত হওয়ার কথা ছিল"
+      },
+      {
+       "label": "সংগঠন",
+       "value": "১৫ সদস্যের কার্যনির্বাহী কমিটি, ১১৫ সদস্যের কেন্দ্রীয় কমিটি ও পাঁচটি ফ্রন্ট সংগঠন"
+      },
+      {
+       "label": "অবসান",
+       "value": "১৯৭৯ সালের এপ্রিলে সংবিধান থেকে বাদ দেওয়া হয়; বহুদলীয় ব্যবস্থা ফিরে আসে"
+      }
+     ],
+     "intro": "BAKSAL (বাংলাদেশ কৃষক শ্রমিক আওয়ামী লীগ) ছিল ১৯৭৫ সালের একদলীয় ব্যবস্থা। সংবিধানের চতুর্থ সংশোধনীর মাধ্যমে এটি গঠিত হয় এবং বহুদলীয় ব্যবস্থার বিপরীতে একটিমাত্র আইনস্বীকৃত দল হিসেবে কাজ করে।",
+     "sources": [
+      {
+       "name": "Banglapedia — Bangladesh Krishak Sramik Awami League",
+       "url": "https://en.banglapedia.org/index.php/Bangladesh_Krishak_Sramik_Awami_League"
+      }
+     ]
+    },
+    "institutions": [
      {
-      "antonym": "beginning",
-      "bangla_meaning": "চূড়ান্ত পরিণতি; শীর্ষবিন্দু",
-      "example": "The July 2024 Mass Uprising was the culmination of long-standing student and public protests.",
-      "synonym": "climax",
-      "word": "culmination"
-     },
-     {
-      "antonym": "antithesis",
-      "bangla_meaning": "অবতার; মূর্ত রূপ",
-      "example": "Sheikh Hasina crafted a far more terrifying incarnation of BAKSAL.",
-      "synonym": "embodiment",
-      "word": "incarnation"
-     },
-     {
-      "antonym": "withhold",
-      "bangla_meaning": "প্রদান করা; দেওয়া",
-      "example": "The people will never accord her a reception.",
-      "synonym": "grant",
-      "word": "accord"
-     },
-     {
-      "antonym": "submission",
-      "bangla_meaning": "অভ্যুত্থান; বিদ্রোহ",
-      "example": "The July 2024 Mass Uprising ended 17 years of rule.",
-      "synonym": "revolt",
-      "word": "uprising"
-     },
-     {
-      "antonym": "division",
-      "bangla_meaning": "সংহতি; একাত্মতা",
-      "example": "7 November is observed as National Revolution and Solidarity Day.",
-      "synonym": "unity",
-      "word": "solidarity"
+      "name": "BAKSAL",
+      "role": "Bangladesh Krishak Sramik Awami League; গঠন ১৯৭৫, চতুর্থ সংশোধনী।",
+      "source": "Banglapedia — Bangladesh Krishak Sramik Awami League"
      }
     ],
-    "written_prep": [
+    "extra_knowledge": [
      {
+      "term": "৭ নভেম্বর জাতীয় বিপ্লব ও",
+      "meaning": "৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস হিসেবে পালিত হয়; রিজভীর মতে এই দিন বহুদলীয় গণতন্ত্রের সূচনা।",
+      "source": "Banglapedia — Bangladesh Krishak Sramik Awami League"
+     },
+     {
+      "term": "জুলাই ২০২৪ গণঅভ্যুত্থান বিসিএসের সাম্প্রতিক রাজনীতি অংশে আসে",
+      "meaning": "১৭ বছরের শাসনের অবসান।",
+      "source": "Banglapedia — Bangladesh Krishak Sramik Awami League"
+     },
+     {
+      "term": "পরীক্ষায় আসে",
+      "meaning": "BAKSAL-এর পূর্ণরূপ, চতুর্থ সংশোধনী, ৭ নভেম্বর দিবসের তাৎপর্য।",
+      "source": "Banglapedia — Bangladesh Krishak Sramik Awami League"
+     }
+    ],
+    "mcq_practice": [
+     {
+      "question": "BAKSAL-এর পূর্ণরূপ কী?",
+      "options": [
+       "Bangladesh Krishak Sramik Awami League",
+       "Bangladesh Kendra Sramik Awami League",
+       "Bangladesh Krishak Samaj Awami League",
+       "Bangladesh Karmachari Sramik Awami League"
+      ],
+      "correct": 0,
+      "explanation": "BAKSAL = Bangladesh Krishak Sramik Awami League।"
+     },
+     {
+      "question": "রিজভীর মতে ৭ নভেম্বর থেকে কী শুরু হয়েছিল?",
+      "options": [
+       "একদলীয় শাসন",
+       "সামরিক শাসন",
+       "বহুদলীয় গণতন্ত্র",
+       "তত্ত্বাবধায়ক সরকার"
+      ],
+      "correct": 2,
+      "explanation": "রিজভী বলেন, ৭ নভেম্বর থেকে বহুদলীয় গণতন্ত্র শুরু হয়।"
+     },
+     {
+      "question": "জুলাই ২০২৪ গণঅভ্যুত্থান কত বছরের শাসনের অবসান ঘটায়?",
+      "options": [
+       "৯ বছর",
+       "১৫ বছর",
+       "২১ বছর",
+       "১৭ বছর"
+      ],
+      "correct": 3,
+      "explanation": "জুলাই ২০২৪ গণঅভ্যুত্থান ১৭ বছরের শাসনের অবসান ঘটায়।"
+     },
+     {
+      "question": "রিজভী কোথায় বক্তব্য দেন?",
+      "options": [
+       "জাতীয় সংসদ ভবনে",
+       "ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে",
+       "সোহরাওয়ার্দী উদ্যানে",
+       "বঙ্গবন্ধু আন্তর্জাতিক সম্মেলন কেন্দ্রে"
+      ],
+      "correct": 1,
+      "explanation": "রিজভী ঢাকা বিশ্ববিদ্যালয়ের টিএসসি মিলনায়তনে ছাত্রদলের আলোচনায় বক্তব্য দেন।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবসের তাৎপর্য সংক্ষেপে লেখো।",
       "outline": [
        "১৯৭৫ সালের ৭ নভেম্বরের সিপাহী-জনতার অভ্যুত্থানের স্মরণ",
        "রিজভীর মতে বহুদলীয় গণতন্ত্রের সূচনা",
        "দলভেদে দিবসটির ভিন্ন ভিন্ন ব্যাখ্যা"
-      ],
-      "question": "৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবসের তাৎপর্য সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "BAKSAL ব্যবস্থা কেন বহুদলীয় গণতন্ত্রের বিপরীত ছিল? বিশ্লেষণ করো।",
       "outline": [
        "একটিমাত্র আইনস্বীকৃত দল — বিরোধী দলের অস্তিত্ব ছিল না",
        "চতুর্থ সংশোধনীতে রাষ্ট্রপতিশাসিত ব্যবস্থা",
        "১৯৭৯ সালে বহুদলীয় ব্যবস্থা ফিরে আসার তাৎপর্য"
-      ],
-      "question": "BAKSAL ব্যবস্থা কেন বহুদলীয় গণতন্ত্রের বিপরীত ছিল? বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "culmination",
+      "meaning_bn": "চূড়ান্ত পরিণতি; শীর্ষবিন্দু",
+      "example": "The July 2024 Mass Uprising was the culmination of long-standing student and public protests.",
+      "synonyms": [
+       "climax"
+      ],
+      "antonyms": [
+       "beginning"
+      ]
+     },
+     {
+      "word": "incarnation",
+      "meaning_bn": "অবতার; মূর্ত রূপ",
+      "example": "Sheikh Hasina crafted a far more terrifying incarnation of BAKSAL.",
+      "synonyms": [
+       "embodiment"
+      ],
+      "antonyms": [
+       "antithesis"
+      ]
+     },
+     {
+      "word": "accord",
+      "meaning_bn": "প্রদান করা; দেওয়া",
+      "example": "The people will never accord her a reception.",
+      "synonyms": [
+       "grant"
+      ],
+      "antonyms": [
+       "withhold"
+      ]
+     },
+     {
+      "word": "uprising",
+      "meaning_bn": "অভ্যুত্থান; বিদ্রোহ",
+      "example": "The July 2024 Mass Uprising ended 17 years of rule.",
+      "synonyms": [
+       "revolt"
+      ],
+      "antonyms": [
+       "submission"
+      ]
+     },
+     {
+      "word": "solidarity",
+      "meaning_bn": "সংহতি; একাত্মতা",
+      "example": "7 November is observed as National Revolution and Solidarity Day.",
+      "synonyms": [
+       "unity"
+      ],
+      "antonyms": [
+       "division"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "BAKSAL কবে গঠিত হয়?",
+       "a": "৭ জুন ১৯৭৫"
+      },
+      {
+       "q": "৭ নভেম্বর কোন দিবস?",
+       "a": "জাতীয় বিপ্লব ও সংহতি দিবস"
+      },
+      {
+       "q": "জুলাই ২০২৪ গণঅভ্যুত্থান কত বছরের শাসনের অবসান ঘটায়?",
+       "a": "১৭ বছর"
+      },
+      {
+       "q": "রিজভী কোন পদে আছেন?",
+       "a": "বিএনপির ভারপ্রাপ্ত মহাসচিব ও প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা"
+      }
+     ],
+     "next_revision": [
+      "BAKSAL কবে সংবিধান থেকে বাদ দেওয়া হয়?",
+      "চতুর্থ সংশোধনীতে কী পরিবর্তন আসে?"
+     ]
+    },
+    "deep_prep": [
+     "চতুর্থ সংশোধনী, ১৯৭৫",
+     "১৫ আগস্ট ১৯৭৫ ও পরবর্তী ঘটনাপ্রবাহ",
+     "৩ নভেম্বর ১৯৭৫",
+     "বহুদলীয় গণতন্ত্র বনাম একদলীয় ব্যবস্থা",
+     "জুলাই ২০২৪ গণঅভ্যুত্থান",
+     "বাংলাদেশ-ভারত সম্পর্ক"
     ]
    }
   },
@@ -675,107 +747,55 @@
    ],
    "detail": "A machine-learning framework identifies high-risk paratransit drivers in Gazipur, Bangladesh, with regularised logistic regression beating complex ensembles: it scored a mean F1 of 0.557 and AUC-ROC of 0.751. The study interviewed 507 drivers at nine stations in July–December 2021; 121 drivers (23.9%) were repeated-accident drivers and 386 (76.1%) single-accident drivers, in a sector carrying about 60% of motorised trips in smaller cities.",
    "learning_module": {
-    "deep_prep": [
-     "মেশিন লার্নিংয়ের ধরন: সুপারভাইজড বনাম আনসুপারভাইজড",
-     "লজিস্টিক রিগ্রেশন",
-     "মডেল মূল্যায়নের মেট্রিক: F1, AUC-ROC",
-     "ক্রস-ভ্যালিডেশন",
-     "বাংলাদেশে সড়ক নিরাপত্তা",
-     "নীতিনির্ধারণে কৃত্রিম বুদ্ধিমত্তা"
-    ],
-    "exam_notes": {
-     "notes": [
-      "প্যারাট্রানজিট: অটোরিকশা, ইজিবাইক, সিএনজি অটোরিকশা, লেগুনা, টেম্পো ও হাতে টানা রিকশা।",
-      "লজিস্টিক রিগ্রেশন শ্রেণিবিন্যাসের মডেল; F1 = প্রিসিশন ও রিকলের হারমোনিক গড়; AUC ১-এর কাছাকাছি হলে ভালো।",
-      "পরীক্ষায় আসে: F1, AUC-ROC, Brier স্কোর, ক্রস-ভ্যালিডেশন — সংজ্ঞা ও ব্যাখ্যা।",
-      "গবেষণার মূল শিক্ষা: জটিল মডেল সবসময় সেরা নয়; ব্যাখ্যাযোগ্যতা নীতিনির্ধারণে বড় সুবিধা।"
-     ],
-     "sources": [
-      {
-       "name": "US Military Academy — MA289 Mathematics of AI, Lesson 8",
-       "url": "https://usma-ay2601-ma289-statisticallearning.s3.us-east-1.amazonaws.com/AY26-02_MA289_lesson_08_notes.pdf"
-      }
-     ]
-    },
     "hero": {
      "label": "AUC-ROC — লজিস্টিক রিগ্রেশন মডেলের স্কোর",
      "figure": "০.৭৫১"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "গাজীপুরে প্যারাট্রানজিট চালকদের নিয়ে এক গবেষণায় দেখা গেছে, জটিল এনসেম্বল মডেলের চেয়ে সরল রেগুলারাইজড লজিস্টিক রিগ্রেশনই ভালো করেছে — গড় F1 স্কোর ০.৫৫৭ ও AUC-ROC ০.৭৫১। ২০২১ সালের জুলাই–ডিসেম্বরে নয়টি স্টেশনে ৫০৭ জন চালকের সাক্ষাৎকার নেওয়া হয়; তাঁদের মধ্যে ১২১ জন (২৩.৯%) বারবার দুর্ঘটনার শিকার চালক, ৩৮৬ জন (৭৬.১%) একবার দুর্ঘটনার শিকার। ছোট শহরগুলোতে মোটরচালিত যাতায়াতের প্রায় ৬০% এই প্যারাট্রানজিট খাতের।",
+     "source": {
+      "publication": "Bioengineer.Org",
+      "date": "2026-11-08",
+      "url": "https://bioengineer.org/machine-learning-identifies-high-risk-paratransit-drivers-in-bangladesh/"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "C",
-      "explanation": "রেগুলারাইজড লজিস্টিক রিগ্রেশন সেরা ছিল — F1 ০.৫৫৭, AUC-ROC ০.৭৫১।",
-      "options": {
-       "A": "XGBoost",
-       "B": "Random Forest",
-       "C": "লজিস্টিক রিগ্রেশন",
-       "D": "Stacking Ensemble"
-      },
-      "question": "গাজীপুরের গবেষণায় কোন মডেল সবচেয়ে ভালো করেছে?"
+      "label": "নমুনা",
+      "source": "Bioengineer.Org, 8 Nov 2026",
+      "value": "৫০৭ জন চালক, নয়টি স্টেশন, জুলাই–ডিসেম্বর ২০২১"
      },
      {
-      "correct": "A",
-      "explanation": "F1 = ২ × (প্রিসিশন × রিকল) / (প্রিসিশন + রিকল) — দুই ধরনের ভুলই ধরলে ব্যবহৃত হয়।",
-      "options": {
-       "A": "প্রিসিশন ও রিকলের হারমোনিক গড়",
-       "B": "শুধু নির্ভুলতার হার",
-       "C": "ভুলের মোট সংখ্যা",
-       "D": "ডেটার আকারের পরিমাপ"
-      },
-      "question": "F1 স্কোর কী?"
+      "label": "বারবার দুর্ঘটনা",
+      "source": "Bioengineer.Org, 8 Nov 2026",
+      "value": "১২১ জন (২৩.৯%); একবার দুর্ঘটনা ৩৮৬ জন (৭৬.১%)"
      },
      {
-      "correct": "B",
-      "explanation": "নয়টি স্টেশনে মোট ৫০৭ জন চালকের সাক্ষাৎকার নেওয়া হয়।",
-      "options": {
-       "A": "৩৮৬ জন",
-       "B": "৫০৭ জন",
-       "C": "১২১ জন",
-       "D": "৯০০ জন"
-      },
-      "question": "গবেষণায় কতজন চালকের সাক্ষাৎকার নেওয়া হয়?"
+      "label": "সেরা মডেল",
+      "source": "Bioengineer.Org, 8 Nov 2026",
+      "value": "রেগুলারাইজড লজিস্টিক রিগ্রেশন — গড় F1 ০.৫৫৭, AUC-ROC ০.৭৫১"
      },
      {
-      "correct": "D",
-      "explanation": "AUC ১.০ নিখুঁত ও ০.৫ দৈবচয়ন; ০.৭৫১ মানে ভালো পার্থক্যকরণ ক্ষমতা।",
-      "options": {
-       "A": "মডেলটি দৈবচয়নের সমান",
-       "B": "মডেলটি সম্পূর্ণ ভুল",
-       "C": "মডেলটির নির্ভুলতা ৭৫.১%",
-       "D": "মডেলের শ্রেণিবিন্যাস ক্ষমতা ভালো — ১-এর কাছাকাছি মান ভালো"
-      },
-      "question": "AUC-ROC ০.৭৫১ বলতে কী বোঝায়?"
+      "label": "তুলনায়",
+      "source": "Bioengineer.Org story exam_facts",
+      "value": "পাঁচটি অ্যালগরিদম: Logistic Regression, Random Forest, XGBoost, Gradient Boosting, Stacking Ensemble"
+     },
+     {
+      "label": "ক্যালিব্রেশন",
+      "source": "Bioengineer.Org story exam_facts",
+      "value": "Stacking Ensemble-এর ক্যালিব্রেশন সবচেয়ে ভালো — Brier স্কোর ০.২০৪, তবে নির্ভুলতা কম"
+     },
+     {
+      "label": "সীমাবদ্ধতা",
+      "source": "Bioengineer.Org story exam_facts",
+      "value": "নমুনায় শূন্য দুর্ঘটনার কোনো চালক ছিলেন না"
+     },
+     {
+      "label": "খাতের আকার",
+      "source": "Bioengineer.Org, 8 Nov 2026",
+      "value": "ছোট শহরে মোটরচালিত যাতায়াতের প্রায় ৬০% প্যারাট্রানজিটের"
      }
     ],
-    "news_summary": "গাজীপুরে প্যারাট্রানজিট চালকদের নিয়ে এক গবেষণায় দেখা গেছে, জটিল এনসেম্বল মডেলের চেয়ে সরল রেগুলারাইজড লজিস্টিক রিগ্রেশনই ভালো করেছে — গড় F1 স্কোর ০.৫৫৭ ও AUC-ROC ০.৭৫১। ২০২১ সালের জুলাই–ডিসেম্বরে নয়টি স্টেশনে ৫০৭ জন চালকের সাক্ষাৎকার নেওয়া হয়; তাঁদের মধ্যে ১২১ জন (২৩.৯%) বারবার দুর্ঘটনার শিকার চালক, ৩৮৬ জন (৭৬.১%) একবার দুর্ঘটনার শিকার। ছোট শহরগুলোতে মোটরচালিত যাতায়াতের প্রায় ৬০% এই প্যারাট্রানজিট খাতের।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "লজিস্টিক রিগ্রেশন — F1 ০.৫৫৭, AUC-ROC ০.৭৫১",
-       "q": "সেরা মডেল কোনটি ও তার স্কোর?"
-      },
-      {
-       "a": "৫০৭ জন",
-       "q": "কতজন চালকের সাক্ষাৎকার নেওয়া হয়?"
-      },
-      {
-       "a": "২৩.৯% (১২১ জন)",
-       "q": "বারবার দুর্ঘটনার শিকার চালক কত শতাংশ?"
-      },
-      {
-       "a": "প্রিসিশন ও রিকলের হারমোনিক গড়",
-       "q": "F1 স্কোর কী?"
-      },
-      {
-       "a": "অটোরিকশা, ইজিবাইক, সিএনজি, লেগুনা, টেম্পো, রিকশা",
-       "q": "প্যারাট্রানজিটে কী কী পড়ে?"
-      }
-     ],
-     "next_revision": [
-      "AUC ১.০ ও ০.৫ মানে কী?",
-      "Brier স্কোর কী মাপে?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "নির্ভুলতা (accuracy) বনাম F1: ভারসাম্যহীন ডেটায় শুধু নির্ভুলতা বিভ্রান্তিকর; F1 প্রিসিশন ও রিকল দুটোই ধরে।",
@@ -815,99 +835,195 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "নমুনা",
-      "source": "Bioengineer.Org, 8 Nov 2026",
-      "value": "৫০৭ জন চালক, নয়টি স্টেশন, জুলাই–ডিসেম্বর ২০২১"
+      "term": "প্যারাট্রানজিট",
+      "meaning": "অটোরিকশা, ইজিবাইক, সিএনজি অটোরিকশা, লেগুনা, টেম্পো ও হাতে টানা রিকশা।",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      },
      {
-      "label": "বারবার দুর্ঘটনা",
-      "source": "Bioengineer.Org, 8 Nov 2026",
-      "value": "১২১ জন (২৩.৯%); একবার দুর্ঘটনা ৩৮৬ জন (৭৬.১%)"
+      "term": "লজিস্টিক রিগ্রেশন শ্রেণিবিন্যাসের মডেল",
+      "meaning": "লজিস্টিক রিগ্রেশন শ্রেণিবিন্যাসের মডেল",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      },
      {
-      "label": "সেরা মডেল",
-      "source": "Bioengineer.Org, 8 Nov 2026",
-      "value": "রেগুলারাইজড লজিস্টিক রিগ্রেশন — গড় F1 ০.৫৫৭, AUC-ROC ০.৭৫১"
+      "term": "F1",
+      "meaning": "প্রিসিশন ও রিকলের হারমোনিক গড়",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      },
      {
-      "label": "তুলনায়",
-      "source": "Bioengineer.Org story exam_facts",
-      "value": "পাঁচটি অ্যালগরিদম: Logistic Regression, Random Forest, XGBoost, Gradient Boosting, Stacking Ensemble"
+      "term": "AUC",
+      "meaning": "১-এর কাছাকাছি হলে ভালো।",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      },
      {
-      "label": "ক্যালিব্রেশন",
-      "source": "Bioengineer.Org story exam_facts",
-      "value": "Stacking Ensemble-এর ক্যালিব্রেশন সবচেয়ে ভালো — Brier স্কোর ০.২০৪, তবে নির্ভুলতা কম"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "F1, AUC-ROC, Brier স্কোর, ক্রস-ভ্যালিডেশন — সংজ্ঞা ও ব্যাখ্যা।",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      },
      {
-      "label": "সীমাবদ্ধতা",
-      "source": "Bioengineer.Org story exam_facts",
-      "value": "নমুনায় শূন্য দুর্ঘটনার কোনো চালক ছিলেন না"
-     },
-     {
-      "label": "খাতের আকার",
-      "source": "Bioengineer.Org, 8 Nov 2026",
-      "value": "ছোট শহরে মোটরচালিত যাতায়াতের প্রায় ৬০% প্যারাট্রানজিটের"
+      "term": "গবেষণার মূল শিক্ষা",
+      "meaning": "জটিল মডেল সবসময় সেরা নয়; ব্যাখ্যাযোগ্যতা নীতিনির্ধারণে বড় সুবিধা।",
+      "source": "US Military Academy — MA289 Mathematics of AI, Lesson 8"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "mass transit",
-      "bangla_meaning": "আধা-আনুষ্ঠানিক গণপরিবহন",
-      "example": "Paratransit systems account for approximately 60% of motorized trips in smaller cities.",
-      "synonym": "informal transport",
-      "word": "paratransit"
+      "question": "গাজীপুরের গবেষণায় কোন মডেল সবচেয়ে ভালো করেছে?",
+      "options": [
+       "XGBoost",
+       "Random Forest",
+       "লজিস্টিক রিগ্রেশন",
+       "Stacking Ensemble"
+      ],
+      "correct": 2,
+      "explanation": "রেগুলারাইজড লজিস্টিক রিগ্রেশন সেরা ছিল — F1 ০.৫৫৭, AUC-ROC ০.৭৫১।"
      },
      {
-      "antonym": "fragility",
-      "bangla_meaning": "স্থিতিস্থাপকতা; ঘুরে দাঁড়ানোর ক্ষমতা",
-      "example": "These informal fleets are essential for urban resilience during monsoon flooding.",
-      "synonym": "adaptability",
-      "word": "resilience"
+      "question": "F1 স্কোর কী?",
+      "options": [
+       "প্রিসিশন ও রিকলের হারমোনিক গড়",
+       "শুধু নির্ভুলতার হার",
+       "ভুলের মোট সংখ্যা",
+       "ডেটার আকারের পরিমাপ"
+      ],
+      "correct": 0,
+      "explanation": "F1 = ২ × (প্রিসিশন × রিকল) / (প্রিসিশন + রিকল) — দুই ধরনের ভুলই ধরলে ব্যবহৃত হয়।"
      },
      {
-      "antonym": "natural",
-      "bangla_meaning": "কৃত্রিম; সংশ্লেষিত",
-      "example": "This method generates synthetic examples of the minority class.",
-      "synonym": "artificial",
-      "word": "synthetic"
+      "question": "গবেষণায় কতজন চালকের সাক্ষাৎকার নেওয়া হয়?",
+      "options": [
+       "৩৮৬ জন",
+       "৫০৭ জন",
+       "১২১ জন",
+       "৯০০ জন"
+      ],
+      "correct": 1,
+      "explanation": "নয়টি স্টেশনে মোট ৫০৭ জন চালকের সাক্ষাৎকার নেওয়া হয়।"
      },
      {
-      "antonym": "mixed",
-      "bangla_meaning": "স্তরবিন্যস্ত",
-      "example": "Model performance was evaluated using repeated stratified five-fold cross-validation.",
-      "synonym": "layered",
-      "word": "stratified"
-     },
-     {
-      "antonym": "opacity",
-      "bangla_meaning": "ব্যাখ্যাযোগ্যতা",
-      "example": "The model's simplicity provided a significant advantage in interpretability.",
-      "synonym": "explainability",
-      "word": "interpretability"
+      "question": "AUC-ROC ০.৭৫১ বলতে কী বোঝায়?",
+      "options": [
+       "মডেলটি দৈবচয়নের সমান",
+       "মডেলটি সম্পূর্ণ ভুল",
+       "মডেলটির নির্ভুলতা ৭৫.১%",
+       "মডেলের শ্রেণিবিন্যাস ক্ষমতা ভালো — ১-এর কাছাকাছি মান ভালো"
+      ],
+      "correct": 3,
+      "explanation": "AUC ১.০ নিখুঁত ও ০.৫ দৈবচয়ন; ০.৭৫১ মানে ভালো পার্থক্যকরণ ক্ষমতা।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "সড়ক নিরাপত্তায় মেশিন লার্নিং কীভাবে কাজে লাগানো যায়? সংক্ষেপে লেখো।",
       "outline": [
        "ঝুঁকিপূর্ণ চালক শনাক্ত করে লক্ষ্যভিত্তিক প্রশিক্ষণ",
        "দুর্ঘটনার ধরন বিশ্লেষণ করে নীতিনির্ধারণ",
        "ব্যাখ্যাযোগ্য মডেলের গুরুত্ব"
-      ],
-      "question": "সড়ক নিরাপত্তায় মেশিন লার্নিং কীভাবে কাজে লাগানো যায়? সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "জটিল মডেলের চেয়ে সরল লজিস্টিক রিগ্রেশন কেন ভালো করল — বিশ্লেষণ করো।",
       "outline": [
        "ছোট ও ভারসাম্যহীন ডেটায় জটিল মডেল অতিরিক্ত ফিট করে",
        "সরল মডেলের সহগ থেকে সরাসরি সিদ্ধান্ত নেওয়া যায়",
        "নীতিনির্ধারকদের কাছে ব্যাখ্যাযোগ্যতাই মূল্য"
-      ],
-      "question": "জটিল মডেলের চেয়ে সরল লজিস্টিক রিগ্রেশন কেন ভালো করল — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "paratransit",
+      "meaning_bn": "আধা-আনুষ্ঠানিক গণপরিবহন",
+      "example": "Paratransit systems account for approximately 60% of motorized trips in smaller cities.",
+      "synonyms": [
+       "informal transport"
+      ],
+      "antonyms": [
+       "mass transit"
+      ]
+     },
+     {
+      "word": "resilience",
+      "meaning_bn": "স্থিতিস্থাপকতা; ঘুরে দাঁড়ানোর ক্ষমতা",
+      "example": "These informal fleets are essential for urban resilience during monsoon flooding.",
+      "synonyms": [
+       "adaptability"
+      ],
+      "antonyms": [
+       "fragility"
+      ]
+     },
+     {
+      "word": "synthetic",
+      "meaning_bn": "কৃত্রিম; সংশ্লেষিত",
+      "example": "This method generates synthetic examples of the minority class.",
+      "synonyms": [
+       "artificial"
+      ],
+      "antonyms": [
+       "natural"
+      ]
+     },
+     {
+      "word": "stratified",
+      "meaning_bn": "স্তরবিন্যস্ত",
+      "example": "Model performance was evaluated using repeated stratified five-fold cross-validation.",
+      "synonyms": [
+       "layered"
+      ],
+      "antonyms": [
+       "mixed"
+      ]
+     },
+     {
+      "word": "interpretability",
+      "meaning_bn": "ব্যাখ্যাযোগ্যতা",
+      "example": "The model's simplicity provided a significant advantage in interpretability.",
+      "synonyms": [
+       "explainability"
+      ],
+      "antonyms": [
+       "opacity"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "সেরা মডেল কোনটি ও তার স্কোর?",
+       "a": "লজিস্টিক রিগ্রেশন — F1 ০.৫৫৭, AUC-ROC ০.৭৫১"
+      },
+      {
+       "q": "কতজন চালকের সাক্ষাৎকার নেওয়া হয়?",
+       "a": "৫০৭ জন"
+      },
+      {
+       "q": "বারবার দুর্ঘটনার শিকার চালক কত শতাংশ?",
+       "a": "২৩.৯% (১২১ জন)"
+      },
+      {
+       "q": "F1 স্কোর কী?",
+       "a": "প্রিসিশন ও রিকলের হারমোনিক গড়"
+      },
+      {
+       "q": "প্যারাট্রানজিটে কী কী পড়ে?",
+       "a": "অটোরিকশা, ইজিবাইক, সিএনজি, লেগুনা, টেম্পো, রিকশা"
+      }
+     ],
+     "next_revision": [
+      "AUC ১.০ ও ০.৫ মানে কী?",
+      "Brier স্কোর কী মাপে?"
+     ]
+    },
+    "deep_prep": [
+     "মেশিন লার্নিংয়ের ধরন: সুপারভাইজড বনাম আনসুপারভাইজড",
+     "লজিস্টিক রিগ্রেশন",
+     "মডেল মূল্যায়নের মেট্রিক: F1, AUC-ROC",
+     "ক্রস-ভ্যালিডেশন",
+     "বাংলাদেশে সড়ক নিরাপত্তা",
+     "নীতিনির্ধারণে কৃত্রিম বুদ্ধিমত্তা"
     ]
    }
   },
@@ -986,107 +1102,45 @@
    ],
    "detail": "Prime Minister's finance adviser Rashed Al Mahmud Titumir said anyone claiming ‘December is at the door’ for the Awami League's return has no connection with Bangladesh's soil, grass or water. Speaking at a seminar on the 1974 famine at the July Mass Uprising Memorial Museum, he argued the famine came not only from food shortage but from the state's estrangement from the people, a crisis of legitimacy and violence — a pattern he traced from 1972–75 to 2009–24.",
    "learning_module": {
-    "deep_prep": [
-     "অমর্ত্য সেনের এনটাইটেলমেন্ট তত্ত্ব",
-     "১৯৪৩ সালের বঙ্গীয় দুর্ভিক্ষ",
-     "খাদ্য নিরাপত্তা ও রেশন ব্যবস্থা",
-     "১৯৭৪ সালের বন্যা",
-     "ঠান্ডা যুদ্ধ ও খাদ্য সহায়তার রাজনীতি",
-     "চতুর্থ সংশোধনী ও BAKSAL"
-    ],
-    "exam_notes": {
-     "notes": [
-      "অমর্ত্য সেনের এনটাইটেলমেন্ট তত্ত্ব: দুর্ভিক্ষ খাদ্যের অভাব নয়, খাদ্য পাওয়ার অধিকার হারানোর ফল।",
-      "১৯৭৪ দুর্ভিক্ষ: স্বাধীন বাংলাদেশের প্রথম ও একমাত্র দুর্ভিক্ষ; সবচেয়ে ক্ষতিগ্রস্ত রংপুর, ময়মনসিংহ, সিলেট।",
-      "তিতুমীরের তিন তত্ত্ব: প্রাপ্যতা হ্রাস, ক্রয়ক্ষমতার অভাব, সামাজিক চুক্তির অনুপস্থিতি।",
-      "পরীক্ষায় আসে: ১৯৪৩-এর দুর্ভিক্ষ, সেনের তত্ত্ব, ১৯৭৪-এর কারণ ও সময়কাল।"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Famine",
-       "url": "https://en.banglapedia.org/index.php/Famine"
-      }
-     ]
-    },
     "hero": {
      "label": "১৯৭৪ সালে আন্তর্জাতিক বাজারে প্রতি টন চালের দাম (১৯৭২ সালে ছিল ১৪৭ ডলার)",
      "figure": "৫৪২ ডলার"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "প্রধানমন্ত্রীর অর্থ উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘরে ১৯৭৪ সালের দুর্ভিক্ষ নিয়ে এক সেমিনারে বলেন, ‘ডিসেম্বর দরজায়’ বলে আওয়ামী লীগের ফেরার কথা যারা বলেন, তাঁদের বাংলাদেশের মাটি-ঘাস-পানির সঙ্গে কোনো সম্পর্ক নেই। তাঁর মতে, দুর্ভিক্ষ শুধু খাদ্যের অভাবে হয়নি — রাষ্ট্রের জনগণ থেকে বিচ্ছিন্নতা, বৈধতার সংকট ও সহিংসতাও এর কারণ; এই ধারা ১৯৭২–৭৫ থেকে ২০০৯–২৪ পর্যন্ত দেখা যায়।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-08",
+      "url": "https://en.prothomalo.com/bangladesh/873m15g1eo"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "B",
-      "explanation": "চালের দাম ১৯৭২ সালে ১৪৭ ডলার থেকে ১৯৭৪ সালে ৫৪২ ডলারে ওঠে।",
-      "options": {
-       "A": "৩১০ ডলার",
-       "B": "৫৪২ ডলার",
-       "C": "২৫০ ডলার",
-       "D": "৪২৫ ডলার"
-      },
-      "question": "তিতুমীরের মতে ১৯৭৪ সালে আন্তর্জাতিক বাজারে চালের দাম কত হয়েছিল?"
+      "label": "বক্তা",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "রাশেদ আল মাহমুদ তিতুমীর — প্রধানমন্ত্রীর অর্থ উপদেষ্টা, ঢাকা বিশ্ববিদ্যালয়ের উন্নয়ন অধ্যয়ন বিভাগের অধ্যাপক"
      },
      {
-      "correct": "A",
-      "explanation": "বাংলাপিডিয়ার মতে রংপুর, ময়মনসিংহ ও সিলেট সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়।",
-      "options": {
-       "A": "রংপুর, ময়মনসিংহ ও সিলেট",
-       "B": "ঢাকা, চট্টগ্রাম ও খুলনা",
-       "C": "বরিশাল, রাজশাহী ও কুমিল্লা",
-       "D": "যশোর, দিনাজপুর ও পাবনা"
-      },
-      "question": "১৯৭৪ দুর্ভিক্ষে সবচেয়ে ক্ষতিগ্রস্ত তিন জেলা কোনগুলো?"
+      "label": "স্থান ও আয়োজন",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘর; Democratic Journey Seminar Series-এর পঞ্চম পর্ব"
      },
      {
-      "correct": "C",
-      "explanation": "বাংলাপিডিয়ার মতে ১৯৭৪-এর জুলাই থেকে অক্টোবর ছিল সবচেয়ে তীব্র সময়।",
-      "options": {
-       "A": "জানুয়ারি–মার্চ",
-       "B": "এপ্রিল–জুন",
-       "C": "জুলাই–অক্টোবর",
-       "D": "নভেম্বর–ডিসেম্বর"
-      },
-      "question": "১৯৭৪ সালে দুর্ভিক্ষ সবচেয়ে তীব্র ছিল কোন সময়ে?"
+      "label": "তিনটি তত্ত্ব",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "খাদ্যের প্রাপ্যতা কমে যাওয়া; ক্রয়ক্ষমতা বা প্রাপ্তির অভাব; সামাজিক চুক্তির অনুপস্থিতি — সঙ্গে আন্তর্জাতিক খাদ্য সহায়তা ও ঠান্ডা যুদ্ধের ভূ-রাজনীতি"
      },
      {
-      "correct": "D",
-      "explanation": "সেনের তত্ত্বে দুর্ভিক্ষ হয় এনটাইটেলমেন্ট ব্যর্থতায় — মানুষ খাদ্য পাওয়ার অধিকার হারায়।",
-      "options": {
-       "A": "শুধু খাদ্য উৎপাদন কমে যাওয়া",
-       "B": "শুধু জনসংখ্যা বৃদ্ধি",
-       "C": "শুধু বন্যা",
-       "D": "খাদ্য থাকলেও মানুষের তা পাওয়ার উপায় না থাকা"
-      },
-      "question": "এনটাইটেলমেন্ট তত্ত্ব অনুযায়ী দুর্ভিক্ষের মূল কারণ কী?"
+      "label": "চালের দাম",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "আন্তর্জাতিক দাম ১৯৭২ সালে টনপ্রতি ১৪৭ মার্কিন ডলার থেকে ১৯৭৪ সালে ৫৪২ ডলার"
+     },
+     {
+      "label": "তুলনা",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "১৯৭১–৭৫ ও ২০০৯–২৪ — দুই সময়েই বিরোধী দমন, রাষ্ট্রক্ষমতার অপব্যবহার ও গ্রাম থেকে কেন্দ্র পর্যন্ত পৃষ্ঠপোষকতা"
      }
     ],
-    "news_summary": "প্রধানমন্ত্রীর অর্থ উপদেষ্টা রাশেদ আল মাহমুদ তিতুমীর জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘরে ১৯৭৪ সালের দুর্ভিক্ষ নিয়ে এক সেমিনারে বলেন, ‘ডিসেম্বর দরজায়’ বলে আওয়ামী লীগের ফেরার কথা যারা বলেন, তাঁদের বাংলাদেশের মাটি-ঘাস-পানির সঙ্গে কোনো সম্পর্ক নেই। তাঁর মতে, দুর্ভিক্ষ শুধু খাদ্যের অভাবে হয়নি — রাষ্ট্রের জনগণ থেকে বিচ্ছিন্নতা, বৈধতার সংকট ও সহিংসতাও এর কারণ; এই ধারা ১৯৭২–৭৫ থেকে ২০০৯–২৪ পর্যন্ত দেখা যায়।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "টনপ্রতি ১৪৭ ডলার",
-       "q": "১৯৭২ সালে চালের দাম কত ছিল?"
-      },
-      {
-       "a": "টনপ্রতি ৫৪২ ডলার",
-       "q": "১৯৭৪ সালে চালের দাম কত হয়?"
-      },
-      {
-       "a": "রংপুর, ময়মনসিংহ, সিলেট",
-       "q": "১৯৭৪ দুর্ভিক্ষে সবচেয়ে ক্ষতিগ্রস্ত জেলা?"
-      },
-      {
-       "a": "অমর্ত্য সেন",
-       "q": "এনটাইটেলমেন্ট তত্ত্বের প্রবক্তা কে?"
-      },
-      {
-       "a": "প্রাপ্যতা হ্রাস, ক্রয়ক্ষমতার অভাব, সামাজিক চুক্তির অনুপস্থিতি",
-       "q": "তিতুমীরের তিন তত্ত্ব কী কী?"
-      }
-     ],
-     "next_revision": [
-      "১৯৪৩ ও ১৯৭৪ দুর্ভিক্ষের পার্থক্য কী?",
-      "বণ্টন ব্যর্থতা বলতে কী বোঝায়?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "খাদ্যের অভাব (FAD) বনাম এনটাইটেলমেন্ট: খাদ্য উৎপাদন না কমলেও বণ্টন ব্যর্থতা ও ক্রয়ক্ষমতার অভাবে দুর্ভিক্ষ হতে পারে।",
@@ -1122,89 +1176,185 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "বক্তা",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "রাশেদ আল মাহমুদ তিতুমীর — প্রধানমন্ত্রীর অর্থ উপদেষ্টা, ঢাকা বিশ্ববিদ্যালয়ের উন্নয়ন অধ্যয়ন বিভাগের অধ্যাপক"
+      "term": "অমর্ত্য সেনের এনটাইটেলমেন্ট তত্ত্ব",
+      "meaning": "দুর্ভিক্ষ খাদ্যের অভাব নয়, খাদ্য পাওয়ার অধিকার হারানোর ফল।",
+      "source": "Banglapedia — Famine"
      },
      {
-      "label": "স্থান ও আয়োজন",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘর; Democratic Journey Seminar Series-এর পঞ্চম পর্ব"
+      "term": "১৯৭৪ দুর্ভিক্ষ",
+      "meaning": "স্বাধীন বাংলাদেশের প্রথম ও একমাত্র দুর্ভিক্ষ; সবচেয়ে ক্ষতিগ্রস্ত রংপুর, ময়মনসিংহ, সিলেট।",
+      "source": "Banglapedia — Famine"
      },
      {
-      "label": "তিনটি তত্ত্ব",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "খাদ্যের প্রাপ্যতা কমে যাওয়া; ক্রয়ক্ষমতা বা প্রাপ্তির অভাব; সামাজিক চুক্তির অনুপস্থিতি — সঙ্গে আন্তর্জাতিক খাদ্য সহায়তা ও ঠান্ডা যুদ্ধের ভূ-রাজনীতি"
+      "term": "তিতুমীরের তিন তত্ত্ব",
+      "meaning": "প্রাপ্যতা হ্রাস, ক্রয়ক্ষমতার অভাব, সামাজিক চুক্তির অনুপস্থিতি।",
+      "source": "Banglapedia — Famine"
      },
      {
-      "label": "চালের দাম",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "আন্তর্জাতিক দাম ১৯৭২ সালে টনপ্রতি ১৪৭ মার্কিন ডলার থেকে ১৯৭৪ সালে ৫৪২ ডলার"
-     },
-     {
-      "label": "তুলনা",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "১৯৭১–৭৫ ও ২০০৯–২৪ — দুই সময়েই বিরোধী দমন, রাষ্ট্রক্ষমতার অপব্যবহার ও গ্রাম থেকে কেন্দ্র পর্যন্ত পৃষ্ঠপোষকতা"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "১৯৪৩-এর দুর্ভিক্ষ, সেনের তত্ত্ব, ১৯৭৪-এর কারণ ও সময়কাল।",
+      "source": "Banglapedia — Famine"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "neglect",
-      "bangla_meaning": "পৃষ্ঠপোষকতা; আনুকূল্য",
-      "example": "A system of patronage emerged as a means of retaining power.",
-      "synonym": "favouritism",
-      "word": "patronage"
+      "question": "তিতুমীরের মতে ১৯৭৪ সালে আন্তর্জাতিক বাজারে চালের দাম কত হয়েছিল?",
+      "options": [
+       "৩১০ ডলার",
+       "৫৪২ ডলার",
+       "২৫০ ডলার",
+       "৪২৫ ডলার"
+      ],
+      "correct": 1,
+      "explanation": "চালের দাম ১৯৭২ সালে ১৪৭ ডলার থেকে ১৯৭৪ সালে ৫৪২ ডলারে ওঠে।"
      },
      {
-      "antonym": "closeness",
-      "bangla_meaning": "বিচ্ছিন্নতা; দূরত্ব",
-      "example": "It was rooted in the state's estrangement from the people.",
-      "synonym": "alienation",
-      "word": "estrangement"
+      "question": "১৯৭৪ দুর্ভিক্ষে সবচেয়ে ক্ষতিগ্রস্ত তিন জেলা কোনগুলো?",
+      "options": [
+       "রংপুর, ময়মনসিংহ ও সিলেট",
+       "ঢাকা, চট্টগ্রাম ও খুলনা",
+       "বরিশাল, রাজশাহী ও কুমিল্লা",
+       "যশোর, দিনাজপুর ও পাবনা"
+      ],
+      "correct": 0,
+      "explanation": "বাংলাপিডিয়ার মতে রংপুর, ময়মনসিংহ ও সিলেট সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়।"
      },
      {
-      "antonym": "illegitimacy",
-      "bangla_meaning": "বৈধতা",
-      "example": "A crisis of political legitimacy deepened the famine.",
-      "synonym": "validity",
-      "word": "legitimacy"
+      "question": "১৯৭৪ সালে দুর্ভিক্ষ সবচেয়ে তীব্র ছিল কোন সময়ে?",
+      "options": [
+       "জানুয়ারি–মার্চ",
+       "এপ্রিল–জুন",
+       "জুলাই–অক্টোবর",
+       "নভেম্বর–ডিসেম্বর"
+      ],
+      "correct": 2,
+      "explanation": "বাংলাপিডিয়ার মতে ১৯৭৪-এর জুলাই থেকে অক্টোবর ছিল সবচেয়ে তীব্র সময়।"
      },
      {
-      "antonym": "plenty",
-      "bangla_meaning": "দুর্ভিক্ষ",
-      "example": "The 1974 famine struck Rangpur, Mymensingh and Sylhet hardest.",
-      "synonym": "starvation",
-      "word": "famine"
-     },
-     {
-      "antonym": "free distribution",
-      "bangla_meaning": "রেশন; নিয়ন্ত্রিত বণ্টন",
-      "example": "Patronage reached from villages to the centre, including in rationing.",
-      "synonym": "allocation",
-      "word": "rationing"
+      "question": "এনটাইটেলমেন্ট তত্ত্ব অনুযায়ী দুর্ভিক্ষের মূল কারণ কী?",
+      "options": [
+       "শুধু খাদ্য উৎপাদন কমে যাওয়া",
+       "শুধু জনসংখ্যা বৃদ্ধি",
+       "শুধু বন্যা",
+       "খাদ্য থাকলেও মানুষের তা পাওয়ার উপায় না থাকা"
+      ],
+      "correct": 3,
+      "explanation": "সেনের তত্ত্বে দুর্ভিক্ষ হয় এনটাইটেলমেন্ট ব্যর্থতায় — মানুষ খাদ্য পাওয়ার অধিকার হারায়।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "১৯৭৪ সালের দুর্ভিক্ষের তিনটি ব্যাখ্যা সংক্ষেপে লেখো।",
       "outline": [
        "খাদ্যের প্রাপ্যতা কমে যাওয়া",
        "ক্রয়ক্ষমতা বা প্রাপ্তির অভাব",
        "সামাজিক চুক্তির অনুপস্থিতি"
-      ],
-      "question": "১৯৭৪ সালের দুর্ভিক্ষের তিনটি ব্যাখ্যা সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "‘দুর্ভিক্ষ শুধু খাদ্যের অভাব নয়, শাসনের সংকট’ — তিতুমীরের এই বক্তব্য বিশ্লেষণ করো।",
       "outline": [
        "বণ্টন ব্যর্থতা ও পৃষ্ঠপোষকতার ভূমিকা",
        "বৈধতার সংকট কীভাবে সংকট বাড়ায়",
        "১৯৭২–৭৫ ও ২০০৯–২৪-এর তুলনা থেকে শিক্ষা"
-      ],
-      "question": "‘দুর্ভিক্ষ শুধু খাদ্যের অভাব নয়, শাসনের সংকট’ — তিতুমীরের এই বক্তব্য বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "patronage",
+      "meaning_bn": "পৃষ্ঠপোষকতা; আনুকূল্য",
+      "example": "A system of patronage emerged as a means of retaining power.",
+      "synonyms": [
+       "favouritism"
+      ],
+      "antonyms": [
+       "neglect"
+      ]
+     },
+     {
+      "word": "estrangement",
+      "meaning_bn": "বিচ্ছিন্নতা; দূরত্ব",
+      "example": "It was rooted in the state's estrangement from the people.",
+      "synonyms": [
+       "alienation"
+      ],
+      "antonyms": [
+       "closeness"
+      ]
+     },
+     {
+      "word": "legitimacy",
+      "meaning_bn": "বৈধতা",
+      "example": "A crisis of political legitimacy deepened the famine.",
+      "synonyms": [
+       "validity"
+      ],
+      "antonyms": [
+       "illegitimacy"
+      ]
+     },
+     {
+      "word": "famine",
+      "meaning_bn": "দুর্ভিক্ষ",
+      "example": "The 1974 famine struck Rangpur, Mymensingh and Sylhet hardest.",
+      "synonyms": [
+       "starvation"
+      ],
+      "antonyms": [
+       "plenty"
+      ]
+     },
+     {
+      "word": "rationing",
+      "meaning_bn": "রেশন; নিয়ন্ত্রিত বণ্টন",
+      "example": "Patronage reached from villages to the centre, including in rationing.",
+      "synonyms": [
+       "allocation"
+      ],
+      "antonyms": [
+       "free distribution"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "১৯৭২ সালে চালের দাম কত ছিল?",
+       "a": "টনপ্রতি ১৪৭ ডলার"
+      },
+      {
+       "q": "১৯৭৪ সালে চালের দাম কত হয়?",
+       "a": "টনপ্রতি ৫৪২ ডলার"
+      },
+      {
+       "q": "১৯৭৪ দুর্ভিক্ষে সবচেয়ে ক্ষতিগ্রস্ত জেলা?",
+       "a": "রংপুর, ময়মনসিংহ, সিলেট"
+      },
+      {
+       "q": "এনটাইটেলমেন্ট তত্ত্বের প্রবক্তা কে?",
+       "a": "অমর্ত্য সেন"
+      },
+      {
+       "q": "তিতুমীরের তিন তত্ত্ব কী কী?",
+       "a": "প্রাপ্যতা হ্রাস, ক্রয়ক্ষমতার অভাব, সামাজিক চুক্তির অনুপস্থিতি"
+      }
+     ],
+     "next_revision": [
+      "১৯৪৩ ও ১৯৭৪ দুর্ভিক্ষের পার্থক্য কী?",
+      "বণ্টন ব্যর্থতা বলতে কী বোঝায়?"
+     ]
+    },
+    "deep_prep": [
+     "অমর্ত্য সেনের এনটাইটেলমেন্ট তত্ত্ব",
+     "১৯৪৩ সালের বঙ্গীয় দুর্ভিক্ষ",
+     "খাদ্য নিরাপত্তা ও রেশন ব্যবস্থা",
+     "১৯৭৪ সালের বন্যা",
+     "ঠান্ডা যুদ্ধ ও খাদ্য সহায়তার রাজনীতি",
+     "চতুর্থ সংশোধনী ও BAKSAL"
     ]
    }
   },
@@ -1288,107 +1438,45 @@
    ],
    "detail": "A joint Bangladesh Institute of Development Studies and planning ministry study found serious flaws and data inconsistencies in GDP calculations under the previous government, prompting three reforms — international standards and geospatial tracking, a scientific method to identify genuine safety-net beneficiaries, and a merged identity and civil-registration database system. Finance Minister Amir Khosru Mahmud Chowdhury said manipulating statistics deceives the government itself; adviser Titumir cited a boat census that reported 13,000 engine-powered boats where a later count found 267,000.",
    "learning_module": {
-    "deep_prep": [
-     "জিডিপি বনাম জিএনআই বনাম এনএনপি",
-     "SNA ২০০৮",
-     "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)",
-     "জাতীয় হিসাব পদ্ধতি",
-     "ডিজিটাল পাবলিক অবকাঠামো (DPI)",
-     "সামাজিক নিরাপত্তা বেষ্টনীর লক্ষ্যভিত্তিকরণ"
-    ],
-    "exam_notes": {
-     "notes": [
-      "BBS = Bangladesh Bureau of Statistics — দেশের সরকারি পরিসংখ্যানের মূল সংস্থা।",
-      "জিডিপি হিসাবের দুই পদ্ধতি: উৎপাদন ও ব্যয়; আয়ভিত্তিক পদ্ধতি চালুর কথা ভাবা হচ্ছে।",
-      "পরীক্ষায় আসে: জিডিপি বনাম জিএনআই, GVA-র সূত্র, BBS-এর ভূমিকা, DPI।",
-      "নৌকার উদাহরণ (১৩,০০০ বনাম ২,৬৭,০০০) — ভুল তথ্য কীভাবে জিডিপি বিকৃত করে, তার স্মরণীয় প্রমাণ।"
-     ],
-     "sources": [
-      {
-       "name": "Bangladesh Bureau of Statistics — NSDS, Economic Accounts",
-       "url": "http://nsds.bbs.gov.bd/bn/topic/26/Economic accounts"
-      }
-     ]
-    },
     "hero": {
      "label": "পরে গণনায় পাওয়া ইঞ্জিনচালিত নৌকা (আগের গণনায় ছিল ১৩,০০০)",
      "figure": "২,৬৭,০০০"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান (বিআইডিএস) ও পরিকল্পনা মন্ত্রণালয়ের যৌথ গবেষণায় আগের সরকারের আমলে জিডিপি হিসাবের গুরুতর ত্রুটি ও তথ্যের অসঙ্গতি ধরা পড়েছে। এতে তিনটি সংস্কার এসেছে — আন্তর্জাতিক মান ও ভূ-স্থানিক (geospatial) পর্যবেক্ষণ, নিরাপত্তা বেষ্টনীর প্রকৃত সুবিধাভোগী শনাক্তে বৈজ্ঞানিক পদ্ধতি, এবং জাতীয় পরিচয় ও জন্ম নিবন্ধন ডেটাবেস একীভূত করে ডিজিটাল পাবলিক অবকাঠামো (DPI)। অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরী বলেন, পরিসংখ্যানে কারসাজি সরকারকেই ঠকায়।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-08",
+      "url": "https://www.tbsnews.net/economy/govt-outlines-reform-plans-address-statistical-flaws-previous-gdp-calculations-1596796"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "A",
-      "explanation": "আগের গণনায় ১৩,০০০ বলা হলেও পরের গণনায় পাওয়া যায় ২,৬৭,০০০ নৌকা।",
-      "options": {
-       "A": "২,৬৭,০০০",
-       "B": "৬৭,০০০",
-       "C": "১,৩০,০০০",
-       "D": "২৬,৭০০"
-      },
-      "question": "পরে গণনায় কতটি ইঞ্জিনচালিত নৌকা পাওয়া যায়?"
+      "label": "গবেষণা",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "বিআইডিএস ও পরিকল্পনা মন্ত্রণালয়ের যৌথ গবেষণা — জিডিপি হিসাবে ত্রুটি ও অসঙ্গতি"
      },
      {
-      "correct": "D",
-      "explanation": "তিনটি সংস্কার: আন্তর্জাতিক মান ও ভূ-স্থানিক পর্যবেক্ষণ, সুবিধাভোগী শনাক্তকরণ, ডেটাবেস একীভূতকরণ।",
-      "options": {
-       "A": "২টি",
-       "B": "৪টি",
-       "C": "৫টি",
-       "D": "৩টি"
-      },
-      "question": "জিডিপি সংস্কারে কয়টি পদক্ষেপের কথা বলা হয়েছে?"
+      "label": "তিন সংস্কার",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "আন্তর্জাতিক মান ও ভূ-স্থানিক পর্যবেক্ষণ; সুবিধাভোগী শনাক্তে বৈজ্ঞানিক পদ্ধতি; পরিচয় ও নিবন্ধন ডেটাবেস একীভূতকরণ"
      },
      {
-      "correct": "B",
-      "explanation": "বাংলাদেশে জিডিপি উৎপাদন ও ব্যয় — দুই পদ্ধতিতেই হিসাব করা হয়।",
-      "options": {
-       "A": "শুধু আয় পদ্ধতি",
-       "B": "উৎপাদন ও ব্যয় পদ্ধতি",
-       "C": "শুধু ব্যয় পদ্ধতি",
-       "D": "শুধু উৎপাদন পদ্ধতি"
-      },
-      "question": "বাংলাদেশে জিডিপি কোন পদ্ধতিতে হিসাব করা হয়?"
+      "label": "নৌকার গণনা",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "আগের গণনায় ১৩,০০০ ইঞ্জিনচালিত নৌকা; পরের গণনায় ২,৬৭,০০০"
      },
      {
-      "correct": "C",
-      "explanation": "GVA = মোট উৎপাদন (GO) − মধ্যবর্তী ব্যয় (IC)।",
-      "options": {
-       "A": "GVA = GO + IC",
-       "B": "GVA = IC − GO",
-       "C": "GVA = GO − IC",
-       "D": "GVA = GO × IC"
-      },
-      "question": "GVA-র সূত্র কোনটি?"
+      "label": "আলোচনা",
+      "source": "The Business Standard story exam_facts",
+      "value": "জাতীয় পরিসংখ্যান দিবস ২০২৬-এর অনুষ্ঠানে, ৮ নভেম্বর"
+     },
+     {
+      "label": "বিবিএস",
+      "source": "The Financial Express, 8 Nov 2026",
+      "value": "বাংলাদেশ পরিসংখ্যান ব্যুরোকে (BBS) পূর্ণ স্বাধীনতা দেওয়া হবে; সরকারি তথ্য জনগণের জন্য উন্মুক্ত করা হবে"
      }
     ],
-    "news_summary": "বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান (বিআইডিএস) ও পরিকল্পনা মন্ত্রণালয়ের যৌথ গবেষণায় আগের সরকারের আমলে জিডিপি হিসাবের গুরুতর ত্রুটি ও তথ্যের অসঙ্গতি ধরা পড়েছে। এতে তিনটি সংস্কার এসেছে — আন্তর্জাতিক মান ও ভূ-স্থানিক (geospatial) পর্যবেক্ষণ, নিরাপত্তা বেষ্টনীর প্রকৃত সুবিধাভোগী শনাক্তে বৈজ্ঞানিক পদ্ধতি, এবং জাতীয় পরিচয় ও জন্ম নিবন্ধন ডেটাবেস একীভূত করে ডিজিটাল পাবলিক অবকাঠামো (DPI)। অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরী বলেন, পরিসংখ্যানে কারসাজি সরকারকেই ঠকায়।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "১৩,০০০ বনাম ২,৬৭,০০০",
-       "q": "নৌকার গণনায় কত বনাম কত?"
-      },
-      {
-       "a": "৩টি",
-       "q": "জিডিপি সংস্কার কয়টি?"
-      },
-      {
-       "a": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)",
-       "q": "জিডিপি কে হিসাব করে?"
-      },
-      {
-       "a": "GO − IC",
-       "q": "GVA = ?"
-      },
-      {
-       "a": "৮ নভেম্বর ২০২৬",
-       "q": "জাতীয় পরিসংখ্যান দিবসের আলোচনা কবে হয়?"
-      }
-     ],
-     "next_revision": [
-      "জিডিপি বনাম জিএনআই পার্থক্য কী?",
-      "DPI বলতে কী বোঝায়?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "জিডিপি বনাম জিএনআই: জিডিপি দেশের ভেতরের উৎপাদন; জিএনআই দেশের নাগরিকদের আয় — দেশের ভেতরে ও বাইরে মিলিয়ে।",
@@ -1428,89 +1516,187 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "গবেষণা",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "বিআইডিএস ও পরিকল্পনা মন্ত্রণালয়ের যৌথ গবেষণা — জিডিপি হিসাবে ত্রুটি ও অসঙ্গতি"
-     },
-     {
-      "label": "তিন সংস্কার",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "আন্তর্জাতিক মান ও ভূ-স্থানিক পর্যবেক্ষণ; সুবিধাভোগী শনাক্তে বৈজ্ঞানিক পদ্ধতি; পরিচয় ও নিবন্ধন ডেটাবেস একীভূতকরণ"
-     },
-     {
-      "label": "নৌকার গণনা",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "আগের গণনায় ১৩,০০০ ইঞ্জিনচালিত নৌকা; পরের গণনায় ২,৬৭,০০০"
-     },
-     {
-      "label": "আলোচনা",
-      "source": "The Business Standard story exam_facts",
-      "value": "জাতীয় পরিসংখ্যান দিবস ২০২৬-এর অনুষ্ঠানে, ৮ নভেম্বর"
-     },
-     {
-      "label": "বিবিএস",
-      "source": "The Financial Express, 8 Nov 2026",
-      "value": "বাংলাদেশ পরিসংখ্যান ব্যুরোকে (BBS) পূর্ণ স্বাধীনতা দেওয়া হবে; সরকারি তথ্য জনগণের জন্য উন্মুক্ত করা হবে"
+      "name": "BBS",
+      "full_name": "Bangladesh Bureau of Statistics",
+      "role": "Bangladesh Bureau of Statistics — দেশের সরকারি পরিসংখ্যানের মূল সংস্থা।",
+      "source": "Bangladesh Bureau of Statistics — NSDS, Economic Accounts"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "non-spatial",
-      "bangla_meaning": "ভূ-স্থানিক",
-      "example": "The reforms involve adopting international standards and geospatial tracking.",
-      "synonym": "geographic",
-      "word": "geospatial"
+      "term": "জিডিপি হিসাবের দুই পদ্ধতি",
+      "meaning": "উৎপাদন ও ব্যয়; আয়ভিত্তিক পদ্ধতি চালুর কথা ভাবা হচ্ছে।",
+      "source": "Bangladesh Bureau of Statistics — NSDS, Economic Accounts"
      },
      {
-      "antonym": "unreliability",
-      "bangla_meaning": "বিশ্বাসযোগ্যতা",
-      "example": "The reforms aim to restore the credibility of official statistics.",
-      "synonym": "trustworthiness",
-      "word": "credibility"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "জিডিপি বনাম জিএনআই, GVA-র সূত্র, BBS-এর ভূমিকা, DPI।",
+      "source": "Bangladesh Bureau of Statistics — NSDS, Economic Accounts"
      },
      {
-      "antonym": "agreement",
-      "bangla_meaning": "অসঙ্গতি; গরমিল",
-      "example": "The study found serious flaws and data inconsistencies in GDP calculations.",
-      "synonym": "inconsistency",
-      "word": "discrepancy"
-     },
-     {
-      "antonym": "report honestly",
-      "bangla_meaning": "কারসাজি করা; বিকৃত করা",
-      "example": "Manipulating statistics deceives the government itself.",
-      "synonym": "falsify",
-      "word": "manipulate"
-     },
-     {
-      "antonym": "theoretical",
-      "bangla_meaning": "অভিজ্ঞতালব্ধ; তথ্যভিত্তিক",
-      "example": "Past GDP estimates lacked a reliable empirical basis.",
-      "synonym": "evidence-based",
-      "word": "empirical"
+      "term": "নৌকার উদাহরণ (১৩,০০০ বনাম ২,৬৭,০০০)",
+      "meaning": "ভুল তথ্য কীভাবে জিডিপি বিকৃত করে, তার স্মরণীয় প্রমাণ।",
+      "source": "Bangladesh Bureau of Statistics — NSDS, Economic Accounts"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "পরে গণনায় কতটি ইঞ্জিনচালিত নৌকা পাওয়া যায়?",
+      "options": [
+       "২,৬৭,০০০",
+       "৬৭,০০০",
+       "১,৩০,০০০",
+       "২৬,৭০০"
+      ],
+      "correct": 0,
+      "explanation": "আগের গণনায় ১৩,০০০ বলা হলেও পরের গণনায় পাওয়া যায় ২,৬৭,০০০ নৌকা।"
+     },
+     {
+      "question": "জিডিপি সংস্কারে কয়টি পদক্ষেপের কথা বলা হয়েছে?",
+      "options": [
+       "২টি",
+       "৪টি",
+       "৫টি",
+       "৩টি"
+      ],
+      "correct": 3,
+      "explanation": "তিনটি সংস্কার: আন্তর্জাতিক মান ও ভূ-স্থানিক পর্যবেক্ষণ, সুবিধাভোগী শনাক্তকরণ, ডেটাবেস একীভূতকরণ।"
+     },
+     {
+      "question": "বাংলাদেশে জিডিপি কোন পদ্ধতিতে হিসাব করা হয়?",
+      "options": [
+       "শুধু আয় পদ্ধতি",
+       "উৎপাদন ও ব্যয় পদ্ধতি",
+       "শুধু ব্যয় পদ্ধতি",
+       "শুধু উৎপাদন পদ্ধতি"
+      ],
+      "correct": 1,
+      "explanation": "বাংলাদেশে জিডিপি উৎপাদন ও ব্যয় — দুই পদ্ধতিতেই হিসাব করা হয়।"
+     },
+     {
+      "question": "GVA-র সূত্র কোনটি?",
+      "options": [
+       "GVA = GO + IC",
+       "GVA = IC − GO",
+       "GVA = GO − IC",
+       "GVA = GO × IC"
+      ],
+      "correct": 2,
+      "explanation": "GVA = মোট উৎপাদন (GO) − মধ্যবর্তী ব্যয় (IC)।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "জিডিপি হিসাবের ত্রুটি কেন গুরুতর? সংক্ষেপে লেখো।",
       "outline": [
        "ভুল তথ্যে ভুল নীতি তৈরি হয়",
        "বিনিয়োগকারী ও দাতাদের আস্থা কমে",
        "সুবিধাভোগী শনাক্তে ভুল হয়"
-      ],
-      "question": "জিডিপি হিসাবের ত্রুটি কেন গুরুতর? সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "সরকারি পরিসংখ্যানের বিশ্বাসযোগ্যতা ফেরাতে তিন সংস্কার কতটা কার্যকর হবে — বিশ্লেষণ করো।",
       "outline": [
        "ভূ-স্থানিক পর্যবেক্ষণে তথ্য যাচাই সহজ হবে",
        "BBS-এর স্বাধীনতা ও তথ্যের উন্মুক্ততা — জনগণের নজরদারি",
        "সীমা: বাস্তবায়ন, দক্ষ জনবল ও রাজনৈতিক সদিচ্ছা"
-      ],
-      "question": "সরকারি পরিসংখ্যানের বিশ্বাসযোগ্যতা ফেরাতে তিন সংস্কার কতটা কার্যকর হবে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "geospatial",
+      "meaning_bn": "ভূ-স্থানিক",
+      "example": "The reforms involve adopting international standards and geospatial tracking.",
+      "synonyms": [
+       "geographic"
+      ],
+      "antonyms": [
+       "non-spatial"
+      ]
+     },
+     {
+      "word": "credibility",
+      "meaning_bn": "বিশ্বাসযোগ্যতা",
+      "example": "The reforms aim to restore the credibility of official statistics.",
+      "synonyms": [
+       "trustworthiness"
+      ],
+      "antonyms": [
+       "unreliability"
+      ]
+     },
+     {
+      "word": "discrepancy",
+      "meaning_bn": "অসঙ্গতি; গরমিল",
+      "example": "The study found serious flaws and data inconsistencies in GDP calculations.",
+      "synonyms": [
+       "inconsistency"
+      ],
+      "antonyms": [
+       "agreement"
+      ]
+     },
+     {
+      "word": "manipulate",
+      "meaning_bn": "কারসাজি করা; বিকৃত করা",
+      "example": "Manipulating statistics deceives the government itself.",
+      "synonyms": [
+       "falsify"
+      ],
+      "antonyms": [
+       "report honestly"
+      ]
+     },
+     {
+      "word": "empirical",
+      "meaning_bn": "অভিজ্ঞতালব্ধ; তথ্যভিত্তিক",
+      "example": "Past GDP estimates lacked a reliable empirical basis.",
+      "synonyms": [
+       "evidence-based"
+      ],
+      "antonyms": [
+       "theoretical"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "নৌকার গণনায় কত বনাম কত?",
+       "a": "১৩,০০০ বনাম ২,৬৭,০০০"
+      },
+      {
+       "q": "জিডিপি সংস্কার কয়টি?",
+       "a": "৩টি"
+      },
+      {
+       "q": "জিডিপি কে হিসাব করে?",
+       "a": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)"
+      },
+      {
+       "q": "GVA = ?",
+       "a": "GO − IC"
+      },
+      {
+       "q": "জাতীয় পরিসংখ্যান দিবসের আলোচনা কবে হয়?",
+       "a": "৮ নভেম্বর ২০২৬"
+      }
+     ],
+     "next_revision": [
+      "জিডিপি বনাম জিএনআই পার্থক্য কী?",
+      "DPI বলতে কী বোঝায়?"
+     ]
+    },
+    "deep_prep": [
+     "জিডিপি বনাম জিএনআই বনাম এনএনপি",
+     "SNA ২০০৮",
+     "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS)",
+     "জাতীয় হিসাব পদ্ধতি",
+     "ডিজিটাল পাবলিক অবকাঠামো (DPI)",
+     "সামাজিক নিরাপত্তা বেষ্টনীর লক্ষ্যভিত্তিকরণ"
     ]
    }
   },
@@ -1605,111 +1791,50 @@
    ],
    "detail": "Bangladesh Bank's circular of 8 November told banks to charge the minimum cash margin on letters of credit for 10 Ramadan essentials — rice, wheat and flour, onions, lentils, edible oil, sugar, chickpeas, peas, spices and dates — and to give the highest priority to opening the LCs so supplies hold and prices stay affordable. The order, under Section 45 of the Bank Company Act, takes immediate effect until 15 March 2027, replacing a 100% margin rule from 5 September 2024.",
    "learning_module": {
-    "deep_prep": [
-     "লেটার অব ক্রেডিট (LC)",
-     "বাংলাদেশ ব্যাংকের কাজ",
-     "ব্যাংক কোম্পানি আইন, ১৯৯১",
-     "রমজানে দাম নিয়ন্ত্রণ",
-     "আমদানি অর্থায়ন",
-     "বাণিজ্য অর্থায়ন (trade finance)"
-    ],
-    "exam_notes": {
-     "notes": [
-      "LC = লেটার অব ক্রেডিট — ব্যাংকের লিখিত প্রতিশ্রুতি যে শর্ত পূরণ হলে বিদেশি সরবরাহকারীকে অর্থ দেবে।",
-      "ক্যাশ মার্জিন = LC খুলতে আমদানিকারক ব্যাংকে যে নগদ জামানত দেয়; ১০০% মার্জিন মানে পুরো মূল্য জমা।",
-      "পরীক্ষায় আসে: ১০টি পণ্যের তালিকা, ব্যাংক কোম্পানি আইনের ৪৫ ধারা, ১৫ মার্চ ২০২৭ পর্যন্ত মেয়াদ।",
-      "কম মার্জিনের ফল: ব্যবসায়ীর মূলধন মুক্ত হয়, ছোট-মাঝারি আমদানিকারক বেশি আমদানি করতে পারে, সরবরাহ বাড়ে, দাম স্থিতিশীল থাকে।"
-     ],
-     "sources": [
-      {
-       "name": "bdnews24.com — Bangladesh Bank orders minimum cash margins on 10 Ramadan imports",
-       "url": "https://bdnews24.com/business/wo8kew8osq"
-      },
-      {
-       "name": "The Business Standard — Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials",
-       "url": "https://www.tbsnews.net/economy/bangladesh-bank-asks-banks-keep-lc-margins-lowest-10-ramadan-essentials-1596481"
-      }
-     ]
-    },
     "hero": {
      "label": "রমজানের নিত্যপণ্য — সর্বনিম্ন LC ক্যাশ মার্জিনের আওতায়",
      "figure": "১০টি"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "বাংলাদেশ ব্যাংকের ৮ নভেম্বরের বিজ্ঞপ্তি ব্যাংকগুলোকে বলেছে, রমজানের ১০টি নিত্যপণ্য — চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা ও খেজুর — আমদানির LC-তে সর্বনিম্ন ক্যাশ মার্জিন নিতে এবং এসব LC খোলায় সর্বোচ্চ অগ্রাধিকার দিতে, যাতে সরবরাহ ঠিক থাকে ও দাম নাগালের মধ্যে থাকে। ব্যাংক কোম্পানি আইনের ৪৫ ধারায় জারি নির্দেশনাটি তাৎক্ষণিক কার্যকর হয়ে ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ থাকবে; এর আগে ২০২৪ সালের ৫ সেপ্টেম্বর থেকে ১০০% মার্জিনের নিয়ম ছিল।",
+     "source": {
+      "publication": "bdnews24.com",
+      "date": "2026-11-08",
+      "url": "https://bdnews24.com/business/wo8kew8osq"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "B",
-      "explanation": "বিজ্ঞপ্তিতে ১০টি পণ্য: চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা ও খেজুর।",
-      "options": {
-       "A": "৮টি",
-       "B": "১০টি",
-       "C": "১১টি",
-       "D": "১২টি"
-      },
-      "question": "বাংলাদেশ ব্যাংকের ৮ নভেম্বরের বিজ্ঞপ্তিতে কয়টি পণ্য আছে?"
+      "label": "বিজ্ঞপ্তি",
+      "source": "bdnews24.com, 8 Nov 2026",
+      "value": "বাংলাদেশ ব্যাংকের বিজ্ঞপ্তি, ৮ নভেম্বর ২০২৬ — সব তফসিলি ব্যাংকের ব্যবস্থাপনা পরিচালক ও প্রধান নির্বাহীদের কাছে"
      },
      {
-      "correct": "A",
-      "explanation": "১০০% মার্জিন মানে LC খুলতে আমদানিকারককে পুরো আমদানি মূল্য জমা দিতে হয়।",
-      "options": {
-       "A": "পুরো আমদানি মূল্য জমা দিতে হয়",
-       "B": "কোনো জমা দিতে হয় না",
-       "C": "অর্ধেক মূল্য জমা দিতে হয়",
-       "D": "শুধু সুদ দিতে হয়"
-      },
-      "question": "১০০% ক্যাশ মার্জিন মানে কী?"
+      "label": "পণ্য",
+      "source": "bdnews24.com, 8 Nov 2026",
+      "value": "১০টি: চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা, খেজুর"
      },
      {
-      "correct": "C",
-      "explanation": "নির্দেশনা তাৎক্ষণিক কার্যকর হয়ে ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ থাকবে।",
-      "options": {
-       "A": "৩১ মার্চ ২০২৬",
-       "B": "৫ সেপ্টেম্বর ২০২৪",
-       "C": "১৫ মার্চ ২০২৭",
-       "D": "১১ নভেম্বর ২০২৫"
-      },
-      "question": "নতুন নির্দেশনা কতদিন পর্যন্ত বলবৎ থাকবে?"
+      "label": "আইন",
+      "source": "bdnews24.com, 8 Nov 2026",
+      "value": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা"
      },
      {
-      "correct": "D",
-      "explanation": "ব্যাংক কোম্পানি আইনের ৪৫ ধারার অধীনে এই নির্দেশনা জারি করা হয়।",
-      "options": {
-       "A": "বাংলাদেশ ব্যাংক আদেশের ১০ ধারা",
-       "B": "আমদানি নীতি আদেশের ৫ ধারা",
-       "C": "কোম্পানি আইনের ১৯৯৪ ধারা",
-       "D": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা"
-      },
-      "question": "নির্দেশনাটি কোন আইনের কোন ধারায় জারি করা হয়?"
+      "label": "মেয়াদ",
+      "source": "bdnews24.com, 8 Nov 2026",
+      "value": "তাৎক্ষণিক কার্যকর; ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ"
+     },
+     {
+      "label": "আগের নিয়ম",
+      "source": "bdnews24.com story exam_facts",
+      "value": "২০২৪ সালের ৫ সেপ্টেম্বর থেকে ১০০% মার্জিন; ২০২৫ সালের ১১ নভেম্বর থেকে সর্বনিম্ন মার্জিনের নির্দেশনা ছিল, যা ২০২৬ সালের ৩১ মার্চ পর্যন্ত বলবৎ ছিল"
+     },
+     {
+      "label": "গুরুত্বপূর্ণ সতর্কতা",
+      "source": "bdnews24.com story exam_facts",
+      "value": "‘গম ও আটা’ একটি পণ্য — আলাদা গুনলে ১১ হয়; বিজ্ঞপ্তির হিসাবে ১০টি"
      }
     ],
-    "news_summary": "বাংলাদেশ ব্যাংকের ৮ নভেম্বরের বিজ্ঞপ্তি ব্যাংকগুলোকে বলেছে, রমজানের ১০টি নিত্যপণ্য — চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা ও খেজুর — আমদানির LC-তে সর্বনিম্ন ক্যাশ মার্জিন নিতে এবং এসব LC খোলায় সর্বোচ্চ অগ্রাধিকার দিতে, যাতে সরবরাহ ঠিক থাকে ও দাম নাগালের মধ্যে থাকে। ব্যাংক কোম্পানি আইনের ৪৫ ধারায় জারি নির্দেশনাটি তাৎক্ষণিক কার্যকর হয়ে ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ থাকবে; এর আগে ২০২৪ সালের ৫ সেপ্টেম্বর থেকে ১০০% মার্জিনের নিয়ম ছিল।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "১০টি",
-       "q": "কতটি পণ্যে সর্বনিম্ন মার্জিন?"
-      },
-      {
-       "a": "১৫ মার্চ ২০২৭",
-       "q": "নির্দেশনা কতদিন বলবৎ থাকবে?"
-      },
-      {
-       "a": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা",
-       "q": "কোন আইনে নির্দেশনা জারি হয়?"
-      },
-      {
-       "a": "১০০%",
-       "q": "৫ সেপ্টেম্বর ২০২৪ থেকে মার্জিন কত ছিল?"
-      },
-      {
-       "a": "চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা, খেজুর",
-       "q": "১০টি পণ্যের তালিকা বলো।"
-      }
-     ],
-     "next_revision": [
-      "কম মার্জিনে দাম কীভাবে স্থিতিশীল থাকে?",
-      "LC মার্জিন বনাম সুদের হারের পার্থক্য কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "LC বনাম নগদ অর্থ প্রদান: LC-তে ব্যাংক অর্থপ্রদানের নিশ্চয়তা দেয়; নগদে তা থাকে না।",
@@ -1749,94 +1874,185 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "বিজ্ঞপ্তি",
-      "source": "bdnews24.com, 8 Nov 2026",
-      "value": "বাংলাদেশ ব্যাংকের বিজ্ঞপ্তি, ৮ নভেম্বর ২০২৬ — সব তফসিলি ব্যাংকের ব্যবস্থাপনা পরিচালক ও প্রধান নির্বাহীদের কাছে"
+      "term": "LC",
+      "meaning": "লেটার অব ক্রেডিট — ব্যাংকের লিখিত প্রতিশ্রুতি যে শর্ত পূরণ হলে বিদেশি সরবরাহকারীকে অর্থ দেবে।",
+      "source": "bdnews24.com — Bangladesh Bank orders minimum cash margins on 10 Ramadan imports; The Business Standard — Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials"
      },
      {
-      "label": "পণ্য",
-      "source": "bdnews24.com, 8 Nov 2026",
-      "value": "১০টি: চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা, খেজুর"
+      "term": "ক্যাশ মার্জিন",
+      "meaning": "LC খুলতে আমদানিকারক ব্যাংকে যে নগদ জামানত দেয়; ১০০% মার্জিন মানে পুরো মূল্য জমা।",
+      "source": "bdnews24.com — Bangladesh Bank orders minimum cash margins on 10 Ramadan imports; The Business Standard — Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials"
      },
      {
-      "label": "আইন",
-      "source": "bdnews24.com, 8 Nov 2026",
-      "value": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "১০টি পণ্যের তালিকা, ব্যাংক কোম্পানি আইনের ৪৫ ধারা, ১৫ মার্চ ২০২৭ পর্যন্ত মেয়াদ।",
+      "source": "bdnews24.com — Bangladesh Bank orders minimum cash margins on 10 Ramadan imports; The Business Standard — Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials"
      },
      {
-      "label": "মেয়াদ",
-      "source": "bdnews24.com, 8 Nov 2026",
-      "value": "তাৎক্ষণিক কার্যকর; ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ"
-     },
-     {
-      "label": "আগের নিয়ম",
-      "source": "bdnews24.com story exam_facts",
-      "value": "২০২৪ সালের ৫ সেপ্টেম্বর থেকে ১০০% মার্জিন; ২০২৫ সালের ১১ নভেম্বর থেকে সর্বনিম্ন মার্জিনের নির্দেশনা ছিল, যা ২০২৬ সালের ৩১ মার্চ পর্যন্ত বলবৎ ছিল"
-     },
-     {
-      "label": "গুরুত্বপূর্ণ সতর্কতা",
-      "source": "bdnews24.com story exam_facts",
-      "value": "‘গম ও আটা’ একটি পণ্য — আলাদা গুনলে ১১ হয়; বিজ্ঞপ্তির হিসাবে ১০টি"
+      "term": "কম মার্জিনের ফল",
+      "meaning": "ব্যবসায়ীর মূলধন মুক্ত হয়, ছোট-মাঝারি আমদানিকারক বেশি আমদানি করতে পারে, সরবরাহ বাড়ে, দাম স্থিতিশীল থাকে।",
+      "source": "bdnews24.com — Bangladesh Bank orders minimum cash margins on 10 Ramadan imports; The Business Standard — Bangladesh Bank asks banks to keep LC margins lowest for 10 Ramadan essentials"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "—",
-      "bangla_meaning": "জামানত; প্রান্ত",
-      "example": "Banks must set the cash margin rates at the minimum level.",
-      "synonym": "deposit",
-      "word": "margin"
+      "question": "বাংলাদেশ ব্যাংকের ৮ নভেম্বরের বিজ্ঞপ্তিতে কয়টি পণ্য আছে?",
+      "options": [
+       "৮টি",
+       "১০টি",
+       "১১টি",
+       "১২টি"
+      ],
+      "correct": 1,
+      "explanation": "বিজ্ঞপ্তিতে ১০টি পণ্য: চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা ও খেজুর।"
      },
      {
-      "antonym": "interrupted",
-      "bangla_meaning": "নিরবচ্ছিন্ন",
-      "example": "Banks should give the highest priority to opening LCs to ensure uninterrupted supplies.",
-      "synonym": "continuous",
-      "word": "uninterrupted"
+      "question": "১০০% ক্যাশ মার্জিন মানে কী?",
+      "options": [
+       "পুরো আমদানি মূল্য জমা দিতে হয়",
+       "কোনো জমা দিতে হয় না",
+       "অর্ধেক মূল্য জমা দিতে হয়",
+       "শুধু সুদ দিতে হয়"
+      ],
+      "correct": 0,
+      "explanation": "১০০% মার্জিন মানে LC খুলতে আমদানিকারককে পুরো আমদানি মূল্য জমা দিতে হয়।"
      },
      {
-      "antonym": "export",
-      "bangla_meaning": "আমদানি",
-      "example": "LCs for imports of these commodities should be opened on priority.",
-      "synonym": "importation",
-      "word": "import"
+      "question": "নতুন নির্দেশনা কতদিন পর্যন্ত বলবৎ থাকবে?",
+      "options": [
+       "৩১ মার্চ ২০২৬",
+       "৫ সেপ্টেম্বর ২০২৪",
+       "১৫ মার্চ ২০২৭",
+       "১১ নভেম্বর ২০২৫"
+      ],
+      "correct": 2,
+      "explanation": "নির্দেশনা তাৎক্ষণিক কার্যকর হয়ে ২০২৭ সালের ১৫ মার্চ পর্যন্ত বলবৎ থাকবে।"
      },
      {
-      "antonym": "unaffordable",
-      "bangla_meaning": "সাধ্যের মধ্যে; সাশ্রয়ী",
-      "example": "The order aims to keep prices affordable during Ramadan.",
-      "synonym": "reasonable",
-      "word": "affordable"
-     },
-     {
-      "antonym": "low priority",
-      "bangla_meaning": "অগ্রাধিকার",
-      "example": "Banks were told to give the highest priority to opening these LCs.",
-      "synonym": "precedence",
-      "word": "priority"
+      "question": "নির্দেশনাটি কোন আইনের কোন ধারায় জারি করা হয়?",
+      "options": [
+       "বাংলাদেশ ব্যাংক আদেশের ১০ ধারা",
+       "আমদানি নীতি আদেশের ৫ ধারা",
+       "কোম্পানি আইনের ১৯৯৪ ধারা",
+       "ব্যাংক কোম্পানি আইনের ৪৫ ধারা"
+      ],
+      "correct": 3,
+      "explanation": "ব্যাংক কোম্পানি আইনের ৪৫ ধারার অধীনে এই নির্দেশনা জারি করা হয়।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "রমজানের আগে LC মার্জিন কমানো কেন দরকার? সংক্ষেপে লেখো।",
       "outline": [
        "রমজানে ছোলা, ডাল, তেল, চিনি, মসলা, খেজুরের চাহিদা কয়েক গুণ বাড়ে",
        "সরবরাহ কম থাকলে দাম বাড়ে",
        "কম মার্জিনে আমদানি সহজ হয়, সরবরাহ বাড়ে"
-      ],
-      "question": "রমজানের আগে LC মার্জিন কমানো কেন দরকার? সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "কম LC মার্জিন কীভাবে বাজারদর স্থিতিশীল রাখতে পারে — বিশ্লেষণ করো।",
       "outline": [
        "কম মার্জিনে আমদানিকারকের মূলধন মুক্ত হয়",
        "ছোট-মাঝারি আমদানিকারক বাজারে আসতে পারে",
        "সীমা: ডলার সংকট বা বিশ্ববাজারের দাম বাড়লে মার্জিন ছাড় যথেষ্ট নয়"
-      ],
-      "question": "কম LC মার্জিন কীভাবে বাজারদর স্থিতিশীল রাখতে পারে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "margin",
+      "meaning_bn": "জামানত; প্রান্ত",
+      "example": "Banks must set the cash margin rates at the minimum level.",
+      "synonyms": [
+       "deposit"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "uninterrupted",
+      "meaning_bn": "নিরবচ্ছিন্ন",
+      "example": "Banks should give the highest priority to opening LCs to ensure uninterrupted supplies.",
+      "synonyms": [
+       "continuous"
+      ],
+      "antonyms": [
+       "interrupted"
+      ]
+     },
+     {
+      "word": "import",
+      "meaning_bn": "আমদানি",
+      "example": "LCs for imports of these commodities should be opened on priority.",
+      "synonyms": [
+       "importation"
+      ],
+      "antonyms": [
+       "export"
+      ]
+     },
+     {
+      "word": "affordable",
+      "meaning_bn": "সাধ্যের মধ্যে; সাশ্রয়ী",
+      "example": "The order aims to keep prices affordable during Ramadan.",
+      "synonyms": [
+       "reasonable"
+      ],
+      "antonyms": [
+       "unaffordable"
+      ]
+     },
+     {
+      "word": "priority",
+      "meaning_bn": "অগ্রাধিকার",
+      "example": "Banks were told to give the highest priority to opening these LCs.",
+      "synonyms": [
+       "precedence"
+      ],
+      "antonyms": [
+       "low priority"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "কতটি পণ্যে সর্বনিম্ন মার্জিন?",
+       "a": "১০টি"
+      },
+      {
+       "q": "নির্দেশনা কতদিন বলবৎ থাকবে?",
+       "a": "১৫ মার্চ ২০২৭"
+      },
+      {
+       "q": "কোন আইনে নির্দেশনা জারি হয়?",
+       "a": "ব্যাংক কোম্পানি আইনের ৪৫ ধারা"
+      },
+      {
+       "q": "৫ সেপ্টেম্বর ২০২৪ থেকে মার্জিন কত ছিল?",
+       "a": "১০০%"
+      },
+      {
+       "q": "১০টি পণ্যের তালিকা বলো।",
+       "a": "চাল, গম ও আটা, পেঁয়াজ, ডাল, ভোজ্য তেল, চিনি, ছোলা, মটর, মসলা, খেজুর"
+      }
+     ],
+     "next_revision": [
+      "কম মার্জিনে দাম কীভাবে স্থিতিশীল থাকে?",
+      "LC মার্জিন বনাম সুদের হারের পার্থক্য কী?"
+     ]
+    },
+    "deep_prep": [
+     "লেটার অব ক্রেডিট (LC)",
+     "বাংলাদেশ ব্যাংকের কাজ",
+     "ব্যাংক কোম্পানি আইন, ১৯৯১",
+     "রমজানে দাম নিয়ন্ত্রণ",
+     "আমদানি অর্থায়ন",
+     "বাণিজ্য অর্থায়ন (trade finance)"
     ]
    }
   },
@@ -1923,107 +2139,50 @@
    ],
    "detail": "State-owned Bangladesh Shipping Corporation recommended a 25% cash dividend — Tk2.50 per Tk10 share — for FY26 ended 30 June 2026, with the record date set for 15 December, even as earnings per share fell to Tk19.11 from Tk20.10 because FY25 included one-off gains from selling two vessels, MT Banglar Jyoti and MT Banglar Sourabh. State-run Padma Oil recommended a higher 170% cash dividend, Tk17 per share, after net profit grew 21.24% and EPS rose to Tk69.47 from Tk57.30.",
    "learning_module": {
-    "deep_prep": [
-     "ঢাকা স্টক এক্সচেঞ্জ (DSE)",
-     "বিএসইসি (BSEC)",
-     "ইপিএস (EPS)",
-     "এনএভি (NAV)",
-     "পি/ই অনুপাত",
-     "নগদ লভ্যাংশ বনাম বোনাস শেয়ার"
-    ],
-    "exam_notes": {
-     "notes": [
-      "লভ্যাংশ নগদ ও স্টক (বোনাস শেয়ার) দুই ধরনের হয়; এখানে দুটোই নগদ লভ্যাংশ।",
-      "ইপিএস কমা মানেই খারাপ নয় — BSC-র ক্ষেত্রে আগের বছরে জাহাজ বিক্রির এককালীন আয় ছিল।",
-      "রেকর্ড তারিখ ঠিক করে কারা লভ্যাংশ পাবেন; AGM-এ শেয়ারহোল্ডাররা অনুমোদন দেন।",
-      "পরীক্ষায় আসে: লভ্যাংশ, ইপিএস, এনএভি, রেকর্ড তারিখ, অভিহিত মূল্য (face value)।"
-     ],
-     "sources": [
-      {
-       "name": "Mika Securities — Knowledge Point: Stock Market Basics (DSE/BSEC definitions)",
-       "url": "https://www.mikasecurities.net/knowledge-point/"
-      }
-     ]
-    },
     "hero": {
      "label": "পদ্মা অয়েলের নগদ লভ্যাংশ (অর্থবছর ২০২৬)",
      "figure": "১৭০%"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "রাষ্ট্রায়ত্ত বাংলাদেশ শিপিং করপোরেশন (BSC) অর্থবছর ২০২৬-এর (৩০ জুন ২০২৬ সমাপ্ত) জন্য ২৫% নগদ লভ্যাংশ দিয়েছে — ১০ টাকার শেয়ারে ২.৫০ টাকা; রেকর্ড তারিখ ১৫ ডিসেম্বর। ইপিএস ২০.১০ টাকা থেকে কমে ১৯.১১ টাকা হয়েছে, কারণ আগের অর্থবছরে দুটি জাহাজ (এমটি বাংলার জ্যোতি ও এমটি বাংলার সৌরভ) বিক্রির এককালীন আয় ছিল। রাষ্ট্রায়ত্ত পদ্মা অয়েল ১৭০% নগদ লভ্যাংশ দিয়েছে — প্রতি শেয়ারে ১৭ টাকা; নিট মুনাফা ২১.২৪% বেড়ে ইপিএস হয়েছে ৬৯.৪৭ টাকা (আগে ৫৭.৩০ টাকা)।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-08",
+      "url": "https://www.tbsnews.net/economy/stocks/bsc-recommends-25-cash-dividend-1596656"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "C",
-      "explanation": "পদ্মা অয়েল ১৭০% নগদ লভ্যাংশ দিয়েছে — প্রতি শেয়ারে ১৭ টাকা।",
-      "options": {
-       "A": "২৫%",
-       "B": "১৬০%",
-       "C": "১৭০%",
-       "D": "২১.২৪%"
-      },
-      "question": "পদ্মা অয়েল অর্থবছর ২০২৬-এ কত নগদ লভ্যাংশ দিয়েছে?"
+      "label": "BSC লভ্যাংশ",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "২৫% নগদ লভ্যাংশ — ১০ টাকার শেয়ারে ২.৫০ টাকা; অর্থবছর ২০২৬ (৩০ জুন ২০২৬ সমাপ্ত)"
      },
      {
-      "correct": "A",
-      "explanation": "BSC-র ইপিএস ২০.১০ টাকা থেকে কমে ১৯.১১ টাকা হয়েছে।",
-      "options": {
-       "A": "১৯.১১ টাকা",
-       "B": "২০.১০ টাকা",
-       "C": "২৫.৪০ টাকা",
-       "D": "৫.৮৮ টাকা"
-      },
-      "question": "BSC-র অর্থবছর ২০২৬-এর ইপিএস কত?"
+      "label": "BSC রেকর্ড তারিখ",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "১৫ ডিসেম্বর"
      },
      {
-      "correct": "B",
-      "explanation": "নগদ লভ্যাংশ শেয়ারের অভিহিত মূল্যের (face value) শতাংশ হিসেবে ঘোষণা করা হয়।",
-      "options": {
-       "A": "বাজারদরের শতাংশ",
-       "B": "অভিহিত মূল্যের শতাংশ",
-       "C": "এনএভির শতাংশ",
-       "D": "ইপিএসের শতাংশ"
-      },
-      "question": "নগদ লভ্যাংশের শতাংশ কিসের ওপর হিসাব করা হয়?"
+      "label": "BSC ইপিএস",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "১৯.১১ টাকা (আগে ২০.১০ টাকা) — আগের বছরে দুটি জাহাজ বিক্রির এককালীন আয় ছিল"
      },
      {
-      "correct": "D",
-      "explanation": "রেকর্ড তারিখে যাঁরা শেয়ারহোল্ডার, তাঁরাই লভ্যাংশ পাওয়ার অধিকারী হন।",
-      "options": {
-       "A": "পরের লভ্যাংশ ঘোষণার তারিখ",
-       "B": "এজিএমের তারিখ",
-       "C": "লভ্যাংশ পরিশোধের তারিখ",
-       "D": "লভ্যাংশের অধিকারী নির্ধারণের তারিখ"
-      },
-      "question": "রেকর্ড তারিখের কাজ কী?"
+      "label": "BSC এনএভি",
+      "source": "The Business Standard story exam_facts",
+      "value": "শেয়ারপ্রতি এনএভি ১২১.৪৫ টাকা (আগে ১০৪.৮৪ টাকা); নিট পরিচালন নগদ প্রবাহ ২৫.৪০ টাকা (আগে ১১.৯৬ টাকা)"
+     },
+     {
+      "label": "পদ্মা অয়েল",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "১৭০% নগদ লভ্যাংশ (প্রতি শেয়ারে ১৭ টাকা); নিট মুনাফা ২১.২৪% বেড়েছে; ইপিএস ৬৯.৪৭ টাকা (আগে ৫৭.৩০ টাকা)"
+     },
+     {
+      "label": "পদ্মা অয়েল এনএভি ও এজিএম",
+      "source": "The Business Standard story exam_facts",
+      "value": "এনএভি ৩২৮.৩৩ টাকা (আগে ২৭৪.৮৬ টাকা); পরিচালন নগদ প্রবাহ ৬৩.৭২ টাকা (আগে −৩৯.৮৩ টাকা); এজিএম ২০২৭ সালের ১ জানুয়ারি, সকাল ১০টা, ডিজিটাল প্ল্যাটফর্মে; রেকর্ড তারিখ ২৯ নভেম্বর ২০২৬"
      }
     ],
-    "news_summary": "রাষ্ট্রায়ত্ত বাংলাদেশ শিপিং করপোরেশন (BSC) অর্থবছর ২০২৬-এর (৩০ জুন ২০২৬ সমাপ্ত) জন্য ২৫% নগদ লভ্যাংশ দিয়েছে — ১০ টাকার শেয়ারে ২.৫০ টাকা; রেকর্ড তারিখ ১৫ ডিসেম্বর। ইপিএস ২০.১০ টাকা থেকে কমে ১৯.১১ টাকা হয়েছে, কারণ আগের অর্থবছরে দুটি জাহাজ (এমটি বাংলার জ্যোতি ও এমটি বাংলার সৌরভ) বিক্রির এককালীন আয় ছিল। রাষ্ট্রায়ত্ত পদ্মা অয়েল ১৭০% নগদ লভ্যাংশ দিয়েছে — প্রতি শেয়ারে ১৭ টাকা; নিট মুনাফা ২১.২৪% বেড়ে ইপিএস হয়েছে ৬৯.৪৭ টাকা (আগে ৫৭.৩০ টাকা)।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "১৭০% (প্রতি শেয়ারে ১৭ টাকা)",
-       "q": "পদ্মা অয়েলের লভ্যাংশ কত?"
-      },
-      {
-       "a": "২৫% (প্রতি শেয়ারে ২.৫০ টাকা)",
-       "q": "BSC-র লভ্যাংশ কত?"
-      },
-      {
-       "a": "১৯.১১ টাকা",
-       "q": "BSC-র ইপিএস কত?"
-      },
-      {
-       "a": "৬৯.৪৭ টাকা",
-       "q": "পদ্মা অয়েলের ইপিএস কত?"
-      },
-      {
-       "a": "১৫ ডিসেম্বর (BSC); ২৯ নভেম্বর ২০২৬ (পদ্মা)",
-       "q": "দুই কোম্পানির রেকর্ড তারিখ কবে?"
-      }
-     ],
-     "next_revision": [
-      "ইপিএস কমলেও এনএভি কেন বাড়ল?",
-      "নগদ লভ্যাংশ বনাম বোনাস শেয়ারের পার্থক্য কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "নগদ লভ্যাংশ বনাম স্টক লভ্যাংশ: নগদে টাকা দেওয়া হয়; স্টকে বিনামূল্যে অতিরিক্ত শেয়ার দেওয়া হয়।",
@@ -2059,94 +2218,186 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "BSC লভ্যাংশ",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "২৫% নগদ লভ্যাংশ — ১০ টাকার শেয়ারে ২.৫০ টাকা; অর্থবছর ২০২৬ (৩০ জুন ২০২৬ সমাপ্ত)"
+      "term": "লভ্যাংশ নগদ ও স্টক",
+      "full_name": "বোনাস শেয়ার",
+      "meaning": "দুই ধরনের হয়; এখানে দুটোই নগদ লভ্যাংশ।",
+      "source": "Mika Securities — Knowledge Point: Stock Market Basics (DSE/BSEC definitions)"
      },
      {
-      "label": "BSC রেকর্ড তারিখ",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "১৫ ডিসেম্বর"
+      "term": "ইপিএস কমা মানেই খারাপ নয়",
+      "meaning": "BSC-র ক্ষেত্রে আগের বছরে জাহাজ বিক্রির এককালীন আয় ছিল।",
+      "source": "Mika Securities — Knowledge Point: Stock Market Basics (DSE/BSEC definitions)"
      },
      {
-      "label": "BSC ইপিএস",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "১৯.১১ টাকা (আগে ২০.১০ টাকা) — আগের বছরে দুটি জাহাজ বিক্রির এককালীন আয় ছিল"
+      "term": "রেকর্ড তারিখ ঠিক করে কারা লভ্যাংশ পাবেন",
+      "meaning": "রেকর্ড তারিখ ঠিক করে কারা লভ্যাংশ পাবেন; AGM-এ শেয়ারহোল্ডাররা অনুমোদন দেন।",
+      "source": "Mika Securities — Knowledge Point: Stock Market Basics (DSE/BSEC definitions)"
      },
      {
-      "label": "BSC এনএভি",
-      "source": "The Business Standard story exam_facts",
-      "value": "শেয়ারপ্রতি এনএভি ১২১.৪৫ টাকা (আগে ১০৪.৮৪ টাকা); নিট পরিচালন নগদ প্রবাহ ২৫.৪০ টাকা (আগে ১১.৯৬ টাকা)"
-     },
-     {
-      "label": "পদ্মা অয়েল",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "১৭০% নগদ লভ্যাংশ (প্রতি শেয়ারে ১৭ টাকা); নিট মুনাফা ২১.২৪% বেড়েছে; ইপিএস ৬৯.৪৭ টাকা (আগে ৫৭.৩০ টাকা)"
-     },
-     {
-      "label": "পদ্মা অয়েল এনএভি ও এজিএম",
-      "source": "The Business Standard story exam_facts",
-      "value": "এনএভি ৩২৮.৩৩ টাকা (আগে ২৭৪.৮৬ টাকা); পরিচালন নগদ প্রবাহ ৬৩.৭২ টাকা (আগে −৩৯.৮৩ টাকা); এজিএম ২০২৭ সালের ১ জানুয়ারি, সকাল ১০টা, ডিজিটাল প্ল্যাটফর্মে; রেকর্ড তারিখ ২৯ নভেম্বর ২০২৬"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "লভ্যাংশ, ইপিএস, এনএভি, রেকর্ড তারিখ, অভিহিত মূল্য (face value)।",
+      "source": "Mika Securities — Knowledge Point: Stock Market Basics (DSE/BSEC definitions)"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "loss",
-      "bangla_meaning": "লভ্যাংশ",
-      "example": "BSC recommended a 25% cash dividend for FY26.",
-      "synonym": "payout",
-      "word": "dividend"
+      "question": "পদ্মা অয়েল অর্থবছর ২০২৬-এ কত নগদ লভ্যাংশ দিয়েছে?",
+      "options": [
+       "২৫%",
+       "১৬০%",
+       "১৭০%",
+       "২১.২৪%"
+      ],
+      "correct": 2,
+      "explanation": "পদ্মা অয়েল ১৭০% নগদ লভ্যাংশ দিয়েছে — প্রতি শেয়ারে ১৭ টাকা।"
      },
      {
-      "antonym": "disqualification",
-      "bangla_meaning": "অধিকার; প্রাপ্যতা",
-      "example": "The record date determines shareholder entitlement to the dividend.",
-      "synonym": "right",
-      "word": "entitlement"
+      "question": "BSC-র অর্থবছর ২০২৬-এর ইপিএস কত?",
+      "options": [
+       "১৯.১১ টাকা",
+       "২০.১০ টাকা",
+       "২৫.৪০ টাকা",
+       "৫.৮৮ টাকা"
+      ],
+      "correct": 0,
+      "explanation": "BSC-র ইপিএস ২০.১০ টাকা থেকে কমে ১৯.১১ টাকা হয়েছে।"
      },
      {
-      "antonym": "—",
-      "bangla_meaning": "শেয়ারহোল্ডার; অংশীদার",
-      "example": "Shareholders on the record date receive the dividend.",
-      "synonym": "stockholder",
-      "word": "shareholder"
+      "question": "নগদ লভ্যাংশের শতাংশ কিসের ওপর হিসাব করা হয়?",
+      "options": [
+       "বাজারদরের শতাংশ",
+       "অভিহিত মূল্যের শতাংশ",
+       "এনএভির শতাংশ",
+       "ইপিএসের শতাংশ"
+      ],
+      "correct": 1,
+      "explanation": "নগদ লভ্যাংশ শেয়ারের অভিহিত মূল্যের (face value) শতাংশ হিসেবে ঘোষণা করা হয়।"
      },
      {
-      "antonym": "loss",
-      "bangla_meaning": "আয়; মুনাফা",
-      "example": "Padma Oil's net profit grew 21.24% and EPS rose to Tk69.47.",
-      "synonym": "profit",
-      "word": "earnings"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "অর্থবছর-সংক্রান্ত",
-      "example": "The dividend is for the fiscal year ended 30 June 2026.",
-      "synonym": "financial-year",
-      "word": "fiscal"
+      "question": "রেকর্ড তারিখের কাজ কী?",
+      "options": [
+       "পরের লভ্যাংশ ঘোষণার তারিখ",
+       "এজিএমের তারিখ",
+       "লভ্যাংশ পরিশোধের তারিখ",
+       "লভ্যাংশের অধিকারী নির্ধারণের তারিখ"
+      ],
+      "correct": 3,
+      "explanation": "রেকর্ড তারিখে যাঁরা শেয়ারহোল্ডার, তাঁরাই লভ্যাংশ পাওয়ার অধিকারী হন।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "BSC ও পদ্মা অয়েলের অর্থবছর ২০২৬-এর ফলাফল তুলনা করে সংক্ষেপে লেখো।",
       "outline": [
        "BSC: ২৫% লভ্যাংশ, ইপিএস কমেছে — আগের বছরের এককালীন আয়",
        "পদ্মা অয়েল: ১৭০% লভ্যাংশ, মুনাফা ২১.২৪% বেড়েছে",
        "একই মৌসুমে দুই রাষ্ট্রায়ত্ত কোম্পানির বিপরীত চিত্র"
-      ],
-      "question": "BSC ও পদ্মা অয়েলের অর্থবছর ২০২৬-এর ফলাফল তুলনা করে সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "শুধু লভ্যাংশের হার দেখে কোম্পানি বিচার করা কেন ভুল? বিশ্লেষণ করো।",
       "outline": [
        "ইপিএস কমা মানেই খারাপ নয় — এককালীন আয়ের প্রভাব",
        "এনএভি ও নগদ প্রবাহ একসঙ্গে দেখতে হয়",
        "লভ্যাংশের হার একা কোম্পানির স্বাস্থ্য বোঝায় না"
-      ],
-      "question": "শুধু লভ্যাংশের হার দেখে কোম্পানি বিচার করা কেন ভুল? বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "dividend",
+      "meaning_bn": "লভ্যাংশ",
+      "example": "BSC recommended a 25% cash dividend for FY26.",
+      "synonyms": [
+       "payout"
+      ],
+      "antonyms": [
+       "loss"
+      ]
+     },
+     {
+      "word": "entitlement",
+      "meaning_bn": "অধিকার; প্রাপ্যতা",
+      "example": "The record date determines shareholder entitlement to the dividend.",
+      "synonyms": [
+       "right"
+      ],
+      "antonyms": [
+       "disqualification"
+      ]
+     },
+     {
+      "word": "shareholder",
+      "meaning_bn": "শেয়ারহোল্ডার; অংশীদার",
+      "example": "Shareholders on the record date receive the dividend.",
+      "synonyms": [
+       "stockholder"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "earnings",
+      "meaning_bn": "আয়; মুনাফা",
+      "example": "Padma Oil's net profit grew 21.24% and EPS rose to Tk69.47.",
+      "synonyms": [
+       "profit"
+      ],
+      "antonyms": [
+       "loss"
+      ]
+     },
+     {
+      "word": "fiscal",
+      "meaning_bn": "অর্থবছর-সংক্রান্ত",
+      "example": "The dividend is for the fiscal year ended 30 June 2026.",
+      "synonyms": [
+       "financial-year"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "পদ্মা অয়েলের লভ্যাংশ কত?",
+       "a": "১৭০% (প্রতি শেয়ারে ১৭ টাকা)"
+      },
+      {
+       "q": "BSC-র লভ্যাংশ কত?",
+       "a": "২৫% (প্রতি শেয়ারে ২.৫০ টাকা)"
+      },
+      {
+       "q": "BSC-র ইপিএস কত?",
+       "a": "১৯.১১ টাকা"
+      },
+      {
+       "q": "পদ্মা অয়েলের ইপিএস কত?",
+       "a": "৬৯.৪৭ টাকা"
+      },
+      {
+       "q": "দুই কোম্পানির রেকর্ড তারিখ কবে?",
+       "a": "১৫ ডিসেম্বর (BSC); ২৯ নভেম্বর ২০২৬ (পদ্মা)"
+      }
+     ],
+     "next_revision": [
+      "ইপিএস কমলেও এনএভি কেন বাড়ল?",
+      "নগদ লভ্যাংশ বনাম বোনাস শেয়ারের পার্থক্য কী?"
+     ]
+    },
+    "deep_prep": [
+     "ঢাকা স্টক এক্সচেঞ্জ (DSE)",
+     "বিএসইসি (BSEC)",
+     "ইপিএস (EPS)",
+     "এনএভি (NAV)",
+     "পি/ই অনুপাত",
+     "নগদ লভ্যাংশ বনাম বোনাস শেয়ার"
     ]
    }
   },
@@ -2229,111 +2480,50 @@
    ],
    "detail": "The Election Commission plans first-phase elections in around 1,000 union parishads on 21 January, as part of a five-phase programme ending 27 May 2027, EC Senior Secretary Akhtar Ahmed said on 8 November. The second phase is likely on 4 February, with later phases on 29 April, 13 May and 27 May, scheduled around Ramadan, the SSC examinations and coastal weather; the terms of around 4,300 union parishads have already expired.",
    "learning_module": {
-    "deep_prep": [
-     "স্থানীয় সরকারের তিন স্তর",
-     "স্থানীয় সরকার (ইউনিয়ন পরিষদ) আইন, ২০০৯",
-     "নির্বাচন কমিশন",
-     "ভোটার তালিকা ও সীমানা নির্ধারণ",
-     "সংরক্ষিত নারী আসন",
-     "উপজেলা পরিষদ"
-    ],
-    "exam_notes": {
-     "notes": [
-      "স্থানীয় সরকারের গ্রামীণ তিন স্তর: ইউনিয়ন পরিষদ → উপজেলা পরিষদ → জেলা পরিষদ।",
-      "নির্বাচন কমিশন স্বাধীন সাংবিধানিক সংস্থা; সংবিধানের ১১৮–১২৬ অনুচ্ছেদে এর গঠন, ক্ষমতা ও কাজ আছে।",
-      "পরীক্ষায় আসে: ইউপির গঠন (চেয়ারম্যান + ১২ সদস্য, ৩ সংরক্ষিত নারী), মেয়াদ ৫ বছর, ২০০৯ সালের আইন, নির্বাচনের ধাপ ও তারিখ।",
-      "ইসি শুধু জাতীয় নয়, স্থানীয় সরকারের নির্বাচনও করে।"
-     ],
-     "sources": [
-      {
-       "name": "Banglapedia — Local Government",
-       "url": "http://en.banglapedia.org/index.php?title=Local_Government"
-      },
-      {
-       "name": "Banglapedia — Election Commission",
-       "url": "https://en.banglapedia.org/index.php?title=Election_Commission"
-      }
-     ]
-    },
     "hero": {
      "label": "প্রথম ধাপে ভোট হবে যত ইউনিয়ন পরিষদে",
      "figure": "১,০০০"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "নির্বাচন কমিশন (ইসি) প্রায় ১,০০০ ইউনিয়ন পরিষদে ২১ জানুয়ারি প্রথম ধাপের নির্বাচন করার পরিকল্পনা করেছে — ২০২৭ সালের ২৭ মে শেষ হওয়া পাঁচ ধাপের কর্মসূচির অংশ। ইসির সিনিয়র সচিব আখতার আহমেদ ৮ নভেম্বর এ কথা জানান। দ্বিতীয় ধাপ সম্ভবত ৪ ফেব্রুয়ারি; পরের ধাপগুলো ২৯ এপ্রিল, ১৩ মে ও ২৭ মে — রমজান, এসএসসি পরীক্ষা ও উপকূলের আবহাওয়া বিবেচনায়। প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ ইতিমধ্যে শেষ।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-08",
+      "url": "https://en.prothomalo.com/bangladesh/2tlwfdb8um"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "A",
-      "explanation": "প্রথম ধাপের ভোট ২১ জানুয়ারি, প্রায় ১,০০০ ইউনিয়ন পরিষদে।",
-      "options": {
-       "A": "২১ জানুয়ারি",
-       "B": "৪ ফেব্রুয়ারি",
-       "C": "২৯ এপ্রিল",
-       "D": "১৩ মে"
-      },
-      "question": "প্রথম ধাপের ইউনিয়ন পরিষদ নির্বাচন কবে?"
+      "label": "পরিকল্পনা",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "প্রথম ধাপে প্রায় ১,০০০ ইউনিয়ন পরিষদে ২১ জানুয়ারি ভোট; পাঁচ ধাপের কর্মসূচি ২০২৭ সালের ২৭ মে শেষ হবে"
      },
      {
-      "correct": "D",
-      "explanation": "প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ ইতিমধ্যে শেষ হয়ে গেছে।",
-      "options": {
-       "A": "১,০০০টি",
-       "B": "২,০০০টি",
-       "C": "৩,০০০টি",
-       "D": "৪,৩০০টি"
-      },
-      "question": "কতটি ইউনিয়ন পরিষদের মেয়াদ শেষ হয়েছে?"
+      "label": "ধাপগুলো",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "২১ জানুয়ারি; ৪ ফেব্রুয়ারি; ২৯ এপ্রিল; ১৩ মে; ২৭ মে ২০২৭"
      },
      {
-      "correct": "B",
-      "explanation": "একটি ইউনিয়ন পরিষদে একজন চেয়ারম্যান ও ১২ জন সদস্য থাকেন, যাঁদের মধ্যে ৩ জন সংরক্ষিত নারী সদস্য।",
-      "options": {
-       "A": "চেয়ারম্যান + ৯ সদস্য",
-       "B": "চেয়ারম্যান + ১২ সদস্য (৩ সংরক্ষিত নারী)",
-       "C": "চেয়ারম্যান + ৬ সদস্য",
-       "D": "চেয়ারম্যান + ১৫ সদস্য"
-      },
-      "question": "একটি ইউনিয়ন পরিষদের গঠন কেমন?"
+      "label": "মেয়াদোত্তীর্ণ",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ শেষ হয়েছে"
      },
      {
-      "correct": "C",
-      "explanation": "সংবিধানের ১১৮ থেকে ১২৬ অনুচ্ছেদে নির্বাচন কমিশনের গঠন, ক্ষমতা ও কাজ বর্ণনা আছে।",
-      "options": {
-       "A": "৫৯–৬৫ অনুচ্ছেদ",
-       "B": "১০২–১১০ অনুচ্ছেদ",
-       "C": "১১৮–১২৬ অনুচ্ছেদ",
-       "D": "১৩০–১৩৫ অনুচ্ছেদ"
-      },
-      "question": "সংবিধানের কোন অনুচ্ছেদে নির্বাচন কমিশন সম্পর্কে আছে?"
+      "label": "ঘোষণা",
+      "source": "Prothom Alo English, 8 Nov 2026",
+      "value": "ইসির সিনিয়র সচিব আখতার আহমেদ, ৮ নভেম্বর, নির্বাচন কমিশন ভবন, আগারগাঁও"
+     },
+     {
+      "label": "সিদ্ধান্ত",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "১২ অক্টোবরের কমিশন সভায় পাঁচ ধাপের সিদ্ধান্ত; নির্বাচন কমিশনার ব্রিগেডিয়ার জেনারেল (অব.) আবুল ফজল মো. সানাউল্লাহ আগেই তফসিল নিশ্চিত করেন"
+     },
+     {
+      "label": "সমালোচনা",
+      "source": "The Daily Star, 8 Nov 2026",
+      "value": "ভোট চলবে পুরোনো আইনে; গুরুত্বপূর্ণ নির্বাচন ও স্থানীয় সরকার সংস্কার বাদ পড়েছে"
      }
     ],
-    "news_summary": "নির্বাচন কমিশন (ইসি) প্রায় ১,০০০ ইউনিয়ন পরিষদে ২১ জানুয়ারি প্রথম ধাপের নির্বাচন করার পরিকল্পনা করেছে — ২০২৭ সালের ২৭ মে শেষ হওয়া পাঁচ ধাপের কর্মসূচির অংশ। ইসির সিনিয়র সচিব আখতার আহমেদ ৮ নভেম্বর এ কথা জানান। দ্বিতীয় ধাপ সম্ভবত ৪ ফেব্রুয়ারি; পরের ধাপগুলো ২৯ এপ্রিল, ১৩ মে ও ২৭ মে — রমজান, এসএসসি পরীক্ষা ও উপকূলের আবহাওয়া বিবেচনায়। প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ ইতিমধ্যে শেষ।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "২১ জানুয়ারি",
-       "q": "প্রথম ধাপের ভোট কবে?"
-      },
-      {
-       "a": "৪ ফেব্রুয়ারি",
-       "q": "দ্বিতীয় ধাপের ভোট কবে?"
-      },
-      {
-       "a": "২৭ মে ২০২৭",
-       "q": "পঞ্চম ধাপের ভোট কবে?"
-      },
-      {
-       "a": "৪,৩০০টি",
-       "q": "কত ইউপির মেয়াদ শেষ হয়েছে?"
-      },
-      {
-       "a": "চেয়ারম্যান, সাধারণ সদস্য ও সংরক্ষিত নারী সদস্য",
-       "q": "ব্যালট পেপার কোন কোন পদের জন্য ছাপা হচ্ছে?"
-      }
-     ],
-     "next_revision": [
-      "ইউনিয়ন পরিষদের মেয়াদ কত বছর?",
-      "ইসির কাজ কী কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "ইউনিয়ন পরিষদ বনাম উপজেলা পরিষদ: ইউপি গ্রামের সবচেয়ে ছোট একক; উপজেলা পরিষদ তার ওপরের স্তর।",
@@ -2381,94 +2571,186 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "পরিকল্পনা",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "প্রথম ধাপে প্রায় ১,০০০ ইউনিয়ন পরিষদে ২১ জানুয়ারি ভোট; পাঁচ ধাপের কর্মসূচি ২০২৭ সালের ২৭ মে শেষ হবে"
-     },
-     {
-      "label": "ধাপগুলো",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "২১ জানুয়ারি; ৪ ফেব্রুয়ারি; ২৯ এপ্রিল; ১৩ মে; ২৭ মে ২০২৭"
-     },
-     {
-      "label": "মেয়াদোত্তীর্ণ",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ শেষ হয়েছে"
-     },
-     {
-      "label": "ঘোষণা",
-      "source": "Prothom Alo English, 8 Nov 2026",
-      "value": "ইসির সিনিয়র সচিব আখতার আহমেদ, ৮ নভেম্বর, নির্বাচন কমিশন ভবন, আগারগাঁও"
-     },
-     {
-      "label": "সিদ্ধান্ত",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "১২ অক্টোবরের কমিশন সভায় পাঁচ ধাপের সিদ্ধান্ত; নির্বাচন কমিশনার ব্রিগেডিয়ার জেনারেল (অব.) আবুল ফজল মো. সানাউল্লাহ আগেই তফসিল নিশ্চিত করেন"
-     },
-     {
-      "label": "সমালোচনা",
-      "source": "The Daily Star, 8 Nov 2026",
-      "value": "ভোট চলবে পুরোনো আইনে; গুরুত্বপূর্ণ নির্বাচন ও স্থানীয় সরকার সংস্কার বাদ পড়েছে"
+      "name": "ইসি",
+      "role": "শুধু জাতীয় নয়, স্থানীয় সরকারের নির্বাচনও করে।",
+      "source": "Banglapedia — Local Government; Banglapedia — Election Commission"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "appointed",
-      "bangla_meaning": "নির্বাচনী; ভোট-সংক্রান্ত",
-      "example": "The Election Commission plans first-phase elections in 1,000 union parishads.",
-      "synonym": "voting",
-      "word": "electoral"
+      "term": "স্থানীয় সরকারের গ্রামীণ তিন স্তর",
+      "meaning": "ইউনিয়ন পরিষদ → উপজেলা পরিষদ → জেলা পরিষদ।",
+      "source": "Banglapedia — Local Government; Banglapedia — Election Commission"
      },
      {
-      "antonym": "—",
-      "bangla_meaning": "ধাপ; পর্যায়",
-      "example": "The second phase is likely on 4 February.",
-      "synonym": "stage",
-      "word": "phase"
+      "term": "নির্বাচন",
+      "meaning": "কমিশন স্বাধীন সাংবিধানিক সংস্থা; সংবিধানের ১১৮–১২৬ অনুচ্ছেদে এর গঠন, ক্ষমতা ও কাজ আছে।",
+      "source": "Banglapedia — Local Government; Banglapedia — Election Commission"
      },
      {
-      "antonym": "separately",
-      "bangla_meaning": "একযোগে; একসঙ্গে",
-      "example": "All UPs of an upazila whose terms expired will vote simultaneously.",
-      "synonym": "together",
-      "word": "simultaneously"
-     },
-     {
-      "antonym": "valid",
-      "bangla_meaning": "মেয়াদোত্তীর্ণ",
-      "example": "The terms of around 4,300 union parishads have already expired.",
-      "synonym": "lapsed",
-      "word": "expired"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "ব্যালট; ভোটপত্র",
-      "example": "The EC is printing ballot papers for chairman, general member and reserved women member posts.",
-      "synonym": "vote paper",
-      "word": "ballot"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "ইউপির গঠন (চেয়ারম্যান + ১২ সদস্য, ৩ সংরক্ষিত নারী), মেয়াদ ৫ বছর, ২০০৯ সালের আইন, নির্বাচনের ধাপ ও তারিখ।",
+      "source": "Banglapedia — Local Government; Banglapedia — Election Commission"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "প্রথম ধাপের ইউনিয়ন পরিষদ নির্বাচন কবে?",
+      "options": [
+       "২১ জানুয়ারি",
+       "৪ ফেব্রুয়ারি",
+       "২৯ এপ্রিল",
+       "১৩ মে"
+      ],
+      "correct": 0,
+      "explanation": "প্রথম ধাপের ভোট ২১ জানুয়ারি, প্রায় ১,০০০ ইউনিয়ন পরিষদে।"
+     },
+     {
+      "question": "কতটি ইউনিয়ন পরিষদের মেয়াদ শেষ হয়েছে?",
+      "options": [
+       "১,০০০টি",
+       "২,০০০টি",
+       "৩,০০০টি",
+       "৪,৩০০টি"
+      ],
+      "correct": 3,
+      "explanation": "প্রায় ৪,৩০০ ইউনিয়ন পরিষদের মেয়াদ ইতিমধ্যে শেষ হয়ে গেছে।"
+     },
+     {
+      "question": "একটি ইউনিয়ন পরিষদের গঠন কেমন?",
+      "options": [
+       "চেয়ারম্যান + ৯ সদস্য",
+       "চেয়ারম্যান + ১২ সদস্য (৩ সংরক্ষিত নারী)",
+       "চেয়ারম্যান + ৬ সদস্য",
+       "চেয়ারম্যান + ১৫ সদস্য"
+      ],
+      "correct": 1,
+      "explanation": "একটি ইউনিয়ন পরিষদে একজন চেয়ারম্যান ও ১২ জন সদস্য থাকেন, যাঁদের মধ্যে ৩ জন সংরক্ষিত নারী সদস্য।"
+     },
+     {
+      "question": "সংবিধানের কোন অনুচ্ছেদে নির্বাচন কমিশন সম্পর্কে আছে?",
+      "options": [
+       "৫৯–৬৫ অনুচ্ছেদ",
+       "১০২–১১০ অনুচ্ছেদ",
+       "১১৮–১২৬ অনুচ্ছেদ",
+       "১৩০–১৩৫ অনুচ্ছেদ"
+      ],
+      "correct": 2,
+      "explanation": "সংবিধানের ১১৮ থেকে ১২৬ অনুচ্ছেদে নির্বাচন কমিশনের গঠন, ক্ষমতা ও কাজ বর্ণনা আছে।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "ইউনিয়ন পরিষদ নির্বাচনের পাঁচ ধাপের কর্মসূচি সংক্ষেপে লেখো।",
       "outline": [
        "পাঁচ ধাপের তারিখ ও ১,০০০ ইউপির প্রথম ধাপ",
        "রমজান, এসএসসি ও আবহাওয়া বিবেচনা",
        "পুরোনো আইনে ভোট — সংস্কার বাদ পড়া"
-      ],
-      "question": "ইউনিয়ন পরিষদ নির্বাচনের পাঁচ ধাপের কর্মসূচি সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "মেয়াদোত্তীর্ণ ইউনিয়ন পরিষদে দেরিতে নির্বাচন স্থানীয় শাসনে কী প্রভাব ফেলে — বিশ্লেষণ করো।",
       "outline": [
        "মেয়াদ শেষের পরও নির্বাচন দেরি — স্থানীয় সেবায় শূন্যতা",
        "পুরোনো আইনে নির্বাচন: সংস্কার না হওয়ার ক্ষতি",
        "পাঁচ ধাপে ভোটের সুবিধা ও অসুবিধা"
-      ],
-      "question": "মেয়াদোত্তীর্ণ ইউনিয়ন পরিষদে দেরিতে নির্বাচন স্থানীয় শাসনে কী প্রভাব ফেলে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "electoral",
+      "meaning_bn": "নির্বাচনী; ভোট-সংক্রান্ত",
+      "example": "The Election Commission plans first-phase elections in 1,000 union parishads.",
+      "synonyms": [
+       "voting"
+      ],
+      "antonyms": [
+       "appointed"
+      ]
+     },
+     {
+      "word": "phase",
+      "meaning_bn": "ধাপ; পর্যায়",
+      "example": "The second phase is likely on 4 February.",
+      "synonyms": [
+       "stage"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "simultaneously",
+      "meaning_bn": "একযোগে; একসঙ্গে",
+      "example": "All UPs of an upazila whose terms expired will vote simultaneously.",
+      "synonyms": [
+       "together"
+      ],
+      "antonyms": [
+       "separately"
+      ]
+     },
+     {
+      "word": "expired",
+      "meaning_bn": "মেয়াদোত্তীর্ণ",
+      "example": "The terms of around 4,300 union parishads have already expired.",
+      "synonyms": [
+       "lapsed"
+      ],
+      "antonyms": [
+       "valid"
+      ]
+     },
+     {
+      "word": "ballot",
+      "meaning_bn": "ব্যালট; ভোটপত্র",
+      "example": "The EC is printing ballot papers for chairman, general member and reserved women member posts.",
+      "synonyms": [
+       "vote paper"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "প্রথম ধাপের ভোট কবে?",
+       "a": "২১ জানুয়ারি"
+      },
+      {
+       "q": "দ্বিতীয় ধাপের ভোট কবে?",
+       "a": "৪ ফেব্রুয়ারি"
+      },
+      {
+       "q": "পঞ্চম ধাপের ভোট কবে?",
+       "a": "২৭ মে ২০২৭"
+      },
+      {
+       "q": "কত ইউপির মেয়াদ শেষ হয়েছে?",
+       "a": "৪,৩০০টি"
+      },
+      {
+       "q": "ব্যালট পেপার কোন কোন পদের জন্য ছাপা হচ্ছে?",
+       "a": "চেয়ারম্যান, সাধারণ সদস্য ও সংরক্ষিত নারী সদস্য"
+      }
+     ],
+     "next_revision": [
+      "ইউনিয়ন পরিষদের মেয়াদ কত বছর?",
+      "ইসির কাজ কী কী?"
+     ]
+    },
+    "deep_prep": [
+     "স্থানীয় সরকারের তিন স্তর",
+     "স্থানীয় সরকার (ইউনিয়ন পরিষদ) আইন, ২০০৯",
+     "নির্বাচন কমিশন",
+     "ভোটার তালিকা ও সীমানা নির্ধারণ",
+     "সংরক্ষিত নারী আসন",
+     "উপজেলা পরিষদ"
     ]
    }
   },
@@ -2551,111 +2833,50 @@
    ],
    "detail": "The Ninth Teacher Recruitment Examination, run by the Non-Government Teachers' Registration and Certification Authority (NTRCA), may be held in December in three stages — a 100-mark MCQ preliminary of one hour, a 100-mark written test of three hours, and a 20-mark viva voce — with the syllabus possibly revised. For the first time the examination will lead directly to recruitment, not merely certify eligibility, so it is called a recruitment examination, not the 19th registration examination.",
    "learning_module": {
-    "deep_prep": [
-     "এনটিআরসিএ (NTRCA)",
-     "এমপিও ব্যবস্থা",
-     "শিক্ষক নিয়োগ বনাম নিবন্ধন",
-     "ঋণাত্মক নম্বর (negative marking)",
-     "মৌখিক পরীক্ষা (viva voce)",
-     "শিক্ষা মন্ত্রণালয়"
-    ],
-    "exam_notes": {
-     "notes": [
-      "নিবন্ধন বনাম নিয়োগ: আগের পরীক্ষায় শুধু যোগ্যতার সনদ দেওয়া হতো; নতুন পরীক্ষায় সরাসরি নিয়োগ হবে।",
-      "NTRCA শিক্ষা মন্ত্রণালয়ের অধীন একটি সংবিধিবদ্ধ সংস্থা; ২০০৫ সালের আইনে গঠিত।",
-      "পরীক্ষায় আসে: ১০০–১০০–২০ নম্বর বিভাজন, ৪০% পাস নম্বর, ০.২৫ ঋণাত্মক নম্বর, ২৫ নম্বর করে চার বিষয়।",
-      "২০২৬ সালের সেপ্টেম্বরে সিদ্ধান্ত: তিন ধাপের পুরোনো ব্যবস্থা ফিরিয়ে আনা হয়।"
-     ],
-     "sources": [
-      {
-       "name": "Media Bangladesh — NTRCA Teacher Registration 2026",
-       "url": "https://www.mediabangladesh.net/ntrca-teacher-registration/"
-      },
-      {
-       "name": "Views Bangladesh — Written test returns to teacher registration, NTRCA system to remain",
-       "url": "https://viewsbangladesh.com/written-test-returns-to-teacher-registration-ntrca-system-to-remain/"
-      }
-     ]
-    },
     "hero": {
      "label": "তিন ধাপের নম্বর বিভাজন: প্রিলিমিনারি–লিখিত–মৌখিক",
      "figure": "১০০–১০০–২০"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষের (এনটিআরসিএ) নবম শিক্ষক নিয়োগ পরীক্ষা ডিসেম্বরে হতে পারে — তিন ধাপে: এক ঘণ্টার ১০০ নম্বরের এমসিকিউ প্রিলিমিনারি, তিন ঘণ্টার ১০০ নম্বরের লিখিত পরীক্ষা ও ২০ নম্বরের মৌখিক পরীক্ষা; সিলেবাসও বদলাতে পারে। প্রথমবারের মতো এই পরীক্ষা সরাসরি নিয়োগে নিয়ে যাবে, শুধু যোগ্যতার সনদ দেবে না — তাই একে ১৯তম নিবন্ধন পরীক্ষা না বলে নবম নিয়োগ পরীক্ষা বলা হচ্ছে।",
+     "source": {
+      "publication": "Prothom Alo English",
+      "date": "2026-11-07",
+      "url": "https://en.prothomalo.com/youth/employment/r4db664b3m"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "D",
-      "explanation": "পরীক্ষা তিন ধাপে: ১০০ নম্বরের প্রিলিমিনারি, ১০০ নম্বরের লিখিত ও ২০ নম্বরের মৌখিক।",
-      "options": {
-       "A": "পাঁচ ধাপ",
-       "B": "চার ধাপ",
-       "C": "দুই ধাপ",
-       "D": "তিন ধাপ"
-      },
-      "question": "নবম শিক্ষক নিয়োগ পরীক্ষা কয় ধাপে হবে?"
+      "label": "পরীক্ষা",
+      "source": "Prothom Alo English, 7 Nov 2026",
+      "value": "নবম শিক্ষক নিয়োগ পরীক্ষা — ডিসেম্বরে হতে পারে"
      },
      {
-      "correct": "B",
-      "explanation": "প্রিলিমিনারিতে পাস নম্বর ৪০ শতাংশ।",
-      "options": {
-       "A": "৩৩%",
-       "B": "৪০%",
-       "C": "৫০%",
-       "D": "৬০%"
-      },
-      "question": "প্রিলিমিনারি পরীক্ষায় পাস নম্বর কত?"
+      "label": "তিন ধাপ",
+      "source": "Prothom Alo English, 7 Nov 2026",
+      "value": "১০০ নম্বরের এমসিকিউ প্রিলিমিনারি (১ ঘণ্টা) + ১০০ নম্বরের লিখিত (৩ ঘণ্টা) + ২০ নম্বরের মৌখিক"
      },
      {
-      "correct": "A",
-      "explanation": "প্রতিটি ভুল উত্তরে ০.২৫ নম্বর কাটা যাবে।",
-      "options": {
-       "A": "০.২৫",
-       "B": "০.৫০",
-       "C": "১.০০",
-       "D": "০.১০"
-      },
-      "question": "প্রতিটি ভুল উত্তরে কত নম্বর কাটা যাবে?"
+      "label": "প্রিলিমিনারির বিষয়",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "বাংলা, ইংরেজি, গণিত, সাধারণ জ্ঞান — প্রতিটি ২৫ নম্বর; সঠিক উত্তরে ১ নম্বর, ভুলে ০.২৫ কাটা; পাস নম্বর ৪০%"
      },
      {
-      "correct": "C",
-      "explanation": "NTRCA গঠিত হয় ২০০৫ সালের আইনে।",
-      "options": {
-       "A": "১৯৯৮ সালের আইন",
-       "B": "২০০২ সালের আইন",
-       "C": "২০০৫ সালের আইন",
-       "D": "২০১০ সালের আইন"
-      },
-      "question": "NTRCA কোন সালের আইনে গঠিত হয়?"
+      "label": "নতুন বৈশিষ্ট্য",
+      "source": "Prothom Alo English, 7 Nov 2026",
+      "value": "প্রথমবার সরাসরি নিয়োগ হবে; তাই ১৯তম নিবন্ধন নয়, নবম নিয়োগ পরীক্ষা"
+     },
+     {
+      "label": "শর্ত",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "বিধিমালা সংশোধন ও শিক্ষা মন্ত্রণালয়ের অনুমোদনের ওপর নির্ভরশীল"
+     },
+     {
+      "label": "আগের চক্র",
+      "source": "Prothom Alo English story exam_facts",
+      "value": "১৮তম পরীক্ষার বিজ্ঞপ্তি ৪ নভেম্বর ২০২৩; প্রিলিমিনারি ২০২৪ সালের মার্চে; প্রতিষ্ঠান প্রধান ও সহকারী প্রধানদের মৌখিক পরীক্ষা চলছে, ৯ ডিসেম্বর শেষ হবে"
      }
     ],
-    "news_summary": "বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষের (এনটিআরসিএ) নবম শিক্ষক নিয়োগ পরীক্ষা ডিসেম্বরে হতে পারে — তিন ধাপে: এক ঘণ্টার ১০০ নম্বরের এমসিকিউ প্রিলিমিনারি, তিন ঘণ্টার ১০০ নম্বরের লিখিত পরীক্ষা ও ২০ নম্বরের মৌখিক পরীক্ষা; সিলেবাসও বদলাতে পারে। প্রথমবারের মতো এই পরীক্ষা সরাসরি নিয়োগে নিয়ে যাবে, শুধু যোগ্যতার সনদ দেবে না — তাই একে ১৯তম নিবন্ধন পরীক্ষা না বলে নবম নিয়োগ পরীক্ষা বলা হচ্ছে।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "তিন ধাপ",
-       "q": "পরীক্ষা কয় ধাপে হবে?"
-      },
-      {
-       "a": "১০০–১০০–২০",
-       "q": "তিন ধাপের নম্বর কত?"
-      },
-      {
-       "a": "৪০%",
-       "q": "প্রিলিমিনারিতে পাস নম্বর?"
-      },
-      {
-       "a": "০.২৫",
-       "q": "ভুল উত্তরে কত নম্বর কাটা?"
-      },
-      {
-       "a": "বাংলা, ইংরেজি, গণিত, সাধারণ জ্ঞান — প্রতিটি ২৫ নম্বর",
-       "q": "প্রিলিমিনারির বিষয়গুলো কী কী?"
-      }
-     ],
-     "next_revision": [
-      "নিবন্ধন ও নিয়োগ পরীক্ষার পার্থক্য কী?",
-      "NTRCA কী করে?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "নিবন্ধন বনাম নিয়োগ: নিবন্ধনে শুধু যোগ্যতার সনদ মেলে; নিয়োগে সরাসরি চাকরি মেলে।",
@@ -2695,94 +2916,186 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "পরীক্ষা",
-      "source": "Prothom Alo English, 7 Nov 2026",
-      "value": "নবম শিক্ষক নিয়োগ পরীক্ষা — ডিসেম্বরে হতে পারে"
-     },
-     {
-      "label": "তিন ধাপ",
-      "source": "Prothom Alo English, 7 Nov 2026",
-      "value": "১০০ নম্বরের এমসিকিউ প্রিলিমিনারি (১ ঘণ্টা) + ১০০ নম্বরের লিখিত (৩ ঘণ্টা) + ২০ নম্বরের মৌখিক"
-     },
-     {
-      "label": "প্রিলিমিনারির বিষয়",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "বাংলা, ইংরেজি, গণিত, সাধারণ জ্ঞান — প্রতিটি ২৫ নম্বর; সঠিক উত্তরে ১ নম্বর, ভুলে ০.২৫ কাটা; পাস নম্বর ৪০%"
-     },
-     {
-      "label": "নতুন বৈশিষ্ট্য",
-      "source": "Prothom Alo English, 7 Nov 2026",
-      "value": "প্রথমবার সরাসরি নিয়োগ হবে; তাই ১৯তম নিবন্ধন নয়, নবম নিয়োগ পরীক্ষা"
-     },
-     {
-      "label": "শর্ত",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "বিধিমালা সংশোধন ও শিক্ষা মন্ত্রণালয়ের অনুমোদনের ওপর নির্ভরশীল"
-     },
-     {
-      "label": "আগের চক্র",
-      "source": "Prothom Alo English story exam_facts",
-      "value": "১৮তম পরীক্ষার বিজ্ঞপ্তি ৪ নভেম্বর ২০২৩; প্রিলিমিনারি ২০২৪ সালের মার্চে; প্রতিষ্ঠান প্রধান ও সহকারী প্রধানদের মৌখিক পরীক্ষা চলছে, ৯ ডিসেম্বর শেষ হবে"
+      "name": "NTRCA",
+      "role": "শিক্ষা মন্ত্রণালয়ের অধীন একটি সংবিধিবদ্ধ সংস্থা; ২০০৫ সালের আইনে গঠিত।",
+      "source": "Media Bangladesh — NTRCA Teacher Registration 2026; Views Bangladesh — Written test returns to teacher registration, NTRCA system to remain"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "—",
-      "bangla_meaning": "পাঠ্যসূচি",
-      "example": "The syllabus for the new recruitment examination may also be revised.",
-      "synonym": "curriculum",
-      "word": "syllabus"
+      "term": "নিবন্ধন বনাম নিয়োগ",
+      "meaning": "আগের পরীক্ষায় শুধু যোগ্যতার সনদ দেওয়া হতো; নতুন পরীক্ষায় সরাসরি নিয়োগ হবে।",
+      "source": "Media Bangladesh — NTRCA Teacher Registration 2026; Views Bangladesh — Written test returns to teacher registration, NTRCA system to remain"
      },
      {
-      "antonym": "dismissal",
-      "bangla_meaning": "নিয়োগ",
-      "example": "The Ninth Teacher Recruitment Examination will lead directly to recruitment.",
-      "synonym": "hiring",
-      "word": "recruitment"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "১০০–১০০–২০ নম্বর বিভাজন, ৪০% পাস নম্বর, ০.২৫ ঋণাত্মক নম্বর, ২৫ নম্বর করে চার বিষয়।",
+      "source": "Media Bangladesh — NTRCA Teacher Registration 2026; Views Bangladesh — Written test returns to teacher registration, NTRCA system to remain"
      },
      {
-      "antonym": "final",
-      "bangla_meaning": "প্রাথমিক; প্রিলিমিনারি",
-      "example": "A 100-mark MCQ preliminary of one hour will be held first.",
-      "synonym": "initial",
-      "word": "preliminary"
-     },
-     {
-      "antonym": "ineligible",
-      "bangla_meaning": "যোগ্য",
-      "example": "The examination tests whether candidates are eligible to teach.",
-      "synonym": "qualified",
-      "word": "eligible"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "সনদ; প্রত্যয়ন",
-      "example": "NTRCA issues registration certificates to successful candidates.",
-      "synonym": "certificate",
-      "word": "certification"
+      "term": "২০২৬ সালের সেপ্টেম্বরে সিদ্ধান্ত",
+      "meaning": "তিন ধাপের পুরোনো ব্যবস্থা ফিরিয়ে আনা হয়।",
+      "source": "Media Bangladesh — NTRCA Teacher Registration 2026; Views Bangladesh — Written test returns to teacher registration, NTRCA system to remain"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "নবম শিক্ষক নিয়োগ পরীক্ষা কয় ধাপে হবে?",
+      "options": [
+       "পাঁচ ধাপ",
+       "চার ধাপ",
+       "দুই ধাপ",
+       "তিন ধাপ"
+      ],
+      "correct": 3,
+      "explanation": "পরীক্ষা তিন ধাপে: ১০০ নম্বরের প্রিলিমিনারি, ১০০ নম্বরের লিখিত ও ২০ নম্বরের মৌখিক।"
+     },
+     {
+      "question": "প্রিলিমিনারি পরীক্ষায় পাস নম্বর কত?",
+      "options": [
+       "৩৩%",
+       "৪০%",
+       "৫০%",
+       "৬০%"
+      ],
+      "correct": 1,
+      "explanation": "প্রিলিমিনারিতে পাস নম্বর ৪০ শতাংশ।"
+     },
+     {
+      "question": "প্রতিটি ভুল উত্তরে কত নম্বর কাটা যাবে?",
+      "options": [
+       "০.২৫",
+       "০.৫০",
+       "১.০০",
+       "০.১০"
+      ],
+      "correct": 0,
+      "explanation": "প্রতিটি ভুল উত্তরে ০.২৫ নম্বর কাটা যাবে।"
+     },
+     {
+      "question": "NTRCA কোন সালের আইনে গঠিত হয়?",
+      "options": [
+       "১৯৯৮ সালের আইন",
+       "২০০২ সালের আইন",
+       "২০০৫ সালের আইন",
+       "২০১০ সালের আইন"
+      ],
+      "correct": 2,
+      "explanation": "NTRCA গঠিত হয় ২০০৫ সালের আইনে।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "নবম শিক্ষক নিয়োগ পরীক্ষার কাঠামো সংক্ষেপে লেখো।",
       "outline": [
        "তিন ধাপ: ১০০–১০০–২০",
        "প্রিলিমিনারির চার বিষয় ও ৪০% পাস নম্বর",
        "নিবন্ধন নয়, সরাসরি নিয়োগ — নাম বদলের কারণ"
-      ],
-      "question": "নবম শিক্ষক নিয়োগ পরীক্ষার কাঠামো সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "নিবন্ধন থেকে সরাসরি নিয়োগে যাওয়া শিক্ষক প্রার্থীদের জন্য কী বদলে দেবে — বিশ্লেষণ করো।",
       "outline": [
        "নিবন্ধন সনদ নিয়ে চাকরির জন্য আলাদা অপেক্ষা করতে হতো",
        "সরাসরি নিয়োগে সময় ও অনিশ্চয়তা কমবে",
        "সীমা: বিধিমালা সংশোধন ও মন্ত্রণালয়ের অনুমোদন এখনো বাকি"
-      ],
-      "question": "নিবন্ধন থেকে সরাসরি নিয়োগে যাওয়া শিক্ষক প্রার্থীদের জন্য কী বদলে দেবে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "syllabus",
+      "meaning_bn": "পাঠ্যসূচি",
+      "example": "The syllabus for the new recruitment examination may also be revised.",
+      "synonyms": [
+       "curriculum"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "recruitment",
+      "meaning_bn": "নিয়োগ",
+      "example": "The Ninth Teacher Recruitment Examination will lead directly to recruitment.",
+      "synonyms": [
+       "hiring"
+      ],
+      "antonyms": [
+       "dismissal"
+      ]
+     },
+     {
+      "word": "preliminary",
+      "meaning_bn": "প্রাথমিক; প্রিলিমিনারি",
+      "example": "A 100-mark MCQ preliminary of one hour will be held first.",
+      "synonyms": [
+       "initial"
+      ],
+      "antonyms": [
+       "final"
+      ]
+     },
+     {
+      "word": "eligible",
+      "meaning_bn": "যোগ্য",
+      "example": "The examination tests whether candidates are eligible to teach.",
+      "synonyms": [
+       "qualified"
+      ],
+      "antonyms": [
+       "ineligible"
+      ]
+     },
+     {
+      "word": "certification",
+      "meaning_bn": "সনদ; প্রত্যয়ন",
+      "example": "NTRCA issues registration certificates to successful candidates.",
+      "synonyms": [
+       "certificate"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "পরীক্ষা কয় ধাপে হবে?",
+       "a": "তিন ধাপ"
+      },
+      {
+       "q": "তিন ধাপের নম্বর কত?",
+       "a": "১০০–১০০–২০"
+      },
+      {
+       "q": "প্রিলিমিনারিতে পাস নম্বর?",
+       "a": "৪০%"
+      },
+      {
+       "q": "ভুল উত্তরে কত নম্বর কাটা?",
+       "a": "০.২৫"
+      },
+      {
+       "q": "প্রিলিমিনারির বিষয়গুলো কী কী?",
+       "a": "বাংলা, ইংরেজি, গণিত, সাধারণ জ্ঞান — প্রতিটি ২৫ নম্বর"
+      }
+     ],
+     "next_revision": [
+      "নিবন্ধন ও নিয়োগ পরীক্ষার পার্থক্য কী?",
+      "NTRCA কী করে?"
+     ]
+    },
+    "deep_prep": [
+     "এনটিআরসিএ (NTRCA)",
+     "এমপিও ব্যবস্থা",
+     "শিক্ষক নিয়োগ বনাম নিবন্ধন",
+     "ঋণাত্মক নম্বর (negative marking)",
+     "মৌখিক পরীক্ষা (viva voce)",
+     "শিক্ষা মন্ত্রণালয়"
     ]
    }
   },
@@ -2858,107 +3171,45 @@
    ],
    "detail": "Bangladesh's import expenditure rose 11.50 per cent in the first quarter of the current fiscal year 2026-27 amid global price pressures. The Financial Express reported the rise on 8 November, with the upward trend expected to continue in the coming months.",
    "learning_module": {
-    "deep_prep": [
-     "লেনদেনের ভারসাম্য (balance of payments)",
-     "বাণিজ্য ঘাটতি",
-     "চলতি হিসাব",
-     "বৈদেশিক মুদ্রার রিজার্ভ",
-     "রেমিট্যান্স",
-     "আমদানি নির্ভরতা"
-    ],
-    "exam_notes": {
-     "notes": [
-      "আমদানি বিল বনাম বাণিজ্য ঘাটতি: বিল বাড়লেই ঘাটতি বাড়ে, যদি রপ্তানি না বাড়ে।",
-      "বাংলাদেশ ব্যাংকের লেনদেন ভারসাম্যের তথ্য: ২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি ৭৪৭ কোটি ডলার।",
-      "পরীক্ষায় আসে: আমদানি-রপ্তানির পার্থক্য, রিজার্ভের মাস-হিসাব, রেমিট্যান্সের ভূমিকা।",
-      "বৈশ্বিক দাম বাড়লে আমদানি বিল বাড়ে — এটাই এবারের মূল কারণ।"
-     ],
-     "sources": [
-      {
-       "name": "Traders Union — Bangladesh trade deficit widens in fiscal Q1 (Bangladesh Bank data via TBS)",
-       "url": "https://tradersunion.com/news/economic-data/show/4114457-bangladesh-trade-deficit-imports-exports-q1/"
-      }
-     ]
-    },
     "hero": {
      "label": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে আমদানি ব্যয় বেড়েছে",
      "figure": "১১.৫০%"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "বাংলাদেশের আমদানি ব্যয় ২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে ১১.৫০ শতাংশ বেড়েছে — বৈশ্বিক দাম বাড়ার চাপে। ফাইন্যান্সিয়াল এক্সপ্রেস ৮ নভেম্বর এ তথ্য জানায়; ঊর্ধ্বমুখী ধারা আগামী মাসগুলোতেও চলবে বলে আশা করা হচ্ছে।",
+     "source": {
+      "publication": "The Financial Express",
+      "date": "2026-11-08",
+      "url": "https://today.thefinancialexpress.com.bd/last-page/import-bill-up-115pc-amid-global-price-pressures-1794163177"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "B",
-      "explanation": "আমদানি ব্যয় ২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে ১১.৫০% বেড়েছে।",
-      "options": {
-       "A": "১১.০৫%",
-       "B": "১১.৫০%",
-       "C": "১০.৫০%",
-       "D": "১৫.১০%"
-      },
-      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে আমদানি ব্যয় কত বেড়েছে?"
+      "label": "বৃদ্ধি",
+      "source": "The Financial Express, 8 Nov 2026",
+      "value": "আমদানি ব্যয় প্রথম ত্রৈমাসিকে ১১.৫০% বেড়েছে"
      },
      {
-      "correct": "A",
-      "explanation": "অর্থবছরের প্রথম ত্রৈমাসিক হলো জুলাই–সেপ্টেম্বর।",
-      "options": {
-       "A": "জুলাই–সেপ্টেম্বর",
-       "B": "অক্টোবর–ডিসেম্বর",
-       "C": "জানুয়ারি–মার্চ",
-       "D": "এপ্রিল–জুন"
-      },
-      "question": "অর্থবছরের প্রথম ত্রৈমাসিক কোন মাসগুলো?"
+      "label": "অর্থবছর",
+      "source": "The Financial Express story exam_facts",
+      "value": "২০২৬-২৭ অর্থবছর (FY27); প্রথম ত্রৈমাসিকের হিসাব"
      },
      {
-      "correct": "C",
-      "explanation": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী জুলাই–সেপ্টেম্বরে বাণিজ্য ঘাটতি ৭৪৭ কোটি ডলার।",
-      "options": {
-       "A": "৫৭১ কোটি ডলার",
-       "B": "৬৫০ কোটি ডলার",
-       "C": "৭৪৭ কোটি ডলার",
-       "D": "৮৫৯ কোটি ডলার"
-      },
-      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি কত? "
+      "label": "কারণ",
+      "source": "The Financial Express, 8 Nov 2026",
+      "value": "বৈশ্বিক দামের চাপ"
      },
      {
-      "correct": "D",
-      "explanation": "২০২৬ সালের সেপ্টেম্বর শেষে মোট রিজার্ভ দিয়ে প্রায় ৪.৮ মাসের আমদানি মেটানো যেত।",
-      "options": {
-       "A": "২.৫ মাস",
-       "B": "৩.০ মাস",
-       "C": "৩.৫ মাস",
-       "D": "৪.৮ মাস"
-      },
-      "question": "২০২৬ সালের সেপ্টেম্বর শেষে রিজার্ভ কত মাসের আমদানির জন্য যথেষ্ট ছিল?"
+      "label": "ধারা",
+      "source": "The Financial Express, 8 Nov 2026",
+      "value": "ঊর্ধ্বমুখী ধারা আগামী মাসগুলোতেও চলবে বলে আশা করা হচ্ছে"
+     },
+     {
+      "label": "প্রতিবেদন",
+      "source": "The Financial Express, 8 Nov 2026",
+      "value": "ফাইন্যান্সিয়াল এক্সপ্রেস, ৮ নভেম্বর ২০২৬"
      }
     ],
-    "news_summary": "বাংলাদেশের আমদানি ব্যয় ২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে ১১.৫০ শতাংশ বেড়েছে — বৈশ্বিক দাম বাড়ার চাপে। ফাইন্যান্সিয়াল এক্সপ্রেস ৮ নভেম্বর এ তথ্য জানায়; ঊর্ধ্বমুখী ধারা আগামী মাসগুলোতেও চলবে বলে আশা করা হচ্ছে।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "১১.৫০%",
-       "q": "প্রথম ত্রৈমাসিকে আমদানি ব্যয় কত বেড়েছে?"
-      },
-      {
-       "a": "২০২৬-২৭ (FY27)",
-       "q": "কোন অর্থবছরের কথা বলা হচ্ছে?"
-      },
-      {
-       "a": "বৈশ্বিক দামের চাপ",
-       "q": "আমদানি বিল বাড়ার কারণ কী?"
-      },
-      {
-       "a": "৭৪৭ কোটি ডলার",
-       "q": "প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি কত?"
-      },
-      {
-       "a": "৮ নভেম্বর ২০২৬",
-       "q": "ফাইন্যান্সিয়াল এক্সপ্রেসের প্রতিবেদন কবে?"
-      }
-     ],
-     "next_revision": [
-      "বাণিজ্য ঘাটতি ও চলতি হিসাব ঘাটতির পার্থক্য কী?",
-      "রিজার্ভ কমলে কী হয়?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "বাণিজ্য ঘাটতি বনাম চলতি হিসাব ঘাটতি: বাণিজ্য ঘাটতি শুধু পণ্যের; চলতি হিসাবে সেবা, আয় ও রেমিট্যান্সও ধরা হয়।",
@@ -2998,89 +3249,185 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "বৃদ্ধি",
-      "source": "The Financial Express, 8 Nov 2026",
-      "value": "আমদানি ব্যয় প্রথম ত্রৈমাসিকে ১১.৫০% বেড়েছে"
+      "term": "আমদানি বিল বনাম বাণিজ্য ঘাটতি",
+      "meaning": "বিল বাড়লেই ঘাটতি বাড়ে, যদি রপ্তানি না বাড়ে।",
+      "source": "Traders Union — Bangladesh trade deficit widens in fiscal Q1 (Bangladesh Bank data via TBS)"
      },
      {
-      "label": "অর্থবছর",
-      "source": "The Financial Express story exam_facts",
-      "value": "২০২৬-২৭ অর্থবছর (FY27); প্রথম ত্রৈমাসিকের হিসাব"
+      "term": "বাংলাদেশ ব্যাংকের লেনদেন ভারসাম্যের তথ্য",
+      "meaning": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি ৭৪৭ কোটি ডলার।",
+      "source": "Traders Union — Bangladesh trade deficit widens in fiscal Q1 (Bangladesh Bank data via TBS)"
      },
      {
-      "label": "কারণ",
-      "source": "The Financial Express, 8 Nov 2026",
-      "value": "বৈশ্বিক দামের চাপ"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "আমদানি-রপ্তানির পার্থক্য, রিজার্ভের মাস-হিসাব, রেমিট্যান্সের ভূমিকা।",
+      "source": "Traders Union — Bangladesh trade deficit widens in fiscal Q1 (Bangladesh Bank data via TBS)"
      },
      {
-      "label": "ধারা",
-      "source": "The Financial Express, 8 Nov 2026",
-      "value": "ঊর্ধ্বমুখী ধারা আগামী মাসগুলোতেও চলবে বলে আশা করা হচ্ছে"
-     },
-     {
-      "label": "প্রতিবেদন",
-      "source": "The Financial Express, 8 Nov 2026",
-      "value": "ফাইন্যান্সিয়াল এক্সপ্রেস, ৮ নভেম্বর ২০২৬"
+      "term": "বৈশ্বিক দাম বাড়লে আমদানি বিল বাড়ে",
+      "meaning": "এটাই এবারের মূল কারণ।",
+      "source": "Traders Union — Bangladesh trade deficit widens in fiscal Q1 (Bangladesh Bank data via TBS)"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "income",
-      "bangla_meaning": "ব্যয়",
-      "example": "Bangladesh's import expenditure rose by 11.50 per cent in Q1 FY27.",
-      "synonym": "spending",
-      "word": "expenditure"
+      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে আমদানি ব্যয় কত বেড়েছে?",
+      "options": [
+       "১১.০৫%",
+       "১১.৫০%",
+       "১০.৫০%",
+       "১৫.১০%"
+      ],
+      "correct": 1,
+      "explanation": "আমদানি ব্যয় ২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে ১১.৫০% বেড়েছে।"
      },
      {
-      "antonym": "surplus",
-      "bangla_meaning": "ঘাটতি",
-      "example": "Import payments outpaced exports, widening the trade deficit.",
-      "synonym": "shortfall",
-      "word": "deficit"
+      "question": "অর্থবছরের প্রথম ত্রৈমাসিক কোন মাসগুলো?",
+      "options": [
+       "জুলাই–সেপ্টেম্বর",
+       "অক্টোবর–ডিসেম্বর",
+       "জানুয়ারি–মার্চ",
+       "এপ্রিল–জুন"
+      ],
+      "correct": 0,
+      "explanation": "অর্থবছরের প্রথম ত্রৈমাসিক হলো জুলাই–সেপ্টেম্বর।"
      },
      {
-      "antonym": "relief",
-      "bangla_meaning": "চাপ",
-      "example": "Global price pressures pushed the import bill up.",
-      "synonym": "strain",
-      "word": "pressure"
+      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি কত? ",
+      "options": [
+       "৫৭১ কোটি ডলার",
+       "৬৫০ কোটি ডলার",
+       "৭৪৭ কোটি ডলার",
+       "৮৫৯ কোটি ডলার"
+      ],
+      "correct": 2,
+      "explanation": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী জুলাই–সেপ্টেম্বরে বাণিজ্য ঘাটতি ৭৪৭ কোটি ডলার।"
      },
      {
-      "antonym": "downward",
-      "bangla_meaning": "ঊর্ধ্বমুখী",
-      "example": "The upward trend is expected to continue in the coming months.",
-      "synonym": "rising",
-      "word": "upward"
-     },
-     {
-      "antonym": "year",
-      "bangla_meaning": "ত্রৈমাসিক",
-      "example": "Import expenditure rose in the first quarter of FY27.",
-      "synonym": "three months",
-      "word": "quarter"
+      "question": "২০২৬ সালের সেপ্টেম্বর শেষে রিজার্ভ কত মাসের আমদানির জন্য যথেষ্ট ছিল?",
+      "options": [
+       "২.৫ মাস",
+       "৩.০ মাস",
+       "৩.৫ মাস",
+       "৪.৮ মাস"
+      ],
+      "correct": 3,
+      "explanation": "২০২৬ সালের সেপ্টেম্বর শেষে মোট রিজার্ভ দিয়ে প্রায় ৪.৮ মাসের আমদানি মেটানো যেত।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে আমদানি বিল কেন বাড়ল? সংক্ষেপে লেখো।",
       "outline": [
        "প্রথম ত্রৈমাসিকে ১১.৫০% বৃদ্ধি",
        "কারণ: বৈশ্বিক দামের চাপ",
        "আগামী মাসেও ঊর্ধ্বমুখী ধারা চলার আশঙ্কা"
-      ],
-      "question": "২০২৬-২৭ অর্থবছরের প্রথম ত্রৈমাসিকে আমদানি বিল কেন বাড়ল? সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "আমদানি বিল বাড়া বাংলাদেশের বহিঃখাতের জন্য কী ঝুঁকি তৈরি করে — বিশ্লেষণ করো।",
       "outline": [
        "আমদানি বাড়লে রিজার্ভে চাপ — সেপ্টেম্বরে মোট রিজার্ভ ৩,৬০১.৫ কোটি ডলার",
        "রপ্তানি (৭%) আমদানির (১৫.১%) চেয়ে ধীরে বেড়েছে",
        "রেমিট্যান্স ১৩.৩% বেড়ে চাপ কিছুটা কমিয়েছে"
-      ],
-      "question": "আমদানি বিল বাড়া বাংলাদেশের বহিঃখাতের জন্য কী ঝুঁকি তৈরি করে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "expenditure",
+      "meaning_bn": "ব্যয়",
+      "example": "Bangladesh's import expenditure rose by 11.50 per cent in Q1 FY27.",
+      "synonyms": [
+       "spending"
+      ],
+      "antonyms": [
+       "income"
+      ]
+     },
+     {
+      "word": "deficit",
+      "meaning_bn": "ঘাটতি",
+      "example": "Import payments outpaced exports, widening the trade deficit.",
+      "synonyms": [
+       "shortfall"
+      ],
+      "antonyms": [
+       "surplus"
+      ]
+     },
+     {
+      "word": "pressure",
+      "meaning_bn": "চাপ",
+      "example": "Global price pressures pushed the import bill up.",
+      "synonyms": [
+       "strain"
+      ],
+      "antonyms": [
+       "relief"
+      ]
+     },
+     {
+      "word": "upward",
+      "meaning_bn": "ঊর্ধ্বমুখী",
+      "example": "The upward trend is expected to continue in the coming months.",
+      "synonyms": [
+       "rising"
+      ],
+      "antonyms": [
+       "downward"
+      ]
+     },
+     {
+      "word": "quarter",
+      "meaning_bn": "ত্রৈমাসিক",
+      "example": "Import expenditure rose in the first quarter of FY27.",
+      "synonyms": [
+       "three months"
+      ],
+      "antonyms": [
+       "year"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "প্রথম ত্রৈমাসিকে আমদানি ব্যয় কত বেড়েছে?",
+       "a": "১১.৫০%"
+      },
+      {
+       "q": "কোন অর্থবছরের কথা বলা হচ্ছে?",
+       "a": "২০২৬-২৭ (FY27)"
+      },
+      {
+       "q": "আমদানি বিল বাড়ার কারণ কী?",
+       "a": "বৈশ্বিক দামের চাপ"
+      },
+      {
+       "q": "প্রথম ত্রৈমাসিকে বাণিজ্য ঘাটতি কত?",
+       "a": "৭৪৭ কোটি ডলার"
+      },
+      {
+       "q": "ফাইন্যান্সিয়াল এক্সপ্রেসের প্রতিবেদন কবে?",
+       "a": "৮ নভেম্বর ২০২৬"
+      }
+     ],
+     "next_revision": [
+      "বাণিজ্য ঘাটতি ও চলতি হিসাব ঘাটতির পার্থক্য কী?",
+      "রিজার্ভ কমলে কী হয়?"
+     ]
+    },
+    "deep_prep": [
+     "লেনদেনের ভারসাম্য (balance of payments)",
+     "বাণিজ্য ঘাটতি",
+     "চলতি হিসাব",
+     "বৈদেশিক মুদ্রার রিজার্ভ",
+     "রেমিট্যান্স",
+     "আমদানি নির্ভরতা"
     ]
    }
   },
@@ -3154,107 +3501,40 @@
    ],
    "detail": "Prime Minister Tarique Rahman urged newly recruited civil servants to serve people with honesty, efficiency and humanity, stressing that no citizen should face harassment while seeking government services. The address to the new officers, reported on 8 November, sets honesty, efficiency and human values as the standard for the civil service.",
    "learning_module": {
-    "deep_prep": [
-     "বিপিএসসি (BPSC)",
-     "বিসিএস ক্যাডারসমূহ",
-     "জনপ্রশাসন",
-     "সুশাসন",
-     "মৌখিক পরীক্ষা (viva voce)",
-     "সরকারি কর্মচারী আচরণবিধি"
-    ],
-    "exam_notes": {
-     "notes": [
-      "বিসিএস পরীক্ষা নেয় বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি); তিন ধাপ: প্রিলিমিনারি, লিখিত, মৌখিক।",
-      "বিপিএসসি সংবিধানের অধীনে ১৯৭২ সালে গঠিত একটি আধা-বিচারিক সংস্থা।",
-      "পরীক্ষায় আসে: তিন ধাপ, নম্বর বিভাজন, ক্যাডার সংখ্যা, সিভিল সার্ভিসের মূল্যবোধ।",
-      "প্রধানমন্ত্রীর বার্তার তিন শব্দ — সততা, দক্ষতা, মানবিকতা — ভাইভা ও লিখিতের মূল্যবোধ-প্রশ্নে আসে।"
-     ],
-     "sources": [
-      {
-       "name": "BDJobs52 — BCS Preliminary Syllabus and Marks Distribution (BPSC official syllabus)",
-       "url": "https://www.bdjobs52.com/2017/12/bcs-preliminary-syllabus.html"
-      }
-     ]
-    },
     "hero": {
      "label": "প্রধানমন্ত্রীর বার্তার মূল্যবোধ",
      "figure": "৩টি"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "প্রধানমন্ত্রী তারেক রহমান নতুন নিয়োগপ্রাপ্ত সরকারি কর্মকর্তাদের সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে বলেন; সরকারি সেবা নিতে গিয়ে যেন কোনো নাগরিক হয়রানির শিকার না হন, সে কথা জোর দিয়ে বলেন। ৮ নভেম্বর প্রকাশিত এই ভাষণে সততা, দক্ষতা ও মানবিক মূল্যবোধকেই সিভিল সার্ভিসের মানদণ্ড হিসেবে তুলে ধরা হয়।",
+     "source": {
+      "publication": "Dhaka Tribune",
+      "date": "2026-11-08",
+      "url": "https://www.dhakatribune.com/bangladesh/424073/pm-urges-new-bcs-officers-to-serve-people-with"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "C",
-      "explanation": "প্রধানমন্ত্রী বলেন, সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে হবে।",
-      "options": {
-       "A": "রাজনৈতিক দলে যোগ দিতে",
-       "B": "নাগরিকদের এড়িয়ে চলতে",
-       "C": "সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে",
-       "D": "ঢাকায় বদলি চাইতে"
-      },
-      "question": "প্রধানমন্ত্রী নতুন বিসিএস কর্মকর্তাদের কী করতে বলেন?"
+      "label": "বক্তা",
+      "source": "Dhaka Tribune, 8 Nov 2026",
+      "value": "প্রধানমন্ত্রী তারেক রহমান"
      },
      {
-      "correct": "A",
-      "explanation": "বিসিএস পরীক্ষা পরিচালনা করে বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি)।",
-      "options": {
-       "A": "বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি)",
-       "B": "শিক্ষা মন্ত্রণালয়",
-       "C": "জনপ্রশাসন মন্ত্রণালয়ের নিয়োগ শাখা",
-       "D": "ঢাকা বিশ্ববিদ্যালয়"
-      },
-      "question": "বিসিএস পরীক্ষা কে পরিচালনা করে?"
+      "label": "শ্রোতা",
+      "source": "Dhaka Tribune, 8 Nov 2026",
+      "value": "নতুন নিয়োগপ্রাপ্ত সরকারি কর্মকর্তারা"
      },
      {
-      "correct": "B",
-      "explanation": "বিসিএস প্রিলিমিনারি ২০০ নম্বরের এমসিকিউ পরীক্ষা।",
-      "options": {
-       "A": "১০০ নম্বর",
-       "B": "২০০ নম্বর",
-       "C": "৪০০ নম্বর",
-       "D": "৯০০ নম্বর"
-      },
-      "question": "বিসিএস প্রিলিমিনারি পরীক্ষা কত নম্বরের?"
+      "label": "বার্তা",
+      "source": "Dhaka Tribune / The Daily Star, 8 Nov 2026",
+      "value": "সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা; সরকারি সেবা নিতে গিয়ে কোনো নাগরিক যেন হয়রানি না হন"
      },
      {
-      "correct": "D",
-      "explanation": "বিসিএস লিখিত পরীক্ষা ৯০০ নম্বরের।",
-      "options": {
-       "A": "২০০ নম্বর",
-       "B": "৫০০ নম্বর",
-       "C": "১০০ নম্বর",
-       "D": "৯০০ নম্বর"
-      },
-      "question": "বিসিএস লিখিত পরীক্ষা কত নম্বরের?"
+      "label": "তারিখে ভিন্নতা",
+      "source": "Dhaka Tribune story exam_facts",
+      "value": "ঢাকা ট্রিবিউন ভাষণটিকে রোববারের বলে; ডেইলি স্টার আগের দিনের বলে — দুই প্রতিবেদনে দিন নিয়ে পার্থক্য আছে"
      }
     ],
-    "news_summary": "প্রধানমন্ত্রী তারেক রহমান নতুন নিয়োগপ্রাপ্ত সরকারি কর্মকর্তাদের সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে বলেন; সরকারি সেবা নিতে গিয়ে যেন কোনো নাগরিক হয়রানির শিকার না হন, সে কথা জোর দিয়ে বলেন। ৮ নভেম্বর প্রকাশিত এই ভাষণে সততা, দক্ষতা ও মানবিক মূল্যবোধকেই সিভিল সার্ভিসের মানদণ্ড হিসেবে তুলে ধরা হয়।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "সততা, দক্ষতা, মানবিকতা",
-       "q": "প্রধানমন্ত্রী কোন তিন মূল্যবোধের কথা বলেন?"
-      },
-      {
-       "a": "কোনো নাগরিক যেন হয়রানির শিকার না হন",
-       "q": "সেবা নিতে গিয়ে কী নিশ্চিত করতে বলেন?"
-      },
-      {
-       "a": "বিপিএসসি",
-       "q": "বিসিএস পরীক্ষা কে নেয়?"
-      },
-      {
-       "a": "প্রিলিমিনারি, লিখিত, মৌখিক",
-       "q": "বিসিএসের তিন ধাপ কী কী?"
-      },
-      {
-       "a": "৮ নভেম্বর ২০২৬",
-       "q": "ভাষণটি কবে প্রকাশিত হয়?"
-      }
-     ],
-     "next_revision": [
-      "বিসিএসের নম্বর বিভাজন কী?",
-      "সিভিল সার্ভিসের মূল্যবোধ কেন পরীক্ষায় আসে?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "প্রিলিমিনারি বনাম লিখিত: প্রিলিমিনারি বাছাই পরীক্ষা (২০০ নম্বরের এমসিকিউ); লিখিত মূল পরীক্ষা (৯০০ নম্বর)।",
@@ -3298,84 +3578,186 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "বক্তা",
-      "source": "Dhaka Tribune, 8 Nov 2026",
-      "value": "প্রধানমন্ত্রী তারেক রহমান"
-     },
-     {
-      "label": "শ্রোতা",
-      "source": "Dhaka Tribune, 8 Nov 2026",
-      "value": "নতুন নিয়োগপ্রাপ্ত সরকারি কর্মকর্তারা"
-     },
-     {
-      "label": "বার্তা",
-      "source": "Dhaka Tribune / The Daily Star, 8 Nov 2026",
-      "value": "সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা; সরকারি সেবা নিতে গিয়ে কোনো নাগরিক যেন হয়রানি না হন"
-     },
-     {
-      "label": "তারিখে ভিন্নতা",
-      "source": "Dhaka Tribune story exam_facts",
-      "value": "ঢাকা ট্রিবিউন ভাষণটিকে রোববারের বলে; ডেইলি স্টার আগের দিনের বলে — দুই প্রতিবেদনে দিন নিয়ে পার্থক্য আছে"
+      "name": "বিপিএসসি",
+      "role": "সংবিধানের অধীনে ১৯৭২ সালে গঠিত একটি আধা-বিচারিক সংস্থা।",
+      "source": "BDJobs52 — BCS Preliminary Syllabus and Marks Distribution (BPSC official syllabus)"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "dishonesty",
-      "bangla_meaning": "সততা",
-      "example": "Serve people with honesty, efficiency and humanity.",
-      "synonym": "integrity",
-      "word": "honesty"
+      "term": "বিসিএস পরীক্ষা নেয় বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি); তিন ধাপ",
+      "meaning": "প্রিলিমিনারি, লিখিত, মৌখিক।",
+      "source": "BDJobs52 — BCS Preliminary Syllabus and Marks Distribution (BPSC official syllabus)"
      },
      {
-      "antonym": "inefficiency",
-      "bangla_meaning": "দক্ষতা",
-      "example": "Serve people with honesty, efficiency and humanity.",
-      "synonym": "competence",
-      "word": "efficiency"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "তিন ধাপ, নম্বর বিভাজন, ক্যাডার সংখ্যা, সিভিল সার্ভিসের মূল্যবোধ।",
+      "source": "BDJobs52 — BCS Preliminary Syllabus and Marks Distribution (BPSC official syllabus)"
      },
      {
-      "antonym": "cruelty",
-      "bangla_meaning": "মানবিকতা",
-      "example": "Serve people with honesty, efficiency and humanity.",
-      "synonym": "compassion",
-      "word": "humanity"
-     },
-     {
-      "antonym": "help",
-      "bangla_meaning": "হয়রানি",
-      "example": "No citizen should face harassment while seeking government services.",
-      "synonym": "mistreatment",
-      "word": "harassment"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "সরকারি চাকরি; সিভিল সার্ভিস",
-      "example": "The address sets the standard for the civil service.",
-      "synonym": "public service",
-      "word": "civil service"
+      "term": "প্রধানমন্ত্রীর বার্তার তিন শব্দ",
+      "meaning": "সততা, দক্ষতা, মানবিকতা — ভাইভা ও লিখিতের মূল্যবোধ-প্রশ্নে আসে।",
+      "source": "BDJobs52 — BCS Preliminary Syllabus and Marks Distribution (BPSC official syllabus)"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "প্রধানমন্ত্রী নতুন বিসিএস কর্মকর্তাদের কী করতে বলেন?",
+      "options": [
+       "রাজনৈতিক দলে যোগ দিতে",
+       "নাগরিকদের এড়িয়ে চলতে",
+       "সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে",
+       "ঢাকায় বদলি চাইতে"
+      ],
+      "correct": 2,
+      "explanation": "প্রধানমন্ত্রী বলেন, সততা, দক্ষতা ও মানবিকতা নিয়ে জনগণের সেবা করতে হবে।"
+     },
+     {
+      "question": "বিসিএস পরীক্ষা কে পরিচালনা করে?",
+      "options": [
+       "বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি)",
+       "শিক্ষা মন্ত্রণালয়",
+       "জনপ্রশাসন মন্ত্রণালয়ের নিয়োগ শাখা",
+       "ঢাকা বিশ্ববিদ্যালয়"
+      ],
+      "correct": 0,
+      "explanation": "বিসিএস পরীক্ষা পরিচালনা করে বাংলাদেশ পাবলিক সার্ভিস কমিশন (বিপিএসসি)।"
+     },
+     {
+      "question": "বিসিএস প্রিলিমিনারি পরীক্ষা কত নম্বরের?",
+      "options": [
+       "১০০ নম্বর",
+       "২০০ নম্বর",
+       "৪০০ নম্বর",
+       "৯০০ নম্বর"
+      ],
+      "correct": 1,
+      "explanation": "বিসিএস প্রিলিমিনারি ২০০ নম্বরের এমসিকিউ পরীক্ষা।"
+     },
+     {
+      "question": "বিসিএস লিখিত পরীক্ষা কত নম্বরের?",
+      "options": [
+       "২০০ নম্বর",
+       "৫০০ নম্বর",
+       "১০০ নম্বর",
+       "৯০০ নম্বর"
+      ],
+      "correct": 3,
+      "explanation": "বিসিএস লিখিত পরীক্ষা ৯০০ নম্বরের।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "প্রধানমন্ত্রীর বার্তার তিনটি মূল্যবোধ সংক্ষেপে লেখো।",
       "outline": [
        "সততা — দুর্নীতিমুক্ত সেবা",
        "দক্ষতা — দ্রুত ও সঠিক সেবা",
        "মানবিকতা — নাগরিকের প্রতি সহানুভূতি"
-      ],
-      "question": "প্রধানমন্ত্রীর বার্তার তিনটি মূল্যবোধ সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "‘সেবা নিতে গিয়ে কোনো নাগরিক যেন হয়রানি না হন’ — এই নির্দেশনা বাস্তবায়নে কী কী দরকার, বিশ্লেষণ করো।",
       "outline": [
        "হয়রানি কমলে নাগরিকের আস্থা বাড়ে",
        "সততা ও দক্ষতা একসঙ্গে না থাকলে সেবা ভালো হয় না",
        "মানবিকতা মানে নিয়মের মধ্যে থেকে নাগরিকের সমস্যা বোঝা"
-      ],
-      "question": "‘সেবা নিতে গিয়ে কোনো নাগরিক যেন হয়রানি না হন’ — এই নির্দেশনা বাস্তবায়নে কী কী দরকার, বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "honesty",
+      "meaning_bn": "সততা",
+      "example": "Serve people with honesty, efficiency and humanity.",
+      "synonyms": [
+       "integrity"
+      ],
+      "antonyms": [
+       "dishonesty"
+      ]
+     },
+     {
+      "word": "efficiency",
+      "meaning_bn": "দক্ষতা",
+      "example": "Serve people with honesty, efficiency and humanity.",
+      "synonyms": [
+       "competence"
+      ],
+      "antonyms": [
+       "inefficiency"
+      ]
+     },
+     {
+      "word": "humanity",
+      "meaning_bn": "মানবিকতা",
+      "example": "Serve people with honesty, efficiency and humanity.",
+      "synonyms": [
+       "compassion"
+      ],
+      "antonyms": [
+       "cruelty"
+      ]
+     },
+     {
+      "word": "harassment",
+      "meaning_bn": "হয়রানি",
+      "example": "No citizen should face harassment while seeking government services.",
+      "synonyms": [
+       "mistreatment"
+      ],
+      "antonyms": [
+       "help"
+      ]
+     },
+     {
+      "word": "civil service",
+      "meaning_bn": "সরকারি চাকরি; সিভিল সার্ভিস",
+      "example": "The address sets the standard for the civil service.",
+      "synonyms": [
+       "public service"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "প্রধানমন্ত্রী কোন তিন মূল্যবোধের কথা বলেন?",
+       "a": "সততা, দক্ষতা, মানবিকতা"
+      },
+      {
+       "q": "সেবা নিতে গিয়ে কী নিশ্চিত করতে বলেন?",
+       "a": "কোনো নাগরিক যেন হয়রানির শিকার না হন"
+      },
+      {
+       "q": "বিসিএস পরীক্ষা কে নেয়?",
+       "a": "বিপিএসসি"
+      },
+      {
+       "q": "বিসিএসের তিন ধাপ কী কী?",
+       "a": "প্রিলিমিনারি, লিখিত, মৌখিক"
+      },
+      {
+       "q": "ভাষণটি কবে প্রকাশিত হয়?",
+       "a": "৮ নভেম্বর ২০২৬"
+      }
+     ],
+     "next_revision": [
+      "বিসিএসের নম্বর বিভাজন কী?",
+      "সিভিল সার্ভিসের মূল্যবোধ কেন পরীক্ষায় আসে?"
+     ]
+    },
+    "deep_prep": [
+     "বিপিএসসি (BPSC)",
+     "বিসিএস ক্যাডারসমূহ",
+     "জনপ্রশাসন",
+     "সুশাসন",
+     "মৌখিক পরীক্ষা (viva voce)",
+     "সরকারি কর্মচারী আচরণবিধি"
     ]
    }
   },
@@ -3458,111 +3840,55 @@
    ],
    "detail": "A total of 300 candidates were provisionally shortlisted through a lottery for recruitment by Malaysian company DHL Supply Chain Malaysia Sdn Bhd at zero migration cost, after 4,029 candidates applied online between 6 November and 4pm on 8 November. Of the 300, 200 were shortlisted for Operations Assistant posts and 100 for Technical Skilled Worker posts; 112 successful candidates will go to Malaysia with the employer paying medical fees and airfares.",
    "learning_module": {
-    "deep_prep": [
-     "BOESL",
-     "শ্রম অভিবাসন",
-     "রেমিট্যান্স",
-     "মালয়েশিয়া শ্রমবাজার",
-     "ডিমান্ড লেটার",
-     "নিরাপদ অভিবাসন"
-    ],
-    "exam_notes": {
-     "notes": [
-      "BOESL = Bangladesh Overseas Employment and Services Limited — প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের অধীন রাষ্ট্রায়ত্ত সংস্থা।",
-      "মালয়েশিয়া বাংলাদেশের দ্বিতীয় বৃহত্তম শ্রমবাজার; শূন্য খরচে ১০,০০০ কর্মী পাঠানোর লক্ষ্য।",
-      "পরীক্ষায় আসে: ৩০০–২০০–১০০–১১২ সংখ্যা, ৪,০২৯ আবেদন, ১ কোটি কর্মীর অঙ্গীকার, ‘শূন্য মানে শূন্য’।",
-      "লটারি পদ্ধতি প্রথমবার — যোগ্য ও দক্ষ কর্মী বাছাইয়ে নতুন পদ্ধতি।"
-     ],
-     "sources": [
-      {
-       "name": "The Business Standard — Malaysia to recruit 10,000 Bangladeshis under 'zero-cost' system",
-       "url": "https://www.tbsnews.net/bangladesh/malaysia-recruit-10000-bangladeshis-under-zero-cost-system-ministry-1527196"
-      },
-      {
-       "name": "The Business Standard — 300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm",
-       "url": "https://www.tbsnews.net/bangladesh/300-shortlisted-thru-lottery-zero-cost-jobs-malaysian-firm-1596621"
-      }
-     ]
-    },
     "hero": {
      "label": "মালয়েশিয়ার ডিএইচএল-এ শূন্য খরচে চাকরির জন্য লটারিতে বাছাই",
      "figure": "৩০০ জন"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "মালয়েশিয়ার কোম্পানি ডিএইচএল সাপ্লাই চেইন মালয়েশিয়া এসডিএন বিএইচডি-তে শূন্য অভিবাসন খরচে নিয়োগের জন্য লটারির মাধ্যমে ৩০০ জন প্রার্থীকে সাময়িকভাবে বাছাই করা হয়েছে। ৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত ৪,০২৯ জন অনলাইনে আবেদন করেন। বাছাইকৃতদের মধ্যে ২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট ও ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার পদে; ১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন — নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন।",
+     "source": {
+      "publication": "The Business Standard",
+      "date": "2026-11-08",
+      "url": "https://www.tbsnews.net/bangladesh/300-shortlisted-thru-lottery-zero-cost-jobs-malaysian-firm-1596621"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "A",
-      "explanation": "৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত ৪,০২৯ জন অনলাইনে আবেদন করেন।",
-      "options": {
-       "A": "৪,০২৯ জন",
-       "B": "৩,০০০ জন",
-       "C": "৩০০ জন",
-       "D": "১১২ জন"
-      },
-      "question": "কতজন প্রার্থী অনলাইনে আবেদন করেন?"
+      "label": "বাছাই",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "৩০০ জন সাময়িকভাবে বাছাই — লটারির মাধ্যমে"
      },
      {
-      "correct": "C",
-      "explanation": "৩০০ জন বাছাই হয়েছেন — ২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট ও ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার পদে।",
-      "options": {
-       "A": "১১২ জন",
-       "B": "২০০ জন",
-       "C": "৩০০ জন",
-       "D": "৪,০২৯ জন"
-      },
-      "question": "লটারিতে কতজন বাছাই হয়েছেন?"
+      "label": "আবেদন",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "৪,০২৯ জন আবেদন করেন — ৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত, অনলাইনে"
      },
      {
-      "correct": "B",
-      "explanation": "১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন; নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন।",
-      "options": {
-       "A": "৩০০ জন",
-       "B": "১১২ জন",
-       "C": "২০০ জন",
-       "D": "১০০ জন"
-      },
-      "question": "কতজন প্রার্থী মালয়েশিয়া যাবেন?"
+      "label": "পদ",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট, ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার"
      },
      {
-      "correct": "D",
-      "explanation": "মালয়েশিয়া বাংলাদেশের দ্বিতীয় বৃহত্তম শ্রমবাজার।",
-      "options": {
-       "A": "প্রথম",
-       "B": "তৃতীয়",
-       "C": "চতুর্থ",
-       "D": "দ্বিতীয়"
-      },
-      "question": "মালয়েশিয়া বাংলাদেশের কততম বৃহত্তম শ্রমবাজার?"
+      "label": "যাত্রা",
+      "source": "The Business Standard, 8 Nov 2026",
+      "value": "১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন; নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন"
+     },
+     {
+      "label": "লটারি",
+      "source": "The Business Standard story exam_facts",
+      "value": "ঢাকার প্রবাসী কল্যাণ ভবনে ইলেকট্রনিক লটারি; মন্ত্রণালয়ের কর্মকর্তা, BOESL প্রতিনিধি ও সাংবাদিকরা উপস্থিত ছিলেন"
+     },
+     {
+      "label": "পরের ধাপ",
+      "source": "The Business Standard story exam_facts",
+      "value": "ব্যবহারিক পরীক্ষা ও মৌখিক পরীক্ষা হবে; তালিকা BOESL-এর ওয়েবসাইট ও ফেসবুক পেজে প্রকাশিত হবে"
+     },
+     {
+      "label": "অঙ্গীকার",
+      "source": "The Business Standard story exam_facts",
+      "value": "৫ বছরে ১ কোটি কর্মী বিদেশে পাঠানোর সরকারি অঙ্গীকারের অংশ — প্রবাসী কল্যাণ মন্ত্রণালয়ের ভারপ্রাপ্ত সচিব আহমদুল হক"
      }
     ],
-    "news_summary": "মালয়েশিয়ার কোম্পানি ডিএইচএল সাপ্লাই চেইন মালয়েশিয়া এসডিএন বিএইচডি-তে শূন্য অভিবাসন খরচে নিয়োগের জন্য লটারির মাধ্যমে ৩০০ জন প্রার্থীকে সাময়িকভাবে বাছাই করা হয়েছে। ৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত ৪,০২৯ জন অনলাইনে আবেদন করেন। বাছাইকৃতদের মধ্যে ২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট ও ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার পদে; ১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন — নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "৪,০২৯ জন",
-       "q": "কতজন আবেদন করেন?"
-      },
-      {
-       "a": "৩০০ জন",
-       "q": "লটারিতে কতজন বাছাই হন?"
-      },
-      {
-       "a": "২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট, ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার",
-       "q": "৩০০ জনের পদবিন্যাস কী?"
-      },
-      {
-       "a": "১১২ জন",
-       "q": "কতজন মালয়েশিয়া যাবেন?"
-      },
-      {
-       "a": "১ কোটি কর্মী, ৫ বছরে",
-       "q": "সরকারের অঙ্গীকার কী?"
-      }
-     ],
-     "next_revision": [
-      "শূন্য অভিবাসন খরচ মানে কী?",
-      "BOESL কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "শূন্য খরচ বনাম সাধারণ অভিবাসন: সাধারণত কর্মী দালাল ও খরচ বহন করে; শূন্য খরচে নিয়োগকর্তা সব খরচ দেয়।",
@@ -3602,99 +3928,187 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [
      {
-      "label": "বাছাই",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "৩০০ জন সাময়িকভাবে বাছাই — লটারির মাধ্যমে"
-     },
-     {
-      "label": "আবেদন",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "৪,০২৯ জন আবেদন করেন — ৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত, অনলাইনে"
-     },
-     {
-      "label": "পদ",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট, ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার"
-     },
-     {
-      "label": "যাত্রা",
-      "source": "The Business Standard, 8 Nov 2026",
-      "value": "১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন; নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন"
-     },
-     {
-      "label": "লটারি",
-      "source": "The Business Standard story exam_facts",
-      "value": "ঢাকার প্রবাসী কল্যাণ ভবনে ইলেকট্রনিক লটারি; মন্ত্রণালয়ের কর্মকর্তা, BOESL প্রতিনিধি ও সাংবাদিকরা উপস্থিত ছিলেন"
-     },
-     {
-      "label": "পরের ধাপ",
-      "source": "The Business Standard story exam_facts",
-      "value": "ব্যবহারিক পরীক্ষা ও মৌখিক পরীক্ষা হবে; তালিকা BOESL-এর ওয়েবসাইট ও ফেসবুক পেজে প্রকাশিত হবে"
-     },
-     {
-      "label": "অঙ্গীকার",
-      "source": "The Business Standard story exam_facts",
-      "value": "৫ বছরে ১ কোটি কর্মী বিদেশে পাঠানোর সরকারি অঙ্গীকারের অংশ — প্রবাসী কল্যাণ মন্ত্রণালয়ের ভারপ্রাপ্ত সচিব আহমদুল হক"
+      "name": "BOESL",
+      "full_name": "Bangladesh Overseas Employment and Services Limited",
+      "role": "Bangladesh Overseas Employment and Services Limited — প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের অধীন রাষ্ট্রায়ত্ত সংস্থা।",
+      "source": "The Business Standard — Malaysia to recruit 10,000 Bangladeshis under 'zero-cost' system; The Business Standard — 300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm"
      }
     ],
-    "vocabulary": [
+    "extra_knowledge": [
      {
-      "antonym": "—",
-      "bangla_meaning": "লটারি",
-      "example": "300 candidates were shortlisted through a lottery.",
-      "synonym": "draw",
-      "word": "lottery"
+      "term": "মালয়েশিয়া বাংলাদেশের দ্বিতীয় বৃহত্তম শ্রমবাজার",
+      "meaning": "মালয়েশিয়া বাংলাদেশের দ্বিতীয় বৃহত্তম শ্রমবাজার; শূন্য খরচে ১০,০০০ কর্মী পাঠানোর লক্ষ্য।",
+      "source": "The Business Standard — Malaysia to recruit 10,000 Bangladeshis under 'zero-cost' system; The Business Standard — 300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm"
      },
      {
-      "antonym": "final",
-      "bangla_meaning": "অস্থায়ী; সাময়িক",
-      "example": "300 candidates were provisionally shortlisted.",
-      "synonym": "temporary",
-      "word": "provisional"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "৩০০–২০০–১০০–১১২ সংখ্যা, ৪,০২৯ আবেদন, ১ কোটি কর্মীর অঙ্গীকার, ‘শূন্য মানে শূন্য’।",
+      "source": "The Business Standard — Malaysia to recruit 10,000 Bangladeshis under 'zero-cost' system; The Business Standard — 300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm"
      },
      {
-      "antonym": "—",
-      "bangla_meaning": "অভিবাসন",
-      "example": "The jobs are at zero migration cost.",
-      "synonym": "emigration",
-      "word": "migration"
-     },
-     {
-      "antonym": "employee",
-      "bangla_meaning": "নিয়োগকর্তা",
-      "example": "The employer will pay medical fees and airfares.",
-      "synonym": "boss",
-      "word": "employer"
-     },
-     {
-      "antonym": "—",
-      "bangla_meaning": "অঙ্গীকার",
-      "example": "The initiative supports the pledge to send 1 crore workers abroad in five years.",
-      "synonym": "promise",
-      "word": "pledge"
+      "term": "লটারি পদ্ধতি প্রথমবার",
+      "meaning": "যোগ্য ও দক্ষ কর্মী বাছাইয়ে নতুন পদ্ধতি।",
+      "source": "The Business Standard — Malaysia to recruit 10,000 Bangladeshis under 'zero-cost' system; The Business Standard — 300 shortlisted thru' lottery for zero-cost jobs at Malaysian firm"
      }
     ],
-    "written_prep": [
+    "mcq_practice": [
      {
+      "question": "কতজন প্রার্থী অনলাইনে আবেদন করেন?",
+      "options": [
+       "৪,০২৯ জন",
+       "৩,০০০ জন",
+       "৩০০ জন",
+       "১১২ জন"
+      ],
+      "correct": 0,
+      "explanation": "৬ নভেম্বর থেকে ৮ নভেম্বর বিকেল ৪টা পর্যন্ত ৪,০২৯ জন অনলাইনে আবেদন করেন।"
+     },
+     {
+      "question": "লটারিতে কতজন বাছাই হয়েছেন?",
+      "options": [
+       "১১২ জন",
+       "২০০ জন",
+       "৩০০ জন",
+       "৪,০২৯ জন"
+      ],
+      "correct": 2,
+      "explanation": "৩০০ জন বাছাই হয়েছেন — ২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট ও ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার পদে।"
+     },
+     {
+      "question": "কতজন প্রার্থী মালয়েশিয়া যাবেন?",
+      "options": [
+       "৩০০ জন",
+       "১১২ জন",
+       "২০০ জন",
+       "১০০ জন"
+      ],
+      "correct": 1,
+      "explanation": "১১২ জন সফল প্রার্থী মালয়েশিয়া যাবেন; নিয়োগকর্তা চিকিৎসা ফি ও বিমান ভাড়া দেবেন।"
+     },
+     {
+      "question": "মালয়েশিয়া বাংলাদেশের কততম বৃহত্তম শ্রমবাজার?",
+      "options": [
+       "প্রথম",
+       "তৃতীয়",
+       "চতুর্থ",
+       "দ্বিতীয়"
+      ],
+      "correct": 3,
+      "explanation": "মালয়েশিয়া বাংলাদেশের দ্বিতীয় বৃহত্তম শ্রমবাজার।"
+     }
+    ],
+    "written_prep": {
+     "short": {
+      "question": "ডিএইচএল-এর শূন্য খরচের নিয়োগ প্রক্রিয়া সংক্ষেপে লেখো।",
       "outline": [
        "৪,০২৯ আবেদন → লটারিতে ৩০০ বাছাই → ব্যবহারিক ও মৌখিকের পর ১১২ জন যাবেন",
        "শূন্য খরচ: চিকিৎসা ফি ও বিমান ভাড়া নিয়োগকর্তা দেবেন",
        "প্রথমবার লটারি পদ্ধতিতে সরকারি বাছাই"
-      ],
-      "question": "ডিএইচএল-এর শূন্য খরচের নিয়োগ প্রক্রিয়া সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "শূন্য অভিবাসন খরচ শ্রম অভিবাসনে কী বদলে দিতে পারে — বিশ্লেষণ করো।",
       "outline": [
        "দালালের খরচ থেকে কর্মী মুক্তি পায়",
        "স্বচ্ছ বাছাইয়ে দুর্নীতির সুযোগ কমে",
        "সীমা: চাহিদাপত্রের ওপর নির্ভরতা; মাত্র ১১২ জনের প্রথম ধাপ"
-      ],
-      "question": "শূন্য অভিবাসন খরচ শ্রম অভিবাসনে কী বদলে দিতে পারে — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "lottery",
+      "meaning_bn": "লটারি",
+      "example": "300 candidates were shortlisted through a lottery.",
+      "synonyms": [
+       "draw"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "provisional",
+      "meaning_bn": "অস্থায়ী; সাময়িক",
+      "example": "300 candidates were provisionally shortlisted.",
+      "synonyms": [
+       "temporary"
+      ],
+      "antonyms": [
+       "final"
+      ]
+     },
+     {
+      "word": "migration",
+      "meaning_bn": "অভিবাসন",
+      "example": "The jobs are at zero migration cost.",
+      "synonyms": [
+       "emigration"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     },
+     {
+      "word": "employer",
+      "meaning_bn": "নিয়োগকর্তা",
+      "example": "The employer will pay medical fees and airfares.",
+      "synonyms": [
+       "boss"
+      ],
+      "antonyms": [
+       "employee"
+      ]
+     },
+     {
+      "word": "pledge",
+      "meaning_bn": "অঙ্গীকার",
+      "example": "The initiative supports the pledge to send 1 crore workers abroad in five years.",
+      "synonyms": [
+       "promise"
+      ],
+      "antonyms": [
+       "—"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "কতজন আবেদন করেন?",
+       "a": "৪,০২৯ জন"
+      },
+      {
+       "q": "লটারিতে কতজন বাছাই হন?",
+       "a": "৩০০ জন"
+      },
+      {
+       "q": "৩০০ জনের পদবিন্যাস কী?",
+       "a": "২০০ জন অপারেশন্স অ্যাসিস্ট্যান্ট, ১০০ জন টেকনিক্যাল স্কিলড ওয়ার্কার"
+      },
+      {
+       "q": "কতজন মালয়েশিয়া যাবেন?",
+       "a": "১১২ জন"
+      },
+      {
+       "q": "সরকারের অঙ্গীকার কী?",
+       "a": "১ কোটি কর্মী, ৫ বছরে"
+      }
+     ],
+     "next_revision": [
+      "শূন্য অভিবাসন খরচ মানে কী?",
+      "BOESL কী?"
+     ]
+    },
+    "deep_prep": [
+     "BOESL",
+     "শ্রম অভিবাসন",
+     "রেমিট্যান্স",
+     "মালয়েশিয়া শ্রমবাজার",
+     "ডিমান্ড লেটার",
+     "নিরাপদ অভিবাসন"
     ]
    }
   },
@@ -3772,111 +4186,45 @@
    ],
    "detail": "Six garment factories in Gazipur's Konabari area have been shut following protests by workers demanding higher wages. The Daily Star reported the shutdowns on 8 November.",
    "learning_module": {
-    "deep_prep": [
-     "তৈরি পোশাক শিল্প (RMG)",
-     "রপ্তানি উন্নয়ন ব্যুরো (EPB)",
-     "মজুরি বোর্ড",
-     "শিল্প সম্পর্ক",
-     "গাজীপুর শিল্পাঞ্চল",
-     "স্বল্পোন্নত দেশ (LDC) থেকে উত্তরণ"
-    ],
-    "exam_notes": {
-     "notes": [
-      "RMG = তৈরি পোশাক শিল্প — নিটওয়্যার ও ওভেন পোশাক; বাংলাদেশের রপ্তানির প্রায় ৮০%।",
-      "পরীক্ষায় আসে: RMG-র রপ্তানি অংশ, গাজীপুর-কোনাবাড়ি, মজুরি দাবি, শিল্প পুলিশের ভূমিকা।",
-      "মজুরি আন্দোলন অর্থনীতি ও শ্রম — দুই অংশেই আসে।",
-      "রপ্তানির প্রায় ৮০% এক খাতে নির্ভরতা — অর্থনীতির দুর্বলতা হিসেবে পরীক্ষায় আসে।"
-     ],
-     "sources": [
-      {
-       "name": "Markedium — Bangladesh Exports Grow 5.88% (EPB data)",
-       "url": "https://markedium.com/bangladesh-exports-grow-in-julyoctober-fy2026-27/"
-      },
-      {
-       "name": "IR Insider — The True Price Behind Bangladesh's Economic Growth (CPD data)",
-       "url": "https://irinsider.org/opinion-editorials/op-ed-the-true-price-behind-bangladeshs-economic-growthnbsp-h5agr"
-      }
-     ]
-    },
     "hero": {
      "label": "গাজীপুরের কোনাবাড়িতে মজুরি বিক্ষোভে বন্ধ হওয়া পোশাক কারখানা",
      "figure": "৬টি"
     },
-    "mcq_practice": [
+    "news_summary": {
+     "text": "গাজীপুরের কোনাবাড়ি এলাকায় উচ্চ মজুরির দাবিতে শ্রমিকদের বিক্ষোভের পর ছয়টি পোশাক কারখানা বন্ধ হয়ে গেছে। ডেইলি স্টার ৮ নভেম্বর এ খবর জানায়; গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন।",
+     "source": {
+      "publication": "The Daily Star",
+      "date": "2026-11-08",
+      "url": "https://www.thedailystar.net/news/news/six-garment-factories-gazipurs-konabari-shut-amid-wage-protests-4318491"
+     }
+    },
+    "verified_facts": [
      {
-      "correct": "A",
-      "explanation": "গাজীপুরের কোনাবাড়িতে ৬টি পোশাক কারখানা বন্ধ হয়েছে।",
-      "options": {
-       "A": "৬টি",
-       "B": "৪টি",
-       "C": "১০টি",
-       "D": "৩টি"
-      },
-      "question": "কতটি পোশাক কারখানা বন্ধ হয়েছে?"
+      "label": "বন্ধ",
+      "source": "The Daily Star, 8 Nov 2026",
+      "value": "৬টি পোশাক কারখানা বন্ধ"
      },
      {
-      "correct": "B",
-      "explanation": "কারখানাগুলো গাজীপুরের কোনাবাড়ি এলাকায়।",
-      "options": {
-       "A": "ঢাকার সাভারে",
-       "B": "গাজীপুরের কোনাবাড়িতে",
-       "C": "চট্টগ্রামের কালুরঘাটে",
-       "D": "নারায়ণগঞ্জের ফতুল্লায়"
-      },
-      "question": "কারখানাগুলো কোথায় অবস্থিত?"
+      "label": "স্থান",
+      "source": "The Daily Star, 8 Nov 2026",
+      "value": "গাজীপুরের কোনাবাড়ি এলাকা"
      },
      {
-      "correct": "C",
-      "explanation": "EPB-র তথ্য অনুযায়ী ২০২৬-২৭ অর্থবছরের জুলাই–অক্টোবরে RMG রপ্তানির ৮০.৪৫% ছিল।",
-      "options": {
-       "A": "প্রায় ৫০%",
-       "B": "প্রায় ৬০%",
-       "C": "প্রায় ৮০%",
-       "D": "প্রায় ৯৫%"
-      },
-      "question": "মোট রপ্তানিতে তৈরি পোশাকের অংশ প্রায় কত?"
+      "label": "কারণ",
+      "source": "The Daily Star story exam_facts",
+      "value": "শ্রমিকরা উচ্চ মজুরির দাবিতে বিক্ষোভ করছিলেন"
      },
      {
-      "correct": "D",
-      "explanation": "গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন।",
-      "options": {
-       "A": "আহমদুল হক",
-       "B": "রাশেদুল হক",
-       "C": "আখতার আহমেদ",
-       "D": "আমজাদ হোসেন"
-      },
-      "question": "কারখানা বন্ধের বিষয়টি কে নিশ্চিত করেন?"
+      "label": "নিশ্চিতকরণ",
+      "source": "The Daily Star story exam_facts",
+      "value": "গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন"
+     },
+     {
+      "label": "প্রতিবেদন",
+      "source": "The Daily Star, 8 Nov 2026",
+      "value": "ডেইলি স্টার, ৮ নভেম্বর ২০২৬"
      }
     ],
-    "news_summary": "গাজীপুরের কোনাবাড়ি এলাকায় উচ্চ মজুরির দাবিতে শ্রমিকদের বিক্ষোভের পর ছয়টি পোশাক কারখানা বন্ধ হয়ে গেছে। ডেইলি স্টার ৮ নভেম্বর এ খবর জানায়; গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন।",
-    "revision": {
-     "flashcards": [
-      {
-       "a": "৬টি",
-       "q": "কতটি কারখানা বন্ধ হয়েছে?"
-      },
-      {
-       "a": "কোনাবাড়ি, গাজীপুর",
-       "q": "কারখানাগুলো কোথায়?"
-      },
-      {
-       "a": "উচ্চ মজুরির দাবি",
-       "q": "বিক্ষোভের কারণ কী?"
-      },
-      {
-       "a": "আমজাদ হোসেন, গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট",
-       "q": "বন্ধের বিষয়টি কে নিশ্চিত করেন?"
-      },
-      {
-       "a": "৮ নভেম্বর ২০২৬",
-       "q": "ডেইলি স্টারের প্রতিবেদন কবে?"
-      }
-     ],
-     "next_revision": [
-      "RMG রপ্তানিতে কত শতাংশ?",
-      "মজুরি বোর্ড কী?"
-     ]
-    },
     "topic_gk": {
      "distinctions": [
       "নিটওয়্যার বনাম ওভেন: নিটওয়্যার বোনা কাপড়ের পোশাক (টি-শার্ট, সোয়েটার); ওভেন বোনা কাপড়ের পোশাক (শার্ট, প্যান্ট)।",
@@ -3912,89 +4260,185 @@
       }
      ]
     },
-    "verified_facts": [
+    "institutions": [],
+    "extra_knowledge": [
      {
-      "label": "বন্ধ",
-      "source": "The Daily Star, 8 Nov 2026",
-      "value": "৬টি পোশাক কারখানা বন্ধ"
+      "term": "RMG",
+      "meaning": "তৈরি পোশাক শিল্প — নিটওয়্যার ও ওভেন পোশাক; বাংলাদেশের রপ্তানির প্রায় ৮০%।",
+      "source": "Markedium — Bangladesh Exports Grow 5.88% (EPB data); IR Insider — The True Price Behind Bangladesh's Economic Growth (CPD data)"
      },
      {
-      "label": "স্থান",
-      "source": "The Daily Star, 8 Nov 2026",
-      "value": "গাজীপুরের কোনাবাড়ি এলাকা"
+      "term": "পরীক্ষায় আসে",
+      "meaning": "RMG-র রপ্তানি অংশ, গাজীপুর-কোনাবাড়ি, মজুরি দাবি, শিল্প পুলিশের ভূমিকা।",
+      "source": "Markedium — Bangladesh Exports Grow 5.88% (EPB data); IR Insider — The True Price Behind Bangladesh's Economic Growth (CPD data)"
      },
      {
-      "label": "কারণ",
-      "source": "The Daily Star story exam_facts",
-      "value": "শ্রমিকরা উচ্চ মজুরির দাবিতে বিক্ষোভ করছিলেন"
+      "term": "মজুরি আন্দোলন অর্থনীতি ও শ্রম",
+      "meaning": "দুই অংশেই আসে।",
+      "source": "Markedium — Bangladesh Exports Grow 5.88% (EPB data); IR Insider — The True Price Behind Bangladesh's Economic Growth (CPD data)"
      },
      {
-      "label": "নিশ্চিতকরণ",
-      "source": "The Daily Star story exam_facts",
-      "value": "গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন"
-     },
-     {
-      "label": "প্রতিবেদন",
-      "source": "The Daily Star, 8 Nov 2026",
-      "value": "ডেইলি স্টার, ৮ নভেম্বর ২০২৬"
+      "term": "রপ্তানির প্রায় ৮০% এক খাতে নির্ভরতা",
+      "meaning": "অর্থনীতির দুর্বলতা হিসেবে পরীক্ষায় আসে।",
+      "source": "Markedium — Bangladesh Exports Grow 5.88% (EPB data); IR Insider — The True Price Behind Bangladesh's Economic Growth (CPD data)"
      }
     ],
-    "vocabulary": [
+    "mcq_practice": [
      {
-      "antonym": "support",
-      "bangla_meaning": "বিক্ষোভ",
-      "example": "Workers were protesting for higher wages.",
-      "synonym": "demonstration",
-      "word": "protest"
+      "question": "কতটি পোশাক কারখানা বন্ধ হয়েছে?",
+      "options": [
+       "৬টি",
+       "৪টি",
+       "১০টি",
+       "৩টি"
+      ],
+      "correct": 0,
+      "explanation": "গাজীপুরের কোনাবাড়িতে ৬টি পোশাক কারখানা বন্ধ হয়েছে।"
      },
      {
-      "antonym": "salary cut",
-      "bangla_meaning": "মজুরি",
-      "example": "Workers were protesting for higher wages.",
-      "synonym": "pay",
-      "word": "wage"
+      "question": "কারখানাগুলো কোথায় অবস্থিত?",
+      "options": [
+       "ঢাকার সাভারে",
+       "গাজীপুরের কোনাবাড়িতে",
+       "চট্টগ্রামের কালুরঘাটে",
+       "নারায়ণগঞ্জের ফতুল্লায়"
+      ],
+      "correct": 1,
+      "explanation": "কারখানাগুলো গাজীপুরের কোনাবাড়ি এলাকায়।"
      },
      {
-      "antonym": "opening",
-      "bangla_meaning": "বন্ধ; শাটডাউন",
-      "example": "Six garment factories have been shut following protests.",
-      "synonym": "closure",
-      "word": "shutdown"
+      "question": "মোট রপ্তানিতে তৈরি পোশাকের অংশ প্রায় কত?",
+      "options": [
+       "প্রায় ৫০%",
+       "প্রায় ৬০%",
+       "প্রায় ৮০%",
+       "প্রায় ৯৫%"
+      ],
+      "correct": 2,
+      "explanation": "EPB-র তথ্য অনুযায়ী ২০২৬-২৭ অর্থবছরের জুলাই–অক্টোবরে RMG রপ্তানির ৮০.৪৫% ছিল।"
      },
      {
-      "antonym": "calm",
-      "bangla_meaning": "অশান্তি",
-      "example": "The shutdowns follow the garment sector's wage protests.",
-      "synonym": "disturbance",
-      "word": "unrest"
-     },
-     {
-      "antonym": "offer",
-      "bangla_meaning": "দাবি",
-      "example": "Workers are demanding higher wages.",
-      "synonym": "claim",
-      "word": "demand"
+      "question": "কারখানা বন্ধের বিষয়টি কে নিশ্চিত করেন?",
+      "options": [
+       "আহমদুল হক",
+       "রাশেদুল হক",
+       "আখতার আহমেদ",
+       "আমজাদ হোসেন"
+      ],
+      "correct": 3,
+      "explanation": "গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট আমজাদ হোসেন বন্ধের বিষয়টি নিশ্চিত করেন।"
      }
     ],
-    "written_prep": [
-     {
+    "written_prep": {
+     "short": {
+      "question": "কোনাবাড়ির কারখানা বন্ধের ঘটনা সংক্ষেপে লেখো।",
       "outline": [
        "৬টি কারখানা বন্ধ, কোনাবাড়ি, গাজীপুর",
        "কারণ: উচ্চ মজুরির দাবিতে বিক্ষোভ",
        "শিল্প পুলিশের নিশ্চিতকরণ"
-      ],
-      "question": "কোনাবাড়ির কারখানা বন্ধের ঘটনা সংক্ষেপে লেখো।",
-      "type": "short"
+      ]
      },
-     {
+     "analytical": {
+      "question": "পোশাক খাতে বারবার মজুরি বিক্ষোভ কেন হয় — বিশ্লেষণ করো।",
       "outline": [
        "মজুরি জীবনযাত্রার ব্যয়ের সঙ্গে তাল মেলাতে পারছে না",
        "কারখানা বন্ধে উৎপাদন ও রপ্তানি ক্ষতিগ্রস্ত হয়",
        "সমাধান: মজুরি বোর্ডের মাধ্যমে নিয়মিত পর্যালোচনা ও আলোচনা"
-      ],
-      "question": "পোশাক খাতে বারবার মজুরি বিক্ষোভ কেন হয় — বিশ্লেষণ করো।",
-      "type": "analytical"
+      ]
      }
+    },
+    "vocabulary": [
+     {
+      "word": "protest",
+      "meaning_bn": "বিক্ষোভ",
+      "example": "Workers were protesting for higher wages.",
+      "synonyms": [
+       "demonstration"
+      ],
+      "antonyms": [
+       "support"
+      ]
+     },
+     {
+      "word": "wage",
+      "meaning_bn": "মজুরি",
+      "example": "Workers were protesting for higher wages.",
+      "synonyms": [
+       "pay"
+      ],
+      "antonyms": [
+       "salary cut"
+      ]
+     },
+     {
+      "word": "shutdown",
+      "meaning_bn": "বন্ধ; শাটডাউন",
+      "example": "Six garment factories have been shut following protests.",
+      "synonyms": [
+       "closure"
+      ],
+      "antonyms": [
+       "opening"
+      ]
+     },
+     {
+      "word": "unrest",
+      "meaning_bn": "অশান্তি",
+      "example": "The shutdowns follow the garment sector's wage protests.",
+      "synonyms": [
+       "disturbance"
+      ],
+      "antonyms": [
+       "calm"
+      ]
+     },
+     {
+      "word": "demand",
+      "meaning_bn": "দাবি",
+      "example": "Workers are demanding higher wages.",
+      "synonyms": [
+       "claim"
+      ],
+      "antonyms": [
+       "offer"
+      ]
+     }
+    ],
+    "revision": {
+     "flashcards": [
+      {
+       "q": "কতটি কারখানা বন্ধ হয়েছে?",
+       "a": "৬টি"
+      },
+      {
+       "q": "কারখানাগুলো কোথায়?",
+       "a": "কোনাবাড়ি, গাজীপুর"
+      },
+      {
+       "q": "বিক্ষোভের কারণ কী?",
+       "a": "উচ্চ মজুরির দাবি"
+      },
+      {
+       "q": "বন্ধের বিষয়টি কে নিশ্চিত করেন?",
+       "a": "আমজাদ হোসেন, গাজীপুর শিল্প পুলিশের সুপারিনটেনডেন্ট"
+      },
+      {
+       "q": "ডেইলি স্টারের প্রতিবেদন কবে?",
+       "a": "৮ নভেম্বর ২০২৬"
+      }
+     ],
+     "next_revision": [
+      "RMG রপ্তানিতে কত শতাংশ?",
+      "মজুরি বোর্ড কী?"
+     ]
+    },
+    "deep_prep": [
+     "তৈরি পোশাক শিল্প (RMG)",
+     "রপ্তানি উন্নয়ন ব্যুরো (EPB)",
+     "মজুরি বোর্ড",
+     "শিল্প সম্পর্ক",
+     "গাজীপুর শিল্পাঞ্চল",
+     "স্বল্পোন্নত দেশ (LDC) থেকে উত্তরণ"
     ]
    }
   }
@@ -5201,8 +5645,8 @@
  ],
  "approved_by": "Rudro",
  "approval_notes": "Rudro's order 2026-11-12 00:40 Dhaka, verbatim: 'fix all and update all'. Approval to regenerate Edition 3 (9 Nov) with the new fixed engine (audit Fixes 1-5 + video lessons) and publish it. Regenerated pack reviewed 17/17 under the new 17-check list; pack agent-written. The old 12/12 draft is superseded and backed up in engine/runs-backup-2026-11-12/2026-11-09/.",
- "renovation_format": "learning-module-v1",
- "renovation_date": "2026-11-17",
+ "renovation_format": "learning-module-v2",
+ "renovation_date": "2026-11-18",
  "renovation_notes": [
   "Rewrote 26 English and added 26 Bangla short-answer questions across all 13 stories.",
   "Questions use facts already present in the edition; political statements remain attributed and editorial claims are identified as such.",
