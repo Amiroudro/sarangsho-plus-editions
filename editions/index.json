@@ -244,14 +244,16 @@
       "edition_date": "2026-11-17",
       "file": "data-2026-11-17.json",
       "status": "published",
-      "review": "v2 gate 15/15 passed; published after approval by auto-15/15 (Rudro's rule 2026-11-15). 15 stories, 20 words, 10 phrases, 25 MCQs. First v2 edition (v2 Day 1). Tracker reset to 0 at this edition; correct-consecutive now 1.",
-      "stories": 15,
+      "review": "Five-study-item replacement; official/institutional sources only; 20 vocabulary entries, 10 phrases, 25 MCQs; publisher article bodies not collected; v2 engine not run.",
+      "stories": 5,
       "words": 20,
       "phrases": 10,
       "mcqs": 25,
       "revision_words": 5,
-      "sources": 15,
-      "coverage": "16 Nov 2026, 7:47 AM to 2026-11-17, 7:47 AM (Asia/Dhaka)"
+      "sources": 5,
+      "coverage": "16 Nov 2026, 6:06 PM to 17 Nov 2026, 6:06 PM (Asia/Dhaka)",
+      "renovation_format": "official-source-limited-edition-v1",
+      "renovation_date": "2026-11-17"
     }
   ],
   "correct_consecutive_editions": 1,
