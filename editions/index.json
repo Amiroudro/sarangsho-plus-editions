@@ -260,10 +260,10 @@
   "correct_rule": "0/7 consecutive v2 editions. The 17 November replacement is a limited official-source edition, not a v2 engine run and does not count toward the v2 proof sequence.",
   "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
   "renovation_summary": {
-    "format": "learning-module-v1",
-    "date": "2026-11-17",
+        "format": "learning-module-v2",
+        "date": "2026-11-18",
     "editions": 16,
-    "stories": 215,
-    "note": "The archive has 16 editions. Most renovated stories carry the learning_module structure; the 17 November limited official-source replacement uses its own exam facts, vocabulary, phrases and MCQ fields and is not represented as a full v2 edition."
+      "stories": 225,
+      "note": "Each story carries a learning_module in the 11-section v2 format (hero + news summary + verified facts + topic GK + institutions + extra knowledge + MCQ practice + written prep + vocabulary + revision + deep prep). News facts and GK facts are in separate sections with separate sources; exam_notes is dropped, its content split into institutions and extra knowledge."
   }
 }
