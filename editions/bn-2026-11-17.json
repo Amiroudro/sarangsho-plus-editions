@@ -3,1171 +3,399 @@
   "status": "published",
   "language": "bn",
   "english_fallback_allowed": false,
-  "note": "Bengali overlay rendered from the v2 engine's Bangla fact lines (fact_lines) and sanitised v2 questions. Figures, dates, names and money are rendered in authentic Bengali: Bangla digits, Bangla month names, Taka as টাকা/কোটি/লাখ, and Bengali transliterations of proper nouns. Source publication names stay as in English. English fallback is disabled for this overlay (english_fallback_allowed is false).",
+  "note": "Five-story replacement based on official and institutional records. Cricket score is a live snapshot, not final.",
   "stories": {
     "CA01": {
-      "headline": "Bangladesh Bank sells $১০০m from reserves through auction",
-      "summary": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)। হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)। বাংলাদেশ ব্যাংক sells m রিজার্ভ মাধ্যমে auction: ১০০ মার্কিন ডলার (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)। হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)। বাংলাদেশ ব্যাংক sells m রিজার্ভ মাধ্যমে auction: ১০০ মার্কিন ডলার (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "১০০ million (১৬ নভেম্বর ২০২৬); ২০০ million (১২ নভেম্বর ২০২৬); ১০০ USD (১৬ নভেম্বর ২০২৬); ১২৪.৯০ (১৬ নভেম্বর ২০২৬); ১২৪.৫০ (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)।",
+      "headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "summary": "বিল নং ১১৪/২০২৬-এ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২-এর ৬৪ ধারা সংশোধনের প্রস্তাব রয়েছে। অধিকাংশ নিবন্ধিত ব্যক্তিকে প্রতিটি কর মেয়াদ শেষে ১৫ দিনের মধ্যে VAT রিটার্ন দিতে হবে। সরকারি ও স্বায়ত্তশাসিত সংস্থা, ব্যাংক, বিমা প্রতিষ্ঠান এবং শূন্য রিটার্নদাতাদের জন্য সর্বোচ্চ ২০ দিন রাখা হয়েছে। ১৫তম দিন সরকারি ছুটি হলে পরবর্তী কার্যদিবসে জমা দেওয়া যাবে। ব্যাখ্যামূলক বিবৃতিতে ত্রৈমাসিক রিটার্ন ব্যবস্থায় রাজস্ব ও প্রশাসনিক সমস্যা হওয়ার কথা বলা হয়েছে। এটি সরকারের যুক্তি, স্বাধীনভাবে মাপা ফল নয়। নির্ধারিত সময় পর্যন্ত বিলটি আইন হয়েছে বলে নিশ্চিতকরণ পাওয়া যায়নি।",
+      "why_it_matters": "বিল ও কার্যকর আইনের পার্থক্য এবং VAT আইনের ৬৪ ধারা বোঝার জন্য এটি গুরুত্বপূর্ণ।",
+      "exam_facts": "বিল নং ১১৪/২০২৬; ১৬ নভেম্বর উত্থাপিত; সাধারণ সময় ১৫ দিন; নির্দিষ্ট শ্রেণির জন্য ২০ দিন।",
+      "key_people": "Bangladesh Government Press / National Parliament",
+      "figures": "বিল নং ১১৪/২০২৬; ১৬ নভেম্বর উত্থাপিত; সাধারণ সময় ১৫ দিন; নির্দিষ্ট শ্রেণির জন্য ২০ দিন।",
+      "one_liner": "বিল নং ১১৪/২০২৬-এ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২-এর ৬৪ ধারা সংশোধনের প্রস্তাব রয়েছে।",
       "key_facts": [
         {
-          "label": "Bangladesh Bank sold from its foreign exchange reserves at টাকা১২৪.৫০ per dollar…",
-          "value": "১০০ million",
-          "original": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "rate eased somewhat after Bangladesh Bank sold through an auction last Thursday…",
-          "value": "২০০ million",
-          "original": "হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh Bank sells m from reserves through auction",
-          "value": "১০০ USD",
-          "original": "বাংলাদেশ ব্যাংক sells m রিজার্ভ মাধ্যমে auction: ১০০ মার্কিন ডলার (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Remittance houses had sold dollars to commercial banks at per dollar in…",
-          "value": "১২৪.৯০",
-          "original": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)। হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)। বাংলাদেশ ব্যাংক sells m রিজার্ভ মাধ্যমে auction: ১০০ মার্কিন ডলার (১৬ নভেম্বর ২০২৬)।"
+          "label": "মূল তথ্য",
+          "value": "বিল নং ১১৪/২০২৬; ১৬ নভেম্বর উত্থাপিত; সাধারণ সময় ১৫ দিন; নির্দিষ্ট শ্রেণির জন্য ২০ দিন।"
         }
       ],
       "what_happened": [
-        "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)।",
-        "হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)।",
-        "বাংলাদেশ ব্যাংক sells m রিজার্ভ মাধ্যমে auction: ১০০ মার্কিন ডলার (১৬ নভেম্বর ২০২৬)।"
+        "বিল নং ১১৪/২০২৬-এ মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২-এর ৬৪ ধারা সংশোধনের প্রস্তাব রয়েছে। অধিকাংশ নিবন্ধিত ব্যক্তিকে প্রতিটি কর মেয়াদ শেষে ১৫ দিনের মধ্যে VAT রিটার্ন দিতে হবে। সরকারি ও স্বায়ত্তশাসিত সংস্থা, ব্যাংক, বিমা প্রতিষ্ঠান এবং শূন্য রিটার্নদাতাদের জন্য সর্বোচ্চ ২০ দিন রাখা হয়েছে। ১৫তম দিন সরকারি ছুটি হলে পরবর্তী কার্যদিবসে জমা দেওয়া যাবে। ব্যাখ্যামূলক বিবৃতিতে ত্রৈমাসিক রিটার্ন ব্যবস্থায় রাজস্ব ও প্রশাসনিক সমস্যা হওয়ার কথা বলা হয়েছে। এটি সরকারের যুক্তি, স্বাধীনভাবে মাপা ফল নয়। নির্ধারিত সময় পর্যন্ত বিলটি আইন হয়েছে বলে নিশ্চিতকরণ পাওয়া যায়নি।"
       ],
       "exam_qa": [
         {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+          "q": "বিল নং ১১৪/২০২৬ কোন ধারা সংশোধন করতে চায়?",
+          "a": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২-এর ৬৪ ধারা।"
         },
         {
-          "q": "Bangladesh Bank sold from its foreign exchange reserves at টাকা১২৪.৫০ per dollar through an কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "১০০ million"
+          "q": "সাধারণ করদাতার প্রস্তাবিত রিটার্ন সময়সীমা কত?",
+          "a": "প্রতিটি কর মেয়াদ শেষে ১৫ দিনের মধ্যে।"
         }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ______ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)।",
-          "answer": "১২৪.৫০"
-        },
-        {
-          "cloze": "হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ______ মিলিয়ন (১২ নভেম্বর ২০২৬)।",
-          "answer": "২০০"
-        }
-      ],
-      "keywords": [
-        "bangladesh",
-        "bank",
-        "sells",
-        "১০০m",
-        "reserves"
-      ],
-      "detail": "Bangladesh Bank sells $১০০m from reserves through auction (১৬ নভেম্বর ২০২৬)। বাংলাদেশ ব্যাংক (Bangladesh Bank) sold বৈদেশিক মুদ্রা রিজার্ভ টাকা ১২৪.৫০ dollar মাধ্যমে: ১০০ মিলিয়ন (১৬ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: হার eased somewhat পরে বাংলাদেশ ব্যাংক sold মাধ্যমে auction last Thursday ( ): ২০০ মিলিয়ন (১২ নভেম্বর ২০২৬)।"
+      ]
     },
     "CA02": {
-      "headline": "Pakistan inflation to ease to ৫% to ৭% target range during ২০২৭ financial year, says central bank",
-      "summary": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)। Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)। Real জিডিপি (GDP) প্রবৃদ্ধি will remain range ৪.৫%, ব্যাংক: ৩.৫ % (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)। Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)। Real জিডিপি (GDP) প্রবৃদ্ধি will remain range ৪.৫%, ব্যাংক: ৩.৫ % (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "৫ % (১৬ নভেম্বর ২০২৬); ৩.৫ % (১৬ নভেম্বর ২০২৬); ৩.০ (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)।",
+      "headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "summary": "১৭ নভেম্বরের অতিরিক্ত গেজেটে বলা হয়েছে, ড. মোহাম্মদ ওসমান ফারুকের পদত্যাগের পর ১৬৪ নম্বর কিশোরগঞ্জ-৩ আসনটি ১৫ নভেম্বর থেকে শূন্য হয়েছে। সংবিধানের ৬৭(২) অনুচ্ছেদ অনুযায়ী লিখিত পদত্যাগপত্র স্পিকারের কাছে পৌঁছালে আসন শূন্য হয়। সংসদ ভেঙে যাওয়ার কারণে নয়, এমন শূন্য আসন পূরণে ১২৩(৪) অনুচ্ছেদে সাধারণত ৯০ দিনের সময়সীমা রয়েছে, তবে সাংবিধানিক শর্ত প্রযোজ্য।",
+      "why_it_matters": "সংসদ সদস্যের পদত্যাগ, আসন শূন্য হওয়া ও উপনির্বাচনের সাংবিধানিক বিধান বোঝার জন্য এটি গুরুত্বপূর্ণ।",
+      "exam_facts": "কিশোরগঞ্জ-৩, আসন ১৬৪; শূন্য ১৫ নভেম্বর; গেজেট ১৭ নভেম্বর; সাধারণ সময়সীমা ৯০ দিন।",
+      "key_people": "Bangladesh Government Press / National Parliament Secretariat",
+      "figures": "কিশোরগঞ্জ-৩, আসন ১৬৪; শূন্য ১৫ নভেম্বর; গেজেট ১৭ নভেম্বর; সাধারণ সময়সীমা ৯০ দিন।",
+      "one_liner": "১৭ নভেম্বরের অতিরিক্ত গেজেটে বলা হয়েছে, ড. মোহাম্মদ ওসমান ফারুকের পদত্যাগের পর ১৬৪ নম্বর কিশোরগঞ্জ-৩ আসনটি ১৫ নভেম্বর থেকে শূন্য হয়েছে।",
       "key_facts": [
         {
-          "label": "Pakistan's consumer price inflation is expected to gradually ease towards medium-term target…",
-          "value": "৫ %",
-          "original": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Pakistan inflation to ease to to ৭% target range during ২০২৭ financial…",
-          "value": "৫ %",
-          "original": "Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Real GDP growth will remain in the range of to ৪.৫%, the…",
-          "value": "৩.৫ %",
-          "original": "Real জিডিপি (GDP) প্রবৃদ্ধি will remain range ৪.৫%, ব্যাংক: ৩.৫ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "It projected fiscal deficit to range ⁠between – ৪.০% of the GDP",
-          "value": "৩.০",
-          "original": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)। Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)। Real জিডিপি (GDP) প্রবৃদ্ধি will remain range ৪.৫%, ব্যাংক: ৩.৫ % (১৬ নভেম্বর ২০২৬)।"
+          "label": "মূল তথ্য",
+          "value": "কিশোরগঞ্জ-৩, আসন ১৬৪; শূন্য ১৫ নভেম্বর; গেজেট ১৭ নভেম্বর; সাধারণ সময়সীমা ৯০ দিন।"
         }
       ],
       "what_happened": [
-        "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)।",
-        "Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)।",
-        "Real জিডিপি (GDP) প্রবৃদ্ধি will remain range ৪.৫%, ব্যাংক: ৩.৫ % (১৬ নভেম্বর ২০২৬)।"
+        "১৭ নভেম্বরের অতিরিক্ত গেজেটে বলা হয়েছে, ড. মোহাম্মদ ওসমান ফারুকের পদত্যাগের পর ১৬৪ নম্বর কিশোরগঞ্জ-৩ আসনটি ১৫ নভেম্বর থেকে শূন্য হয়েছে। সংবিধানের ৬৭(২) অনুচ্ছেদ অনুযায়ী লিখিত পদত্যাগপত্র স্পিকারের কাছে পৌঁছালে আসন শূন্য হয়। সংসদ ভেঙে যাওয়ার কারণে নয়, এমন শূন্য আসন পূরণে ১২৩(৪) অনুচ্ছেদে সাধারণত ৯০ দিনের সময়সীমা রয়েছে, তবে সাংবিধানিক শর্ত প্রযোজ্য।"
       ],
       "exam_qa": [
         {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+          "q": "সংসদ সদস্যের লিখিত পদত্যাগ কোন অনুচ্ছেদে?",
+          "a": "৬৭(২) অনুচ্ছেদে।"
         },
         {
-          "q": "Pakistan's consumer price inflation is expected to gradually ease towards medium-term target range of কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "৫ %"
+          "q": "সাধারণ ৯০ দিনের উপনির্বাচন সময়সীমা কোন অনুচ্ছেদে?",
+          "a": "১২৩(৪) অনুচ্ছেদে।"
         }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ______ % (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৫"
-        },
-        {
-          "cloze": "Pakistan মূল্যস্ফীতি ease ______% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৭"
-        }
-      ],
-      "keywords": [
-        "pakistan",
-        "inflation",
-        "ease",
-        "target",
-        "range"
-      ],
-      "detail": "Pakistan inflation to ease to ৫% to ৭% target range during ২০২৭ financial year, says central bank (১৬ নভেম্বর ২০২৬)। Pakistan's consumer দাম মূল্যস্ফীতি gradually ease towards medium-term লক্ষ্য range: ৫ % (১৬ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: Pakistan মূল্যস্ফীতি ease ৭% লক্ষ্য range during ২০২৭ financial বছর: ৫ % (১৬ নভেম্বর ২০২৬)।"
+      ]
     },
     "CA03": {
-      "headline": "ADP implementation hits record low of ৬.৫৩% in জুলাই-অক্টোবর",
-      "summary": "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)। implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)। Local সরকার Division highest implementation হার, spending, or ২০.৭৪% টাকা ৩৩,৩৭৪: ৬,৯২৪ কোটি (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)। implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)। Local সরকার Division highest implementation হার, spending, or ২০.৭৪% টাকা ৩৩,৩৭৪: ৬,৯২৪ কোটি (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "২০,১৬০ crore (১৫ নভেম্বর ২০২৬); ৬.৫৩ % (১৬ নভেম্বর ২০২৬); ৬,৯২৪ crore (১৬ নভেম্বর ২০২৬); ২.৮৮ % (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)।",
+      "headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "summary": "বাংলাদেশ ব্যাংকের নিলাম-তথ্যে ১৬ নভেম্বর ইস্যু তারিখের ৯১, ১৮২ ও ৩৬৪ দিনের ট্রেজারি বিল রয়েছে। গৃহীত অভিহিত মূল্য মোট ৬,৫০০ কোটি টাকা। কাট-অফ ফলনহার যথাক্রমে ৮.০৮৮৪%, ৮.২৬৯৯% ও ৮.৩৯০০%। সরকারি তিন সারির বিক্রয়মূল্য যোগ করলে ৬,২৬৬.৩৬ কোটি টাকা হয়। ট্রেজারি বিল স্বল্পমেয়াদি সরকারি ঋণপত্র, যা ছাড়মূল্যে ইস্যু হয় এবং মেয়াদ শেষে অভিহিত মূল্যে পরিশোধ করা হয়।",
+      "why_it_matters": "অভিহিত মূল্য, বিক্রয়মূল্য ও ফলনহারের পার্থক্য বোঝার জন্য বিষয়টি গুরুত্বপূর্ণ।",
+      "exam_facts": "মেয়াদ ৯১, ১৮২ ও ৩৬৪ দিন; অভিহিত মূল্য ৬,৫০০ কোটি; সর্বোচ্চ ফলনহার ৮.৩৯০০%।",
+      "key_people": "Bangladesh Bank",
+      "figures": "মেয়াদ ৯১, ১৮২ ও ৩৬৪ দিন; অভিহিত মূল্য ৬,৫০০ কোটি; সর্বোচ্চ ফলনহার ৮.৩৯০০%।",
+      "one_liner": "বাংলাদেশ ব্যাংকের নিলাম-তথ্যে ১৬ নভেম্বর ইস্যু তারিখের ৯১, ১৮২ ও ৩৬৪ দিনের ট্রেজারি বিল রয়েছে।",
       "key_facts": [
         {
-          "label": "According to a report released by the Implementation Monitoring and Evaluation Division…",
-          "value": "২০,১৬০ crore",
-          "original": "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "implementation rate of the government's Annual Development Programme (ADP) fell to a…",
-          "value": "৬.৫৩ %",
-          "original": "implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Local Government Division recorded the highest implementation rate, spending, or ২০.৭৪% of…",
-          "value": "৬,৯২৪ crore",
-          "original": "Local সরকার Division highest implementation হার, spending, or ২০.৭৪% টাকা ৩৩,৩৭৪: ৬,৯২৪ কোটি (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Health Education and Family Welfare Division spent just, the Ministry of Railways…",
-          "value": "২.৮৮ %",
-          "original": "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)। implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)। Local সরকার Division highest implementation হার, spending, or ২০.৭৪% টাকা ৩৩,৩৭৪: ৬,৯২৪ কোটি (১৬ নভেম্বর ২০২৬)।"
+          "label": "মূল তথ্য",
+          "value": "মেয়াদ ৯১, ১৮২ ও ৩৬৪ দিন; অভিহিত মূল্য ৬,৫০০ কোটি; সর্বোচ্চ ফলনহার ৮.৩৯০০%।"
         }
       ],
       "what_happened": [
-        "According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)।",
-        "implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)।",
-        "Local সরকার Division highest implementation হার, spending, or ২০.৭৪% টাকা ৩৩,৩৭৪: ৬,৯২৪ কোটি (১৬ নভেম্বর ২০২৬)।"
+        "বাংলাদেশ ব্যাংকের নিলাম-তথ্যে ১৬ নভেম্বর ইস্যু তারিখের ৯১, ১৮২ ও ৩৬৪ দিনের ট্রেজারি বিল রয়েছে। গৃহীত অভিহিত মূল্য মোট ৬,৫০০ কোটি টাকা। কাট-অফ ফলনহার যথাক্রমে ৮.০৮৮৪%, ৮.২৬৯৯% ও ৮.৩৯০০%। সরকারি তিন সারির বিক্রয়মূল্য যোগ করলে ৬,২৬৬.৩৬ কোটি টাকা হয়। ট্রেজারি বিল স্বল্পমেয়াদি সরকারি ঋণপত্র, যা ছাড়মূল্যে ইস্যু হয় এবং মেয়াদ শেষে অভিহিত মূল্যে পরিশোধ করা হয়।"
       ],
       "exam_qa": [
         {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+          "q": "কোন তিন মেয়াদের ট্রেজারি বিল নিলামে ছিল?",
+          "a": "৯১, ১৮২ ও ৩৬৪ দিন।"
         },
         {
-          "q": "According to a report released by the Implementation Monitoring and Evaluation Division (IMED) ( কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "২০,১৬০ crore"
+          "q": "কোন মেয়াদের বিলে সর্বোচ্চ ফলনহার ছিল?",
+          "a": "৩৬৪ দিনের বিলে, ৮.৩৯০০%।"
         }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "According report released Implementation Monitoring Evaluation Division (IMED) (: ______ কোটি (১৫ নভেম্বর ২০২৬)।",
-          "answer": "২০,১৬০"
-        },
-        {
-          "cloze": "implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ______ % (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৬.৫৩"
-        }
-      ],
-      "keywords": [
-        "implementation",
-        "hits",
-        "record",
-        "জুলাই",
-        "অক্টোবর"
-      ],
-      "detail": "ADP implementation hits record low of ৬.৫৩% in জুলাই-অক্টোবর (১৬ নভেম্বর ২০২৬)। According report released Implementation Monitoring Evaluation Division (IMED) (: ২০,১৬০ কোটি (১৫ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: implementation হার সরকারের Annual Development কর্মসূচি (ADP) রেকর্ড low: ৬.৫৩ % (১৬ নভেম্বর ২০২৬)।"
+      ]
     },
     "CA04": {
-      "headline": "Bangladesh's apparel exports to EU drop ১২% in জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain",
-      "summary": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel shipments EU declined বছর- -বছর €১৩.৪৮ billion জানুয়ারি-সেপ্টেম্বর ২০২৬: ১১.৯১ % (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel shipments EU declined বছর- -বছর €১৩.৪৮ billion জানুয়ারি-সেপ্টেম্বর ২০২৬: ১১.৯১ % (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "১২ % (১৬ নভেম্বর ২০২৬); ২০২৬; ১১.৯১ % (১৬ নভেম্বর ২০২৬); ৮.৮ % (১৬ নভেম্বর ২০২৬); ১.৮২ billion (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)।",
+      "headline": "COP31 highlights climate transparency reporting",
+      "summary": "১৭ নভেম্বর তুরস্কের আনতালিয়ায় COP31-এর উচ্চপর্যায়ের অধিবেশন পুনরায় শুরু হয়। UNFCCC-এর হালনাগাদে প্রথম ১৩৭টি Biennial Transparency Report (BTR) পর্যালোচনার কথা বলা হয়েছে। ৬১টি Party তাদের NDC লক্ষ্যে অগ্রগতির তথ্য দিয়েছে; এই দেশগুলোর সঙ্গে ২০২০ সালের বৈশ্বিক নির্গমনের প্রায় ৬৬ শতাংশ সংশ্লিষ্ট। Enhanced Transparency Framework-এর প্রতিবেদন Global Stocktake-কে তথ্য দেয়। প্রতিবেদন জমা দেওয়া মানেই সব দেশ লক্ষ্য অর্জন করেছে, এমন নয়।",
+      "why_it_matters": "COP, প্যারিস চুক্তি, NDC, BTR ও Global Stocktake পরিবেশ ও আন্তর্জাতিক সম্পর্কের গুরুত্বপূর্ণ ধারণা।",
+      "exam_facts": "COP31 আনতালিয়া; প্রথম ১৩৭টি BTR; ৬১টি Party; প্রায় ৬৬ শতাংশ নির্গমন।",
+      "key_people": "UNFCCC Secretariat",
+      "figures": "COP31 আনতালিয়া; প্রথম ১৩৭টি BTR; ৬১টি Party; প্রায় ৬৬ শতাংশ নির্গমন।",
+      "one_liner": "১৭ নভেম্বর তুরস্কের আনতালিয়ায় COP31-এর উচ্চপর্যায়ের অধিবেশন পুনরায় শুরু হয়।",
       "key_facts": [
         {
-          "label": "Bangladesh's apparel exports to EU drop in জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain",
-          "value": "১২ %",
-          "original": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh's apparel exports to the European Union fell significantly faster than the…",
-          "value": "২০২৬",
-          "original": "বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh's apparel shipments to the EU declined year-on-year to €১৩.৪৮ billion in…",
-          "value": "১১.৯১ %",
-          "original": "বাংলাদেশের apparel shipments EU declined বছর- -বছর €১৩.৪৮ billion জানুয়ারি-সেপ্টেম্বর ২০২৬: ১১.৯১ % (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Meanwhile, India, Pakistan, Turkey, Sri Lanka and Indonesia recorded export declines ranging…",
-          "value": "৮.৮ %",
-          "original": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel shipments EU declined বছর- -বছর €১৩.৪৮ billion জানুয়ারি-সেপ্টেম্বর ২০২৬: ১১.৯১ % (১৬ নভেম্বর ২০২৬)।"
+          "label": "মূল তথ্য",
+          "value": "COP31 আনতালিয়া; প্রথম ১৩৭টি BTR; ৬১টি Party; প্রায় ৬৬ শতাংশ নির্গমন।"
         }
       ],
       "what_happened": [
-        "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)।",
-        "বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)।",
-        "বাংলাদেশের apparel shipments EU declined বছর- -বছর €১৩.৪৮ billion জানুয়ারি-সেপ্টেম্বর ২০২৬: ১১.৯১ % (১৬ নভেম্বর ২০২৬)।"
+        "১৭ নভেম্বর তুরস্কের আনতালিয়ায় COP31-এর উচ্চপর্যায়ের অধিবেশন পুনরায় শুরু হয়। UNFCCC-এর হালনাগাদে প্রথম ১৩৭টি Biennial Transparency Report (BTR) পর্যালোচনার কথা বলা হয়েছে। ৬১টি Party তাদের NDC লক্ষ্যে অগ্রগতির তথ্য দিয়েছে; এই দেশগুলোর সঙ্গে ২০২০ সালের বৈশ্বিক নির্গমনের প্রায় ৬৬ শতাংশ সংশ্লিষ্ট। Enhanced Transparency Framework-এর প্রতিবেদন Global Stocktake-কে তথ্য দেয়। প্রতিবেদন জমা দেওয়া মানেই সব দেশ লক্ষ্য অর্জন করেছে, এমন নয়।"
       ],
       "exam_qa": [
         {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+          "q": "COP31 কোথায় অনুষ্ঠিত হচ্ছে?",
+          "a": "আনতালিয়া, তুরস্কে।"
         },
         {
-          "q": "Bangladesh's apparel exports to EU drop in জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "১২ %"
+          "q": "BTR-এর পূর্ণরূপ কী?",
+          "a": "Biennial Transparency Report।"
         }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ______ % (১৬ নভেম্বর ২০২৬)।",
-          "answer": "১২"
-        },
-        {
-          "cloze": "বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (______ নভেম্বর ২০২৬)।",
-          "answer": "১৬"
-        }
-      ],
-      "keywords": [
-        "bangladesh's",
-        "apparel",
-        "exports",
-        "drop",
-        "china"
-      ],
-      "detail": "Bangladesh's apparel exports to EU drop ১২% in জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain (১৬ নভেম্বর ২০২৬)। বাংলাদেশের apparel রপ্তানি EU drop জানুয়ারি-সেপ্টেম্বর; China, Vietnam gain: ১২ % (১৬ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: বাংলাদেশের apparel রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) significantly faster than overall বাজার (১৬ নভেম্বর ২০২৬)।"
+      ]
     },
     "CA05": {
-      "headline": "Bangladesh’s garment exports to EU plunge ১২%",
-      "summary": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)। India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ’s রপ্তানি US ৬.১৪ billion dollars, according US: ৪.৫৭ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)। India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ’s রপ্তানি US ৬.১৪ billion dollars, according US: ৪.৫৭ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "১২ percent (১৫ নভেম্বর ২০২৬); ১০.৬৯ percent (১৫ নভেম্বর ২০২৬); ৪.৫৭ percent (১৫ নভেম্বর ২০২৬); ২৩.০৮ percent (১৫ নভেম্বর ২০২৬); ৩০ percent (১৫ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)।",
+      "headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "summary": "ICC-এর লাইভ তালিকা অনুযায়ী, জোহানেসবার্গের Wanderers Stadium-এ বাংলাদেশ প্রথম ইনিংসে ১০১.২ ওভারে ৪০০ রান করে অলআউট হয়। ১৭ নভেম্বর তৃতীয় দিনের মধ্যাহ্ন বিরতির সময় দক্ষিণ আফ্রিকা ৯০ ওভারে ৩৮৬/৭ অবস্থায় ছিল, অর্থাৎ ১৪ রান পিছিয়ে। প্রথম টেস্টটি ১৫-১৯ নভেম্বর নির্ধারিত ছিল এবং ICC World Test Championship ২০২৫-২৭ চক্রের অংশ। এটি লাইভ স্কোরের স্ন্যাপশট, চূড়ান্ত ফল নয়।",
+      "why_it_matters": "লাইভ স্কোর ও চূড়ান্ত ফলের পার্থক্য এবং ICC World Test Championship চক্র মনে রাখার জন্য এটি প্রাসঙ্গিক।",
+      "exam_facts": "বাংলাদেশ ৪০০; দক্ষিণ আফ্রিকা ৩৮৬/৭; ১৪ রানে পিছিয়ে; WTC ২০২৫-২৭।",
+      "key_people": "International Cricket Council",
+      "figures": "বাংলাদেশ ৪০০; দক্ষিণ আফ্রিকা ৩৮৬/৭; ১৪ রানে পিছিয়ে; WTC ২০২৫-২৭।",
+      "one_liner": "ICC-এর লাইভ তালিকা অনুযায়ী, জোহানেসবার্গের Wanderers Stadium-এ বাংলাদেশ প্রথম ইনিংসে ১০১.২ ওভারে ৪০০ রান করে অলআউট হয়।",
       "key_facts": [
         {
-          "label": "Bangladesh’s garment exports to the European Union fell nearly in the first…",
-          "value": "১২ percent",
-          "original": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "India recorded the next-biggest fall, at, followed by Pakistan at ১০.২৯ percent",
-          "value": "১০.৬৯ percent",
-          "original": "India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh’s exports to the US fell to ৬.১৪ billion dollars, according to…",
-          "value": "৪.৫৭ percent",
-          "original": "বাংলাদেশ’s রপ্তানি US ৬.১৪ billion dollars, according US: ৪.৫৭ শতাংশ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "China’s fell and India’s ২৫.১৯ percent, while Vietnam, Cambodia and Indonesia recorded…",
-          "value": "২৩.০৮ percent",
-          "original": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)। India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ’s রপ্তানি US ৬.১৪ billion dollars, according US: ৪.৫৭ শতাংশ (১৫ নভেম্বর ২০২৬)।"
+          "label": "মূল তথ্য",
+          "value": "বাংলাদেশ ৪০০; দক্ষিণ আফ্রিকা ৩৮৬/৭; ১৪ রানে পিছিয়ে; WTC ২০২৫-২৭।"
         }
       ],
       "what_happened": [
-        "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-        "India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-        "বাংলাদেশ’s রপ্তানি US ৬.১৪ billion dollars, according US: ৪.৫৭ শতাংশ (১৫ নভেম্বর ২০২৬)।"
+        "ICC-এর লাইভ তালিকা অনুযায়ী, জোহানেসবার্গের Wanderers Stadium-এ বাংলাদেশ প্রথম ইনিংসে ১০১.২ ওভারে ৪০০ রান করে অলআউট হয়। ১৭ নভেম্বর তৃতীয় দিনের মধ্যাহ্ন বিরতির সময় দক্ষিণ আফ্রিকা ৯০ ওভারে ৩৮৬/৭ অবস্থায় ছিল, অর্থাৎ ১৪ রান পিছিয়ে। প্রথম টেস্টটি ১৫-১৯ নভেম্বর নির্ধারিত ছিল এবং ICC World Test Championship ২০২৫-২৭ চক্রের অংশ। এটি লাইভ স্কোরের স্ন্যাপশট, চূড়ান্ত ফল নয়।"
       ],
       "exam_qa": [
         {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+          "q": "বাংলাদেশ প্রথম ইনিংসে কত রান করেছিল?",
+          "a": "৪০০ রান।"
         },
         {
-          "q": "Bangladesh’s garment exports to the European Union fell nearly in the first nine months কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "১২ percent"
+          "q": "স্ন্যাপশটে দক্ষিণ আফ্রিকার স্কোর কত ছিল?",
+          "a": "৩৮৬/৭।"
         }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ______ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-          "answer": "১২"
-        },
-        {
-          "cloze": "India পরবর্তী-biggest fall, , followed Pakistan ______ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)।",
-          "answer": "১০.২৯"
-        }
-      ],
-      "keywords": [
-        "bangladesh",
-        "garment",
-        "exports",
-        "plunge"
-      ],
-      "detail": "Bangladesh’s garment exports to EU plunge ১২% (১৫ নভেম্বর ২০২৬)। বাংলাদেশ’s garment রপ্তানি ইউরোপীয় ইউনিয়ন (European Union) nearly first nine মাস: ১২ শতাংশ (১৫ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: India পরবর্তী-biggest fall, , followed Pakistan ১০.২৯ percent: ১০.৬৯ শতাংশ (১৫ নভেম্বর ২০২৬)।"
-    },
-    "CA06": {
-      "headline": "Trade deficit stands at $২৪.১৭b in FY২৫: Commerce minister",
-      "summary": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)। বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)। contrast, আমদানি totalled, resulting বাণিজ্য ঘাটতি $২৪.১৭ billion,\": ৭৯.৩৬ বিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)। বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)। contrast, আমদানি totalled, resulting বাণিজ্য ঘাটতি $২৪.১৭ billion,\": ৭৯.৩৬ বিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "২৪.১৭ billion (১৫ নভেম্বর ২০২৬); ২৪.১৭ USD (১৫ নভেম্বর ২০২৬); ৭৯.৩৬ billion (১৫ নভেম্বর ২০২৬); ২০২ (১৫ নভেম্বর ২০২৬); ১১ (১৫ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "Bangladesh's trade deficit stood at in the fiscal ২০২৪-২৫, with the deficit…",
-          "value": "২৪.১৭ billion",
-          "original": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Trade deficit stands at b in FY২৫: Commerce minister",
-          "value": "২৪.১৭ USD",
-          "original": "বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "In contrast, imports totalled, resulting in a trade deficit of $২৪.১৭ billion,\"…",
-          "value": "৭৯.৩৬ billion",
-          "original": "contrast, আমদানি totalled, resulting বাণিজ্য ঘাটতি $২৪.১৭ billion,\": ৭৯.৩৬ বিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "During FY২৫, goods from Bangladesh were exported to destinations, the minister said",
-          "value": "২০২",
-          "original": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)। বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)। contrast, আমদানি totalled, resulting বাণিজ্য ঘাটতি $২৪.১৭ billion,\": ৭৯.৩৬ বিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-        "বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)।",
-        "contrast, আমদানি totalled, resulting বাণিজ্য ঘাটতি $২৪.১৭ billion,\": ৭৯.৩৬ বিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "Bangladesh's trade deficit stood at in the fiscal ২০২৪-২৫, with the deficit with India কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "২৪.১৭ billion"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ______-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-          "answer": "২০২৪"
-        },
-        {
-          "cloze": "বাণিজ্য ঘাটতি b FY______: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)।",
-          "answer": "২৫"
-        }
-      ],
-      "keywords": [
-        "trade",
-        "deficit",
-        "stands",
-        "fy২৫",
-        "commerce"
-      ],
-      "detail": "Trade deficit stands at $২৪.১৭b in FY২৫: Commerce minister (১৫ নভেম্বর ২০২৬)। বাংলাদেশের বাণিজ্য ঘাটতি অর্থবছর ২০২৪-২৫, ঘাটতি India: ২৪.১৭ বিলিয়ন (১৫ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: বাণিজ্য ঘাটতি b FY২৫: Commerce মন্ত্রী: ২৪.১৭ মার্কিন ডলার (১৫ নভেম্বর ২০২৬)।"
-    },
-    "CA07": {
-      "headline": "Bangladesh imports medicines from ৭২ countries, India tops list: Commerce minister",
-      "summary": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)। মন্ত্রী placed list top দেশগুলো which বাংলাদেশ আমদানিকৃত highest: ২০ (১৫ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)। মন্ত্রী placed list top দেশগুলো which বাংলাদেশ আমদানিকৃত highest: ২০ (১৫ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "৭২ (১৫ নভেম্বর ২০২৬); ২০ (১৫ নভেম্বর ২০২৬); ২ (১৫ নভেম্বর ২০২৬); ৫৯০.৯১ crore (১৫ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "Bangladesh imports pharmaceutical products from countries, with India topping the list as…",
-          "value": "৭২",
-          "original": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh imports medicines from countries, India tops list: Commerce minister",
-          "value": "৭২",
-          "original": "বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "minister placed a list of the top countries from which Bangladesh imported…",
-          "value": "২০",
-          "original": "মন্ত্রী placed list top দেশগুলো which বাংলাদেশ আমদানিকৃত highest: ২০ (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "He said this in a scripted reply to a question from opposition…",
-          "value": "২",
-          "original": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)। বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)। মন্ত্রী placed list top দেশগুলো which বাংলাদেশ আমদানিকৃত highest: ২০ (১৫ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)।",
-        "বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)।",
-        "মন্ত্রী placed list top দেশগুলো which বাংলাদেশ আমদানিকৃত highest: ২০ (১৫ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "Bangladesh imports pharmaceutical products from countries, with India topping the list as the largest কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "৭২"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ______ (১৫ নভেম্বর ২০২৬)।",
-          "answer": "৭২"
-        },
-        {
-          "cloze": "বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ______ (১৫ নভেম্বর ২০২৬)।",
-          "answer": "৭২"
-        }
-      ],
-      "keywords": [
-        "bangladesh",
-        "imports",
-        "medicines",
-        "countries",
-        "india"
-      ],
-      "detail": "Bangladesh imports medicines from ৭২ countries, India tops list: Commerce minister (১৫ নভেম্বর ২০২৬)। বাংলাদেশ আমদানি pharmaceutical products দেশগুলো, India topping list বৃহত্তম: ৭২ (১৫ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: বাংলাদেশ আমদানি medicines দেশগুলো, India tops list: Commerce মন্ত্রী: ৭২ (১৫ নভেম্বর ২০২৬)।"
-    },
-    "CA08": {
-      "headline": "Bangladesh exports fruits worth $১২৬.৩৫ million in FY২৬: Commerce minister",
-      "summary": "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)। part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)। বাংলাদেশ রপ্তানি fruits worth FY২৬: Commerce মন্ত্রী: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
-      "exam_facts": "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)। part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)। বাংলাদেশ রপ্তানি fruits worth FY২৬: Commerce মন্ত্রী: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "১২৬.৩৫ million (১৫ নভেম্বর ২০২৬); ১৯; ২ (১৫ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "Bangladesh exported fruits worth in the ২০২৫-২৬ fiscal year, Commerce Minister Khandaker…",
-          "value": "১২৬.৩৫ million",
-          "original": "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "As part of the National Export Training Programme and Annual Performance Agreement,…",
-          "value": "১৯",
-          "original": "part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh exports fruits worth in FY২৬: Commerce minister",
-          "value": "১২৬.৩৫ million",
-          "original": "বাংলাদেশ রপ্তানি fruits worth FY২৬: Commerce মন্ত্রী: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "He disclosed the figure in response to a question from Dinajpur lawmaker…",
-          "value": "২",
-          "original": "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)। part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)। বাংলাদেশ রপ্তানি fruits worth FY২৬: Commerce মন্ত্রী: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-        "part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)।",
-        "বাংলাদেশ রপ্তানি fruits worth FY২৬: Commerce মন্ত্রী: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "Bangladesh exported fruits worth in the ২০২৫-২৬ fiscal year, Commerce Minister Khandaker Abdul Muktadir কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "১২৬.৩৫ million"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশ exported fruits worth ______-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)।",
-          "answer": "২০২৫"
-        },
-        {
-          "cloze": "part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (______ অক্টোবর ২০২৬)।",
-          "answer": "১৯"
-        }
-      ],
-      "keywords": [
-        "bangladesh",
-        "exports",
-        "fruits",
-        "worth",
-        "million"
-      ],
-      "detail": "Bangladesh exports fruits worth $১২৬.৩৫ million in FY২৬: Commerce minister (১৫ নভেম্বর ২০২৬)। বাংলাদেশ exported fruits worth ২০২৫-২৬ অর্থবছর, Commerce মন্ত্রী Khandaker Abdul Muktadir: ১২৬.৩৫ মিলিয়ন (১৫ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: part National রপ্তানি (Export) Training কর্মসূচি Annual Performance চুক্তি, EPB (১৯ অক্টোবর ২০২৬)।"
-    },
-    "CA09": {
-      "headline": "যে ৫ কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না",
-      "summary": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)। গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "মনে রাখার তথ্য: যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)।",
-      "exam_facts": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)। গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "৫ (১৬ নভেম্বর ২০২৬); ৩০ (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না",
-          "value": "৫",
-          "original": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো artificial মডেলের সামনে টি…",
-          "value": "৩০",
-          "original": "গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "মালির ‘ফ্রাঙ্কো-আরব ইউনিভার্সিটি অব আফ্রিকা’র গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি)…",
-          "value": "৩০",
-          "original": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)। গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "এআই-এর ধর্মীয় বিধান গ্রহণযোগ্য না হওয়ার প্রধান টি কারণ দেওয়া হলো",
-          "value": "৫",
-          "original": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)। গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)।",
-        "গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
-        },
-        {
-          "q": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "৫"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ______ (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৫"
-        },
-        {
-          "cloze": "গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ______ (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৩০"
-        }
-      ],
-      "keywords": [
-        "কারণে",
-        "থেকে",
-        "পাওয়া",
-        "মাসআলা",
-        "গ্রহণ"
-      ],
-      "detail": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না: ৫ (১৬ নভেম্বর ২০২৬)। গবেষক ওমর আমের চ্যাটজিপিটি ও বার্ডের (জেমিনি) মতো কৃত্রিম বুদ্ধিমত্তা মডেলের সামনে টি ধর্মীয়: ৩০ (১৬ নভেম্বর ২০২৬)।"
-    },
-    "CA10": {
-      "headline": "ADP spending hits historic low in four months",
-      "summary": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)। ● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "মনে রাখার তথ্য: বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-      "exam_facts": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)। ● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "৬.৫৩ percent (১৬ নভেম্বর ২০২৬); ২০.৭৪ percent (১৬ নভেম্বর ২০২৬); ১.৮৫ billion (১৬ নভেম্বর ২০২৬); ৬.৫৩ % (১৬ নভেম্বর ২০২৬); ৮১.৪২ billion (১৬ নভেম্বর ২০২৬)",
-      "one_liner": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "Bangladesh’s Annual Development Programme (ADP) has recorded its slowest-ever start, with just…",
-          "value": "৬.৫৩ percent",
-          "original": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "● Local Government Division",
-          "value": "২০.৭৪ percent",
-          "original": "● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "foreign ministry had for five projects, while the Ministry of Chittagong Hill…",
-          "value": "১.৮৫ billion",
-          "original": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)। ● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh spends just of development budget in জুলাই-অক্টোবর, lowest rate on record",
-          "value": "৬.৫৩ %",
-          "original": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)। ● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-        "● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "Bangladesh’s Annual Development Programme (ADP) has recorded its slowest-ever start, with just of the কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "৬.৫৩ percent"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ______ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-          "answer": "৬.৫৩"
-        },
-        {
-          "cloze": "● Local সরকার Division: ______ শতাংশ (১৬ নভেম্বর ২০২৬)।",
-          "answer": "২০.৭৪"
-        }
-      ],
-      "keywords": [
-        "spending",
-        "hits",
-        "historic",
-        "four",
-        "months"
-      ],
-      "detail": "বাংলাদেশ’s Annual Development কর্মসূচি (ADP) slowest-ever start, just: ৬.৫৩ শতাংশ (১৬ নভেম্বর ২০২৬)। ● Local সরকার Division: ২০.৭৪ শতাংশ (১৬ নভেম্বর ২০২৬)।"
-    },
-    "CA11": {
-      "headline": "War clouds Saudi Arabia’s post-oil future",
-      "summary": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)। বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।",
-      "why_it_matters": "মনে রাখার তথ্য: Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)।",
-      "exam_facts": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)। বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "Published ১৭ নভেম্বর ২০২৬.",
-      "one_liner": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "Reclaiming religious authority: What Bangladesh can learn from Indonesia's women ulama movement",
-          "value": "১৭ নভেম্বর ২০২৬",
-          "original": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Foreign debt triples in a decade: How vulnerable is Bangladesh's economy?",
-          "value": "১৭ নভেম্বর ২০২৬",
-          "original": "বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Do Bangladesh and India still need the Ganges Treaty?",
-          "value": "১৭ নভেম্বর ২০২৬",
-          "original": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)। বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)।",
-        "বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] প্রতিবেশী দেশ ও বৈশ্বিক সম্পর্কের খবর আন্তর্জাতিক বিষয়াবলি অংশের জন্য গুরুত্বপূর্ণ।"
-        },
-        {
-          "q": "Reclaiming religious authority: What Bangladesh can learn from Indonesia's women ulama movement কী (১৭ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "Reclaiming religious authority: What Bangladesh can learn from Indonesia's women ulama movement"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (______ নভেম্বর ২০২৬)।",
-          "answer": "১৭"
-        },
-        {
-          "cloze": "বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (______ নভেম্বর ২০২৬)।",
-          "answer": "১৭"
-        }
-      ],
-      "keywords": [
-        "clouds",
-        "saudi",
-        "arabia",
-        "post",
-        "future"
-      ],
-      "detail": "Reclaiming religious authority: What বাংলাদেশ can learn Indonesia's women ulama movement (১৭ নভেম্বর ২০২৬)। বিদেশি debt triples decade: How vulnerable বাংলাদেশের অর্থনীতি? (১৭ নভেম্বর ২০২৬)।"
-    },
-    "CA12": {
-      "headline": "COP৩১ SUMMIT: Draft deal calls for faster ‘action’ to exit fossil fuels",
-      "summary": "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)। // Copy link functionality (১৭ নভেম্বর ২০২৬)।",
-      "why_it_matters": "মনে রাখার তথ্য: COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)।",
-      "exam_facts": "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)। // Copy link functionality (১৭ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "৩১",
-      "one_liner": "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "COP৩১ SUMMIT: Draft deal calls for faster ‘action’ to exit fossil fuels",
-          "value": "৩১",
-          "original": "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "// Copy link functionality",
-          "value": "১৭ নভেম্বর ২০২৬",
-          "original": "// Copy link functionality (১৭ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)।",
-        "// Copy link functionality (১৭ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] আন্তর্জাতিক সংস্থার সিদ্ধান্ত বাংলাদেশের অর্থনীতি ও কূটনীতির সঙ্গে যুক্ত বলে পরীক্ষায় আসে।"
-        },
-        {
-          "q": "COP৩১ SUMMIT: Draft deal calls for faster ‘action’ to exit fossil fuels কী (১৭ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "COP৩১ SUMMIT: Draft deal calls for faster ‘action’ to exit fossil fuels"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "COP______ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)।",
-          "answer": "৩১"
-        },
-        {
-          "cloze": "// Copy link functionality (______ নভেম্বর ২০২৬)।",
-          "answer": "১৭"
-        }
-      ],
-      "keywords": [
-        "cop৩১",
-        "summit",
-        "draft",
-        "deal",
-        "calls"
-      ],
-      "detail": "COP৩১ সম্মেলন: Draft চুক্তি calls faster ‘action’ exit fossil জ্বালানি (১৭ নভেম্বর ২০২৬)। // Copy link functionality (১৭ নভেম্বর ২০২৬)।"
-    },
-    "CA13": {
-      "headline": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক",
-      "summary": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)। রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।",
-      "why_it_matters": "মনে রাখার তথ্য: রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।",
-      "exam_facts": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)। রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।",
-      "key_people": "",
-      "figures": "Published ১৬ নভেম্বর ২০২৬.",
-      "one_liner": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।",
-      "key_facts": [
-        {
-          "label": "export বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল Bangladesh Bank",
-          "value": "১৬ নভেম্বর ২০২৬",
-          "original": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "export বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে Bangladesh Bank",
-          "value": "১৬ নভেম্বর ২০২৬",
-          "original": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "Bangladesh Bank বলছে, ই-মেইল ও অন্যান্য ডিজিটাল মাধ্যমে ক্রেতা-বিক্রেতার মধ্যে তথ্য ও…",
-          "value": "১৬ নভেম্বর ২০২৬",
-          "original": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)। রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-        },
-        {
-          "label": "এ ধরনের প্রতারণা ঠেকাতে exportকারকদের সতর্ক থাকতে বলেছে Bangladesh Bank",
-          "value": "১৬ নভেম্বর ২০২৬",
-          "original": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)। রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-        }
-      ],
-      "what_happened": [
-        "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।",
-        "রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক কী (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
-          "a": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (______ নভেম্বর ২০২৬)।",
-          "answer": "১৬"
-        },
-        {
-          "cloze": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (______ নভেম্বর ২০২৬)।",
-          "answer": "১৬"
-        }
-      ],
-      "keywords": [
-        "রপ্তানি",
-        "বাণিজ্যে",
-        "সাইবার",
-        "জালিয়াতির",
-        "ঝুঁকি"
-      ],
-      "detail": "রপ্তানি বাণিজ্যে সাইবার জালিয়াতির ঝুঁকি, সতর্ক থাকতে যেসব পরামর্শ দিল বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)। রপ্তানি বাণিজ্যে সাইবার জালিয়াতি থেকে সতর্ক থাকার পরামর্শ দিয়েছে বাংলাদেশ ব্যাংক (১৬ নভেম্বর ২০২৬)।"
-    },
-    "CA14": {
-      "headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
-      "summary": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন। Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।",
-      "why_it_matters": "মনে রাখার তথ্য: বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন।",
-      "exam_facts": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন। Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।",
-      "key_people": "",
-      "figures": "১১.৭ million; ২৫ %; ৫২,৮৪৯; ২৮ %",
-      "one_liner": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন।",
-      "key_facts": [
-        {
-          "label": "Bangladesh's ২০২৪ Economic Census counted economic units employing more than ৩০.৬ million…",
-          "value": "১১.৭ million",
-          "original": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন।"
-        },
-        {
-          "label": "Estimates put the share at around, but the Bangladesh Bureau of Statistics…",
-          "value": "২৫ %",
-          "original": "Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।"
-        },
-        {
-          "label": "World Bank data show that the share of firms exporting fell from…",
-          "value": "২৫ %",
-          "original": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন। Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।"
-        },
-        {
-          "label": "Even so, India can show that the number of exporting MSMEs increased…",
-          "value": "৫২,৮৪৯",
-          "original": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন। Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।"
-        }
-      ],
-      "what_happened": [
-        "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন।",
-        "Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।"
-      ],
-      "exam_qa": [
-        {
-          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
-          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
-        },
-        {
-          "q": "Bangladesh's ২০২৪ Economic Census counted economic units employing more than ৩০.৬ million people কত?",
-          "a": "১১.৭ million"
-        }
-      ],
-      "recall_cards": [
-        {
-          "cloze": "বাংলাদেশের ______ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন।",
-          "answer": "২০২৪"
-        },
-        {
-          "cloze": "Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ______ %।",
-          "answer": "২৫"
-        }
-      ],
-      "keywords": [
-        "bangladesh",
-        "millions",
-        "small",
-        "firms",
-        "become"
-      ],
-      "detail": "বাংলাদেশের ২০২৪ অর্থনৈতিক Census counted অর্থনৈতিক units employing more than ৩০.৬ million people: ১১.৭ মিলিয়ন। Estimates put শেয়ার , but বাংলাদেশ Bureau Statistics (BBS) produces: ২৫ %।"
-    },
-    "CA15": {
-      "headline": "The unsung heroes of ১৯৭১: Understanding the past, shaping the future",
-      "summary": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ...",
-      "why_it_matters": "মতামত: The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ...",
-      "exam_facts": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ...",
-      "key_people": "",
-      "figures": "প্রকাশিত ১৫ নভেম্বর ২০২৬.",
-      "one_liner": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently…",
-      "key_facts": [
-        {
-          "label": "মতামত",
-          "value": "The Business Standard",
-          "original": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ..."
-        }
-      ],
-      "what_happened": [
-        "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ..."
-      ],
-      "exam_qa": [
-        {
-          "q": "এই সম্পাদকীয়ের মূল বক্তব্য কী?",
-          "a": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ..."
-        },
-        {
-          "q": "কোন প্রকাশনা এই সম্পাদকীয়টি প্রকাশ করেছে?",
-          "a": "The Business Standard"
-        }
-      ],
-      "recall_cards": [],
-      "keywords": [
-        "unsung",
-        "heroes",
-        "১৯৭১",
-        "understanding",
-        "past"
-      ],
-      "detail": "The Liberation War, with all its glory, can serve as the common bridge needed to overcome the divisions that currently pervade Bangladesh’s politics and society ..."
+      ]
     }
   },
   "mcqs": {
     "1": {
-      "question": "‘decision’ বলতে কী বোঝায়?",
+      "question": "বিল নং ১১৪/২০২৬ কোন ধারা সংশোধন করতে চায়?",
       "options": {
-        "A": "পোশাক",
-        "B": "সিদ্ধান্ত",
-        "C": "মজুরি",
-        "D": "শ্রমিক"
+        "A": "৫২",
+        "B": "৬৪",
+        "C": "৭৮",
+        "D": "৯৩"
       },
-      "explanation": "‘decision’ মানে সিদ্ধান্ত।"
+      "explanation": "বিলে ৬৪ ধারা সংশোধনের প্রস্তাব রয়েছে।"
     },
     "2": {
-      "question": "‘meeting’ বলতে কী বোঝায়?",
+      "question": "সাধারণ VAT রিটার্ন জমার প্রস্তাবিত সময় কত?",
       "options": {
-        "A": "সভা",
-        "B": "বাজার",
-        "C": "কর্মসূচি",
-        "D": "পোশাক"
+        "A": "৭ দিন",
+        "B": "১০ দিন",
+        "C": "১৫ দিন",
+        "D": "৩০ দিন"
       },
-      "explanation": "‘meeting’ মানে সভা।"
+      "explanation": "সাধারণ প্রস্তাবিত সময়সীমা ১৫ দিন।"
     },
     "3": {
-      "question": "‘garment’ বলতে কী বোঝায়?",
+      "question": "নির্দিষ্ট শ্রেণির জন্য কত দিন প্রস্তাব করা হয়েছে?",
       "options": {
-        "A": "রাষ্ট্রপতি; সভাপতি",
-        "B": "তথ্য",
-        "C": "পোশাক",
-        "D": "বাড়ানো; বৃদ্ধি পাওয়া"
+        "A": "সর্বোচ্চ ২০ দিন",
+        "B": "৪৫ দিন",
+        "C": "৬০ দিন",
+        "D": "৯০ দিন"
       },
-      "explanation": "‘garment’ মানে পোশাক।"
+      "explanation": "নির্দিষ্ট শ্রেণির জন্য সর্বোচ্চ ২০ দিন।"
     },
     "4": {
-      "question": "‘worker’ বলতে কী বোঝায়?",
+      "question": "নির্ধারিত সময় পর্যন্ত বিলটির অবস্থা কী?",
       "options": {
-        "A": "পোশাক",
-        "B": "মজুরি",
-        "C": "শ্রমিক",
-        "D": "কর্মকর্তা"
+        "A": "প্রত্যাখ্যাত",
+        "B": "আইন হয়েছে",
+        "C": "প্রত্যাহার",
+        "D": "উত্থাপিত; পাস নিশ্চিত নয়"
       },
-      "explanation": "‘worker’ মানে শ্রমিক।"
+      "explanation": "উত্থাপন নিশ্চিত, আইন হওয়া নিশ্চিত নয়।"
     },
     "5": {
-      "question": "‘debt’ বলতে কী বোঝায়?",
+      "question": "VAT বিলের সঙ্গে কোন অধ্যাদেশ যুক্ত?",
       "options": {
-        "A": "ঋণ",
-        "B": "পিছিয়ে দেওয়া",
-        "C": "মন্ত্রী",
-        "D": "খোঁজা; চাওয়া"
+        "A": "১৮/২০২৫",
+        "B": "৩৮/২০২৬",
+        "C": "৭৭/২০২৬",
+        "D": "৬৪/২০১২"
       },
-      "explanation": "‘debt’ মানে ঋণ।"
+      "explanation": "অধ্যাদেশ নং ৩৮/২০২৬।"
     },
     "6": {
-      "question": "‘declare’ বলতে কী বোঝায়?",
+      "question": "১৫তম দিন সরকারি ছুটি হলে কখন জমা দিতে হবে?",
       "options": {
-        "A": "পোশাক",
-        "B": "মজুরি",
-        "C": "ঘোষণা দেওয়া",
-        "D": "শ্রমিক"
+        "A": "আগের দিন",
+        "B": "৩০ দিন পর",
+        "C": "বছর শেষে",
+        "D": "পরবর্তী কার্যদিবসে"
       },
-      "explanation": "‘declare’ মানে ঘোষণা দেওয়া।"
+      "explanation": "পরবর্তী কার্যদিবসে জমার প্রস্তাব।"
     },
     "7": {
-      "question": "‘wage’ বলতে কী বোঝায়?",
+      "question": "সংসদ সদস্যের লিখিত পদত্যাগ কোন অনুচ্ছেদে?",
       "options": {
-        "A": "পোশাক",
-        "B": "সমর্থন করা",
-        "C": "দাবি করা",
-        "D": "মজুরি"
+        "A": "৬৭(২)",
+        "B": "১১৯",
+        "C": "১২৩(৪)",
+        "D": "১৪৮"
       },
-      "explanation": "‘wage’ মানে মজুরি।"
+      "explanation": "৬৭(২) অনুচ্ছেদে পদত্যাগের বিধান।"
     },
     "8": {
-      "question": "‘postpone’ বলতে কী বোঝায়?",
+      "question": "কোন আসন শূন্য ঘোষণা করা হয়?",
       "options": {
-        "A": "পিছিয়ে দেওয়া",
-        "B": "পোশাক",
-        "C": "মজুরি",
-        "D": "শ্রমিক"
+        "A": "কিশোরগঞ্জ-১",
+        "B": "কিশোরগঞ্জ-২",
+        "C": "কিশোরগঞ্জ-৪",
+        "D": "কিশোরগঞ্জ-৩"
       },
-      "explanation": "‘postpone’ মানে পিছিয়ে দেওয়া।"
+      "explanation": "গেজেটে কিশোরগঞ্জ-৩ আসন চিহ্নিত।"
     },
     "9": {
-      "question": "‘state’ বলতে কী বোঝায়?",
+      "question": "কোন তারিখ থেকে আসনটি শূন্য?",
       "options": {
-        "A": "পোশাক",
-        "B": "মজুরি",
-        "C": "শ্রমিক",
-        "D": "রাষ্ট্র"
+        "A": "১৭ নভেম্বর",
+        "B": "১৫ নভেম্বর",
+        "C": "১৬ নভেম্বর",
+        "D": "১ ডিসেম্বর"
       },
-      "explanation": "‘state’ মানে রাষ্ট্র।"
+      "explanation": "১৫ নভেম্বর থেকে আসন শূন্য।"
     },
     "10": {
-      "question": "‘minister’ বলতে কী বোঝায়?",
+      "question": "সাধারণ ৯০ দিনের সময়সীমা কোন অনুচ্ছেদে?",
       "options": {
-        "A": "পোশাক",
-        "B": "মজুরি",
-        "C": "শ্রমিক",
-        "D": "মন্ত্রী"
+        "A": "৬৭(২)",
+        "B": "১১৯",
+        "C": "১২৩(৪)",
+        "D": "৯৩(১)"
       },
-      "explanation": "‘minister’ মানে মন্ত্রী।"
+      "explanation": "১২৩(৪) অনুচ্ছেদে সাধারণ সময়সীমা।"
     },
     "11": {
-      "question": "‘prime minister’ বলতে কী বোঝায়?",
+      "question": "সংসদীয় নির্বাচন পরিচালনা করে কোন প্রতিষ্ঠান?",
       "options": {
-        "A": "জলবায়ু পরিবর্তন",
-        "B": "কেন্দ্রীয় ব্যাংক",
-        "C": "নবায়নযোগ্য শক্তি",
-        "D": "প্রধানমন্ত্রী"
+        "A": "নির্বাচন কমিশন",
+        "B": "মন্ত্রিপরিষদ বিভাগ",
+        "C": "সরকারি কর্ম কমিশন",
+        "D": "সংসদ সচিবালয়"
       },
-      "explanation": "‘prime minister’ বলতে প্রধানমন্ত্রী বোঝায়।"
+      "explanation": "১১৯ অনুচ্ছেদে নির্বাচন কমিশনের দায়িত্ব।"
     },
     "12": {
-      "question": "‘renewable energy’ বলতে কী বোঝায়?",
+      "question": "গেজেটে পদত্যাগকারী সদস্য কে?",
       "options": {
-        "A": "নবায়নযোগ্য শক্তি",
-        "B": "জলবায়ু পরিবর্তন",
-        "C": "কেন্দ্রীয় ব্যাংক",
-        "D": "জলবায়ু অর্থায়ন"
+        "A": "ড. মোহাম্মদ ওসমান ফারুক",
+        "B": "কায়সার কামাল",
+        "C": "আমির খসরু",
+        "D": "মো. আসাদুজ্জামান"
       },
-      "explanation": "‘renewable energy’ বলতে নবায়নযোগ্য শক্তি বোঝায়।"
+      "explanation": "গেজেটে ড. মোহাম্মদ ওসমান ফারুকের নাম।"
     },
     "13": {
-      "question": "Bangladesh Bank sold from its foreign exchange reserves at টাকা১২৪.৫০ per dollar through an কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "কোন তিন মেয়াদের ট্রেজারি বিল ছিল?",
       "options": {
-        "A": "৯০ million",
-        "B": "১১০ million",
-        "C": "১০০ million",
-        "D": "১২০ million"
+        "A": "৩০, ৬০, ৯০ দিন",
+        "B": "৯০, ১৮০, ৩৬০ দিন",
+        "C": "৯১, ১৮২, ৩৬৪ দিন",
+        "D": "১, ২, ৫ বছর"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "মেয়াদ ছিল ৯১, ১৮২ ও ৩৬৪ দিন।"
     },
     "14": {
-      "question": "Pakistan's consumer price inflation is expected to gradually ease towards medium-term target range of কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "মোট গৃহীত অভিহিত মূল্য কত?",
       "options": {
-        "A": "৬ %",
-        "B": "৭ %",
-        "C": "৫ %",
-        "D": "৪ %"
+        "A": "৫,০০০ কোটি",
+        "B": "৬,৫০০ কোটি",
+        "C": "৭,৫০০ কোটি",
+        "D": "১০,০০০ কোটি"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "মোট অভিহিত মূল্য ৬,৫০০ কোটি টাকা।"
     },
     "15": {
-      "question": "According to a report released by the Implementation Monitoring and Evaluation Division (IMED) ( কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "সর্বোচ্চ কাট-অফ ফলনহার কোন মেয়াদে?",
       "options": {
-        "A": "১৯,০০০ crore",
-        "B": "২১,০০০ crore",
-        "C": "২২,০০০ crore",
-        "D": "২০,১৬০ crore"
+        "A": "৯১ দিন",
+        "B": "১৮২ দিন",
+        "C": "১৪ দিন",
+        "D": "৩৬৪ দিন"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "৩৬৪ দিনের ফলনহার ৮.৩৯০০%।"
     },
     "16": {
-      "question": "Bangladesh's apparel shipments to the EU declined year-on-year to €১৩.৪৮ billion in জানুয়ারি-সেপ্টেম্বর ২০২৬ কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "৯১ দিনের বিলের ফলনহার কত?",
       "options": {
-        "A": "১০.৭২ %",
-        "B": "১৩.১০ %",
-        "C": "১১.৯১ %",
-        "D": "১৪.৮৯ %"
+        "A": "৮.০৮৮৪%",
+        "B": "৮.২৬৯৯%",
+        "C": "৮.৩৯০০%",
+        "D": "৯%"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "৯১ দিনের বিলের ফলনহার ৮.০৮৮৪%।"
     },
     "17": {
-      "question": "India recorded the next-biggest fall, at, followed by Pakistan at ১০.২৯ percent কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "ট্রেজারি বিল কীভাবে ইস্যু হয়?",
       "options": {
-        "A": "৯.৬২ percent",
-        "B": "১০.৬৯ percent",
-        "C": "১১.৭৬ percent",
-        "D": "১৩.৩৬ percent"
+        "A": "মাসিক কুপনে",
+        "B": "ছাড়মূল্যে, মেয়াদে অভিহিত মূল্যে",
+        "C": "অভিহিত মূল্যে, পরে ছাড়ে",
+        "D": "শেয়ার হিসেবে"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "ছাড়মূল্যে ইস্যু ও অভিহিত মূল্যে পরিশোধ।"
     },
     "18": {
-      "question": "Bangladesh's trade deficit stood at in the fiscal ২০২৪-২৫, with the deficit with India কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "মোট বিক্রয়মূল্য কত?",
       "options": {
-        "A": "২১.৭৫ billion",
-        "B": "২৬.৫৯ billion",
-        "C": "৩০.২১ billion",
-        "D": "২৪.১৭ billion"
+        "A": "৬,৫০০ কোটি",
+        "B": "৬,২৬৬.৩৬ কোটি",
+        "C": "৫,৯৪১.০৯ কোটি",
+        "D": "৭,০০০ কোটি"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "তিন সারির যোগফল ৬,২৬৬.৩৬ কোটি।"
     },
     "19": {
-      "question": "Bangladesh imports pharmaceutical products from countries, with India topping the list as the largest কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "COP31 কোথায় অনুষ্ঠিত হচ্ছে?",
       "options": {
-        "A": "৬০",
-        "B": "৭২",
-        "C": "৮০",
-        "D": "৯০"
+        "A": "বন",
+        "B": "প্যারিস",
+        "C": "আনতালিয়া, তুরস্ক",
+        "D": "দুবাই"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "COP31 তুরস্কের আনতালিয়ায়।"
     },
     "20": {
-      "question": "Bangladesh exported fruits worth in the ২০২৫-২৬ fiscal year, Commerce Minister Khandaker Abdul Muktadir কত (১৫ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "BTR-এর পূর্ণরূপ কী?",
       "options": {
-        "A": "১১৩.৭২ million",
-        "B": "১২৬.৩৫ million",
-        "C": "১৩৮.৯৯ million",
-        "D": "১৫৭.৯৪ million"
+        "A": "Biennial Transparency Report",
+        "B": "Bilateral Trade Review",
+        "C": "Basic Target Register",
+        "D": "Biennial Tax Return"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "BTR মানে Biennial Transparency Report।"
     },
     "21": {
-      "question": "যে কারণে এআই থেকে পাওয়া ‘মাসআলা’ গ্রহণ করা যাবে না কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "সংশ্লেষণ হালনাগাদে প্রথম কতটি BTR ছিল?",
       "options": {
-        "A": "৬",
-        "B": "৭",
-        "C": "৪",
-        "D": "৫"
+        "A": "৬১",
+        "B": "১০০",
+        "C": "১৩৭",
+        "D": "২০২"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "প্রথম ১৩৭টি BTR পর্যালোচনা করা হয়েছে।"
     },
     "22": {
-      "question": "Bangladesh’s Annual Development Programme (ADP) has recorded its slowest-ever start, with just of the কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "NDC লক্ষ্যে অগ্রগতির তথ্য কতটি Party দিয়েছে?",
       "options": {
-        "A": "৫.৮৮ percent",
-        "B": "৬.৫৩ percent",
-        "C": "৭.১৮ percent",
-        "D": "৮.১৬ percent"
+        "A": "৩৭",
+        "B": "৬১",
+        "C": "৬৬",
+        "D": "১৩৭"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "৬১টি Party-র কথা বলা হয়েছে।"
     },
     "23": {
-      "question": "Bangladesh's ২০২৪ Economic Census counted economic units employing more than ৩০.৬ million people কত?",
+      "question": "Global Stocktake কী মূল্যায়ন করে?",
       "options": {
-        "A": "১০.৫ million",
-        "B": "১১.৭ million",
-        "C": "১২.৯ million",
-        "D": "১৪.৬ million"
+        "A": "শুধু GDP",
+        "B": "নির্বাচন",
+        "C": "শুল্ক",
+        "D": "প্যারিস চুক্তির লক্ষ্য অনুযায়ী সম্মিলিত অগ্রগতি"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "এটি সম্মিলিত জলবায়ু অগ্রগতি মূল্যায়ন করে।"
     },
     "24": {
-      "question": "rate eased somewhat after Bangladesh Bank sold through an auction last Thursday ( ) কত (১২ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "বাংলাদেশ প্রথম ইনিংসে কত রান করে?",
       "options": {
-        "A": "২০০ million",
-        "B": "১৯০ million",
-        "C": "২১০ million",
-        "D": "২২০ million"
+        "A": "৩৮৬",
+        "B": "৪০০",
+        "C": "৪১৪",
+        "D": "৪২০"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "বাংলাদেশ ৪০০ রানে অলআউট হয়।"
     },
     "25": {
-      "question": "Real GDP growth will remain in the range of to ৪.৫%, the bank said কত (১৬ নভেম্বর ২০২৬ অনুযায়ী)?",
+      "question": "মধ্যাহ্ন বিরতির স্ন্যাপশটে দক্ষিণ আফ্রিকার স্কোর কত?",
       "options": {
-        "A": "৩.৫ %",
-        "B": "৩.১ %",
-        "C": "৩.৯ %",
-        "D": "৪.৪ %"
+        "A": "৩৮৬/৭",
+        "B": "৪০০/৭",
+        "C": "৩৮৬/৫",
+        "D": "৩৭২/৯"
       },
-      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+      "explanation": "স্কোর ছিল ৩৮৬/৭।"
     }
   }
 }

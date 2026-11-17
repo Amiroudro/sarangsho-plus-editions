@@ -244,24 +244,26 @@
       "edition_date": "2026-11-17",
       "file": "data-2026-11-17.json",
       "status": "published",
-      "review": "v2 gate 15/15 passed; published after approval by auto-15/15 (Rudro's rule 2026-11-15). 15 stories, 20 words, 10 phrases, 25 MCQs. First v2 edition (v2 Day 1). Tracker reset to 0 at this edition; correct-consecutive now 1.",
-      "stories": 15,
+      "review": "Five-study-item replacement; official/institutional sources only; 20 vocabulary entries, 10 phrases, 25 MCQs; publisher article bodies not collected; v2 engine not run.",
+      "stories": 5,
       "words": 20,
       "phrases": 10,
       "mcqs": 25,
       "revision_words": 5,
-      "sources": 15,
-      "coverage": "16 Nov 2026, 7:47 AM to 2026-11-17, 7:47 AM (Asia/Dhaka)"
+      "sources": 5,
+      "coverage": "16 Nov 2026, 6:06 PM to 17 Nov 2026, 6:06 PM (Asia/Dhaka)",
+      "renovation_format": "official-source-limited-edition-v1",
+      "renovation_date": "2026-11-17"
     }
   ],
-  "correct_consecutive_editions": 1,
-  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 1.",
+  "correct_consecutive_editions": 0,
+  "correct_rule": "0/7 consecutive v2 editions. The 17 November replacement is a limited official-source edition, not a v2 engine run and does not count toward the v2 proof sequence.",
   "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
   "renovation_summary": {
     "format": "learning-module-v1",
     "date": "2026-11-17",
     "editions": 16,
-    "stories": 225,
-    "note": "Each story carries a learning_module (news summary + hero figure + verified facts + topic GK + exam notes + MCQ practice + written prep + vocabulary + revision). News facts and GK facts are in separate sections with separate sources."
+    "stories": 215,
+    "note": "The archive has 16 editions. Most renovated stories carry the learning_module structure; the 17 November limited official-source replacement uses its own exam facts, vocabulary, phrases and MCQ fields and is not represented as a full v2 edition."
   }
 }
