@@ -1,0 +1,1362 @@
+{
+  "edition_date": "2026-11-17",
+  "edition_day": "Tuesday",
+  "coverage": "16 Nov 2026, 6:06 PM to 17 Nov 2026, 6:06 PM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 5,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "category": "Economy & Public Finance",
+      "event_date": "2026-11-16",
+      "article_date": "2026-11-16",
+      "summary": "Parliament introduced Bill No. 114/2026 on 16 November to amend Section 64 of the Value Added Tax and Supplementary Duty Act, 2012. It proposes filing within 15 days after each tax period for most registered or registrable persons. Government bodies, autonomous bodies, banks, insurers and zero-return filers would have up to 20 days. If day 15 is a public holiday, filing moves to the next working day. The explanatory statement argues quarterly filing caused revenue and administrative difficulties; this is the government's stated rationale, not independently measured impact. Enactment was not verified at the research cut-off.",
+      "why_it_matters": "Distinguish a bill from an enacted law and remember the proposed VAT filing deadlines.",
+      "exam_facts": "Bill No. 114/2026; Section 64; ordinary proposed deadline 15 days; specified categories up to 20 days; related Ordinance No. 38 of 2026 issued 14 October 2026.",
+      "exam_relevance": "BCS: taxation, public finance and legislative procedure.",
+      "key_people": "Bangladesh Government Press / National Parliament",
+      "figures": "Bill No. 114/2026; Section 64; ordinary proposed deadline 15 days; specified categories up to 20 days; related Ordinance No. 38 of 2026 issued 14 October 2026.",
+      "sources": [
+        {
+          "publication": "Bangladesh Government Press / National Parliament",
+          "headline": "VAT amendment bill proposes 15-day VAT return deadline",
+          "date": "2026-11-16",
+          "url": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf"
+        }
+      ],
+      "one_liner": "Parliament introduced Bill No.",
+      "key_facts": [
+        {
+          "label": "Core facts",
+          "value": "Bill No. 114/2026",
+          "original": "Bill No. 114/2026"
+        }
+      ],
+      "what_happened": [
+        "Parliament introduced Bill No. 114/2026 on 16 November to amend Section 64 of the Value Added Tax and Supplementary Duty Act, 2012."
+      ],
+      "exam_qa": [
+        {
+          "q": "বিল নং ১১৪/২০২৬ কোন ধারা সংশোধন করতে চায়?",
+          "a": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২-এর ৬৪ ধারা।"
+        },
+        {
+          "q": "সাধারণ করদাতার প্রস্তাবিত রিটার্ন সময়সীমা কত?",
+          "a": "প্রতিটি কর মেয়াদ শেষে ১৫ দিনের মধ্যে।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bill No. 114/2026 — ______",
+          "answer": " Section 64"
+        }
+      ],
+      "keywords": [
+        "vat",
+        "amendment",
+        "bill",
+        "proposes",
+        "15-day"
+      ],
+      "detail": "Parliament introduced Bill No. 114/2026 on 16 November to amend Section 64 of the Value Added Tax and Supplementary Duty Act, 2012. It proposes filing within 15 days after each tax period for most registered or registrable persons. Government bodies, autonomous bodies, banks, insurers and zero-return filers would have up to 20 days. If day 15 is a public holiday, filing moves to the next working day. The explanatory statement argues quarterly filing caused revenue and administrative difficulties; this is the government's stated rationale, not independently measured impact. Enactment was not verified at the research cut-off."
+    },
+    {
+      "id": "CA02",
+      "headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "category": "Constitution & Elections",
+      "event_date": "2026-11-15",
+      "article_date": "2026-11-17",
+      "summary": "A 17 November extraordinary Gazette says seat No. 164, Kishoreganj-3, became vacant from 15 November 2026 after Dr Muhammad Osman Faruk resigned. It cites Article 67(2): a member's written resignation takes effect when received by the Speaker, or by the Deputy Speaker in specified circumstances. Article 123(4) provides an ordinary 90-day period to fill a vacancy not caused by dissolution of Parliament, subject to its proviso.",
+      "why_it_matters": "The vacancy date and Gazette publication date differ. Articles 67(2) and 123(4) are key constitutional provisions.",
+      "exam_facts": "Kishoreganj-3, seat 164; Dr Muhammad Osman Faruk; vacancy date 15 November 2026; Gazette date 17 November 2026; Articles 67(2), 119, 123(4); ordinary period 90 days.",
+      "exam_relevance": "BCS: Constitution, elections and parliamentary by-election.",
+      "key_people": "Dr Muhammad Osman Faruk",
+      "figures": "Kishoreganj-3, seat 164; Dr Muhammad Osman Faruk; vacancy date 15 November 2026; Gazette date 17 November 2026; Articles 67(2), 119, 123(4); ordinary period 90 days.",
+      "sources": [
+        {
+          "publication": "Bangladesh Government Press / National Parliament Secretariat",
+          "headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+          "date": "2026-11-17",
+          "url": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf"
+        }
+      ],
+      "one_liner": "A 17 November extraordinary Gazette says seat No.",
+      "key_facts": [
+        {
+          "label": "Core facts",
+          "value": "Kishoreganj-3, seat 164",
+          "original": "Kishoreganj-3, seat 164"
+        }
+      ],
+      "what_happened": [
+        "A 17 November extraordinary Gazette says seat No. 164, Kishoreganj-3, became vacant from 15 November 2026 after Dr Muhammad Osman Faruk resigned."
+      ],
+      "exam_qa": [
+        {
+          "q": "সংসদ সদস্যের লিখিত পদত্যাগ কোন অনুচ্ছেদে?",
+          "a": "৬৭(২) অনুচ্ছেদে।"
+        },
+        {
+          "q": "সাধারণ ৯০ দিনের উপনির্বাচন সময়সীমা কোন অনুচ্ছেদে?",
+          "a": "১২৩(৪) অনুচ্ছেদে।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Kishoreganj-3, seat 164 — ______",
+          "answer": " Dr Muhammad Osman Faruk"
+        }
+      ],
+      "keywords": [
+        "kishoreganj-3",
+        "seat",
+        "declared",
+        "vacant",
+        "after"
+      ],
+      "detail": "A 17 November extraordinary Gazette says seat No. 164, Kishoreganj-3, became vacant from 15 November 2026 after Dr Muhammad Osman Faruk resigned. It cites Article 67(2): a member's written resignation takes effect when received by the Speaker, or by the Deputy Speaker in specified circumstances. Article 123(4) provides an ordinary 90-day period to fill a vacancy not caused by dissolution of Parliament, subject to its proviso."
+    },
+    {
+      "id": "CA03",
+      "headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "category": "Banking & Monetary Policy",
+      "event_date": "2026-11-16",
+      "article_date": "2026-11-16",
+      "summary": "Bangladesh Bank's auction table lists 91-day, 182-day and 364-day Treasury bills issued on 16 November 2026. Accepted face value totalled Tk 6,500 crore: Tk 3,000 crore, Tk 2,500 crore and Tk 1,000 crore respectively. Cut-off yields were 8.0884%, 8.2699% and 8.3900%. The three official sale values sum to Tk 6,266.36 crore. Treasury bills are short-term government securities issued at a discount and redeemed at face value.",
+      "why_it_matters": "This tests face value, sale value and yield, useful banking and public-finance concepts.",
+      "exam_facts": "Tenors 91, 182 and 364 days; accepted face value Tk 6,500 crore; yields 8.0884%, 8.2699%, 8.3900%; calculated sale value Tk 6,266.36 crore.",
+      "exam_relevance": "Bank exams: money market, government securities and auction mechanics.",
+      "key_people": "Bangladesh Bank",
+      "figures": "Tenors 91, 182 and 364 days; accepted face value Tk 6,500 crore; yields 8.0884%, 8.2699%, 8.3900%; calculated sale value Tk 6,266.36 crore.",
+      "sources": [
+        {
+          "publication": "Bangladesh Bank",
+          "headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+          "date": "2026-11-16",
+          "url": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury"
+        }
+      ],
+      "one_liner": "Bangladesh Bank's auction table lists 91-day, 182-day and 364-day Treasury bills issued on 16 November 2026.",
+      "key_facts": [
+        {
+          "label": "Core facts",
+          "value": "Tenors 91, 182 and 364 days",
+          "original": "Tenors 91, 182 and 364 days"
+        }
+      ],
+      "what_happened": [
+        "Bangladesh Bank's auction table lists 91-day, 182-day and 364-day Treasury bills issued on 16 November 2026. Accepted face value totalled Tk 6,500 crore: Tk 3,000 crore, Tk 2,500 crore and Tk 1,000 crore respectively."
+      ],
+      "exam_qa": [
+        {
+          "q": "কোন তিন মেয়াদের ট্রেজারি বিল নিলামে ছিল?",
+          "a": "৯১, ১৮২ ও ৩৬৪ দিন।"
+        },
+        {
+          "q": "কোন মেয়াদের বিলে সর্বোচ্চ ফলনহার ছিল?",
+          "a": "৩৬৪ দিনের বিলে, ৮.৩৯০০%।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Tenors 91, 182 and 364 days — ______",
+          "answer": " accepted face value Tk 6,500 crore"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "bank",
+        "accepts",
+        "tk",
+        "6,500"
+      ],
+      "detail": "Bangladesh Bank's auction table lists 91-day, 182-day and 364-day Treasury bills issued on 16 November 2026. Accepted face value totalled Tk 6,500 crore: Tk 3,000 crore, Tk 2,500 crore and Tk 1,000 crore respectively. Cut-off yields were 8.0884%, 8.2699% and 8.3900%. The three official sale values sum to Tk 6,266.36 crore. Treasury bills are short-term government securities issued at a discount and redeemed at face value."
+    },
+    {
+      "id": "CA04",
+      "headline": "COP31 highlights climate transparency reporting",
+      "category": "International Affairs & Climate",
+      "event_date": "2026-11-17",
+      "article_date": "2026-11-17",
+      "summary": "COP31's high-level segment resumed in Antalya, Türkiye, on 17 November. The UNFCCC schedule listed a ministerial dialogue on transparency from 13:00 to 15:00. A synthesis update discussed the first 137 Biennial Transparency Reports (BTRs) and said 61 Parties, representing about 66% of 2020 global greenhouse-gas emissions, had reported progress against their nationally determined contributions. The Enhanced Transparency Framework informs the Global Stocktake. Reporting progress does not mean every country has achieved its targets.",
+      "why_it_matters": "BTR, NDC and Global Stocktake are recurring climate-diplomacy and international-affairs concepts.",
+      "exam_facts": "COP31: Antalya, Türkiye, 9-20 November 2026; 137 BTRs; 61 Parties; about 66% of 2020 global emissions.",
+      "exam_relevance": "BCS: international affairs, environment and climate diplomacy.",
+      "key_people": "UNFCCC Secretariat",
+      "figures": "COP31: Antalya, Türkiye, 9-20 November 2026; 137 BTRs; 61 Parties; about 66% of 2020 global emissions.",
+      "sources": [
+        {
+          "publication": "UNFCCC Secretariat",
+          "headline": "COP31 highlights climate transparency reporting",
+          "date": "2026-11-17",
+          "url": "https://unfccc.int/cop31"
+        }
+      ],
+      "one_liner": "COP31's high-level segment resumed in Antalya, Türkiye, on 17 November.",
+      "key_facts": [
+        {
+          "label": "Core facts",
+          "value": "COP31: Antalya, Türkiye, 9-20 November 2026",
+          "original": "COP31: Antalya, Türkiye, 9-20 November 2026"
+        }
+      ],
+      "what_happened": [
+        "COP31's high-level segment resumed in Antalya, Türkiye, on 17 November. The UNFCCC schedule listed a ministerial dialogue on transparency from 13:00 to 15:00."
+      ],
+      "exam_qa": [
+        {
+          "q": "COP31 কোথায় অনুষ্ঠিত হচ্ছে?",
+          "a": "আনতালিয়া, তুরস্কে।"
+        },
+        {
+          "q": "BTR-এর পূর্ণরূপ কী?",
+          "a": "Biennial Transparency Report।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "COP31: Antalya, Türkiye, 9-20 November 2026 — ______",
+          "answer": " 137 BTRs"
+        }
+      ],
+      "keywords": [
+        "cop31",
+        "highlights",
+        "climate",
+        "transparency",
+        "reporting"
+      ],
+      "detail": "COP31's high-level segment resumed in Antalya, Türkiye, on 17 November. The UNFCCC schedule listed a ministerial dialogue on transparency from 13:00 to 15:00. A synthesis update discussed the first 137 Biennial Transparency Reports (BTRs) and said 61 Parties, representing about 66% of 2020 global greenhouse-gas emissions, had reported progress against their nationally determined contributions. The Enhanced Transparency Framework informs the Global Stocktake. Reporting progress does not mean every country has achieved its targets."
+    },
+    {
+      "id": "CA05",
+      "headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "category": "Sports & World Test Championship",
+      "event_date": "2026-11-17",
+      "article_date": "2026-11-17",
+      "summary": "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs. At the Day 3 lunch snapshot on 17 November, South Africa were 386/7 after 90 overs, 14 runs behind. The match was scheduled for 15-19 November 2026 and forms part of the ICC World Test Championship 2025-27. This is a time-stamped live score, not the final result.",
+      "why_it_matters": "Use this as a time-stamped live score, not a completed match result.",
+      "exam_facts": "Bangladesh 400 all out; South Africa 386/7 after 90 overs; 14-run deficit; Wanderers Stadium; WTC 2025-27.",
+      "exam_relevance": "Sports current affairs and ICC World Test Championship.",
+      "key_people": "International Cricket Council",
+      "figures": "Bangladesh 400 all out; South Africa 386/7 after 90 overs; 14-run deficit; Wanderers Stadium; WTC 2025-27.",
+      "sources": [
+        {
+          "publication": "International Cricket Council",
+          "headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+          "date": "2026-11-17",
+          "url": "https://www.icc-cricket.com/fixtures-results?sf158609487=1"
+        }
+      ],
+      "one_liner": "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs.",
+      "key_facts": [
+        {
+          "label": "Core facts",
+          "value": "Bangladesh 400 all out",
+          "original": "Bangladesh 400 all out"
+        }
+      ],
+      "what_happened": [
+        "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs. At the Day 3 lunch snapshot on 17 November, South Africa were 386/7 after 90 overs, 14 runs behind."
+      ],
+      "exam_qa": [
+        {
+          "q": "বাংলাদেশ প্রথম ইনিংসে কত রান করেছিল?",
+          "a": "৪০০ রান।"
+        },
+        {
+          "q": "স্ন্যাপশটে দক্ষিণ আফ্রিকার স্কোর কত ছিল?",
+          "a": "৩৮৬/৭।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh 400 all out — ______",
+          "answer": " South Africa 386/7 after 90 overs"
+        }
+      ],
+      "keywords": [
+        "south",
+        "africa",
+        "386/7",
+        "at",
+        "day"
+      ],
+      "detail": "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs. At the Day 3 lunch snapshot on 17 November, South Africa were 386/7 after 90 overs, 14 runs behind. The match was scheduled for 15-19 November 2026 and forms part of the ICC World Test Championship 2025-27. This is a time-stamped live score, not the final result."
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "amendment",
+      "IPA": "",
+      "Bangla phonetic": "অ্যামেন্ডমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংশোধন",
+      "English definition": "A formal change to a law.",
+      "Synonyms": "revision; modification",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "legislative amendment",
+      "Original example": "The bill proposes an amendment to Section 64.",
+      "Newspaper context note": "17 November official-source study edition: amendment",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "tax period",
+      "IPA": "",
+      "Bangla phonetic": "ট্যাক্স পিরিয়ড",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কর মেয়াদ",
+      "English definition": "A period for which tax is calculated.",
+      "Synonyms": "accounting period",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "end of a tax period",
+      "Original example": "A return is due after each tax period.",
+      "Newspaper context note": "17 November official-source study edition: tax period",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "input tax credit",
+      "IPA": "",
+      "Bangla phonetic": "ইনপুট ট্যাক্স ক্রেডিট",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উপকরণে পরিশোধিত VAT সমন্বয়",
+      "English definition": "Eligible VAT paid on inputs credited against tax due.",
+      "Synonyms": "input credit; VAT credit",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "claim input tax credit",
+      "Original example": "A firm may claim input tax credit.",
+      "Newspaper context note": "17 November official-source study edition: input tax credit",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "ordinance",
+      "IPA": "",
+      "Bangla phonetic": "অর্ডিন্যান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অধ্যাদেশ",
+      "English definition": "A legislative instrument issued under constitutional authority.",
+      "Synonyms": "decree; order",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "promulgate an ordinance",
+      "Original example": "The bill followed an ordinance.",
+      "Newspaper context note": "17 November official-source study edition: ordinance",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "enactment",
+      "IPA": "",
+      "Bangla phonetic": "ইনঅ্যাক্টমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আইন প্রণয়ন",
+      "English definition": "The process of making a bill into law.",
+      "Synonyms": "passage; legislation",
+      "Antonyms": "repeal",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "enactment of a law",
+      "Original example": "Introduction is not enactment.",
+      "Newspaper context note": "17 November official-source study edition: enactment",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "resignation",
+      "IPA": "",
+      "Bangla phonetic": "রেজিগনেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পদত্যাগ",
+      "English definition": "The formal act of giving up an office.",
+      "Synonyms": "stepping down",
+      "Antonyms": "appointment",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "submit a resignation",
+      "Original example": "The Gazette recorded the resignation.",
+      "Newspaper context note": "17 November official-source study edition: resignation",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "vacancy",
+      "IPA": "",
+      "Bangla phonetic": "ভেইক্যান্সি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "শূন্য আসন",
+      "English definition": "An elected position that is unoccupied.",
+      "Synonyms": "opening; vacant seat",
+      "Antonyms": "occupancy",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "fill a vacancy",
+      "Original example": "A by-election may fill the vacancy.",
+      "Newspaper context note": "17 November official-source study edition: vacancy",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "constituency",
+      "IPA": "",
+      "Bangla phonetic": "কনস্টিটুয়েন্সি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নির্বাচনী এলাকা",
+      "English definition": "An area represented by an elected member.",
+      "Synonyms": "electoral district",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "parliamentary constituency",
+      "Original example": "Kishoreganj-3 is the named constituency.",
+      "Newspaper context note": "17 November official-source study edition: constituency",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "by-election",
+      "IPA": "",
+      "Bangla phonetic": "বাই-ইলেকশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উপনির্বাচন",
+      "English definition": "An election to fill a seat between general elections.",
+      "Synonyms": "special election",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "hold a by-election",
+      "Original example": "A by-election may be required.",
+      "Newspaper context note": "17 November official-source study edition: by-election",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "proviso",
+      "IPA": "",
+      "Bangla phonetic": "প্রোভাইসো",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "শর্তসাপেক্ষ বিধান",
+      "English definition": "A clause qualifying a general rule.",
+      "Synonyms": "condition; qualification",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "subject to a proviso",
+      "Original example": "The deadline is subject to a proviso.",
+      "Newspaper context note": "17 November official-source study edition: proviso",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "Treasury bill",
+      "IPA": "",
+      "Bangla phonetic": "ট্রেজারি বিল",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "স্বল্পমেয়াদি সরকারি ঋণপত্র",
+      "English definition": "A short-term government debt security.",
+      "Synonyms": "T-bill",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "Treasury-bill auction",
+      "Original example": "Banks bid for Treasury bills.",
+      "Newspaper context note": "17 November official-source study edition: Treasury bill",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "face value",
+      "IPA": "",
+      "Bangla phonetic": "ফেস ভ্যালু",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অভিহিত মূল্য",
+      "English definition": "The nominal amount printed on a financial instrument.",
+      "Synonyms": "par value",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "face value of a bill",
+      "Original example": "The accepted face value was Tk 6,500 crore.",
+      "Newspaper context note": "17 November official-source study edition: face value",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "cut-off yield",
+      "IPA": "",
+      "Bangla phonetic": "কাট-অফ ইয়িল্ড",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "কাট-অফ ফলনহার",
+      "English definition": "Yield corresponding to the cut-off auction price.",
+      "Synonyms": "accepted yield",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "highest cut-off yield",
+      "Original example": "The 364-day bill had the highest cut-off yield.",
+      "Newspaper context note": "17 November official-source study edition: cut-off yield",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/cop31",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "discount",
+      "IPA": "",
+      "Bangla phonetic": "ডিসকাউন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ছাড়মূল্য",
+      "English definition": "The amount below face value at which an instrument is issued.",
+      "Synonyms": "reduction; markdown",
+      "Antonyms": "premium",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "issue at a discount",
+      "Original example": "Treasury bills are issued at a discount.",
+      "Newspaper context note": "17 November official-source study edition: discount",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/cop31",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "bid acceptance",
+      "IPA": "",
+      "Bangla phonetic": "বিড অ্যাকসেপ্টেন্স",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দরপ্রস্তাব গ্রহণ",
+      "English definition": "The acceptance of a bidder's offer in a securities auction.",
+      "Synonyms": "accepted bid; successful bid",
+      "Antonyms": "rejected bid",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "accept a bid; bid acceptance rate",
+      "Original example": "The auction report lists the number of accepted bids for each Treasury-bill tenor.",
+      "Newspaper context note": "Bangladesh Bank's 16 November 2026 Treasury-bill auction results.",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/cop31",
+      "BCS / Bank relevance": "Bank exams: auction procedure and government securities.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "biennial",
+      "IPA": "",
+      "Bangla phonetic": "বাইএনিয়াল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "দ্বিবার্ষিক",
+      "English definition": "Occurring once every two years.",
+      "Synonyms": "two-yearly",
+      "Antonyms": "annual",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "biennial report",
+      "Original example": "Parties submit biennial reports.",
+      "Newspaper context note": "17 November official-source study edition: biennial",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/cop31",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "emissions",
+      "IPA": "",
+      "Bangla phonetic": "এমিশনস",
+      "Part of speech / type": "Plural noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নির্গমন",
+      "English definition": "Gases or substances released into the atmosphere.",
+      "Synonyms": "releases; discharges",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "greenhouse-gas emissions",
+      "Original example": "Countries report greenhouse-gas emissions.",
+      "Newspaper context note": "17 November official-source study edition: emissions",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "mitigation",
+      "IPA": "",
+      "Bangla phonetic": "মিটিগেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রশমন",
+      "English definition": "Action to reduce the causes or severity of climate change.",
+      "Synonyms": "reduction; alleviation",
+      "Antonyms": "exacerbation",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "climate mitigation",
+      "Original example": "Mitigation measures reduce emissions.",
+      "Newspaper context note": "17 November official-source study edition: mitigation",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "stocktake",
+      "IPA": "",
+      "Bangla phonetic": "স্টকটেক",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অগ্রগতি পর্যালোচনা",
+      "English definition": "A comprehensive assessment of progress.",
+      "Synonyms": "assessment; review",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "Global Stocktake",
+      "Original example": "The Global Stocktake assesses climate progress.",
+      "Newspaper context note": "17 November official-source study edition: stocktake",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "innings",
+      "IPA": "",
+      "Bangla phonetic": "ইনিংস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ইনিংস; ব্যাটিং পর্ব",
+      "English definition": "A team's turn to bat in cricket.",
+      "Synonyms": "batting turn",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "first innings",
+      "Original example": "Bangladesh scored 400 in the first innings.",
+      "Newspaper context note": "17 November official-source study edition: innings",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "Medium"
+    }
+  ],
+  "revision_words": [
+    {
+      "Headword / phrase": "amendment",
+      "IPA": "",
+      "Bangla phonetic": "অ্যামেন্ডমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংশোধন",
+      "English definition": "A formal change to a law.",
+      "Synonyms": "revision; modification",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "legislative amendment",
+      "Original example": "The bill proposes an amendment to Section 64.",
+      "Newspaper context note": "17 November official-source study edition: amendment",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "tax period",
+      "IPA": "",
+      "Bangla phonetic": "ট্যাক্স পিরিয়ড",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কর মেয়াদ",
+      "English definition": "A period for which tax is calculated.",
+      "Synonyms": "accounting period",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "end of a tax period",
+      "Original example": "A return is due after each tax period.",
+      "Newspaper context note": "17 November official-source study edition: tax period",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "input tax credit",
+      "IPA": "",
+      "Bangla phonetic": "ইনপুট ট্যাক্স ক্রেডিট",
+      "Part of speech / type": "Noun phrase",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উপকরণে পরিশোধিত VAT সমন্বয়",
+      "English definition": "Eligible VAT paid on inputs credited against tax due.",
+      "Synonyms": "input credit; VAT credit",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "claim input tax credit",
+      "Original example": "A firm may claim input tax credit.",
+      "Newspaper context note": "17 November official-source study edition: input tax credit",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "ordinance",
+      "IPA": "",
+      "Bangla phonetic": "অর্ডিন্যান্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অধ্যাদেশ",
+      "English definition": "A legislative instrument issued under constitutional authority.",
+      "Synonyms": "decree; order",
+      "Antonyms": "—",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "promulgate an ordinance",
+      "Original example": "The bill followed an ordinance.",
+      "Newspaper context note": "17 November official-source study edition: ordinance",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "enactment",
+      "IPA": "",
+      "Bangla phonetic": "ইনঅ্যাক্টমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আইন প্রণয়ন",
+      "English definition": "The process of making a bill into law.",
+      "Synonyms": "passage; legislation",
+      "Antonyms": "repeal",
+      "Word family / derivatives": "",
+      "Collocations / patterns": "enactment of a law",
+      "Original example": "Introduction is not enactment.",
+      "Newspaper context note": "17 November official-source study edition: enactment",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "BCS / Bank relevance": "BCS/Bank vocabulary in law, constitution, finance, climate and sports.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "within 15 days",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "১৫ দিনের মধ্যে",
+      "English explanation": "No later than 15 days after an event.",
+      "Usage / register": "Formal legal language.",
+      "Original example 1": "The bill proposes filing within 15 days after each tax period.",
+      "Original example 2": "The application must arrive within 15 days of notice.",
+      "Common collocations / grammar pattern": "within 15 days of; within 15 days after",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "subject to",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "সাপেক্ষে; অধীন",
+      "English explanation": "Dependent on a condition or qualification.",
+      "Usage / register": "Formal and legal.",
+      "Original example 1": "The deadline is subject to the holiday provision.",
+      "Original example 2": "The rule applies subject to the Constitution.",
+      "Common collocations / grammar pattern": "subject to approval; subject to a proviso",
+      "Source publication": "Bangladesh Government Press / National Parliament",
+      "Article headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "become vacant",
+      "Type": "Verb phrase",
+      "Bangla meaning": "শূন্য হওয়া",
+      "English explanation": "To become unoccupied, especially an elected seat.",
+      "Usage / register": "Formal political reporting.",
+      "Original example 1": "The seat became vacant on 15 November.",
+      "Original example 2": "An office may become vacant after resignation.",
+      "Common collocations / grammar pattern": "seat becomes vacant; position becomes vacant",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "written resignation",
+      "Type": "Noun phrase",
+      "Bangla meaning": "লিখিত পদত্যাগপত্র",
+      "English explanation": "A formal written notice giving up an office.",
+      "Usage / register": "Legal and administrative.",
+      "Original example 1": "Article 67(2) refers to a written resignation.",
+      "Original example 2": "A written resignation must reach the proper authority.",
+      "Common collocations / grammar pattern": "submit a written resignation; resignation to the Speaker",
+      "Source publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "Article headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "issued at a discount",
+      "Type": "Passive phrase",
+      "Bangla meaning": "ছাড়মূল্যে ইস্যু করা",
+      "English explanation": "Sold for less than the amount payable at maturity.",
+      "Usage / register": "Financial.",
+      "Original example 1": "Treasury bills are issued at a discount.",
+      "Original example 2": "The instrument was issued at a discount.",
+      "Common collocations / grammar pattern": "issue at a discount; discount to face value",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "cut-off yield",
+      "Type": "Noun phrase",
+      "Bangla meaning": "কাট-অফ ফলনহার",
+      "English explanation": "Yield corresponding to the cut-off price accepted in an auction.",
+      "Usage / register": "Financial.",
+      "Original example 1": "The 364-day bill recorded a cut-off yield of 8.3900%.",
+      "Original example 2": "Investors compared cut-off yields across tenors.",
+      "Common collocations / grammar pattern": "cut-off yield; highest cut-off yield",
+      "Source publication": "Bangladesh Bank",
+      "Article headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "Biennial Transparency Report",
+      "Type": "Noun phrase",
+      "Bangla meaning": "দ্বিবার্ষিক স্বচ্ছতা প্রতিবেদন",
+      "English explanation": "A report submitted every two years under the Paris Agreement framework.",
+      "Usage / register": "Climate policy.",
+      "Original example 1": "A Biennial Transparency Report provides climate information.",
+      "Original example 2": "The synthesis reviewed the first 137 reports.",
+      "Common collocations / grammar pattern": "submit a BTR; BTR synthesis report",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/biennial-transparency-reports",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "Nationally Determined Contribution",
+      "Type": "Noun phrase",
+      "Bangla meaning": "জাতীয়ভাবে নির্ধারিত অবদান",
+      "English explanation": "A country's climate action plan under the Paris Agreement.",
+      "Usage / register": "Climate policy.",
+      "Original example 1": "Each Party communicates its Nationally Determined Contribution.",
+      "Original example 2": "The report discusses progress against NDC targets.",
+      "Common collocations / grammar pattern": "implement an NDC; NDC target",
+      "Source publication": "UNFCCC Secretariat",
+      "Article headline": "COP31 highlights climate transparency reporting",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "first innings",
+      "Type": "Noun phrase",
+      "Bangla meaning": "প্রথম ইনিংস",
+      "English explanation": "The first turn at batting in a cricket match.",
+      "Usage / register": "Sports.",
+      "Original example 1": "Bangladesh scored 400 in the first innings.",
+      "Original example 2": "The first-innings total can shape a match.",
+      "Common collocations / grammar pattern": "first-innings total; first-innings lead",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    },
+    {
+      "Phrase": "at the lunch interval",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "মধ্যাহ্ন বিরতিতে",
+      "English explanation": "At the scheduled lunch break during a day's play.",
+      "Usage / register": "Sports.",
+      "Original example 1": "South Africa were 386/7 at the lunch interval.",
+      "Original example 2": "The score was checked at the lunch interval.",
+      "Common collocations / grammar pattern": "at lunch; at the tea interval",
+      "Source publication": "International Cricket Council",
+      "Article headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://www.icc-cricket.com/fixtures-results?sf158609487=1",
+      "Exam value": "Useful for BCS/Bank English comprehension and formal writing."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Taxation",
+      "question": "Which section does Bill No. 114/2026 seek to amend?",
+      "options": {
+        "A": "52",
+        "B": "64",
+        "C": "78",
+        "D": "93"
+      },
+      "correct": "B",
+      "explanation": "The bill proposes changes to Section 64.",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Taxation",
+      "question": "What is the proposed ordinary VAT-return deadline?",
+      "options": {
+        "A": "7 days",
+        "B": "10 days",
+        "C": "15 days",
+        "D": "30 days"
+      },
+      "correct": "C",
+      "explanation": "The proposed ordinary deadline is 15 days.",
+      "source": "CA01"
+    },
+    {
+      "no": 3,
+      "section": "Taxation",
+      "question": "Which filing period is proposed for specified bodies and zero-return filers?",
+      "options": {
+        "A": "Up to 20 days",
+        "B": "45 days",
+        "C": "60 days",
+        "D": "90 days"
+      },
+      "correct": "A",
+      "explanation": "The bill provides up to 20 days for specified categories.",
+      "source": "CA01"
+    },
+    {
+      "no": 4,
+      "section": "Taxation",
+      "question": "What was the bill's status at the research cut-off?",
+      "options": {
+        "A": "Rejected",
+        "B": "Enacted",
+        "C": "Withdrawn",
+        "D": "Introduced; enactment not verified"
+      },
+      "correct": "D",
+      "explanation": "Introduction was verified; enactment was not.",
+      "source": "CA01"
+    },
+    {
+      "no": 5,
+      "section": "Taxation",
+      "question": "Which ordinance is linked to the VAT bill?",
+      "options": {
+        "A": "18 of 2025",
+        "B": "38 of 2026",
+        "C": "77 of 2026",
+        "D": "64 of 2012"
+      },
+      "correct": "B",
+      "explanation": "The explanatory material refers to Ordinance No. 38 of 2026.",
+      "source": "CA01"
+    },
+    {
+      "no": 6,
+      "section": "Taxation",
+      "question": "If day 15 is a public holiday, when would filing be due?",
+      "options": {
+        "A": "Previous day",
+        "B": "After 30 days",
+        "C": "Year-end",
+        "D": "Next working day"
+      },
+      "correct": "D",
+      "explanation": "The proposal moves the deadline to the next working day.",
+      "source": "CA01"
+    },
+    {
+      "no": 7,
+      "section": "Constitution",
+      "question": "Which article governs an MP's written resignation?",
+      "options": {
+        "A": "67(2)",
+        "B": "119",
+        "C": "123(4)",
+        "D": "148"
+      },
+      "correct": "A",
+      "explanation": "Article 67(2) governs resignation.",
+      "source": "CA02"
+    },
+    {
+      "no": 8,
+      "section": "Constitution",
+      "question": "Which constituency was declared vacant?",
+      "options": {
+        "A": "Kishoreganj-1",
+        "B": "Kishoreganj-2",
+        "C": "Kishoreganj-4",
+        "D": "Kishoreganj-3"
+      },
+      "correct": "D",
+      "explanation": "The Gazette identifies Kishoreganj-3.",
+      "source": "CA02"
+    },
+    {
+      "no": 9,
+      "section": "Constitution",
+      "question": "From which date did the seat become vacant?",
+      "options": {
+        "A": "17 November",
+        "B": "15 November",
+        "C": "16 November",
+        "D": "1 December"
+      },
+      "correct": "B",
+      "explanation": "The Gazette records vacancy from 15 November.",
+      "source": "CA02"
+    },
+    {
+      "no": 10,
+      "section": "Constitution",
+      "question": "Which article provides the ordinary 90-day period?",
+      "options": {
+        "A": "67(2)",
+        "B": "119",
+        "C": "123(4)",
+        "D": "93(1)"
+      },
+      "correct": "C",
+      "explanation": "Article 123(4) provides the ordinary period, subject to its proviso.",
+      "source": "CA02"
+    },
+    {
+      "no": 11,
+      "section": "Constitution",
+      "question": "Which institution conducts parliamentary elections?",
+      "options": {
+        "A": "Election Commission",
+        "B": "Cabinet Division",
+        "C": "Public Service Commission",
+        "D": "Parliament Secretariat"
+      },
+      "correct": "A",
+      "explanation": "Article 119 assigns election functions to the Election Commission.",
+      "source": "CA02"
+    },
+    {
+      "no": 12,
+      "section": "Constitution",
+      "question": "Who was named as the member who resigned?",
+      "options": {
+        "A": "Dr Muhammad Osman Faruk",
+        "B": "Kayser Kamal",
+        "C": "Amir Khosru",
+        "D": "Md Asaduzzaman"
+      },
+      "correct": "A",
+      "explanation": "The Gazette names Dr Muhammad Osman Faruk.",
+      "source": "CA02"
+    },
+    {
+      "no": 13,
+      "section": "Banking",
+      "question": "Which T-Bill tenors appeared in the auction table?",
+      "options": {
+        "A": "30, 60, 90 days",
+        "B": "90, 180, 360 days",
+        "C": "91, 182, 364 days",
+        "D": "1, 2, 5 years"
+      },
+      "correct": "C",
+      "explanation": "The listed tenors were 91, 182 and 364 days.",
+      "source": "CA03"
+    },
+    {
+      "no": 14,
+      "section": "Banking",
+      "question": "What was the total accepted face value?",
+      "options": {
+        "A": "Tk 5,000 crore",
+        "B": "Tk 6,500 crore",
+        "C": "Tk 7,500 crore",
+        "D": "Tk 10,000 crore"
+      },
+      "correct": "B",
+      "explanation": "Accepted face values totalled Tk 6,500 crore.",
+      "source": "CA03"
+    },
+    {
+      "no": 15,
+      "section": "Banking",
+      "question": "Which tenor had the highest cut-off yield?",
+      "options": {
+        "A": "91-day",
+        "B": "182-day",
+        "C": "14-day",
+        "D": "364-day"
+      },
+      "correct": "D",
+      "explanation": "The 364-day bill's yield was 8.3900%.",
+      "source": "CA03"
+    },
+    {
+      "no": 16,
+      "section": "Banking",
+      "question": "What was the 91-day bill's cut-off yield?",
+      "options": {
+        "A": "8.0884%",
+        "B": "8.2699%",
+        "C": "8.3900%",
+        "D": "9.0000%"
+      },
+      "correct": "A",
+      "explanation": "Bangladesh Bank lists 8.0884%.",
+      "source": "CA03"
+    },
+    {
+      "no": 17,
+      "section": "Banking",
+      "question": "How are Treasury bills normally issued?",
+      "options": {
+        "A": "With monthly coupons",
+        "B": "At a discount, redeemed at face value",
+        "C": "At face value, redeemed at discount",
+        "D": "As ordinary shares"
+      },
+      "correct": "B",
+      "explanation": "T-Bills are issued below face value and redeemed at face value.",
+      "source": "CA03"
+    },
+    {
+      "no": 18,
+      "section": "Banking",
+      "question": "What was the calculated total sale value?",
+      "options": {
+        "A": "Tk 6,500 crore",
+        "B": "Tk 6,266.36 crore",
+        "C": "Tk 5,941.09 crore",
+        "D": "Tk 7,000 crore"
+      },
+      "correct": "B",
+      "explanation": "The three official sale values sum to Tk 6,266.36 crore.",
+      "source": "CA03"
+    },
+    {
+      "no": 19,
+      "section": "International Affairs",
+      "question": "Where is COP31 being held?",
+      "options": {
+        "A": "Bonn",
+        "B": "Paris",
+        "C": "Antalya, Türkiye",
+        "D": "Dubai"
+      },
+      "correct": "C",
+      "explanation": "COP31 is taking place in Antalya, Türkiye.",
+      "source": "CA04"
+    },
+    {
+      "no": 20,
+      "section": "International Affairs",
+      "question": "What does BTR stand for?",
+      "options": {
+        "A": "Biennial Transparency Report",
+        "B": "Bilateral Trade Review",
+        "C": "Basic Target Register",
+        "D": "Biennial Tax Return"
+      },
+      "correct": "A",
+      "explanation": "BTR means Biennial Transparency Report.",
+      "source": "CA04"
+    },
+    {
+      "no": 21,
+      "section": "International Affairs",
+      "question": "How many first BTRs were discussed in the synthesis update?",
+      "options": {
+        "A": "61",
+        "B": "100",
+        "C": "137",
+        "D": "202"
+      },
+      "correct": "C",
+      "explanation": "The update discussed the first 137 BTRs.",
+      "source": "CA04"
+    },
+    {
+      "no": 22,
+      "section": "International Affairs",
+      "question": "How many Parties were reported as having made progress?",
+      "options": {
+        "A": "37",
+        "B": "61",
+        "C": "66",
+        "D": "137"
+      },
+      "correct": "B",
+      "explanation": "The update referred to 61 Parties.",
+      "source": "CA04"
+    },
+    {
+      "no": 23,
+      "section": "International Affairs",
+      "question": "What does the Global Stocktake assess?",
+      "options": {
+        "A": "Annual GDP only",
+        "B": "Election results",
+        "C": "Trade tariffs",
+        "D": "Collective progress toward Paris Agreement goals"
+      },
+      "correct": "D",
+      "explanation": "It assesses collective progress under the Paris Agreement.",
+      "source": "CA04"
+    },
+    {
+      "no": 24,
+      "section": "Sports",
+      "question": "What was Bangladesh's first-innings total?",
+      "options": {
+        "A": "386",
+        "B": "400",
+        "C": "414",
+        "D": "420"
+      },
+      "correct": "B",
+      "explanation": "Bangladesh were all out for 400.",
+      "source": "CA05"
+    },
+    {
+      "no": 25,
+      "section": "Sports",
+      "question": "What was South Africa's score at the Day 3 lunch snapshot?",
+      "options": {
+        "A": "386/7",
+        "B": "400/7",
+        "C": "386/5",
+        "D": "372/9"
+      },
+      "correct": "A",
+      "explanation": "The ICC listing showed 386/7 after 90 overs.",
+      "source": "CA05"
+    }
+  ],
+  "sources": [
+    {
+      "publication": "Bangladesh Government Press / National Parliament",
+      "headline": "VAT amendment bill proposes 15-day VAT return deadline",
+      "date": "2026-11-16",
+      "url": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf"
+    },
+    {
+      "publication": "Bangladesh Government Press / National Parliament Secretariat",
+      "headline": "Kishoreganj-3 seat declared vacant after MP resignation",
+      "date": "2026-11-17",
+      "url": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf"
+    },
+    {
+      "publication": "Bangladesh Bank",
+      "headline": "Bangladesh Bank accepts Tk 6,500 crore in Treasury bills",
+      "date": "2026-11-16",
+      "url": "https://www.bb.org.bd/en/index.php/monetaryactivity/treasury"
+    },
+    {
+      "publication": "UNFCCC Secretariat",
+      "headline": "COP31 highlights climate transparency reporting",
+      "date": "2026-11-17",
+      "url": "https://unfccc.int/cop31"
+    },
+    {
+      "publication": "International Cricket Council",
+      "headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
+      "date": "2026-11-17",
+      "url": "https://www.icc-cricket.com/fixtures-results?sf158609487=1"
+    }
+  ],
+  "approved_by": "User-authorised replacement; editorial content prepared by ChatGPT",
+  "approval_notes": "Five-story limited replacement based on official and institutional records only. Newspaper article bodies were not collected because publisher permissions were not enabled. v2 engine was not run; CA01-CA05 are edition-local display IDs, not original engine IDs. Archive-only notices excluded."
+}
