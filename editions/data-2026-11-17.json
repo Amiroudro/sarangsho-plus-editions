@@ -14,7 +14,7 @@
     {
       "id": "CA01",
       "headline": "VAT amendment bill proposes 15-day VAT return deadline",
-      "category": "Economy & Public Finance",
+      "category": "Economy & Banking",
       "event_date": "2026-11-16",
       "article_date": "2026-11-16",
       "summary": "Parliament introduced Bill No. 114/2026 on 16 November to amend Section 64 of the Value Added Tax and Supplementary Duty Act, 2012. It proposes filing within 15 days after each tax period for most registered or registrable persons. Government bodies, autonomous bodies, banks, insurers and zero-return filers would have up to 20 days. If day 15 is a public holiday, filing moves to the next working day. The explanatory statement argues quarterly filing caused revenue and administrative difficulties; this is the government's stated rationale, not independently measured impact. Enactment was not verified at the research cut-off.",
@@ -31,7 +31,7 @@
           "url": "https://www.dpp.gov.bd/upload_file/gazettes/63464_74696.pdf"
         }
       ],
-      "one_liner": "Parliament introduced Bill No.",
+      "one_liner": "The VAT bill proposes 15-day returns for most filers and 20 days for specified institutions.",
       "key_facts": [
         {
           "label": "Core facts",
@@ -70,7 +70,7 @@
     {
       "id": "CA02",
       "headline": "Kishoreganj-3 seat declared vacant after MP resignation",
-      "category": "Constitution & Elections",
+      "category": "Politics",
       "event_date": "2026-11-15",
       "article_date": "2026-11-17",
       "summary": "A 17 November extraordinary Gazette says seat No. 164, Kishoreganj-3, became vacant from 15 November 2026 after Dr Muhammad Osman Faruk resigned. It cites Article 67(2): a member's written resignation takes effect when received by the Speaker, or by the Deputy Speaker in specified circumstances. Article 123(4) provides an ordinary 90-day period to fill a vacancy not caused by dissolution of Parliament, subject to its proviso.",
@@ -87,7 +87,7 @@
           "url": "https://www.dpp.gov.bd/upload_file/gazettes/63465_99290.pdf"
         }
       ],
-      "one_liner": "A 17 November extraordinary Gazette says seat No.",
+      "one_liner": "A Gazette records the Kishoreganj-3 seat as vacant after MP Osman Faruk's resignation.",
       "key_facts": [
         {
           "label": "Core facts",
@@ -238,7 +238,7 @@
     {
       "id": "CA05",
       "headline": "South Africa 386/7 at Day 3 lunch snapshot against Bangladesh",
-      "category": "Sports & World Test Championship",
+      "category": "World",
       "event_date": "2026-11-17",
       "article_date": "2026-11-17",
       "summary": "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs. At the Day 3 lunch snapshot on 17 November, South Africa were 386/7 after 90 overs, 14 runs behind. The match was scheduled for 15-19 November 2026 and forms part of the ICC World Test Championship 2025-27. This is a time-stamped live score, not the final result.",
@@ -255,7 +255,7 @@
           "url": "https://www.icc-cricket.com/fixtures-results?sf158609487=1"
         }
       ],
-      "one_liner": "The ICC live listing for the first Test at Johannesburg's Wanderers Stadium showed Bangladesh all out for 400 in 101.2 overs.",
+      "one_liner": "At Day 3 lunch, South Africa were 386/7, 14 runs behind Bangladesh's first-innings 400.",
       "key_facts": [
         {
           "label": "Core facts",
@@ -599,7 +599,7 @@
       "Antonyms": "rejected bid",
       "Word family / derivatives": "",
       "Collocations / patterns": "accept a bid; bid acceptance rate",
-      "Original example": "The auction report lists the number of accepted bids for each Treasury-bill tenor.",
+      "Original example": "Bid acceptance determines which offers are accepted in a Treasury-bill auction.",
       "Newspaper context note": "Bangladesh Bank's 16 November 2026 Treasury-bill auction results.",
       "Source publication": "UNFCCC Secretariat",
       "Article headline": "COP31 highlights climate transparency reporting",
@@ -976,7 +976,7 @@
   "mcqs": [
     {
       "no": 1,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "Which section does Bill No. 114/2026 seek to amend?",
       "options": {
         "A": "52",
@@ -986,11 +986,12 @@
       },
       "correct": "B",
       "explanation": "The bill proposes changes to Section 64.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 2,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "What is the proposed ordinary VAT-return deadline?",
       "options": {
         "A": "7 days",
@@ -1000,11 +1001,12 @@
       },
       "correct": "C",
       "explanation": "The proposed ordinary deadline is 15 days.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 3,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "Which filing period is proposed for specified bodies and zero-return filers?",
       "options": {
         "A": "Up to 20 days",
@@ -1014,11 +1016,12 @@
       },
       "correct": "A",
       "explanation": "The bill provides up to 20 days for specified categories.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 4,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "What was the bill's status at the research cut-off?",
       "options": {
         "A": "Rejected",
@@ -1028,11 +1031,12 @@
       },
       "correct": "D",
       "explanation": "Introduction was verified; enactment was not.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 5,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "Which ordinance is linked to the VAT bill?",
       "options": {
         "A": "18 of 2025",
@@ -1042,11 +1046,12 @@
       },
       "correct": "B",
       "explanation": "The explanatory material refers to Ordinance No. 38 of 2026.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 6,
-      "section": "Taxation",
+      "section": "Current Affairs",
       "question": "If day 15 is a public holiday, when would filing be due?",
       "options": {
         "A": "Previous day",
@@ -1056,11 +1061,12 @@
       },
       "correct": "D",
       "explanation": "The proposal moves the deadline to the next working day.",
-      "source": "CA01"
+      "source": "CA01",
+      "topic": "Taxation"
     },
     {
       "no": 7,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "Which article governs an MP's written resignation?",
       "options": {
         "A": "67(2)",
@@ -1070,11 +1076,12 @@
       },
       "correct": "A",
       "explanation": "Article 67(2) governs resignation.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 8,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "Which constituency was declared vacant?",
       "options": {
         "A": "Kishoreganj-1",
@@ -1084,11 +1091,12 @@
       },
       "correct": "D",
       "explanation": "The Gazette identifies Kishoreganj-3.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 9,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "From which date did the seat become vacant?",
       "options": {
         "A": "17 November",
@@ -1098,11 +1106,12 @@
       },
       "correct": "B",
       "explanation": "The Gazette records vacancy from 15 November.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 10,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "Which article provides the ordinary 90-day period?",
       "options": {
         "A": "67(2)",
@@ -1112,11 +1121,12 @@
       },
       "correct": "C",
       "explanation": "Article 123(4) provides the ordinary period, subject to its proviso.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 11,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "Which institution conducts parliamentary elections?",
       "options": {
         "A": "Election Commission",
@@ -1126,11 +1136,12 @@
       },
       "correct": "A",
       "explanation": "Article 119 assigns election functions to the Election Commission.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 12,
-      "section": "Constitution",
+      "section": "Current Affairs",
       "question": "Who was named as the member who resigned?",
       "options": {
         "A": "Dr Muhammad Osman Faruk",
@@ -1140,11 +1151,12 @@
       },
       "correct": "A",
       "explanation": "The Gazette names Dr Muhammad Osman Faruk.",
-      "source": "CA02"
+      "source": "CA02",
+      "topic": "Constitution"
     },
     {
       "no": 13,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "Which T-Bill tenors appeared in the auction table?",
       "options": {
         "A": "30, 60, 90 days",
@@ -1154,11 +1166,12 @@
       },
       "correct": "C",
       "explanation": "The listed tenors were 91, 182 and 364 days.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 14,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "What was the total accepted face value?",
       "options": {
         "A": "Tk 5,000 crore",
@@ -1168,11 +1181,12 @@
       },
       "correct": "B",
       "explanation": "Accepted face values totalled Tk 6,500 crore.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 15,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "Which tenor had the highest cut-off yield?",
       "options": {
         "A": "91-day",
@@ -1182,11 +1196,12 @@
       },
       "correct": "D",
       "explanation": "The 364-day bill's yield was 8.3900%.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 16,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "What was the 91-day bill's cut-off yield?",
       "options": {
         "A": "8.0884%",
@@ -1196,11 +1211,12 @@
       },
       "correct": "A",
       "explanation": "Bangladesh Bank lists 8.0884%.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 17,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "How are Treasury bills normally issued?",
       "options": {
         "A": "With monthly coupons",
@@ -1210,11 +1226,12 @@
       },
       "correct": "B",
       "explanation": "T-Bills are issued below face value and redeemed at face value.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 18,
-      "section": "Banking",
+      "section": "Current Affairs",
       "question": "What was the calculated total sale value?",
       "options": {
         "A": "Tk 6,500 crore",
@@ -1224,11 +1241,12 @@
       },
       "correct": "B",
       "explanation": "The three official sale values sum to Tk 6,266.36 crore.",
-      "source": "CA03"
+      "source": "CA03",
+      "topic": "Banking"
     },
     {
       "no": 19,
-      "section": "International Affairs",
+      "section": "Current Affairs",
       "question": "Where is COP31 being held?",
       "options": {
         "A": "Bonn",
@@ -1238,11 +1256,12 @@
       },
       "correct": "C",
       "explanation": "COP31 is taking place in Antalya, Türkiye.",
-      "source": "CA04"
+      "source": "CA04",
+      "topic": "International Affairs"
     },
     {
       "no": 20,
-      "section": "International Affairs",
+      "section": "Current Affairs",
       "question": "What does BTR stand for?",
       "options": {
         "A": "Biennial Transparency Report",
@@ -1252,11 +1271,12 @@
       },
       "correct": "A",
       "explanation": "BTR means Biennial Transparency Report.",
-      "source": "CA04"
+      "source": "CA04",
+      "topic": "International Affairs"
     },
     {
       "no": 21,
-      "section": "International Affairs",
+      "section": "Current Affairs",
       "question": "How many first BTRs were discussed in the synthesis update?",
       "options": {
         "A": "61",
@@ -1266,11 +1286,12 @@
       },
       "correct": "C",
       "explanation": "The update discussed the first 137 BTRs.",
-      "source": "CA04"
+      "source": "CA04",
+      "topic": "International Affairs"
     },
     {
       "no": 22,
-      "section": "International Affairs",
+      "section": "Current Affairs",
       "question": "How many Parties were reported as having made progress?",
       "options": {
         "A": "37",
@@ -1280,11 +1301,12 @@
       },
       "correct": "B",
       "explanation": "The update referred to 61 Parties.",
-      "source": "CA04"
+      "source": "CA04",
+      "topic": "International Affairs"
     },
     {
       "no": 23,
-      "section": "International Affairs",
+      "section": "Current Affairs",
       "question": "What does the Global Stocktake assess?",
       "options": {
         "A": "Annual GDP only",
@@ -1294,11 +1316,12 @@
       },
       "correct": "D",
       "explanation": "It assesses collective progress under the Paris Agreement.",
-      "source": "CA04"
+      "source": "CA04",
+      "topic": "International Affairs"
     },
     {
       "no": 24,
-      "section": "Sports",
+      "section": "Current Affairs",
       "question": "What was Bangladesh's first-innings total?",
       "options": {
         "A": "386",
@@ -1308,11 +1331,12 @@
       },
       "correct": "B",
       "explanation": "Bangladesh were all out for 400.",
-      "source": "CA05"
+      "source": "CA05",
+      "topic": "Sports"
     },
     {
       "no": 25,
-      "section": "Sports",
+      "section": "Current Affairs",
       "question": "What was South Africa's score at the Day 3 lunch snapshot?",
       "options": {
         "A": "386/7",
@@ -1322,7 +1346,8 @@
       },
       "correct": "A",
       "explanation": "The ICC listing showed 386/7 after 90 overs.",
-      "source": "CA05"
+      "source": "CA05",
+      "topic": "Sports"
     }
   ],
   "sources": [
