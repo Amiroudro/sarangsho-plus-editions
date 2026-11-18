@@ -41,6 +41,15 @@ PHRASE_FIELDS = (
     "Direct source URL",
 )
 STORY_FIELDS = ("id", "headline", "summary", "why_it_matters", "exam_facts", "sources")
+APP_CATEGORIES = {
+    "Bangladesh", "Economy & Banking", "World", "Politics",
+    "Technology", "Jobs & Education", "Editorial & Opinion",
+}
+APP_MCQ_SECTIONS = {"Vocabulary", "Phrases", "Current Affairs"}
+APP_STORY_FIELDS = (
+    "one_liner", "key_facts", "what_happened",
+    "exam_qa", "recall_cards", "keywords",
+)
 
 
 def nonempty(value: object) -> bool:
@@ -112,6 +121,14 @@ def main() -> int:
             for field in STORY_FIELDS:
                 if not nonempty(story.get(field)):
                     errors.append(f"{date}/{sid}: missing story field {field}")
+            if story.get("category") not in APP_CATEGORIES:
+                errors.append(f"{date}/{sid}: category is not app-compatible: {story.get('category')!r}")
+            for field in APP_STORY_FIELDS:
+                if field not in story:
+                    errors.append(f"{date}/{sid}: missing app story field {field}")
+            if len(str(story.get("one_liner", "")).split()) > 20:
+                errors.append(f"{date}/{sid}: one_liner exceeds 20 words")
+
             qa = story.get("exam_qa", [])
             if len(qa) != 2:
                 errors.append(f"{date}/{sid}: expected 2 English short Q&A, found {len(qa)}")
@@ -131,6 +148,9 @@ def main() -> int:
             for field in ("headline", "summary", "why_it_matters", "exam_facts"):
                 if not nonempty(bn_story.get(field)):
                     errors.append(f"{date}/{sid}: missing Bangla field {field}")
+            for field in APP_STORY_FIELDS:
+                if field not in bn_story:
+                    errors.append(f"{date}/{sid}: missing Bangla app story field {field}")
 
         mcqs = en.get("mcqs", [])
         if len(mcqs) != 25:
@@ -147,6 +167,10 @@ def main() -> int:
             for field in ("question", "explanation", "source"):
                 if not nonempty(question.get(field)):
                     errors.append(f"{date}/MCQ {number}: missing {field}")
+            if question.get("section") not in APP_MCQ_SECTIONS:
+                errors.append(f"{date}/MCQ {number}: section is not app-compatible: {question.get('section')!r}")
+            if question.get("source") not in set(story_ids):
+                errors.append(f"{date}/MCQ {number}: source does not reference an edition story")
             answer_counts[question.get("correct")] += 1
         if mcqs and any(not 5 <= answer_counts[letter] <= 8 for letter in "ABCD"):
             errors.append(f"{date}: MCQ answer positions are outside the 5–8 balance band: {dict(answer_counts)}")
