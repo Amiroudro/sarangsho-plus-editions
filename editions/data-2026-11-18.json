@@ -1,0 +1,2038 @@
+{
+  "edition_date": "2026-11-18",
+  "edition_day": "Wednesday",
+  "coverage": "17 Nov 2026, 7:47 AM to 2026-11-18, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 12,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-18",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-18",
+      "exam_facts": "The columnist writes that developed countries are reluctant to recruit foreign workers for fear of altering their demographic composition through immigration, hence their inclination towards adopting AI to replace humans, but an ageing population will force them to recruit more and more skilled foreign workers for both blue- and white-collar jobs; he writes that the burden on the younger generation to support senior citizens is increasing exponentially in those countries; he argues arts and humanities majors should put more emphasis on creativity, interpretation, communication and cultural understanding than on routine writing and translation; he argues AI-generated painting and plagiarism cannot compete with human authenticity, writing that 'imperfection is art' and that what AI creates is perfect.",
+      "exam_relevance": "Artificial intelligence, future of work, graduate employment, demographic change, curriculum reform -- core BCS/Bank economy and education topics.",
+      "figures": "170 million jobs created by 2030; 92 million displaced by 2030; net gain 78 million jobs",
+      "headline": "Will AI take away the jobs of our graduates?",
+      "id": "CA01",
+      "key_people": "Sarwar Uddin Ahmed, columnist; World Economic Forum",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Will AI take away the jobs of our graduates?",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/thoughts/will-ai-take-away-jobs-our-graduates-1605991"
+        }
+      ],
+      "summary": "Columnist Sarwar Uddin Ahmed argues the World Economic Forum expects AI to create 170 million jobs by 2030 while displacing 92 million, a net gain of 78 million. He says ageing developed countries with negative population growth will still need skilled foreign workers despite preferring AI, so Bangladesh must reform university curricula to supply skilled graduates rather than remain a source of unskilled labour for the Middle East.",
+      "why_it_matters": "The 170 million created, 92 million displaced and 78 million net gain by 2030 are the exact World Economic Forum figures for BCS/Bank questions on AI and jobs, and the columnist's argument that ageing countries will still need skilled migrants is the background for the next story on graduate skills and migration.",
+      "one_liner": "Columnist Sarwar Uddin Ahmed argues the World Economic Forum expects AI to create 170 million jobs by 2030 while displacing…",
+      "key_facts": [
+        {
+          "label": "jobs created by 2030",
+          "value": "170 million",
+          "original": "170 million jobs created by 2030"
+        },
+        {
+          "label": "displaced by 2030",
+          "value": "92 million",
+          "original": "92 million displaced by 2030"
+        },
+        {
+          "label": "net gain jobs",
+          "value": "78 million",
+          "original": "net gain 78 million jobs"
+        }
+      ],
+      "what_happened": [
+        "He says ageing developed countries with negative population growth will still need skilled foreign workers despite preferring AI,",
+        "so Bangladesh must reform university curricula to supply skilled graduates rather than remain a source of unskilled labour for the Middle East."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is net gain jobs?",
+          "a": "78 million"
+        },
+        {
+          "q": "How many jobs will AI create by 2030?",
+          "a": "170 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Sarwar Uddin Ahmed argues the World Economic Forum expects AI to create ______ million jobs by 2030 while displacing 92 million, a net gain of 78 million.",
+          "answer": "170"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "take",
+        "away",
+        "jobs",
+        "graduates"
+      ],
+      "detail": "Columnist Sarwar Uddin Ahmed argues the World Economic Forum expects AI to create 170 million jobs by 2030 while displacing 92 million, a net gain of 78 million. He says ageing developed countries with negative population growth will still need skilled foreign workers despite preferring AI, so Bangladesh must reform university curricula to supply skilled graduates rather than remain a source of unskilled labour for the Middle East."
+    },
+    {
+      "article_date": "2026-11-17",
+      "category": "Technology",
+      "event_date": "2026-11-17",
+      "exam_facts": "After the initial 8 to 10 hours of supply, the plant will be disconnected from the grid for technical tests and, after a break of about 28 hours, reconnected for 4 to 6 hours to complete the necessary technical and operational tests; during the tests the first unit may be temporarily shut down at various times and production and supply may be reduced or increased, though customers will be able to use the supplied electricity throughout; the Power Grid Company of Bangladesh will take measures to maintain the balance of the national grid and officials of the Power Development Board will monitor supply; after the tests the results report will be submitted to the Bangladesh Atomic Energy Regulatory Authority, and only on its approval will capacity be increased, which may take several months to reach 100 per cent; according to the agreement with the Russian contractor, after a 10-month trial operation electricity will be supplied commercially from the first unit at full capacity permanently; Posts, Telecommunications, and Information Technology minister Fakir Mahbub Anam was present when the trial supply began.",
+      "exam_relevance": "Rooppur Nuclear Power Plant, nuclear energy, national grid, energy regulation -- core BCS/Bank science, energy and infrastructure topics.",
+      "figures": "350 megawatts trial supply; about 8 to 10 hours first trial; about 28 hours break; 4 to 6 hours reconnection; 10-month trial operation before commercial supply; 100 per cent capacity target",
+      "headline": "Nuclear power connected to national grid for the first time",
+      "id": "CA02",
+      "key_people": "Fakir Mahbub Anam, Posts, Telecommunications, and Information Technology minister; International Atomic Energy Agency; Bangladesh Atomic Energy Regulatory Authority; Power Grid Company of Bangladesh; Power Development Board",
+      "sources": [
+        {
+          "date": "2026-11-17",
+          "headline": "Nuclear power connected to national grid for the first time",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/f6htl23qg1"
+        }
+      ],
+      "summary": "For the first time, nuclear power from Rooppur's first unit has been connected to Bangladesh's national grid on an experimental basis, supplying 350 megawatts from 17 November. The plant is not yet in commercial production: the trial supply runs for about 8 to 10 hours to test the reactor, turbine, generator and grid together, and full capacity will follow only after further tests and approval from the Bangladesh Atomic Energy Regulatory Authority.",
+      "why_it_matters": "The first-ever grid connection, the 350 megawatts and the Bangladesh Atomic Energy Regulatory Authority approval step are the exact facts for BCS/Bank questions on Rooppur, and the trial-then-commercial sequence is the background for the next story on when the plant reaches full capacity.",
+      "one_liner": "For the first time, nuclear power from Rooppur's first unit has been connected to Bangladesh's national grid on an experimental…",
+      "key_facts": [
+        {
+          "label": "megawatts trial supply",
+          "value": "350",
+          "original": "350 megawatts trial supply"
+        },
+        {
+          "label": "about to 10 hours first trial",
+          "value": "8",
+          "original": "about 8 to 10 hours first trial"
+        },
+        {
+          "label": "about hours break",
+          "value": "28",
+          "original": "about 28 hours break"
+        },
+        {
+          "label": "to 6 hours reconnection",
+          "value": "4",
+          "original": "4 to 6 hours reconnection"
+        }
+      ],
+      "what_happened": [
+        "The plant is not yet in commercial production: the trial supply runs for about 8 to 10 hours to test the reactor,",
+        "turbine, generator and grid together, and full capacity will follow only after further tests and approval from the Bangladesh Atomic Energy Regulatory Authority."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is megawatts trial supply?",
+          "a": "350"
+        },
+        {
+          "q": "What is about hours break?",
+          "a": "28"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "For the first time, nuclear power from Rooppur's first unit has been connected to Bangladesh's national grid on an experimental basis, supplying 350 megawatts from ______.",
+          "answer": "17 November"
+        },
+        {
+          "cloze": "The plant is not yet in commercial production: the trial supply runs for about ______ to 10 hours to test the reactor, turbine, generator and grid together, and full capacity will follow only after further tests and approval from the Bangladesh Atomic Energy Regulatory Authority.",
+          "answer": "8"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "nuclear",
+        "power",
+        "connected",
+        "national",
+        "grid",
+        "time"
+      ],
+      "detail": "For the first time, nuclear power from Rooppur's first unit has been connected to Bangladesh's national grid on an experimental basis, supplying 350 megawatts from 17 November. The plant is not yet in commercial production: the trial supply runs for about 8 to 10 hours to test the reactor, turbine, generator and grid together, and full capacity will follow only after further tests and approval from the Bangladesh Atomic Energy Regulatory Authority."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "The World Bank delegation was led by Jean Pesme, division director for Bangladesh and Bhutan, and numbered eight members; Pesme pledged policy and technical support for trade facilitation, implementation of the National Single Window, skills development across various export sectors, and free trade agreement-related research, and stressed financing and technical capacity building for agro-processing and high-value-added manufacturing; the government aims to complete business approvals within 14 days through Invest Bangladesh's One-Stop Service, also known as the National Single Window portal, whereas businesses currently need to visit multiple offices for trade licences, environmental and fire safety clearances, and import registration certificates; the minister identified export diversification priorities as leather and leather goods, non-leather footwear, shipbuilding, ship recycling and light engineering alongside the ready-made garment sector, and said a new central effluent treatment plant is planned at the Savar Tannery Industrial Estate to help secure Leather Working Group certification; the United Nations General Assembly last month adopted a resolution granting Bangladesh an additional three years, until 24 November 2029, to prepare for graduation, recognising economic uncertainties, external shocks and persistent vulnerabilities; note on spelling: Xinhua spells the minister's name Khandaker Abdul Muktadir, while The Business Standard spells it Khandakar Abdul Muktadir.",
+      "exam_relevance": "LDC graduation, World Bank, trade reform, export diversification, free trade agreements, National Single Window -- core BCS/Bank economy and trade topics.",
+      "figures": "Three-year action plan; LDC graduation extended to 24 November 2029; business approvals target 14 days; eight-member World Bank delegation",
+      "headline": "Bangladesh seeks World Bank support for trade reforms, export diversification ahead of LDC graduation",
+      "id": "CA03",
+      "key_people": "Khandaker Abdul Muktadir, Commerce Minister; Jean Pesme, World Bank division director for Bangladesh and Bhutan",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Bangladesh seeks World Bank support for trade reforms, export diversification ahead of LDC graduation",
+          "publication": "Xinhua",
+          "url": "https://english.news.cn/20261118/b8cd610b1bf84cf8abcc5ee64b26e422/c.html"
+        },
+        {
+          "date": "2026-11-17",
+          "headline": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-world-bank-support-business-reforms-export-diversification-minister"
+        }
+      ],
+      "summary": "Commerce Minister Khandaker Abdul Muktadir has asked the World Bank for policy and technical support for trade reforms and export diversification ahead of Bangladesh's graduation from least developed country status, now extended to 24 November 2029. A specific three-year action plan is being drawn up, with talks on economic partnerships and free trade agreements moving forward, while Bangladesh would lose duty-free, quota-free access to the European market after graduation.",
+      "why_it_matters": "The 24 November 2029 graduation date, the three-year action plan and the loss of duty-free, quota-free European market access are the exact facts for BCS/Bank questions on LDC graduation, and the World Bank's promised support on the National Single Window and free trade agreements is the background for the next story on trade reform.",
+      "one_liner": "Commerce Minister Khandaker Abdul Muktadir has asked the World Bank for policy and technical support for trade reforms and export…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "LDC graduation extended to 24 November 2029",
+          "original": "LDC graduation extended to 24 November 2029"
+        },
+        {
+          "label": "business approvals target days",
+          "value": "14",
+          "original": "business approvals target 14 days"
+        },
+        {
+          "label": "",
+          "value": "eight-member World Bank delegation",
+          "original": "eight-member World Bank delegation"
+        },
+        {
+          "label": "the government aims to complete business…",
+          "value": "14",
+          "original": "the government aims to complete business approvals within 14 days through Invest Bangladesh's One-Stop Service, also known as the National Single Window portal, whereas businesses currently need to visit multiple offices for trade licences, environmental and fire safety clearances, and import registration certificates"
+        }
+      ],
+      "what_happened": [
+        "A specific three-year action plan is being drawn up, with talks on economic partnerships and free trade agreements moving forward,",
+        "while Bangladesh would lose duty-free, quota-free access to the European market after graduation."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is the government aims to complete business…?",
+          "a": "14"
+        },
+        {
+          "q": "When is LDC graduation extended to?",
+          "a": "24 November 2029"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Commerce Minister Khandaker Abdul Muktadir has asked the World Bank for policy and technical support for trade reforms and export diversification ahead of Bangladesh's graduation from least developed country status, now extended to ______.",
+          "answer": "24 November 2029"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "seeks",
+        "world",
+        "bank",
+        "support",
+        "trade",
+        "reforms",
+        "export",
+        "diversification",
+        "graduation"
+      ],
+      "detail": "Commerce Minister Khandaker Abdul Muktadir has asked the World Bank for policy and technical support for trade reforms and export diversification ahead of Bangladesh's graduation from least developed country status, now extended to 24 November 2029. A specific three-year action plan is being drawn up, with talks on economic partnerships and free trade agreements moving forward, while Bangladesh would lose duty-free, quota-free access to the European market after graduation."
+    },
+    {
+      "article_date": "2026-11-17",
+      "category": "Bangladesh",
+      "event_date": "2026-11-17",
+      "exam_facts": "Earlier alternatives were a bridge between Paturia in Manikganj and Daulatdia in Rajbari, then a tunnel beneath the riverbed proposed by the Awami League government, then a pre-feasibility study for a bridge between Rajbari and Pabna excluding a direct connection with Dhaka; the existing Jamuna Bridge opened to traffic in 1998 and carries an average of 25,000 vehicles a day, with congestion during festivals and on the first and last days of the week, while the Padma Bridge opened in 2022 and carries an average of 20,000 vehicles a day; both the second Padma Bridge and the second Jamuna Bridge were pledged in the BNP's election manifesto; on 3 November Prime Minister Tarique Rahman held a special review meeting at the Secretariat with senior officials, resulting in an in-principle decision to expedite work on the second Padma Bridge, the second Jamuna Bridge and the Padma Barrage; Bridges Division secretary Abdur Rauf said that once the feasibility study is complete a Development Project Proposal will be prepared with detailed routes, designs and costs, and the authorities aim to complete the study by September next year; Road Transport and Bridges Minister Shaikh Rabiul Alam said work on the Padma Barrage and the second Padma Bridge will proceed in a coordinated manner.",
+      "exam_relevance": "Padma Bridge, Jamuna Bridge, infrastructure, connectivity, Mongla seaport, land ports -- core BCS/Bank infrastructure and geography topics.",
+      "figures": "Jamuna Bridge: 25,000 vehicles a day, opened 1998; Padma Bridge: 20,000 vehicles a day, opened 2022; feasibility study aims to complete by September next year; plans date back nearly three decades",
+      "headline": "Second Padma Bridge to take Y-shape, link three districts, where will the second Jamuna Bridge be built?",
+      "id": "CA04",
+      "key_people": "Abdur Rauf, secretary, Bridges Division; Tarique Rahman, Prime Minister; Shaikh Rabiul Alam, Road Transport and Bridges Minister",
+      "sources": [
+        {
+          "date": "2026-11-17",
+          "headline": "Second Padma Bridge to take Y-shape, link three districts, where will the second Jamuna Bridge be built?",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/f9vz5dfx47"
+        }
+      ],
+      "summary": "The government has decided in principle to build a second Padma Bridge in a Y-shape linking Paturia in Manikganj, Daulatdia in Rajbari and Kazirhat in Pabna, after plans dating back nearly three decades. The bridge would give Dhaka an alternative route to the south-west and north and to Mongla seaport and the Benapole, Bhomra and Darshana land ports, while a second Jamuna Bridge is also planned — the existing one already carries 25,000 vehicles a day; final routes, lengths, designs and costs await a feasibility study.",
+      "why_it_matters": "The Y-shape linking Manikganj, Rajbari and Pabna, with Paturia, Daulatdia and Kazirhat as the three ends, is the exact geography for BCS/Bank questions on the second Padma Bridge, and the in-principle decision plus the pending feasibility study is the background for the next story on when routes and costs are fixed.",
+      "one_liner": "The government has decided in principle to build a second Padma Bridge in a Y-shape linking Paturia in Manikganj, Daulatdia…",
+      "key_facts": [
+        {
+          "label": "Jamuna Bridge",
+          "value": "25,000 vehicles a day, opened 1998",
+          "original": "Jamuna Bridge: 25,000 vehicles a day, opened 1998"
+        },
+        {
+          "label": "Padma Bridge",
+          "value": "20,000 vehicles a day, opened 2022",
+          "original": "Padma Bridge: 20,000 vehicles a day, opened 2022"
+        },
+        {
+          "label": "",
+          "value": "plans date back nearly three decades",
+          "original": "plans date back nearly three decades"
+        },
+        {
+          "label": "the existing Jamuna Bridge opened to…",
+          "value": "1998",
+          "original": "the existing Jamuna Bridge opened to traffic in 1998 and carries an average of 25,000 vehicles a day, with congestion during festivals and on the first and last days of the week, while the Padma Bridge opened in 2022 and carries an average of 20,000 vehicles a day"
+        }
+      ],
+      "what_happened": [
+        "The bridge would give Dhaka an alternative route to the south-west and north and to Mongla seaport and the Benapole,",
+        "Bhomra and Darshana land ports, while a second Jamuna Bridge is also planned — the existing one already carries 25,000 vehicles a day; final routes, lengths, designs and costs await a feasibility study."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Jamuna Bridge?",
+          "a": "25,000 vehicles a day, opened 1998"
+        },
+        {
+          "q": "What is Padma Bridge?",
+          "a": "20,000 vehicles a day, opened 2022"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The bridge would give Dhaka an alternative route to the south-west and north and to Mongla seaport and the Benapole, Bhomra and Darshana land ports, while a second Jamuna Bridge is also planned — the existing one already carries ______ vehicles a day; final routes, lengths, designs and costs await a feasibility study.",
+          "answer": "25,000"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "second",
+        "padma",
+        "bridge",
+        "take",
+        "shape",
+        "link",
+        "districts",
+        "where",
+        "jamuna",
+        "built"
+      ],
+      "detail": "The government has decided in principle to build a second Padma Bridge in a Y-shape linking Paturia in Manikganj, Daulatdia in Rajbari and Kazirhat in Pabna, after plans dating back nearly three decades. The bridge would give Dhaka an alternative route to the south-west and north and to Mongla seaport and the Benapole, Bhomra and Darshana land ports, while a second Jamuna Bridge is also planned — the existing one already carries 25,000 vehicles a day; final routes, lengths, designs and costs await a feasibility study."
+    },
+    {
+      "article_date": "2026-11-17",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "NCC Bank Additional Managing Director Md Zakir Anam and Bangladesh Bank Director AKM Sayduzzaman signed and exchanged the agreement, in the presence of Bangladesh Bank Executive Director Arief Hossain Khan; Bangladesh Bank Additional Director Muhammad Ansarul Kabir, NCC Bank Senior Executive Vice-President and Head of the RMG and Export Cell Ahsan Tariq, and Vice-President of the RMG and Export Cell Mohammed Abul Kalam Azad also attended, along with other senior officials from both banks. Other banks joined the same fund the same day: headlines from the Daily Star, Daily Sun, New Age and Dhaka Tribune report ONE Bank signing up to the same Tk2,000 crore pre-finance fund for the frozen food sector.",
+      "exam_relevance": "Export diversification, pre-finance funds, Bangladesh Bank refinancing, frozen food exports -- core BCS/Bank banking and economy topics.",
+      "figures": "Tk2,000 crore pre-finance fund; established from Bangladesh Bank's own resources",
+      "headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "id": "CA05",
+      "key_people": "Md Zakir Anam, NCC Bank Additional Managing Director; AKM Sayduzzaman, Bangladesh Bank Director; Arief Hossain Khan, Bangladesh Bank Executive Director; Muhammad Ansarul Kabir, Bangladesh Bank Additional Director; Ahsan Tariq, NCC Bank Senior Executive Vice-President and Head of the RMG and Export Cell",
+      "sources": [
+        {
+          "date": "2026-11-17",
+          "headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616"
+        }
+      ],
+      "summary": "NCC Bank PLC has signed an agreement to join Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food sector, established from the central bank's own resources. Financing covers producing, procuring, processing and preserving frozen shrimp, fish and fishery products for export, and setting up, expanding or modernising plants, building cold storage, restarting closed plants and installing solar power, widening finance access and diversifying exports.",
+      "why_it_matters": "The Tk2,000 crore fund, Bangladesh Bank's own resources and the frozen-food uses are the exact figures for BCS/Bank questions on export diversification -- and the fund shows how the central bank is channelling pre-finance to non-RMG exports ahead of LDC graduation.",
+      "one_liner": "NCC Bank PLC has signed an agreement to join Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "established from Bangladesh Bank's own resources",
+          "original": "established from Bangladesh Bank's own resources"
+        },
+        {
+          "label": "Bangladesh Bank Additional Director Muhammad Ansarul…",
+          "value": "Tk2,000",
+          "original": "Bangladesh Bank Additional Director Muhammad Ansarul Kabir, NCC Bank Senior Executive Vice-President and Head of the RMG and Export Cell Ahsan Tariq, and Vice-President of the RMG and Export Cell Mohammed Abul Kalam Azad also attended, along with other senior officials from both banks. Other banks joined the same fund the same day: headlines from the Daily Star, Daily Sun, New Age and Dhaka Tribune report ONE Bank signing up to the same Tk2,000 crore pre-finance fund for the frozen food sector"
+        }
+      ],
+      "what_happened": [
+        "Financing covers producing, procuring, processing and preserving frozen shrimp, fish and fishery products for export, and setting up,",
+        "expanding or modernising plants, building cold storage, restarting closed plants and installing solar power, widening finance access and diversifying exports."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Bangladesh Bank Additional Director Muhammad Ansarul…?",
+          "a": "Tk2,000"
+        },
+        {
+          "q": "What is the Tk2,000 crore fund for?",
+          "a": "Frozen food exports"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "NCC Bank PLC has signed an agreement to join Bangladesh Bank's Tk______ crore pre-finance fund for the export-oriented frozen food sector, established from the central bank's own resources.",
+          "answer": "2,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bank",
+        "joins",
+        "crore",
+        "fund",
+        "frozen",
+        "food",
+        "exporters"
+      ],
+      "detail": "NCC Bank PLC has signed an agreement to join Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food sector, established from the central bank's own resources. Financing covers producing, procuring, processing and preserving frozen shrimp, fish and fishery products for export, and setting up, expanding or modernising plants, building cold storage, restarting closed plants and installing solar power, widening finance access and diversifying exports."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Bangladesh",
+      "event_date": "2026-11-17",
+      "exam_facts": "Shama Obaed spoke while responding to questions from journalists after a law and order meeting at Faridpur Circuit House on the night of 17 November. She said: 'At a time when a democratic environment prevails in the country, they are conspiring to destroy it. Fascist forces have once again raised their heads to destroy the country's economy.' She said attempts to hold the country hostage, as was done over the previous 17 years, would not be allowed to succeed again, adding that Bangladesh now has a democratic government. She further said the fascist forces had no sense of responsibility or love for the people, as they had destroyed democratic, financial and constitutional institutions over the past 17 years. All of these are the minister's statements, not independently verified facts in the article.",
+      "exam_relevance": "Law and order, garment sector unrest, political statements, Awami League -- core BCS/Bank Bangladesh-affairs topics.",
+      "figures": "No headline figure in the fetched text; 17 years is the period cited by the minister",
+      "headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "id": "CA06",
+      "key_people": "Shama Obaed Islam, State Minister for Foreign Affairs",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966"
+        }
+      ],
+      "summary": "State Minister for Foreign Affairs Shama Obaed Islam said fugitive leaders of the fallen Awami League are directing attempts to create anarchy in Bangladesh, while some groups exploit unrest in the garment sector to destabilise the situation. She said the fallen fascist forces are making concerted efforts to destabilise the ready-made garment sector and undermine the economy after 17 years in which, she said, they destroyed democratic, financial and constitutional institutions, adding that the United Nations has expressed concern over the anarchy and arson attacks and sought more information.",
+      "why_it_matters": "The minister's claim linking fugitive Awami League leaders to garment unrest, and her statement that the UN has expressed concern and sought more information, are the quotable claims for BCS/Bank questions on law and order and the garment sector -- and the garment unrest is the live follow-on to the wage-board story in earlier editions.",
+      "one_liner": "State Minister for Foreign Affairs Shama Obaed Islam said fugitive leaders of the fallen Awami League are directing attempts to…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "No headline figure in the fetched text",
+          "original": "No headline figure in the fetched text"
+        },
+        {
+          "label": "years is the period cited by…",
+          "value": "17",
+          "original": "17 years is the period cited by the minister"
+        },
+        {
+          "label": "Shama Obaed spoke while responding to…",
+          "value": "17",
+          "original": "Shama Obaed spoke while responding to questions from journalists after a law and order meeting at Faridpur Circuit House on the night of 17 November. She said: 'At a time when a democratic environment prevails in the country, they are conspiring to destroy it. Fascist forces have once again raised their heads to destroy the country's economy.' She said attempts to hold the country hostage, as was done over the previous 17 years, would not be allowed to succeed again, adding that Bangladesh now has a democratic government. She further said the fascist forces had no sense of responsibility or love for the people, as they had destroyed democratic, financial and constitutional institutions over the past 17 years. All of these are the minister's statements, not independently verified facts in the article"
+        }
+      ],
+      "what_happened": [
+        "She said the fallen fascist forces are making concerted efforts to destabilise the ready-made garment sector and undermine the economy after 17 years in which,",
+        "she said, they destroyed democratic, financial and constitutional institutions, adding that the United Nations has expressed concern over the anarchy and arson attacks and sought more information."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Shama Obaed spoke while responding to…?",
+          "a": "17"
+        },
+        {
+          "q": "Where did Shama Obaed speak to journalists?",
+          "a": "Faridpur Circuit House"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "She said the fallen fascist forces are making concerted efforts to destabilise the ready-made garment sector and undermine the economy after ______ years in which, she said, they destroyed democratic, financial and constitutional institutions, adding that the United Nations has expressed concern over the anarchy and arson attacks and sought more information.",
+          "answer": "17"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "fugitive",
+        "leaders",
+        "fuelling",
+        "unrest",
+        "shama",
+        "obaed"
+      ],
+      "detail": "State Minister for Foreign Affairs Shama Obaed Islam said fugitive leaders of the fallen Awami League are directing attempts to create anarchy in Bangladesh, while some groups exploit unrest in the garment sector to destabilise the situation. She said the fallen fascist forces are making concerted efforts to destabilise the ready-made garment sector and undermine the economy after 17 years in which, she said, they destroyed democratic, financial and constitutional institutions, adding that the United Nations has expressed concern over the anarchy and arson attacks and sought more information."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-18",
+      "exam_facts": "The columnist writes that, according to the IMF's observation, in the 2027-2031 five-year period Sri Lanka is projected to average 3.5 per cent growth, Pakistan 4.3 per cent, Nepal 4.9 per cent, Bhutan 6.4 per cent and India 6.9 per cent, while Vietnam, a country often compared to Bangladesh, is expected to average over 6 per cent. He writes that in the COVID year Bangladesh still managed growth of around 3.5 per cent while India's, Pakistan's, Nepal's, Bhutan's and Sri Lanka's growth turned negative, and that post-pandemic growth averaged 6.6 per cent from 2021 to 2023. He writes that the downward-facing trend line has not been seen since 1981. He recalls that Kaushik Basu, former Chief Economist of the World Bank, wrote in the New York Times about 'Booming Bangladesh' and said in 2015 that Bangladesh was at the very cusp of 'take-off', and that Paul Romer, then Chief Economist of the World Bank, saw a development model in Bangladesh in 2016 and later received the Nobel Prize in 2018 for his 'Endogenous Growth Model'. All figures and judgements here are the columnist's, citing the IMF and World Bank economists, not reported facts.",
+      "exam_relevance": "GDP growth, IMF projections, LDC graduation, economic history of Bangladesh -- core BCS/Bank economy topics.",
+      "figures": "IMF projection as cited by the columnist: average growth 2.82% in 2027-2031; 1980s 3.5%, 1990s 4.7%, 2000s 5.6%, 2010s 6.6%; 2024 4.2%; interim government 3.5%; current fiscal year: government expects 6.5%, World Economic Outlook suggests 3.6%",
+      "headline": "Has the economy entered an era of low growth?",
+      "id": "CA07",
+      "key_people": "Birupaksha Paul, columnist; Kaushik Basu, former Chief Economist of the World Bank; Paul Romer, former Chief Economist of the World Bank and Nobel laureate; Amartya Sen, Nobel laureate",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Has the economy entered an era of low growth?",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/opinion/op-ed/okc96qs578"
+        }
+      ],
+      "summary": "Columnist Birupaksha Paul argues Bangladesh has entered an era of low growth, citing the IMF's projection of 2.82 per cent average growth in 2027-2031, the lowest in the region. Growth rose from 3.5 per cent in the 1980s to 6.6 per cent in the 2010s, then fell to 4.2 per cent in 2024 and 3.5 per cent under the interim government, against 6.5 per cent expected by the BNP government and 3.6 per cent in the World Economic Outlook.",
+      "why_it_matters": "The columnist's 2.82 per cent IMF projection for 2027-2031, the decade-by-decade growth record and the 6.5 per cent versus 3.6 per cent gap for this fiscal year are the exact figures for BCS/Bank questions on GDP growth -- and the column frames the low-growth debate behind every later story on the economy and LDC graduation.",
+      "one_liner": "Columnist Birupaksha Paul argues Bangladesh has entered an era of low growth, citing the IMF's projection of 2.82 per cent…",
+      "key_facts": [
+        {
+          "label": "IMF projection as cited by the…",
+          "value": "2.82",
+          "original": "IMF projection as cited by the columnist: average growth 2.82% in 2027-2031"
+        },
+        {
+          "label": "s 3.5%, 1990s 4.7%, 2000s 5.6%,…",
+          "value": "1980",
+          "original": "1980s 3.5%, 1990s 4.7%, 2000s 5.6%, 2010s 6.6%"
+        },
+        {
+          "label": "4.2%",
+          "value": "2024",
+          "original": "2024 4.2%"
+        },
+        {
+          "label": "interim government %",
+          "value": "3.5",
+          "original": "interim government 3.5%"
+        }
+      ],
+      "what_happened": [
+        "Growth rose from 3.5 per cent in the 1980s to 6.6 per cent in the 2010s,",
+        "then fell to 4.2 per cent in 2024 and 3.5 per cent under the interim government, against 6.5 per cent expected by the BNP government and 3.6 per cent in the World Economic Outlook."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is IMF projection as cited by the…?",
+          "a": "2.82"
+        },
+        {
+          "q": "What is interim government %?",
+          "a": "3.5"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Birupaksha Paul argues Bangladesh has entered an era of low growth, citing the IMF's projection of ______ per cent average growth in 2027-2031, the lowest in the region.",
+          "answer": "2.82"
+        },
+        {
+          "cloze": "Growth rose from ______ per cent in the 1980s to 6.6 per cent in the 2010s, then fell to 4.2 per cent in 2024 and 3.5 per cent under the interim government, against 6.5 per cent expected by the BNP government and 3.6 per cent in the World Economic Outlook.",
+          "answer": "3.5"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "economy",
+        "entered",
+        "growth"
+      ],
+      "detail": "Columnist Birupaksha Paul argues Bangladesh has entered an era of low growth, citing the IMF's projection of 2.82 per cent average growth in 2027-2031, the lowest in the region. Growth rose from 3.5 per cent in the 1980s to 6.6 per cent in the 2010s, then fell to 4.2 per cent in 2024 and 3.5 per cent under the interim government, against 6.5 per cent expected by the BNP government and 3.6 per cent in the World Economic Outlook."
+    },
+    {
+      "article_date": "2026-11-17",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "World Bank data cited in the article show that the share of firms exporting fell from 25% to 13% over roughly a decade, while frontier firms' share of export revenue rose from 37% to 69%, so exports are concentrated in fewer companies. The government wants to raise the SME share of GDP to 35% by 2030. Md Rubaiyath Sarwar, co-founder and managing director of Innovision Consulting, argues the MSME sector 'is designed as a sink to absorb youth whom we cannot employ in the formal sector' and says: 'We must stop this romanticism that a high number of MSMEs is good for Bangladesh. It is only good when the market has the appetite for it.' Niaz Asadullah, professor of economics at the University of Dhaka, said SMEs often absorb workers without the finance, technology, management capabilities or market access needed to raise output per worker, and that many remain small because expanding means more compliance-related expenses and greater exposure to tax uncertainty and demands from NBR officials. The article's lede cites Malaysia, where SMEs accounted for 14.7% of exports, 39.7% of GDP and 48.7% of employment in 2025, and Thailand, where SMEs accounted for 14.3% of exports during the first 10 months; the article cautions that international comparisons require care because countries define the sector in different ways.",
+      "exam_relevance": "SMEs, Economic Census 2024, export diversification, industrial employment -- core BCS/Bank economy topics.",
+      "figures": "11.7 million economic units; more than 30.6 million people; average 3.79 people per permanent establishment; businesses up nearly 50% (2013-2024), employment up 25%; SMEs around 27% of GDP, about 85% of industrial employment, target 35% by 2030; firms exporting 25% to 13%; frontier firms' export revenue share 37% to 69%",
+      "headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "id": "CA08",
+      "key_people": "Shadique Mahbub Islam, author; Md Rubaiyath Sarwar, co-founder and managing director, Innovision Consulting; Niaz Asadullah, professor of economics, University of Dhaka",
+      "sources": [
+        {
+          "date": "2026-11-17",
+          "headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926"
+        }
+      ],
+      "summary": "The 2024 Economic Census counted 11.7 million economic units employing over 30.6 million people, but the average permanent establishment employs only 3.79 people. Businesses grew nearly 50 per cent between 2013 and 2024 while employment rose only 25 per cent. SMEs contribute around 27 per cent of GDP and about 85 per cent of industrial employment, but their export share is only estimated at about 25 per cent, as the BBS produces no SME-specific export account.",
+      "why_it_matters": "The 11.7 million units, the 3.79 workers per establishment, the 25 per cent to 13 per cent fall in exporting firms and the missing SME export account are the exact figures for BCS/Bank questions on SMEs and export diversification -- and the census numbers explain why the export push in CA03 and CA06 has so few firms to work with.",
+      "one_liner": "The 2024 Economic Census counted 11.7 million economic units employing over 30.6 million people, but the average permanent establishment employs…",
+      "key_facts": [
+        {
+          "label": "more than people",
+          "value": "30.6 million",
+          "original": "more than 30.6 million people"
+        },
+        {
+          "label": "average people per permanent establishment",
+          "value": "3.79",
+          "original": "average 3.79 people per permanent establishment"
+        },
+        {
+          "label": "businesses up nearly % (2013-2024), employment…",
+          "value": "50",
+          "original": "businesses up nearly 50% (2013-2024), employment up 25%"
+        },
+        {
+          "label": "SMEs around % of GDP, about…",
+          "value": "27",
+          "original": "SMEs around 27% of GDP, about 85% of industrial employment, target 35% by 2030"
+        }
+      ],
+      "what_happened": [
+        "Businesses grew nearly 50 per cent between 2013 and 2024 while employment rose only 25 per cent.",
+        "SMEs contribute around 27 per cent of GDP and about 85 per cent of industrial employment,",
+        "but their export share is only estimated at about 25 per cent, as the BBS produces no SME-specific export account."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is more than people?",
+          "a": "30.6 million"
+        },
+        {
+          "q": "What is average people per permanent establishment?",
+          "a": "3.79"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The ______ Economic Census counted 11.7 million economic units employing over 30.6 million people, but the average permanent establishment employs only 3.79 people.",
+          "answer": "2024"
+        },
+        {
+          "cloze": "Businesses grew nearly ______ per cent between 2013 and 2024 while employment rose only 25 per cent.",
+          "answer": "50"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "millions",
+        "small",
+        "firms",
+        "become",
+        "exporters"
+      ],
+      "detail": "The 2024 Economic Census counted 11.7 million economic units employing over 30.6 million people, but the average permanent establishment employs only 3.79 people. Businesses grew nearly 50 per cent between 2013 and 2024 while employment rose only 25 per cent. SMEs contribute around 27 per cent of GDP and about 85 per cent of industrial employment, but their export share is only estimated at about 25 per cent, as the BBS produces no SME-specific export account."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "The general discussion was on a motion over unrest in the RMG sector placed by opposition Jamaat-e-Islami lawmaker Muhammad Nazibur Rahman (Pabna-1) under Rule 147 of the Rules of Procedure in the House. Home Minister Salahuddin Ahmed said: 'We are 100% in favour of the workers' legitimate demands. There is no government or opposition position on this issue.' He said some people were deliberately trying to prolong the unrest by mixing with workers and using their legitimate demands as a tool. Opposition Leader Shafiqur Rahman proposed a national task force involving the government, opposition parties, factory owners, workers' representatives and technical experts, and warned that if the government failed to resolve the sector's problems on its own, 'it will bring a major disaster for the country.'",
+      "exam_relevance": "RMG sector, wage board, parliament, labour unrest -- core BCS/Bank economy topics.",
+      "figures": "RMG about 80% of export earnings; $38-40 billion export earnings",
+      "headline": "MPs reiterate bipartisan support for RMG wage hike, while warning against conspiracies",
+      "id": "CA09",
+      "key_people": "Shafiqur Rahman, Opposition Leader; Salahuddin Ahmed, Home Minister; Muhammad Nazibur Rahman, Jamaat-e-Islami lawmaker (Pabna-1)",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "MPs reiterate bipartisan support for RMG wage hike, while warning against conspiracies",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/mps-reiterate-bipartisan-support-rmg-wage-hike-while-warning-against-conspiracies"
+        }
+      ],
+      "summary": "Garments earn about 80% of Bangladesh's export earnings, worth $38–40 billion, Opposition Leader Shafiqur Rahman told parliament on 17 November, as MPs from both benches backed the wage-hike demand as rational and fair. MPs said 'fallen fascist forces' were using the demand as a pretext for unrest, while Home Minister Salahuddin Ahmed said owners and workers had agreed to return to work and accept the wage board's minimum.",
+      "why_it_matters": "The 80% share and $38–40 billion figure, the bipartisan backing for a wage hike and the wage board as the deciding mechanism are the live numbers for BCS/Bank questions on the RMG wage crisis — and the parliament debate is the follow-on to the factory shutdowns, showing the political consensus behind the board's decision.",
+      "one_liner": "Garments earn about 80% of Bangladesh's export earnings, worth $38–40 billion, Opposition Leader Shafiqur Rahman told parliament on 17 November,…",
+      "key_facts": [
+        {
+          "label": "RMG about % of export earnings",
+          "value": "80",
+          "original": "RMG about 80% of export earnings"
+        },
+        {
+          "label": "export earnings",
+          "value": "$38-40 billion",
+          "original": "$38-40 billion export earnings"
+        },
+        {
+          "label": "The general discussion was on a…",
+          "value": "1",
+          "original": "The general discussion was on a motion over unrest in the RMG sector placed by opposition Jamaat-e-Islami lawmaker Muhammad Nazibur Rahman (Pabna-1) under Rule 147 of the Rules of Procedure in the House. Home Minister Salahuddin Ahmed said: 'We are 100% in favour of the workers' legitimate demands. There is no government or opposition position on this issue.' He said some people were deliberately trying to prolong the unrest by mixing with workers and using their legitimate demands as a tool. Opposition Leader Shafiqur Rahman proposed a national task force involving the government, opposition parties, factory owners, workers' representatives and technical experts, and warned that if the government failed to resolve the sector's problems on its own, 'it will bring a major disaster for the country.'"
+        }
+      ],
+      "what_happened": [
+        "MPs said 'fallen fascist forces' were using the demand as a pretext for unrest, while Home Minister Salahuddin Ahmed said owners and workers had agreed to return to work and accept the wage board's minimum."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is RMG about % of export earnings?",
+          "a": "80"
+        },
+        {
+          "q": "What is export earnings?",
+          "a": "$38-40 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Garments earn about 80% of Bangladesh's export earnings, worth $38–40 billion, Opposition Leader Shafiqur Rahman told parliament on ______, as MPs from both benches backed the wage-hike demand as rational and fair.",
+          "answer": "17 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "reiterate",
+        "bipartisan",
+        "support",
+        "wage",
+        "hike",
+        "while",
+        "warning",
+        "conspiracies"
+      ],
+      "detail": "Garments earn about 80% of Bangladesh's export earnings, worth $38–40 billion, Opposition Leader Shafiqur Rahman told parliament on 17 November, as MPs from both benches backed the wage-hike demand as rational and fair. MPs said 'fallen fascist forces' were using the demand as a pretext for unrest, while Home Minister Salahuddin Ahmed said owners and workers had agreed to return to work and accept the wage board's minimum."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "MJL Bangladesh PLC is known for blending and marketing Mobil-branded lubricants, as well as its involvement in shipping, storage tank terminals and LPG, and is seeking to diversify by tapping growing demand for warehousing and logistics services. The facility is now ready to accommodate clients, with space allocation and onboarding arrangements available according to individual customers' storage and operational requirements. Its infrastructure includes container handling, forklifts and modern loading facilities, and it provides dedicated leasing and flexible shared-storage options.",
+      "exam_relevance": "Warehousing, logistics, Chattogram Port, industrial diversification -- core BCS/Bank economy topics.",
+      "figures": "5 acres; six warehouses; 87,500 sq ft covered space; five new units of 13,500 sq ft each plus existing 20,000 sq ft warehouse; over 300 direct and associated jobs",
+      "headline": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port",
+      "id": "CA10",
+      "key_people": "Mizanur Rahman Yousuf, TBS correspondent; MJL Bangladesh PLC",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/mjl-bangladesh-develops-5-acre-green-automated-warehouse-complex-near-ctg-port-1605996"
+        }
+      ],
+      "summary": "MJL Bangladesh has developed a six-warehouse complex with 87,500 square feet of covered space on 5 acres in South Patenga, near Chattogram Port, to diversify from Mobil-branded lubricants into warehousing and logistics. The complex has five new 13,500-square-foot units plus an existing 20,000-square-foot warehouse, offers leasing and shared storage, and is expected to generate over 300 direct and associated jobs, with solar provisions, rainwater harvesting and power backups.",
+      "why_it_matters": "The 87,500 square feet on 5 acres near Chattogram Port, the 300-plus jobs and the green features are the testable facts for BCS/Bank questions on logistics and port-linked industry — and the project shows a lubricant and shipping company diversifying into warehousing as demand for logistics services grows.",
+      "one_liner": "MJL Bangladesh has developed a six-warehouse complex with 87,500 square feet of covered space on 5 acres in South Patenga,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "six warehouses",
+          "original": "six warehouses"
+        },
+        {
+          "label": "sq ft covered space",
+          "value": "87,500",
+          "original": "87,500 sq ft covered space"
+        },
+        {
+          "label": "five new units of sq ft…",
+          "value": "13,500",
+          "original": "five new units of 13,500 sq ft each plus existing 20,000 sq ft warehouse"
+        }
+      ],
+      "what_happened": [
+        "The complex has five new 13,500-square-foot units plus an existing 20,000-square-foot warehouse, offers leasing and shared storage,",
+        "and is expected to generate over 300 direct and associated jobs, with solar provisions, rainwater harvesting and power backups."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is sq ft covered space?",
+          "a": "87,500"
+        },
+        {
+          "q": "What is five new units of sq ft…?",
+          "a": "13,500"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "MJL Bangladesh has developed a six-warehouse complex with ______ square feet of covered space on 5 acres in South Patenga, near Chattogram Port, to diversify from Mobil-branded lubricants into warehousing and logistics.",
+          "answer": "87,500"
+        },
+        {
+          "cloze": "The complex has five new ______-square-foot units plus an existing 20,000-square-foot warehouse, offers leasing and shared storage, and is expected to generate over 300 direct and associated jobs, with solar provisions, rainwater harvesting and power backups.",
+          "answer": "13,500"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "develops",
+        "acre",
+        "green",
+        "automated",
+        "warehouse",
+        "complex",
+        "near",
+        "port"
+      ],
+      "detail": "MJL Bangladesh has developed a six-warehouse complex with 87,500 square feet of covered space on 5 acres in South Patenga, near Chattogram Port, to diversify from Mobil-branded lubricants into warehousing and logistics. The complex has five new 13,500-square-foot units plus an existing 20,000-square-foot warehouse, offers leasing and shared storage, and is expected to generate over 300 direct and associated jobs, with solar provisions, rainwater harvesting and power backups."
+    },
+    {
+      "article_date": "2026-11-17",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "Mahdi Amin, who is also the Prime Minister's Office (PMO) spokesperson, shared the development with journalists in front of the Cabinet Building at the Bangladesh Secretariat on 17 November. He said Bangladesh had previously been denied access to such US financing due to labour-unfriendly policies pursued during the prolonged autocratic rule. He said that under Prime Minister Tarique Rahman, the elected government had earned international confidence through policy continuity and its commitment to democratic governance over the past nine months. He also called for collective efforts to turn Bangladesh's economic progress into a model for the global community.",
+      "exam_relevance": "US DFC financing, labour law, foreign investment, infrastructure and energy -- core BCS/Bank economy and international-relations topics.",
+      "figures": "17 Nov 2026: DFC eligibility officially communicated by the US; elected government earned international confidence over the past 9 months; sectors: infrastructure, energy, technology, digital transformation",
+      "headline": "Bangladesh qualifies for US DFC financing over labour-friendly policies: Mahdi",
+      "id": "CA11",
+      "key_people": "Mahdi Amin, Prime Minister's Adviser and Prime Minister's Office spokesperson; Tarique Rahman, Prime Minister",
+      "sources": [
+        {
+          "date": "2026-11-17",
+          "headline": "Bangladesh qualifies for US DFC financing over labour-friendly policies: Mahdi",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladesh-qualifies-us-dfc-financing-over-labour-friendly-policies-mahdi-1605296"
+        }
+      ],
+      "summary": "Bangladesh has qualified for US International Development Finance Corporation (DFC) financing, Prime Minister's Adviser Mahdi Amin said on 17 November, in recognition of labour-friendly policies and a new labour law prioritising workers' rights. The eligibility, officially communicated by the US, opens investment in infrastructure, energy, technology and digital transformation, with projects considered case by case, to accelerate growth and create substantial jobs, particularly for young people.",
+      "why_it_matters": "DFC eligibility, the new labour law as its stated cause and the four named sectors are the exact facts for BCS/Bank questions on foreign investment and labour policy — and this story explains WHY Bangladesh qualified, distinct from the CA05 story on the government welcoming the eligibility itself.",
+      "one_liner": "Bangladesh has qualified for US International Development Finance Corporation (DFC) financing, Prime Minister's Adviser Mahdi Amin said on 17 November,…",
+      "key_facts": [
+        {
+          "label": "17 Nov 2026",
+          "value": "DFC eligibility officially communicated by the US",
+          "original": "17 Nov 2026: DFC eligibility officially communicated by the US"
+        },
+        {
+          "label": "elected government earned international confidence over…",
+          "value": "9",
+          "original": "elected government earned international confidence over the past 9 months"
+        },
+        {
+          "label": "sectors",
+          "value": "infrastructure, energy, technology, digital transformation",
+          "original": "sectors: infrastructure, energy, technology, digital transformation"
+        },
+        {
+          "label": "Mahdi Amin, who is also the…",
+          "value": "17",
+          "original": "Mahdi Amin, who is also the Prime Minister's Office (PMO) spokesperson, shared the development with journalists in front of the Cabinet Building at the Bangladesh Secretariat on 17 November. He said Bangladesh had previously been denied access to such US financing due to labour-unfriendly policies pursued during the prolonged autocratic rule. He said that under Prime Minister Tarique Rahman, the elected government had earned international confidence through policy continuity and its commitment to democratic governance over the past nine months. He also called for collective efforts to turn Bangladesh's economic progress into a model for the global community"
+        }
+      ],
+      "what_happened": [
+        "The eligibility, officially communicated by the US, opens investment in infrastructure, energy, technology and digital transformation,",
+        "with projects considered case by case, to accelerate growth and create substantial jobs, particularly for young people."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is elected government earned international confidence over…?",
+          "a": "9"
+        },
+        {
+          "q": "What is sectors?",
+          "a": "infrastructure, energy, technology, digital transformation"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh has qualified for US International Development Finance Corporation (DFC) financing, Prime Minister's Adviser Mahdi Amin said on ______, in recognition of labour-friendly policies and a new labour law prioritising workers' rights.",
+          "answer": "17 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "qualifies",
+        "financing",
+        "labour",
+        "friendly",
+        "policies",
+        "mahdi"
+      ],
+      "detail": "Bangladesh has qualified for US International Development Finance Corporation (DFC) financing, Prime Minister's Adviser Mahdi Amin said on 17 November, in recognition of labour-friendly policies and a new labour law prioritising workers' rights. The eligibility, officially communicated by the US, opens investment in infrastructure, energy, technology and digital transformation, with projects considered case by case, to accelerate growth and create substantial jobs, particularly for young people."
+    },
+    {
+      "id": "CA12",
+      "headline": "“Choked by design”: How small, low bridges killing rivers in Bangladesh",
+      "category": "Bangladesh",
+      "event_date": "2026-11-17",
+      "article_date": "2026-11-17",
+      "summary": "A Prothom Alo investigation found small, low bridges built without regard for a river's life or navigability are choking Bangladesh's rivers. At Salehpur Bridge over the Turag, built by the Roads and Highways Department in 2023, approach roads encroach about 250 feet into the river and the bridge is only 59 paces long, so silt piles up upstream while the narrowed flow erodes the bed downstream; nobody keeps a complete record of such bridges, and the roads department, the disaster management ministry and local government share the blame.",
+      "why_it_matters": "The 250-foot encroachment and the 59-pace bridge are exact, quotable figures for BCS/Bank questions on rivers, environment and infrastructure — and the mechanism (approach roads extended into the channel to shorten a bridge) explains the next story about any dying river without re-studying it.",
+      "exam_facts": "BUET professor AKM Saiful Islam of the Institute of Water and Flood Management told Prothom Alo that narrowing a river causes two kinds of damage: silt gets trapped upstream and gradually fills the river, while water rushing through the narrowed section downstream erodes the riverbed and collapses the banks, and can effectively kill a river. Downstream of Salehpur Bridge the Turag widens again as it flows towards the Buriganga; houses and brick kilns have sprung up on land reclaimed from the river beside the bridge. Fisherman Kanu Mia of Salehpur village said: “Ever since the bridge was built, the river has become narrower. They have killed the river here with this bridge.” Culverts, like bridges, can also harm rivers and canals, and political influence is a factor in how these structures are built.",
+      "exam_relevance": "Rivers, environment, infrastructure and governance — core BCS/Bank geography and Bangladesh-affairs topics.",
+      "key_people": "Mostafa Yousuf, Prothom Alo correspondent; AKM Saiful Islam, professor, Institute of Water and Flood Management, BUET; Kanu Mia, fisherman of Salehpur village",
+      "figures": "Approach roads encroach about 250 feet (160 paces) into the Turag; Salehpur Bridge shortened to 59 paces; bridge built 2023 by the Roads and Highways Department; site visit 6 August 2026",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "“Choked by design”: How small, low bridges killing rivers in Bangladesh",
+          "date": "2026-11-17",
+          "url": "https://en.prothomalo.com/bangladesh/ck81okjlvg"
+        }
+      ],
+      "one_liner": "A Prothom Alo investigation found small, low bridges built without regard for a river's life or navigability are choking Bangladesh's…",
+      "key_facts": [
+        {
+          "label": "Approach roads encroach about feet (160…",
+          "value": "250",
+          "original": "Approach roads encroach about 250 feet (160 paces) into the Turag"
+        },
+        {
+          "label": "Salehpur Bridge shortened to paces",
+          "value": "59",
+          "original": "Salehpur Bridge shortened to 59 paces"
+        },
+        {
+          "label": "bridge built by the Roads and…",
+          "value": "2023",
+          "original": "bridge built 2023 by the Roads and Highways Department"
+        },
+        {
+          "label": "",
+          "value": "site visit 6 August 2026",
+          "original": "site visit 6 August 2026"
+        }
+      ],
+      "what_happened": [
+        "At Salehpur Bridge over the Turag, built by the Roads and Highways Department in 2023, approach roads encroach about 250 feet into the river and the bridge is only 59 paces long,",
+        "so silt piles up upstream while the narrowed flow erodes the bed downstream; nobody keeps a complete record of such bridges, and the roads department, the disaster management ministry and local government share the blame."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Salehpur Bridge shortened to paces?",
+          "a": "59"
+        },
+        {
+          "q": "What is bridge built by the Roads and…?",
+          "a": "2023"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At Salehpur Bridge over the Turag, built by the Roads and Highways Department in ______ approach roads encroach about 250 feet into the river and the bridge is only 59 paces long, so silt piles up upstream while the narrowed flow erodes the bed downstream; nobody keeps a complete record of such bridges, and the roads department, the disaster management ministry and local government share the blame.",
+          "answer": "2023,"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "choked",
+        "design",
+        "small",
+        "bridges",
+        "killing",
+        "rivers"
+      ],
+      "detail": "A Prothom Alo investigation found small, low bridges built without regard for a river's life or navigability are choking Bangladesh's rivers. At Salehpur Bridge over the Turag, built by the Roads and Highways Department in 2023, approach roads encroach about 250 feet into the river and the bridge is only 59 paces long, so silt piles up upstream while the narrowed flow erodes the bed downstream; nobody keeps a complete record of such bridges, and the roads department, the disaster management ministry and local government share the blame."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "lose; give away; discard; forfeit",
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for trade, procurement and banking passages.",
+      "Bangla meaning": "সংগ্রহ করা; কেনা",
+      "Bangla phonetic": "প্রোকিউআর",
+      "Collocations / patterns": "procure raw materials; procure supplies; procure financing",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English definition": "To obtain something, especially after effort or through a formal process.",
+      "Headword / phrase": "procure",
+      "IPA": "/prəˈkjʊər/",
+      "Newspaper context note": "Frozen food exporters use the Tk2,000 crore fund to procure raw materials for export production.",
+      "Original example": "Eligible entrepreneurs and export-oriented businesses can obtain financing to produce, procure, process and preserve frozen shrimp, fish, fishery products and other frozen foods for export, according to the press release.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "obtain; acquire; secure; get",
+      "Word family / derivatives": "procurement; procuring; procured"
+    },
+    {
+      "Antonyms": "destroy; waste; spoil; neglect",
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "BCS / Bank relevance": "Core BCS/Bank verb for food processing, environment and heritage passages.",
+      "Bangla meaning": "সংরক্ষণ করা; রক্ষা করা",
+      "Bangla phonetic": "প্রিজার্ভ",
+      "Collocations / patterns": "preserve food; preserve frozen foods; preserve for export",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English definition": "To keep something in its existing state and protect it from decay, damage or loss.",
+      "Headword / phrase": "preserve",
+      "IPA": "/prɪˈzɜːv/",
+      "Newspaper context note": "The fund finances processing and preserving frozen shrimp and fish for export.",
+      "Original example": "Eligible entrepreneurs and export-oriented businesses can obtain financing to produce, procure, process and preserve frozen shrimp, fish, fishery products and other frozen foods for export, according to the press release.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "conserve; protect; maintain; safeguard",
+      "Word family / derivatives": "preservation; preserved; preserving"
+    },
+    {
+      "Antonyms": "keep outdated; neglect; preserve unchanged",
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "BCS / Bank relevance": "Core BCS/Bank verb for industry, reform and development passages.",
+      "Bangla meaning": "আধুনিকায়ন করা; আধুনিক করা",
+      "Bangla phonetic": "মডার্নাইজ",
+      "Collocations / patterns": "modernise processing plants; modernise machinery; modernise the sector",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English definition": "To update something with modern equipment, methods or ideas.",
+      "Headword / phrase": "modernise",
+      "IPA": "/ˈmɒdənaɪz/",
+      "Newspaper context note": "The frozen food fund pays for setting up, expanding or modernising processing plants.",
+      "Original example": "Financing can be used to procure raw materials, set up, expand or modernise processing plants, purchase machinery and equipment, and build cold storage facilities.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "update; upgrade; renovate; reform",
+      "Word family / derivatives": "modernisation; modernised; modernising"
+    },
+    {
+      "Antonyms": "shrink; reduce; contract; narrow",
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "BCS / Bank relevance": "Essential BCS/Bank verb for business, trade and finance passages.",
+      "Bangla meaning": "সম্প্রসারণ করা; বাড়ানো",
+      "Bangla phonetic": "এক্সপ্যান্ড",
+      "Collocations / patterns": "expand processing plants; expand access to financing; expand exports",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English definition": "To make something larger in size, amount or scope.",
+      "Headword / phrase": "expand",
+      "IPA": "/ɪkˈspænd/",
+      "Newspaper context note": "The fund lets frozen food firms set up, expand or modernise their plants.",
+      "Original example": "Financing can be used to procure raw materials, set up, expand or modernise processing plants, purchase machinery and equipment, and build cold storage facilities.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "enlarge; extend; grow; widen",
+      "Word family / derivatives": "expansion; expanded; expanding"
+    },
+    {
+      "Headword / phrase": "encroach",
+      "IPA": "/ɪnˈkrəʊtʃ/",
+      "Bangla phonetic": "এনক্রোচ",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অনধিকার প্রবেশ করা; ধীরে ধীরে দখল করা",
+      "English definition": "To gradually take over or intrude on someone else's land, rights, or time.",
+      "Synonyms": "intrude; trespass; invade; impinge",
+      "Antonyms": "retreat; withdraw; respect",
+      "Word family / derivatives": "encroachment; encroaching",
+      "Collocations / patterns": "encroach on/upon something; encroach on land",
+      "Original example": "Built by the Roads and Highways Department in 2023, the bridge has approach roads at both ends that encroach on the river.",
+      "Newspaper context note": "The bridge's approach roads encroach on the Turag river.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "“Choked by design”: How small, low bridges killing rivers in Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/ck81okjlvg",
+      "BCS / Bank relevance": "High-value BCS/Bank verb for environment, land and river passages.",
+      "Priority": "High"
+    },
+    {
+      "Antonyms": "order; stability; control; discipline",
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "BCS / Bank relevance": "Core BCS/Bank noun for politics, law and order and current-affairs passages.",
+      "Bangla meaning": "নৈরাজ্য; অরাজকতা",
+      "Bangla phonetic": "অ্যানার্কি",
+      "Collocations / patterns": "create anarchy; anarchy and arson; fall into anarchy",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English definition": "A state of disorder and confusion caused by the absence of government control or authority.",
+      "Headword / phrase": "anarchy",
+      "IPA": "/ˈænəki/",
+      "Newspaper context note": "The state minister said fugitive Awami League leaders are directing attempts to create anarchy.",
+      "Original example": "Fugitive leaders of the fallen fascist Awami League are directing attempts to create anarchy in the country, while some groups are exploiting ongoing unrest in the garment sector to destabilise the situation, State Minister for Foreign Affairs Shama Obaed Islam said last night (17 November).",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "chaos; disorder; lawlessness; turmoil",
+      "Word family / derivatives": "anarchic; anarchist; anarchism"
+    },
+    {
+      "Antonyms": "unplanned; scattered; individual; random",
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for politics and reporting passages; a past BCS vocabulary favourite.",
+      "Bangla meaning": "সম্মিলিত; যৌথ; সুসংগঠিত",
+      "Bangla phonetic": "কনসার্টেড",
+      "Collocations / patterns": "concerted efforts; concerted attempt; concerted action",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English definition": "Planned and carried out together by a group, in a coordinated way.",
+      "Headword / phrase": "concerted",
+      "IPA": "/kənˈsɜːtɪd/",
+      "Newspaper context note": "The minister described concerted efforts to destabilise the garment sector.",
+      "Original example": "Shama Obaed said the fallen fascist forces were making concerted efforts to destabilise the ready-made garment sector and undermine the country's economy.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "joint; coordinated; combined; united",
+      "Word family / derivatives": "concert; concertedly"
+    },
+    {
+      "Antonyms": "free person; liberated person",
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "BCS / Bank relevance": "Core BCS/Bank noun for politics, security and international-affairs passages.",
+      "Bangla meaning": "জিম্মি",
+      "Bangla phonetic": "হস্টেজ",
+      "Collocations / patterns": "hold the country hostage; take hostage; hold hostage",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English definition": "A person held captive as security, or, figuratively, someone or something controlled by another's power.",
+      "Headword / phrase": "hostage",
+      "IPA": "/ˈhɒstɪdʒ/",
+      "Newspaper context note": "The minister said attempts to hold the country hostage would not be allowed to succeed again.",
+      "Original example": "She said attempts to hold the country hostage, as was done over the previous 17 years, would not be allowed to succeed again, adding that Bangladesh now has a democratic government.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "captive; prisoner; pawn",
+      "Word family / derivatives": "hostage-taking; hold hostage"
+    },
+    {
+      "Antonyms": "disappear; fail; vanish; lose",
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for politics and formal writing; 'prevalent' is a past BCS word.",
+      "Bangla meaning": "বিরাজ করা; টিকে থাকা; প্রচলিত থাকা",
+      "Bangla phonetic": "প্রিভেইল",
+      "Collocations / patterns": "a democratic environment prevails; peace prevails; prevail over",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English definition": "To exist or be widespread in a place or at a time; to win out in the end.",
+      "Headword / phrase": "prevail",
+      "IPA": "/prɪˈveɪl/",
+      "Newspaper context note": "The minister said a democratic environment prevails in the country.",
+      "Original example": "At a time when a democratic environment prevails in the country, they are conspiring to destroy it.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "exist; dominate; persist; triumph",
+      "Word family / derivatives": "prevalent; prevalence; prevailing"
+    },
+    {
+      "Antonyms": "deceleration; slowing down; decline",
+      "Article headline": "Has the economy entered an era of low growth?",
+      "BCS / Bank relevance": "Core BCS/Bank noun for economy and GDP-growth passages.",
+      "Bangla meaning": "ত্বরণ; গতিবৃদ্ধি",
+      "Bangla phonetic": "অ্যাকসেলারেশন",
+      "Collocations / patterns": "acceleration of growth; growth acceleration; economic acceleration",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English definition": "A speeding up; an increase in the rate or speed of something.",
+      "Headword / phrase": "acceleration",
+      "IPA": "/əkˌseləˈreɪʃn/",
+      "Newspaper context note": "The columnist asks why Bangladesh fell from growth acceleration to deceleration.",
+      "Original example": "Why did Bangladesh fall from 'acceleration' of growth to 'deceleration'?",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "speeding up; quickening; increase; surge",
+      "Word family / derivatives": "accelerate; accelerated; accelerating"
+    },
+    {
+      "Antonyms": "acceleration; speeding up; increase",
+      "Article headline": "Has the economy entered an era of low growth?",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for economy passages; the antonym pair with acceleration is a classic exam trap.",
+      "Bangla meaning": "মন্দন; গতিহ্রাস",
+      "Bangla phonetic": "ডিসেলারেশন",
+      "Collocations / patterns": "deceleration of growth; economic deceleration; growth deceleration",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English definition": "A slowing down; a decrease in the rate or speed of something.",
+      "Headword / phrase": "deceleration",
+      "IPA": "/diːˌseləˈreɪʃn/",
+      "Newspaper context note": "The columnist frames the shift from growth acceleration to deceleration.",
+      "Original example": "Why did Bangladesh fall from 'acceleration' of growth to 'deceleration'?",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "slowing down; slowdown; decline; reduction",
+      "Word family / derivatives": "decelerate; decelerated; decelerating"
+    },
+    {
+      "Antonyms": "standstill; stagnation",
+      "Article headline": "Has the economy entered an era of low growth?",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for economy, data and analysis passages.",
+      "Bangla meaning": "গতিপথ; ধারা",
+      "Bangla phonetic": "ট্র্যাজেক্টরি",
+      "Collocations / patterns": "upward trajectory; growth trajectory; downward trajectory",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English definition": "The path or course along which something develops or moves over time.",
+      "Headword / phrase": "trajectory",
+      "IPA": "/trəˈdʒektəri/",
+      "Newspaper context note": "The columnist says Bangladesh's upward growth trajectory was evident until 2023.",
+      "Original example": "Analysing the growth trend reveals this upward trajectory was evident and statistically significant.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "path; course; trend; direction",
+      "Word family / derivatives": "trajectories (plural)"
+    },
+    {
+      "Antonyms": "actual result; fact; certainty",
+      "Article headline": "Has the economy entered an era of low growth?",
+      "BCS / Bank relevance": "Essential BCS/Bank noun for IMF, World Bank and budget passages.",
+      "Bangla meaning": "পূর্বাভাস; অনুমান; প্রক্ষেপণ",
+      "Bangla phonetic": "প্রোজেকশন",
+      "Collocations / patterns": "IMF's projection; growth projection; according to the projection",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English definition": "An estimate of a future value or amount, based on present data.",
+      "Headword / phrase": "projection",
+      "IPA": "/prəˈdʒekʃn/",
+      "Newspaper context note": "The columnist cites the IMF's projection of 2.82 per cent average growth for 2027-2031.",
+      "Original example": "According to the IMF's projection, Bangladesh's average growth from 2027 to 2031 will be 2.82 per cent, which is not only the lowest in the region but also a sure sign of entering an era of low growth.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "forecast; estimate; prediction; outlook",
+      "Word family / derivatives": "project; projected; projecting"
+    },
+    {
+      "Antonyms": "insignificant; trivial; minor; negligible",
+      "Article headline": "Has the economy entered an era of low growth?",
+      "BCS / Bank relevance": "Essential BCS/Bank adjective for data, reports and analysis passages.",
+      "Bangla meaning": "উল্লেখযোগ্য; তাৎপর্যপূর্ণ",
+      "Bangla phonetic": "সিগনিফিক্যান্ট",
+      "Collocations / patterns": "statistically significant; significant growth; significant change",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English definition": "Large or important enough to be noticed or to matter; meaningful.",
+      "Headword / phrase": "significant",
+      "IPA": "/sɪɡˈnɪfɪkənt/",
+      "Newspaper context note": "The columnist says the upward growth trend was statistically significant.",
+      "Original example": "Analysing the growth trend reveals this upward trajectory was evident and statistically significant.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "important; notable; considerable; meaningful",
+      "Word family / derivatives": "significance; significantly; signify"
+    },
+    {
+      "Antonyms": "inefficiency; unproductiveness; idleness",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "Core BCS/Bank noun for economy, industry and labour passages.",
+      "Bangla meaning": "উৎপাদনশীলতা",
+      "Bangla phonetic": "প্রোডাক্টিভিটি",
+      "Collocations / patterns": "raise productivity; low productivity; labour productivity",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "How efficiently goods or services are produced; output per worker or per unit of input.",
+      "Headword / phrase": "productivity",
+      "IPA": "/ˌprɒdʌkˈtɪvəti/",
+      "Newspaper context note": "Small firms multiply, but jobs and productivity do not keep pace.",
+      "Original example": "Bangladesh's businesses are multiplying, but jobs, productivity and export participation are not keeping pace.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "efficiency; output; yield",
+      "Word family / derivatives": "productive; productively; produce"
+    },
+    {
+      "Antonyms": "exclusion; withdrawal; non-participation",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "High-frequency BCS/Bank noun for trade, elections and social passages.",
+      "Bangla meaning": "অংশগ্রহণ",
+      "Bangla phonetic": "পার্টিসিপেশন",
+      "Collocations / patterns": "export participation; participation in trade; public participation",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "The act of taking part in something; involvement.",
+      "Headword / phrase": "participation",
+      "IPA": "/pɑːˌtɪsɪˈpeɪʃn/",
+      "Newspaper context note": "Export participation is not keeping pace with the growth in the number of firms.",
+      "Original example": "Bangladesh's businesses are multiplying, but jobs, productivity and export participation are not keeping pace.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "involvement; engagement; inclusion",
+      "Word family / derivatives": "participate; participant; participating"
+    },
+    {
+      "Antonyms": "closure; dissolution; shutdown",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "Core BCS/Bank noun for census, business and institution passages.",
+      "Bangla meaning": "প্রতিষ্ঠান; স্থাপনা",
+      "Bangla phonetic": "এস্ট্যাবলিশমেন্ট",
+      "Collocations / patterns": "permanent establishment; business establishment; average establishment",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "A business, organisation or place set up for a particular purpose; also the act of establishing something.",
+      "Headword / phrase": "establishment",
+      "IPA": "/ɪˈstæblɪʃmənt/",
+      "Newspaper context note": "The 2024 Economic Census found the average permanent establishment employs only 3.79 people.",
+      "Original example": "Yet the average permanent establishment employs only 3.79 people.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "institution; firm; enterprise; organisation",
+      "Word family / derivatives": "establish; established; establishing"
+    },
+    {
+      "Antonyms": "decrease; shrink; dwindle; decline",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for data, population and business passages.",
+      "Bangla meaning": "বৃদ্ধি পাওয়া; বহুগুণ হওয়া",
+      "Bangla phonetic": "মাল্টিপ্লাই",
+      "Collocations / patterns": "businesses are multiplying; multiply rapidly; firms multiply",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "To increase greatly in number; to become many times more.",
+      "Headword / phrase": "multiply",
+      "IPA": "/ˈmʌltɪplaɪ/",
+      "Newspaper context note": "Businesses are multiplying faster than the jobs they create.",
+      "Original example": "Bangladesh's businesses are multiplying, but jobs, productivity and export participation are not keeping pace.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "increase; grow; proliferate; expand",
+      "Word family / derivatives": "multiplication; multiple; multiplied"
+    },
+    {
+      "Antonyms": "dispersed; scattered; spread out; diffuse",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for trade, markets and wealth passages.",
+      "Bangla meaning": "কেন্দ্রীভূত",
+      "Bangla phonetic": "কনসেনট্রেটেড",
+      "Collocations / patterns": "exports are concentrated; concentrated in fewer companies; concentrated ownership",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "Gathered together in one place or in a few hands; not spread out.",
+      "Headword / phrase": "concentrated",
+      "IPA": "/ˈkɒnsntreɪtɪd/",
+      "Newspaper context note": "Exports are concentrated in fewer companies as frontier firms take a bigger share.",
+      "Original example": "Exports are concentrated in fewer companies, narrowing Bangladesh's exporter base, unlike those of its peers.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "focused; centralised; gathered; clustered",
+      "Word family / derivatives": "concentrate; concentration; concentrating"
+    },
+    {
+      "Antonyms": "interior; backwater; laggard",
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "BCS / Bank relevance": "High-value BCS/Bank word for trade, economics and border passages.",
+      "Bangla meaning": "সীমান্ত; অগ্রণী; অগ্রভাগ",
+      "Bangla phonetic": "ফ্রন্টিয়ার",
+      "Collocations / patterns": "frontier firms; frontier markets; at the frontier",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English definition": "A border between countries, or, as an adjective, the most advanced or leading part of a field.",
+      "Headword / phrase": "frontier",
+      "IPA": "/ˈfrʌntɪər/",
+      "Newspaper context note": "Frontier firms now take 69 per cent of export revenue, up from 37 per cent.",
+      "Original example": "World Bank data show that the share of firms exporting fell from 25% to 13% over roughly a decade, while frontier firms' share of export revenue rose from 37% to 69%.",
+      "Part of speech / type": "Noun / Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Synonyms": "border; leading edge; vanguard; cutting edge",
+      "Word family / derivatives": "frontier firms; frontier markets"
+    }
+  ],
+  "revision_words": [
+    {
+      "Antonyms": "disrupt, ruin, improvise",
+      "Article headline": "Garment worker dies after attack during Gazipur wage protest",
+      "BCS / Bank relevance": "High — law and order, political violence.",
+      "Bangla meaning": "পরিকল্পিতভাবে সংগঠিত করা",
+      "Bangla phonetic": "অর্কেস্ট্রেট",
+      "Collocations / patterns": "orchestrate an incident, orchestrate a campaign, carefully orchestrated",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296",
+      "English definition": "To carefully plan and organise an event, especially secretly, so that it happens in a particular way.",
+      "Headword / phrase": "orchestrate",
+      "IPA": "/ˈɔːkɪstreɪt/",
+      "Newspaper context note": "Gazipur police said the incident suggested the unrest was orchestrated by the Awami League.",
+      "Original example": "Police said the violence had been orchestrated by outsiders.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "organise, arrange, stage",
+      "Word family / derivatives": "orchestration (noun)"
+    },
+    {
+      "Antonyms": "release, free",
+      "Article headline": "DB detains three labour leaders over alleged incitement in Ashulia protests",
+      "BCS / Bank relevance": "High — law and order, policing.",
+      "Bangla meaning": "আটক করা",
+      "Bangla phonetic": "ডিটেইন",
+      "Collocations / patterns": "detain leaders, detain suspects, detained for questioning",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981",
+      "English definition": "To keep someone in official custody, usually by arrest; to delay someone.",
+      "Headword / phrase": "detain",
+      "IPA": "/dɪˈteɪn/",
+      "Newspaper context note": "The Detective Branch detained three labour leaders in Ashulia over alleged incitement of the protests.",
+      "Original example": "Police detained three labour leaders in Ashulia.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "arrest, hold, apprehend",
+      "Word family / derivatives": "detention (noun), detainee (noun)"
+    },
+    {
+      "Antonyms": "overpay, compensate fairly",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — labour, wages, RMG.",
+      "Bangla meaning": "ঠকানো",
+      "Bangla phonetic": "শর্ট-চেঞ্জ",
+      "Collocations / patterns": "short-change workers, fear being short-changed",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "To give someone less than they are owed or deserve; to cheat someone by giving less.",
+      "Headword / phrase": "short-change",
+      "IPA": "/ʃɔːt tʃeɪndʒ/",
+      "Newspaper context note": "Garment workers fear the wage board will short-change them with only a Tk 1,000-2,000 rise.",
+      "Original example": "Workers fear the board will short-change them with a token rise.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "cheat, underpay, short",
+      "Word family / derivatives": "short-changed (adjective)"
+    },
+    {
+      "Antonyms": "waive, ignore",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — labour law, legal vocabulary.",
+      "Bangla meaning": "প্রয়োগ করা",
+      "Bangla phonetic": "ইনভোক",
+      "Collocations / patterns": "invoke a law, invoke a provision, invoke a clause",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "To cite a law, rule or authority in support of an action; to call upon something for help.",
+      "Headword / phrase": "invoke",
+      "IPA": "/ɪnˈvəʊk/",
+      "Newspaper context note": "Factory owners warned they may invoke Section 13(1) of the Bangladesh Labour Act, the 'no work, no pay' provision.",
+      "Original example": "Owners warned they may invoke the 'no work, no pay' provision.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "cite, apply, call upon",
+      "Word family / derivatives": "invocation (noun)"
+    },
+    {
+      "Antonyms": "omission",
+      "Article headline": "RMG workers fear being short-changed",
+      "BCS / Bank relevance": "High — law, legal vocabulary.",
+      "Bangla meaning": "ধারা",
+      "Bangla phonetic": "প্রোভিশন",
+      "Collocations / patterns": "provision of the law, under the provision, a provision of the Act",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+      "English definition": "A clause, condition or rule contained in a law, agreement or document.",
+      "Headword / phrase": "provision",
+      "IPA": "/prəˈvɪʒən/",
+      "Newspaper context note": "Section 13(1) of the Bangladesh Labour Act is the 'no work, no pay' provision.",
+      "Original example": "The 'no work, no pay' provision allows owners to withhold wages for days not worked.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-04",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "clause, stipulation, article",
+      "Word family / derivatives": "provide (verb), provisional (adjective)"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "Bangla meaning": "হিমায়িত খাদ্য",
+      "Common collocations / grammar pattern": "frozen food sector; frozen food businesses; frozen food exporters",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English explanation": "Food that has been frozen to preserve it for storage, transport and sale.",
+      "Exam value": "Live current-affairs term for export diversification and food-processing questions.",
+      "Original example 1": "NCC Bank PLC has signed an agreement to participate in Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food sector.",
+      "Original example 2": "The scheme aims to expand access to financing for frozen food businesses and help diversify Bangladesh's exports.",
+      "Phrase": "frozen food",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, business and trade reporting."
+    },
+    {
+      "Article headline": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "Bangla meaning": "রপ্তানিমুখী",
+      "Common collocations / grammar pattern": "export-oriented sector; export-oriented businesses; export-oriented industries",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616",
+      "English explanation": "Designed or intended mainly for export to foreign markets.",
+      "Exam value": "Core BCS/Bank trade adjective; appears in export, industry and LDC-graduation questions.",
+      "Original example 1": "NCC Bank PLC has signed an agreement to participate in Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food sector.",
+      "Original example 2": "Eligible entrepreneurs and export-oriented businesses can obtain financing to produce, procure, process and preserve frozen shrimp, fish, fishery products and other frozen foods for export, according to the press release.",
+      "Phrase": "export-oriented",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Type": "Adjective phrase / collocation",
+      "Usage / register": "Formal, economics and trade reporting."
+    },
+    {
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "Bangla meaning": "পোশাক খাত",
+      "Common collocations / grammar pattern": "garment sector unrest; ready-made garment sector; destabilise the garment sector",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English explanation": "The ready-made garment industry, Bangladesh's largest export sector.",
+      "Exam value": "Essential BCS/Bank term for RMG, exports and labour questions.",
+      "Original example 1": "Fugitive leaders of the fallen fascist Awami League are directing attempts to create anarchy in the country, while some groups are exploiting ongoing unrest in the garment sector to destabilise the situation, State Minister for Foreign Affairs Shama Obaed Islam said last night (17 November).",
+      "Original example 2": "Shama Obaed said the fallen fascist forces were making concerted efforts to destabilise the ready-made garment sector and undermine the country's economy.",
+      "Phrase": "garment sector",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, news and economics reporting."
+    },
+    {
+      "Article headline": "Has the economy entered an era of low growth?",
+      "Bangla meaning": "নিম্ন প্রবৃদ্ধি",
+      "Common collocations / grammar pattern": "era of low growth; low growth trap; fall into low growth",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English explanation": "A period in which an economy grows only slowly, well below its usual rate.",
+      "Exam value": "Live current-affairs term for GDP-growth and IMF-projection questions.",
+      "Original example 1": "Trying to emulate Yunus's strategies, it has fallen into a low growth trap.",
+      "Original example 2": "According to the IMF's projection, Bangladesh's average growth from 2027 to 2031 will be 2.82 per cent, which is not only the lowest in the region but also a sure sign of entering an era of low growth.",
+      "Phrase": "low growth",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, economics and opinion writing."
+    },
+    {
+      "Article headline": "Has the economy entered an era of low growth?",
+      "Bangla meaning": "গড় প্রবৃদ্ধি",
+      "Common collocations / grammar pattern": "average growth of 2.82 per cent; average growth rate; average growth in the 1980s",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English explanation": "The mean rate of economic growth over a period of years.",
+      "Exam value": "Essential BCS/Bank phrase for GDP data and comparison questions.",
+      "Original example 1": "According to the IMF's projection, Bangladesh's average growth from 2027 to 2031 will be 2.82 per cent, which is not only the lowest in the region but also a sure sign of entering an era of low growth.",
+      "Original example 2": "The average growth in the 1980s was 3.5 per cent, which increased to 4.7 per cent in the 1990s, 5.6 per cent in the 2000s, and 6.6 per cent in the 2010s.",
+      "Phrase": "average growth",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, economics and data reporting."
+    },
+    {
+      "Article headline": "Has the economy entered an era of low growth?",
+      "Bangla meaning": "প্রবৃদ্ধির হার",
+      "Common collocations / grammar pattern": "growth rate of 3.5 per cent; average growth rate; annual growth rate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English explanation": "The percentage by which an economy or quantity grows over a period.",
+      "Exam value": "Core BCS/Bank phrase for GDP, population and economic-data questions.",
+      "Original example 1": "In that year, India's, Pakistan's, Nepal's, Bhutan's, and Sri Lanka's growth turned negative, while Bangladesh managed to achieve a growth rate of around 3.5 per cent.",
+      "Original example 2": "Post-pandemic, the acceleration of growth persisted until 2023, with an average growth rate of 6.6 per cent from 2021 to 2023.",
+      "Phrase": "growth rate",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, economics and data reporting."
+    },
+    {
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "Bangla meaning": "অর্থনৈতিক প্রতিষ্ঠান",
+      "Common collocations / grammar pattern": "11.7 million economic units; creating economic units; economic units employing people",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English explanation": "Businesses and other establishments counted in an economic census.",
+      "Exam value": "Live census term for Economic Census 2024 and SME questions.",
+      "Original example 1": "Bangladesh's 2024 Economic Census counted 11.7 million economic units employing more than 30.6 million people.",
+      "Original example 2": "Bangladesh is creating economic units much faster than those units are creating jobs.",
+      "Phrase": "economic units",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, census and economics reporting."
+    },
+    {
+      "Article headline": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "Bangla meaning": "ছোট প্রতিষ্ঠান; ক্ষুদ্র প্রতিষ্ঠান",
+      "Common collocations / grammar pattern": "millions of small firms; small firms become exporters; small firms and jobs",
+      "Direct source URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926",
+      "English explanation": "Businesses with few employees and small scale, here the millions of tiny Bangladeshi enterprises.",
+      "Exam value": "Core term for SME and Economic Census questions; note both examples come from the article's headline and deck, as the body uses 'small firms' only there.",
+      "Original example 1": "Bangladesh has millions of small firms.",
+      "Original example 2": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "Phrase": "small firms",
+      "Publication date": "2026-11-17",
+      "Source publication": "The Business Standard",
+      "Type": "Noun phrase / collocation",
+      "Usage / register": "Formal, economics reporting."
+    },
+    {
+      "Article headline": "Has the economy entered an era of low growth?",
+      "Bangla meaning": "অঞ্চলে; এই অঞ্চলে",
+      "Common collocations / grammar pattern": "the lowest in the region; the highest in the region; countries in the region",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578",
+      "English explanation": "Within the surrounding geographic area, here South Asia, used for comparing countries.",
+      "Exam value": "High-frequency BCS/Bank phrase for regional comparison questions.",
+      "Original example 1": "According to the IMF's projection, Bangladesh's average growth from 2027 to 2031 will be 2.82 per cent, which is not only the lowest in the region but also a sure sign of entering an era of low growth.",
+      "Original example 2": "According to the IMF's observation, in the 2027-2031 five-year period, Bangladesh's average growth will be the lowest in the region.",
+      "Phrase": "in the region",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Type": "Prepositional phrase",
+      "Usage / register": "Formal, news and economics reporting."
+    },
+    {
+      "Article headline": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "Bangla meaning": "পতিত ফ্যাসিস্ট",
+      "Common collocations / grammar pattern": "fallen fascist forces; fallen fascist Awami League",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966",
+      "English explanation": "Used in this article by the minister to describe the ousted Awami League and its forces; 'fallen' means overthrown from power.",
+      "Exam value": "Article-specific political wording; useful for understanding how ministers frame the ousted regime in current-affairs reporting.",
+      "Original example 1": "Fugitive leaders of the fallen fascist Awami League are directing attempts to create anarchy in the country, while some groups are exploiting ongoing unrest in the garment sector to destabilise the situation, State Minister for Foreign Affairs Shama Obaed Islam said last night (17 November).",
+      "Original example 2": "Shama Obaed said the fallen fascist forces were making concerted efforts to destabilise the ready-made garment sector and undermine the country's economy.",
+      "Phrase": "fallen fascist",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Type": "Adjective phrase / collocation",
+      "Usage / register": "Political reporting; the minister's own wording, not a neutral description."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "C",
+      "explanation": "The columnist cites the World Economic Forum: 170 million new jobs created by 2030 while 92 million are displaced, a net gain of 78 million jobs.",
+      "no": 1,
+      "options": {
+        "A": "92 million jobs",
+        "B": "170 million jobs",
+        "C": "78 million jobs",
+        "D": "262 million jobs"
+      },
+      "question": "According to the World Economic Forum figures cited by columnist Sarwar Uddin Ahmed, what is the net gain in jobs expected from AI by 2030?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "Prothom Alo reports that the supply of 350 megawatts of nuclear power from Rooppur to the national grid began on 17 November 2026 on an experimental basis.",
+      "no": 2,
+      "options": {
+        "A": "100 megawatts",
+        "B": "250 megawatts",
+        "C": "500 megawatts",
+        "D": "350 megawatts"
+      },
+      "question": "How much electricity from Rooppur's first unit was supplied to the national grid in the trial connection that began on 17 November 2026?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "Necessary licences and approvals must be obtained from the Bangladesh Atomic Energy Regulatory Authority (BAERA) to gradually enhance production capacity to 100 per cent; the test results report goes to BAERA first.",
+      "no": 3,
+      "options": {
+        "A": "The Power Development Board, which only monitors supply, alone",
+        "B": "The Power Grid Company of Bangladesh, which only keeps the grid balanced, alone",
+        "C": "The Russian contractor alone",
+        "D": "The Bangladesh Atomic Energy Regulatory Authority"
+      },
+      "question": "Before Rooppur's production capacity can be increased to 100 per cent, whose licences and approvals must be obtained?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "The UN General Assembly last month adopted a resolution granting Bangladesh an additional three years, until 24 November 2029, to prepare for LDC graduation.",
+      "no": 4,
+      "options": {
+        "A": "24 November 2026",
+        "B": "17 November 2029",
+        "C": "24 November 2030",
+        "D": "24 November 2029"
+      },
+      "question": "Until when has Bangladesh's graduation from least developed country status been extended, according to the United Nations General Assembly resolution cited in the report?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "B",
+      "explanation": "The minister named leather and leather goods, non-leather footwear, shipbuilding, ship recycling and light engineering as diversification priorities alongside RMG; pharmaceuticals, tea and jute, and electronics were not named. (CA03)",
+      "no": 5,
+      "options": {
+        "A": "Pharmaceuticals and chemicals",
+        "B": "Leather goods",
+        "C": "Tea, jute and spices",
+        "D": "Electronics and software"
+      },
+      "question": "Which of the following sectors did Commerce Minister Khandaker Abdul Muktadir name as a priority for export diversification alongside the ready-made garment sector?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "The government has decided in principle to construct a Y-shaped bridge connecting Manikganj, Rajbari and Pabna, joining Paturia, Daulatdia and Kazirhat.",
+      "no": 6,
+      "options": {
+        "A": "Manikganj, Rajbari and Dhaka",
+        "B": "Pabna, Bogura and Rajbari",
+        "C": "Manikganj, Rajbari and Pabna",
+        "D": "Manikganj, Pabna and Bogura district"
+      },
+      "question": "Which three districts will the planned Y-shaped second Padma Bridge link?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "B",
+      "explanation": "NCC Bank signed an agreement to join Bangladesh Bank's Tk2,000 crore pre-finance fund for the export-oriented frozen food sector. (CA05)",
+      "no": 7,
+      "options": {
+        "A": "Tk200 crore",
+        "B": "Tk2,000 crore",
+        "C": "Tk20,000 crore",
+        "D": "Tk500 crore"
+      },
+      "question": "What is the size of Bangladesh Bank's pre-finance fund for the export-oriented frozen food sector that NCC Bank has joined?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "C",
+      "explanation": "Shama Obaed said fugitive leaders of the fallen Awami League are directing attempts to create anarchy; the UN, she said, has expressed concern and sought more information. (CA06)",
+      "no": 8,
+      "options": {
+        "A": "Garment factory owners and their industry associations",
+        "B": "The United Nations, which only sought more information",
+        "C": "Fugitive leaders of the fallen Awami League",
+        "D": "Foreign investors and overseas buyers of garments"
+      },
+      "question": "According to State Minister Shama Obaed Islam, who is directing attempts to create anarchy in Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "A",
+      "explanation": "The columnist cites the IMF projection of average growth of 2.82 per cent in 2027-2031, the lowest in the region; 6.5 per cent is the government's expectation for this fiscal year, 4.2 per cent was 2024 growth, and 6.9 per cent is India's projected average. (CA07)",
+      "no": 9,
+      "options": {
+        "A": "2.82 per cent",
+        "B": "6.5 per cent, the government's expectation for this year",
+        "C": "4.2 per cent",
+        "D": "6.9 per cent"
+      },
+      "question": "According to the IMF projection cited by columnist Birupaksha Paul, what is Bangladesh's projected average growth in 2027-2031?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "correct": "B",
+      "explanation": "Shafiqur Rahman said the RMG sector was the lifeblood of Bangladesh's economy, generating around 80% of its export earnings, worth $38-40 billion.",
+      "no": 10,
+      "options": {
+        "A": "About 50%",
+        "B": "About 80%",
+        "C": "About 60%",
+        "D": "About 90%"
+      },
+      "question": "According to Opposition Leader Shafiqur Rahman in parliament on 17 November 2026, about what share of Bangladesh's export earnings does the ready-made garment (RMG) sector generate?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "D",
+      "explanation": "The complex has 87,500 square feet of covered space: five new warehouse units of 13,500 square feet each plus an existing 20,000-square-foot warehouse.",
+      "no": 11,
+      "options": {
+        "A": "20,000 square feet",
+        "B": "67,500 square feet",
+        "C": "13,500 square feet",
+        "D": "87,500 square feet"
+      },
+      "question": "How much covered space does MJL Bangladesh's new six-warehouse complex in South Patenga, near Chattogram Port, offer?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "no": 12,
+      "section": "Current Affairs",
+      "question": "According to the Prothom Alo investigation, how much of the Turag River's width at Salehpur Bridge has been filled in by the approach roads at the two ends?",
+      "options": {
+        "A": "About 250 feet of the river's width",
+        "B": "About 59 paces, the bridge's shortened length",
+        "C": "About 160 feet of river filled in",
+        "D": "About 500 feet of river filled in"
+      },
+      "correct": "A",
+      "explanation": "The approach roads encroaching on the river stretched for a total of 160 paces, or approximately 250 feet; the bridge itself was shortened to just 59 paces. (CA12)",
+      "source": "CA12"
+    },
+    {
+      "correct": "A",
+      "explanation": "Mahdi Amin named infrastructure, energy, technology and digital transformation as the sectors for DFC-backed US investment; agriculture, fisheries and textiles were not named in the report.",
+      "no": 13,
+      "options": {
+        "A": "Technology",
+        "B": "Agriculture",
+        "C": "Fisheries",
+        "D": "Textiles"
+      },
+      "question": "Which of the following was named by Prime Minister's Adviser Mahdi Amin as a sector where DFC financing could support US investment in Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA11"
+    },
+    {
+      "correct": "B",
+      "explanation": "'Procure' means to obtain or acquire. The fund lets exporters procure raw materials for producing frozen foods. (CA05)",
+      "no": 14,
+      "options": {
+        "A": "To sell goods at a loss when the market falls",
+        "B": "To obtain or acquire, especially by effort",
+        "C": "To discard or throw away unwanted material for good",
+        "D": "To freeze food quickly for storage and later export"
+      },
+      "question": "In the frozen food fund story, businesses can obtain financing to 'produce, procure, process and preserve' frozen foods. What does 'procure' mean here?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "C",
+      "explanation": "'Preserve' means to keep something in its existing state and protect it from decay or loss, here by freezing food for export. (CA05)",
+      "no": 15,
+      "options": {
+        "A": "To spend money wastefully on unnecessary things, again and again, with no return",
+        "B": "To sell goods abroad to buyers in foreign markets overseas for a quick profit",
+        "C": "To keep something in its existing state; to protect it from decay or loss",
+        "D": "To divide something into separate parts or shares for different owners to use"
+      },
+      "question": "What does 'preserve' mean in the sentence about financing to 'produce, procure, process and preserve frozen shrimp, fish, fishery products and other frozen foods'?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "A",
+      "explanation": "'Modernise' means to update with modern equipment and methods; the fund pays to modernise frozen food processing plants. (CA05)",
+      "no": 16,
+      "options": {
+        "A": "To update with modern equipment and methods",
+        "B": "To close a factory down permanently and dismiss all its workers",
+        "C": "To reduce a plant to its smallest possible size and output",
+        "D": "To move a factory to another country far away from here"
+      },
+      "question": "Financing can be used to 'set up, expand or modernise processing plants'. What does 'modernise' mean?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "'Anarchy' is a state of disorder and confusion caused by the absence of government control or authority. (CA06)",
+      "no": 17,
+      "options": {
+        "A": "Strict military rule imposed by soldiers after a coup",
+        "B": "A democratic election held freely and fairly by all voters",
+        "C": "A trade agreement signed between two countries for goods",
+        "D": "A state of disorder without government control"
+      },
+      "question": "State Minister Shama Obaed said fugitive leaders are 'directing attempts to create anarchy in the country'. What is 'anarchy'?",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "B",
+      "explanation": "'Concerted' means planned and carried out together in a coordinated way; here, concerted efforts to destabilise the garment sector. (CA06)",
+      "no": 18,
+      "options": {
+        "A": "Done secretly by one person acting entirely on their own",
+        "B": "Planned and carried out jointly; coordinated",
+        "C": "Done by accident, without any plan or intention at all",
+        "D": "Delayed for a long time by waiting and putting things off"
+      },
+      "question": "The minister said forces were 'making concerted efforts to destabilise the ready-made garment sector'. What does 'concerted' mean?",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "C",
+      "explanation": "'Acceleration' is a speeding up, here an increase in the rate of economic growth; its opposite is deceleration. (CA07)",
+      "no": 19,
+      "options": {
+        "A": "A sudden fall in prices across the market in a single day",
+        "B": "A period of no change in prices, output or employment",
+        "C": "A speeding up; an increase in the rate of growth",
+        "D": "A tax on exports charged at the border by customs officers"
+      },
+      "question": "The columnist asks why Bangladesh fell from 'acceleration' of growth to 'deceleration'. What does 'acceleration' mean?",
+      "section": "Vocabulary",
+      "source": "CA07"
+    },
+    {
+      "correct": "A",
+      "explanation": "'Deceleration' is a slowing down, here a decrease in the rate of GDP growth. (CA07)",
+      "no": 20,
+      "options": {
+        "A": "A slowing down; a decrease in the rate of growth",
+        "B": "A rapid increase in exports to foreign markets overseas",
+        "C": "A change of government after a general election is held",
+        "D": "A new trade policy announced by the government this year"
+      },
+      "question": "What does 'deceleration' mean in the columnist's question about falling from 'acceleration' of growth to 'deceleration'?",
+      "section": "Vocabulary",
+      "source": "CA07"
+    },
+    {
+      "correct": "D",
+      "explanation": "'Productivity' is how efficiently goods are produced, measured as output per worker; the article says it is not keeping pace with the growth in firms. (CA08)",
+      "no": 21,
+      "options": {
+        "A": "The total number of workers employed in a factory or firm",
+        "B": "The total value of exports sold by a country in one year",
+        "C": "The price of raw materials bought by factories each month",
+        "D": "Output per worker; how efficiently goods are produced"
+      },
+      "question": "'Bangladesh's businesses are multiplying, but jobs, productivity and export participation are not keeping pace.' What is 'productivity'?",
+      "section": "Vocabulary",
+      "source": "CA08"
+    },
+    {
+      "correct": "B",
+      "explanation": "'Frontier firms' are the leading, most advanced firms; their share of export revenue rose from 37% to 69% while the share of firms exporting fell. (CA08)",
+      "no": 22,
+      "options": {
+        "A": "A closed border post where no trade or travel is allowed",
+        "B": "The leading or most advanced firms in a field",
+        "C": "A government tax office that collects duties on imports",
+        "D": "A small rural market selling vegetables and household goods"
+      },
+      "question": "World Bank data show 'frontier firms' share of export revenue rose from 37% to 69%'. What does 'frontier' mean here?",
+      "section": "Vocabulary",
+      "source": "CA08"
+    },
+    {
+      "correct": "C",
+      "explanation": "'Concentrated' means gathered together in a few hands or places; exports are concentrated in fewer companies. (CA08)",
+      "no": 23,
+      "options": {
+        "A": "Spread thinly across many firms in different districts",
+        "B": "Reduced to zero, with nothing left at all in the end",
+        "C": "Gathered together in a few hands or places",
+        "D": "Sold at a discount to clear old stock quickly this week"
+      },
+      "question": "'Exports are concentrated in fewer companies, narrowing Bangladesh's exporter base.' What does 'concentrated' mean?",
+      "section": "Vocabulary",
+      "source": "CA08"
+    },
+    {
+      "correct": "A",
+      "explanation": "The fund finances frozen shrimp, fish and fishery products preserved by freezing for export. (CA05)",
+      "no": 24,
+      "options": {
+        "A": "Food preserved by freezing for storage and export, such as frozen shrimp and fish",
+        "B": "Food cooked and served hot at once, straight from the stove to the table this evening",
+        "C": "Food grown entirely without water in dry fields far from any river, canal or pond",
+        "D": "Food imported only during the cold winter months, when local supplies have completely run low"
+      },
+      "question": "What does 'frozen food' refer to in the NCC Bank story?",
+      "section": "Phrases",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "The columnist argues Bangladesh has entered an era of low growth, citing the IMF projection of 2.82 per cent average growth in 2027-2031. (CA07)",
+      "no": 25,
+      "options": {
+        "A": "A fall in the population as fewer children are born and more people leave the country",
+        "B": "A rise in exports to foreign buyers in overseas markets around the world this year",
+        "C": "A cut in government spending on schools, roads and hospitals across the country",
+        "D": "An era in which GDP grows only slowly, here projected at 2.82 per cent a year"
+      },
+      "question": "In Birupaksha Paul's column, what does the phrase 'low growth' describe?",
+      "section": "Phrases",
+      "source": "CA07"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Will AI take away the jobs of our graduates?",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/thoughts/will-ai-take-away-jobs-our-graduates-1605991"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Nuclear power connected to national grid for the first time",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/f6htl23qg1"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Xinhua",
+      "Headline / report": "Bangladesh seeks World Bank support for trade reforms, export diversification ahead of LDC graduation",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://english.news.cn/20261118/b8cd610b1bf84cf8abcc5ee64b26e422/c.html"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh seeks World Bank support for business reforms, export diversification: Minister",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-world-bank-support-business-reforms-export-diversification-minister"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Second Padma Bridge to take Y-shape, link three districts, where will the second Jamuna Bridge be built?",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/f9vz5dfx47"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "NCC Bank joins BB's Tk2,000 crore fund for frozen food exporters",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://www.tbsnews.net/economy/corporates/ncc-bank-joins-bbs-tk2000-crore-fund-frozen-food-exporters-1605616"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Fugitive AL leaders fuelling unrest in Bangladesh: Shama Obaed",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/politics/fugitive-al-leaders-fuelling-unrest-bangladesh-shama-obaed-1605966"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Has the economy entered an era of low growth?",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/okc96qs578"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh has millions of small firms. Why do so few become exporters?",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://www.tbsnews.net/features/bangladesh-has-millions-small-firms-why-do-so-few-become-exporters-1604926"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "MPs reiterate bipartisan support for RMG wage hike, while warning against conspiracies",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/economy/rmg/mps-reiterate-bipartisan-support-rmg-wage-hike-while-warning-against-conspiracies"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "MJL Bangladesh develops 5-acre green, automated warehouse complex near Ctg Port",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/economy/mjl-bangladesh-develops-5-acre-green-automated-warehouse-complex-near-ctg-port-1605996"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh qualifies for US DFC financing over labour-friendly policies: Mahdi",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/bangladesh-qualifies-us-dfc-financing-over-labour-friendly-policies-mahdi-1605296"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "“Choked by design”: How small, low bridges killing rivers in Bangladesh",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/ck81okjlvg"
+    }
+  ],
+  "approved_by": "auto-17/17",
+  "approval_notes": "Auto-published under Rudro's v1 rule (2026-11-13): review 17/17 + longest-correct 4/25. V1 FALLBACK day: the v2 engine failed at convert (9 phrases; Bangla summaries cross-contaminated by a Step 4/5 fact-attribution bug), so the frozen v1 engine ran instead per the daily runbook. Pack written by: agent (operator acting as the Claude Project; 3-writer coordinator). Manual spot-checks by operator: lead figures in CA01/CA02/CA03/CA04/CA05/CA10 summaries all verified against source texts; CA11 figures verified verbatim against the fetched TBS article; opinion stories CA01/CA07 carry attribution ('Columnist X argues...'). Honest limit: checks 13/17 include proxy + manual spot-checks that got no human eye beyond the operator's checks above; the 17 checks verify form, not content against sources (Edition 7 lesson). Sync HELD: the live index still carries the 5-story 17 Nov replacement (tracker 0) and Rudro has not yet decided keep-vs-restore; syncing now would overwrite that undecided live state. The edition is published locally; sync when Rudro decides."
+}

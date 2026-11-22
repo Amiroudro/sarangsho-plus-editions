@@ -1,0 +1,2120 @@
+{
+  "edition_date": "2026-11-20",
+  "edition_day": "Friday",
+  "coverage": "19 Nov 2026, 7:47 AM to 2026-11-20, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 13,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-19",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-19",
+      "exam_facts": "The columnist argues that without a reliable bond market, banks take on dangerous timing mismatches between short-term deposits and long-term loans; without active currency forward markets, businesses raise their prices to protect themselves against sudden exchange-rate swings; and without deep stock markets, institutional investors stay away and poor corporate management goes unpunished. The columnist argues that commercial banks buy the vast majority of new corporate bonds and sukuk issues and lock them away until maturity, so a bond that never trades in the secondary market is simply a bank loan in disguise, and that even in government securities, where trading on Bangladesh Bank's electronic platform has grown, the market still lacks a continuous, reliable benchmark for long-term interest rates. In the columnist's example, a manufacturer wanting to build a factory that takes seven to ten years to pay off cannot easily raise money through a ten-year fixed-rate bond, because large non-bank institutions such as insurance companies and pension funds refuse to buy long-term bonds they cannot easily sell; the manufacturer must instead rely on bank financing whose interest rates change every six to twelve months, while around 70 per cent of bank deposits mature within a single year. Note: the fetched article text ends mid-sentence ('When interest r'), so nothing beyond that cut-off is used here.",
+      "exam_relevance": "Capital markets, secondary markets, bond market, banking system, interest-rate risk -- core BCS/Bank economy and banking topics.",
+      "figures": "Commercial banks provide roughly 80 per cent of all debt financing; corporate bonds make up less than one-tenth of one per cent of GDP; secondary trading in corporate debt almost non-existent; around 70 per cent of bank deposits mature within a single year; manufacturer bank-financing rates change every 6-12 months",
+      "headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "id": "CA01",
+      "key_people": "Sajed ul Islam, senior banking executive (columnist)",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "The silent tax of illiquidity: Why secondary market depth matters",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68"
+        }
+      ],
+      "summary": "Columnist Sajed ul Islam argues Bangladesh's thin secondary markets act as a 'silent tax': commercial banks provide roughly 80 per cent of all debt financing, while corporate bonds make up less than one-tenth of one per cent of GDP and secondary trading in corporate debt is almost non-existent. He argues risks that cannot be priced, hedged or shared stay trapped on banks' balance sheets, keeping borrowing costs high and the banking system overburdened -- a capital-market and banking-reform question for BCS/Bank.",
+      "why_it_matters": "The columnist's figures -- banks at roughly 80% of debt financing against corporate bonds below 0.1% of GDP -- are the exact numbers for BCS/Bank questions on why Bangladesh's capital market cannot share risk, and his 70%-of-deposits-mature-within-a-year mismatch is the background for the next story on bank liquidity and interest-rate risk.",
+      "one_liner": "Columnist Sajed ul Islam argues Bangladesh's thin secondary markets act as a 'silent tax': commercial banks provide roughly 80 per…",
+      "key_facts": [
+        {
+          "label": "Commercial banks provide roughly per cent…",
+          "value": "80",
+          "original": "Commercial banks provide roughly 80 per cent of all debt financing"
+        },
+        {
+          "label": "",
+          "value": "secondary trading in corporate debt almost non-existent",
+          "original": "secondary trading in corporate debt almost non-existent"
+        },
+        {
+          "label": "around per cent of bank deposits…",
+          "value": "70",
+          "original": "around 70 per cent of bank deposits mature within a single year"
+        },
+        {
+          "label": "manufacturer bank-financing rates change every months",
+          "value": "6-12",
+          "original": "manufacturer bank-financing rates change every 6-12 months"
+        }
+      ],
+      "what_happened": [
+        "He argues risks that cannot be priced, hedged or shared stay trapped on banks' balance sheets,",
+        "keeping borrowing costs high and the banking system overburdened -- a capital-market and banking-reform question for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "What share of all debt financing do commercial banks provide?",
+          "a": "Roughly 80 per cent"
+        },
+        {
+          "q": "What share of GDP do corporate bonds make up?",
+          "a": "Less than one-tenth of one per cent"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Sajed ul Islam argues Bangladesh's thin secondary markets act as a 'silent tax': commercial banks provide roughly ______ per cent of all debt financing, while corporate bonds make up less than one-tenth of one per cent of GDP and secondary trading in corporate debt is almost non-existent.",
+          "answer": "80"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "silent",
+        "illiquidity",
+        "secondary",
+        "market",
+        "depth",
+        "matters"
+      ],
+      "detail": "Columnist Sajed ul Islam argues Bangladesh's thin secondary markets act as a 'silent tax': commercial banks provide roughly 80 per cent of all debt financing, while corporate bonds make up less than one-tenth of one per cent of GDP and secondary trading in corporate debt is almost non-existent. He argues risks that cannot be priced, hedged or shared stay trapped on banks' balance sheets, keeping borrowing costs high and the banking system overburdened -- a capital-market and banking-reform question for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-20",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-20",
+      "exam_facts": "Under the directive, banks must consider borrowers who have obtained such court orders in response to cases or writ petitions against their lenders eligible for the schemes, and other loan disbursements must follow BRPD-1 Circular Letter No 25, issued on 29 July 2026. The 15 schemes include refinancing support for closed industries and services, CMSME working capital, agriculture and rural development, export diversification, pre-shipment credit, green factories, and leather and leather goods; other facilities target agricultural economic zones in northern Bangladesh, cottage and micro entrepreneurs, overseas employment, and job creation for unemployed youths. Bangladesh Bank said the programmes aim to create direct and indirect employment, revive economic activity, retain workers, maintain entrepreneurs' competitiveness and accelerate growth. Note: the fetched TBS body ends mid-sentence ('rural econ'), so nothing beyond that cut-off is used here; no separate date for the directive itself is given in the article, so the event date is set to the article date.",
+      "exam_relevance": "Bangladesh Bank stimulus, CMSME, loan disputes, employment generation -- core BCS/Bank banking and economy topics.",
+      "figures": "Tk60,000 crore; 15 schemes; BRPD-1 Circular Letter No 25, 29 July 2026",
+      "headline": "Borrowers in disputes eligible for Tk60,000cr stimulus loans with court stay orders",
+      "id": "CA02",
+      "key_people": "Senior Bangladesh Bank official (unnamed)",
+      "sources": [
+        {
+          "date": "2026-11-20",
+          "headline": "Borrowers in disputes eligible for Tk60,000cr stimulus loans with court stay orders",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/borrowers-disputes-eligible-tk60000cr-stimulus-loans-court-stay-orders-1608416"
+        }
+      ],
+      "summary": "Bangladesh Bank has relaxed its rules so borrowers in disputes with their lenders can access loans under its Tk60,000 crore stimulus schemes if they obtain a court stay order suspending loan-related proceedings, without withdrawing their cases. The central bank issued the directive recently to implement 15 economic recovery schemes, after disputes had blocked many customers from fresh loans and slowed disbursement. The schemes cover industries, CMSMEs, agriculture and employment-generating sectors -- a banking, stimulus and employment question for BCS/Bank.",
+      "why_it_matters": "The Tk60,000 crore package across 15 schemes and the court-stay-order route for disputed borrowers are the exact facts for BCS/Bank questions on stimulus lending, and the BRPD-1 Circular Letter No 25 of 29 July 2026 is the background for the next story on how Bangladesh Bank channels recovery credit.",
+      "one_liner": "Bangladesh Bank has relaxed its rules so borrowers in disputes with their lenders can access loans under its Tk60,000 crore…",
+      "key_facts": [
+        {
+          "label": "schemes",
+          "value": "15",
+          "original": "15 schemes"
+        },
+        {
+          "label": "BRPD- Circular Letter No 25, 29…",
+          "value": "1",
+          "original": "BRPD-1 Circular Letter No 25, 29 July 2026"
+        },
+        {
+          "label": "Under the directive, banks must consider…",
+          "value": "1",
+          "original": "Under the directive, banks must consider borrowers who have obtained such court orders in response to cases or writ petitions against their lenders eligible for the schemes, and other loan disbursements must follow BRPD-1 Circular Letter No 25, issued on 29 July 2026. The 15 schemes include refinancing support for closed industries and services, CMSME working capital, agriculture and rural development, export diversification, pre-shipment credit, green factories, and leather and leather goods"
+        }
+      ],
+      "what_happened": [
+        "The central bank issued the directive recently to implement 15 economic recovery schemes, after disputes had blocked many customers from fresh loans and slowed disbursement.",
+        "The schemes cover industries, CMSMEs, agriculture and employment-generating sectors -- a banking, stimulus and employment question for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How large are the stimulus schemes?",
+          "a": "Tk60,000 crore"
+        },
+        {
+          "q": "How many economic recovery schemes are there?",
+          "a": "15"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has relaxed its rules so borrowers in disputes with their lenders can access loans under its Tk______ crore stimulus schemes if they obtain a court stay order suspending loan-related proceedings, without withdrawing their cases.",
+          "answer": "60,000"
+        },
+        {
+          "cloze": "The central bank issued the directive recently to implement ______ economic recovery schemes, after disputes had blocked many customers from fresh loans and slowed disbursement.",
+          "answer": "15"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "borrowers",
+        "disputes",
+        "eligible",
+        "stimulus",
+        "loans",
+        "court",
+        "stay",
+        "orders"
+      ],
+      "detail": "Bangladesh Bank has relaxed its rules so borrowers in disputes with their lenders can access loans under its Tk60,000 crore stimulus schemes if they obtain a court stay order suspending loan-related proceedings, without withdrawing their cases. The central bank issued the directive recently to implement 15 economic recovery schemes, after disputes had blocked many customers from fresh loans and slowed disbursement. The schemes cover industries, CMSMEs, agriculture and employment-generating sectors -- a banking, stimulus and employment question for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-19",
+      "exam_facts": "Under the previous policy, only 'genuine farmers engaged in agricultural activities' were considered eligible for such loans; the revised policy expands eligibility to individuals, groups, entrepreneurs and institutions directly or indirectly involved in agricultural activities. Bangladesh Bank has also brought the agricultural technology sector under the scope of its agricultural and rural credit policy: banks may provide loans for solar energy solutions, including solar panels, and biogas projects to help address energy shortages, and agricultural loans may support installing solar panels in households in areas without access to electricity. Scheduled banks have been instructed to organise public awareness programmes on the disbursement and recovery of agricultural and rural loans, in the presence of officials from Bangladesh Bank's Agricultural Credit Department.",
+      "exam_relevance": "Agricultural credit, transparency, rural finance, solar energy -- core BCS/Bank agriculture and banking topics.",
+      "figures": "No loan figures stated in the article; circular issued 19 November 2026",
+      "headline": "Bangladesh Bank directs open disbursement of agricultural loans",
+      "id": "CA03",
+      "key_people": "Bangladesh Bank; Agricultural Credit Department, Bangladesh Bank",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "Bangladesh Bank directs open disbursement of agricultural loans",
+          "publication": "bdnews24.com",
+          "url": "https://bdnews24.com/economy/1fyn5bspbg"
+        }
+      ],
+      "summary": "Bangladesh Bank has directed scheduled banks to disburse agricultural loans openly -- in public, in the presence of public representatives, agricultural officials, teachers and other prominent local figures -- to small, marginalised, landless and sharecropping farmers, to make the process transparent. Banks may also set up camps at local markets on market days to inform farmers and facilitate disbursement. The circular, issued on Thursday 19 November, also widened who can borrow -- an agricultural-credit question for BCS/Bank.",
+      "why_it_matters": "The open, public disbursement rule and the widened eligibility -- from only 'genuine farmers' to anyone directly or indirectly involved in agriculture -- are the exact facts for BCS/Bank questions on agricultural credit, and the new solar-panel and biogas lending is the background for the next story on rural energy finance.",
+      "one_liner": "Bangladesh Bank has directed scheduled banks to disburse agricultural loans openly -- in public, in the presence of public representatives,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "No loan figures stated in the article",
+          "original": "No loan figures stated in the article"
+        },
+        {
+          "label": "",
+          "value": "circular issued 19 November 2026",
+          "original": "circular issued 19 November 2026"
+        }
+      ],
+      "what_happened": [
+        "Banks may also set up camps at local markets on market days to inform farmers and facilitate disbursement.",
+        "The circular, issued on Thursday 19 November, also widened who can borrow -- an agricultural-credit question for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "When was the circular on open disbursement of agricultural loans issued?",
+          "a": "Thursday 19 November 2026"
+        },
+        {
+          "q": "Who must be present when agricultural loans are disbursed?",
+          "a": "Public representatives, agricultural officials, teachers and other prominent local figures"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The circular, issued on Thursday ______, also widened who can borrow -- an agricultural-credit question for BCS/Bank.",
+          "answer": "19 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "directs",
+        "open",
+        "disbursement",
+        "agricultural",
+        "loans"
+      ],
+      "detail": "Bangladesh Bank has directed scheduled banks to disburse agricultural loans openly -- in public, in the presence of public representatives, agricultural officials, teachers and other prominent local figures -- to small, marginalised, landless and sharecropping farmers, to make the process transparent. Banks may also set up camps at local markets on market days to inform farmers and facilitate disbursement. The circular, issued on Thursday 19 November, also widened who can borrow -- an agricultural-credit question for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-19",
+      "exam_facts": "UDYOG was introduced through a Bangladesh Bank SMESPD circular under Section 45 of the Bank Company Act, 1991. City Bank has been designated Upazila Lead Bank for 12 upazilas — Alfadanga, Gopalganj Sadar, Bhairab, Munshiganj Sadar, Sonargaon, Shibpur, Hajiganj, Laksam, Senbagh, Sirajganj Sadar, Bishwanath and Dinajpur Sadar — and District Lead Bank for Gopalganj and Munshiganj, and Joint District Lead Bank for Mymensingh. Beyond money, the programme offers financial literacy training, entrepreneurship development, mentoring, help with business registration and business plan preparation, and market linkages. Applicants apply through any scheduled bank branch in the designated upazilas; selection involves transparent screening, independent credit appraisal by the financing banks and simultaneous disbursement of the approved loan.",
+      "exam_relevance": "Youth entrepreneurship, SME finance, Bangladesh Bank refinance and blended finance, Bank Company Act 1991 -- core BCS/Bank banking and economy topics.",
+      "figures": "Blended financing up to BDT 20 lakh (loan up to BDT 10 lakh + grant up to BDT 10 lakh); launched in 64 upazilas in 8 districts; 22,000 applications; expanded to remaining 56 districts from 1 November 2026; City Bank Upazila Lead Bank for 12 upazilas",
+      "headline": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+      "id": "CA04",
+      "key_people": "Mashrur Arefin, Managing Director & CEO, City Bank; Sheikh Abdul Kuddus, Director, SME & Special Programmes Department, Bangladesh Bank; Mohammad Masudur Rahman, Joint Director, Bangladesh Bank; Ashanur Rahman, DMD, Chief Economist & Country Business Manager, City Bank",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/corporate/21wihd5cni"
+        }
+      ],
+      "summary": "City Bank held a Munshiganj awareness event on 19 November for Bangladesh Bank's UDYOG youth-entrepreneurship scheme, under which selected young entrepreneurs can receive blended financing of up to BDT 20 lakh — a bank loan of up to BDT 10 lakh plus an equal grant. Launched in 64 upazilas across eight districts, the scheme drew 22,000 applications and was expanded to the remaining 56 districts from 1 November 2026, tackling young entrepreneurs' lack of experience, collateral and access to finance.",
+      "why_it_matters": "The BDT 20 lakh blended package — half loan, half grant — and the jump from 64 upazilas to all 56 remaining districts from 1 November 2026 are the exact figures for BCS/Bank questions on youth entrepreneurship finance, and the Section 45 Bank Company Act anchor is the background for the next story on Bangladesh Bank's SME schemes.",
+      "one_liner": "City Bank held a Munshiganj awareness event on 19 November for Bangladesh Bank's UDYOG youth-entrepreneurship scheme, under which selected young…",
+      "key_facts": [
+        {
+          "label": "loan up to BDT 10 lakh + grant up to BDT 10 lakh",
+          "value": "Blended financing up to BDT 20 lakh",
+          "original": "Blended financing up to BDT 20 lakh (loan up to BDT 10 lakh + grant up to BDT 10 lakh)"
+        },
+        {
+          "label": "launched in upazilas in 8 districts",
+          "value": "64",
+          "original": "launched in 64 upazilas in 8 districts"
+        },
+        {
+          "label": "expanded to remaining districts from 1…",
+          "value": "56",
+          "original": "expanded to remaining 56 districts from 1 November 2026"
+        },
+        {
+          "label": "City Bank Upazila Lead Bank for…",
+          "value": "12",
+          "original": "City Bank Upazila Lead Bank for 12 upazilas"
+        }
+      ],
+      "what_happened": [
+        "Launched in 64 upazilas across eight districts, the scheme drew 22,000 applications and was expanded to the remaining 56 districts from 1 November 2026,",
+        "tackling young entrepreneurs' lack of experience, collateral and access to finance."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much blended financing can a selected UDYOG entrepreneur receive?",
+          "a": "Up to BDT 20 lakh"
+        },
+        {
+          "q": "How many applications did UDYOG draw?",
+          "a": "22,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "City Bank held a Munshiganj awareness event on ______ for Bangladesh Bank's UDYOG youth-entrepreneurship scheme, under which selected young entrepreneurs can receive blended financing of up to BDT 20 lakh — a bank loan of up to BDT 10 lakh plus an equal grant.",
+          "answer": "19 November"
+        },
+        {
+          "cloze": "Launched in 64 upazilas across eight districts, the scheme drew 22,000 applications and was expanded to the remaining 56 districts from ______, tackling young entrepreneurs' lack of experience, collateral and access to finance.",
+          "answer": "1 November 2026"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "city",
+        "bank",
+        "promotes",
+        "youth",
+        "entrepreneurship",
+        "bangladesh",
+        "udyog",
+        "initiative",
+        "munshiganj"
+      ],
+      "detail": "City Bank held a Munshiganj awareness event on 19 November for Bangladesh Bank's UDYOG youth-entrepreneurship scheme, under which selected young entrepreneurs can receive blended financing of up to BDT 20 lakh — a bank loan of up to BDT 10 lakh plus an equal grant. Launched in 64 upazilas across eight districts, the scheme drew 22,000 applications and was expanded to the remaining 56 districts from 1 November 2026, tackling young entrepreneurs' lack of experience, collateral and access to finance."
+    },
+    {
+      "article_date": "2026-11-20",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-18",
+      "exam_facts": "Egypt alone accounted for around 5 million tonnes of the MENASA region's US soybean imports in 2025-26, while Algeria's imports exceeded 500,000 tonnes in the early part of the 2026-27 marketing year, according to export data from the US Department of Agriculture's Foreign Agricultural Service. Several Bangladeshi representatives attended the Istanbul conference. Mike McCranie, a US soybean farmer and chairman of the US Soybean Export Council, said the conference connected American farmers directly with buyers in the region. USSEC President and CEO Jim Sutter said soybean trade plays an important role in strengthening bilateral trade between the United States and MENASA countries. Note: the fetched article text ends mid-sentence, so nothing beyond the cut-off is used here.",
+      "exam_relevance": "Poultry and fisheries exports, feed imports, global commodity trade, geopolitics and trade routes -- core BCS/Bank economy and agriculture topics.",
+      "figures": "MENASA imports of US soybeans over 8 million tonnes in 2025-26; Egypt around 5 million tonnes; Algeria over 500,000 tonnes early 2026-27; CrushCON 2026 in Istanbul on 18 November",
+      "headline": "Global soybean market shifts put Bangladesh's poultry, fish industries on alert",
+      "id": "CA05",
+      "key_people": "Mike McCranie, US soybean farmer and chairman, US Soybean Export Council; Jim Sutter, President and CEO, US Soybean Export Council",
+      "sources": [
+        {
+          "date": "2026-11-20",
+          "headline": "Global soybean market shifts put Bangladesh's poultry, fish industries on alert",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/global-soybean-market-shifts-put-bangladeshs-poultry-fish-industries-alert-1608406"
+        }
+      ],
+      "summary": "Bangladesh's fast-growing poultry and fisheries industries must pay closer attention to the nutritional quality and reliability of imported soybean meal, experts warned at CrushCON 2026, the US Soybean Export Council conference in Istanbul on 18 November. Wars, geopolitical uncertainty and shifting trade routes are reshaping global soybean sourcing, while buyers now prize nutrition and reliable supply over price. MENASA countries imported more than 8 million tonnes of US soybeans in 2025-26, and consistent feed quality is now crucial for Bangladesh's fish and poultry exports.",
+      "why_it_matters": "The 8-million-tonne MENASA import figure and the shift from price to nutritional quality and supply reliability are the exact facts for BCS/Bank questions on feed imports and export competitiveness, and the Istanbul conference is the background for the next story on how geopolitics reshapes Bangladesh's food supply chains.",
+      "one_liner": "Bangladesh's fast-growing poultry and fisheries industries must pay closer attention to the nutritional quality and reliability of imported soybean meal,…",
+      "key_facts": [
+        {
+          "label": "MENASA imports of US soybeans over…",
+          "value": "8 million",
+          "original": "MENASA imports of US soybeans over 8 million tonnes in 2025-26"
+        },
+        {
+          "label": "Egypt around tonnes",
+          "value": "5 million",
+          "original": "Egypt around 5 million tonnes"
+        },
+        {
+          "label": "Algeria over tonnes early 2026-27",
+          "value": "500,000",
+          "original": "Algeria over 500,000 tonnes early 2026-27"
+        },
+        {
+          "label": "CrushCON in Istanbul on 18 November",
+          "value": "2026",
+          "original": "CrushCON 2026 in Istanbul on 18 November"
+        }
+      ],
+      "what_happened": [
+        "Wars, geopolitical uncertainty and shifting trade routes are reshaping global soybean sourcing, while buyers now prize nutrition and reliable supply over price.",
+        "MENASA countries imported more than 8 million tonnes of US soybeans in 2025-26, and consistent feed quality is now crucial for Bangladesh's fish and poultry exports."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much US soybean did MENASA countries import in 2025-26?",
+          "a": "More than 8 million tonnes"
+        },
+        {
+          "q": "Where was CrushCON 2026 held?",
+          "a": "Istanbul, Türkiye"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's fast-growing poultry and fisheries industries must pay closer attention to the nutritional quality and reliability of imported soybean meal, experts warned at CrushCON 2026, the US Soybean Export Council conference in Istanbul on ______.",
+          "answer": "18 November"
+        },
+        {
+          "cloze": "MENASA countries imported more than ______ million tonnes of US soybeans in 2025-26, and consistent feed quality is now crucial for Bangladesh's fish and poultry exports.",
+          "answer": "8"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "global",
+        "soybean",
+        "market",
+        "shifts",
+        "bangladesh",
+        "poultry",
+        "fish",
+        "industries",
+        "alert"
+      ],
+      "detail": "Bangladesh's fast-growing poultry and fisheries industries must pay closer attention to the nutritional quality and reliability of imported soybean meal, experts warned at CrushCON 2026, the US Soybean Export Council conference in Istanbul on 18 November. Wars, geopolitical uncertainty and shifting trade routes are reshaping global soybean sourcing, while buyers now prize nutrition and reliable supply over price. MENASA countries imported more than 8 million tonnes of US soybeans in 2025-26, and consistent feed quality is now crucial for Bangladesh's fish and poultry exports."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-17",
+      "exam_facts": "The editorial notes that of the 15 sugar mills under the Bangladesh Sugar and Food Industries Corporation, six have been closed since the 2020-21 crushing season and the nine in operation also incur losses; accumulated losses since the mills last made a profit of Tk360 million in 2005-06 total Tk102.07 billion. It notes Carew & Co (Bangladesh) posted a profit of a little over Tk970 million in 2024-25, but from its distillery unit, not its sugar mill. The plan covers co-generation of electricity and by-products, processing imported raw sugar and a tissue-culture laboratory to develop improved sugarcane varieties, and the editorial calls the proposed joint-venture company between BSFIC and the Marubeni-led consortium pragmatic because it covers both financing and technology transfer.",
+      "exam_relevance": "State-owned enterprises, sugar industry, foreign investment and joint ventures, industrial revival -- core BCS/Bank economy topics.",
+      "figures": "15 mills; 6 closed since 2020-21; 9 operating; losses Tk4.7675bn FY2025-26 vs Tk5.5436bn FY2024-25 and Tk5.0824bn FY2023-24; accumulated losses Tk102.07bn since profit of Tk360m in 2005-06; Carew & Co profit over Tk970m in 2024-25 (distillery); demand ~2.0m tonnes; production 43,326 tonnes FY2025-26; 3 modern mills (4,000t x2 + 6,000t); yield 50-60kg/tonne vs India 100kg",
+      "headline": "Fresh initiative to revive sugar industry",
+      "id": "CA06",
+      "key_people": "Marubeni, trading and investment conglomerate of Japan; Bangladesh Sugar and Food Industries Corporation (BSFIC)",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "Fresh initiative to revive sugar industry",
+          "publication": "The Financial Express",
+          "url": "https://today.thefinancialexpress.com.bd/editorial/fresh-initiative-to-revive-sugar-industry-1795013920"
+        }
+      ],
+      "summary": "The Financial Express editorial says a fresh initiative breathes new life into Bangladesh's struggling sugar industry: Japan's Marubeni, with partners from Thailand, the UAE and a local engineering firm, plans three modern mills in western Bangladesh. The need is stark — the nine operating mills of the Bangladesh Sugar and Food Industries Corporation produced only 43,326 tonnes in FY2025-26 against demand of around 2.0 million tonnes, losing Tk4.7675 billion, while mills extract just 50–60kg of sugar per tonne of cane against 100kg in India.",
+      "why_it_matters": "The 43,326 tonnes produced against 2.0 million tonnes of demand and the Tk102.07 billion accumulated loss are the exact figures for BCS/Bank questions on state-owned mills, and the Marubeni consortium's three modern mills are the background for the next story on foreign investment in industry.",
+      "one_liner": "The Financial Express editorial says a fresh initiative breathes new life into Bangladesh's struggling sugar industry: Japan's Marubeni, with partners…",
+      "key_facts": [
+        {
+          "label": "mills",
+          "value": "15",
+          "original": "15 mills"
+        },
+        {
+          "label": "closed since 2020-21",
+          "value": "6",
+          "original": "6 closed since 2020-21"
+        },
+        {
+          "label": "operating",
+          "value": "9",
+          "original": "9 operating"
+        },
+        {
+          "label": "losses FY2025-26 vs Tk5.5436bn FY2024-25 and…",
+          "value": "Tk4.7675bn",
+          "original": "losses Tk4.7675bn FY2025-26 vs Tk5.5436bn FY2024-25 and Tk5.0824bn FY2023-24"
+        }
+      ],
+      "what_happened": [
+        "The need is stark — the nine operating mills of the Bangladesh Sugar and Food Industries Corporation produced only 43,",
+        "326 tonnes in FY2025-26 against demand of around 2.0 million tonnes, losing Tk4.7675 billion, while mills extract just 50–60kg of sugar per tonne of cane against 100kg in India."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many tonnes of sugar did the nine operating mills produce in FY2025-26?",
+          "a": "43,326 tonnes"
+        },
+        {
+          "q": "How much sugar does Bangladesh extract per tonne of cane, against India's 100kg?",
+          "a": "50–60kg"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The need is stark — the nine operating mills of the Bangladesh Sugar and Food Industries Corporation produced only ______ tonnes in FY2025-26 against demand of around 2.0 million tonnes, losing Tk4.7675 billion, while mills extract just 50–60kg of sugar per tonne of cane against 100kg in India.",
+          "answer": "43,326"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "fresh",
+        "initiative",
+        "revive",
+        "sugar",
+        "industry"
+      ],
+      "detail": "The Financial Express editorial says a fresh initiative breathes new life into Bangladesh's struggling sugar industry: Japan's Marubeni, with partners from Thailand, the UAE and a local engineering firm, plans three modern mills in western Bangladesh. The need is stark — the nine operating mills of the Bangladesh Sugar and Food Industries Corporation produced only 43,326 tonnes in FY2025-26 against demand of around 2.0 million tonnes, losing Tk4.7675 billion, while mills extract just 50–60kg of sugar per tonne of cane against 100kg in India."
+    },
+    {
+      "article_date": "2026-11-20",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-20",
+      "exam_facts": "Related statutes clearly prohibit public servants from accepting gifts from anyone whose work is under their supervision, the columnist notes, and Transparency International Bangladesh and others raised concerns after the minister's comments. The minister spoke at a training workshop for engineers of the Local Government Engineering Department (LGED) and stressed maintaining work quality. Locomotives bought with a promise of 20 years of use developed problems within two years, leading to costly repairs, and luggage vans costing Tk 35 million stayed idle in railway yards. The columnist stresses it would be unfair to conclude that every engineering or procurement failure is caused by bribery without evidence.",
+      "exam_relevance": "Corruption, governance and public-service ethics -- core BCS Bangladesh-affairs and ethics topics.",
+      "figures": "Rail tracks built for 120 km/h; new trains do not reach 100 km/h; locomotives promised 20 years of use failed within 2 years; DEMU trains bought for Tk 65 million; luggage vans costing Tk 35 million idle in yards",
+      "headline": "When bribery earns social recognition!",
+      "id": "CA07",
+      "key_people": "Mir Shahe Alam, State Minister for Local Government, Rural Development and Cooperatives; Shiabur Rahman, columnist",
+      "sources": [
+        {
+          "date": "2026-11-20",
+          "headline": "When bribery earns social recognition!",
+          "publication": "The Financial Express",
+          "url": "https://today.thefinancialexpress.com.bd/editorial/when-bribery-earns-social-recognition-1795102319"
+        }
+      ],
+      "summary": "Columnist Shiabur Rahman argues bribery now earns social recognition in Bangladesh, where corrupt wealth is admired and few ask where the money came from. He cites State Minister Mir Shahe Alam's remark that a contractor's gift to an LGED engineer, from profit after proper work and payment, would not be a bribe. The column points to railway waste -- tracks built for 120 km/h that never let new trains reach 100 km/h, and Tk 65 million DEMU trains that stopped working -- as the cost taxpayers bear.",
+      "why_it_matters": "The minister's gift comment and the rail figures -- 120 km/h tracks, trains under 100 km/h, Tk 65 million DEMUs -- give BCS/Bank candidates concrete examples for questions on corruption, governance and public-service ethics, and the column's claim that normalising ill-gotten money harms society more than corruption itself is the frame for the next story on procurement or accountability.",
+      "one_liner": "Columnist Shiabur Rahman argues bribery now earns social recognition in Bangladesh, where corrupt wealth is admired and few ask where…",
+      "key_facts": [
+        {
+          "label": "Rail tracks built for km/h",
+          "value": "120",
+          "original": "Rail tracks built for 120 km/h"
+        },
+        {
+          "label": "new trains do not reach km/h",
+          "value": "100",
+          "original": "new trains do not reach 100 km/h"
+        },
+        {
+          "label": "locomotives promised years of use failed…",
+          "value": "20",
+          "original": "locomotives promised 20 years of use failed within 2 years"
+        },
+        {
+          "label": "DEMU trains bought for",
+          "value": "Tk 65 million",
+          "original": "DEMU trains bought for Tk 65 million"
+        }
+      ],
+      "what_happened": [
+        "He cites State Minister Mir Shahe Alam's remark that a contractor's gift to an LGED engineer, from profit after proper work and payment, would not be a bribe.",
+        "The column points to railway waste -- tracks built for 120 km/h that never let new trains reach 100 km/h,",
+        "and Tk 65 million DEMU trains that stopped working -- as the cost taxpayers bear."
+      ],
+      "exam_qa": [
+        {
+          "q": "For what speed were the rail tracks built that new trains cannot reach?",
+          "a": "120 km/h"
+        },
+        {
+          "q": "How much did the DEMU trains cost?",
+          "a": "Tk 65 million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The column points to railway waste -- tracks built for ______ km/h that never let new trains reach 100 km/h, and Tk 65 million DEMU trains that stopped working -- as the cost taxpayers bear.",
+          "answer": "120"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "when",
+        "bribery",
+        "earns",
+        "social",
+        "recognition"
+      ],
+      "detail": "Columnist Shiabur Rahman argues bribery now earns social recognition in Bangladesh, where corrupt wealth is admired and few ask where the money came from. He cites State Minister Mir Shahe Alam's remark that a contractor's gift to an LGED engineer, from profit after proper work and payment, would not be a bribe. The column points to railway waste -- tracks built for 120 km/h that never let new trains reach 100 km/h, and Tk 65 million DEMU trains that stopped working -- as the cost taxpayers bear."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "World",
+      "event_date": "2026-11-19",
+      "exam_facts": "The court also ruled that Myanmar violated its obligations under the Genocide Convention to prevent genocide, punish those responsible and enact the necessary legislation to give effect to the convention. Myanmar must prevent similar violations in future, provide assurances and guarantees of non-repetition, reunite families displaced by its wrongful acts, and compensate the Rohingya group and its members for the damage caused. As a party to the proceedings, Myanmar is now legally bound to comply fully with the court's final judgment.",
+      "exam_relevance": "ICJ, Genocide Convention and Rohingya repatriation -- core BCS/Bank international-affairs topics.",
+      "figures": "Genocide against the Rohingya in northern Rakhine State in 2017; case filed by The Gambia under the Genocide Convention; first time the ICJ found a state responsible for genocide; judgment welcomed by Bangladesh on 19 November 2026",
+      "headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "id": "CA08",
+      "key_people": "Ministry of Foreign Affairs (Bangladesh); International Court of Justice; The Gambia (applicant state)",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling"
+        }
+      ],
+      "summary": "Bangladesh has called on Myanmar to promptly implement the International Court of Justice's landmark judgment that it committed genocide against the Rohingya in 2017, saying repatriation to their homes in Myanmar remains the only viable solution. In a statement on 19 November, the Ministry of Foreign Affairs welcomed the verdict in the case filed by The Gambia under the Genocide Convention, the first time the court has found a state responsible for genocide. Myanmar must ensure the safe, voluntary and dignified return of refugees and compensate victims.",
+      "why_it_matters": "The first-ever ICJ finding of state genocide, the Genocide Convention route taken by The Gambia, and Bangladesh's demand for repatriation as the only viable solution are the exact facts for BCS/Bank questions on the Rohingya crisis, and they set up the next story on whether Myanmar complies or the return actually begins.",
+      "one_liner": "Bangladesh has called on Myanmar to promptly implement the International Court of Justice's landmark judgment that it committed genocide against…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "judgment welcomed by Bangladesh on 19 November 2026",
+          "original": "judgment welcomed by Bangladesh on 19 November 2026"
+        }
+      ],
+      "what_happened": [
+        "In a statement on 19 November, the Ministry of Foreign Affairs welcomed the verdict in the case filed by The Gambia under the Genocide Convention,",
+        "the first time the court has found a state responsible for genocide.",
+        "Myanmar must ensure the safe, voluntary and dignified return of refugees and compensate victims."
+      ],
+      "exam_qa": [
+        {
+          "q": "Which country filed the genocide case against Myanmar?",
+          "a": "The Gambia"
+        },
+        {
+          "q": "When did Bangladesh welcome the ICJ judgment?",
+          "a": "19 November 2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh has called on Myanmar to promptly implement the International Court of Justice's landmark judgment that it committed genocide against the Rohingya in ______ saying repatriation to their homes in Myanmar remains the only viable solution.",
+          "answer": "2017,"
+        },
+        {
+          "cloze": "In a statement on ______, the Ministry of Foreign Affairs welcomed the verdict in the case filed by The Gambia under the Genocide Convention, the first time the court has found a state responsible for genocide.",
+          "answer": "19 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "bangladesh",
+        "urges",
+        "myanmar",
+        "ensure",
+        "safe",
+        "rohingya",
+        "return",
+        "genocide",
+        "ruling"
+      ],
+      "detail": "Bangladesh has called on Myanmar to promptly implement the International Court of Justice's landmark judgment that it committed genocide against the Rohingya in 2017, saying repatriation to their homes in Myanmar remains the only viable solution. In a statement on 19 November, the Ministry of Foreign Affairs welcomed the verdict in the case filed by The Gambia under the Genocide Convention, the first time the court has found a state responsible for genocide. Myanmar must ensure the safe, voluntary and dignified return of refugees and compensate victims."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Jobs & Education",
+      "event_date": "2026-11-19",
+      "exam_facts": "A recruitment circular for constables was published on 9 October and applications closed on 30 October, without specifying the number of posts. In the April circular, 126,000 applications were submitted against 2,703 posts. The government is also considering a special Bangladesh Civil Service examination to recruit 400 to 500 officers as assistant superintendents of police. For constable posts, candidates must pass preliminary screening, physical measurement, physical endurance tests, a written examination and a psychological test; SI applicants first undergo physical measurement and document verification.",
+      "exam_relevance": "Police recruitment, Police Regulations of Bengal and public-service jobs -- core BCS/Bank jobs topics.",
+      "figures": "10,000 constables + 4,000 sub-inspectors = 14,000 posts; 2,000 existing constable vacancies; 6,000 constables via the ongoing circular; 102,694 applicants; April circular: 126,000 applications for 2,703 posts, 47 candidates per post; now 17 per post; 400-500 ASP posts via special BCS under consideration",
+      "headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "id": "CA09",
+      "key_people": "Tanvir-Al-Nasif, deputy secretary, Ministry of Home Affairs; Kamarum Munira, Assistant Inspector General (Media and Public Relations), Police Headquarters",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/employment/lv0ex6nnno"
+        }
+      ],
+      "summary": "The government has cleared the recruitment of 10,000 constables and 4,000 sub-inspectors into Bangladesh Police, with all approvals -- from the Ministry of Public Administration, the Ministry of Finance and the Secretaries Committee -- complete. For the first time, all 4,000 SI posts will be filled through direct recruitment after an amendment to the Police Regulations of Bengal. About 6,000 constables will be taken through the ongoing circular, and with 102,694 applicants, competition falls from 47 candidates per post in April to 17 now.",
+      "why_it_matters": "The 14,000 posts, the first all-direct SI recruitment after the PRB amendment, and the fall from 47 to 17 candidates per post are the numbers for BCS/Bank questions on police recruitment and public-service jobs, and the possible special BCS for 400-500 ASP posts is the background for the next story on police hiring.",
+      "one_liner": "The government has cleared the recruitment of 10,000 constables and 4,000 sub-inspectors into Bangladesh Police, with all approvals -- from…",
+      "key_facts": [
+        {
+          "label": "constables + 4,000 sub-inspectors = 14,000…",
+          "value": "10,000",
+          "original": "10,000 constables + 4,000 sub-inspectors = 14,000 posts"
+        },
+        {
+          "label": "existing constable vacancies",
+          "value": "2,000",
+          "original": "2,000 existing constable vacancies"
+        },
+        {
+          "label": "constables via the ongoing circular",
+          "value": "6,000",
+          "original": "6,000 constables via the ongoing circular"
+        },
+        {
+          "label": "April circular",
+          "value": "126,000 applications for 2,703 posts, 47 candidates per post",
+          "original": "April circular: 126,000 applications for 2,703 posts, 47 candidates per post"
+        }
+      ],
+      "what_happened": [
+        "For the first time, all 4,000 SI posts will be filled through direct recruitment after an amendment to the Police Regulations of Bengal.",
+        "About 6,000 constables will be taken through the ongoing circular, and with 102,694 applicants, competition falls from 47 candidates per post in April to 17 now."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many constable and SI posts were approved?",
+          "a": "10,000 constables and 4,000 sub-inspectors"
+        },
+        {
+          "q": "How many candidates compete per post now, against 47 in April?",
+          "a": "17"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government has cleared the recruitment of ______ constables and 4,000 sub-inspectors into Bangladesh Police, with all approvals -- from the Ministry of Public Administration, the Ministry of Finance and the Secretaries Committee -- complete.",
+          "answer": "10,000"
+        },
+        {
+          "cloze": "For the first time, all ______ SI posts will be filled through direct recruitment after an amendment to the Police Regulations of Bengal.",
+          "answer": "4,000"
+        }
+      ],
+      "keywords": [
+        "jobs & education",
+        "constable",
+        "posts",
+        "approved",
+        "recruitment",
+        "process",
+        "work"
+      ],
+      "detail": "The government has cleared the recruitment of 10,000 constables and 4,000 sub-inspectors into Bangladesh Police, with all approvals -- from the Ministry of Public Administration, the Ministry of Finance and the Secretaries Committee -- complete. For the first time, all 4,000 SI posts will be filled through direct recruitment after an amendment to the Police Regulations of Bengal. About 6,000 constables will be taken through the ongoing circular, and with 102,694 applicants, competition falls from 47 candidates per post in April to 17 now."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-19",
+      "exam_facts": "The latest reserve position was confirmed by Bangladesh Bank spokesperson Arief Hossain Khan to journalists on 19 November. The central bank has been selling dollars from its reserves to meet the banking sector's demand and maintain stability in the foreign exchange market. The last two rounds of dollar sales had helped stabilise the exchange rate slightly, a banker said.",
+      "exam_relevance": "Foreign exchange reserves, central-bank intervention and the exchange rate -- core BCS/Bank economy topics.",
+      "figures": "Reserves $29.56b on 19 November, down from $29.68b on 17 November; $220m sold at Tk123.90 per dollar; market dollar rate fell to Tk125",
+      "headline": "Forex reserves fall to $29.56b",
+      "id": "CA10",
+      "key_people": "Arief Hossain Khan, spokesperson, Bangladesh Bank",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "Forex reserves fall to $29.56b",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/forex-reserves-fall-2956b-1608326"
+        }
+      ],
+      "summary": "Bangladesh's foreign exchange reserves fell to $29.56 billion on 19 November, down from $29.68 billion on 17 November, after Bangladesh Bank sold $220 million through an auction at Tk 123.90 per dollar to meet banks' demand for US currency. The central bank has been selling dollars to meet banking-sector demand and steady the foreign exchange market, and a banker said the market dollar rate fell to Tk 125 after the latest sale.",
+      "why_it_matters": "The $29.56 billion reserve figure, the $220 million auction sale at Tk 123.90 and the Tk 125 market rate are the exact numbers for BCS/Bank questions on foreign exchange reserves and central-bank intervention, and the steady dollar sales are the background for the next story on reserves or the exchange rate.",
+      "one_liner": "Bangladesh's foreign exchange reserves fell to $29.56 billion on 19 November, down from $29.68 billion on 17 November, after Bangladesh…",
+      "key_facts": [
+        {
+          "label": "Reserves b on 19 November, down…",
+          "value": "$29.56",
+          "original": "Reserves $29.56b on 19 November, down from $29.68b on 17 November"
+        },
+        {
+          "label": "m sold at Tk123.90 per dollar",
+          "value": "$220",
+          "original": "$220m sold at Tk123.90 per dollar"
+        },
+        {
+          "label": "market dollar rate fell to",
+          "value": "Tk125",
+          "original": "market dollar rate fell to Tk125"
+        },
+        {
+          "label": "The latest reserve position was confirmed…",
+          "value": "19",
+          "original": "The latest reserve position was confirmed by Bangladesh Bank spokesperson Arief Hossain Khan to journalists on 19 November. The central bank has been selling dollars from its reserves to meet the banking sector's demand and maintain stability in the foreign exchange market. The last two rounds of dollar sales had helped stabilise the exchange rate slightly, a banker said"
+        }
+      ],
+      "what_happened": [
+        "The central bank has been selling dollars to meet banking-sector demand and steady the foreign exchange market,",
+        "and a banker said the market dollar rate fell to Tk 125 after the latest sale."
+      ],
+      "exam_qa": [
+        {
+          "q": "What were the forex reserves on 19 November 2026?",
+          "a": "$29.56 billion"
+        },
+        {
+          "q": "At what rate did Bangladesh Bank sell $220 million?",
+          "a": "Tk123.90 per dollar"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's foreign exchange reserves fell to $29.56 billion on ______, down from $29.68 billion on 17 November, after Bangladesh Bank sold $220 million through an auction at Tk 123.90 per dollar to meet banks' demand for US currency.",
+          "answer": "19 November"
+        },
+        {
+          "cloze": "The central bank has been selling dollars to meet banking-sector demand and steady the foreign exchange market, and a banker said the market dollar rate fell to Tk ______ after the latest sale.",
+          "answer": "125"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "forex",
+        "reserves",
+        "fall"
+      ],
+      "detail": "Bangladesh's foreign exchange reserves fell to $29.56 billion on 19 November, down from $29.68 billion on 17 November, after Bangladesh Bank sold $220 million through an auction at Tk 123.90 per dollar to meet banks' demand for US currency. The central bank has been selling dollars to meet banking-sector demand and steady the foreign exchange market, and a banker said the market dollar rate fell to Tk 125 after the latest sale."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-19",
+      "exam_facts": "The columnist says the alternatives are a temporary memorandum of understanding based on the main conditions of the old agreement, or renewal for two to three years as permitted by Article 12. He argues a future agreement should cover the whole year including flood management, include Nepal, add an arbitrator provision, and base Bangladesh's share on the river's entire flow rather than water availability at Farakka Point. The 1977 agreement was signed by ministers and the 1996 treaty by prime ministers, and neither contained a provision for an arbitrator.",
+      "exam_relevance": "Ganges Water Treaty, Farakka and water sharing with India -- core BCS/Bank international-affairs topics.",
+      "figures": "Treaty expires 12 December 2026; first treaty 1977 (5 years); second treaty 1996 (30 years); dry season January-May; Article 12 permits renewal for 2-3 years",
+      "headline": "An agreement needed before the Ganges Water Treaty expires",
+      "id": "CA11",
+      "key_people": "Altaf Parvez, columnist; Tarique Rahman, Prime Minister of Bangladesh",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "An agreement needed before the Ganges Water Treaty expires",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/opinion/op-ed/a1wpzczo4w"
+        }
+      ],
+      "summary": "Columnist Altaf Parvez warns the Ganges treaty between Bangladesh and India expires on 12 December with no news of a new agreement or renewal, and argues any poor agreement would be better than none, especially for people downstream. The first treaty, signed in 1977, lasted five years and the second, in 1996, thirty years, but both covered only the five dry-season months from January to May. He suggests an interim memorandum of understanding or a two-to-three-year renewal under Article 12.",
+      "why_it_matters": "The 12 December expiry, the 1977 and 1996 treaties and the Article 12 renewal option are the precise facts for BCS/Bank questions on the Ganges Water Treaty and Farakka, and the column's call for an arbitrator and for Nepal's inclusion is the background for the next story on water sharing with India.",
+      "one_liner": "Columnist Altaf Parvez warns the Ganges treaty between Bangladesh and India expires on 12 December with no news of a…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Treaty expires 12 December 2026",
+          "original": "Treaty expires 12 December 2026"
+        },
+        {
+          "label": "5 years",
+          "value": "first treaty 1977",
+          "original": "first treaty 1977 (5 years)"
+        },
+        {
+          "label": "30 years",
+          "value": "second treaty 1996",
+          "original": "second treaty 1996 (30 years)"
+        },
+        {
+          "label": "",
+          "value": "dry season January-May",
+          "original": "dry season January-May"
+        }
+      ],
+      "what_happened": [
+        "The first treaty, signed in 1977, lasted five years and the second, in 1996, thirty years, but both covered only the five dry-season months from January to May.",
+        "He suggests an interim memorandum of understanding or a two-to-three-year renewal under Article 12."
+      ],
+      "exam_qa": [
+        {
+          "q": "When does the Ganges Water Treaty expire?",
+          "a": "12 December 2026"
+        },
+        {
+          "q": "How long did the 1996 treaty last?",
+          "a": "30 years"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Altaf Parvez warns the Ganges treaty between Bangladesh and India expires on ______ with no news of a new agreement or renewal, and argues any poor agreement would be better than none, especially for people downstream.",
+          "answer": "12 December"
+        },
+        {
+          "cloze": "The first treaty, signed in ______ lasted five years and the second, in 1996, thirty years, but both covered only the five dry-season months from January to May.",
+          "answer": "1977,"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "agreement",
+        "needed",
+        "ganges",
+        "water",
+        "treaty",
+        "expires"
+      ],
+      "detail": "Columnist Altaf Parvez warns the Ganges treaty between Bangladesh and India expires on 12 December with no news of a new agreement or renewal, and argues any poor agreement would be better than none, especially for people downstream. The first treaty, signed in 1977, lasted five years and the second, in 1996, thirty years, but both covered only the five dry-season months from January to May. He suggests an interim memorandum of understanding or a two-to-three-year renewal under Article 12."
+    },
+    {
+      "article_date": "2026-11-20",
+      "category": "Bangladesh",
+      "event_date": "2026-11-20",
+      "exam_facts": "Five other union figures were arrested earlier in November: Mostafa Kamal, vice-president of the Bangladeshi Garments Trade Union Federation; Rozina Akter Sumi of AFWA-Bangladesh and the GBGWF; Md Ali Azgar, president of the Gazipur District Garments Tailors Workers Federation; Md Morshed Alam Kawsar, president of the Gazipur Setu BGWEF; and Md Fuadur Rahman Nirjon, admin of the KJK Facebook Group. Amnesty urged authorities to cease harassment and to differentiate peaceful protesters from those engaging in violence.",
+      "exam_relevance": "Labour rights, minimum wage and the garment sector -- core BCS/Bank Bangladesh-affairs topics.",
+      "figures": "Detention on 17 November 2026; 2 GBGWF leaders detained; 5 other union figures arrested earlier in November",
+      "headline": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders",
+      "id": "CA12",
+      "key_people": "Sultana Begum, president, Green Bangla Garments Workers Federation; Md Elias, general secretary, Green Bangla Garments Workers Federation; Amnesty International",
+      "sources": [
+        {
+          "date": "2026-11-20",
+          "headline": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/amnesty-urges-bangladesh-stop-arresting-garment-workers-union-leaders-1608376"
+        }
+      ],
+      "summary": "Amnesty International has urged Bangladesh to stop arresting garment workers and trade union leaders demanding a higher minimum wage and to respect the right to peaceful assembly. The call follows the 17 November detention by Detective Branch police of Green Bangla Garments Workers Federation president Sultana Begum and general secretary Md Elias after a webinar on minimum-wage protests. They allegedly face charges of obstructing police duties and factory vandalism, while five other union figures were arrested earlier in November.",
+      "why_it_matters": "The 17 November detentions, the minimum-wage demand behind them and Amnesty's call to respect peaceful assembly are the concrete facts for BCS/Bank questions on labour rights and the garment sector, and the five earlier arrests are the background for the next story on wage protests or union activity.",
+      "one_liner": "Amnesty International has urged Bangladesh to stop arresting garment workers and trade union leaders demanding a higher minimum wage and…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Detention on 17 November 2026",
+          "original": "Detention on 17 November 2026"
+        },
+        {
+          "label": "GBGWF leaders detained",
+          "value": "2",
+          "original": "2 GBGWF leaders detained"
+        },
+        {
+          "label": "other union figures arrested earlier in…",
+          "value": "5",
+          "original": "5 other union figures arrested earlier in November"
+        },
+        {
+          "label": "",
+          "value": "Rozina Akter Sumi of AFWA-Bangladesh and the GBGWF",
+          "original": "Rozina Akter Sumi of AFWA-Bangladesh and the GBGWF"
+        }
+      ],
+      "what_happened": [
+        "The call follows the 17 November detention by Detective Branch police of Green Bangla Garments Workers Federation president Sultana Begum and general secretary Md Elias after a webinar on minimum-wage protests.",
+        "They allegedly face charges of obstructing police duties and factory vandalism, while five other union figures were arrested earlier in November."
+      ],
+      "exam_qa": [
+        {
+          "q": "When were the two GBGWF leaders detained?",
+          "a": "17 November 2026"
+        },
+        {
+          "q": "How many other union figures were arrested earlier in November?",
+          "a": "Five"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The call follows the ______ detention by Detective Branch police of Green Bangla Garments Workers Federation president Sultana Begum and general secretary Md Elias after a webinar on minimum-wage protests.",
+          "answer": "17 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "amnesty",
+        "urges",
+        "stop",
+        "arresting",
+        "garment",
+        "workers",
+        "union",
+        "leaders"
+      ],
+      "detail": "Amnesty International has urged Bangladesh to stop arresting garment workers and trade union leaders demanding a higher minimum wage and to respect the right to peaceful assembly. The call follows the 17 November detention by Detective Branch police of Green Bangla Garments Workers Federation president Sultana Begum and general secretary Md Elias after a webinar on minimum-wage protests. They allegedly face charges of obstructing police duties and factory vandalism, while five other union figures were arrested earlier in November."
+    },
+    {
+      "article_date": "2026-11-20",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-20",
+      "exam_facts": "The VAT online system is the primary channel for VAT registration, return submissions and other tax-related services, and VAT return submission and payment are conducted entirely online. Stakeholders have urged the NBR chairman to restore the system's full functionality and to give administrative relief under the law to taxpayers who miss deadlines because of system failures. VAT expert Dr Abdur Rouf suggested a phased approach to return submission, with separate time slots for zero-return filers and marginal VAT payers to ease pressure on the system.",
+      "exam_relevance": "Revenue administration, VAT and digital governance -- core BCS/Bank economy topics.",
+      "figures": "System largely inaccessible for 7 days; platform built at nearly Tk 4.5 billion under a World Bank-financed project; VAT returns due within 15 days of each month; NBR extended the deadline by 7 days",
+      "headline": "Online platform glitches disrupt businesses' VAT compliance",
+      "id": "CA13",
+      "key_people": "Daud Faraizy, VAT consultant; Dr Abdur Rouf, VAT expert; FPT (Vietnamese contractor)",
+      "sources": [
+        {
+          "date": "2026-11-20",
+          "headline": "Online platform glitches disrupt businesses' VAT compliance",
+          "publication": "The Financial Express",
+          "url": "https://today.thefinancialexpress.com.bd/last-page/online-platform-glitches-disrupt-businesses-vat-compliance-1795113663"
+        }
+      ],
+      "summary": "Persistent glitches in the National Board of Revenue's online VAT system, largely inaccessible for the past seven days, are making it hard for businesses to meet their tax obligations, with return-submission deadlines at risk. VAT officials say the system is running slowly but has not shut down entirely. The decade-old platform was built under a World Bank-financed project at nearly Tk 4.5 billion, its Vietnamese contractor FPT has suspended work as payments remain pending, and businesses must by law submit VAT returns within 15 days of each month.",
+      "why_it_matters": "The seven-day outage, the Tk 4.5 billion World Bank project behind the platform and the 15-day return deadline are the concrete facts for BCS/Bank questions on revenue administration and digital governance, and the suspended FPT contract is the background for the next story on NBR reform.",
+      "one_liner": "Persistent glitches in the National Board of Revenue's online VAT system, largely inaccessible for the past seven days, are making…",
+      "key_facts": [
+        {
+          "label": "System largely inaccessible for days",
+          "value": "7",
+          "original": "System largely inaccessible for 7 days"
+        },
+        {
+          "label": "platform built at nearly under a…",
+          "value": "Tk 4.5 billion",
+          "original": "platform built at nearly Tk 4.5 billion under a World Bank-financed project"
+        },
+        {
+          "label": "VAT returns due within days of…",
+          "value": "15",
+          "original": "VAT returns due within 15 days of each month"
+        },
+        {
+          "label": "NBR extended the deadline by days",
+          "value": "7",
+          "original": "NBR extended the deadline by 7 days"
+        }
+      ],
+      "what_happened": [
+        "VAT officials say the system is running slowly but has not shut down entirely.",
+        "The decade-old platform was built under a World Bank-financed project at nearly Tk 4.5 billion, its Vietnamese contractor FPT has suspended work as payments remain pending,",
+        "and businesses must by law submit VAT returns within 15 days of each month."
+      ],
+      "exam_qa": [
+        {
+          "q": "For how many days has the NBR's online VAT system been largely inaccessible?",
+          "a": "Seven days"
+        },
+        {
+          "q": "Within how many days of each month must VAT returns be submitted?",
+          "a": "15 days"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The decade-old platform was built under a World Bank-financed project at nearly Tk ______ billion, its Vietnamese contractor FPT has suspended work as payments remain pending, and businesses must by law submit VAT returns within 15 days of each month.",
+          "answer": "4.5"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "online",
+        "platform",
+        "glitches",
+        "disrupt",
+        "businesses",
+        "compliance"
+      ],
+      "detail": "Persistent glitches in the National Board of Revenue's online VAT system, largely inaccessible for the past seven days, are making it hard for businesses to meet their tax obligations, with return-submission deadlines at risk. VAT officials say the system is running slowly but has not shut down entirely. The decade-old platform was built under a World Bank-financed project at nearly Tk 4.5 billion, its Vietnamese contractor FPT has suspended work as payments remain pending, and businesses must by law submit VAT returns within 15 days of each month."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "liquidity; marketability; tradability",
+      "Article headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "BCS / Bank relevance": "Core finance noun and live current-affairs term for capital-market, banking and economy passages.",
+      "Bangla meaning": "তারল্য সংকট; সহজে কেনাবেচা করা যায় না এমন অবস্থা",
+      "Bangla phonetic": "ইলিকুইডিটি",
+      "Collocations / patterns": "the silent tax of illiquidity; illiquidity in the bond market; illiquidity premium",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68",
+      "English definition": "The state of an asset or market in which it cannot easily be bought or sold without affecting its price; a lack of liquidity.",
+      "Headword / phrase": "illiquidity",
+      "IPA": "/ɪˌlɪˈkwɪdəti/",
+      "Newspaper context note": "The Prothom Alo columnist calls illiquidity a 'silent tax' on the whole economy because thin secondary markets leave risks trapped on banks' balance sheets.",
+      "Original example": "The silent tax of illiquidity: Why secondary market depth matters",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "unmarketability; thin trading; lack of liquidity; frozen market",
+      "Word family / derivatives": "illiquid; liquid; liquidity"
+    },
+    {
+      "Antonyms": "expose; risk; leave unprotected",
+      "Article headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for finance, banking and economy passages.",
+      "Bangla meaning": "ঝুঁকি থেকে সুরক্ষা দেওয়া; হেজ করা",
+      "Bangla phonetic": "হেজ",
+      "Collocations / patterns": "hedge against exchange-rate swings; hedge risk; hedged position",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68",
+      "English definition": "To protect against possible loss, especially in finance, by taking an opposite position or action.",
+      "Headword / phrase": "hedge",
+      "IPA": "/hedʒ/",
+      "Newspaper context note": "The columnist argues that when secondary trading is thin, financial risks cannot be properly priced, hedged or shared.",
+      "Original example": "When secondary trading is thin, financial risks cannot be properly priced, hedged, or shared with investors who are willing to carry them.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "protect; insure; safeguard; offset",
+      "Word family / derivatives": "hedging; hedged; hedger"
+    },
+    {
+      "Antonyms": "undersubscription; weak demand; shortfall in demand",
+      "Article headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "BCS / Bank relevance": "Live capital-market term for BCS/Bank finance and economy passages; repeats in bond and share-issue news.",
+      "Bangla meaning": "অতিরিক্ত আবেদন; সরবরাহের তুলনায় বেশি চাহিদা",
+      "Bangla phonetic": "ওভারসাবস্ক্রিপশন",
+      "Collocations / patterns": "oversubscription of new bonds; oversubscription of corporate bonds and sukuk; oversubscription of a share issue",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68",
+      "English definition": "Demand for something, especially new shares or bonds, that is greater than the amount available.",
+      "Headword / phrase": "oversubscription",
+      "IPA": "/ˌəʊvəsəbˈskrɪpʃn/",
+      "Newspaper context note": "The columnist notes that new corporate bonds and sukuk are eagerly celebrated for oversubscription, yet almost nobody asks who bought them or whether they will ever trade.",
+      "Original example": "We often complain about our underdeveloped capital market, yet we eagerly celebrate the oversubscription of new corporate bonds and sukuk issues.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "excess demand; over-demand; heavy subscription",
+      "Word family / derivatives": "oversubscribe; oversubscribed"
+    },
+    {
+      "Antonyms": "aberration; irregularity; deviation",
+      "Article headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "BCS / Bank relevance": "Core BCS/Bank noun for economy, finance and banking passages; a past BCS vocabulary favourite.",
+      "Bangla meaning": "মানদণ্ড; সূচক হার",
+      "Bangla phonetic": "বেঞ্চমার্ক",
+      "Collocations / patterns": "reliable benchmark for interest rates; benchmark rate; market benchmark",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68",
+      "English definition": "A standard or reference point against which things can be compared or measured.",
+      "Headword / phrase": "benchmark",
+      "IPA": "/ˈbentʃmɑːk/",
+      "Newspaper context note": "The columnist argues the government-securities market lacks a continuous, reliable benchmark for long-term interest rates.",
+      "Original example": "Even in government securities, where trading on Bangladesh Bank's electronic platform has grown, the market still lacks a continuous, reliable benchmark for long-term interest rates.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "standard; yardstick; reference rate; touchstone",
+      "Word family / derivatives": "benchmarking; benchmarked"
+    },
+    {
+      "Antonyms": "restraint; curb; dampener; disincentive",
+      "Article headline": "Borrowers in disputes eligible for Tk60,000cr stimulus loans with court stay orders",
+      "BCS / Bank relevance": "Live current-affairs term and past BCS/Bank favourite for economy, budget and banking passages.",
+      "Bangla meaning": "প্রণোদনা; উদ্দীপক",
+      "Bangla phonetic": "স্টিমুলাস",
+      "Collocations / patterns": "stimulus schemes; stimulus loans; stimulus package",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/borrowers-disputes-eligible-tk60000cr-stimulus-loans-court-stay-orders-1608416",
+      "English definition": "Something that encourages activity or growth, especially government spending or loans intended to revive an economy.",
+      "Headword / phrase": "stimulus",
+      "IPA": "/ˈstɪmjʊləs/",
+      "Newspaper context note": "Bangladesh Bank's Tk60,000 crore stimulus schemes aim to revive economic activity and create employment.",
+      "Original example": "Borrowers involved in disputes with their lenders will be eligible for loans under Bangladesh Bank's Tk60,000 crore stimulus schemes if they obtain a court stay order suspending loan-related proceedings against them.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Business Standard",
+      "Synonyms": "incentive; boost; spur; impetus",
+      "Word family / derivatives": "stimulate; stimulation; stimuli (plural)"
+    },
+    {
+      "Antonyms": "included; empowered; mainstream; privileged",
+      "Article headline": "Bangladesh Bank directs open disbursement of agricultural loans",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for society, agriculture and development passages.",
+      "Bangla meaning": "প্রান্তিক; সমাজের মূলধারা থেকে বঞ্চিত",
+      "Bangla phonetic": "মার্জিনালাইজড",
+      "Collocations / patterns": "marginalised farmers; marginalised communities; small, marginalised, landless farmers",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://bdnews24.com/economy/1fyn5bspbg",
+      "English definition": "Treated as unimportant or powerless and pushed to the edge of society or of access to services.",
+      "Headword / phrase": "marginalised",
+      "IPA": "/ˈmɑːdʒɪnəlaɪzd/",
+      "Newspaper context note": "Bangladesh Bank directed that agricultural loans be disbursed publicly to small, marginalised, landless and sharecropping farmers for transparency.",
+      "Original example": "Bangladesh Bank has directed scheduled banks to disburse agricultural loans to small, marginalised, landless, and sharecropping farmers publicly to ensure transparency in the process.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "bdnews24.com",
+      "Synonyms": "disadvantaged; excluded; neglected; sidelined",
+      "Word family / derivatives": "marginalise; marginalisation; marginal"
+    },
+    {
+      "Headword / phrase": "sukuk",
+      "IPA": "/sʊˈkuːk/",
+      "Bangla phonetic": "সুকুক",
+      "Part of speech / type": "noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সুকুক (শরিয়াহসম্মত বন্ড)",
+      "English definition": "An Islamic financial certificate, similar to a bond, that represents ownership in an asset rather than a debt obligation and pays returns from the asset's earnings.",
+      "Synonyms": "Islamic bond, Sharia-compliant security",
+      "Antonyms": "conventional bond, interest-bearing bond",
+      "Word family / derivatives": "sukuk (plural; singular sakk)",
+      "Collocations / patterns": "issue sukuk, sukuk market, corporate sukuk",
+      "Original example": "We eagerly celebrate the oversubscription of new corporate bonds and sukuk issues.",
+      "Newspaper context note": "The column notes Bangladesh celebrates oversubscribed corporate bond and sukuk issues while almost nobody asks who buys them or whether they ever trade.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "The silent tax of illiquidity: Why secondary market depth matters",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68",
+      "BCS / Bank relevance": "High — Islamic finance, capital market, bond market.",
+      "Priority": "High"
+    },
+    {
+      "Antonyms": "unemployment; joblessness; wage work; salaried employment",
+      "Article headline": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+      "BCS / Bank relevance": "Core BCS/Bank noun for SME finance, youth employment and economy passages; a live current-affairs term from the UDYOG scheme.",
+      "Bangla meaning": "উদ্যোক্তাবৃত্তি",
+      "Bangla phonetic": "এন্টারপ্রেনারশিপ",
+      "Collocations / patterns": "youth entrepreneurship; entrepreneurship development; promote entrepreneurship",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/corporate/21wihd5cni",
+      "English definition": "The activity of starting and running a new business, taking financial risks in the hope of profit.",
+      "Headword / phrase": "entrepreneurship",
+      "IPA": "/ˌɒntrəprəˈnɜːʃɪp/",
+      "Newspaper context note": "Bangladesh Bank's UDYOG scheme promotes youth entrepreneurship, offering training and blended finance to young business starters.",
+      "Original example": "Beyond financing, the programme provides financial literacy training, entrepreneurship development, mentoring, assistance with business registration and business plan preparation, and access to market linkages.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "enterprise; business initiative; start-up activity; self-employment",
+      "Word family / derivatives": "entrepreneur; entrepreneurial; entrepreneurs (plural)"
+    },
+    {
+      "Antonyms": "neglect; abandonment; discouragement; disregard",
+      "Article headline": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for education, training and SME-support passages; reusable in essay and formal writing.",
+      "Bangla meaning": "পরামর্শ ও পথপ্রদর্শন",
+      "Bangla phonetic": "মেন্টরিং",
+      "Collocations / patterns": "mentoring and training; provide mentoring; entrepreneurship mentoring",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/corporate/21wihd5cni",
+      "English definition": "Guidance and advice given by an experienced person to a less experienced person to help them learn and succeed.",
+      "Headword / phrase": "mentoring",
+      "IPA": "/ˈmentərɪŋ/",
+      "Newspaper context note": "UDYOG offers mentoring alongside finance, so young entrepreneurs get guidance as well as money.",
+      "Original example": "Beyond financing, the programme provides financial literacy training, entrepreneurship development, mentoring, assistance with business registration and business plan preparation, and access to market linkages.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "guidance; coaching; tutoring; counselling",
+      "Word family / derivatives": "mentor; mentored; mentorship"
+    },
+    {
+      "Headword / phrase": "appraisal",
+      "IPA": "/əˈpreɪzəl/",
+      "Bangla phonetic": "অ্যাপ্রেইজাল",
+      "Part of speech / type": "noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "মূল্যায়ন",
+      "English definition": "An assessment of the value, quality, or creditworthiness of something, especially before a decision is made.",
+      "Synonyms": "assessment, evaluation, valuation",
+      "Antonyms": "guess, neglect",
+      "Word family / derivatives": "appraise (verb), appraised (adjective)",
+      "Collocations / patterns": "credit appraisal, independent appraisal, property appraisal",
+      "Original example": "The selection process involves transparent screening, independent credit appraisal by the financing banks and simultaneous disbursement of the approved loan.",
+      "Newspaper context note": "Under UDYOG, applications pass transparent screening and independent credit appraisal by the financing banks before the loan and grant are disbursed together.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://en.prothomalo.com/corporate/21wihd5cni",
+      "BCS / Bank relevance": "High — banking, credit assessment, loan appraisal in Bank exams.",
+      "Priority": "High"
+    },
+    {
+      "Antonyms": "domestic; local; apolitical; internal",
+      "Article headline": "Global soybean market shifts put Bangladesh's poultry, fish industries on alert",
+      "BCS / Bank relevance": "Live current-affairs adjective for international relations, trade and economy passages; a high-frequency exam word family.",
+      "Bangla meaning": "ভূরাজনৈতিক",
+      "Bangla phonetic": "জিওপলিটিক্যাল",
+      "Collocations / patterns": "geopolitical uncertainties; geopolitical tensions; geopolitical shifts",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/global-soybean-market-shifts-put-bangladeshs-poultry-fish-industries-alert-1608406",
+      "English definition": "Relating to politics and power between countries, especially as influenced by geography, resources and trade.",
+      "Headword / phrase": "geopolitical",
+      "IPA": "/ˌdʒiːəʊpəˈlɪtɪkəl/",
+      "Newspaper context note": "Wars and geopolitical uncertainties are reshaping where the world buys its soybeans, affecting Bangladesh's feed imports.",
+      "Original example": "Discussions centred on how wars, geopolitical uncertainties, changing trade routes and policy decisions are altering global soybean sourcing, while buyers are increasingly prioritising nutritional value and supply reliability over price alone.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Business Standard",
+      "Synonyms": "geostrategic; international-political; power-political",
+      "Word family / derivatives": "geopolitics; geopolitically"
+    },
+    {
+      "Antonyms": "distribution; disposal; consumption; selling",
+      "Article headline": "Global soybean market shifts put Bangladesh's poultry, fish industries on alert",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for trade, supply-chain and agriculture passages; a live current-affairs term.",
+      "Bangla meaning": "সংগ্রহ; উৎস থেকে পণ্য সংগ্রহ",
+      "Bangla phonetic": "সোর্সিং",
+      "Collocations / patterns": "global soybean sourcing; sourcing of feed; sustainable sourcing",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/global-soybean-market-shifts-put-bangladeshs-poultry-fish-industries-alert-1608406",
+      "English definition": "The process of finding and obtaining goods, especially raw materials, from particular places or suppliers.",
+      "Headword / phrase": "sourcing",
+      "IPA": "/ˈsɔːsɪŋ/",
+      "Newspaper context note": "Global soybean sourcing is shifting as wars and trade-route changes force buyers to look beyond price.",
+      "Original example": "Discussions centred on how wars, geopolitical uncertainties, changing trade routes and policy decisions are altering global soybean sourcing, while buyers are increasingly prioritising nutritional value and supply reliability over price alone.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Business Standard",
+      "Synonyms": "procurement; obtaining; acquiring; purchasing",
+      "Word family / derivatives": "source; sourced; source (verb)"
+    },
+    {
+      "Antonyms": "small firm; single business; independent company; sole trader",
+      "Article headline": "Fresh initiative to revive sugar industry",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for industry, investment and business passages; a past BCS vocabulary favourite.",
+      "Bangla meaning": "বৃহৎ বহুমুখী ব্যবসায়িক গোষ্ঠী",
+      "Bangla phonetic": "কংগ্লোমারেট",
+      "Collocations / patterns": "trading and investment conglomerate; Japanese conglomerate; a conglomerate of companies",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/fresh-initiative-to-revive-sugar-industry-1795013920",
+      "English definition": "A large company made up of several different businesses in different industries.",
+      "Headword / phrase": "conglomerate",
+      "IPA": "/kənˈɡlɒmərət/",
+      "Newspaper context note": "Japan's Marubeni, described as a trading and investment conglomerate, plans to revive Bangladesh's sugar industry.",
+      "Original example": "Marubeni, a trading and investment conglomerate of Japan, has made its intention clear in favour of reviving the fortunes of Bangladesh's ailing sugar industry.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Financial Express",
+      "Synonyms": "corporation; business group; holding company; combine",
+      "Word family / derivatives": "conglomerates (plural); conglomeration"
+    },
+    {
+      "Antonyms": "single company; sole venture; independent firm",
+      "Article headline": "Fresh initiative to revive sugar industry",
+      "BCS / Bank relevance": "Core BCS/Bank noun for joint ventures, investment and industry passages; a live current-affairs term from the sugar revival plan.",
+      "Bangla meaning": "যৌথ উদ্যোগের সংঘ",
+      "Bangla phonetic": "কনসোর্টিয়াম",
+      "Collocations / patterns": "a consortium of partners; Marubeni-led consortium; form a consortium",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/fresh-initiative-to-revive-sugar-industry-1795013920",
+      "English definition": "A group of companies or organisations that join together to work on a large project.",
+      "Headword / phrase": "consortium",
+      "IPA": "/kənˈsɔːtiəm/",
+      "Newspaper context note": "Marubeni plans the sugar revival with a consortium of partners from Thailand, the UAE and a local engineering firm.",
+      "Original example": "In collaboration with a consortium of partners from Thailand, United Arab Emirates (UAE) and a compatriot engineering farm, Marubeni plans to accomplish the task.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Financial Express",
+      "Synonyms": "alliance; partnership; syndicate; joint venture group",
+      "Word family / derivatives": "consortia (plural); consortiums (plural)"
+    },
+    {
+      "Antonyms": "confiscation; seizure; penalty; forfeiture",
+      "Article headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "BCS / Bank relevance": "Core legal term for international law, ICJ judgments and reparations questions.",
+      "Bangla meaning": "ক্ষতিপূরণ; প্রতিকার; ফেরত",
+      "Bangla phonetic": "রেস্টিটিউশন",
+      "Collocations / patterns": "restitution measures; adopt restitution measures; restitution for the damage",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling",
+      "English definition": "Compensation or restoration given for loss or damage, especially as ordered by a court.",
+      "Headword / phrase": "restitution",
+      "IPA": "/ˌrestɪˈtjuːʃn/",
+      "Newspaper context note": "The ICJ ordered Myanmar to adopt restitution measures for the Rohingya, including facilitating their safe return home.",
+      "Original example": "The court further ordered Myanmar to adopt restitution measures for the Rohingya, including facilitating their safe, voluntary and dignified return to their places of residence and reuniting families displaced by its wrongful acts.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "compensation; reparation; redress; restoration",
+      "Word family / derivatives": "restitute; restitutive"
+    },
+    {
+      "Antonyms": "dispensable; unnecessary; expendable; optional",
+      "Article headline": "When bribery earns social recognition!",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adjective for governance, ethics and essay-writing passages.",
+      "Bangla meaning": "অপরিহার্য",
+      "Bangla phonetic": "ইন্ডিসপেনসাবল",
+      "Collocations / patterns": "strict accountability is indispensable; indispensable for good governance; an indispensable part",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/when-bribery-earns-social-recognition-1795102319",
+      "English definition": "Absolutely necessary; too important to do without.",
+      "Headword / phrase": "indispensable",
+      "IPA": "/ˌɪndɪˈspensəbl/",
+      "Newspaper context note": "The columnist says transparency, independent supervision and strict accountability are indispensable in public projects.",
+      "Original example": "But repeated disappointments show why transparency, independent supervision and strict accountability are indispensable.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Financial Express",
+      "Synonyms": "essential; vital; crucial; necessary",
+      "Word family / derivatives": "indispensability; indispensably"
+    },
+    {
+      "Antonyms": "protection; support; encouragement; respect",
+      "Article headline": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders",
+      "BCS / Bank relevance": "Core rights and labour term for questions on trade unions, workers' rights and freedom of assembly.",
+      "Bangla meaning": "হয়রানি",
+      "Bangla phonetic": "হ্যারাসমেন্ট",
+      "Collocations / patterns": "cease harassment; harassment of workers; face harassment",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/rmg/amnesty-urges-bangladesh-stop-arresting-garment-workers-union-leaders-1608376",
+      "English definition": "Aggressive pressure or intimidation; persistent behaviour that annoys or alarms someone.",
+      "Headword / phrase": "harassment",
+      "IPA": "/ˈhærəsmənt/",
+      "Newspaper context note": "Amnesty International urged the authorities to cease harassment of garment workers and union leaders.",
+      "Original example": "The rights watchdog urged authorities to cease harassment and differentiate peaceful protesters from those engaging in violence.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Business Standard",
+      "Synonyms": "intimidation; persecution; bullying; molestation",
+      "Word family / derivatives": "harass; harassing; harassed"
+    },
+    {
+      "Antonyms": "disputant; litigant; claimant",
+      "Article headline": "An agreement needed before the Ganges Water Treaty expires",
+      "BCS / Bank relevance": "Core legal and diplomacy term for treaty, water-sharing and dispute-settlement questions.",
+      "Bangla meaning": "সালিশকারী; মধ্যস্থতাকারী",
+      "Bangla phonetic": "আরবিট্রেটর",
+      "Collocations / patterns": "provision for an arbitrator; call a third party as arbitrator; arbitrator in a dispute",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/a1wpzczo4w",
+      "English definition": "A person appointed to settle a dispute between two parties.",
+      "Headword / phrase": "arbitrator",
+      "IPA": "/ˈɑːbɪtreɪtə(r)/",
+      "Newspaper context note": "Neither Ganges agreement contained a provision for an arbitrator to settle disputes over water rights.",
+      "Original example": "However, there was no provision for an \"arbitrator\" in either agreement.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "mediator; adjudicator; referee; negotiator",
+      "Word family / derivatives": "arbitrate; arbitration; arbitral"
+    },
+    {
+      "Antonyms": "weakness; frailty; exhaustion; surrender",
+      "Article headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "BCS / Bank relevance": "Common BCS/Bank noun for recruitment, health and perseverance passages; appears in job and fitness contexts.",
+      "Bangla meaning": "সহনশীলতা; ধৈর্য; স্থায়িত্ব",
+      "Bangla phonetic": "এনডিউরেন্স",
+      "Collocations / patterns": "physical endurance tests; endurance and stamina; a test of endurance",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/lv0ex6nnno",
+      "English definition": "The ability to keep doing something difficult or demanding for a long time; stamina.",
+      "Headword / phrase": "endurance",
+      "IPA": "/ɪnˈdjʊərəns/",
+      "Newspaper context note": "Constable candidates must pass physical endurance tests as part of the police recruitment process.",
+      "Original example": "For constable posts, candidates must pass preliminary screening, physical measurement, physical endurance tests, a written examination and a psychological test.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "stamina; perseverance; resilience; staying power",
+      "Word family / derivatives": "endure; enduring; endurable"
+    },
+    {
+      "Antonyms": "oppose; reject; condemn; denounce",
+      "Article headline": "When bribery earns social recognition!",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for politics, opinion and formal-writing passages.",
+      "Bangla meaning": "সমর্থন করা; অনুমোদন করা",
+      "Bangla phonetic": "এনডোর্স",
+      "Collocations / patterns": "endorse a view; endorse a statement; endorse a candidate",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/editorial/when-bribery-earns-social-recognition-1795102319",
+      "English definition": "To declare public approval or support for something.",
+      "Headword / phrase": "endorse",
+      "IPA": "/ɪnˈdɔːs/",
+      "Newspaper context note": "The minister's statement has endorsed the view that a contractor's gift to an engineer is not a bribe.",
+      "Original example": "A recent statement by the State Minister for Local Government, Rural Development and Cooperatives Mir Shahe Alam has endorsed such a view.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-20",
+      "Source publication": "The Financial Express",
+      "Synonyms": "support; approve; back; sanction",
+      "Word family / derivatives": "endorsement; endorsed; endorsing"
+    }
+  ],
+  "revision_words": [
+    {
+      "Antonyms": "chaos, unrest",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "High — law and order, protests.",
+      "Bangla meaning": "স্বাভাবিক অবস্থা",
+      "Bangla phonetic": "নরমালসি",
+      "Collocations / patterns": "normalcy returns, return to normalcy",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "The normal, calm state of affairs after a disturbance.",
+      "Headword / phrase": "normalcy",
+      "IPA": "/ˈnɔːməlsi/",
+      "Newspaper context note": "Normalcy largely returned to Gazipur, Narayanganj and Mirpur after five days of labour unrest.",
+      "Original example": "Normalcy largely returned to Gazipur, Narayanganj and Mirpur.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "normality, order, calm",
+      "Word family / derivatives": "normal (adjective)"
+    },
+    {
+      "Antonyms": "carelessness, risk",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "Medium — vocabulary, formal usage.",
+      "Bangla meaning": "সতর্কতামূলক ব্যবস্থা",
+      "Bangla phonetic": "প্রিকশন",
+      "Collocations / patterns": "as a precaution, take precautions",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "A measure taken in advance to prevent harm or trouble.",
+      "Headword / phrase": "precaution",
+      "IPA": "/prɪˈkɔːʃən/",
+      "Newspaper context note": "Some factories in Ashulia remained closed as a precaution.",
+      "Original example": "Some factories remained closed as a precaution.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "safeguard, measure, care",
+      "Word family / derivatives": "precautionary (adjective)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "Garment unrest eases as workers return to work",
+      "BCS / Bank relevance": "Basic — everyday vocabulary.",
+      "Bangla meaning": "সারি",
+      "Bangla phonetic": "কিউ",
+      "Collocations / patterns": "queue up, queue outside factories",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/garment-unrest-eases-workers-return-work-4316816",
+      "English definition": "A line of people waiting for something; to stand in such a line.",
+      "Headword / phrase": "queue",
+      "IPA": "/kjuː/",
+      "Newspaper context note": "Workers were seen queuing outside factories in Gazipur as production resumed.",
+      "Original example": "Workers were seen standing in a queue outside factories in the morning.",
+      "Part of speech / type": "verb / noun",
+      "Priority": "Basic",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "line up, wait in line",
+      "Word family / derivatives": "queue (noun)"
+    },
+    {
+      "Antonyms": "overlook, ignore",
+      "Article headline": "225 individuals, firms under NBR scanner",
+      "BCS / Bank relevance": "High — finance, investigation.",
+      "Bangla meaning": "খুঁটিয়ে পরীক্ষা করা",
+      "Bangla phonetic": "স্ক্রুটিনাইজ",
+      "Collocations / patterns": "scrutinise transactions, scrutinise accounts",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "English definition": "To examine something very carefully and thoroughly.",
+      "Headword / phrase": "scrutinise",
+      "IPA": "/ˈskruːtɪnaɪz/",
+      "Newspaper context note": "The NBR is scrutinising the financial transactions of around 125 companies.",
+      "Original example": "The NBR continues to scrutinise the transactions of around 125 companies.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "examine, inspect, probe",
+      "Word family / derivatives": "scrutiny (noun)"
+    },
+    {
+      "Antonyms": "help, facilitate",
+      "Article headline": "225 individuals, firms under NBR scanner",
+      "BCS / Bank relevance": "High — economy, vocabulary.",
+      "Bangla meaning": "ব্যাহত করা",
+      "Bangla phonetic": "হ্যাম্পার",
+      "Collocations / patterns": "hamper production, hamper exports",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.thedailystar.net/news/bangladesh/news/225-individuals-firms-under-nbr-scanner-4316846",
+      "English definition": "To hinder or obstruct something; to make progress harder.",
+      "Headword / phrase": "hamper",
+      "IPA": "/ˈhæmpər/",
+      "Newspaper context note": "The unrest has hampered production and raised concerns about exports in the major export-earning sector.",
+      "Original example": "The unrest has hampered production and raised concerns about exports.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-06",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "hinder, impede, obstruct",
+      "Word family / derivatives": "hamper (noun)"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "direct recruitment",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "সরাসরি নিয়োগ",
+      "English explanation": "Hiring straight into a post through open competition, rather than by promotion from within the service.",
+      "Usage / register": "Formal, jobs and public-service recruitment reporting.",
+      "Original example 1": "Notably, this is the first time all 4,000 SI posts are being filled through direct recruitment.",
+      "Original example 2": "Previously, 50 per cent of SI posts were filled through departmental promotions and the remaining 50 per cent through direct recruitment.",
+      "Common collocations / grammar pattern": "filled through direct recruitment; direct recruitment of constables; posts filled through direct recruitment",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/lv0ex6nnno",
+      "Exam value": "Core recruitment term for BCS/Bank questions on police and public-service hiring."
+    },
+    {
+      "Phrase": "safe, voluntary and dignified return",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "নিরাপদ, স্বেচ্ছামূলক ও মর্যাদাপূর্ণ প্রত্যাবর্তন",
+      "English explanation": "The return of refugees to their homes without force, in safety and with dignity.",
+      "Usage / register": "Formal, legal and diplomatic reporting on refugees and repatriation.",
+      "Original example 1": "The court further ordered Myanmar to adopt restitution measures for the Rohingya, including facilitating their safe, voluntary and dignified return to their places of residence and reuniting families displaced by its wrongful acts.",
+      "Original example 2": "The court ordered Myanmar to \"allow and facilitate the safe, voluntary, and dignified return to their place of residence\" for those who fled the violence.",
+      "Common collocations / grammar pattern": "facilitate the safe, voluntary and dignified return; ensure a safe, voluntary and dignified return",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling",
+      "Exam value": "Core Rohingya-repatriation phrase for BCS/Bank international-affairs questions."
+    },
+    {
+      "Phrase": "guarantees of non-repetition",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "পুনরাবৃত্তি না ঘটার নিশ্চয়তা",
+      "English explanation": "Formal assurances by a state that it will not repeat a wrongful act.",
+      "Usage / register": "Formal, international law and ICJ reporting.",
+      "Original example 1": "It must also prevent similar violations in the future and provide assurances and guarantees of non-repetition.",
+      "Original example 2": "Dhaka says the landmark verdict legally binds Myanmar to investigate and punish those responsible, compensate victims and guarantee non-repetition.",
+      "Common collocations / grammar pattern": "provide guarantees of non-repetition; assurances and guarantees of non-repetition",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling",
+      "Exam value": "Core ICJ remedies term for BCS/Bank questions on international law and state responsibility."
+    },
+    {
+      "Phrase": "meet a deadline",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "সময়সীমার মধ্যে কাজ শেষ করা",
+      "English explanation": "To complete something by the required date.",
+      "Usage / register": "General and formal, administration and compliance reporting.",
+      "Original example 1": "However, frequent disruptions to the online platform have caused anxiety among taxpayers over their ability to meet the deadlines.",
+      "Original example 2": "They have also called for appropriate administrative relief, in accordance with applicable laws, for taxpayers unable to meet statutory deadlines because of system-related disruptions.",
+      "Common collocations / grammar pattern": "meet the deadline; meet statutory deadlines; unable to meet a deadline",
+      "Source publication": "The Financial Express",
+      "Article headline": "Online platform glitches disrupt businesses' VAT compliance",
+      "Publication date": "2026-11-20",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/last-page/online-platform-glitches-disrupt-businesses-vat-compliance-1795113663",
+      "Exam value": "Everyday exam collocation for administration, tax and compliance passages."
+    },
+    {
+      "Phrase": "fill a post",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "পদ পূরণ করা",
+      "English explanation": "To appoint someone to a vacant job.",
+      "Usage / register": "Formal, jobs and recruitment reporting.",
+      "Original example 1": "Notably, this is the first time all 4,000 SI posts are being filled through direct recruitment.",
+      "Original example 2": "Previously, 50 per cent of SI posts were filled through departmental promotions and the remaining 50 per cent through direct recruitment.",
+      "Common collocations / grammar pattern": "posts are being filled; fill vacant posts; posts filled through direct recruitment",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/lv0ex6nnno",
+      "Exam value": "Core recruitment collocation for BCS/Bank jobs passages."
+    },
+    {
+      "Phrase": "compete for a post",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "পদের জন্য প্রতিযোগিতা করা",
+      "English explanation": "To take part in a contest for a job against other candidates.",
+      "Usage / register": "General and formal, jobs and recruitment reporting.",
+      "Original example 1": "With the increase in the number of posts this time, an average of only 17 candidates will compete for each position.",
+      "Original example 2": "At the time, 47 candidates were supposed to compete for each post.",
+      "Common collocations / grammar pattern": "compete for each post; compete for a position; candidates compete for posts",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://en.prothomalo.com/youth/employment/lv0ex6nnno",
+      "Exam value": "Core jobs and recruitment collocation for BCS/Bank passages on competition for posts."
+    },
+    {
+      "Phrase": "sell dollars from reserves",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "রিজার্ভ থেকে ডলার বিক্রি করা",
+      "English explanation": "A central bank selling foreign currency from its reserves to support the exchange rate.",
+      "Usage / register": "Formal, central banking and foreign-exchange reporting.",
+      "Original example 1": "On Wednesday, Bangladesh Bank sold $220 million from its reserves through an auction at Tk123.90 per dollar to meet banks' demand for the US currency.",
+      "Original example 2": "The central bank has been selling dollars from its reserves to meet the banking sector's demand and maintain stability in the foreign exchange market.",
+      "Common collocations / grammar pattern": "sell dollars from reserves; sold $220 million from its reserves; selling dollars to meet demand",
+      "Source publication": "The Business Standard",
+      "Article headline": "Forex reserves fall to $29.56b",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/economy/forex-reserves-fall-2956b-1608326",
+      "Exam value": "Core central-banking phrase for BCS/Bank questions on forex reserves and intervention."
+    },
+    {
+      "Phrase": "for the first time",
+      "Type": "Adverbial phrase / collocation",
+      "Bangla meaning": "প্রথমবারের মতো",
+      "English explanation": "Used to say that something has never happened before.",
+      "Usage / register": "General, news reporting.",
+      "Original example 1": "The ministry described the verdict as a historic milestone in securing justice and accountability for the Rohingya, noting that it was the first time the court had found a state responsible for committing genocide.",
+      "Original example 2": "Notably, this is the first time all 4,000 SI posts are being filled through direct recruitment.",
+      "Common collocations / grammar pattern": "for the first time; it was the first time; this is the first time",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling",
+      "Exam value": "High-frequency time phrase for BCS/Bank reading and writing passages."
+    },
+    {
+      "Phrase": "submit VAT returns",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "ভ্যাট রিটার্ন জমা দেওয়া",
+      "English explanation": "To file the periodic tax return reporting a business's VAT transactions.",
+      "Usage / register": "Formal, tax and revenue-administration reporting.",
+      "Original example 1": "Under the law, businesses must submit VAT returns within 15 days of each month, reporting their financial transactions for the preceding month.",
+      "Original example 2": "The disruptions are affecting not only the timely submission of VAT returns but also routine business operations, tax-related procedures and overall regulatory compliance.",
+      "Common collocations / grammar pattern": "submit VAT returns; submission of VAT returns; file VAT returns",
+      "Source publication": "The Financial Express",
+      "Article headline": "Online platform glitches disrupt businesses' VAT compliance",
+      "Publication date": "2026-11-20",
+      "Direct source URL": "https://today.thefinancialexpress.com.bd/last-page/online-platform-glitches-disrupt-businesses-vat-compliance-1795113663",
+      "Exam value": "Core tax-administration collocation for BCS/Bank questions on VAT and revenue."
+    },
+    {
+      "Phrase": "investigate and punish",
+      "Type": "Verb phrase / collocation",
+      "Bangla meaning": "তদন্ত করে শাস্তি দেওয়া",
+      "English explanation": "To look into wrongdoing and penalise those responsible.",
+      "Usage / register": "Formal, legal and international-law reporting.",
+      "Original example 1": "Dhaka says the landmark verdict legally binds Myanmar to investigate and punish those responsible, compensate victims and guarantee non-repetition.",
+      "Original example 2": "Judges also told Myanmar it must investigate and punish anyone suspected of committing genocide, providing for compensation to be determined at a later date.",
+      "Common collocations / grammar pattern": "investigate and punish those responsible; investigate and punish anyone suspected of...",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling",
+      "Exam value": "Core legal collocation for BCS/Bank questions on accountability and international courts."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "C",
+      "explanation": "The columnist writes that Bangladesh's financial system still relies on commercial banks for roughly 80 per cent of all debt financing.",
+      "no": 1,
+      "options": {
+        "A": "Less than one-tenth of one per cent of GDP",
+        "B": "Around 70 per cent",
+        "C": "Roughly 80 per cent",
+        "D": "About 50 per cent"
+      },
+      "question": "According to columnist Sajed ul Islam, commercial banks provide roughly what share of all debt financing in Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "The directive allows borrowers to access the Tk60,000 crore stimulus schemes with a court stay order, without having to withdraw their cases against lenders.",
+      "no": 2,
+      "options": {
+        "A": "Borrowers who withdraw their cases against their lenders",
+        "B": "Borrowers with a court stay order on proceedings",
+        "C": "Only borrowers with no court case at all",
+        "D": "Only large industrial borrowers"
+      },
+      "question": "Under Bangladesh Bank's relaxed rules, which borrowers can access loans under the Tk60,000 crore stimulus schemes?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "The circular says the loans must be distributed in the presence of public representatives, agricultural officials, teachers and other prominent local figures.",
+      "no": 3,
+      "options": {
+        "A": "Only to 'genuine farmers engaged in agricultural activities'",
+        "B": "Through private meetings at bank branches",
+        "C": "Only through mobile financial services",
+        "D": "In public, before public representatives"
+      },
+      "question": "Under Bangladesh Bank's new directive, how must agricultural loans be disbursed to farmers?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "A",
+      "explanation": "Illiquidity means an asset or market cannot easily be bought or sold without affecting its price; the columnist calls it a 'silent tax' on the economy.",
+      "no": 4,
+      "options": {
+        "A": "Difficulty buying or selling assets easily",
+        "B": "A tax imposed on bank deposits",
+        "C": "A rapid rise in share prices",
+        "D": "A government ban on all bond trading in the country"
+      },
+      "question": "What does 'illiquidity' mean in the column's phrase 'the silent tax of illiquidity'?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "To hedge a risk is to protect against possible loss; the columnist says thin trading means risks cannot be properly priced, hedged or shared.",
+      "no": 5,
+      "options": {
+        "A": "Sold at a profit",
+        "B": "Reported to the regulator",
+        "C": "Guarded against loss",
+        "D": "Divided among banks"
+      },
+      "question": "In the column, financial risks that cannot be 'priced, hedged, or shared' are risks that cannot be what?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "A benchmark is a standard or reference point for comparison; the columnist says the market lacks a continuous, reliable benchmark for long-term interest rates.",
+      "no": 6,
+      "options": {
+        "A": "A penalty rate for late loan repayment",
+        "B": "A reference rate to measure other rates",
+        "C": "A ceiling set by the government on lending",
+        "D": "A tax on government securities"
+      },
+      "question": "What does the column mean by a 'reliable benchmark for long-term interest rates'?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "A stimulus is government support designed to encourage economic activity and growth; the Tk60,000 crore schemes aim to revive activity and create employment.",
+      "no": 7,
+      "options": {
+        "A": "A penalty imposed on defaulting borrowers",
+        "B": "A tax collected to fund the budget",
+        "C": "A restriction on new lending",
+        "D": "State support to boost economic activity"
+      },
+      "question": "What does 'stimulus' mean in 'Tk60,000 crore stimulus schemes'?",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "A",
+      "explanation": "Marginalised means treated as unimportant or powerless and pushed to the edge; the directive names small, marginalised, landless and sharecropping farmers.",
+      "no": 8,
+      "options": {
+        "A": "Farmers kept at the edge of support",
+        "B": "Farmers who own large areas of farmland",
+        "C": "Farmers who grow only export crops",
+        "D": "Farmers employed by the government"
+      },
+      "question": "What does 'marginalised' mean in 'small, marginalised, landless, and sharecropping farmers'?",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "C",
+      "explanation": "Under UDYOG, selected entrepreneurs can receive blended financing of up to BDT 20 lakh — a bank loan of up to BDT 10 lakh plus an equal grant of up to BDT 10 lakh.",
+      "no": 9,
+      "options": {
+        "A": "BDT 10 lakh",
+        "B": "BDT 15 lakh",
+        "C": "BDT 20 lakh",
+        "D": "BDT 30 lakh"
+      },
+      "question": "Under Bangladesh Bank's UDYOG initiative, what is the maximum blended financing a selected young entrepreneur can receive?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "A",
+      "explanation": "MENASA countries imported more than 8 million tonnes of US soybeans in the 2025-26 marketing year; around 5 million tonnes is Egypt's share alone, and over 500,000 tonnes is Algeria's early 2026-27 figure.",
+      "no": 10,
+      "options": {
+        "A": "Over 8 million tonnes",
+        "B": "Around 5 million tonnes",
+        "C": "Over 500,000 tonnes",
+        "D": "Around 2 million tonnes"
+      },
+      "question": "How much US soybean did MENASA countries import in the 2025-26 marketing year, according to US Department of Agriculture data?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "D",
+      "explanation": "The editorial says accumulated losses of the BSFIC sugar mills since their last profit of Tk360 million in 2005-06 total Tk102.07 billion; Tk4.7675 billion is only the FY2025-26 loss and Tk5.5436 billion only the FY2024-25 loss.",
+      "no": 11,
+      "options": {
+        "A": "Tk4.7675 billion",
+        "B": "Tk5.5436 billion",
+        "C": "Tk360 million",
+        "D": "Tk102.07 billion"
+      },
+      "question": "What were the accumulated losses of the sugar mills under the Bangladesh Sugar and Food Industries Corporation since they last made a profit in 2005-06?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "B",
+      "explanation": "Entrepreneurship means starting and running a new business, taking financial risks in the hope of profit — exactly what the UDYOG scheme supports.",
+      "no": 12,
+      "options": {
+        "A": "Working as a bank clerk",
+        "B": "Starting and running a business",
+        "C": "Closing a failing business",
+        "D": "Studying economics at university"
+      },
+      "question": "What does 'entrepreneurship' mean in the UDYOG programme?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "D",
+      "explanation": "Mentoring is guidance and advice from an experienced person; UDYOG offers it alongside finance, training and business-plan help.",
+      "no": 13,
+      "options": {
+        "A": "Giving a loan to a young entrepreneur",
+        "B": "Collecting loan repayments from borrowers",
+        "C": "Auditing a new business",
+        "D": "Advice from experienced people"
+      },
+      "question": "In the UDYOG programme, what does 'mentoring' refer to?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "A",
+      "explanation": "A credit appraisal is an assessment of a borrower's creditworthiness before a bank lends; UDYOG selection involves transparent screening and independent credit appraisal by the financing banks.",
+      "no": 14,
+      "options": {
+        "A": "A check of a borrower's ability to repay",
+        "B": "The automatic approval of every loan application",
+        "C": "A public notice about a new loan scheme",
+        "D": "A tax charged on business profits"
+      },
+      "question": "What does 'appraisal' mean in 'independent credit appraisal by the financing banks'?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "C",
+      "explanation": "Geopolitical means relating to politics and power between countries; the article says wars and geopolitical uncertainties are reshaping soybean sourcing.",
+      "no": 15,
+      "options": {
+        "A": "To do with the weather",
+        "B": "To do with farming methods",
+        "C": "Politics between countries",
+        "D": "To do with prices in local markets"
+      },
+      "question": "What does 'geopolitical' mean, as in 'geopolitical uncertainties' affecting soybean trade?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "B",
+      "explanation": "A conglomerate is a large company made up of several different businesses; Marubeni is described as a trading and investment conglomerate of Japan.",
+      "no": 16,
+      "options": {
+        "A": "A small family shop",
+        "B": "A big company with many businesses",
+        "C": "A department of the national government",
+        "D": "A farmers' cooperative"
+      },
+      "question": "What is a 'conglomerate', as Marubeni is described in the sugar industry editorial?",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "no": 17,
+      "section": "Current Affairs",
+      "question": "According to the Financial Express column, what did State Minister Mir Shahe Alam say would NOT be considered a bribe?",
+      "options": {
+        "A": "A gift demanded by an engineer before the work even begins",
+        "B": "Money paid to speed up a bill payment",
+        "C": "A gift from profit after supervised work and payment",
+        "D": "A gift given to an engineer by a fellow official"
+      },
+      "correct": "C",
+      "explanation": "The minister said at an LGED engineers' workshop that if a contractor gives an engineer a gift from his profit after the work was properly watched and the bill was paid, it would not be considered a bribe.",
+      "source": "CA07"
+    },
+    {
+      "no": 18,
+      "section": "Current Affairs",
+      "question": "What did Bangladesh's Ministry of Foreign Affairs say remains the only viable solution to the Rohingya crisis?",
+      "options": {
+        "A": "Repatriation of the Rohingya to their homes in Myanmar",
+        "B": "Resettlement of the Rohingya in third countries",
+        "C": "Compensation for victims without any return",
+        "D": "United Nations administration of northern Rakhine State"
+      },
+      "correct": "A",
+      "explanation": "The ministry said repatriation to their homes in Myanmar remains the only viable solution to the crisis.",
+      "source": "CA08"
+    },
+    {
+      "no": 19,
+      "section": "Current Affairs",
+      "question": "How many constables are likely to be recruited through the ongoing recruitment circular?",
+      "options": {
+        "A": "2,000",
+        "B": "6,000",
+        "C": "10,000",
+        "D": "14,000"
+      },
+      "correct": "B",
+      "explanation": "The plan is to fill the 2,000 existing constable vacancies plus 4,000 of the newly approved 10,000 posts through the ongoing circular -- 6,000 in total.",
+      "source": "CA09"
+    },
+    {
+      "no": 20,
+      "section": "Current Affairs",
+      "question": "At what rate did Bangladesh Bank sell $220 million from its reserves on Wednesday?",
+      "options": {
+        "A": "Tk 122 per dollar",
+        "B": "Tk 125 per dollar",
+        "C": "Tk 126 per dollar",
+        "D": "Tk 123.90"
+      },
+      "correct": "D",
+      "explanation": "Bangladesh Bank sold $220 million through an auction at Tk 123.90 per dollar; Tk 125 was the market rate afterwards.",
+      "source": "CA10"
+    },
+    {
+      "no": 21,
+      "section": "Current Affairs",
+      "question": "When does the Ganges treaty between Bangladesh and India expire, according to the column?",
+      "options": {
+        "A": "12 December 2026",
+        "B": "12 December 2025",
+        "C": "12 January 2027",
+        "D": "31 December 2026"
+      },
+      "correct": "A",
+      "explanation": "The column says the Ganges treaty is set to expire on 12 December, with no news of a new agreement or renewal.",
+      "source": "CA11"
+    },
+    {
+      "no": 22,
+      "section": "Current Affairs",
+      "question": "Which two union leaders were detained by Detective Branch police on 17 November after a webinar on minimum-wage protests?",
+      "options": {
+        "A": "Mostafa Kamal and Rozina Akter Sumi",
+        "B": "Md Ali Azgar and Md Morshed Alam Kawsar",
+        "C": "Sultana Begum and Md Elias",
+        "D": "Md Fuadur Rahman Nirjon and Mostafa Kamal"
+      },
+      "correct": "C",
+      "explanation": "GBGWF president Sultana Begum and general secretary Md Elias were detained on 17 November; the others named were arrested earlier in November.",
+      "source": "CA12"
+    },
+    {
+      "no": 23,
+      "section": "Current Affairs",
+      "question": "Within how many days of each month must businesses submit VAT returns under the law?",
+      "options": {
+        "A": "7 days",
+        "B": "15 days",
+        "C": "10 days",
+        "D": "30 days"
+      },
+      "correct": "B",
+      "explanation": "Under the law, businesses must submit VAT returns within 15 days of each month; seven days was the NBR's extension of the deadline.",
+      "source": "CA13"
+    },
+    {
+      "no": 24,
+      "section": "Phrases",
+      "question": "In the police recruitment story, what does 'direct recruitment' mean?",
+      "options": {
+        "A": "Promotion of serving constables to sub-inspector",
+        "B": "Temporary hiring for a single project",
+        "C": "Recruitment handled only by the Ministry of Home Affairs",
+        "D": "Filling posts by open competition, not promotion"
+      },
+      "correct": "D",
+      "explanation": "Previously half the SI posts were filled by departmental promotion and half by direct recruitment; now all 4,000 SI posts will be filled through direct recruitment.",
+      "source": "CA09"
+    },
+    {
+      "no": 25,
+      "section": "Phrases",
+      "question": "In the ICJ story, what does a 'safe, voluntary and dignified return' for the Rohingya mean?",
+      "options": {
+        "A": "Returning home safely and with dignity, unforced",
+        "B": "Refugees being resettled in a third country",
+        "C": "Refugees returning only after receiving compensation",
+        "D": "Refugees returning under military escort"
+      },
+      "correct": "A",
+      "explanation": "The ICJ ordered Myanmar to facilitate the safe, voluntary and dignified return of the Rohingya to their places of residence.",
+      "source": "CA08"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "The silent tax of illiquidity: Why secondary market depth matters",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/dva10w7f68"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Borrowers in disputes eligible for Tk60,000cr stimulus loans with court stay orders",
+      "Publication date": "2026-11-20",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/borrowers-disputes-eligible-tk60000cr-stimulus-loans-court-stay-orders-1608416"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "Bangladesh Bank directs open disbursement of agricultural loans",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://bdnews24.com/economy/1fyn5bspbg"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "City Bank promotes youth entrepreneurship through Bangladesh Bank's UDYOG initiative in Munshiganj",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://en.prothomalo.com/corporate/21wihd5cni"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Global soybean market shifts put Bangladesh's poultry, fish industries on alert",
+      "Publication date": "2026-11-20",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/global-soybean-market-shifts-put-bangladeshs-poultry-fish-industries-alert-1608406"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "Fresh initiative to revive sugar industry",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/editorial/fresh-initiative-to-revive-sugar-industry-1795013920"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "When bribery earns social recognition!",
+      "Publication date": "2026-11-20",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/editorial/when-bribery-earns-social-recognition-1795102319"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh urges Myanmar to ensure safe Rohingya return after ICJ genocide ruling",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-myanmar-ensure-safe-rohingya-return-after-icj-genocide-ruling"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "10,000 constable, 4,000 SI posts approved: How will the recruitment process work?",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/lv0ex6nnno"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Forex reserves fall to $29.56b",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/economy/forex-reserves-fall-2956b-1608326"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "An agreement needed before the Ganges Water Treaty expires",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/a1wpzczo4w"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Amnesty urges Bangladesh to stop arresting garment workers, union leaders",
+      "Publication date": "2026-11-20",
+      "Direct URL": "https://www.tbsnews.net/economy/rmg/amnesty-urges-bangladesh-stop-arresting-garment-workers-union-leaders-1608376"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "Online platform glitches disrupt businesses' VAT compliance",
+      "Publication date": "2026-11-20",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/last-page/online-platform-glitches-disrupt-businesses-vat-compliance-1795113663"
+    }
+  ],
+  "approved_by": "auto-17/17 (Rudro's v1 rule 2026-11-13)",
+  "approval_notes": "Review 17/17. Longest-correct 4/25 strict (MCQs 9, 11, 21, 23 — all all-equal-option ties), 0/25 by the gate definition (unique longest, all-equal excluded). Manual spot-checks (coordinator): 5 lead figures verified against fetched source bodies — CA01 banks ~80% of debt financing + corporate bonds <0.1% of GDP; CA02 Tk60,000 crore + 15 schemes; CA04 BDT 20 lakh blended (10 lakh loan + 10 lakh grant); CA05 MENASA >8m tonnes US soybeans 2025-26; CA09 10,000 constables + 4,000 SIs (CA10 $29.56b reserves + Tk123.90 also verified). Opinion attribution: all 4 Editorial & Opinion stories attributed (CA01 columnist Sajed ul Islam argues; CA06 editorial says; CA07 columnist Shiabur Rahman argues; CA11 columnist Altaf Parvez argues). Known divergence: CA03 (BB agricultural loans) has NO numeric figure in its source article — its summary/figures carry only the 19 November circular date, disclosed here; no figure was invented. Pack written by operator (agent), acting as the Claude Project. v1 fallback day: correct_consecutive_editions stays 1; this does NOT advance the v2 proof (v2 stays 1/7)."
+}

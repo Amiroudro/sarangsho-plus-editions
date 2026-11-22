@@ -1,0 +1,2214 @@
+{
+  "edition_date": "2026-11-19",
+  "edition_day": "Thursday",
+  "coverage": "18 Nov 2026, 7:47 AM to 2026-11-19, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-19",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-18",
+      "exam_facts": "Although 79% of women and 86% of men recognise that higher returns carry higher risks, knowledge of interest and principal stands at roughly 69% for women and 77% for men. Among those with bank accounts, women rely far more heavily on banking channels to receive foreign remittances, with 26.1% using accounts for this purpose compared with 11.5% of men, a rate 2.3 times higher. The findings were presented at an event at the InterContinental Dhaka hotel by keynote presenter M Abdur Razzaque, chairman of Research and Policy Integration for Development (RAPID).",
+      "exam_relevance": "Financial inclusion, inflation and real interest rates, gender gap in mobile and banking access -- core BCS/Bank economy topics.",
+      "figures": "70% of women and 59% of men unaware of investment diversification; 64.50% financially included, 35% excluded; inflation above 8%; 55.7% of women own no personal mobile phone vs 82.5% of men; 79% of women and 86% of men recognise higher returns carry higher risks; interest and principal knowledge about 69% women, 77% men; remittances via bank accounts 26.1% women vs 11.5% men, 2.3 times higher",
+      "headline": "70% of women unaware of investment diversification: Survey",
+      "id": "CA01",
+      "key_people": "M Abdur Razzaque, chairman, Research and Policy Integration for Development (RAPID)",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "70% of women unaware of investment diversification: Survey",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/70-women-unaware-investment-diversification-survey-1607251"
+        }
+      ],
+      "summary": "Around 70% of women and 59% of men in Bangladesh have no knowledge of investment diversification to protect their savings from inflation, the Bangladesh National Financial Inclusion Survey 2025 found, released on 18 November. People grasp basic interest and principal but not how inflation erodes purchasing power: inflation is above 8% while bank deposit rates are lower, so real interest is negative. Only 64.50% are financially included, and 55.7% of women own no personal mobile phone, against 82.5% of men.",
+      "why_it_matters": "The 70% and 59% figures, the 64.50% inclusion rate and the negative real interest rate are the exact numbers for BCS/Bank questions on financial inclusion and inflation, and the mobile-phone gap -- 55.7% of women without one against 82.5% of men with one -- is the background for the next story on women's access to banking and mobile financial services.",
+      "one_liner": "Around 70% of women and 59% of men in Bangladesh have no knowledge of investment diversification to protect their savings…",
+      "key_facts": [
+        {
+          "label": "% of women and 59% of…",
+          "value": "70",
+          "original": "70% of women and 59% of men unaware of investment diversification"
+        },
+        {
+          "label": "% financially included, 35% excluded",
+          "value": "64.50",
+          "original": "64.50% financially included, 35% excluded"
+        },
+        {
+          "label": "inflation above %",
+          "value": "8",
+          "original": "inflation above 8%"
+        },
+        {
+          "label": "% of women own no personal…",
+          "value": "55.7",
+          "original": "55.7% of women own no personal mobile phone vs 82.5% of men"
+        }
+      ],
+      "what_happened": [
+        "People grasp basic interest and principal but not how inflation erodes purchasing power: inflation is above 8% while bank deposit rates are lower, so real interest is negative.",
+        "Only 64.50% are financially included, and 55.7% of women own no personal mobile phone, against 82.5% of men."
+      ],
+      "exam_qa": [
+        {
+          "q": "What share of women have no knowledge of investment diversification?",
+          "a": "70%"
+        },
+        {
+          "q": "What share of women own no personal mobile phone?",
+          "a": "55.7%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Around 70% of women and 59% of men in Bangladesh have no knowledge of investment diversification to protect their savings from inflation, the Bangladesh National Financial Inclusion Survey 2025 found, released on ______.",
+          "answer": "18 November"
+        },
+        {
+          "cloze": "People grasp basic interest and principal but not how inflation erodes purchasing power: inflation is above ______% while bank deposit rates are lower, so real interest is negative.",
+          "answer": "8"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "women",
+        "unaware",
+        "investment",
+        "diversification",
+        "survey"
+      ],
+      "detail": "Around 70% of women and 59% of men in Bangladesh have no knowledge of investment diversification to protect their savings from inflation, the Bangladesh National Financial Inclusion Survey 2025 found, released on 18 November. People grasp basic interest and principal but not how inflation erodes purchasing power: inflation is above 8% while bank deposit rates are lower, so real interest is negative. Only 64.50% are financially included, and 55.7% of women own no personal mobile phone, against 82.5% of men."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Bangladesh",
+      "event_date": "2026-11-16",
+      "exam_facts": "Accounts of the toll differ and are reported separately: the London Metropolitan Police said three people were taken to hospital, none with life-threatening injuries; the London Ambulance Service said it treated six people at the scene and took one to hospital; Prothom Alo counted five injured, and the NCP said about 10. No arrests had been made by 17 November. Nahid had gone in three hours early and left by a rear door. On 14 November, Awami League supporters tried to heckle Nahid at a University of Cambridge event, and in June a visit to east London by NCP MP Hasnat Abdullah drew egg-throwing protests, with police detaining three people, among them a London Awami League official. The NCP grew out of the movement that toppled Hasina and stood in an alliance led by Jamaat-e-Islami; the Awami League was barred from the ballot, and 297 of 300 seats were declared after the election of 12 February 2026. Hasina fled to India in August 2024 and was sentenced to death in absentia on 17 November 2025 for crimes against humanity over the crackdown on the uprising; she denies the charges and says she will come home in December to face the court, while Dhaka has refused her a passport and wants India to extradite her instead.",
+      "exam_relevance": "Post-2024 politics, NCP, Awami League ban, diaspora, February 2026 election results -- core BCS/Bank Bangladesh-affairs topics.",
+      "figures": "About 50 men protesting; 3 taken to hospital (Metropolitan Police); 6 treated at the scene, 1 taken to hospital (London Ambulance Service); 5 injured (Prothom Alo); about 10 (NCP); third confrontation in Britain in 2026; NCP 6 of 297 seats declared; BNP 209; election 12 February 2026; Hasina death sentence 17 November 2025",
+      "headline": "Bangladesh's political strife spills onto London's streets",
+      "id": "CA02",
+      "key_people": "Nahid Islam, NCP convener and opposition chief whip; Sheikh Hasina, former prime minister; Hasnat Abdullah, NCP MP; Tarique Rahman, Prime Minister",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Bangladesh's political strife spills onto London's streets",
+          "publication": "Yahoo",
+          "url": "https://www.yahoo.com/news/world/articles/bangladeshs-political-strife-spills-onto-205114547.html"
+        }
+      ],
+      "summary": "Supporters of the banned Awami League and the National Citizen Party (NCP) fought in east London on 16 November, on the eve of the anniversary of Sheikh Hasina's death sentence. The violence followed a reception at the Mayfair Venue, Chadwell Heath, for NCP convener Nahid Islam: Awami League supporters pelted guests with eggs and water bottles, then a chase through streets lasted 20 minutes. Police said about 50 men had been protesting and three people were taken to hospital; it was the third such confrontation in Britain in 2026.",
+      "why_it_matters": "The third confrontation in Britain in 2026, the 6 of 297 seats the NCP won against the BNP's 209, and Hasina's death sentence of 17 November 2025 are the exact facts for BCS/Bank questions on post-2024 politics and the diaspora, and the London clashes are the background for the next story on how the unfinished fight over the 2024 uprising travels abroad.",
+      "one_liner": "Supporters of the banned Awami League and the National Citizen Party (NCP) fought in east London on 16 November, on…",
+      "key_facts": [
+        {
+          "label": "About men protesting",
+          "value": "50",
+          "original": "About 50 men protesting"
+        },
+        {
+          "label": "Metropolitan Police",
+          "value": "3 taken to hospital",
+          "original": "3 taken to hospital (Metropolitan Police)"
+        },
+        {
+          "label": "London Ambulance Service",
+          "value": "6 treated at the scene, 1 taken to hospital",
+          "original": "6 treated at the scene, 1 taken to hospital (London Ambulance Service)"
+        },
+        {
+          "label": "Prothom Alo",
+          "value": "5 injured",
+          "original": "5 injured (Prothom Alo)"
+        }
+      ],
+      "what_happened": [
+        "The violence followed a reception at the Mayfair Venue, Chadwell Heath, for NCP convener Nahid Islam: Awami League supporters pelted guests with eggs and water bottles,",
+        "then a chase through streets lasted 20 minutes.",
+        "Police said about 50 men had been protesting and three people were taken to hospital; it was the third such confrontation in Britain in 2026."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many men were protesting, according to the Metropolitan Police?",
+          "a": "About 50"
+        },
+        {
+          "q": "How many seats did the NCP win in February's election?",
+          "a": "6 of 297"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Supporters of the banned Awami League and the National Citizen Party (NCP) fought in east London on ______, on the eve of the anniversary of Sheikh Hasina's death sentence.",
+          "answer": "16 November"
+        },
+        {
+          "cloze": "The violence followed a reception at the Mayfair Venue, Chadwell Heath, for NCP convener Nahid Islam: Awami League supporters pelted guests with eggs and water bottles, then a chase through streets lasted ______ minutes.",
+          "answer": "20"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "political",
+        "strife",
+        "spills",
+        "onto",
+        "london",
+        "streets"
+      ],
+      "detail": "Supporters of the banned Awami League and the National Citizen Party (NCP) fought in east London on 16 November, on the eve of the anniversary of Sheikh Hasina's death sentence. The violence followed a reception at the Mayfair Venue, Chadwell Heath, for NCP convener Nahid Islam: Awami League supporters pelted guests with eggs and water bottles, then a chase through streets lasted 20 minutes. Police said about 50 men had been protesting and three people were taken to hospital; it was the third such confrontation in Britain in 2026."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Technology",
+      "event_date": "2026-11-18",
+      "exam_facts": "BUET Vice-Chancellor Ekramul Haque told Prothom Alo that the university's Academic Council held a meeting on 18 November, and the issue had also been discussed at a meeting of the University Grants Commission (UGC). The supplementary examinations are for students who failed in up to two subjects in the HSC and equivalent examinations, and the results are expected to be published by the end of December. Most universities are allowing students who pass the HSC supplementary examinations to sit for undergraduate (honours) admission tests, but some universities, including Dhaka University and BUET, had initially been reluctant to allow them. The High Court order was issued by a bench comprising Justice Ahmed Sohel and Justice SM Iftikhar Uddin Mahmud after an initial hearing on a writ petition and issuing a rule.",
+      "exam_relevance": "BUET admission, High Court orders, UGC, HSC supplementary examinations -- core BCS/Bank education topics.",
+      "figures": "Test moved from 16 January to 1 February next year; High Court suspension until 31 December; supplementary examinations 1-15 December; results expected by end of December; applications from 21 November until 7 or 8 January",
+      "headline": "BUET delays admission test by 2 weeks",
+      "id": "CA03",
+      "key_people": "Ekramul Haque, BUET Vice-Chancellor; Justice Ahmed Sohel; Justice SM Iftikhar Uddin Mahmud",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "BUET delays admission test by 2 weeks",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/youth/education/b0mt9pzr0p"
+        }
+      ],
+      "summary": "Bangladesh University of Engineering and Technology (BUET) has postponed its admission test by two weeks to 1 February next year, instead of 16 January, after the High Court ordered admission tests at Dhaka University and all public universities suspended until 31 December. BUET's Academic Council decided the delay so students passing the HSC supplementary examinations, held 1-15 December, can apply; forms will be available from 21 November until 7 or 8 January.",
+      "why_it_matters": "The 1 February date, the 31 December High Court suspension and the 1-15 December supplementary examinations are the exact dates for BCS/Bank questions on university admissions, and the order's effect on every public university is the background for the next story on admission schedules.",
+      "one_liner": "Bangladesh University of Engineering and Technology (BUET) has postponed its admission test by two weeks to 1 February next year,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "High Court suspension until 31 December",
+          "original": "High Court suspension until 31 December"
+        },
+        {
+          "label": "",
+          "value": "supplementary examinations 1-15 December",
+          "original": "supplementary examinations 1-15 December"
+        },
+        {
+          "label": "",
+          "value": "results expected by end of December",
+          "original": "results expected by end of December"
+        },
+        {
+          "label": "applications from 21 November until or…",
+          "value": "7",
+          "original": "applications from 21 November until 7 or 8 January"
+        }
+      ],
+      "what_happened": [
+        "BUET's Academic Council decided the delay so students passing the HSC supplementary examinations, held 1-15 December,",
+        "can apply; forms will be available from 21 November until 7 or 8 January."
+      ],
+      "exam_qa": [
+        {
+          "q": "When will the BUET admission test now be held?",
+          "a": "1 February"
+        },
+        {
+          "q": "Until when did the High Court suspend admission tests?",
+          "a": "31 December"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh University of Engineering and Technology (BUET) has postponed its admission test by two weeks to ______ next year, instead of 16 January, after the High Court ordered admission tests at Dhaka University and all public universities suspended until 31 December.",
+          "answer": "1 February"
+        },
+        {
+          "cloze": "BUET's Academic Council decided the delay so students passing the HSC supplementary examinations, held 1-______, can apply; forms will be available from 21 November until 7 or 8 January.",
+          "answer": "15 December"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "buet",
+        "delays",
+        "admission",
+        "test",
+        "weeks"
+      ],
+      "detail": "Bangladesh University of Engineering and Technology (BUET) has postponed its admission test by two weeks to 1 February next year, instead of 16 January, after the High Court ordered admission tests at Dhaka University and all public universities suspended until 31 December. BUET's Academic Council decided the delay so students passing the HSC supplementary examinations, held 1-15 December, can apply; forms will be available from 21 November until 7 or 8 January."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "exam_facts": "By injecting dollars into the market, the central bank aims to curb exchange rate volatility and contain imported inflation. The fetched text gives no earlier intervention rate, so the size of the fall from previous interventions cannot be checked from this article. The same page's related-news list carries a separate headline, 'Bangladesh Bank sells $100m from reserves through auction', with no date or rate for that sale in the fetched text.",
+      "exam_relevance": "Foreign exchange reserves, exchange rate, Bangladesh Bank intervention, imported inflation -- core BCS/Bank banking and economy topics.",
+      "figures": "$220 million sold; Tk123.90 per dollar; reserves $29.68 billion on 17 November",
+      "headline": "Bangladesh Bank sells $220m from reserves at Tk123.90 per dollar",
+      "id": "CA04",
+      "key_people": "Bangladesh Bank",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Bangladesh Bank sells $220m from reserves at Tk123.90 per dollar",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-sells-220m-reserves-tk12390-dollar-1607176"
+        }
+      ],
+      "summary": "Bangladesh Bank sold $220 million from its foreign exchange reserves at Tk123.90 per dollar through an auction to boost dollar supply and stabilise the exchange rate. The sale was at a lower rate than previous interventions as the central bank seeks to contain upward pressure on the dollar, since a further rise could raise import costs for fuel, food and industrial raw materials and add to domestic inflation. Reserves stood at $29.68 billion on 17 November.",
+      "why_it_matters": "The $220 million sale at Tk123.90 and the $29.68 billion reserve figure on 17 November are the exact numbers for BCS/Bank questions on the exchange rate and reserves, and the central bank's aim of containing imported inflation is the background for the next story on dollar pressure and import costs.",
+      "one_liner": "Bangladesh Bank sold $220 million from its foreign exchange reserves at Tk123.90 per dollar through an auction to boost dollar…",
+      "key_facts": [
+        {
+          "label": "reserves on 17 November",
+          "value": "$29.68 billion",
+          "original": "reserves $29.68 billion on 17 November"
+        },
+        {
+          "label": "By injecting dollars into the market,…",
+          "value": "$100",
+          "original": "By injecting dollars into the market, the central bank aims to curb exchange rate volatility and contain imported inflation. The fetched text gives no earlier intervention rate, so the size of the fall from previous interventions cannot be checked from this article. The same page's related-news list carries a separate headline, 'Bangladesh Bank sells $100m from reserves through auction', with no date or rate for that sale in the fetched text"
+        }
+      ],
+      "what_happened": [
+        "The sale was at a lower rate than previous interventions as the central bank seeks to contain upward pressure on the dollar,",
+        "since a further rise could raise import costs for fuel, food and industrial raw materials and add to domestic inflation.",
+        "Reserves stood at $29.68 billion on 17 November."
+      ],
+      "exam_qa": [
+        {
+          "q": "At what rate did Bangladesh Bank sell $220 million?",
+          "a": "Tk123.90 per dollar"
+        },
+        {
+          "q": "What were the reserves on 17 November?",
+          "a": "$29.68 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank sold $______ million from its foreign exchange reserves at Tk123.90 per dollar through an auction to boost dollar supply and stabilise the exchange rate.",
+          "answer": "220"
+        },
+        {
+          "cloze": "Reserves stood at $29.68 billion on ______.",
+          "answer": "17 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "sells",
+        "reserves",
+        "dollar"
+      ],
+      "detail": "Bangladesh Bank sold $220 million from its foreign exchange reserves at Tk123.90 per dollar through an auction to boost dollar supply and stabilise the exchange rate. The sale was at a lower rate than previous interventions as the central bank seeks to contain upward pressure on the dollar, since a further rise could raise import costs for fuel, food and industrial raw materials and add to domestic inflation. Reserves stood at $29.68 billion on 17 November."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "World",
+      "event_date": "2026-11-18",
+      "exam_facts": "Trump was still in the Philippines on 18 November, where a day earlier he met fellow leaders of the Quad - Australia, Japan and India - for the first time in his second term, a grouping broadly aimed at counterbalancing China's regional influence; Trump said he was eyeing one-on-one talks with Putin and Kim Jong Un at his next stop in Shenzhen, saying the North Korean leader 'would like' to meet in China, while US Secretary of State Marco Rubio stopped short of confirming the meeting with Kim; Putin said Western sanctions imposed on Russia since his 2022 invasion of Ukraine had failed, arguing they were 'not capable of fully stopping growth or destroying the economies of the competition'; Xi called for greater international cooperation on AI and free trade, saying China would start by lowering tariffs and expanding access; Xi and Putin were expected to discuss energy and finance and then, in a smaller format, foreign policy including Ukraine and North Korea, according to Russian officials.",
+      "exam_relevance": "Great-power summits, APEC, Ukraine war, nuclear disarmament, the Quad, US-China rivalry -- core BCS/Bank international-relations topics.",
+      "figures": "Fifth Xi-Putin meeting this year, including once by video link; US-Russia bilateral treaty on atomic weapons expired in February 2026",
+      "headline": "China's Xi to host historic summit with Trump, Putin",
+      "id": "CA05",
+      "key_people": "Xi Jinping, President of China; Vladimir Putin, President of Russia; Donald Trump, President of the United States; Marco Rubio, US Secretary of State; Kim Jong Un, leader of North Korea",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Xi, Putin meet ahead of historic Trump trilateral summit",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/international/kjgzlmmdmd"
+        },
+        {
+          "date": "2026-11-18",
+          "headline": "China's Xi to host historic summit with Trump, Putin",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/world/news/chinas-xi-host-historic-summit-trump-putin-4327826"
+        }
+      ],
+      "summary": "Xi Jinping and Vladimir Putin met in Shenzhen on 18 November, a day before a three-way summit with Donald Trump — their fifth meeting this year. The trilateral has raised fears the three could decide Ukraine's fate over the heads of Kyiv and Europe. Also on the agenda: the Iran war and nuclear disarmament, after the US-Russia treaty expired in February.",
+      "why_it_matters": "The fifth Xi-Putin meeting this year, the first-ever Xi-Trump-Putin trilateral and the February expiry of the US-Russia nuclear treaty are the exact facts for BCS/Bank questions on great-power summits, and the APEC setting plus the Quad meeting in Manila is the background for the next story on US-China rivalry in Asia.",
+      "one_liner": "Xi Jinping and Vladimir Putin met in Shenzhen on 18 November, a day before a three-way summit with Donald Trump…",
+      "key_facts": [
+        {
+          "label": "Putin said Western sanctions imposed on…",
+          "value": "2022",
+          "original": "Putin said Western sanctions imposed on Russia since his 2022 invasion of Ukraine had failed, arguing they were 'not capable of fully stopping growth or destroying the economies of the competition'"
+        }
+      ],
+      "what_happened": [
+        "The trilateral has raised fears the three could decide Ukraine's fate over the heads of Kyiv and Europe.",
+        "Also on the agenda: the Iran war and nuclear disarmament, after the US-Russia treaty expired in February."
+      ],
+      "exam_qa": [
+        {
+          "q": "Where did Xi and Putin meet on 18 November?",
+          "a": "Shenzhen"
+        },
+        {
+          "q": "How many times have Xi and Putin met this year, including by video?",
+          "a": "Five times"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Xi Jinping and Vladimir Putin met in Shenzhen on ______, a day before a three-way summit with Donald Trump — their fifth meeting this year.",
+          "answer": "18 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "china",
+        "host",
+        "historic",
+        "summit",
+        "trump",
+        "putin"
+      ],
+      "detail": "Xi Jinping and Vladimir Putin met in Shenzhen on 18 November, a day before a three-way summit with Donald Trump — their fifth meeting this year. The trilateral has raised fears the three could decide Ukraine's fate over the heads of Kyiv and Europe. Also on the agenda: the Iran war and nuclear disarmament, after the US-Russia treaty expired in February."
+    },
+    {
+      "article_date": "2026-11-19",
+      "category": "Bangladesh",
+      "event_date": "2026-11-19",
+      "exam_facts": "Three adult women recently alleged that immigration officers stopped them from travelling, telephoned their parents and questioned their clothing, finances and personal lives, and one said she was told that an unmarried woman could not travel abroad alone; the High Court subsequently questioned why lawful travel should be obstructed merely because an adult woman is unmarried or travelling without a guardian; at Airport Railway Station, passengers have accused members of the Railway Nirapatta Bahini of intimidating them and extracting more than the prescribed fare during ticket checks, despite the force having no authority to collect fines independently, and when a journalist attempted to record the alleged irregularities, security personnel reportedly searched his phone; in Chuadanga, a government official allegedly became angry because he had not been addressed as 'sir'; the feature also notes widespread concern about the deteriorating law and order situation and a growing perception of political instability. Note: the fetched article text ends mid-sentence ('identify another pres...'), so the study's named factor beyond wages, jobs and political insecurity is not stated here.",
+      "exam_relevance": "Migration, sociology, governance, citizens' rights, law and order -- core BCS/Bank Bangladesh-affairs and social-issues topics.",
+      "figures": "32 interviews with migrants and active migration aspirants; study published in Sociology Lens in October 2026",
+      "headline": "How everyday indignities push Bangladeshis abroad",
+      "id": "CA06",
+      "key_people": "AKM Ahsan Ullah, researcher; Ahmed Shafiqul Huque, researcher; Shadique Mahbub Islam, author of the feature",
+      "sources": [
+        {
+          "date": "2026-11-19",
+          "headline": "How everyday indignities push Bangladeshis abroad",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/features/panorama/how-everyday-indignities-push-bangladeshis-abroad-1607291"
+        }
+      ],
+      "summary": "A study in Sociology Lens (October), based on 32 interviews with migrants and aspirants, argues migration cannot always be explained by wages, jobs or political insecurity alone — everyday indignity may push some Bangladeshis abroad. It cites women harassed over their orna, immigration officers allegedly stopping unmarried women from travelling, luggage tampering, and Railway Nirapatta Bahini staff extracting more than the prescribed fare.",
+      "why_it_matters": "The study's argument that migration is also an escape from everyday incivility, backed by 32 interviews, is the specific hook for BCS/Bank questions on migration beyond wages, and the High Court questioning the obstruction of unmarried women's travel is the legal anchor for the next story on citizens' rights at airports.",
+      "one_liner": "A study in Sociology Lens (October), based on 32 interviews with migrants and aspirants, argues migration cannot always be explained…",
+      "key_facts": [
+        {
+          "label": "interviews with migrants and active migration…",
+          "value": "32",
+          "original": "32 interviews with migrants and active migration aspirants"
+        },
+        {
+          "label": "",
+          "value": "study published in Sociology Lens in October 2026",
+          "original": "study published in Sociology Lens in October 2026"
+        }
+      ],
+      "what_happened": [
+        "It cites women harassed over their orna, immigration officers allegedly stopping unmarried women from travelling, luggage tampering, and Railway Nirapatta Bahini staff extracting more than the prescribed fare."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many interviews did the study draw on?",
+          "a": "32"
+        },
+        {
+          "q": "In which journal was the study published?",
+          "a": "Sociology Lens"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A study in Sociology Lens (October), based on ______ interviews with migrants and aspirants, argues migration cannot always be explained by wages, jobs or political insecurity alone — everyday indignity may push some Bangladeshis abroad.",
+          "answer": "32"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "everyday",
+        "indignities",
+        "push",
+        "bangladeshis",
+        "abroad"
+      ],
+      "detail": "A study in Sociology Lens (October), based on 32 interviews with migrants and aspirants, argues migration cannot always be explained by wages, jobs or political insecurity alone — everyday indignity may push some Bangladeshis abroad. It cites women harassed over their orna, immigration officers allegedly stopping unmarried women from travelling, luggage tampering, and Railway Nirapatta Bahini staff extracting more than the prescribed fare."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-18",
+      "exam_facts": "The day's sitting began at 4:15pm, with Deputy Speaker Barrister Kayser Kamal in the chair, and the first 30 minutes of the proceedings were allocated for questions to the prime minister; the fourth session of the 13th Jatiya Sangsad began on 9 November, and the brief session was scheduled to conclude on 18 November with the prime minister's concluding speech, following a decision by the Parliament's Business Advisory Committee; the prime minister cited Bangladesh Bank's weekly reserve calculation for both figures. Discrepancy flagged, not resolved: the Bangladesh Sangbad Sangstha (BSS) headline reports 'Gross forex reserves rise to $34.50bn', which is $1.85 billion below the prime minister's $36.35 billion figure, and the collected BSS text gives no date or method for its figure, so the two numbers cannot be reconciled from the sources given.",
+      "exam_relevance": "Foreign exchange reserves, Bangladesh Bank, parliament, prime minister's question session -- core BCS/Bank economy and banking topics.",
+      "figures": "Reserves $36.35 billion as of 19 October 2026; $25.90 billion on 8 August 2024; rise of $10.45 billion (arithmetic from the two stated figures); BSS gross reserves $34.50 billion",
+      "headline": "Bangladesh's forex reserves stand at $36.35 billion: PM",
+      "id": "CA07",
+      "key_people": "Tarique Rahman, Prime Minister; Mohammed Enamul Hoque, MP for Chattogram-12; Barrister Kayser Kamal, Deputy Speaker",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Bangladesh's forex reserves stand at $36.35 billion: PM",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladeshs-forex-reserves-stand-3635-billion-pm-1606781"
+        }
+      ],
+      "summary": "Prime Minister Tarique Rahman told Parliament on 18 November that reserves stood at $36.35 billion as of 19 October 2026, up from $25.90 billion on 8 August 2024 — a rise of $10.45 billion. He was replying to Chattogram-12 MP Mohammed Enamul Hoque in the prime minister's question session. Note: BSS separately reports gross reserves of $34.50 billion, which differs from the prime minister's figure.",
+      "why_it_matters": "The $36.35 billion figure as of 19 October 2026 against $25.90 billion on 8 August 2024 is the exact reserve comparison for BCS/Bank questions on forex reserves, and the conflicting BSS gross figure of $34.50 billion is the background a student needs before quoting either number.",
+      "one_liner": "Prime Minister Tarique Rahman told Parliament on 18 November that reserves stood at $36.35 billion as of 19 October 2026,…",
+      "key_facts": [
+        {
+          "label": "Reserves as of 19 October 2026",
+          "value": "$36.35 billion",
+          "original": "Reserves $36.35 billion as of 19 October 2026"
+        },
+        {
+          "label": "on 8 August 2024",
+          "value": "$25.90 billion",
+          "original": "$25.90 billion on 8 August 2024"
+        },
+        {
+          "label": "arithmetic from the two stated figures",
+          "value": "rise of $10.45 billion",
+          "original": "rise of $10.45 billion (arithmetic from the two stated figures)"
+        },
+        {
+          "label": "BSS gross reserves",
+          "value": "$34.50 billion",
+          "original": "BSS gross reserves $34.50 billion"
+        }
+      ],
+      "what_happened": [
+        "He was replying to Chattogram-12 MP Mohammed Enamul Hoque in the prime minister's question session.",
+        "Note: BSS separately reports gross reserves of $34.50 billion, which differs from the prime minister's figure."
+      ],
+      "exam_qa": [
+        {
+          "q": "What were the reserves as of 19 October 2026?",
+          "a": "$36.35 billion"
+        },
+        {
+          "q": "What were the reserves on 8 August 2024?",
+          "a": "$25.90 billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman told Parliament on ______ that reserves stood at $36.35 billion as of 19 October 2026, up from $25.90 billion on 8 August 2024 — a rise of $10.45 billion.",
+          "answer": "18 November"
+        },
+        {
+          "cloze": "He was replying to Chattogram-______ MP Mohammed Enamul Hoque in the prime minister's question session.",
+          "answer": "12"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "forex",
+        "reserves",
+        "stand",
+        "billion"
+      ],
+      "detail": "Prime Minister Tarique Rahman told Parliament on 18 November that reserves stood at $36.35 billion as of 19 October 2026, up from $25.90 billion on 8 August 2024 — a rise of $10.45 billion. He was replying to Chattogram-12 MP Mohammed Enamul Hoque in the prime minister's question session. Note: BSS separately reports gross reserves of $34.50 billion, which differs from the prime minister's figure."
+    },
+    {
+      "article_date": "2026-11-18",
+      "category": "Bangladesh",
+      "event_date": "2026-11-18",
+      "exam_facts": "Motorcycle processions were seen in the Pachuria, Court, Launch Ghat, Kachabazar intersection, Police Lines and Bedgram areas after 7:15pm, and the processions converged in the Launch Ghat area, where slogans were chanted under the leadership of Raju Khan, joint general secretary of the Gopalganj district unit of the banned Chhatra League, including 'Khela, khela, khela hobe' ('There will be a game'); the hospital's ground floor houses a pathology unit, laboratory and doctors' chambers, and the lawmaker uses a room on the ground floor as his office; one witness said a middle-aged woman ran out of the hospital with a newborn in her arms around 7:45pm, saying her daughter had given birth on Sunday, and lawmaker KM Babar told Prothom Alo by phone at 8:23pm that a caesarean section had been performed at the hospital that day and that the attackers set off crude bombs, vandalised the premises and looted property; two Grameen Bank offices were also attacked, and from the morning activists of the activities-banned Awami League and Jubo League, along with the banned Chhatra League, marched along the Gopalganj-Tungipara road carrying machetes and Chinese axes, blocking it at six points with trees and bamboo, and obstructed journalists trying to photograph the armed marches.",
+      "exam_relevance": "Law and order, banned organisations, political violence, Gopalganj -- core BCS/Bank Bangladesh-affairs topics.",
+      "figures": "At least five BNP offices set on fire in Muksudpur; road blocked at six points on the Gopalganj-Tungipara road; five-storey hospital; marches after 7:15pm; hospital attacked after 7pm",
+      "headline": "Banned BCL activists attack hospital, stage armed march in Gopalganj",
+      "id": "CA08",
+      "key_people": "KM Babar, BNP lawmaker from Gopalganj Sadar; Raju Khan, joint general secretary of the Gopalganj district unit of the banned Chhatra League",
+      "sources": [
+        {
+          "date": "2026-11-18",
+          "headline": "Banned BCL activists attack hospital, stage armed march in Gopalganj",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/crime-and-law/ko19dlpn7y"
+        }
+      ],
+      "summary": "Banned Bangladesh Chhatra League activists attacked Araf Hospital in Gopalganj Sadar after 7pm on 18 November, vandalising it and setting it on fire; the five-storey hospital belongs to BNP lawmaker KM Babar. Armed marches carrying machetes and cleavers swept Gopalganj town, with no patrols seen. At least five BNP offices in Muksudpur were torched, and the Gopalganj-Tungipara road was blocked at six points.",
+      "why_it_matters": "The attack on a hospital owned by a sitting BNP lawmaker, the five BNP offices set on fire in Muksudpur and the six-point road blockade are the exact facts for BCS/Bank questions on law and order and banned organisations, and the absence of law-enforcement patrols during the marches is the background for the next story on policing in Gopalganj.",
+      "one_liner": "Banned Bangladesh Chhatra League activists attacked Araf Hospital in Gopalganj Sadar after 7pm on 18 November, vandalising it and setting…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "five-storey hospital",
+          "original": "five-storey hospital"
+        },
+        {
+          "label": "marches after 7",
+          "value": "15pm",
+          "original": "marches after 7:15pm"
+        },
+        {
+          "label": "hospital attacked after pm",
+          "value": "7",
+          "original": "hospital attacked after 7pm"
+        },
+        {
+          "label": "'There will be a game'",
+          "value": "Motorcycle processions were seen in the Pachuria, Court, Launch Ghat, Kachabazar intersection, Police Lines and Bedgram areas after 7:15pm, and the processions converged in the Launch Ghat area, where slogans were chanted under the leadership of Raju Khan, joint general secretary of the Gopalganj district unit of the banned Chhatra League, including 'Khela, khela, khela hobe'",
+          "original": "Motorcycle processions were seen in the Pachuria, Court, Launch Ghat, Kachabazar intersection, Police Lines and Bedgram areas after 7:15pm, and the processions converged in the Launch Ghat area, where slogans were chanted under the leadership of Raju Khan, joint general secretary of the Gopalganj district unit of the banned Chhatra League, including 'Khela, khela, khela hobe' ('There will be a game')"
+        }
+      ],
+      "what_happened": [
+        "Armed marches carrying machetes and cleavers swept Gopalganj town, with no patrols seen.",
+        "At least five BNP offices in Muksudpur were torched, and the Gopalganj-Tungipara road was blocked at six points."
+      ],
+      "exam_qa": [
+        {
+          "q": "Which hospital was attacked in Gopalganj?",
+          "a": "Araf General Hospital and Diagnostic Centre"
+        },
+        {
+          "q": "How many BNP offices in Muksudpur were set on fire?",
+          "a": "At least five"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Banned Bangladesh Chhatra League activists attacked Araf Hospital in Gopalganj Sadar after 7pm on ______, vandalising it and setting it on fire; the five-storey hospital belongs to BNP lawmaker KM Babar.",
+          "answer": "18 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "banned",
+        "activists",
+        "attack",
+        "hospital",
+        "stage",
+        "armed",
+        "march",
+        "gopalganj"
+      ],
+      "detail": "Banned Bangladesh Chhatra League activists attacked Araf Hospital in Gopalganj Sadar after 7pm on 18 November, vandalising it and setting it on fire; the five-storey hospital belongs to BNP lawmaker KM Babar. Armed marches carrying machetes and cleavers swept Gopalganj town, with no patrols seen. At least five BNP offices in Muksudpur were torched, and the Gopalganj-Tungipara road was blocked at six points."
+    },
+    {
+      "id": "CA10",
+      "headline": "Bangladesh Loses €1.82 Billion Export Of Apparel To EU, China Gains Ground",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-18",
+      "article_date": "2026-11-18",
+      "summary": "Bangladesh lost around €1.82 billion in apparel exports to the EU in January–September 2026, its share falling to 19.06% from 21.10% a year earlier. Lower shipments, down 5.74%, and falling prices, down 6.54% to €13.70 per kg against an EU average of €19.59, caused the slide. China gained instead: its share rose to 34.29% on exports of €24.25 billion, up 4.46% — a core RMG, export and LDC-graduation question.",
+      "why_it_matters": "The €1.82 billion loss, the 19.06% share and the €13.70 per kg price against the €19.59 EU average are the exact figures for BCS/Bank questions on RMG exports, and the China-gains-ground pattern is the background for the next story on export diversification and LDC graduation.",
+      "exam_facts": "Bangladesh was the worst-performing supplier among the EU's 11 largest apparel exporters, according to Eurostat data compiled by Bangladesh Apparel Voice; the export decline was 20.89% in January–April, eased to 1.25% in May–August, then fell 9.49% in September, while total EU apparel imports fell only 2.72% that month; China's shipment volumes rose 6.38%; the article names Vietnam as well as China among the competitors gaining ground.",
+      "exam_relevance": "RMG exports, EU market share, export prices, LDC graduation and trade competition -- core BCS/Bank economy and trade topics.",
+      "key_people": "Eurostat; Bangladesh Apparel Voice",
+      "figures": "€1.82 billion lost; share 19.06% (from 21.10%); shipments down 5.74%; price/kg down 6.54% to €13.70 (EU average €19.59); China share 34.29% (from 32.02%), exports €24.25 billion, up 4.46%; decline 20.89% Jan–Apr, 1.25% May–Aug, 9.49% in September",
+      "sources": [
+        {
+          "publication": "Outlook India",
+          "headline": "Bangladesh Loses €1.82 Billion Export Of Apparel To EU, China Gains Ground",
+          "date": "2026-11-18",
+          "url": "https://www.outlookindia.com/international/bangladesh-apparel-export-loss-china-gains-market-share"
+        }
+      ],
+      "one_liner": "Bangladesh lost around €1.82 billion in apparel exports to the EU in January–September 2026, its share falling to 19.06% from…",
+      "key_facts": [
+        {
+          "label": "€ lost",
+          "value": "1.82 billion",
+          "original": "€1.82 billion lost"
+        },
+        {
+          "label": "from 21.10%",
+          "value": "share 19.06%",
+          "original": "share 19.06% (from 21.10%)"
+        },
+        {
+          "label": "EU average €19.59",
+          "value": "price/kg down 6.54% to €13.70",
+          "original": "price/kg down 6.54% to €13.70 (EU average €19.59)"
+        },
+        {
+          "label": "China share % (from 32.02%), exports…",
+          "value": "34.29",
+          "original": "China share 34.29% (from 32.02%), exports €24.25 billion, up 4.46%"
+        }
+      ],
+      "what_happened": [
+        "Lower shipments, down 5.74%, and falling prices, down 6.54% to €13.70 per kg against an EU average of €19.59, caused the slide.",
+        "China gained instead: its share rose to 34.29% on exports of €24.25 billion, up 4.46% — a core RMG, export and LDC-graduation question."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much apparel export value did Bangladesh lose to the EU?",
+          "a": "€1.82 billion"
+        },
+        {
+          "q": "What was Bangladesh's share of EU apparel imports?",
+          "a": "19.06%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh lost around €1.82 billion in apparel exports to the EU in January–______26, its share falling to 19.06% from 21.10% a year earlier.",
+          "answer": "September 20"
+        },
+        {
+          "cloze": "Lower shipments, down ______%, and falling prices, down 6.54% to €13.70 per kg against an EU average of €19.59, caused the slide.",
+          "answer": "5.74"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "loses",
+        "billion",
+        "export",
+        "apparel",
+        "china",
+        "gains",
+        "ground"
+      ],
+      "detail": "Bangladesh lost around €1.82 billion in apparel exports to the EU in January–September 2026, its share falling to 19.06% from 21.10% a year earlier. Lower shipments, down 5.74%, and falling prices, down 6.54% to €13.70 per kg against an EU average of €19.59, caused the slide. China gained instead: its share rose to 34.29% on exports of €24.25 billion, up 4.46% — a core RMG, export and LDC-graduation question."
+    },
+    {
+      "id": "CA11",
+      "headline": "Bangladesh Bank decides to put Padma Bank under resolution",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "article_date": "2026-11-17",
+      "summary": "Bangladesh Bank has brought Padma Bank under its resolution framework, so the central bank will now decide whether to revive, merge or liquidate the troubled private lender. The decision came at the board meeting on Tuesday 17 November; the Bank Resolution Department will run the process and appoint an administrator, removing the existing board. Padma Bank, formerly The Farmers Bank, has struggled amid loan scandals — a live bank-resolution and governance case for BCS/Bank.",
+      "why_it_matters": "Padma Bank is the first live test of the Bank Resolution Department's power to revive, merge or liquidate a troubled bank, and its history — formerly The Farmers Bank, loan scandals, a failed EXIM Bank takeover — is the background for the next bank-governance question.",
+      "exam_facts": "Under the process, the administrator-led team will manage the bank's operations while the existing board of directors is removed; an external audit and an assessment of the bank's asset quality will then determine the next course; the specific approach has not yet been decided — once the department submits a proposal it will go to the board again, according to spokesperson Arief Hossain Khan; in early 2024 a memorandum of understanding was signed under Bangladesh Bank's facilitation to transfer Padma Bank's ownership to EXIM Bank, which itself has come under the control of the consolidated Islami Bank following the 2024 mass uprising; The Daily Star reports the decision was taken at a board meeting presided over by Governor Md Mostaqur Rahman.",
+      "exam_relevance": "Bank resolution, troubled banks, central-bank powers, corporate governance -- core BCS/Bank banking topics.",
+      "key_people": "Arief Hossain Khan, Bangladesh Bank spokesperson and Executive Director; Md Mostaqur Rahman, Bangladesh Bank Governor; EXIM Bank; Islami Bank",
+      "figures": "Decision taken Tuesday 17 November 2026; memorandum of understanding signed early 2024",
+      "sources": [
+        {
+          "publication": "bdnews24.com",
+          "headline": "Bangladesh Bank brings Padma Bank under resolution framework",
+          "date": "2026-11-17",
+          "url": "https://bdnews24.com/business/2tuxjhzob5"
+        },
+        {
+          "publication": "The Daily Star",
+          "headline": "Bangladesh Bank decides to put Padma Bank under resolution",
+          "date": "2026-11-18",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-bank-decides-put-padma-bank-under-resolution-4327191"
+        }
+      ],
+      "one_liner": "Bangladesh Bank has brought Padma Bank under its resolution framework, so the central bank will now decide whether to revive,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Decision taken Tuesday 17 November 2026",
+          "original": "Decision taken Tuesday 17 November 2026"
+        },
+        {
+          "label": "",
+          "value": "memorandum of understanding signed early 2024",
+          "original": "memorandum of understanding signed early 2024"
+        },
+        {
+          "label": "in early a memorandum of understanding…",
+          "value": "2024",
+          "original": "in early 2024 a memorandum of understanding was signed under Bangladesh Bank's facilitation to transfer Padma Bank's ownership to EXIM Bank, which itself has come under the control of the consolidated Islami Bank following the 2024 mass uprising"
+        }
+      ],
+      "what_happened": [
+        "The decision came at the board meeting on Tuesday 17 November; the Bank Resolution Department will run the process and appoint an administrator, removing the existing board.",
+        "Padma Bank, formerly The Farmers Bank, has struggled amid loan scandals — a live bank-resolution and governance case for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "When was Padma Bank brought under resolution?",
+          "a": "17 November 2026"
+        },
+        {
+          "q": "When was the memorandum of understanding signed to transfer Padma Bank's ownership to EXIM Bank?",
+          "a": "Early 2024"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The decision came at the board meeting on Tuesday ______; the Bank Resolution Department will run the process and appoint an administrator, removing the existing board.",
+          "answer": "17 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "decides",
+        "padma",
+        "resolution"
+      ],
+      "detail": "Bangladesh Bank has brought Padma Bank under its resolution framework, so the central bank will now decide whether to revive, merge or liquidate the troubled private lender. The decision came at the board meeting on Tuesday 17 November; the Bank Resolution Department will run the process and appoint an administrator, removing the existing board. Padma Bank, formerly The Farmers Bank, has struggled amid loan scandals — a live bank-resolution and governance case for BCS/Bank."
+    },
+    {
+      "id": "CA12",
+      "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "category": "World",
+      "event_date": "2026-11-19",
+      "article_date": "2026-11-19",
+      "summary": "Myanmar faces a historic verdict at the International Court of Justice on Thursday 19 November in the seven-year-old genocide case filed by The Gambia over the military's 2017 crackdown on the Rohingya. If The Gambia wins, it would be the first time an international court has found a state guilty of genocide under the 1948 Genocide Convention. Hundreds of thousands fled to Bangladesh in August–September 2017 — a landmark international-law and Rohingya question.",
+      "why_it_matters": "A verdict for The Gambia would be the first time any international court has found a state guilty of genocide, and the 2017 expulsion that sent hundreds of thousands of Rohingya into Cox's Bazar is the background for every Bangladesh question on repatriation and international law.",
+      "exam_facts": "Since the Genocide Convention was signed in 1948 following the Nazi Holocaust, individuals have been prosecuted for genocide in conflicts including Rwanda and the former Yugoslavia, but no state has ever been found guilty of the crime by an international court; Arsalan Suleman, the lawyer leading the case against Myanmar, said a verdict for The Gambia would give renewed importance to the 1948 Genocide Convention and international legal accountability for crimes committed by states; accounts of killings, torture and mass rape by Myanmar soldiers have been documented by human rights groups and a United Nations fact-finding mission; journalists witnessed the deliberate burning of Rohingya villages.",
+      "exam_relevance": "International Court of Justice, Genocide Convention, Rohingya crisis, state responsibility -- core BCS/Bank international affairs and law topics.",
+      "key_people": "Arsalan Suleman, lawyer leading the case for The Gambia; The Gambia; Myanmar military",
+      "figures": "Verdict Thursday 19 November 2026; seven-year-old case; 2017 crackdown; Genocide Convention signed 1948",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "date": "2026-11-19",
+          "url": "https://www.tbsnews.net/world/myanmar-faces-historic-genocide-verdict-un-court-over-rohingya-massacres-1607316"
+        }
+      ],
+      "one_liner": "Myanmar faces a historic verdict at the International Court of Justice on Thursday 19 November in the seven-year-old genocide case…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Verdict Thursday 19 November 2026",
+          "original": "Verdict Thursday 19 November 2026"
+        },
+        {
+          "label": "",
+          "value": "seven-year-old case",
+          "original": "seven-year-old case"
+        },
+        {
+          "label": "crackdown",
+          "value": "2017",
+          "original": "2017 crackdown"
+        },
+        {
+          "label": "",
+          "value": "Genocide Convention signed 1948",
+          "original": "Genocide Convention signed 1948"
+        }
+      ],
+      "what_happened": [
+        "If The Gambia wins, it would be the first time an international court has found a state guilty of genocide under the 1948 Genocide Convention.",
+        "Hundreds of thousands fled to Bangladesh in August–September 2017 — a landmark international-law and Rohingya question."
+      ],
+      "exam_qa": [
+        {
+          "q": "Which country filed the genocide case against Myanmar?",
+          "a": "The Gambia"
+        },
+        {
+          "q": "When is the ICJ verdict?",
+          "a": "19 November 2026"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Myanmar faces a historic verdict at the International Court of Justice on Thursday ______ in the seven-year-old genocide case filed by The Gambia over the military's 2017 crackdown on the Rohingya.",
+          "answer": "19 November"
+        },
+        {
+          "cloze": "If The Gambia wins, it would be the first time an international court has found a state guilty of genocide under the ______ Genocide Convention.",
+          "answer": "1948"
+        }
+      ],
+      "keywords": [
+        "world",
+        "myanmar",
+        "faces",
+        "historic",
+        "genocide",
+        "verdict",
+        "court",
+        "rohingya",
+        "massacres"
+      ],
+      "detail": "Myanmar faces a historic verdict at the International Court of Justice on Thursday 19 November in the seven-year-old genocide case filed by The Gambia over the military's 2017 crackdown on the Rohingya. If The Gambia wins, it would be the first time an international court has found a state guilty of genocide under the 1948 Genocide Convention. Hundreds of thousands fled to Bangladesh in August–September 2017 — a landmark international-law and Rohingya question."
+    },
+    {
+      "id": "CA13",
+      "headline": "Govt working to cap migration cost for Malaysia at Tk 200,000: PM",
+      "category": "Bangladesh",
+      "event_date": "2026-11-18",
+      "article_date": "2026-11-18",
+      "summary": "Prime Minister Tarique Rahman told Parliament on 18 November the government has restarted sending Bangladeshi workers to Malaysia and has largely kept the total migration cost within Tk 200,000 per worker. Talks with Malaysia resumed the suspended recruitment, and similar efforts are under way for other Middle Eastern countries. The Prime Minister blamed syndicates built under the previous regime for swindling job seekers — a key migration, remittance and governance topic.",
+      "why_it_matters": "The Tk 200,000 cap is the exact figure for BCS/Bank questions on labour migration and remittances, and the restarted Malaysia recruitment after syndicate-era suspensions is the background for the next story on migration costs.",
+      "exam_facts": "The Prime Minister was replying to a starred supplementary question from Mymensingh-6 lawmaker Md Kamrul Hasan during the Prime Minister's question-answer session; Deputy Speaker Kayser Kamal was in the chair as the sitting began at 4:15 pm, with the first 30 minutes allotted for the Prime Minister's questions; the fourth session of the Jatiya Sangsad began on 9 November and was scheduled to end on 18 November with the Prime Minister's concluding speech; Tarique Rahman said the syndicate problem had reached its worst under the fugitive autocrat's regime and that several countries had almost stopped recruiting Bangladeshi workers, suspending intake or slowing it down.",
+      "exam_relevance": "Labour migration, Malaysia recruitment, migration cost, remittances, Parliament -- core BCS/Bank Bangladesh affairs topics.",
+      "key_people": "Tarique Rahman, Prime Minister; Md Kamrul Hasan, Mymensingh-6 lawmaker; Kayser Kamal, Deputy Speaker",
+      "figures": "Tk 200,000 per worker; sitting began 4:15 pm; fourth session began 9 November",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Govt working to cap migration cost for Malaysia at Tk 200,000: PM",
+          "date": "2026-11-18",
+          "url": "https://en.prothomalo.com/bangladesh/py3w49ayq7"
+        }
+      ],
+      "one_liner": "Prime Minister Tarique Rahman told Parliament on 18 November the government has restarted sending Bangladeshi workers to Malaysia and has…",
+      "key_facts": [
+        {
+          "label": "per worker",
+          "value": "Tk 200,000",
+          "original": "Tk 200,000 per worker"
+        },
+        {
+          "label": "sitting began 4",
+          "value": "15 pm",
+          "original": "sitting began 4:15 pm"
+        },
+        {
+          "label": "",
+          "value": "fourth session began 9 November",
+          "original": "fourth session began 9 November"
+        },
+        {
+          "label": "The Prime Minister was replying to…",
+          "value": "6",
+          "original": "The Prime Minister was replying to a starred supplementary question from Mymensingh-6 lawmaker Md Kamrul Hasan during the Prime Minister's question-answer session"
+        }
+      ],
+      "what_happened": [
+        "Talks with Malaysia resumed the suspended recruitment, and similar efforts are under way for other Middle Eastern countries.",
+        "The Prime Minister blamed syndicates built under the previous regime for swindling job seekers — a key migration, remittance and governance topic."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is the migration cost cap per worker for Malaysia?",
+          "a": "Tk 200,000"
+        },
+        {
+          "q": "Which country has Bangladesh restarted sending workers to?",
+          "a": "Malaysia"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Minister Tarique Rahman told Parliament on ______ the government has restarted sending Bangladeshi workers to Malaysia and has largely kept the total migration cost within Tk 200,000 per worker.",
+          "answer": "18 November"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "govt",
+        "working",
+        "migration",
+        "cost",
+        "malaysia"
+      ],
+      "detail": "Prime Minister Tarique Rahman told Parliament on 18 November the government has restarted sending Bangladeshi workers to Malaysia and has largely kept the total migration cost within Tk 200,000 per worker. Talks with Malaysia resumed the suspended recruitment, and similar efforts are under way for other Middle Eastern countries. The Prime Minister blamed syndicates built under the previous regime for swindling job seekers — a key migration, remittance and governance topic."
+    },
+    {
+      "id": "CA14",
+      "headline": "Enforced disappearance in Argentina and Bangladesh",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-18",
+      "article_date": "2026-11-18",
+      "summary": "Columnist Md Mahmudul Hasan argues enforced disappearance is carried out by state agents with their bosses' approval to silence dissent, hide atrocities and spread fear. He compares Argentina's Dirty War of 1976–1983, in which he writes up to 30,000 people fell victim, with Bangladesh, where he says victims have included civilians and military personnel. He describes Argentina's 'death flights' and a 1995 confession book — an opinion piece for human-rights and comparative-politics questions.",
+      "why_it_matters": "The columnist's comparison — Argentina's 30,000 Dirty War victims and 'death flights' against Bangladesh's civilian and military victims — gives the comparative frame for BCS/Bank questions on enforced disappearance and human rights.",
+      "exam_facts": "The columnist writes that after forcibly disappearing victims, state authorities deny holding them or knowing their whereabouts, and that requests for habeas corpus from victims' families are systematically overlooked; he writes that the Argentine military regime killed detainees through 'death flights', drugging prisoners and dropping them from helicopters or aircraft into the Atlantic Ocean, the Río de la Plata or other large water bodies; he writes that the atrocities were revealed in 1995 when Horacio Verbitsky's book El vuelo was published, its English version The Flight appearing in 1996, based on interviews with former naval officer Adolfo Scilingo, who confessed and called it 'a distasteful but necessary job'; citing Amnesty International, he writes enforced disappearance has taken place 'in many countries, in all regions of the world; from Mexico to Syria, from Bangladesh to Laos and from Bosnia and Herzegovina to Spain.'",
+      "exam_relevance": "Enforced disappearance, human rights, Argentina's Dirty War, comparative politics -- BCS/Bank international affairs and human-rights topics.",
+      "key_people": "Md Mahmudul Hasan, columnist; Horacio Verbitsky, journalist; Adolfo Scilingo, former Argentine naval officer; Martin Andersen, author",
+      "figures": "Dirty War 1976–1983; up to 30,000 victims; El vuelo 1995; The Flight 1996",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Enforced disappearance in Argentina and Bangladesh",
+          "date": "2026-11-18",
+          "url": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk"
+        }
+      ],
+      "one_liner": "Columnist Md Mahmudul Hasan argues enforced disappearance is carried out by state agents with their bosses' approval to silence dissent,…",
+      "key_facts": [
+        {
+          "label": "Dirty War",
+          "value": "1976–1983",
+          "original": "Dirty War 1976–1983"
+        },
+        {
+          "label": "up to victims",
+          "value": "30,000",
+          "original": "up to 30,000 victims"
+        },
+        {
+          "label": "",
+          "value": "El vuelo 1995",
+          "original": "El vuelo 1995"
+        },
+        {
+          "label": "",
+          "value": "The Flight 1996",
+          "original": "The Flight 1996"
+        }
+      ],
+      "what_happened": [
+        "He compares Argentina's Dirty War of 1976–1983, in which he writes up to 30,000 people fell victim,",
+        "with Bangladesh, where he says victims have included civilians and military personnel.",
+        "He describes Argentina's 'death flights' and a 1995 confession book — an opinion piece for human-rights and comparative-politics questions."
+      ],
+      "exam_qa": [
+        {
+          "q": "In which years was Argentina's Dirty War?",
+          "a": "1976–1983"
+        },
+        {
+          "q": "Up to how many people fell victim, according to the columnist?",
+          "a": "30,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "He compares Argentina's Dirty War of ______ in which he writes up to 30,000 people fell victim, with Bangladesh, where he says victims have included civilians and military personnel.",
+          "answer": "1976–1983,"
+        },
+        {
+          "cloze": "He describes Argentina's 'death flights' and a ______ confession book — an opinion piece for human-rights and comparative-politics questions.",
+          "answer": "1995"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "enforced",
+        "disappearance",
+        "argentina",
+        "bangladesh"
+      ],
+      "detail": "Columnist Md Mahmudul Hasan argues enforced disappearance is carried out by state agents with their bosses' approval to silence dissent, hide atrocities and spread fear. He compares Argentina's Dirty War of 1976–1983, in which he writes up to 30,000 people fell victim, with Bangladesh, where he says victims have included civilians and military personnel. He describes Argentina's 'death flights' and a 1995 confession book — an opinion piece for human-rights and comparative-politics questions."
+    },
+    {
+      "id": "CA15",
+      "headline": "Bank resolution fund approved; money to be raised largely from bonds",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-17",
+      "article_date": "2026-11-19",
+      "summary": "Bangladesh Bank's board has approved a separate Tk30,000–40,000 crore Bank Resolution Fund to finance the restructuring, rescue and orderly liquidation of troubled banks and financial institutions. Most of the money will be raised through bond issuance, with banks and financial institutions also contributing at specified rates. The fund aims to be self-financing and cut reliance on taxpayers' money — a central banking-reform and Bank Resolution Act, 2026 question.",
+      "why_it_matters": "The Tk30,000–40,000 crore fund, raised largely through bonds under the Bank Resolution Act, 2026, is the exact mechanism for BCS/Bank questions on how troubled banks are rescued without taxpayers' money, and it is the funding behind the Padma Bank resolution.",
+      "exam_facts": "A senior Bangladesh Bank official told TBS the Bank Resolution Department is working on the overall process of establishing the fund, and separate rules and regulations will be formulated under the Bank Resolution Act, 2026, covering its establishment, financing, utilisation, management framework, sources of funding and conditions for disbursement; former governor Ahsan H Mansur had earlier told TBS the proposed fund could be worth Tk30,000–40,000 crore; banks currently pay an annual deposit insurance premium at 0.07% of their deposits, and Bangladesh Bank is considering increasing this rate under the new arrangement; a Bangladesh Bank executive director said bank resolution is an ongoing process, with five banks already brought under a merger process.",
+      "exam_relevance": "Bank resolution fund, bond financing, deposit insurance, Bank Resolution Act 2026 -- core BCS/Bank banking and financial-reform topics.",
+      "key_people": "Ahsan H Mansur, former Bangladesh Bank Governor; Bangladesh Bank Board",
+      "figures": "Tk30,000–40,000 crore fund; deposit insurance premium 0.07% of deposits; five banks under merger process",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Bank resolution fund approved; money to be raised largely from bonds",
+          "date": "2026-11-19",
+          "url": "https://www.tbsnews.net/economy/banking/bank-resolution-fund-approved-money-be-raised-largely-bonds-1607281"
+        }
+      ],
+      "one_liner": "Bangladesh Bank's board has approved a separate Tk30,000–40,000 crore Bank Resolution Fund to finance the restructuring, rescue and orderly liquidation…",
+      "key_facts": [
+        {
+          "label": "crore fund",
+          "value": "Tk30,000–40,000",
+          "original": "Tk30,000–40,000 crore fund"
+        },
+        {
+          "label": "deposit insurance premium % of deposits",
+          "value": "0.07",
+          "original": "deposit insurance premium 0.07% of deposits"
+        },
+        {
+          "label": "",
+          "value": "five banks under merger process",
+          "original": "five banks under merger process"
+        },
+        {
+          "label": "A senior Bangladesh Bank official told…",
+          "value": "2026,",
+          "original": "A senior Bangladesh Bank official told TBS the Bank Resolution Department is working on the overall process of establishing the fund, and separate rules and regulations will be formulated under the Bank Resolution Act, 2026, covering its establishment, financing, utilisation, management framework, sources of funding and conditions for disbursement"
+        }
+      ],
+      "what_happened": [
+        "Most of the money will be raised through bond issuance, with banks and financial institutions also contributing at specified rates.",
+        "The fund aims to be self-financing and cut reliance on taxpayers' money — a central banking-reform and Bank Resolution Act, 2026 question."
+      ],
+      "exam_qa": [
+        {
+          "q": "How large is the Bank Resolution Fund?",
+          "a": "Tk30,000–40,000 crore"
+        },
+        {
+          "q": "What is the deposit insurance premium as a share of deposits?",
+          "a": "0.07%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank's board has approved a separate Tk______ crore Bank Resolution Fund to finance the restructuring, rescue and orderly liquidation of troubled banks and financial institutions.",
+          "answer": "30,000–40,000"
+        },
+        {
+          "cloze": "The fund aims to be self-financing and cut reliance on taxpayers' money — a central banking-reform and Bank Resolution Act, ______ question.",
+          "answer": "2026"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bank",
+        "resolution",
+        "fund",
+        "approved",
+        "money",
+        "raised",
+        "largely",
+        "bonds"
+      ],
+      "detail": "Bangladesh Bank's board has approved a separate Tk30,000–40,000 crore Bank Resolution Fund to finance the restructuring, rescue and orderly liquidation of troubled banks and financial institutions. Most of the money will be raised through bond issuance, with banks and financial institutions also contributing at specified rates. The fund aims to be self-financing and cut reliance on taxpayers' money — a central banking-reform and Bank Resolution Act, 2026 question."
+    }
+  ],
+  "words": [
+    {
+      "Antonyms": "deny; ignore; overlook; reject",
+      "Article headline": "70% of women unaware of investment diversification: Survey",
+      "BCS / Bank relevance": "High-frequency BCS/Bank verb for finance, survey and formal writing passages.",
+      "Bangla meaning": "স্বীকার করা; উপলব্ধি করা",
+      "Bangla phonetic": "রেকগনাইজ",
+      "Collocations / patterns": "recognise that...; recognise the risk; recognise higher returns carry higher risks",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/70-women-unaware-investment-diversification-survey-1607251",
+      "English definition": "To accept that something is true or exists; to realise or acknowledge a fact.",
+      "Headword / phrase": "recognise",
+      "IPA": "/ˈrekəɡnaɪz/",
+      "Newspaper context note": "Most women and men recognise that higher returns carry higher risks, yet many do not know how inflation erodes savings.",
+      "Original example": "Although 79% of women and 86% of men recognise that higher returns carry higher risks, knowledge of interest and principal stands at roughly 69% for women and 77% for men.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "acknowledge; realise; admit; perceive",
+      "Word family / derivatives": "recognition; recognised; recognising"
+    },
+    {
+      "Antonyms": "equality; parity; balance; sameness",
+      "Article headline": "70% of women unaware of investment diversification: Survey",
+      "BCS / Bank relevance": "Core BCS/Bank noun for gender, economy and society passages; a past BCS vocabulary favourite.",
+      "Bangla meaning": "বৈষম্য; পার্থক্য",
+      "Bangla phonetic": "ডিসপ্যারিটি",
+      "Collocations / patterns": "gender disparity; pronounced disparity; disparity in access",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/70-women-unaware-investment-diversification-survey-1607251",
+      "English definition": "A great difference or inequality between two things, especially in amounts or treatment.",
+      "Headword / phrase": "disparity",
+      "IPA": "/dɪˈspærəti/",
+      "Newspaper context note": "The survey found a pronounced gender disparity in financial inclusion, driven by unequal mobile phone access.",
+      "Original example": "The survey highlighted a pronounced gender disparity, driven largely by unequal access to mobile technology and independent income.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "inequality; gap; imbalance; difference",
+      "Word family / derivatives": "disparate; disparities (plural)"
+    },
+    {
+      "Antonyms": "agreement; harmony; reconciliation; peace",
+      "Article headline": "Bangladesh's political strife spills onto London's streets",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for politics, international affairs and reporting passages.",
+      "Bangla meaning": "সংঘর্ষ; মুখোমুখি সংঘাত",
+      "Bangla phonetic": "কনফ্রন্টেশন",
+      "Collocations / patterns": "third confrontation; violent confrontation; confrontation on British soil",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/bangladeshs-political-strife-spills-onto-205114547.html",
+      "English definition": "A hostile meeting or clash between opposing people or groups.",
+      "Headword / phrase": "confrontation",
+      "IPA": "/ˌkɒnfrʌnˈteɪʃn/",
+      "Newspaper context note": "The London brawl was the third such confrontation between Awami League and NCP supporters in Britain in 2026.",
+      "Original example": "The brawl was the third such confrontation on British soil in 2026, and it shows how Bangladesh's unfinished fight over the 2024 uprising now travels with its diaspora.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Yahoo",
+      "Synonyms": "clash; conflict; fight; showdown",
+      "Word family / derivatives": "confront; confrontational; confronted"
+    },
+    {
+      "Antonyms": "people living in their homeland; natives",
+      "Article headline": "Bangladesh's political strife spills onto London's streets",
+      "BCS / Bank relevance": "Live current-affairs term for migration, politics and international-relations passages.",
+      "Bangla meaning": "প্রবাসী সম্প্রদায়",
+      "Bangla phonetic": "ডায়াস্পোরা",
+      "Collocations / patterns": "the Bangladeshi diaspora; diaspora tour; travels with its diaspora",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/bangladeshs-political-strife-spills-onto-205114547.html",
+      "English definition": "People from one country who live scattered in other countries, or the community they form abroad.",
+      "Headword / phrase": "diaspora",
+      "IPA": "/daɪˈæspərə/",
+      "Newspaper context note": "Bangladesh's political fight now travels with its diaspora in Britain.",
+      "Original example": "The brawl was the third such confrontation on British soil in 2026, and it shows how Bangladesh's unfinished fight over the 2024 uprising now travels with its diaspora.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Yahoo",
+      "Synonyms": "expatriates; overseas community; emigrants",
+      "Word family / derivatives": "diasporic; diasporas (plural)"
+    },
+    {
+      "Antonyms": "willing; eager; keen; ready",
+      "Article headline": "BUET delays admission test by 2 weeks",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adjective for education, policy and formal writing passages.",
+      "Bangla meaning": "অনিচ্ছুক; দ্বিধাগ্রস্ত",
+      "Bangla phonetic": "রিলাকট্যান্ট",
+      "Collocations / patterns": "reluctant to allow; initially reluctant; reluctant to change",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/b0mt9pzr0p",
+      "English definition": "Unwilling to do something; hesitant because you do not want to.",
+      "Headword / phrase": "reluctant",
+      "IPA": "/rɪˈlʌktənt/",
+      "Newspaper context note": "Dhaka University and BUET had initially been reluctant to let supplementary-examination passers sit for admission tests.",
+      "Original example": "However, some universities, including Dhaka University and BUET, had initially been reluctant to allow students who passed the supplementary examinations to take their admission tests.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "unwilling; hesitant; loath; disinclined",
+      "Word family / derivatives": "reluctance; reluctantly"
+    },
+    {
+      "Antonyms": "resumption; continuation; reinstatement",
+      "Article headline": "BUET delays admission test by 2 weeks",
+      "BCS / Bank relevance": "Core BCS/Bank noun for law, education and administration passages.",
+      "Bangla meaning": "সাময়িক স্থগিতকরণ; স্থগিতাদেশ",
+      "Bangla phonetic": "সাসপেনশন",
+      "Collocations / patterns": "suspension of admission tests; ordered the suspension; suspension until 31 December",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/b0mt9pzr0p",
+      "English definition": "The act of stopping something temporarily, or a temporary ban on an activity.",
+      "Headword / phrase": "suspension",
+      "IPA": "/səˈspenʃn/",
+      "Newspaper context note": "The High Court ordered the suspension of admission tests at all public universities until 31 December.",
+      "Original example": "Meanwhile, the High Court has ordered the suspension of admission tests at Dhaka University and all other public universities in the country until 31 December.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "postponement; halt; moratorium; deferral",
+      "Word family / derivatives": "suspend; suspended; suspending"
+    },
+    {
+      "Antonyms": "destabilise; unsettle; disrupt",
+      "Article headline": "Bangladesh Bank sells $220m from reserves at Tk123.90 per dollar",
+      "BCS / Bank relevance": "Core BCS/Bank verb for banking, exchange-rate and economy passages.",
+      "Bangla meaning": "স্থিতিশীল করা",
+      "Bangla phonetic": "স্ট্যাবিলাইজ",
+      "Collocations / patterns": "stabilise the exchange rate; stabilise the market; stabilise prices",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/bangladesh-bank-sells-220m-reserves-tk12390-dollar-1607176",
+      "English definition": "To make something steady and stop it changing suddenly or unpredictably.",
+      "Headword / phrase": "stabilise",
+      "IPA": "/ˈsteɪbəlaɪz/",
+      "Newspaper context note": "Bangladesh Bank sold dollars to boost supply and stabilise the exchange rate.",
+      "Original example": "The Bangladesh Bank sold $220 million from its foreign exchange reserves at Tk123.90 per dollar through an auction yesterday to boost dollar supply and stabilise the exchange rate.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "steady; balance; secure; settle",
+      "Word family / derivatives": "stabilisation; stabilised; stabilising; stable; stability"
+    },
+    {
+      "Antonyms": "bilateral; unilateral; multilateral",
+      "Article headline": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for summits, diplomacy and international-relations passages.",
+      "Bangla meaning": "ত্রিপাক্ষিক",
+      "Bangla phonetic": "ট্রাইল্যাটারাল",
+      "Collocations / patterns": "trilateral summit; trilateral meeting; trilateral talks",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/international/kjgzlmmdmd",
+      "English definition": "Involving three parties, countries or groups.",
+      "Headword / phrase": "trilateral",
+      "IPA": "/traɪˈlætərəl/",
+      "Newspaper context note": "The Xi-Trump-Putin meeting in Shenzhen is described as a historic trilateral summit.",
+      "Original example": "Thursday's trilateral has triggered fears that the three powerful men could decide the fate of Ukraine over the heads of Kyiv and Europe, and seek to carve up the world into 21st-century spheres of influence.",
+      "Part of speech / type": "Adjective / Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "three-party; tripartite; three-way",
+      "Word family / derivatives": "trilaterally; trilateralism"
+    },
+    {
+      "Antonyms": "declining; falling; waning; descending",
+      "Article headline": "China's Xi to host historic summit with Trump, Putin",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for international relations and economy passages; 'ascendancy' is a past BCS word family.",
+      "Bangla meaning": "উত্থানশীল; ক্রমবর্ধমান প্রভাবশালী",
+      "Bangla phonetic": "অ্যাসেনড্যান্ট",
+      "Collocations / patterns": "ascendant China; ascendant power; in the ascendant",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/world/news/chinas-xi-host-historic-summit-trump-putin-4327826",
+      "English definition": "Rising in power, status or influence.",
+      "Headword / phrase": "ascendant",
+      "IPA": "/əˈsendənt/",
+      "Newspaper context note": "The Daily Star's description of the summit calls China ascendant as it looks to strengthen its hand in East Asia.",
+      "Original example": "The three-way meeting comes with Russia's years-long offensive in Ukraine grinding on, Trump bogged down in his war with Iran, and an ascendant China looking to strengthen its hand in East Asia.",
+      "Part of speech / type": "Adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Daily Star",
+      "Synonyms": "rising; growing; up-and-coming; flourishing",
+      "Word family / derivatives": "ascendancy; ascend; ascension"
+    },
+    {
+      "Antonyms": "mildly; calmly; weakly; indifferently",
+      "Article headline": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adverb for politics and opinion passages; 'vehement' is a classic exam word.",
+      "Bangla meaning": "তীব্রভাবে; প্রবলভাবে",
+      "Bangla phonetic": "ভিহেমেন্টলি",
+      "Collocations / patterns": "vehemently oppose; vehemently deny; vehemently argue",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://en.prothomalo.com/international/kjgzlmmdmd",
+      "English definition": "In a forceful, passionate or intense way.",
+      "Headword / phrase": "vehemently",
+      "IPA": "/ˈviːəməntli/",
+      "Newspaper context note": "Xi is reported to vehemently see Ukraine as not China's problem ahead of the trilateral summit.",
+      "Original example": "Washington had signalled that Ukraine -- something Xi vehemently sees as not China's problem -- was not expected to be addressed, before Trump said that it would.",
+      "Part of speech / type": "Adverb",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "passionately; fiercely; strongly; emphatically",
+      "Word family / derivatives": "vehement; vehemence"
+    },
+    {
+      "Antonyms": "honour; respect; dignity; esteem",
+      "Article headline": "How everyday indignities push Bangladeshis abroad",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for society, migration and human-rights passages.",
+      "Bangla meaning": "অপমান; অমর্যাদা",
+      "Bangla phonetic": "ইনডিগনিটি",
+      "Collocations / patterns": "everyday indignity; suffer indignity; escape indignity",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/how-everyday-indignities-push-bangladeshis-abroad-1607291",
+      "English definition": "Treatment that causes shame or a loss of dignity and self-respect.",
+      "Headword / phrase": "indignity",
+      "IPA": "/ɪnˈdɪɡnəti/",
+      "Newspaper context note": "The feature argues that everyday indignity, not only wages, pushes some Bangladeshis to migrate.",
+      "Original example": "For some Bangladeshis, it is also an escape from everyday indignity and institutions that offer little protection or redress.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "humiliation; insult; disgrace; affront",
+      "Word family / derivatives": "indignities (plural); indignant; indignation"
+    },
+    {
+      "Antonyms": "wrong; injustice; injury; harm",
+      "Article headline": "How everyday indignities push Bangladeshis abroad",
+      "BCS / Bank relevance": "Core BCS/Bank word for law, governance and rights passages; a past BCS vocabulary favourite.",
+      "Bangla meaning": "প্রতিকার; ক্ষতিপূরণ",
+      "Bangla phonetic": "রিড্রেস",
+      "Collocations / patterns": "seek redress; offer little redress; redress a grievance",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/how-everyday-indignities-push-bangladeshis-abroad-1607291",
+      "English definition": "A remedy or compensation for a wrong or grievance; to put right something that is wrong.",
+      "Headword / phrase": "redress",
+      "IPA": "/rɪˈdres/",
+      "Newspaper context note": "Institutions are said to offer little protection or redress to Bangladeshis facing everyday indignity.",
+      "Original example": "For some Bangladeshis, it is also an escape from everyday indignity and institutions that offer little protection or redress.",
+      "Part of speech / type": "Noun / Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "remedy; compensation; reparation; amends",
+      "Word family / derivatives": "redressal; redressed; redressing"
+    },
+    {
+      "Antonyms": "civility; courtesy; politeness; respect",
+      "Article headline": "How everyday indignities push Bangladeshis abroad",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for sociology, migration and social-issues passages.",
+      "Bangla meaning": "অভদ্রতা; অসৌজন্যতা",
+      "Bangla phonetic": "ইনসিভিলিটি",
+      "Collocations / patterns": "everyday incivility; escape from incivility",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/how-everyday-indignities-push-bangladeshis-abroad-1607291",
+      "English definition": "Rude, discourteous or disrespectful behaviour.",
+      "Headword / phrase": "incivility",
+      "IPA": "/ˌɪnsɪˈvɪləti/",
+      "Newspaper context note": "The study's title names everyday incivility as the factor behind migration as escape.",
+      "Original example": "\"Migration as Escape From Everyday Incivility: Evidence From Bangladesh\", published in \"Sociology Lens\" in October, argues that outward migration cannot always be explained by wages, jobs or political insecurity alone.",
+      "Part of speech / type": "Noun",
+      "Priority": "High",
+      "Publication date": "2026-11-19",
+      "Source publication": "The Business Standard",
+      "Synonyms": "rudeness; discourtesy; disrespect; impoliteness",
+      "Word family / derivatives": "incivilities (plural); uncivil; civility"
+    },
+    {
+      "Antonyms": "conceal; hide; withhold; suppress",
+      "Article headline": "Bangladesh's forex reserves stand at $36.35 billion: PM",
+      "BCS / Bank relevance": "Core BCS/Bank verb for parliament, banking and reporting passages.",
+      "Bangla meaning": "প্রকাশ করা; জানানো",
+      "Bangla phonetic": "ডিসক্লোজ",
+      "Collocations / patterns": "disclose figures; disclose information; disclose in Parliament",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladeshs-forex-reserves-stand-3635-billion-pm-1606781",
+      "English definition": "To make secret or new information known to others.",
+      "Headword / phrase": "disclose",
+      "IPA": "/dɪsˈkləʊz/",
+      "Newspaper context note": "The prime minister disclosed the latest forex reserve figures in Parliament.",
+      "Original example": "He disclosed the figures while replying to a question from Chattogram-12 MP Mohammed Enamul Hoque during the question-and-answer session for the prime minister in the fourth session of the 13th Jatiya Sangsad.",
+      "Part of speech / type": "Verb",
+      "Priority": "High",
+      "Publication date": "2026-11-18",
+      "Source publication": "The Business Standard",
+      "Synonyms": "reveal; announce; divulge; make public",
+      "Word family / derivatives": "disclosure; disclosed; disclosing"
+    },
+    {
+      "Headword / phrase": "genocide",
+      "IPA": "/ˈdʒenəsaɪd/",
+      "Bangla phonetic": "জেনোসাইড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "গণহত্যা",
+      "English definition": "The deliberate killing of a large number of people from a particular nation or ethnic group, with the aim of destroying that group.",
+      "Synonyms": "mass murder; extermination; ethnic cleansing; massacre",
+      "Antonyms": "protection; preservation; survival; coexistence",
+      "Word family / derivatives": "genocidal; genocidaire",
+      "Collocations / patterns": "commit genocide; genocide case; Genocide Convention; accused of genocide",
+      "Original example": "If the court rules in favour of The Gambia, it would mark the first time a state has been found guilty of committing genocide by an international court, according to BBC.",
+      "Newspaper context note": "The ICJ verdict on Myanmar concerns the charge of genocide against the Rohingya.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/world/myanmar-faces-historic-genocide-verdict-un-court-over-rohingya-massacres-1607316",
+      "BCS / Bank relevance": "Core international-law term for BCS/Bank questions on the Rohingya case, the ICJ and the 1948 Convention.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "expulsion",
+      "IPA": "/ɪkˈspʌlʃn/",
+      "Bangla phonetic": "ইকস্পালশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বহিষ্কার; উচ্ছেদ",
+      "English definition": "The act of forcing somebody to leave a place, country or organisation.",
+      "Synonyms": "deportation; eviction; removal; banishment",
+      "Antonyms": "admission; return; repatriation; inclusion",
+      "Word family / derivatives": "expel; expelled; expelling",
+      "Collocations / patterns": "mass expulsion; expulsion of refugees; forced expulsion",
+      "Original example": "The mass expulsion of the Rohingya population from Myanmar's Rakhine State in August and September 2017 involved an exceptionally brutal military operation.",
+      "Newspaper context note": "The article describes the mass expulsion of the Rohingya from Rakhine State in August and September 2017.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/world/myanmar-faces-historic-genocide-verdict-un-court-over-rohingya-massacres-1607316",
+      "BCS / Bank relevance": "Useful for BCS/Bank writing on refugees, migration and the Rohingya crisis.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "liquidation",
+      "IPA": "/ˌlɪkwɪˈdeɪʃn/",
+      "Bangla phonetic": "লিকুইডেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবসায়ন",
+      "English definition": "The process of closing a business or bank and selling its assets to pay its debts.",
+      "Synonyms": "winding up; closure; dissolution; sell-off",
+      "Antonyms": "revival; rescue; recapitalisation; merger",
+      "Word family / derivatives": "liquidate; liquidator; liquidated",
+      "Collocations / patterns": "orderly liquidation; liquidation of a bank; go into liquidation",
+      "Original example": "The initiative aims to establish a self-financing mechanism for dealing with troubled financial institutions, reducing reliance on taxpayers' money for bank restructuring, mergers and liquidation.",
+      "Newspaper context note": "The Bank Resolution Fund will finance the restructuring, rescue and, where necessary, orderly liquidation of troubled banks.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bank resolution fund approved; money to be raised largely from bonds",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/bank-resolution-fund-approved-money-be-raised-largely-bonds-1607281",
+      "BCS / Bank relevance": "Core banking term for BCS/Bank questions on bank resolution and the Bank Resolution Act, 2026.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "administrator",
+      "IPA": "/ədˈmɪnɪstreɪtər/",
+      "Bangla phonetic": "অ্যাডমিনিস্ট্রেটর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রশাসক",
+      "English definition": "A person appointed to manage the affairs of a bank or organisation that is in difficulty.",
+      "Synonyms": "manager; overseer; caretaker; receiver",
+      "Antonyms": "shareholder; depositor; owner",
+      "Word family / derivatives": "administer; administration; administrative",
+      "Collocations / patterns": "appoint an administrator; administrator-led team; administrator to take charge",
+      "Original example": "Under the process, Bangladesh Bank will appoint an administrator to take charge of the bank.",
+      "Newspaper context note": "Bangladesh Bank will appoint an administrator to run Padma Bank while its board is removed.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank brings Padma Bank under resolution framework",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://bdnews24.com/business/2tuxjhzob5",
+      "BCS / Bank relevance": "Banking and governance term for BCS/Bank questions on bank resolution.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "tacit",
+      "IPA": "/ˈtæsɪt/",
+      "Bangla phonetic": "ট্যাসিট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নীরব; মৌন",
+      "English definition": "Understood or implied without being openly stated; silent approval or agreement.",
+      "Synonyms": "implied; unspoken; silent; implicit",
+      "Antonyms": "explicit; open; stated; outspoken",
+      "Word family / derivatives": "tacitly; taciturn",
+      "Collocations / patterns": "tacit approval; tacit agreement; tacit consent",
+      "Original example": "Enforced disappearance is perpetrated by state agents with the tacit or explicit approval of their bosses.",
+      "Newspaper context note": "The columnist says enforced disappearance is carried out with the tacit or explicit approval of state agents' bosses.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Enforced disappearance in Argentina and Bangladesh",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for human-rights, governance and essay writing.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "affordable",
+      "IPA": "/əˈfɔːdəbəl/",
+      "Bangla phonetic": "অ্যাফোর্ডেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সাশ্রয়ী; সাধ্যের মধ্যে",
+      "English definition": "Cheap enough for most people to be able to buy or pay for; within one's means.",
+      "Synonyms": "reasonably priced; economical; within reach; bearable",
+      "Antonyms": "expensive; unaffordable; costly; prohibitive",
+      "Word family / derivatives": "afford; affordability; affordably",
+      "Collocations / patterns": "affordable level; affordable cost; keep costs affordable",
+      "Original example": "The government's discussions and initiatives are continuing to keep migration costs at an affordable level for Bangladeshi workers in other Middle Eastern countries as well.",
+      "Newspaper context note": "The Prime Minister said the government is working to keep migration costs at an affordable level for workers going abroad.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Govt working to cap migration cost for Malaysia at Tk 200,000: PM",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/py3w49ayq7",
+      "BCS / Bank relevance": "Common BCS/Bank adjective for migration, cost-of-living and public-policy questions.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Antonyms": "—",
+      "Article headline": "Workers and police chase each other in Ashulia, 70 factories shut, Gazipur calm",
+      "BCS / Bank relevance": "High — law and order, protests.",
+      "Bangla meaning": "নিক্ষিপ্ত বস্তু",
+      "Bangla phonetic": "প্রোজেক্টাইল",
+      "Collocations / patterns": "damaged by projectiles, throw projectiles",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/tvak5hvcod",
+      "English definition": "An object thrown or fired through the air, such as a stone or a bullet.",
+      "Headword / phrase": "projectile",
+      "IPA": "/prəˈdʒektaɪl/",
+      "Newspaper context note": "A police vehicle was damaged by projectiles thrown by protesters in Ashulia.",
+      "Original example": "A police vehicle was damaged by projectiles thrown by protesters.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "missile, object, stone",
+      "Word family / derivatives": "project (verb)"
+    },
+    {
+      "Antonyms": "—",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "Medium — security, vocabulary.",
+      "Bangla meaning": "প্লাটুন",
+      "Bangla phonetic": "প্লাটুন",
+      "Collocations / patterns": "deploy platoons, 33 platoons",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A small military unit, typically of about 30 soldiers, commanded by a lieutenant.",
+      "Headword / phrase": "platoon",
+      "IPA": "/pləˈtuːn/",
+      "Newspaper context note": "Border Guard Bangladesh deployed 33 platoons to maintain security in industrial areas.",
+      "Original example": "BGB deployed 33 platoons to guard the industrial areas.",
+      "Part of speech / type": "noun",
+      "Priority": "Medium",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "squad, unit, detachment",
+      "Word family / derivatives": "platoon (noun)"
+    },
+    {
+      "Antonyms": "peace, order",
+      "Article headline": "BGB deploys drones for surveillance in industrial areas amid labour unrest",
+      "BCS / Bank relevance": "High — law and order, policing.",
+      "Bangla meaning": "দাঙ্গা",
+      "Bangla phonetic": "রায়ট",
+      "Collocations / patterns": "riot control vehicles, riot police",
+      "Difficulty": "Basic",
+      "Direct source URL": "https://www.thedailystar.net/news/news/bgb-deploys-drones-surveillance-industrial-areas-amid-labour-unrest-4316221",
+      "English definition": "A violent disturbance of the peace by a crowd; (adjective) relating to such disturbances.",
+      "Headword / phrase": "riot",
+      "IPA": "/ˈraɪət/",
+      "Newspaper context note": "BGB deployed Armoured Personnel Carriers and Riot Control Vehicles to strengthen security.",
+      "Original example": "Riot control vehicles were deployed to strengthen security.",
+      "Part of speech / type": "noun / adjective",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "uprising, disturbance, unrest",
+      "Word family / derivatives": "riot (verb), rioting (noun)"
+    },
+    {
+      "Antonyms": "fiat currency",
+      "Article headline": "RMG unrest: NBR orders freezing bank accounts of 100 suspected individuals",
+      "BCS / Bank relevance": "High — finance, digital money, crime.",
+      "Bangla meaning": "ক্রিপ্টোকারেন্সি",
+      "Bangla phonetic": "ক্রিপ্টোকারেন্সি",
+      "Collocations / patterns": "transactions through cryptocurrency, cryptocurrency payments",
+      "Difficulty": "Intermediate",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/ongz3mbbmu",
+      "English definition": "A digital currency that uses cryptography for security and operates independently of a central bank.",
+      "Headword / phrase": "cryptocurrency",
+      "IPA": "/ˌkrɪptəʊˈkʌrənsi/",
+      "Newspaper context note": "The NBR found information about transactions through cryptocurrency, in addition to mobile financial services, linked to the unrest.",
+      "Original example": "Investigators found transactions through cryptocurrency and mobile financial services.",
+      "Part of speech / type": "noun",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "Prothom Alo English",
+      "Synonyms": "digital currency, crypto",
+      "Word family / derivatives": "crypto (noun)"
+    },
+    {
+      "Antonyms": "calm, suppress",
+      "Article headline": "Ousted forces plotting from across border to destroy industries: PM Tarique",
+      "BCS / Bank relevance": "High — politics, law and order.",
+      "Bangla meaning": "উসকানি দেওয়া",
+      "Bangla phonetic": "ফোমেন্ট",
+      "Collocations / patterns": "foment unrest, foment disorder",
+      "Difficulty": "Advanced",
+      "Direct source URL": "https://www.thedailystar.net/news/politics/news/ousted-forces-plotting-across-border-destroy-industries-pm-tarique-4316401",
+      "English definition": "To deliberately stir up or encourage trouble, especially political unrest.",
+      "Headword / phrase": "foment",
+      "IPA": "/fəʊˈment/",
+      "Newspaper context note": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Original example": "The prime minister accused ousted forces of trying to foment unrest from across the border.",
+      "Part of speech / type": "verb",
+      "Priority": "High",
+      "Publication date": "2026-11-05",
+      "Record type": "New word",
+      "Source publication": "The Daily Star",
+      "Synonyms": "instigate, provoke, stir up",
+      "Word family / derivatives": "fomentation (noun)"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "resolution framework",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "ব্যাংক নিষ্পত্তির কাঠামো",
+      "English explanation": "The official process under which a central bank decides whether to revive, merge or liquidate a troubled bank.",
+      "Usage / register": "Formal, banking and regulatory reporting.",
+      "Original example 1": "Bangladesh Bank has brought Padma Bank under the resolution framework, allowing the central bank to decide whether to revive, merge, or liquidate the institution.",
+      "Original example 2": "The decision to apply the resolution framework has been made, which outlines various procedures.",
+      "Common collocations / grammar pattern": "under the resolution framework; apply the resolution framework; resolution framework for troubled banks",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank brings Padma Bank under resolution framework",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://bdnews24.com/business/2tuxjhzob5",
+      "Exam value": "Core banking term for BCS/Bank questions on the Bank Resolution Department and troubled banks."
+    },
+    {
+      "Phrase": "taxpayers' money",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "করদাতাদের টাকা",
+      "English explanation": "Public money collected through taxes and spent by the government.",
+      "Usage / register": "Formal, economics and public-finance reporting.",
+      "Original example 1": "The initiative aims to establish a self-financing mechanism for dealing with troubled financial institutions, reducing reliance on taxpayers' money for bank restructuring, mergers and liquidation.",
+      "Original example 2": "The initiative aims to establish a self-financing mechanism for dealing with troubled financial institutions, reducing reliance on taxpayers' money for bank restructuring, mergers and liquidation.",
+      "Common collocations / grammar pattern": "reliance on taxpayers' money; taxpayers' money for bank restructuring; save taxpayers' money",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bank resolution fund approved; money to be raised largely from bonds",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/bank-resolution-fund-approved-money-be-raised-largely-bonds-1607281",
+      "Exam value": "Live public-finance phrase for BCS/Bank questions on bank bailouts and the resolution fund."
+    },
+    {
+      "Phrase": "export value",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "রপ্তানি মূল্য",
+      "English explanation": "The total worth of goods sold to other countries, usually in money terms.",
+      "Usage / register": "Formal, trade and economics reporting.",
+      "Original example 1": "The country lost around 1.82 billion euros in export value over the nine months.",
+      "Original example 2": "The average export value per kilogram fell 6.54% to 13.70 euros.",
+      "Common collocations / grammar pattern": "export value per kilogram; lose export value; export value of apparel",
+      "Source publication": "Outlook India",
+      "Article headline": "Bangladesh Loses €1.82 Billion Export Of Apparel To EU, China Gains Ground",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://www.outlookindia.com/international/bangladesh-apparel-export-loss-china-gains-market-share",
+      "Exam value": "Core trade phrase for BCS/Bank questions on RMG exports and export earnings."
+    },
+    {
+      "Phrase": "death flights",
+      "Type": "Noun phrase",
+      "Bangla meaning": "মৃত্যু ফ্লাইট",
+      "English explanation": "The Argentine military regime's practice of drugging prisoners and dropping them from aircraft into the sea to kill them secretly.",
+      "Usage / register": "Historical and human-rights writing.",
+      "Original example 1": "The Argentine military regime used to kill detainees through a programme later named “death flights”.",
+      "Original example 2": "Death flights enabled the military to execute large-scale clandestine murders, destroy traces of the victims, and simultaneously dispose of evidence relating to crimes.",
+      "Common collocations / grammar pattern": "death flights programme; victims of death flights; death flights into the Atlantic",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Enforced disappearance in Argentina and Bangladesh",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk",
+      "Exam value": "Key historical term for BCS/Bank questions on Argentina's Dirty War and enforced disappearance."
+    },
+    {
+      "Phrase": "Dirty War",
+      "Type": "Proper noun phrase",
+      "Bangla meaning": "ডার্টি ওয়ার (আর্জেন্টিনার নোংরা যুদ্ধ)",
+      "English explanation": "The Argentine military regime's campaign of kidnapping, torturing and murdering people, from 1976 to 1983.",
+      "Usage / register": "Historical and political writing.",
+      "Original example 1": "What is commonly known as the Dirty War was a military campaign in Argentina that lasted from 1976 to 1983.",
+      "Original example 2": "Up to 30,000 men, women, and children are believed to have fallen victim to Argentina's Dirty War.",
+      "Common collocations / grammar pattern": "victims of the Dirty War; Argentina's Dirty War; during the Dirty War",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Enforced disappearance in Argentina and Bangladesh",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk",
+      "Exam value": "Essential history term for BCS/Bank questions on Argentina, military rule and human rights."
+    },
+    {
+      "Phrase": "enforced disappearance",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "গুম; জোরপূর্বহ নিখোঁজ করা",
+      "English explanation": "The secret arrest or abduction of a person by state agents, followed by a refusal to admit holding them or to say where they are.",
+      "Usage / register": "Formal, human-rights and legal reporting.",
+      "Original example 1": "Enforced disappearance is perpetrated by state agents with the tacit or explicit approval of their bosses.",
+      "Original example 2": "A former Argentinian naval officer, Scilingo confessed to committing enforced disappearance and associated offences.",
+      "Common collocations / grammar pattern": "victims of enforced disappearance; commit enforced disappearance; enforced disappearance of civilians",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Enforced disappearance in Argentina and Bangladesh",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk",
+      "Exam value": "Core human-rights term for BCS/Bank questions on disappearances in Bangladesh and abroad."
+    },
+    {
+      "Phrase": "migration cost",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "অভিবাসন ব্যয়",
+      "English explanation": "The total money a worker must spend to go abroad for a job, including travel and recruitment fees.",
+      "Usage / register": "Formal, labour-migration and policy reporting.",
+      "Original example 1": "The government has, by and large, been able to keep the total migration cost for a worker going to Malaysia within Tk 200,000.",
+      "Original example 2": "He said the government is giving special priority to bringing down the overall migration cost, including travel expenses, for Bangladeshi workers seeking employment abroad.",
+      "Common collocations / grammar pattern": "total migration cost; keep migration costs down; migration cost for Malaysia",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Govt working to cap migration cost for Malaysia at Tk 200,000: PM",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/py3w49ayq7",
+      "Exam value": "Core migration term for BCS/Bank questions on labour migration, remittances and Malaysia recruitment."
+    },
+    {
+      "Phrase": "board of directors",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "পরিচালনা পর্ষদ",
+      "English explanation": "The group of people elected or appointed to run a company or bank and take its major decisions.",
+      "Usage / register": "Formal, business and banking reporting.",
+      "Original example 1": "The decision was taken at a meeting of the central bank's Board of Directors on Tuesday, spokesperson and Executive Director Arief Hossain Khan told bdnews24.com.",
+      "Original example 2": "The administrator-led team will manage its operations, while the existing board of directors will be removed.",
+      "Common collocations / grammar pattern": "meeting of the board of directors; board of directors meeting; remove the board of directors",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank brings Padma Bank under resolution framework",
+      "Publication date": "2026-11-17",
+      "Direct source URL": "https://bdnews24.com/business/2tuxjhzob5",
+      "Exam value": "Standard banking and corporate-governance phrase for BCS/Bank questions."
+    },
+    {
+      "Phrase": "apparel exports",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "পোশাক রপ্তানি",
+      "English explanation": "Clothing and garments sold by one country to buyers in other countries.",
+      "Usage / register": "Formal, trade and RMG reporting.",
+      "Original example 1": "The value of Bangladesh's apparel exports to the EU fell 20.89% between January and April.",
+      "Original example 2": "China's apparel exports to the EU rose 4.46% year-on-year to 24.25 billion euros.",
+      "Common collocations / grammar pattern": "apparel exports to the EU; apparel exports fell/rose; value of apparel exports",
+      "Source publication": "Outlook India",
+      "Article headline": "Bangladesh Loses €1.82 Billion Export Of Apparel To EU, China Gains Ground",
+      "Publication date": "2026-11-18",
+      "Direct source URL": "https://www.outlookindia.com/international/bangladesh-apparel-export-loss-china-gains-market-share",
+      "Exam value": "Core RMG trade phrase for BCS/Bank questions on Bangladesh's largest export sector."
+    },
+    {
+      "Phrase": "Genocide Convention",
+      "Type": "Proper noun phrase",
+      "Bangla meaning": "গণহত্যা কনভেনশন",
+      "English explanation": "The 1948 United Nations convention that defines genocide and obliges states to prevent and punish it.",
+      "Usage / register": "Formal, international-law writing.",
+      "Original example 1": "Since the Genocide Convention was signed in 1948 following the Nazi Holocaust, individuals have been prosecuted for genocide in conflicts including those in Rwanda and the former Yugoslavia.",
+      "Original example 2": "He said such a verdict would give renewed importance to the 1948 Genocide Convention and international legal accountability for crimes committed by states.",
+      "Common collocations / grammar pattern": "the 1948 Genocide Convention; under the Genocide Convention; Genocide Convention of 1948",
+      "Source publication": "The Business Standard",
+      "Article headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "Publication date": "2026-11-19",
+      "Direct source URL": "https://www.tbsnews.net/world/myanmar-faces-historic-genocide-verdict-un-court-over-rohingya-massacres-1607316",
+      "Exam value": "Key international-law term for BCS/Bank questions on the ICJ Rohingya case."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "C",
+      "explanation": "The survey found around 70% of women (and 59% of men) have no knowledge of investment diversification to protect their savings from inflation.",
+      "no": 1,
+      "options": {
+        "A": "59%",
+        "B": "64.50%",
+        "C": "70%",
+        "D": "55.7%"
+      },
+      "question": "According to the Bangladesh National Financial Inclusion Survey 2025, what percentage of women have no knowledge of investment diversification?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "The NCP won just six of the 297 seats declared in February's election, while the BNP took 209.",
+      "no": 2,
+      "options": {
+        "A": "209",
+        "B": "6",
+        "C": "50",
+        "D": "10"
+      },
+      "question": "How many seats did the National Citizen Party (NCP) win of the 297 declared in Bangladesh's February 2026 parliamentary election?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "BUET's admission test will now be held on 1 February next year, instead of 16 January as previously announced.",
+      "no": 3,
+      "options": {
+        "A": "16 January",
+        "B": "1 December",
+        "C": "15 December",
+        "D": "1 February"
+      },
+      "question": "BUET's admission test will now be held on which date?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "A",
+      "explanation": "Bangladesh Bank sold $220 million from its reserves at Tk123.90 per dollar; $29.68 billion is the total reserves figure, not the rate.",
+      "no": 4,
+      "options": {
+        "A": "Tk123.90 per dollar",
+        "B": "Tk100 per dollar",
+        "C": "US$29.68 billion in reserves",
+        "D": "Tk220 per dollar"
+      },
+      "question": "At what rate did Bangladesh Bank sell $220 million from its foreign exchange reserves?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "C",
+      "explanation": "Prothom Alo reports that Xi and Putin met for talks on 18 November, the fifth time the two leaders have met this year, including once by video link.",
+      "no": 5,
+      "options": {
+        "A": "Three times",
+        "B": "Four times",
+        "C": "Five times",
+        "D": "Six times"
+      },
+      "question": "How many times have Xi Jinping and Vladimir Putin met in 2026, according to the Prothom Alo report?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "B",
+      "explanation": "The study, published in Sociology Lens in October, draws on 32 interviews with migrants and active migration aspirants.",
+      "no": 6,
+      "options": {
+        "A": "20 interviews",
+        "B": "32 interviews",
+        "C": "50 interviews",
+        "D": "100 interviews"
+      },
+      "question": "How many interviews did the study 'Migration as Escape From Everyday Incivility: Evidence From Bangladesh' draw on?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "D",
+      "explanation": "The prime minister told Parliament that reserves stood at $36.35 billion as of 19 October 2026, up from $25.90 billion on 8 August 2024; $34.50 billion is the separate BSS gross-reserves figure.",
+      "no": 7,
+      "options": {
+        "A": "$25.90 billion",
+        "B": "$30.00 billion",
+        "C": "$34.50 billion",
+        "D": "$36.35 billion"
+      },
+      "question": "According to Prime Minister Tarique Rahman in Parliament on 18 November, what were Bangladesh's foreign exchange reserves as of 19 October 2026?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "correct": "B",
+      "explanation": "Prothom Alo reports that at least five BNP offices in different parts of Muksudpur upazila were reportedly set on fire between noon and evening on 18 November.",
+      "no": 8,
+      "options": {
+        "A": "Three BNP offices",
+        "B": "At least five",
+        "C": "Six",
+        "D": "Ten"
+      },
+      "question": "How many BNP offices in Muksudpur upazila of Gopalganj were reportedly set on fire on 18 November?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "C",
+      "explanation": "BSS reported gross forex reserves of $34.50 billion, which differs from the prime minister's $36.35 billion figure quoted in Parliament.",
+      "no": 9,
+      "options": {
+        "A": "$25.90 billion",
+        "B": "$36.35 billion",
+        "C": "$34.50 billion",
+        "D": "$29.68 billion"
+      },
+      "question": "What figure did the Bangladesh Sangbad Sangstha (BSS) report for gross foreign exchange reserves?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "no": 10,
+      "section": "Current Affairs",
+      "question": "Bangladesh's share of the EU's apparel imports fell to what level in January–September 2026?",
+      "options": {
+        "A": "21.10%",
+        "B": "32.02%",
+        "C": "34.29%",
+        "D": "19.06%"
+      },
+      "correct": "D",
+      "explanation": "Bangladesh's share of EU apparel imports fell to 19.06% by value, down from 21.10% in the same period last year; 34.29% is China's share.",
+      "source": "CA10"
+    },
+    {
+      "no": 11,
+      "section": "Current Affairs",
+      "question": "Under the resolution process, who will Bangladesh Bank appoint to take charge of Padma Bank?",
+      "options": {
+        "A": "A new board of directors",
+        "B": "An external auditor only",
+        "C": "An administrator",
+        "D": "An EXIM Bank manager"
+      },
+      "correct": "C",
+      "explanation": "Bangladesh Bank will appoint an administrator to take charge of the bank, and the administrator-led team will manage its operations while the existing board is removed.",
+      "source": "CA11"
+    },
+    {
+      "no": 12,
+      "section": "Current Affairs",
+      "question": "Which country filed the genocide case against Myanmar at the International Court of Justice?",
+      "options": {
+        "A": "Bangladesh",
+        "B": "Rwanda",
+        "C": "South Africa",
+        "D": "The Gambia"
+      },
+      "correct": "D",
+      "explanation": "The case is a seven-year-old genocide case filed by The Gambia over the military's 2017 crackdown on the Rohingya.",
+      "source": "CA12"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "The government has largely kept the total migration cost for a worker going to Malaysia within what amount?",
+      "options": {
+        "A": "Tk 100,000",
+        "B": "Tk 150,000",
+        "C": "Tk 200,000",
+        "D": "Tk 250,000"
+      },
+      "correct": "C",
+      "explanation": "Prime Minister Tarique Rahman told Parliament the government has, by and large, kept the total migration cost for a worker going to Malaysia within Tk 200,000.",
+      "source": "CA13"
+    },
+    {
+      "correct": "A",
+      "explanation": "Disparity means a great difference or inequality; the survey found a pronounced gender disparity in financial inclusion.",
+      "no": 14,
+      "options": {
+        "A": "A great inequality between two groups",
+        "B": "A formal agreement between two groups",
+        "C": "A sudden increase in income",
+        "D": "A shared responsibility between two groups"
+      },
+      "question": "What does 'disparity' mean in the survey's finding of a 'pronounced gender disparity'?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "Confrontation means a hostile meeting or clash between opposing groups, so 'clash' is the closest synonym.",
+      "no": 15,
+      "options": {
+        "A": "Agreement",
+        "B": "Clash",
+        "C": "Celebration",
+        "D": "Negotiation"
+      },
+      "question": "Which word is closest in meaning to 'confrontation', as used for the London brawl?",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "A",
+      "explanation": "Diaspora means people from one country who live scattered in other countries; the article says Bangladesh's fight 'now travels with its diaspora'.",
+      "no": 16,
+      "options": {
+        "A": "Bangladeshis living abroad as a community",
+        "B": "Bangladeshi tourists visiting London",
+        "C": "British citizens of Bangladeshi origin born in London only",
+        "D": "Bangladeshi students studying in Britain only"
+      },
+      "question": "In the article, the word 'diaspora' refers to which group?",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "A",
+      "explanation": "Reluctant means unwilling or hesitant; Dhaka University and BUET had initially been reluctant to allow supplementary-examination passers to take admission tests.",
+      "no": 17,
+      "options": {
+        "A": "Unwilling or hesitant to do something",
+        "B": "Eager and ready to do something",
+        "C": "Forced by a court order to do something",
+        "D": "Confused about how to do something"
+      },
+      "question": "What does 'reluctant' mean?",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "A",
+      "explanation": "To stabilise the exchange rate is to make it steady and stop it changing suddenly; Bangladesh Bank sold dollars to boost supply and stabilise the rate.",
+      "no": 18,
+      "options": {
+        "A": "To keep it steady and stop sudden change",
+        "B": "To raise it sharply against the taka",
+        "C": "To let it move freely without any intervention",
+        "D": "To fix it permanently to the price of gold"
+      },
+      "question": "What does Bangladesh Bank aim to do when it acts to 'stabilise the exchange rate'?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "D",
+      "explanation": "'Trilateral' means involving three parties, countries or groups, as in the historic trilateral summit of Xi, Trump and Putin.",
+      "no": 19,
+      "options": {
+        "A": "Involving two countries",
+        "B": "Involving one country alone",
+        "C": "Involving many countries",
+        "D": "Involving three parties"
+      },
+      "question": "What does 'trilateral' mean?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "B",
+      "explanation": "'Ascendant' means rising in power, status or influence; the Daily Star describes China as ascendant as it looks to strengthen its hand in East Asia.",
+      "no": 20,
+      "options": {
+        "A": "Declining steadily in power and influence",
+        "B": "Rising in power, status or influence",
+        "C": "Isolated from the world",
+        "D": "Defeated in war"
+      },
+      "question": "What does 'ascendant' mean, as in 'an ascendant China'?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "A",
+      "explanation": "'Vehemently' means in a forceful, passionate or intense way; Xi is reported to vehemently see Ukraine as not China's problem.",
+      "no": 21,
+      "options": {
+        "A": "In a forceful way",
+        "B": "In a calm and mild way",
+        "C": "In a secret and hidden way",
+        "D": "In a slow and careless way"
+      },
+      "question": "What does 'vehemently' mean?",
+      "section": "Vocabulary",
+      "source": "CA05"
+    },
+    {
+      "correct": "C",
+      "explanation": "'Indignity' means treatment that causes shame or a loss of dignity and self-respect, as in the 'everyday indignity' that the study links to migration.",
+      "no": 22,
+      "options": {
+        "A": "A great honour",
+        "B": "A legal right",
+        "C": "Treatment causing shame",
+        "D": "A financial reward for good service"
+      },
+      "question": "What does 'indignity' mean?",
+      "section": "Vocabulary",
+      "source": "CA06"
+    },
+    {
+      "correct": "B",
+      "explanation": "'Disclose' means to make secret or new information known to others; the prime minister disclosed the reserve figures in Parliament.",
+      "no": 23,
+      "options": {
+        "A": "To hide information from the public",
+        "B": "To reveal secret information",
+        "C": "To refuse to answer",
+        "D": "To delay a decision"
+      },
+      "question": "What does 'disclose' mean?",
+      "section": "Vocabulary",
+      "source": "CA07"
+    },
+    {
+      "no": 24,
+      "section": "Phrases",
+      "question": "What does the 'resolution framework' mean in the Padma Bank story?",
+      "options": {
+        "A": "A court order to close a bank immediately",
+        "B": "A rule for paying out deposit insurance to savers",
+        "C": "A government loan scheme for struggling banks",
+        "D": "Central bank process for troubled banks"
+      },
+      "correct": "D",
+      "explanation": "Bangladesh Bank brought Padma Bank under the resolution framework, allowing the central bank to decide whether to revive, merge, or liquidate the institution.",
+      "source": "CA11"
+    },
+    {
+      "no": 25,
+      "section": "Phrases",
+      "question": "In the column on Argentina, what were 'death flights'?",
+      "options": {
+        "A": "Military flights that carried refugees to safety",
+        "B": "Dropping drugged prisoners from aircraft into the sea",
+        "C": "Secret flights that smuggled dissidents out of Argentina",
+        "D": "Aerial bombing raids on rebel-held villages"
+      },
+      "correct": "B",
+      "explanation": "The columnist writes the Argentine military regime used to drug prisoners and drop them — dead or alive — from helicopters or aircraft into the Atlantic Ocean, the Río de la Plata or other large water bodies.",
+      "source": "CA14"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "70% of women unaware of investment diversification: Survey",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/economy/70-women-unaware-investment-diversification-survey-1607251"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Yahoo",
+      "Headline / report": "Bangladesh's political strife spills onto London's streets",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.yahoo.com/news/world/articles/bangladeshs-political-strife-spills-onto-205114547.html"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "BUET delays admission test by 2 weeks",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/youth/education/b0mt9pzr0p"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh Bank sells $220m from reserves at Tk123.90 per dollar",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/bangladesh-bank-sells-220m-reserves-tk12390-dollar-1607176"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/international/kjgzlmmdmd"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "China's Xi to host historic summit with Trump, Putin",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.thedailystar.net/news/world/news/chinas-xi-host-historic-summit-trump-putin-4327826"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "How everyday indignities push Bangladeshis abroad",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/features/panorama/how-everyday-indignities-push-bangladeshis-abroad-1607291"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh's forex reserves stand at $36.35 billion: PM",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/bangladeshs-forex-reserves-stand-3635-billion-pm-1606781"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Banned BCL activists attack hospital, stage armed march in Gopalganj",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/crime-and-law/ko19dlpn7y"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Outlook India",
+      "Headline / report": "Bangladesh Loses €1.82 Billion Export Of Apparel To EU, China Gains Ground",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.outlookindia.com/international/bangladesh-apparel-export-loss-china-gains-market-share"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "Bangladesh Bank brings Padma Bank under resolution framework",
+      "Publication date": "2026-11-17",
+      "Direct URL": "https://bdnews24.com/business/2tuxjhzob5"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Bangladesh Bank decides to put Padma Bank under resolution",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://www.thedailystar.net/business/news/bangladesh-bank-decides-put-padma-bank-under-resolution-4327191"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/world/myanmar-faces-historic-genocide-verdict-un-court-over-rohingya-massacres-1607316"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Govt working to cap migration cost for Malaysia at Tk 200,000: PM",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/py3w49ayq7"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Enforced disappearance in Argentina and Bangladesh",
+      "Publication date": "2026-11-18",
+      "Direct URL": "https://en.prothomalo.com/opinion/op-ed/mtc2x3ijjk"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bank resolution fund approved; money to be raised largely from bonds",
+      "Publication date": "2026-11-19",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/bank-resolution-fund-approved-money-be-raised-largely-bonds-1607281"
+    }
+  ],
+  "approved_by": "auto-17/17 (Rudro's v1 rule 2026-11-13)",
+  "approval_notes": "Review 17/17. Longest-correct: 4/25 strict (all four are all-equal-option ties: MCQs 7, 9, 10, 13); 0/25 by the gate definition (unique longest, all-equal excluded). Manual spot-checks done by coordinator: lead figures verified against source bodies for CA01 (70%/59%, 64.50%), CA04 ($220m, Tk123.90, $29.68bn), CA07 ($36.35bn vs $25.90bn), CA10 (€1.82bn, 19.06% vs 21.10%), CA13 (Tk 200,000). Opinion attribution checked: CA14 op-ed fully attributed to columnist Md Mahmudul Hasan; CA06 feature attributes claims to the study/authors ('allegedly', 'the study argues'). Known divergence: the importer still lists 1 problem — the ranker's editorial slot was reserved for the AI-jobs TBS piece, which is yesterday's Edition 12 CA01 (same URL), so it was dropped as a repeat and the slot was filled instead by the fresh enforced-disappearance op-ed (CA14); review check 15 passes ('present'). Pack written by operator (agent), acting as the Claude Project. v1 fallback day: v2 failed at convert (8 fresh phrases vs 10 required). Sync HELD — live site still carries the undecided 5-story 17 Nov replacement; do not sync."
+}
