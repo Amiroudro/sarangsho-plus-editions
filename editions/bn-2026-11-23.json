@@ -1,0 +1,1164 @@
+{
+  "edition_date": "2026-11-23",
+  "status": "published",
+  "language": "bn",
+  "english_fallback_allowed": false,
+  "note": "Bengali overlay rendered from the v2 engine's Bangla fact lines (fact_lines) and sanitised v2 questions. Figures, dates, names and money are rendered in authentic Bengali: Bangla digits, Bangla month names, Taka as টাকা/কোটি/লাখ, and Bengali transliterations of proper nouns. Source publication names stay as in English. English fallback is disabled for this overlay (english_fallback_allowed is false).",
+  "stories": {
+    "CA01": {
+      "headline": "Govt targets ৩৫% GDP share from SMEs by ২০৩১, says PM",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/tariqure_rahman_sme_4.jpg",
+      "summary": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
+      "exam_facts": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "৩৫ % (২২ নভেম্বর ২০২৬); ২০২৬; ১৩ (২২ নভেম্বর ২০২৬)",
+      "one_liner": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "Prime Minister Tarique Rahman ( ) said his government was working to…",
+          "value": "৩৫ %",
+          "original": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "\"The draft National SME Policy ২০২৬ has been prepared to turn this…",
+          "value": "২০২৬",
+          "original": "\" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "prime minister made the remarks at the inaugural ceremony of the seven-day…",
+          "value": "১৩",
+          "original": "প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Tarique said the draft National SME Policy ২০২৬ would soon be placed…",
+          "value": "২০২৬",
+          "original": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।",
+        "\" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।",
+        "প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+        },
+        {
+          "q": "Prime Minister Tarique Rahman today (২২ নভেম্বর) said his government was working to establish Bangladesh as a manufacturing hub and an export gateway through a new SME policy, targeting an increase in the sector's contribution to GDP to ______% by ২০৩১. — Which number goes in the blank?",
+          "a": "৩৫ %"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ______ % (২২ নভেম্বর ২০২৬)।",
+          "answer": "৩৫"
+        },
+        {
+          "cloze": "\" draft National এসএমই Policy ______ prepared turn vision into (২২ নভেম্বর ২০২৬)।",
+          "answer": "২০২৬"
+        }
+      ],
+      "keywords": [
+        "govt",
+        "targets",
+        "share",
+        "smes",
+        "২০৩১"
+      ],
+      "detail": "Govt targets ৩৫% GDP share from SMEs by ২০৩১, says PM (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।"
+    },
+    "CA02": {
+      "headline": "ডেঙ্গু থেকে সুস্থ হয়ে উঠছিলেন, হঠাৎ পেটব্যথা, চার ঘণ্টার মধ্যে মৃত্যু",
+      "image_url": "",
+      "summary": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)। বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ১১ (২২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)।",
+      "exam_facts": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)। বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ১১ (২২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "১৫ (২২ নভেম্বর ২০২৬); ১১ (২২ নভেম্বর ২০২৬)",
+      "one_liner": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "প্রায় দিন আগে dengueতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫)",
+          "value": "১৫",
+          "original": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়",
+          "value": "১১",
+          "original": "বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ১১ (২২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)।",
+        "বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ১১ (২২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
+        },
+        {
+          "q": "প্রায় ______ দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫)।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+          "a": "১৫"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (______): ১৫ (২২ নভেম্বর ২০২৬)।",
+          "answer": "৪৫"
+        },
+        {
+          "cloze": "বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ______ (২২ নভেম্বর ২০২৬)।",
+          "answer": "১১"
+        }
+      ],
+      "keywords": [
+        "ডেঙ্গু",
+        "থেকে",
+        "সুস্থ",
+        "হয়ে",
+        "উঠছিলেন"
+      ],
+      "detail": "প্রায় দিন আগে ডেঙ্গুতে আক্রান্ত হয়েছিলেন মোহাম্মদ ইসমাইল (৪৫): ১৫ (২২ নভেম্বর ২০২৬)। বেলা সাড়ে টার দিকে জানাজা শেষে পারিবারিক কবরস্থানে ইসমাইলকে দাফন করা হয়: ১১ (২২ নভেম্বর ২০২৬)।"
+    },
+    "CA03": {
+      "headline": "Liberation War Museum, Embassy of France inaugurate special exhibition honouring André Malraux",
+      "image_url": "",
+      "summary": "André Malraux died (২৩ নভেম্বর ১৯৭৬)। BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।",
+      "why_it_matters": "মনে রাখার তথ্য: André Malraux died (২৩ নভেম্বর ১৯৭৬)।",
+      "exam_facts": "André Malraux died (২৩ নভেম্বর ১৯৭৬)। BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।",
+      "key_people": "",
+      "figures": "২৩; ৫০০; ৫০; ১৯৭১; ১৯৭৩",
+      "one_liner": "André Malraux died (২৩ নভেম্বর ১৯৭৬)।",
+      "key_facts": [
+        {
+          "label": "André Malraux died on",
+          "value": "২৩",
+          "original": "André Malraux died (২৩ নভেম্বর ১৯৭৬)।"
+        },
+        {
+          "label": "BGB seizes bottles of Indian pain relief tablets in Panchagarh",
+          "value": "৫০০",
+          "original": "BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।"
+        },
+        {
+          "label": "Liberation War Museum, in collaboration with the Embassy of France in Bangladesh,…",
+          "value": "৫০",
+          "original": "André Malraux died (২৩ নভেম্বর ১৯৭৬)। BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।"
+        },
+        {
+          "label": "André Malraux was a great friend of Bangladesh and an outspoken international…",
+          "value": "১৯৭১",
+          "original": "André Malraux died (২৩ নভেম্বর ১৯৭৬)। BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।"
+        }
+      ],
+      "what_happened": [
+        "André Malraux died (২৩ নভেম্বর ১৯৭৬)।",
+        "BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] প্রতিবেশী দেশ ও বৈশ্বিক সম্পর্কের খবর আন্তর্জাতিক বিষয়াবলি অংশের জন্য গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "André Malraux died on কী (২৩ নভেম্বর ১৯৭৬ অনুযায়ী)?",
+          "a": "André Malraux died on ২৩ নভেম্বর ১৯৭৬."
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "André Malraux died (______ নভেম্বর ১৯৭৬)।",
+          "answer": "২৩"
+        },
+        {
+          "cloze": "BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ______।",
+          "answer": "৫০০"
+        }
+      ],
+      "keywords": [
+        "liberation",
+        "museum",
+        "embassy",
+        "france",
+        "inaugurate"
+      ],
+      "detail": "André Malraux died (২৩ নভেম্বর ১৯৭৬)। BGB seizes bottles ভারতীয় pain relief tablets Panchagarh: ৫০০।"
+    },
+    "CA04": {
+      "headline": "Why garment workers remain trapped in wage struggles",
+      "image_url": "",
+      "summary": "understand wage governance, we need analyse how তিন main stakeholders (workers। First, how did ২০২৩ wage বৃদ্ধি affect workers?।",
+      "why_it_matters": "মনে রাখার তথ্য: understand wage governance, we need analyse how তিন main stakeholders (workers।",
+      "exam_facts": "understand wage governance, we need analyse how তিন main stakeholders (workers। First, how did ২০২৩ wage বৃদ্ধি affect workers?।",
+      "key_people": "",
+      "figures": "২০২৩; ৩২.৮ %; ৩২.৬৪ %; ১২",
+      "one_liner": "understand wage governance, we need analyse how তিন main stakeholders (workers।",
+      "key_facts": [
+        {
+          "label": "To understand wage governance, we need to analyse how the three main…",
+          "value": "২০২৩",
+          "original": "understand wage governance, we need analyse how তিন main stakeholders (workers।"
+        },
+        {
+          "label": "First, how did the ২০২৩ wage rise affect workers?",
+          "value": "২০২৩",
+          "original": "First, how did ২০২৩ wage বৃদ্ধি affect workers?।"
+        },
+        {
+          "label": "According to our research, funded by STITCH, workers' average income rose by…",
+          "value": "৩২.৮ %",
+          "original": "understand wage governance, we need analyse how তিন main stakeholders (workers। First, how did ২০২৩ wage বৃদ্ধি affect workers?।"
+        },
+        {
+          "label": "However, everyday expenses also rose over the same period: education by, groceries…",
+          "value": "৩২.৬৪ %",
+          "original": "understand wage governance, we need analyse how তিন main stakeholders (workers। First, how did ২০২৩ wage বৃদ্ধি affect workers?।"
+        }
+      ],
+      "what_happened": [
+        "understand wage governance, we need analyse how তিন main stakeholders (workers।",
+        "First, how did ২০২৩ wage বৃদ্ধি affect workers?।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+        },
+        {
+          "q": "What erased garment workers' ২০২৩ minimum wage gains?",
+          "a": "Inflation"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "First, how did ______ wage বৃদ্ধি affect workers?।",
+          "answer": "২০২৩"
+        }
+      ],
+      "keywords": [
+        "garment",
+        "workers",
+        "remain",
+        "trapped",
+        "wage"
+      ],
+      "detail": "understand wage governance, we need analyse how তিন main stakeholders (workers। First, how did ২০২৩ wage বৃদ্ধি affect workers?।"
+    },
+    "CA05": {
+      "headline": "Serving secretaries debarred from state-owned banks' boards",
+      "image_url": "",
+      "summary": "independent directors will be নিযুক্ত or nominated, where applicable, accordance। © ২০২৬ - All Rights Financial Express।",
+      "why_it_matters": "মনে রাখার তথ্য: independent directors will be নিযুক্ত or nominated, where applicable, accordance।",
+      "exam_facts": "independent directors will be নিযুক্ত or nominated, where applicable, accordance। © ২০২৬ - All Rights Financial Express।",
+      "key_people": "",
+      "figures": "১৯৯১",
+      "one_liner": "independent directors will be নিযুক্ত or nominated, where applicable, accordance।",
+      "key_facts": [
+        {
+          "label": "Also, independent directors will be appointed or nominated, where applicable, in accordance…",
+          "value": "১৯৯১",
+          "original": "independent directors will be নিযুক্ত or nominated, where applicable, accordance।"
+        },
+        {
+          "label": "bank board-restructuring step comes in the wake of reported massive irregularities and…",
+          "value": "",
+          "original": "© ২০২৬ - All Rights Financial Express।"
+        }
+      ],
+      "what_happened": [
+        "independent directors will be নিযুক্ত or nominated, where applicable, accordance।",
+        "© ২০২৬ - All Rights Financial Express।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আইন, অধ্যাদেশ বা সরকারি সিদ্ধান্ত পরীক্ষায় রাষ্ট্র, আইন ও প্রশাসন অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "Also, independent directors will be appointed or nominated, where applicable, in accordance with the কী?",
+          "a": "Also, independent directors will be appointed or nominated, where applicable, in accordance with the Bank Company Act ১৯৯১."
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "© ______ - All Rights Financial Express।",
+          "answer": "২০২৬"
+        }
+      ],
+      "keywords": [
+        "serving",
+        "secretaries",
+        "debarred",
+        "state",
+        "owned"
+      ],
+      "detail": "independent directors will be নিযুক্ত or nominated, where applicable, accordance। © ২০২৬ - All Rights Financial Express।"
+    },
+    "CA06": {
+      "headline": "Ex-UK PM tells successor to 'move on' from Brexit",
+      "image_url": "",
+      "summary": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২। decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।",
+      "why_it_matters": "মনে রাখার তথ্য: LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২।",
+      "exam_facts": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২। decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।",
+      "key_people": "",
+      "figures": "২২; ১০; ২৭",
+      "one_liner": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২।",
+      "key_facts": [
+        {
+          "label": "LONDON, নভেম্বর (AFP): Former British prime minister Theresa মে said she was…",
+          "value": "২২",
+          "original": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২।"
+        },
+        {
+          "label": "decade after Britain narrowly voted to leave the bloc, Burnham has re-energised…",
+          "value": "১০",
+          "original": "decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।"
+        },
+        {
+          "label": "মে, who supported remaining in the member bloc, said government had to…",
+          "value": "২৭",
+          "original": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২। decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।"
+        },
+        {
+          "label": "\"And that's one of the reasons why I look slightly aghast at…",
+          "value": "",
+          "original": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২। decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।"
+        }
+      ],
+      "what_happened": [
+        "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২।",
+        "decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আন্তর্জাতিক সংস্থার সিদ্ধান্ত বাংলাদেশের অর্থনীতি ও কূটনীতির সঙ্গে যুক্ত বলে পরীক্ষায় আসে।"
+        },
+        {
+          "q": "LONDON, নভেম্বর ______ (AFP): Former British prime minister Theresa মে said she was \"aghast\" her successor could be considering rejoining the European Union and urged him to \"move on\" from Brexit, in comments broadcast Sunday. — Which number goes in the blank?",
+          "a": "২২"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ______।",
+          "answer": "২২"
+        },
+        {
+          "cloze": "decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ______।",
+          "answer": "১০"
+        }
+      ],
+      "keywords": [
+        "tells",
+        "successor",
+        "move",
+        "brexit"
+      ],
+      "detail": "LONDON, নভেম্বর (AFP): Former British প্রধানমন্ত্রী Theresa মে \"aghast\" her: ২২। decade পরে Britain narrowly voted leave bloc, Burnham re-energised talk: ১০।"
+    },
+    "CA07": {
+      "headline": "Norway and UNFPA sign agreement to study how women share in Bangladesh's economic gains",
+      "image_url": "",
+      "summary": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন। বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।",
+      "why_it_matters": "মনে রাখার তথ্য: বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন।",
+      "exam_facts": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন। বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।",
+      "key_people": "",
+      "figures": "১০ million; ২৪.৩ percent; ৫.৮; ২০২৭",
+      "one_liner": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন।",
+      "key_facts": [
+        {
+          "label": "In Bangladesh, Norway has also provided NOK through UNFPA's humanitarian appeal across…",
+          "value": "১০ million",
+          "original": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন।"
+        },
+        {
+          "label": "Bangladesh cut its poverty rate from in ২০১৬ to ১৮.৭ percent in…",
+          "value": "২৪.৩ percent",
+          "original": "বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।"
+        },
+        {
+          "label": "About four in ten women are in the labour force, compared with…",
+          "value": "৫.৮",
+          "original": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন। বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।"
+        },
+        {
+          "label": "findings will be published by জুন ২০২৭ as a peer-reviewed research paper…",
+          "value": "২০২৭",
+          "original": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন। বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।"
+        }
+      ],
+      "what_happened": [
+        "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন।",
+        "বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] জাতীয় পুরস্কার ও প্রতিষ্ঠান সংক্রান্ত তথ্য সাধারণ জ্ঞান অংশে আসে।"
+        },
+        {
+          "q": "In Bangladesh, Norway has also provided NOK ______ million through UNFPA's humanitarian appeal across ২০২৫ and ২০২৬, helping sustain essential services in Cox's Bazar amid severe humanitarian funding constraints. — Which number goes in the blank?",
+          "a": "১০ million"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ______: ১০ মিলিয়ন।",
+          "answer": "২০২৫"
+        },
+        {
+          "cloze": "বাংলাদেশ cut poverty হার ______ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।",
+          "answer": "২০১৬"
+        }
+      ],
+      "keywords": [
+        "norway",
+        "unfpa",
+        "sign",
+        "agreement",
+        "study"
+      ],
+      "detail": "বাংলাদেশ, Norway provided NOK মাধ্যমে UNFPA's humanitarian appeal across ২০২৫: ১০ মিলিয়ন। বাংলাদেশ cut poverty হার ২০১৬ ১৮.৭ percent ২০২২: ২৪.৩ শতাংশ।"
+    },
+    "CA08": {
+      "headline": "RMG net earnings rebound ১১.২০% in জুলাই-সেপ্টেম্বর, but mounting pressures threaten orders",
+      "image_url": "",
+      "summary": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন। BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।",
+      "why_it_matters": "মনে রাখার তথ্য: Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন।",
+      "exam_facts": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন। BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।",
+      "key_people": "",
+      "figures": "৬.৭৭ billion; ৭০; ৭.৬০ billion; ১১.২০ %; ১০.৫৫ billion",
+      "one_liner": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন।",
+      "key_facts": [
+        {
+          "label": "Net RMG export earnings stood at in Q১ of FY২৭, up from…",
+          "value": "৬.৭৭ billion",
+          "original": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন।"
+        },
+        {
+          "label": "BGMEA President Mahmud Hasan Khan said the ongoing protests have severely disrupted…",
+          "value": "৭০",
+          "original": "BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।"
+        },
+        {
+          "label": "UK, Spain, Germany, the Netherlands, France, Canada, Italy and Belgium accounted for,…",
+          "value": "৭.৬০ billion",
+          "original": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন। BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।"
+        },
+        {
+          "label": "Bangladesh's net readymade garment (RMG) export earnings grew year-on-year in the জুলাই-সেপ্টেম্বর…",
+          "value": "১১.২০ %",
+          "original": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন। BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।"
+        }
+      ],
+      "what_happened": [
+        "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন।",
+        "BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+        },
+        {
+          "q": "Net RMG export earnings stood at $______ billion in Q১ of FY২৭, up from $৬.০৯ billion in the same period of FY২৬, and $৬.২৩ billion in the preceding এপ্রিল-জুন quarter, according to the latest Quarterly Review of Readymade Garments from the Bangladesh Bank. — Which number goes in the blank?",
+          "a": "৬.৭৭ billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Net RMG রপ্তানি (export) earnings Q______ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন।",
+          "answer": "১"
+        },
+        {
+          "cloze": "BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ______।",
+          "answer": "৭০"
+        }
+      ],
+      "keywords": [
+        "earnings",
+        "rebound",
+        "mounting",
+        "pressures",
+        "threaten"
+      ],
+      "detail": "Net RMG রপ্তানি (export) earnings Q১ FY২৭, up $৬.০৯ billion: ৬.৭৭ বিলিয়ন। BGMEA রাষ্ট্রপতি Mahmud Hasan Khan ongoing protests severely disrupted production, forcing: ৭০।"
+    },
+    "CA09": {
+      "headline": "Wall St eyes Black Friday amid AI volatility",
+      "image_url": "",
+      "summary": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)। S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)।",
+      "exam_facts": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)। S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।",
+      "key_people": "",
+      "figures": "৫০০ (২২ নভেম্বর ২০২৬); ১১.৬ percent (৬ অক্টোবর ২০২৬); ৪.২ percent (২২ নভেম্বর ২০২৬); ১৮২.৭ million (২২ নভেম্বর ২০২৬); ১৮৩ million (২২ নভেম্বর ২০২৬)",
+      "one_liner": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "S&P and the Dow tumbled on Friday, confirming they were in a…",
+          "value": "৫০০",
+          "original": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "S&P has fallen from its all-time high, dragged down by the technology…",
+          "value": "১১.৬ percent",
+          "original": "S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।"
+        },
+        {
+          "label": "Oxford Economics estimates that holiday retail sales will rise, or an increase…",
+          "value": "৪.২ percent",
+          "original": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)। S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।"
+        },
+        {
+          "label": "National Retail Federation projects consumers plan to shop this year during the…",
+          "value": "১৮২.৭ million",
+          "original": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)। S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)।",
+        "S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
+        },
+        {
+          "q": "The S&P ______ and the Dow tumbled on Friday, confirming they were in a correction, while Anthropic shares retreated after a blockbuster debut that had raised hopes of easing worries about an AI trade already roiled by valuation concerns. — Which number goes in the blank?",
+          "a": "৫০০"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "S&P Dow tumbled Friday, confirming correction: ______ (২২ নভেম্বর ২০২৬)।",
+          "answer": "৫০০"
+        },
+        {
+          "cloze": "S&P fallen all-time high, dragged down technology sector, which: ______ শতাংশ (৬ অক্টোবর ২০২৬)।",
+          "answer": "১১.৬"
+        }
+      ],
+      "keywords": [
+        "wall",
+        "eyes",
+        "black",
+        "friday",
+        "amid"
+      ],
+      "detail": "S&P Dow tumbled Friday, confirming correction: ৫০০ (২২ নভেম্বর ২০২৬)। S&P fallen all-time high, dragged down technology sector, which: ১১.৬ শতাংশ (৬ অক্টোবর ২০২৬)।"
+    },
+    "CA10": {
+      "headline": "জাতীয় ঐক্যের প্রথম পদক্ষেপ একদলীয় সংবিধান সংশোধন কমিটি বাতিল করা: নাহিদ",
+      "image_url": "",
+      "summary": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)। তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)।",
+      "exam_facts": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)। তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "১৩ (২১ নভেম্বর ২০২৬); ১৬",
+      "one_liner": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ…",
+          "value": "১৩",
+          "original": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার…",
+          "value": "১৬",
+          "original": "তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "প্রধানমন্ত্রী তারেক রহমানের আমন্ত্রণে তাঁর সঙ্গে সংলাপে জাতীয় নাগরিক পার্টি (এনসিপি) অংশ…",
+          "value": "২২ নভেম্বর ২০২৬",
+          "original": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)। তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের কর্মসূচি ঘিরে নাশকতার মধ্যে প্রধানমন্ত্রী তারেক রহমান যে…",
+          "value": "২২ নভেম্বর ২০২৬",
+          "original": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)। তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)।",
+        "তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আইন, অধ্যাদেশ বা সরকারি সিদ্ধান্ত পরীক্ষায় রাষ্ট্র, আইন ও প্রশাসন অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "______ থেকে ২১ নভেম্বর পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+          "a": "১৩"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ______ (২১ নভেম্বর ২০২৬)।",
+          "answer": "১৩"
+        },
+        {
+          "cloze": "তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (______ নভেম্বর ২০২৬)।",
+          "answer": "১৬"
+        }
+      ],
+      "keywords": [
+        "জাতীয়",
+        "ঐক্যের",
+        "প্রথম",
+        "পদক্ষেপ",
+        "একদলীয়"
+      ],
+      "detail": "থেকে পর্যন্ত যুক্তরাজ্য সফরে বিভিন্ন সেমিনার, আলোচনা ও মতবিনিময়ে অংশগ্রহণের কথা উল্লেখ করেন: ১৩ (২১ নভেম্বর ২০২৬)। তিনি সাংবাদিকদের বলেন, লন্ডনে একটি অনুষ্ঠান শেষে বের হওয়ার সময় তাঁকে হত্যার উদ্দেশ্যে পতিত (১৬ নভেম্বর ২০২৬)।"
+    },
+    "CA11": {
+      "headline": "Islami Bank clarifies no formal information on reported টাকা৬,০০০cr state stake",
+      "image_url": "",
+      "summary": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০। Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।",
+      "why_it_matters": "মনে রাখার তথ্য: Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০।",
+      "exam_facts": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০। Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।",
+      "key_people": "",
+      "figures": "৬,০০০; ৬,০০০ crore; ৩.৯১ %; ৬০০ crore",
+      "one_liner": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০।",
+      "key_facts": [
+        {
+          "label": "Islami Bank clarifies no formal information on reported cr state stake",
+          "value": "৬,০০০",
+          "original": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০।"
+        },
+        {
+          "label": "Islami Bank Bangladesh PLC has denied having any formal information regarding a…",
+          "value": "৬,০০০ crore",
+          "original": "Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।"
+        },
+        {
+          "label": "Despite the denial, Islami Bank's share price rose (২২ নভেম্বর) to close…",
+          "value": "৩.৯১ %",
+          "original": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০। Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।"
+        },
+        {
+          "label": "Market insiders said the rally was fuelled by reports that the bank…",
+          "value": "৬,০০০ crore",
+          "original": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০। Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।"
+        }
+      ],
+      "what_happened": [
+        "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০।",
+        "Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বাংলাদেশ ব্যাংকের নীতি ও ব্যাংক খাতের সিদ্ধান্ত ব্যাংক নিয়োগ পরীক্ষায় গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "Islami Bank clarifies no formal information on reported টাকা______cr state stake — Which number goes in the blank?",
+          "a": "৬,০০০"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Islami ব্যাংক clarifies no formal information cr state stake: ______।",
+          "answer": "৬,০০০"
+        },
+        {
+          "cloze": "Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ______ কোটি।",
+          "answer": "৬,০০০"
+        }
+      ],
+      "keywords": [
+        "islami",
+        "bank",
+        "clarifies",
+        "formal",
+        "information"
+      ],
+      "detail": "Islami ব্যাংক clarifies no formal information cr state stake: ৬,০০০। Islami ব্যাংক বাংলাদেশ PLC denied having any formal information regarding সরকার পরিকল্পনা: ৬,০০০ কোটি।"
+    },
+    "CA12": {
+      "headline": "Dengue: ২ die, ১,৫১৯ hospitalised",
+      "image_url": "",
+      "summary": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)। Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)।",
+      "exam_facts": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)। Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "৮ (২২ নভেম্বর ২০২৬); ১,৫১৯ (২২ নভেম্বর ২০২৬); ১৭৩,৪৭৩ (২২ নভেম্বর ২০২৬); ২০০০",
+      "one_liner": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "According to the Directorate General of Health Services (DGHS), one patient died…",
+          "value": "৮",
+          "original": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Two die, hospitalised with dengue fever in a day",
+          "value": "১,৫১৯",
+          "original": "Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Bangladesh has recorded two more dengue deaths and new hospital admissions in…",
+          "value": "১,৫১৯",
+          "original": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)। Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Total hospitalisations from the Aedes mosquito-borne disease this year have reached, with…",
+          "value": "১৭৩,৪৭৩",
+          "original": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)। Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)।",
+        "Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
+        },
+        {
+          "q": "According to the Directorate General of Health Services (DGHS), one patient died in the Chattogram Division and another in Rangpur during this period until ______am on Sunday. — Which number goes in the blank?",
+          "a": "৮"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "According Directorate General Health Services (DGHS), one patient died: ______ (২২ নভেম্বর ২০২৬)।",
+          "answer": "৮"
+        },
+        {
+          "cloze": "Two die, hospitalised ডেঙ্গু (dengue) fever day: ______ (২২ নভেম্বর ২০২৬)।",
+          "answer": "১,৫১৯"
+        }
+      ],
+      "keywords": [
+        "dengue",
+        "hospitalised"
+      ],
+      "detail": "According Directorate General Health Services (DGHS), one patient died: ৮ (২২ নভেম্বর ২০২৬)। Two die, hospitalised ডেঙ্গু (dengue) fever day: ১,৫১৯ (২২ নভেম্বর ২০২৬)।"
+    },
+    "CA13": {
+      "headline": "Yamin ‘killing’: Tribunal orders trial against ১৯ accused",
+      "image_url": "",
+      "summary": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)। tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)।",
+      "exam_facts": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)। tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "১৫; ১৩ (৭ সেপ্টেম্বর ২০২৬); ১৯ (২৬ জুলাই ২০২৬); ১৯ (২২ নভেম্বর ২০২৬)",
+      "one_liner": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "prosecution's opening statement and recording of testimony in the case have been…",
+          "value": "১৫",
+          "original": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)।"
+        },
+        {
+          "label": "tribunal has set for the prosecution's opening statement and recording of witness…",
+          "value": "১৫",
+          "original": "tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।"
+        },
+        {
+          "label": "On, the tribunal ordered the appointment of state-appointed lawyers to represent the…",
+          "value": "১৩",
+          "original": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)। tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।"
+        },
+        {
+          "label": "On, the same tribunal took cognisance of the formal charges filed by…",
+          "value": "১৯",
+          "original": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)। tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)।",
+        "tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আইন, অধ্যাদেশ বা সরকারি সিদ্ধান্ত পরীক্ষায় রাষ্ট্র, আইন ও প্রশাসন অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "prosecution's opening statement and recording of testimony in the case have been scheduled for কী (১৫ ডিসেম্বর ২০২৬ অনুযায়ী)?",
+          "a": "The prosecution's opening statement and recording of testimony in the case have been scheduled for ডিসেম্বর ১৫"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "prosecution's opening statement recording testimony case scheduled (______ ডিসেম্বর ২০২৬)।",
+          "answer": "১৫"
+        },
+        {
+          "cloze": "tribunal set prosecution's opening statement recording witness testimony (______ ডিসেম্বর ২০২৬)।",
+          "answer": "১৫"
+        }
+      ],
+      "keywords": [
+        "yamin",
+        "killing",
+        "tribunal",
+        "orders",
+        "trial"
+      ],
+      "detail": "prosecution's opening statement recording testimony case scheduled (১৫ ডিসেম্বর ২০২৬)। tribunal set prosecution's opening statement recording witness testimony (১৫ ডিসেম্বর ২০২৬)।"
+    },
+    "CA14": {
+      "headline": "Genocide ruling opens a door for Rohingyas and Dhaka",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/el4jj2xvejlbjmez5u7yregbi4.jpg",
+      "summary": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)। বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)।",
+      "exam_facts": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)। বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "২০১৭; ১৯৮২",
+      "one_liner": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "For decades, Myanmar military tried to expel the Rohingyas, through routine discrimination,…",
+          "value": "২০১৭",
+          "original": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Bangladesh, which opened its borders to the fleeting Rohingyas in ২০১৭ on…",
+          "value": "২০১৭",
+          "original": "বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "But a law enacted in ১৯৮২ deprived them of Myanmar citizenship, turning…",
+          "value": "১৯৮২",
+          "original": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)। বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Genocide ruling opens a door for Rohingyas and Dhaka",
+          "value": "২২ নভেম্বর ২০২৬",
+          "original": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)। বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)।",
+        "বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] প্রতিবেশী দেশ ও বৈশ্বিক সম্পর্কের খবর আন্তর্জাতিক বিষয়াবলি অংশের জন্য গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "For decades, Myanmar military tried to expel the Rohingyas, through routine discrimination, restrictions on কী (২২ নভেম্বর ২০২৬ অনুযায়ী)?",
+          "a": "For decades, Myanmar military tried to expel the Rohingyas, through routine discrimination, restrictions on movement, outright oppression etc. These efforts culminated in a mass exodus in ২০১৭ when close to a million Rohingyas fled to neighbouring Bangladesh."
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (______ নভেম্বর ২০২৬)।",
+          "answer": "২২"
+        },
+        {
+          "cloze": "বাংলাদেশ, which opened borders fleeting Rohingyas ______ humanitarian grounds (২২ নভেম্বর ২০২৬)।",
+          "answer": "২০১৭"
+        }
+      ],
+      "keywords": [
+        "genocide",
+        "ruling",
+        "opens",
+        "door",
+        "rohingyas"
+      ],
+      "detail": "decades, Myanmar military tried expel Rohingyas, মাধ্যমে routine discrimination, restrictions (২২ নভেম্বর ২০২৬)। বাংলাদেশ, which opened borders fleeting Rohingyas ২০১৭ humanitarian grounds (২২ নভেম্বর ২০২৬)।"
+    },
+    "CA15": {
+      "headline": "A landmark verdict on Rohingya genocide",
+      "image_url": "",
+      "summary": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ...",
+      "why_it_matters": "মতামত: The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ...",
+      "exam_facts": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ...",
+      "key_people": "",
+      "figures": "প্রকাশিত ২১ নভেম্বর ২০২৬.",
+      "one_liner": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide…",
+      "key_facts": [
+        {
+          "label": "মতামত",
+          "value": "The Financial Express",
+          "original": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ..."
+        }
+      ],
+      "what_happened": [
+        "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ..."
+      ],
+      "exam_qa": [
+        {
+          "q": "এই সম্পাদকীয়ের মূল বক্তব্য কী?",
+          "a": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ..."
+        },
+        {
+          "q": "কোন প্রকাশনা এই সম্পাদকীয়টি প্রকাশ করেছে?",
+          "a": "The Financial Express"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "landmark",
+        "verdict",
+        "rohingya",
+        "genocide"
+      ],
+      "detail": "The International Court of Justice (ICJ), the UN's principal judicial organ, has delivered a landmark verdict that Myanmar committed genocide against its ethnic Rohingya population during the ২০১৭ ..."
+    }
+  },
+  "mcqs": {
+    "1": {
+      "question": "‘delegation’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "দূত",
+        "B": "প্রতিনিধি দল",
+        "C": "বরাদ্দ",
+        "D": "কূটনীতি"
+      },
+      "explanation": "‘delegation’ মানে প্রতিনিধি দল।"
+    },
+    "2": {
+      "question": "‘diplomacy’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "কূটনীতি",
+        "B": "দূত",
+        "C": "মন্ত্রিসভা",
+        "D": "উন্মোচন করা"
+      },
+      "explanation": "‘diplomacy’ মানে কূটনীতি।"
+    },
+    "3": {
+      "question": "‘course’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "কলেজ",
+        "B": "কোর্স",
+        "C": "দুর্নীতি",
+        "D": "মুদ্রাসংক্রান্ত"
+      },
+      "explanation": "‘course’ মানে কোর্স।"
+    },
+    "4": {
+      "question": "‘unveil’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "দূত",
+        "B": "বরাদ্দ",
+        "C": "উন্মোচন করা",
+        "D": "কূটনীতি"
+      },
+      "explanation": "‘unveil’ মানে উন্মোচন করা।"
+    },
+    "5": {
+      "question": "‘inflation’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "দূত",
+        "B": "মূল্যস্ফীতি",
+        "C": "বরাদ্দ",
+        "D": "কূটনীতি"
+      },
+      "explanation": "‘inflation’ মানে মূল্যস্ফীতি।"
+    },
+    "6": {
+      "question": "‘undermine’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "উদ্বৃত্ত",
+        "B": "সেতু",
+        "C": "মেনে চলা",
+        "D": "দুর্বল করা; ক্ষুণ্ন করা"
+      },
+      "explanation": "‘undermine’ মানে দুর্বল করা; ক্ষুণ্ন করা।"
+    },
+    "7": {
+      "question": "‘poverty’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "শ্রম",
+        "B": "দূত",
+        "C": "বরাদ্দ",
+        "D": "দারিদ্র্য"
+      },
+      "explanation": "‘poverty’ মানে দারিদ্র্য।"
+    },
+    "8": {
+      "question": "‘bridge’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "সেতু",
+        "B": "দূত",
+        "C": "বরাদ্দ",
+        "D": "কূটনীতি"
+      },
+      "explanation": "‘bridge’ মানে সেতু।"
+    },
+    "9": {
+      "question": "‘comply’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "দূত",
+        "B": "মেনে চলা",
+        "C": "বরাদ্দ",
+        "D": "কূটনীতি"
+      },
+      "explanation": "‘comply’ মানে মেনে চলা।"
+    },
+    "10": {
+      "question": "‘envoy’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "নজিরবিহীন",
+        "B": "নিয়োগ দেওয়া",
+        "C": "দূত",
+        "D": "শুল্ক"
+      },
+      "explanation": "‘envoy’ মানে দূত।"
+    },
+    "11": {
+      "question": "‘security council’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "নিরাপত্তা পরিষদ",
+        "B": "প্রাথমিক পর্যায়ে শনাক্তকরণ",
+        "C": "আবহাওয়া অধিদপ্তর",
+        "D": "আন্তর্জাতিক অপরাধ"
+      },
+      "explanation": "‘security council’ বলতে নিরাপত্তা পরিষদ বোঝায়।"
+    },
+    "12": {
+      "question": "‘meteorological department’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "প্রাথমিক পর্যায়ে শনাক্তকরণ",
+        "B": "আবহাওয়া অধিদপ্তর",
+        "C": "নিরাপত্তা বাহিনী",
+        "D": "সতর্ক সংকেত"
+      },
+      "explanation": "‘meteorological department’ বলতে আবহাওয়া অধিদপ্তর বোঝায়।"
+    },
+    "13": {
+      "question": "Prime Minister Tarique Rahman today (২২ নভেম্বর) said his government was working to establish Bangladesh as a manufacturing hub and an export gateway through a new SME policy, targeting an increase in the sector's contribution to GDP to ______% by ২০৩১. — Which number goes in the blank?",
+      "options": {
+        "A": "৩৫ %",
+        "B": "২০ %",
+        "C": "৪০ %",
+        "D": "৬০ %"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "14": {
+      "question": "The Liberation War Museum, in collaboration with the Embassy of France in Bangladesh, inaugurated a special exhibition on Sunday honouring André Malraux, the renowned French writer, philosopher and France’s first Minister of Cultural Affairs, marking the ______th anniversary of his death. — Which number goes in the blank?",
+      "options": {
+        "A": "৪০",
+        "B": "৬০",
+        "C": "৭০",
+        "D": "৫০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "15": {
+      "question": "Workers' average income rose by ______% in ২০২৪ compared with ২০২৩, according to the STITCH-funded research. — Which number goes in the blank?",
+      "options": {
+        "A": "৩২.৬৪%",
+        "B": "৩২.৮%",
+        "C": "২৮.৮৬%",
+        "D": "২২.২৭%"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "16": {
+      "question": "LONDON, নভেম্বর ______ (AFP): Former British prime minister Theresa মে said she was \"aghast\" her successor could be considering rejoining the European Union and urged him to \"move on\" from Brexit, in comments broadcast Sunday. — Which number goes in the blank?",
+      "options": {
+        "A": "১০",
+        "B": "৩০",
+        "C": "২২",
+        "D": "৪০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "17": {
+      "question": "Bangladesh cut its poverty rate from ______ percent in ২০১৬ to ১৮.৭ percent in ২০২২, and girls now enrol in secondary school at higher rates than boys. — Which number goes in the blank?",
+      "options": {
+        "A": "২১.৯ percent",
+        "B": "২৬.৭ percent",
+        "C": "২৪.৩ percent",
+        "D": "৩০.৪ percent"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "18": {
+      "question": "Net RMG export earnings stood at $______ billion in Q১ of FY২৭, up from $৬.০৯ billion in the same period of FY২৬, and $৬.২৩ billion in the preceding এপ্রিল-জুন quarter, according to the latest Quarterly Review of Readymade Garments from the Bangladesh Bank. — Which number goes in the blank?",
+      "options": {
+        "A": "৬.৭৭ billion",
+        "B": "৬.০৯ billion",
+        "C": "৭.৪৫ billion",
+        "D": "৮.৪৬ billion"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "19": {
+      "question": "The S&P ______ and the Dow tumbled on Friday, confirming they were in a correction, while Anthropic shares retreated after a blockbuster debut that had raised hopes of easing worries about an AI trade already roiled by valuation concerns. — Which number goes in the blank?",
+      "options": {
+        "A": "৪৯০",
+        "B": "৫১০",
+        "C": "৫০০",
+        "D": "৫২০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "20": {
+      "question": "Islami Bank clarifies no formal information on reported টাকা______cr state stake — Which number goes in the blank?",
+      "options": {
+        "A": "৫,৯০০",
+        "B": "৬,১০০",
+        "C": "৬,২০০",
+        "D": "৬,০০০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "21": {
+      "question": "According to the Directorate General of Health Services (DGHS), one patient died in the Chattogram Division and another in Rangpur during this period until ______am on Sunday. — Which number goes in the blank?",
+      "options": {
+        "A": "৮",
+        "B": "৯",
+        "C": "১০",
+        "D": "৭"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "22": {
+      "question": "On জুলাই ২৬, the same tribunal took cognisance of the formal charges filed by the prosecution against all ______ accused. — Which number goes in the blank?",
+      "options": {
+        "A": "১০",
+        "B": "৩০",
+        "C": "১৯",
+        "D": "৪০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "23": {
+      "question": "মে, who supported remaining in the ______-member bloc, said government had to respect the result of the ২০১৬ referendum. — Which number goes in the blank?",
+      "options": {
+        "A": "২০",
+        "B": "৪০",
+        "C": "৫০",
+        "D": "২৭"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "24": {
+      "question": "About four in ten women are in the labour force, compared with eight in ten men, and women spend an average of ______ hours a day on unpaid domestic and care work, against ০.৮ hours for men. — Which number goes in the blank?",
+      "options": {
+        "A": "৫.২",
+        "B": "৬.৪",
+        "C": "৭.২",
+        "D": "৫.৮"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "25": {
+      "question": "BGMEA President Mahmud Hasan Khan said the ongoing protests have severely disrupted production, forcing an average of around ______ factories to shut daily since the unrest began. — Which number goes in the blank?",
+      "options": {
+        "A": "৬০",
+        "B": "৮০",
+        "C": "৯০",
+        "D": "৭০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    }
+  }
+}
