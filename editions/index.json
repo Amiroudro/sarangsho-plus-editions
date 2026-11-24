@@ -330,10 +330,23 @@
       "revision_words": 5,
       "sources": 15,
       "coverage": "22 Nov 2026, 7:47 AM to 2026-11-23, 7:47 AM (Asia/Dhaka)"
+    },
+    {
+      "edition_date": "2026-11-24",
+      "file": "data-2026-11-24.json",
+      "status": "published",
+      "review": "v2 gate 15/15 passed; published after approval by auto-15/15 (Rudro's rule 2026-11-15). 15 stories, 20 words, 10 phrases, 25 MCQs. Correct v2 edition 5 in a row (v2 run 5/7).",
+      "stories": 15,
+      "words": 20,
+      "phrases": 10,
+      "mcqs": 25,
+      "revision_words": 5,
+      "sources": 15,
+      "coverage": "23 Nov 2026, 7:47 AM to 2026-11-24, 7:47 AM (Asia/Dhaka)"
     }
   ],
-  "correct_consecutive_editions": 4,
-  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 4.",
+  "correct_consecutive_editions": 5,
+  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 5.",
   "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
   "renovation_summary": {
     "format": "learning-module-v2",

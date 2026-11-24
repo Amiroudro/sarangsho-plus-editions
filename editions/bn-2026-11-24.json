@@ -1,0 +1,1182 @@
+{
+  "edition_date": "2026-11-24",
+  "status": "published",
+  "language": "bn",
+  "english_fallback_allowed": false,
+  "note": "Bengali overlay rendered from the v2 engine's Bangla fact lines (fact_lines) and sanitised v2 questions. Figures, dates, names and money are rendered in authentic Bengali: Bangla digits, Bangla month names, Taka as টাকা/কোটি/লাখ, and Bengali transliterations of proper nouns. Source publication names stay as in English. English fallback is disabled for this overlay (english_fallback_allowed is false).",
+  "stories": {
+    "CA01": {
+      "headline": "Govt targets ৩৫% GDP share from SMEs by ২০৩১, says PM",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/22/tariqure_rahman_sme_4.jpg",
+      "summary": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।",
+      "exam_facts": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "৩৫ % (২২ নভেম্বর ২০২৬); ২০২৬; ১৩ (২২ নভেম্বর ২০২৬)",
+      "one_liner": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "Prime Minister Tarique Rahman ( ) said his government was working to…",
+          "value": "৩৫ %",
+          "original": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "\"The draft National SME Policy ২০২৬ has been prepared to turn this…",
+          "value": "২০২৬",
+          "original": "\" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "prime minister made the remarks at the inaugural ceremony of the seven-day…",
+          "value": "১৩",
+          "original": "প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Tarique said the draft National SME Policy ২০২৬ would soon be placed…",
+          "value": "২০২৬",
+          "original": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)।",
+        "\" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।",
+        "প্রধানমন্ত্রী made remarks inaugural ceremony seven-day th National: ১৩ (২২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+        },
+        {
+          "q": "Prime Minister Tarique Rahman today (২২ নভেম্বর) said his government was working to establish Bangladesh as a manufacturing hub and an export gateway through a new SME policy, targeting an increase in the sector's contribution to GDP to ______% by ২০৩১. — Which number goes in the blank?",
+          "a": "৩৫ %"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ______ % (২২ নভেম্বর ২০২৬)।",
+          "answer": "৩৫"
+        },
+        {
+          "cloze": "\" draft National এসএমই Policy ______ prepared turn vision into (২২ নভেম্বর ২০২৬)।",
+          "answer": "২০২৬"
+        }
+      ],
+      "keywords": [
+        "govt",
+        "targets",
+        "share",
+        "smes",
+        "২০৩১"
+      ],
+      "detail": "Govt targets ৩৫% GDP share from SMEs by ২০৩১, says PM (২২ নভেম্বর ২০২৬)। প্রধানমন্ত্রী Tarique Rahman ( ) his সরকার establish বাংলাদেশ: ৩৫ % (২২ নভেম্বর ২০২৬)। [পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি। মনে রাখুন: \" draft National এসএমই Policy ২০২৬ prepared turn vision into (২২ নভেম্বর ২০২৬)।"
+    },
+    "CA02": {
+      "headline": "TCB set to boost essential goods trade with Pakistan's TCP",
+      "image_url": "",
+      "summary": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)। ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।",
+      "why_it_matters": "মনে রাখার তথ্য: Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)।",
+      "exam_facts": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)। ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।",
+      "key_people": "",
+      "figures": "২০০,০০০ tonnes (১৪ জানুয়ারি ২০২৫); ২৭; ২৯; ২৪; ৮,০০০ crore",
+      "one_liner": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)।",
+      "key_facts": [
+        {
+          "label": "On, Pakistan's TCP and Bangladesh's Directorate General of Food signed a government-to-government…",
+          "value": "২০০,০০০ tonnes",
+          "original": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)।"
+        },
+        {
+          "label": "At the ninth meeting of the Joint Economic Commission on, the Bangladesh…",
+          "value": "২৭",
+          "original": "ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।"
+        },
+        {
+          "label": "MoU between Bangladesh's TCB and the Trading Corporation of Pakistan (TCP) is…",
+          "value": "২৯",
+          "original": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)। ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।"
+        },
+        {
+          "label": "On, the two countries signed several agreements, including a visa exemption deal…",
+          "value": "২৪",
+          "original": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)। ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।"
+        }
+      ],
+      "what_happened": [
+        "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)।",
+        "ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] অর্থনীতির এই তথ্য বাজেট, প্রবৃদ্ধি ও বাণিজ্য সংক্রান্ত প্রশ্নের ভিত্তি।"
+        },
+        {
+          "q": "On ১৪ জানুয়ারি ২০২৫, Pakistan's TCP and Bangladesh's Directorate General of Food signed a government-to-government MoU allowing Pakistan to export up to ______ tonnes of rice annually to Bangladesh. — Which number goes in the blank?",
+          "a": "২০০,০০০ tonnes"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ______ টন (১৪ জানুয়ারি ২০২৫)।",
+          "answer": "২০০,০০০"
+        },
+        {
+          "cloze": "ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (______ অক্টোবর ২০২৫)।",
+          "answer": "২৭"
+        }
+      ],
+      "keywords": [
+        "boost",
+        "essential",
+        "goods",
+        "trade",
+        "pakistan's"
+      ],
+      "detail": "Pakistan's TCP বাংলাদেশের Directorate General Food সরকার- -সরকার MoU: ২০০,০০০ টন (১৪ জানুয়ারি ২০২৫)। ninth বৈঠক Joint অর্থনৈতিক Commission , বাংলাদেশ Standards (২৭ অক্টোবর ২০২৫)।"
+    },
+    "CA03": {
+      "headline": "ছয় মাসের জন্য সিসিটির দায়িত্ব পেল সংসদ সদস্যের পারিবারিক প্রতিষ্ঠান এভারেস্ট",
+      "image_url": "",
+      "summary": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)। প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)।",
+      "exam_facts": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)। প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "২৩; ২; ১৭; ১৯; ১ (২৩ নভেম্বর ২০২৬)",
+      "one_liner": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি",
+          "value": "২৩",
+          "original": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)।"
+        },
+        {
+          "label": "প্রতিষ্ঠানটির সঙ্গে বন্দরের agreement / treatyর মেয়াদ শেষ হয়",
+          "value": "২",
+          "original": "প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "এর মধ্যে ছয় মাসের জন্য নতুন অপারেটর নিয়োগে সীমিত দরপত্র আহ্বান করে…",
+          "value": "১৭",
+          "original": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)। প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "দরপত্র জমা দেয় চারটি প্রতিষ্ঠান",
+          "value": "১৯",
+          "original": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)। প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)।",
+        "প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আইন, অধ্যাদেশ বা সরকারি সিদ্ধান্ত পরীক্ষায় রাষ্ট্র, আইন ও প্রশাসন অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি কী (২৩ মে ২০২৬ অনুযায়ী)?",
+          "a": "আগামী ২৩ মে পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (______ মে ২০২৬)।",
+          "answer": "২৩"
+        },
+        {
+          "cloze": "প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (______ নভেম্বর ২০২৬)।",
+          "answer": "২"
+        }
+      ],
+      "keywords": [
+        "মাসের",
+        "জন্য",
+        "সিসিটির",
+        "দায়িত্ব",
+        "সংসদ"
+      ],
+      "detail": "আগামী পর্যন্ত সিসিটি পরিচালনা করবে প্রতিষ্ঠানটি (২৩ মে ২০২৬)। প্রতিষ্ঠানটির সঙ্গে বন্দরের চুক্তির মেয়াদ শেষ হয় (২ নভেম্বর ২০২৬)।"
+    },
+    "CA04": {
+      "headline": "Climate change shared challenge; we must work together: Indian President",
+      "image_url": "",
+      "summary": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong। জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।",
+      "why_it_matters": "মনে রাখার তথ্য: Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong।",
+      "exam_facts": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong। জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।",
+      "key_people": "",
+      "figures": "২০২৬",
+      "one_liner": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong।",
+      "key_facts": [
+        {
+          "label": "Welcoming Prime Minister Shah to Rashtrapati Bhavan, the President congratulated him on…",
+          "value": "২০২৬",
+          "original": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong।"
+        },
+        {
+          "label": "Climate change shared challenge; we must work together: Indian President",
+          "value": "",
+          "original": "জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।"
+        },
+        {
+          "label": "EU proposes fresh Russia sanctions targeting banks, crypto and sports",
+          "value": "",
+          "original": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong। জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।"
+        },
+        {
+          "label": "Indian President expressed her condolences for the loss of life caused by…",
+          "value": "",
+          "original": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong। জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।"
+        }
+      ],
+      "what_happened": [
+        "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong।",
+        "জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] জলবায়ু ও দুর্যোগ সংক্রান্ত তথ্য পরিবেশ ও ভূগোল অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "Welcoming Prime Minister Shah to Rashtrapati Bhavan, the President congratulated him on the strong কী?",
+          "a": "Welcoming Prime Minister Shah to Rashtrapati Bhavan, the President congratulated him on the strong mandate for his government in the মার্চ ২০২৬ elections and wished him success in his efforts to fulfill the aspirations of the people."
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "climate",
+        "change",
+        "shared",
+        "challenge",
+        "must"
+      ],
+      "detail": "Welcoming প্রধানমন্ত্রী Shah Rashtrapati Bhavan, রাষ্ট্রপতি congratulated him strong। জলবায়ু পরিবর্তন shared challenge; we must work together: ভারতীয় রাষ্ট্রপতি।"
+    },
+    "CA05": {
+      "headline": "এনভিডিয়াতেই ফিরে এলেন টয়লেট পরিষ্কার থেকে এআই সাম্রাজ্য গড়ে তোলা টেক জিনিয়াস জেনসেন হুয়াং",
+      "image_url": "",
+      "summary": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)। ১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)।",
+      "exam_facts": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)। ১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।",
+      "key_people": "",
+      "figures": "৮; ৪০ thousand (৫ এপ্রিল ২০২৬); ১০ (২৩ নভেম্বর ২০২৬); ৯ (২৩ নভেম্বর ২০২৬)",
+      "one_liner": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন…",
+          "value": "৮",
+          "original": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন",
+          "value": "৪০ thousand",
+          "original": "১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।"
+        },
+        {
+          "label": "জেনে নিন তাঁর সম্পর্কে টি অজানা তথ্য",
+          "value": "১০",
+          "original": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)। ১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।"
+        },
+        {
+          "label": "জেনে নেওয়া যাক এনভিডিয়ার প্রতিষ্ঠাতা সম্পর্কে টি অপেক্ষাকৃত কম জানা তথ্য",
+          "value": "১০",
+          "original": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)। ১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)।",
+        "১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
+        },
+        {
+          "q": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং কী (৮ নভেম্বর ২০২৬ অনুযায়ী)?",
+          "a": "৮ নভেম্বর ২০২৬ কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং।"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (______ নভেম্বর ২০২৬)।",
+          "answer": "৮"
+        },
+        {
+          "cloze": "______ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।",
+          "answer": "১৯৯৩"
+        }
+      ],
+      "keywords": [
+        "এনভিডিয়াতেই",
+        "ফিরে",
+        "এলেন",
+        "টয়লেট",
+        "পরিষ্কার"
+      ],
+      "detail": "কর্মীদের কাছে পাঠানো চিঠিতে স্ত্রীকে অবিশ্বাস করার কথা স্বীকার করে ক্ষমাও চেয়েছেন হুয়াং (৮ নভেম্বর ২০২৬)। ১৯৯৩ সালের তিন বন্ধু ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন: ৪০ হাজার (৫ এপ্রিল ২০২৬)।"
+    },
+    "CA06": {
+      "headline": "Farmers count losses as cyclone-linked rain hits Aman, winter crops",
+      "image_url": "",
+      "summary": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০। Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।",
+      "why_it_matters": "মনে রাখার তথ্য: Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০।",
+      "exam_facts": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০। Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।",
+      "key_people": "",
+      "figures": "৫৩১.৬০; ২,৩৪১; ৬০৯; ৮০ percent; ১৫,০০০",
+      "one_liner": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০।",
+      "key_facts": [
+        {
+          "label": "In Khulna, rainfall affected hectares of farmland between নভেম্বর ১৮ and ২১,…",
+          "value": "৫৩১.৬০",
+          "original": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০।"
+        },
+        {
+          "label": "In Cumilla, four days of rainfall had put crops on hectares at…",
+          "value": "২,৩৪১",
+          "original": "Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।"
+        },
+        {
+          "label": "In Chandpur, the preliminary estimate puts the affected crop area at hectares,…",
+          "value": "৬০৯",
+          "original": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০। Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।"
+        },
+        {
+          "label": "In Feni, around per cent of Aman paddy reportedly remained in the…",
+          "value": "৮০ percent",
+          "original": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০। Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।"
+        }
+      ],
+      "what_happened": [
+        "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০।",
+        "Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] জলবায়ু ও দুর্যোগ সংক্রান্ত তথ্য পরিবেশ ও ভূগোল অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "In Khulna, rainfall affected ______ hectares of farmland between নভেম্বর ১৮ and ২১, according to the DAE. — Which number goes in the blank?",
+          "a": "৫৩১.৬০"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Khulna, rainfall affected hectares farmland between নভেম্বর ______ ২১, according: ৫৩১.৬০।",
+          "answer": "১৮"
+        },
+        {
+          "cloze": "Cumilla, four days rainfall put crops hectares risk: ______।",
+          "answer": "২,৩৪১"
+        }
+      ],
+      "keywords": [
+        "farmers",
+        "count",
+        "losses",
+        "cyclone",
+        "linked"
+      ],
+      "detail": "Khulna, rainfall affected hectares farmland between নভেম্বর ১৮ ২১, according: ৫৩১.৬০। Cumilla, four days rainfall put crops hectares risk: ২,৩৪১।"
+    },
+    "CA07": {
+      "headline": "NPL buildup looks unstoppable, banks in quandary",
+      "image_url": "",
+      "summary": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন। According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।",
+      "why_it_matters": "মনে রাখার তথ্য: According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন।",
+      "exam_facts": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন। According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।",
+      "key_people": "",
+      "figures": "৬.২৭ trillion; ২১০ billion; ৩২.৭৮ percent; ২.১৮ trillion",
+      "one_liner": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন।",
+      "key_facts": [
+        {
+          "label": "According to the latest data from Bangladesh Bank (BB), bank loans amounting…",
+          "value": "৬.২৭ trillion",
+          "original": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন।"
+        },
+        {
+          "label": "According to latest available data, the volume of banks' bad money, euphemistically…",
+          "value": "৬.২৭ trillion",
+          "original": "According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।"
+        },
+        {
+          "label": "figure marks an increase of around in just three months from টাকা…",
+          "value": "২১০ billion",
+          "original": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন। According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।"
+        },
+        {
+          "label": "NPL ratio also rose from per cent to ৩৩.৮০ per cent during…",
+          "value": "৩২.৭৮ percent",
+          "original": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন। According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।"
+        }
+      ],
+      "what_happened": [
+        "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন।",
+        "According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বাংলাদেশ ব্যাংকের নীতি ও ব্যাংক খাতের সিদ্ধান্ত ব্যাংক নিয়োগ পরীক্ষায় গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "According to the latest data from Bangladesh Bank (BB), bank loans amounting to টাকা ______ trillion were classified as non-performing loans (NPLs), accounting for ৩৩.৮০ per cent of total outstanding loans of টাকা ১৮.৫৬ trillion. — Which number goes in the blank?",
+          "a": "৬.২৭ trillion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ______ ট্রিলিয়ন।",
+          "answer": "৬.২৭"
+        },
+        {
+          "cloze": "According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ______ ট্রিলিয়ন।",
+          "answer": "৬.২৭"
+        }
+      ],
+      "keywords": [
+        "buildup",
+        "looks",
+        "unstoppable",
+        "banks",
+        "quandary"
+      ],
+      "detail": "According latest data বাংলাদেশ ব্যাংক (Bangladesh Bank) (BB), ব্যাংক loans amounting: ৬.২৭ ট্রিলিয়ন। According latest available data, volume ব্যাংকগুলো' bad money, euphemistically called non-performing: ৬.২৭ ট্রিলিয়ন।"
+    },
+    "CA08": {
+      "headline": "BIWTA to seek more time from HC to remove plastic waste from Buriganga",
+      "image_url": "",
+      "summary": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪। Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।",
+      "why_it_matters": "মনে রাখার তথ্য: বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪।",
+      "exam_facts": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪। Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।",
+      "key_people": "",
+      "figures": "১৪; ২২০; ২.৫ million; ৪৩২; ৮",
+      "one_liner": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪।",
+      "key_facts": [
+        {
+          "label": "Bangladesh Inland Water Transport Authority (BIWTA) will seek more time from the…",
+          "value": "১৪",
+          "original": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪।"
+        },
+        {
+          "label": "Mobarak Hossain Mazumder said that BIWTA had identified plastic recycling factories located…",
+          "value": "২২০",
+          "original": "Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।"
+        },
+        {
+          "label": "He said that around people live in the Lalbagh area, discharging solid…",
+          "value": "২.৫ million",
+          "original": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪। Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।"
+        },
+        {
+          "label": "\"We have also identified entities, both government and private, which are responsible…",
+          "value": "৪৩২",
+          "original": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪। Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।"
+        }
+      ],
+      "what_happened": [
+        "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪।",
+        "Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আইন, অধ্যাদেশ বা সরকারি সিদ্ধান্ত পরীক্ষায় রাষ্ট্র, আইন ও প্রশাসন অংশে জিজ্ঞাসা করা হয়।"
+        },
+        {
+          "q": "The Bangladesh Inland Water Transport Authority (BIWTA) will seek more time from the High Court (HC) as it could not completely remove plastic bottles and other plastic waste from Buriganga riverbank within the deadline of ডিসেম্বর ______ as directed by the court. — Which number goes in the blank?",
+          "a": "১৪"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ______।",
+          "answer": "১৪"
+        },
+        {
+          "cloze": "Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ______।",
+          "answer": "২২০"
+        }
+      ],
+      "keywords": [
+        "biwta",
+        "seek",
+        "time",
+        "remove",
+        "plastic"
+      ],
+      "detail": "বাংলাদেশ Inland Water Transport Authority (BIWTA) will seek more time হাইকোর্ট (High Court): ১৪। Mobarak Hossain Mazumder that BIWTA identified plastic recycling factories located মধ্যে two: ২২০।"
+    },
+    "CA09": {
+      "headline": "Human rights, labour standards made central to FTA",
+      "image_url": "",
+      "summary": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন। announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।",
+      "why_it_matters": "মনে রাখার তথ্য: বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন।",
+      "exam_facts": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন। announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।",
+      "key_people": "",
+      "figures": "২৩.৩ billion; ২০২৪; ৫",
+      "one_liner": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন।",
+      "key_facts": [
+        {
+          "label": "Bangladesh exported goods worth euros to the EU in ২০২৫, making the…",
+          "value": "২৩.৩ billion",
+          "original": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন।"
+        },
+        {
+          "label": "announcements came as the European Union outlined an ambitious agenda for strengthening…",
+          "value": "২০২৪",
+          "original": "announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।"
+        },
+        {
+          "label": "EU is also planning its first-ever Bangladesh-EU Business and Investment Forum in…",
+          "value": "৫",
+          "original": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন। announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।"
+        },
+        {
+          "label": "Human rights, labour rights and environmental protection will remain central to European…",
+          "value": "",
+          "original": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন। announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।"
+        }
+      ],
+      "what_happened": [
+        "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন।",
+        "announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আন্তর্জাতিক সংস্থার সিদ্ধান্ত বাংলাদেশের অর্থনীতি ও কূটনীতির সঙ্গে যুক্ত বলে পরীক্ষায় আসে।"
+        },
+        {
+          "q": "Bangladesh exported goods worth ______ billion euros to the EU in ২০২৫, making the European market crucial to its macroeconomic stability. — Which number goes in the blank?",
+          "a": "২৩.৩ billion"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "বাংলাদেশ exported goods worth euros EU ______ making European বাজার: ২৩.৩ বিলিয়ন।",
+          "answer": "২০২৫,"
+        }
+      ],
+      "keywords": [
+        "human",
+        "rights",
+        "labour",
+        "standards",
+        "made"
+      ],
+      "detail": "বাংলাদেশ exported goods worth euros EU ২০২৫, making European বাজার: ২৩.৩ বিলিয়ন। announcements came ইউরোপীয় ইউনিয়ন (European Union) ambitious agenda strengthening political, অর্থনৈতিক।"
+    },
+    "CA10": {
+      "headline": "Trust Bank invests টাকা১৫cr in its MFS subsidiary",
+      "image_url": "",
+      "summary": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি। Trust ব্যাংক invests cr MFS subsidiary: ১৫।",
+      "why_it_matters": "মনে রাখার তথ্য: Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি।",
+      "exam_facts": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি। Trust ব্যাংক invests cr MFS subsidiary: ১৫।",
+      "key_people": "",
+      "figures": "১৫ crore; ১৫; ২৩; ২২৬.৩৬ crore; ৩৩৬.৩৩ crore",
+      "one_liner": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি।",
+      "key_facts": [
+        {
+          "label": "Trust Bank, a private sector lender, has decided to invest in its…",
+          "value": "১৫ crore",
+          "original": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি।"
+        },
+        {
+          "label": "Trust Bank invests cr in its MFS subsidiary",
+          "value": "১৫",
+          "original": "Trust ব্যাংক invests cr MFS subsidiary: ১৫।"
+        },
+        {
+          "label": "decision was made at a meeting of the bank's board of directors…",
+          "value": "২৩",
+          "original": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি। Trust ব্যাংক invests cr MFS subsidiary: ১৫।"
+        },
+        {
+          "label": "According to its unaudited financial statements for the nine months ended সেপ্টেম্বর…",
+          "value": "২২৬.৩৬ crore",
+          "original": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি। Trust ব্যাংক invests cr MFS subsidiary: ১৫।"
+        }
+      ],
+      "what_happened": [
+        "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি।",
+        "Trust ব্যাংক invests cr MFS subsidiary: ১৫।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বাংলাদেশ ব্যাংকের নীতি ও ব্যাংক খাতের সিদ্ধান্ত ব্যাংক নিয়োগ পরীক্ষায় গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "Trust Bank, a private sector lender, has decided to invest টাকা______ crore in its mobile financial services (MFS) subsidiary, Trust and Pay Limited, to strengthen its capital base and support business expansion. — Which number goes in the blank?",
+          "a": "১৫ crore"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ______ কোটি।",
+          "answer": "১৫"
+        },
+        {
+          "cloze": "Trust ব্যাংক invests cr MFS subsidiary: ______।",
+          "answer": "১৫"
+        }
+      ],
+      "keywords": [
+        "trust",
+        "bank",
+        "invests",
+        "tk১৫cr",
+        "subsidiary"
+      ],
+      "detail": "Trust ব্যাংক, private sector lender, decided invest mobile financial: ১৫ কোটি। Trust ব্যাংক invests cr MFS subsidiary: ১৫।"
+    },
+    "CA11": {
+      "headline": "ডাকাতের কবলে পড়ে অ্যাম্বুলেন্সেই সন্তান প্রসব, পথে নবজাতকের মৃত্যু",
+      "image_url": "",
+      "summary": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)। জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)।",
+      "exam_facts": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)। জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "৩০০ (২৩ নভেম্বর ২০২৬); ৯৯৯ (২৩ নভেম্বর ২০২৬); ২০ (২৩ নভেম্বর ২০২৬)",
+      "one_liner": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার…",
+          "value": "৩০০",
+          "original": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায়…",
+          "value": "৯৯৯",
+          "original": "জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "তার কাছ থেকে জেনেছি, রাতে ২৫ জনের একটি ডাকাত দল রাস্তায় গাছ…",
+          "value": "২০",
+          "original": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)। জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "ঝিনাইদহের কালীগঞ্জ থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মো",
+          "value": "২৩ নভেম্বর ২০২৬",
+          "original": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)। জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)।",
+        "জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] পুরস্কার, নিয়োগ ও বিশিষ্ট ব্যক্তির তথ্য পরীক্ষার সাধারণ জ্ঞান অংশে থাকে।"
+        },
+        {
+          "q": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে ______ গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ ফেলে রাখা হয়েছে।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+          "a": "৩০০"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ______ (২৩ নভেম্বর ২০২৬)।",
+          "answer": "৩০০"
+        },
+        {
+          "cloze": "জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ______ (২৩ নভেম্বর ২০২৬)।",
+          "answer": "৯৯৯"
+        }
+      ],
+      "keywords": [
+        "ডাকাতের",
+        "কবলে",
+        "পড়ে",
+        "অ্যাম্বুলেন্সেই",
+        "সন্তান"
+      ],
+      "detail": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ: ৩০০ (২৩ নভেম্বর ২০২৬)। জরুরি সেবার নম্বরে ( ) কল দিয়ে পুলিশের সহায়তা নিলেও এ ঘটনায় ভীত হয়ে: ৯৯৯ (২৩ নভেম্বর ২০২৬)।"
+    },
+    "CA12": {
+      "headline": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images",
+      "image_url": "",
+      "summary": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)। Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।",
+      "why_it_matters": "মনে রাখার তথ্য: xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)।",
+      "exam_facts": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)। Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।",
+      "key_people": "",
+      "figures": "১৬; ২০,০০০; ৭; ৭.৩",
+      "one_liner": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)।",
+      "key_facts": [
+        {
+          "label": "xAI and Grok logos are seen in this illustration taken",
+          "value": "১৬",
+          "original": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)।"
+        },
+        {
+          "label": "Virginia's lawsuit cites data from a study by the Centre for Countering…",
+          "value": "২০,০০০",
+          "original": "Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।"
+        },
+        {
+          "label": "Grok unveils AI ‘Odyssey’ in minute slice",
+          "value": "৭",
+          "original": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)। Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।"
+        },
+        {
+          "label": "Wars threaten food aid for mn more: UN",
+          "value": "৭.৩",
+          "original": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)। Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।"
+        }
+      ],
+      "what_happened": [
+        "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)।",
+        "Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] বিজ্ঞান ও প্রযুক্তির অগ্রগতি সাধারণ বিজ্ঞান অংশের প্রশ্নের উৎস।"
+        },
+        {
+          "q": "xAI and Grok logos are seen in this illustration taken কী (১৬ ফেব্রুয়ারি ২০২৫ অনুযায়ী)?",
+          "a": "xAI and Grok logos are seen in this illustration taken, ফেব্রুয়ারি ১৬, ২০২৫."
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "xAI Grok logos seen illustration taken (______ ফেব্রুয়ারি ২০২৫)।",
+          "answer": "১৬"
+        },
+        {
+          "cloze": "Virginia's lawsuit cites data study Centre Countering Digital Hate: ______।",
+          "answer": "২০,০০০"
+        }
+      ],
+      "keywords": [
+        "virginia",
+        "oregon",
+        "musk's",
+        "spacex",
+        "grok"
+      ],
+      "detail": "xAI Grok logos seen illustration taken (১৬ ফেব্রুয়ারি ২০২৫)। Virginia's lawsuit cites data study Centre Countering Digital Hate: ২০,০০০।"
+    },
+    "CA13": {
+      "headline": "Bangladesh, UK discuss climate investment, Rohingya repatriation",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2026/11/23/bangladesh-uk.png",
+      "summary": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)। Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)।",
+      "exam_facts": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)। Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "২৩; ৪০০ million (২৩ নভেম্বর ২০২৬)",
+      "one_liner": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "British High Commissioner to Bangladesh Sarah Cooke met State Minister for Foreign…",
+          "value": "২৩",
+          "original": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Cooke informed Shama Obaed about the UK's inaugural contribution of to a…",
+          "value": "৪০০ million",
+          "original": "Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Bangladesh, UK discuss climate investment, Rohingya repatriation",
+          "value": "২৩ নভেম্বর ২০২৬",
+          "original": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)। Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Bangladesh and the United Kingdom have discussed expanding cooperation on climate investment…",
+          "value": "২৩ নভেম্বর ২০২৬",
+          "original": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)। Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)।",
+        "Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] প্রতিবেশী দেশ ও বৈশ্বিক সম্পর্কের খবর আন্তর্জাতিক বিষয়াবলি অংশের জন্য গুরুত্বপূর্ণ।"
+        },
+        {
+          "q": "British High Commissioner to Bangladesh Sarah Cooke met State Minister for Foreign Affairs Shama কী (২৩ নভেম্বর ২০২৬ অনুযায়ী)?",
+          "a": "British High Commissioner to Bangladesh Sarah Cooke met State Minister for Foreign Affairs Shama Obaed Islam at the Ministry of Foreign Affairs today (২৩ নভেম্বর), according to a press release from the ministry."
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (______ নভেম্বর ২০২৬)।",
+          "answer": "২৩"
+        },
+        {
+          "cloze": "Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ______ মিলিয়ন (২৩ নভেম্বর ২০২৬)।",
+          "answer": "৪০০"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "discuss",
+        "climate",
+        "investment",
+        "rohingya"
+      ],
+      "detail": "British High Commissioner বাংলাদেশ Sarah Cooke met State মন্ত্রী বিদেশি Affairs Shama (২৩ নভেম্বর ২০২৬)। Cooke informed Shama Obaed about UK's inaugural contribution new mechanism: ৪০০ মিলিয়ন (২৩ নভেম্বর ২০২৬)।"
+    },
+    "CA14": {
+      "headline": "COP flop triggers backlash in Australia; Pacific nations express despair",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/23/cop31.png",
+      "summary": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)। finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।",
+      "why_it_matters": "মনে রাখার তথ্য: Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)।",
+      "exam_facts": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)। finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।",
+      "key_people": "",
+      "figures": "২ (১৯ নভেম্বর ২০২৬); ২৩; ৩১; ১৫০ million (২৩ নভেম্বর ২০২৬); ১৯০ (২৩ নভেম্বর ২০২৬)",
+      "one_liner": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)।",
+      "key_facts": [
+        {
+          "label": "Turkish Minister of Environment and President of the UN Climate Change Conference…",
+          "value": "২",
+          "original": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "finger pointing to assign blame for the collapse of UN climate talks…",
+          "value": "২৩",
+          "original": "finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "COP৩১ talks began on but the lack of a final agreement extended…",
+          "value": "৩১",
+          "original": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)। finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।"
+        },
+        {
+          "label": "Inside the Australian parliament, other opposition members asked Prime Minister Anthony Albanese…",
+          "value": "১৫০ million",
+          "original": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)। finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।"
+        }
+      ],
+      "what_happened": [
+        "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)।",
+        "finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।"
+      ],
+      "exam_qa": [
+        {
+          "q": "এই খবরটি কেন গুরুত্বপূর্ণ?",
+          "a": "[পটভূমি] আন্তর্জাতিক সংস্থার সিদ্ধান্ত বাংলাদেশের অর্থনীতি ও কূটনীতির সঙ্গে যুক্ত বলে পরীক্ষায় আসে।"
+        },
+        {
+          "q": "Turkish Minister of Environment and President of the UN Climate Change Conference (COP৩১) Murat Kurum, Australian Minister for Climate Change and Energy and President of COP৩১ Negotiations Chris Bowen and Executive secretary of the United Nations Framework Convention on Climate Change (UNFCCC) Simon Stiell attend a press conference about the ______nd draft of the cover decision text of the UN Climate Change Conference (COP৩১) in Antalya, Turkey, ১৯ নভেম্বর, ২০২৬. — Which number goes in the blank?",
+          "a": "২"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP______) Murat: ২ (১৯ নভেম্বর ২০২৬)।",
+          "answer": "৩১"
+        },
+        {
+          "cloze": "finger pointing assign blame collapse UN climate talks Turkey (______ নভেম্বর ২০২৬)।",
+          "answer": "২৩"
+        }
+      ],
+      "keywords": [
+        "flop",
+        "triggers",
+        "backlash",
+        "australia",
+        "pacific"
+      ],
+      "detail": "Turkish মন্ত্রী Environment রাষ্ট্রপতি UN জলবায়ু পরিবর্তন Conference (COP৩১) Murat: ২ (১৯ নভেম্বর ২০২৬)। finger pointing assign blame collapse UN climate talks Turkey (২৩ নভেম্বর ২০২৬)।"
+    },
+    "CA15": {
+      "headline": "End open burning of waste",
+      "image_url": "",
+      "summary": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ...",
+      "why_it_matters": "মতামত: We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ...",
+      "exam_facts": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ...",
+      "key_people": "",
+      "figures": "প্রকাশিত ২২ নভেম্বর ২০২৬.",
+      "one_liner": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The…",
+      "key_facts": [
+        {
+          "label": "মতামত",
+          "value": "The Daily Star",
+          "original": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ..."
+        }
+      ],
+      "what_happened": [
+        "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ..."
+      ],
+      "exam_qa": [
+        {
+          "q": "এই সম্পাদকীয়ের মূল বক্তব্য কী?",
+          "a": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ..."
+        },
+        {
+          "q": "কোন প্রকাশনা এই সম্পাদকীয়টি প্রকাশ করেছে?",
+          "a": "The Daily Star"
+        }
+      ],
+      "recall_cards": [],
+      "keywords": [
+        "open",
+        "burning",
+        "waste"
+      ],
+      "detail": "We are alarmed to learn that the open burning of waste মে be exposing Dhaka residents to cancer-causing metals. The risk is particularly concerning for children’s health. A recent study published in ..."
+    }
+  },
+  "mcqs": {
+    "1": {
+      "question": "‘outbreak’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "জোট",
+        "B": "ত্রাণ",
+        "C": "মহামারী",
+        "D": "প্রাদুর্ভাব"
+      },
+      "explanation": "‘outbreak’ মানে প্রাদুর্ভাব।"
+    },
+    "2": {
+      "question": "‘deteriorate’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "নিশ্চিত করা; আশ্বস্ত করা",
+        "B": "ভর্তুকি",
+        "C": "অবনতি হওয়া",
+        "D": "সংশোধনী"
+      },
+      "explanation": "‘deteriorate’ মানে অবনতি হওয়া।"
+    },
+    "3": {
+      "question": "‘amendment’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "জোট",
+        "B": "সংশোধনী",
+        "C": "ত্রাণ",
+        "D": "মহামারী"
+      },
+      "explanation": "‘amendment’ মানে সংশোধনী।"
+    },
+    "4": {
+      "question": "‘bolster’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "শক্তিশালী করা",
+        "B": "অত্যন্ত গুরুত্বপূর্ণ",
+        "C": "জোর দিয়ে বলা",
+        "D": "মৃত্যুহার"
+      },
+      "explanation": "‘bolster’ মানে শক্তিশালী করা।"
+    },
+    "5": {
+      "question": "‘harvest’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "নিন্দা করা",
+        "B": "ফসল তোলা; ফসল",
+        "C": "ভর্তি; নথিভুক্তি",
+        "D": "সমাজ"
+      },
+      "explanation": "‘harvest’ মানে ফসল তোলা; ফসল।"
+    },
+    "6": {
+      "question": "‘insist’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "জোট",
+        "B": "ত্রাণ",
+        "C": "জোর দিয়ে বলা",
+        "D": "মহামারী"
+      },
+      "explanation": "‘insist’ মানে জোর দিয়ে বলা।"
+    },
+    "7": {
+      "question": "‘profit’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "কর",
+        "B": "মুনাফা",
+        "C": "জোট",
+        "D": "ত্রাণ"
+      },
+      "explanation": "‘profit’ মানে মুনাফা।"
+    },
+    "8": {
+      "question": "‘refuse’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "ঢেউ; হঠাৎ বৃদ্ধি",
+        "B": "জোট",
+        "C": "অস্বীকার করা",
+        "D": "ত্রাণ"
+      },
+      "explanation": "‘refuse’ মানে অস্বীকার করা।"
+    },
+    "9": {
+      "question": "‘relief’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "জোট",
+        "B": "ত্রাণ",
+        "C": "মহামারী",
+        "D": "নিশ্চিত করা; আশ্বস্ত করা"
+      },
+      "explanation": "‘relief’ মানে ত্রাণ।"
+    },
+    "10": {
+      "question": "‘surge’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "জোট",
+        "B": "ত্রাণ",
+        "C": "মহামারী",
+        "D": "ঢেউ; হঠাৎ বৃদ্ধি"
+      },
+      "explanation": "‘surge’ মানে ঢেউ; হঠাৎ বৃদ্ধি।"
+    },
+    "11": {
+      "question": "‘climate deal’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "বিদ্যুৎকেন্দ্র",
+        "B": "অর্থনৈতিক সহযোগিতা",
+        "C": "জাতীয় গ্রিড",
+        "D": "জলবায়ু চুক্তি"
+      },
+      "explanation": "‘climate deal’ বলতে জলবায়ু চুক্তি বোঝায়।"
+    },
+    "12": {
+      "question": "‘directorate general’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "মহাপরিদপ্তর",
+        "B": "গ্রিড সংযোগ",
+        "C": "মধ্যপ্রাচ্য",
+        "D": "নির্মূল অভিযান"
+      },
+      "explanation": "‘directorate general’ বলতে মহাপরিদপ্তর বোঝায়।"
+    },
+    "13": {
+      "question": "Prime Minister Tarique Rahman today (২২ নভেম্বর) said his government was working to establish Bangladesh as a manufacturing hub and an export gateway through a new SME policy, targeting an increase in the sector's contribution to GDP to ______% by ২০৩১. — Which number goes in the blank?",
+      "options": {
+        "A": "২০ %",
+        "B": "৩৫ %",
+        "C": "৪০ %",
+        "D": "৬০ %"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "14": {
+      "question": "On ১৪ জানুয়ারি ২০২৫, Pakistan's TCP and Bangladesh's Directorate General of Food signed a government-to-government MoU allowing Pakistan to export up to ______ tonnes of rice annually to Bangladesh. — Which number goes in the blank?",
+      "options": {
+        "A": "১৯০,০০০ tonnes",
+        "B": "২১০,০০০ tonnes",
+        "C": "২০০,০০০ tonnes",
+        "D": "২২০,০০০ tonnes"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "15": {
+      "question": "সিসিটির নতুন অপারেটর এভারেস্ট পোর্ট সার্ভিসেস লক্ষ্মীপুর-______ (রামগঞ্জ) আসনের বিএনপির সংসদ সদস্য শাহাদাত হোসেন সেলিমের পরিবারের মালিকানাধীন প্রতিষ্ঠান।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+      "options": {
+        "A": "২",
+        "B": "১",
+        "C": "৩",
+        "D": "৪"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "16": {
+      "question": "১৯৯৩ সালের ৫ এপ্রিল তিন বন্ধু ______ হাজার ডলার পুঁজি নিয়ে প্রতিষ্ঠানটি শুরু করেন।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+      "options": {
+        "A": "৩০ হাজার",
+        "B": "৫০ হাজার",
+        "C": "৬০ হাজার",
+        "D": "৪০ হাজার"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "17": {
+      "question": "In Khulna, rainfall affected ______ hectares of farmland between নভেম্বর ১৮ and ২১, according to the DAE. — Which number goes in the blank?",
+      "options": {
+        "A": "৪৭৮.৪৪",
+        "B": "৫৮৪.৭৬",
+        "C": "৬৬৪.৫০",
+        "D": "৫৩১.৬০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "18": {
+      "question": "According to the latest data from Bangladesh Bank (BB), bank loans amounting to টাকা ______ trillion were classified as non-performing loans (NPLs), accounting for ৩৩.৮০ per cent of total outstanding loans of টাকা ১৮.৫৬ trillion. — Which number goes in the blank?",
+      "options": {
+        "A": "৫.৬৪ trillion",
+        "B": "৬.৯০ trillion",
+        "C": "৬.২৭ trillion",
+        "D": "৭.৮৪ trillion"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "19": {
+      "question": "Mobarak Hossain Mazumder said that BIWTA had identified ______ plastic recycling factories located within two kilometres of both banks of the Buriganga River in Lalbagh area of the capital, which are also responsible for river pollution. — Which number goes in the blank?",
+      "options": {
+        "A": "২১০",
+        "B": "২৩০",
+        "C": "২২০",
+        "D": "২৪০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "20": {
+      "question": "Bangladesh exported goods worth ______ billion euros to the EU in ২০২৫, making the European market crucial to its macroeconomic stability. — Which number goes in the blank?",
+      "options": {
+        "A": "২১.০ billion",
+        "B": "২৫.৬ billion",
+        "C": "২৯.১ billion",
+        "D": "২৩.৩ billion"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "21": {
+      "question": "The decision was made at a meeting of the bank's board of directors on Sunday, according to a corporate disclosure issued to investors on the stock exchanges today (______ নভেম্বর). — Which number goes in the blank?",
+      "options": {
+        "A": "২৩",
+        "B": "১০",
+        "C": "৩০",
+        "D": "৪০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "22": {
+      "question": "কালীগঞ্জ উপজেলার বাগমারা বাজার ছাড়িয়ে ______ গজ কালীগঞ্জের দিকে গেলে দেখতে পান, রাস্তার ওপর গাছ ফেলে রাখা হয়েছে।— শূন্যস্থানে কোন সংখ্যাটি বসবে?",
+      "options": {
+        "A": "৩০০",
+        "B": "২৯০",
+        "C": "৩১০",
+        "D": "৩২০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "23": {
+      "question": "Virginia's lawsuit cites data from a study by the Centre for Countering Digital Hate, which estimated that between ডিসেম্বর ২০২৫ and জানুয়ারি ২০২৬, Grok generated and posted on X millions of sexualized images, including more than ______ depicting children. — Which number goes in the blank?",
+      "options": {
+        "A": "২০,০০০",
+        "B": "১৯,০০০",
+        "C": "২১,০০০",
+        "D": "২২,০০০"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "24": {
+      "question": "Cooke informed Shama Obaed about the UK's inaugural contribution of £______ million to a new mechanism under the Climate Investment Funds (CIF), aimed at boosting private investment in clean energy. — Which number goes in the blank?",
+      "options": {
+        "A": "৩৯০ million",
+        "B": "৪১০ million",
+        "C": "৪২০ million",
+        "D": "৪০০ million"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    },
+    "25": {
+      "question": "Turkish Minister of Environment and President of the UN Climate Change Conference (COP৩১) Murat Kurum, Australian Minister for Climate Change and Energy and President of COP৩১ Negotiations Chris Bowen and Executive secretary of the United Nations Framework Convention on Climate Change (UNFCCC) Simon Stiell attend a press conference about the ______nd draft of the cover decision text of the UN Climate Change Conference (COP৩১) in Antalya, Turkey, ১৯ নভেম্বর, ২০২৬. — Which number goes in the blank?",
+      "options": {
+        "A": "২",
+        "B": "৩",
+        "C": "৪",
+        "D": "১"
+      },
+      "explanation": "সঠিক উত্তর — উৎসের উদ্ধৃতিতে এই তথ্যই আছে।"
+    }
+  }
+}
