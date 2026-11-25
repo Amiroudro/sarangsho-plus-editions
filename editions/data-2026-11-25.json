@@ -1,0 +1,2150 @@
+{
+  "edition_date": "2026-11-25",
+  "edition_day": "Wednesday",
+  "coverage": "24 Nov 2026, 7:47 AM to 2026-11-25, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-24",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-24",
+      "exam_facts": "The adviser says that under the existing law, after serving 12 consecutive years a director can return to the same bank's board after a three-year break. The draft proposes that, instead of allowing one director each from two entities affiliated with or controlled by the same family, only one director be appointed to represent one such entity. The adviser says Bangladesh Bank has already issued a circular on identifying the ultimate beneficial ownership (UBO) of banks, and another circular on transactions between banks and entities or individuals linked to their directors. The interview was published in Prothom Alo English on 24 November 2026.",
+      "exam_relevance": "Bank Company Act, bank governance, family control of banks, ultimate beneficial ownership, related-party lending -- core BCS/Bank banking topics.",
+      "figures": "Family directors on a bank board 3 to 2; maximum consecutive tenure 12 years to 6; 3-year break before a director can return; Bank Company Act amended 2013, 2018 and 2023",
+      "headline": "We are reforming the banking sector to break oligarchic control",
+      "id": "CA01",
+      "key_people": "Rashed Al Mahmud Titumir, Prime Minister's Adviser on Finance and Planning",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "We are reforming the banking sector to break oligarchic control",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/opinion/interview/gu16lf21kq"
+        }
+      ],
+      "summary": "The adviser argues the draft banking-law amendments would cut a single family's directors on a bank board from 3 to 2 and halve a director's maximum consecutive tenure from 12 years to 6. He says the 2013, 2018 and 2023 amendments let owners tighten their grip and family control undermines professional decisions. He adds that boards must also be freed from proxy shareholders, related-party lending and weak supervision to break oligarchic control.",
+      "why_it_matters": "The 3-to-2 family-director cut, the 12-to-6-year tenure cut and the UBO rule are the exact numbers for BCS/Bank questions on bank governance, and the 2013, 2018 and 2023 amendments under the ousted Awami League government are the background for the next story on how bank boards were captured.",
+      "one_liner": "The adviser argues the draft banking-law amendments would cut a single family's directors on a bank board from 3 to…",
+      "key_facts": [
+        {
+          "label": "Family directors on a bank board…",
+          "value": "3",
+          "original": "Family directors on a bank board 3 to 2"
+        },
+        {
+          "label": "maximum consecutive tenure years to 6",
+          "value": "12",
+          "original": "maximum consecutive tenure 12 years to 6"
+        },
+        {
+          "label": "year break before a director can…",
+          "value": "3",
+          "original": "3-year break before a director can return"
+        },
+        {
+          "label": "Bank Company Act amended 2018 and…",
+          "value": "2013,",
+          "original": "Bank Company Act amended 2013, 2018 and 2023"
+        }
+      ],
+      "what_happened": [
+        "He says the 2013, 2018 and 2023 amendments let owners tighten their grip and family control undermines professional decisions.",
+        "He adds that boards must also be freed from proxy shareholders, related-party lending and weak supervision to break oligarchic control."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many directors from a single family would the draft amendments allow on a bank board?",
+          "a": "2 (down from 3)"
+        },
+        {
+          "q": "How long could a director serve consecutively under the draft amendments?",
+          "a": "6 years (down from 12)"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The adviser argues the draft banking-law amendments would cut a single family's directors on a bank board from ______ to 2 and halve a director's maximum consecutive tenure from 12 years to 6.",
+          "answer": "3"
+        },
+        {
+          "cloze": "He says the ______ 2018 and 2023 amendments let owners tighten their grip and family control undermines professional decisions.",
+          "answer": "2013,"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "reforming",
+        "banking",
+        "sector",
+        "break",
+        "oligarchic",
+        "control"
+      ],
+      "detail": "The adviser argues the draft banking-law amendments would cut a single family's directors on a bank board from 3 to 2 and halve a director's maximum consecutive tenure from 12 years to 6. He says the 2013, 2018 and 2023 amendments let owners tighten their grip and family control undermines professional decisions. He adds that boards must also be freed from proxy shareholders, related-party lending and weak supervision to break oligarchic control."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-24",
+      "exam_facts": "The notice said exporters of fabric-made toys and tents must follow the existing circulars governing cash assistance for these products. All other applicable instructions, including the conditions for providing export incentives or cash assistance under relevant FE circulars and circular letters, will remain unchanged. Bangladesh Bank has instructed banks to inform all concerned parties about the clarification. The rates themselves are not stated as numbers in the article, only as serial numbers 1, 2 and 5 of the table in Appendix A.",
+      "exam_relevance": "Export cash assistance, foreign exchange circulars, specialised economic zones -- core BCS/Bank economy topics.",
+      "figures": "Serial numbers 1, 2 and 5 of Appendix A, FEPCD-1 Circular No 17 dated 5 July 2026; FE Circular No 34 dated 10 November 2021",
+      "headline": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+      "id": "CA02",
+      "key_people": "Bangladesh Bank, Foreign Exchange Policy Department",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856"
+        }
+      ],
+      "summary": "Bangladesh Bank has clarified that exporters of fabric-made toys, including infant soft toys, and tents will get cash assistance at the rates in serial numbers 1, 2 and 5 of Appendix A of FEPCD-1 Circular No 17, dated 5 July 2026. The Foreign Exchange Policy Department issued the clarification on 24 November, with all other conditions unchanged. Banks must also follow FE Circular No 34 of 10 November 2021 when paying companies in specialised economic zones.",
+      "why_it_matters": "The 5 July 2026 circular and its serial numbers 1, 2 and 5 are the exact references for BCS/Bank questions on export cash assistance, and the 10 November 2021 rule for firms in specialised economic zones is the background for the next story on export incentives.",
+      "one_liner": "Bangladesh Bank has clarified that exporters of fabric-made toys, including infant soft toys, and tents will get cash assistance at…",
+      "key_facts": [
+        {
+          "label": "Serial numbers 2 and 5 of…",
+          "value": "1,",
+          "original": "Serial numbers 1, 2 and 5 of Appendix A, FEPCD-1 Circular No 17 dated 5 July 2026"
+        },
+        {
+          "label": "FE Circular No dated 10 November…",
+          "value": "34",
+          "original": "FE Circular No 34 dated 10 November 2021"
+        },
+        {
+          "label": "The notice said exporters of fabric-made…",
+          "value": "1,",
+          "original": "The notice said exporters of fabric-made toys and tents must follow the existing circulars governing cash assistance for these products. All other applicable instructions, including the conditions for providing export incentives or cash assistance under relevant FE circulars and circular letters, will remain unchanged. Bangladesh Bank has instructed banks to inform all concerned parties about the clarification. The rates themselves are not stated as numbers in the article, only as serial numbers 1, 2 and 5 of the table in Appendix A"
+        }
+      ],
+      "what_happened": [
+        "The Foreign Exchange Policy Department issued the clarification on 24 November, with all other conditions unchanged.",
+        "Banks must also follow FE Circular No 34 of 10 November 2021 when paying companies in specialised economic zones."
+      ],
+      "exam_qa": [
+        {
+          "q": "Under which circular were the cash assistance rates clarified?",
+          "a": "FEPCD-1 Circular No 17 (5 July 2026)"
+        },
+        {
+          "q": "Which serial numbers of Appendix A set the rates?",
+          "a": "1, 2 and 5"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has clarified that exporters of fabric-made toys, including infant soft toys, and tents will get cash assistance at the rates in serial numbers 1, 2 and 5 of Appendix A of FEPCD-1 Circular No 17, dated ______.",
+          "answer": "5 July 2026"
+        },
+        {
+          "cloze": "The Foreign Exchange Policy Department issued the clarification on ______, with all other conditions unchanged.",
+          "answer": "24 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "clarifies",
+        "cash",
+        "assistance",
+        "fabric",
+        "tent",
+        "exports"
+      ],
+      "detail": "Bangladesh Bank has clarified that exporters of fabric-made toys, including infant soft toys, and tents will get cash assistance at the rates in serial numbers 1, 2 and 5 of Appendix A of FEPCD-1 Circular No 17, dated 5 July 2026. The Foreign Exchange Policy Department issued the clarification on 24 November, with all other conditions unchanged. Banks must also follow FE Circular No 34 of 10 November 2021 when paying companies in specialised economic zones."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-24",
+      "exam_facts": "The central bank has taken administrative measures to improve governance at struggling banks, including restructuring boards of directors, appointing independent and qualified directors, and replacing managing directors or chief executives where necessary. Bank-specific recovery and restructuring plans include recapitalisation, financial and institutional restructuring, stronger corporate governance, and measures to manage legacy non-performing loans and high-risk assets. Broader reforms cover deposit protection, recovering defaulted loans, improving credit disbursement and risk management, and policy and structural changes. The central bank said recent changes in financial indicators, including non-performing loans, reflect accumulated weaknesses rather than developments of only the past two years.",
+      "exam_relevance": "Banking reform, asset quality review, non-performing loans, governance, deposit protection -- core BCS/Bank banking topics.",
+      "figures": "4-year programme; 4-phase approach; emergency liquidity support and guarantees to banks facing temporary crises",
+      "headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "id": "CA03",
+      "key_people": "Bangladesh Bank",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+          "publication": "bdnews24.com",
+          "url": "https://bdnews24.com/business/cfy6siz3oi"
+        }
+      ],
+      "summary": "Bangladesh Bank has set out a 4-year, 4-phase reform roadmap to restore stability, good governance and public trust in banks, saying the programme will strengthen banks' financial foundations and prevent a repeat of the current crisis. An asset quality review, nearing completion, has exposed longstanding irregularities and poor loan management behind rising non-performing loans. The central bank has given emergency liquidity support and guarantees to banks facing temporary crises, and will phase that support out as conditions normalise.",
+      "why_it_matters": "The four-year, four-phase roadmap and the near-complete asset quality review are the exact facts for BCS/Bank questions on banking reform, and the emergency liquidity support and guarantees to struggling banks are the background for the next story on bank governance and resolution.",
+      "one_liner": "Bangladesh Bank has set out a 4-year, 4-phase reform roadmap to restore stability, good governance and public trust in banks,…",
+      "key_facts": [
+        {
+          "label": "year programme",
+          "value": "4",
+          "original": "4-year programme"
+        },
+        {
+          "label": "phase approach",
+          "value": "4",
+          "original": "4-phase approach"
+        }
+      ],
+      "what_happened": [
+        "An asset quality review, nearing completion, has exposed longstanding irregularities and poor loan management behind rising non-performing loans.",
+        "The central bank has given emergency liquidity support and guarantees to banks facing temporary crises, and will phase that support out as conditions normalise."
+      ],
+      "exam_qa": [
+        {
+          "q": "How long is Bangladesh Bank's reform programme?",
+          "a": "4 years"
+        },
+        {
+          "q": "How many phases does the roadmap have?",
+          "a": "4 phases"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has set out a ______-year, 4-phase reform roadmap to restore stability, good governance and public trust in banks, saying the programme will strengthen banks' financial foundations and prevent a repeat of the current crisis.",
+          "answer": "4"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "rolls",
+        "roadmap",
+        "restore",
+        "public",
+        "confidence",
+        "banks"
+      ],
+      "detail": "Bangladesh Bank has set out a 4-year, 4-phase reform roadmap to restore stability, good governance and public trust in banks, saying the programme will strengthen banks' financial foundations and prevent a repeat of the current crisis. An asset quality review, nearing completion, has exposed longstanding irregularities and poor loan management behind rising non-performing loans. The central bank has given emergency liquidity support and guarantees to banks facing temporary crises, and will phase that support out as conditions normalise."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Bangladesh",
+      "event_date": "2026-11-24",
+      "exam_facts": "Some 84.2 per cent of the drivers surveyed had moved to the capital because of limited job opportunities and limited scope of income in their localities. Some 42.2 per cent had faced a major livelihood crisis in the previous year, and of these, 87.9 per cent said their income had fallen by more than half or their work had come to a complete halt. If their income stopped, nearly 62.9 per cent of the drivers would be unable to support their families for more than a week. Data for the study were collected in June and July. The findings were presented by Mehnaz Rabbani, BIGD's director of operations, at a policy dialogue titled 'Battery-powered rickshaws: Livelihoods and an inclusive, sustainable transition' at the CIRDAP auditorium in Dhaka on 24 November 2026.",
+      "exam_relevance": "Informal economy, urban livelihoods, migration to Dhaka, road safety -- core BCS/Bank Bangladesh-affairs topics.",
+      "figures": "Tk 29,000 average monthly earnings; Tk 10,323 average monthly rent; 38.6% of earnings on rent; 450 drivers surveyed in Dhaka and Barishal; 78.2% rent, 18% own; 96% unlicensed; 26.7% had at least one road accident in May",
+      "headline": "Battery-rickshaw drivers earn Tk 29,000 a month, pay Tk 10,323 in rent",
+      "id": "CA04",
+      "key_people": "Mehnaz Rabbani, director of operations, BRAC Institute of Governance and Development (BIGD)",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Battery-rickshaw drivers earn Tk 29,000 a month, pay Tk 10,323 in rent",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/8za4d69h1q"
+        }
+      ],
+      "summary": "A battery-powered rickshaw driver in Dhaka earns an average of Tk 29,000 a month and pays Tk 10,323 of it, 38.6 per cent, in rent to the rickshaw owner, a joint BRAC and BIGD study found. The study surveyed 450 drivers in Dhaka and Barishal: 78.2 per cent rent their rickshaws, 96 per cent have no licence, and 26.7 per cent had at least one road accident in May. It warns a sudden ban could cut drivers' incomes and strain their families, so livelihoods must shape any regulation.",
+      "why_it_matters": "The Tk 29,000 earnings, Tk 10,323 rent and 38.6 per cent share are the exact figures for BCS/Bank questions on the informal economy and urban livelihoods, and the 96 per cent unlicensed figure plus the warning against a sudden ban is the background for the next story on regulating battery rickshaws.",
+      "one_liner": "A battery-powered rickshaw driver in Dhaka earns an average of Tk 29,000 a month and pays Tk 10,323 of it,…",
+      "key_facts": [
+        {
+          "label": "average monthly earnings",
+          "value": "Tk 29,000",
+          "original": "Tk 29,000 average monthly earnings"
+        },
+        {
+          "label": "average monthly rent",
+          "value": "Tk 10,323",
+          "original": "Tk 10,323 average monthly rent"
+        },
+        {
+          "label": "% of earnings on rent",
+          "value": "38.6",
+          "original": "38.6% of earnings on rent"
+        },
+        {
+          "label": "drivers surveyed in Dhaka and Barishal",
+          "value": "450",
+          "original": "450 drivers surveyed in Dhaka and Barishal"
+        }
+      ],
+      "what_happened": [
+        "The study surveyed 450 drivers in Dhaka and Barishal: 78.2 per cent rent their rickshaws, 96 per cent have no licence,",
+        "and 26.7 per cent had at least one road accident in May.",
+        "It warns a sudden ban could cut drivers' incomes and strain their families, so livelihoods must shape any regulation."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much does a battery-rickshaw driver earn a month on average?",
+          "a": "Tk 29,000"
+        },
+        {
+          "q": "What share of the drivers surveyed had no licence?",
+          "a": "96%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A battery-powered rickshaw driver in Dhaka earns an average of Tk ______ a month and pays Tk 10,323 of it, 38.6 per cent, in rent to the rickshaw owner, a joint BRAC and BIGD study found.",
+          "answer": "29,000"
+        },
+        {
+          "cloze": "The study surveyed ______ drivers in Dhaka and Barishal: 78.2 per cent rent their rickshaws, 96 per cent have no licence, and 26.7 per cent had at least one road accident in May.",
+          "answer": "450"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "battery",
+        "rickshaw",
+        "drivers",
+        "earn",
+        "month",
+        "rent"
+      ],
+      "detail": "A battery-powered rickshaw driver in Dhaka earns an average of Tk 29,000 a month and pays Tk 10,323 of it, 38.6 per cent, in rent to the rickshaw owner, a joint BRAC and BIGD study found. The study surveyed 450 drivers in Dhaka and Barishal: 78.2 per cent rent their rickshaws, 96 per cent have no licence, and 26.7 per cent had at least one road accident in May. It warns a sudden ban could cut drivers' incomes and strain their families, so livelihoods must shape any regulation."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-24",
+      "exam_facts": "The partnership aims to make motorcycle purchases more convenient and accessible by bringing together financing and vehicle insurance, according to a press release. The agreement also provides for joint marketing initiatives, customer engagement programmes and promotional activities to raise awareness and improve access to financial and insurance services. Bank Asia Executive Vice-President and Head of Asset, Retail Banking Division, Md Zahed Chowdhury and Bangladesh General Insurance CEO and Managing Director Ahmed Saifuddin Chowdhury signed the MoU. No financial figures, loan amounts or insurance premiums are given in the source.",
+      "exam_relevance": "Bank-insurance partnerships, retail banking, two-wheeler loans -- BCS/Bank banking topics.",
+      "figures": "Two-wheeler (2-wheeler) loan facilities covered under the MoU; no financial figures given in the source",
+      "headline": "Bank Asia partners with Bangladesh General Insurance for two-wheeler coverage",
+      "id": "CA05",
+      "key_people": "Md Zahed Chowdhury, Bank Asia Executive Vice-President and Head of Asset, Retail Banking Division; Ahmed Saifuddin Chowdhury, Bangladesh General Insurance CEO and Managing Director",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Bank Asia partners with Bangladesh General Insurance for two-wheeler coverage",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/corporates/bank-asia-partners-bangladesh-general-insurance-two-wheeler-coverage-1612896"
+        }
+      ],
+      "summary": "Bank Asia PLC has signed a memorandum of understanding with Bangladesh General Insurance Company PLC to offer insurance coverage to customers using the bank's 2-wheeler loan facilities. The partnership, signed by Bank Asia's Md Zahed Chowdhury and BGIC's Ahmed Saifuddin Chowdhury at Bank Asia Tower in Karwan Bazar, Dhaka, bundles motorcycle financing with vehicle insurance. It also covers joint marketing, customer engagement and promotional activities to widen access to financial and insurance services.",
+      "why_it_matters": "The Bank Asia-BGIC tie-up is the exact example for BCS/Bank questions on bank-insurance partnerships and retail banking, and the bundling of a two-wheeler loan with insurance cover is the background for the next story on how banks widen access to financial services.",
+      "one_liner": "Bank Asia PLC has signed a memorandum of understanding with Bangladesh General Insurance Company PLC to offer insurance coverage to…",
+      "key_facts": [
+        {
+          "label": "Two-wheeler ( -wheeler) loan facilities covered…",
+          "value": "2",
+          "original": "Two-wheeler (2-wheeler) loan facilities covered under the MoU"
+        },
+        {
+          "label": "",
+          "value": "no financial figures given in the source",
+          "original": "no financial figures given in the source"
+        }
+      ],
+      "what_happened": [
+        "The partnership, signed by Bank Asia's Md Zahed Chowdhury and BGIC's Ahmed Saifuddin Chowdhury at Bank Asia Tower in Karwan Bazar, Dhaka, bundles motorcycle financing with vehicle insurance.",
+        "It also covers joint marketing, customer engagement and promotional activities to widen access to financial and insurance services."
+      ],
+      "exam_qa": [
+        {
+          "q": "Which two companies signed the memorandum of understanding?",
+          "a": "Bank Asia PLC and Bangladesh General Insurance Company PLC"
+        },
+        {
+          "q": "Whose vehicle insurance does the partnership cover?",
+          "a": "Customers using Bank Asia's two-wheeler loan facilities"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bank Asia PLC has signed a memorandum of understanding with Bangladesh General Insurance Company PLC to offer insurance coverage to customers using the bank's ______-wheeler loan facilities.",
+          "answer": "2"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bank",
+        "asia",
+        "partners",
+        "bangladesh",
+        "general",
+        "insurance",
+        "wheeler",
+        "coverage"
+      ],
+      "detail": "Bank Asia PLC has signed a memorandum of understanding with Bangladesh General Insurance Company PLC to offer insurance coverage to customers using the bank's 2-wheeler loan facilities. The partnership, signed by Bank Asia's Md Zahed Chowdhury and BGIC's Ahmed Saifuddin Chowdhury at Bank Asia Tower in Karwan Bazar, Dhaka, bundles motorcycle financing with vehicle insurance. It also covers joint marketing, customer engagement and promotional activities to widen access to financial and insurance services."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Technology",
+      "event_date": "2026-11-24",
+      "exam_facts": "The column argues that NEIR is a digital policy intelligence tool, not just a compliance database, and that the architecture to build it is being assembled anyway, so the intelligence use is a design choice. It says the data gap matters because the country cannot tell connected SIMs from functional smartphones capable of running digital financial services or online learning platforms, and the Bangladesh Telecommunication Regulatory Commission has no systematic, verified picture of the geographic spread of smartphone ownership.",
+      "exam_relevance": "NEIR, BTRC and digital policymaking -- core BCS/Bank ICT and governance topics.",
+      "figures": "Computer usage rate 11.8% (Bangladesh Bureau of Statistics); NEIR would cover every active mobile device in the country",
+      "headline": "NEIR could be a goldmine for Bangladesh's digital policymaking",
+      "id": "CA06",
+      "key_people": "",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "NEIR could be a goldmine for Bangladesh's digital policymaking",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/thoughts/neir-could-be-goldmine-bangladeshs-digital-policymaking-1613106"
+        }
+      ],
+      "summary": "Only 11.8% of Bangladeshis use a computer, the column argues, because policymakers lack verified data on the handset ecosystem -- and the National Equipment Identity Register (NEIR) could fill that gap. The analysis says NEIR, a national register of every active mobile device, would generate real-time, granular data on who owns a smartphone, what kind, at what price and where. The Bangladesh Telecommunication Regulatory Commission currently tracks SIM connections and spectrum use, the column notes, but not device tiers across income groups.",
+      "why_it_matters": "The 11.8% computer-use figure and NEIR's proposed role as a real-time device census are the exact facts for BCS/Bank questions on Bangladesh's digital divide and ICT governance, and the column's argument -- that a register built for compliance could double as policy intelligence -- is the background for the next story on state data systems.",
+      "one_liner": "Only 11.8% of Bangladeshis use a computer, the column argues, because policymakers lack verified data on the handset ecosystem --…",
+      "key_facts": [
+        {
+          "label": "Bangladesh Bureau of Statistics",
+          "value": "Computer usage rate 11.8%",
+          "original": "Computer usage rate 11.8% (Bangladesh Bureau of Statistics)"
+        }
+      ],
+      "what_happened": [
+        "The analysis says NEIR, a national register of every active mobile device, would generate real-time, granular data on who owns a smartphone,",
+        "what kind, at what price and where.",
+        "The Bangladesh Telecommunication Regulatory Commission currently tracks SIM connections and spectrum use, the column notes, but not device tiers across income groups."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Bangladesh's computer usage rate?",
+          "a": "11.8%"
+        },
+        {
+          "q": "What does NEIR stand for?",
+          "a": "National Equipment Identity Register"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Only ______% of Bangladeshis use a computer, the column argues, because policymakers lack verified data on the handset ecosystem -- and the National Equipment Identity Register (NEIR) could fill that gap.",
+          "answer": "11.8"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "neir",
+        "goldmine",
+        "bangladesh",
+        "digital",
+        "policymaking"
+      ],
+      "detail": "Only 11.8% of Bangladeshis use a computer, the column argues, because policymakers lack verified data on the handset ecosystem -- and the National Equipment Identity Register (NEIR) could fill that gap. The analysis says NEIR, a national register of every active mobile device, would generate real-time, granular data on who owns a smartphone, what kind, at what price and where. The Bangladesh Telecommunication Regulatory Commission currently tracks SIM connections and spectrum use, the column notes, but not device tiers across income groups."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-24",
+      "exam_facts": "The meeting at Bangladesh Bank headquarters reviewed the foreign exchange market and was led by Deputy Governors Md Kabir Ahmed and Md Sarwar Hossain, with commercial banks' treasury chiefs and representatives of Bangladesh Petroleum Corporation and other government agencies attending. Bankers proposed unified remittance exchange rates to curb competitive bidding, and a treasury head of a Shariah-based bank said high default loans and capital shortfalls had weakened several state-owned banks.",
+      "exam_relevance": "LCs, foreign exchange market, remittance and dollar-rate management -- core BCS/Bank banking and economy topics.",
+      "figures": "Monthly $1 billion dollar shortage; interbank dollar trading stalled; Bill of Collection selling rates pushed up on large government payment days",
+      "headline": "BB to collect LC payment schedules early as aggregators exploit due dates",
+      "id": "CA07",
+      "key_people": "Md Kabir Ahmed and Md Sarwar Hossain, Deputy Governors, Bangladesh Bank",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "BB to collect LC payment schedules early as aggregators exploit due dates",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/banking/bb-collect-lc-payment-schedules-early-aggregators-exploit-due-dates-1613166"
+        }
+      ],
+      "summary": "Bangladesh faces a monthly $1 billion dollar shortage that has stalled interbank dollar trading, and Bangladesh Bank will now collect government agencies' schedules for large import LC payments in advance to curb rate manipulation. The central bank found remittance aggregators exploiting demand on big government payment days to charge higher rates, pushing up banks' Bill of Collection selling rates. It also wants more private banks handling government import LCs, most of which are now managed by state-owned lenders.",
+      "why_it_matters": "The $1 billion monthly shortage and the LC-schedule fix are the exact facts for BCS/Bank questions on Bangladesh Bank's foreign-exchange management, and the aggregator manipulation on government payment days is the background for the next story on remittance channels and dollar pricing.",
+      "one_liner": "Bangladesh faces a monthly $1 billion dollar shortage that has stalled interbank dollar trading, and Bangladesh Bank will now collect…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "interbank dollar trading stalled",
+          "original": "interbank dollar trading stalled"
+        }
+      ],
+      "what_happened": [
+        "The central bank found remittance aggregators exploiting demand on big government payment days to charge higher rates, pushing up banks' Bill of Collection selling rates.",
+        "It also wants more private banks handling government import LCs, most of which are now managed by state-owned lenders."
+      ],
+      "exam_qa": [
+        {
+          "q": "How large is the monthly dollar shortage?",
+          "a": "$1 billion"
+        },
+        {
+          "q": "Whose LC payment schedules will Bangladesh Bank collect in advance?",
+          "a": "Government agencies' schedules for large import LC payments"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh faces a monthly $______ billion dollar shortage that has stalled interbank dollar trading, and Bangladesh Bank will now collect government agencies' schedules for large import LC payments in advance to curb rate manipulation.",
+          "answer": "1"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "collect",
+        "payment",
+        "schedules",
+        "early",
+        "aggregators",
+        "exploit",
+        "dates"
+      ],
+      "detail": "Bangladesh faces a monthly $1 billion dollar shortage that has stalled interbank dollar trading, and Bangladesh Bank will now collect government agencies' schedules for large import LC payments in advance to curb rate manipulation. The central bank found remittance aggregators exploiting demand on big government payment days to charge higher rates, pushing up banks' Bill of Collection selling rates. It also wants more private banks handling government import LCs, most of which are now managed by state-owned lenders."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Bangladesh",
+      "event_date": "2026-11-24",
+      "exam_facts": "The incidents cited at the briefing included crude bomb explosions, petrol bomb attacks, arson, vandalism, looting, attacks on police facilities and blockades of major highways. Humaiun Kobir said the activities of the Awami League and its affiliated organisations had been banned under the Anti-Terrorism Act and the party's registration suspended, and he sought international cooperation to bring its leaders back to Bangladesh. Yousuf Ramadan, the Palestinian ambassador and dean of the diplomatic corps, also spoke at the briefing, and law enforcement agencies had been instructed to take firm, professional and proportionate action.",
+      "exam_relevance": "Anti-Terrorism Act, party registration, diplomatic briefing and democratic transition -- core BCS/Bank Bangladesh affairs and constitution topics.",
+      "figures": "158 incidents of violence at 41 locations between 1 and 21 November; senior diplomats from more than 50 missions attended; briefing began at 9am and lasted around half an hour",
+      "headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "id": "CA09",
+      "key_people": "Humaiun Kobir, State Minister for Foreign Affairs",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/178tc173bb"
+        }
+      ],
+      "summary": "The government recorded 158 incidents of violence at 41 locations between 1 and 21 November, State Minister for Foreign Affairs Humaiun Kobir told foreign diplomats in Dhaka on 24 November, alleging the activities-banned Awami League was trying to undermine peace and stability. He said the party was provoking clashes with law enforcement to create a perception of political chaos, and alleged its leaders were involved in terrorism and money laundering abroad. Senior diplomats from more than 50 missions attended the half-hour briefing.",
+      "why_it_matters": "The 158 incidents in 21 days and the Anti-Terrorism Act ban are the exact facts for BCS/Bank questions on Bangladesh's current political situation and law-and-order measures, and the government's appeal to more than 50 missions is the background for the next story on the interim period's democratic transition.",
+      "one_liner": "The government recorded 158 incidents of violence at 41 locations between 1 and 21 November, State Minister for Foreign Affairs…",
+      "key_facts": [
+        {
+          "label": "briefing began at am and lasted…",
+          "value": "9",
+          "original": "briefing began at 9am and lasted around half an hour"
+        }
+      ],
+      "what_happened": [
+        "He said the party was provoking clashes with law enforcement to create a perception of political chaos,",
+        "and alleged its leaders were involved in terrorism and money laundering abroad.",
+        "Senior diplomats from more than 50 missions attended the half-hour briefing."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many incidents of violence were recorded between 1 and 21 November?",
+          "a": "158 incidents at 41 locations"
+        },
+        {
+          "q": "How many missions' diplomats attended the briefing?",
+          "a": "More than 50"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The government recorded 158 incidents of violence at 41 locations between 1 and ______, State Minister for Foreign Affairs Humaiun Kobir told foreign diplomats in Dhaka on 24 November, alleging the activities-banned Awami League was trying to undermine peace and stability.",
+          "answer": "21 November"
+        },
+        {
+          "cloze": "Senior diplomats from more than ______ missions attended the half-hour briefing.",
+          "answer": "50"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "awami",
+        "league",
+        "trying",
+        "undermine",
+        "peace",
+        "stability",
+        "state",
+        "minister",
+        "diplomats"
+      ],
+      "detail": "The government recorded 158 incidents of violence at 41 locations between 1 and 21 November, State Minister for Foreign Affairs Humaiun Kobir told foreign diplomats in Dhaka on 24 November, alleging the activities-banned Awami League was trying to undermine peace and stability. He said the party was provoking clashes with law enforcement to create a perception of political chaos, and alleged its leaders were involved in terrorism and money laundering abroad. Senior diplomats from more than 50 missions attended the half-hour briefing."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Bangladesh",
+      "event_date": "2026-11-24",
+      "exam_facts": "Yunus established Grameen Bank in the early 1980s to provide small loans to rural women to start businesses, and he and the bank jointly won the Nobel Peace Prize in 2006. Yunus assumed office following the mass uprising that ousted former prime minister Sheikh Hasina's Awami League government in August 2024, and his tenure lasted until February 2026, during which hundreds of Awami League leaders and activists were arrested. Hasina, living in exile in India and sentenced to death by a Dhaka court over a deadly crackdown on the uprising, has announced plans to return in December, and the bank's microcredit model has been replicated worldwide.",
+      "exam_relevance": "Grameen Bank, microcredit and the Nobel Peace Prize 2006 -- core BCS/Bank Bangladesh affairs and economy topics.",
+      "figures": "Nearly 100 Grameen Bank branches allegedly attacked with petrol bombs; more than 2,500 Grameen Bank branches in operation across Bangladesh",
+      "headline": "Bangladesh's Yunus alleges arson attacks on his microlending banks",
+      "id": "CA10",
+      "key_people": "Muhammad Yunus, former chief of Bangladesh's interim administration and founder of Grameen Bank",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Bangladesh's Yunus alleges arson attacks on his microlending banks",
+          "publication": "Yahoo",
+          "url": "https://www.yahoo.com/news/world/articles/bangladeshs-yunus-alleges-arson-attacks-154832491.html"
+        }
+      ],
+      "summary": "Muhammad Yunus has alleged that nearly 100 branches of Grameen Bank have been attacked with petrol bombs across Bangladesh, out of more than 2,500 branches nationwide. The former interim chief did not directly blame anyone, but cited local media reports suspecting activists of the Awami League, whose activities his administration banned in May 2025. He said his ancestral home in Chattogram was also targeted, and urged the government to protect the bank and bring the perpetrators to justice.",
+      "why_it_matters": "The alleged attacks on nearly 100 of Grameen Bank's 2,500-plus branches are the exact facts for BCS/Bank questions on microcredit and its founder's Nobel Peace Prize, and the allegation landing as Hasina announces a December return is the background for the next story on the current unrest.",
+      "one_liner": "Muhammad Yunus has alleged that nearly 100 branches of Grameen Bank have been attacked with petrol bombs across Bangladesh, out…",
+      "key_facts": [
+        {
+          "label": "Nearly Grameen Bank branches allegedly attacked…",
+          "value": "100",
+          "original": "Nearly 100 Grameen Bank branches allegedly attacked with petrol bombs"
+        },
+        {
+          "label": "more than Grameen Bank branches in…",
+          "value": "2,500",
+          "original": "more than 2,500 Grameen Bank branches in operation across Bangladesh"
+        },
+        {
+          "label": "Yunus established Grameen Bank in the…",
+          "value": "1980",
+          "original": "Yunus established Grameen Bank in the early 1980s to provide small loans to rural women to start businesses, and he and the bank jointly won the Nobel Peace Prize in 2006. Yunus assumed office following the mass uprising that ousted former prime minister Sheikh Hasina's Awami League government in August 2024, and his tenure lasted until February 2026, during which hundreds of Awami League leaders and activists were arrested. Hasina, living in exile in India and sentenced to death by a Dhaka court over a deadly crackdown on the uprising, has announced plans to return in December, and the bank's microcredit model has been replicated worldwide"
+        }
+      ],
+      "what_happened": [
+        "The former interim chief did not directly blame anyone, but cited local media reports suspecting activists of the Awami League, whose activities his administration banned in May 2025.",
+        "He said his ancestral home in Chattogram was also targeted, and urged the government to protect the bank and bring the perpetrators to justice."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many Grameen Bank branches were allegedly attacked with petrol bombs?",
+          "a": "Nearly 100"
+        },
+        {
+          "q": "When did Yunus's administration ban the Awami League's activities?",
+          "a": "May 2025"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Muhammad Yunus has alleged that nearly ______ branches of Grameen Bank have been attacked with petrol bombs across Bangladesh, out of more than 2,500 branches nationwide.",
+          "answer": "100"
+        },
+        {
+          "cloze": "The former interim chief did not directly blame anyone, but cited local media reports suspecting activists of the Awami League, whose activities his administration banned in ______25.",
+          "answer": "May 20"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "yunus",
+        "alleges",
+        "arson",
+        "attacks",
+        "microlending",
+        "banks"
+      ],
+      "detail": "Muhammad Yunus has alleged that nearly 100 branches of Grameen Bank have been attacked with petrol bombs across Bangladesh, out of more than 2,500 branches nationwide. The former interim chief did not directly blame anyone, but cited local media reports suspecting activists of the Awami League, whose activities his administration banned in May 2025. He said his ancestral home in Chattogram was also targeted, and urged the government to protect the bank and bring the perpetrators to justice."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Bangladesh",
+      "event_date": "2026-11-24",
+      "exam_facts": "Karnaphuli Paper Mills was established in 1953 by the then Pakistan Industrial Development Corporation on 501 acres of land, with 68 acres for the factory and 433 acres for residential facilities, and it once met nearly 70 percent of the government's paper demand. Production fell to 1,542.02 tonnes in 2022-23 before recovering to 2,510.52 tonnes in 2023-24, while the annual production target fell from 25,000 tonnes to 2,500 tonnes over the same period. Revival options discussed include foreign investment, Balancing, Modernization and Replacement (BMR), Public-Private Partnership (PPP) and Government-to-Government (G2G) arrangements, and if investment cannot be secured the projects will be implemented gradually with government funding.",
+      "exam_relevance": "State-owned enterprises, BCIC and industrial revival through PPP and BMR -- core BCS/Bank industry and economy topics.",
+      "figures": "Production around 20,000 tonnes a year 15 years ago, now about 3,000 tonnes, a decline of about 87%; annual losses around Tk 280-300 million; only 1 of 3 machines operating; proposed integrated facility capacity 100,000 tonnes a year",
+      "headline": "Govt moves to revive ailing Karnaphuli Paper Mills",
+      "id": "CA11",
+      "key_people": "Md Babul Miah, Chairman, Bangladesh Chemical Industries Corporation (BCIC)",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Govt moves to revive ailing Karnaphuli Paper Mills",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/business/local/oqjftm1pwo"
+        }
+      ],
+      "summary": "Karnaphuli Paper Mills, which produced around 20,000 tonnes of paper a year 15 years ago, now produces only about 3,000 tonnes -- a decline of about 87% -- and loses around Tk 280-300 million a year. The state-owned mill runs only one of its three machines. Bangladesh Chemical Industries Corporation has proposed an integrated pulp and paper mill plus six chemical plants at the site, with a feasibility study done and annual capacity of 100,000 tonnes; the Ministry of Industries has sent the proposal to the Planning Commission.",
+      "why_it_matters": "The 87% production collapse and the 100,000-tonne revival plan are the exact facts for BCS/Bank questions on Bangladesh's ailing state-owned industries, and the mill's 1953 founding and its former 70% share of government paper demand are the background for the next story on industrial heritage.",
+      "one_liner": "Karnaphuli Paper Mills, which produced around 20,000 tonnes of paper a year 15 years ago, now produces only about 3,000…",
+      "key_facts": [
+        {
+          "label": "Production around tonnes a year 15…",
+          "value": "20,000",
+          "original": "Production around 20,000 tonnes a year 15 years ago, now about 3,000 tonnes, a decline of about 87%"
+        },
+        {
+          "label": "annual losses around",
+          "value": "Tk 280-300 million",
+          "original": "annual losses around Tk 280-300 million"
+        },
+        {
+          "label": "only of 3 machines operating",
+          "value": "1",
+          "original": "only 1 of 3 machines operating"
+        },
+        {
+          "label": "proposed integrated facility capacity tonnes a…",
+          "value": "100,000",
+          "original": "proposed integrated facility capacity 100,000 tonnes a year"
+        }
+      ],
+      "what_happened": [
+        "The state-owned mill runs only one of its three machines.",
+        "Bangladesh Chemical Industries Corporation has proposed an integrated pulp and paper mill plus six chemical plants at the site,",
+        "with a feasibility study done and annual capacity of 100,000 tonnes; the Ministry of Industries has sent the proposal to the Planning Commission."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much paper does Karnaphuli Paper Mills produce a year now?",
+          "a": "About 3,000 tonnes"
+        },
+        {
+          "q": "When was Karnaphuli Paper Mills established?",
+          "a": "1953"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Karnaphuli Paper Mills, which produced around ______ tonnes of paper a year 15 years ago, now produces only about 3,000 tonnes -- a decline of about 87% -- and loses around Tk 280-300 million a year.",
+          "answer": "20,000"
+        },
+        {
+          "cloze": "Bangladesh Chemical Industries Corporation has proposed an integrated pulp and paper mill plus six chemical plants at the site, with a feasibility study done and annual capacity of ______ tonnes; the Ministry of Industries has sent the proposal to the Planning Commission.",
+          "answer": "100,000"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "govt",
+        "moves",
+        "revive",
+        "ailing",
+        "karnaphuli",
+        "paper",
+        "mills"
+      ],
+      "detail": "Karnaphuli Paper Mills, which produced around 20,000 tonnes of paper a year 15 years ago, now produces only about 3,000 tonnes -- a decline of about 87% -- and loses around Tk 280-300 million a year. The state-owned mill runs only one of its three machines. Bangladesh Chemical Industries Corporation has proposed an integrated pulp and paper mill plus six chemical plants at the site, with a feasibility study done and annual capacity of 100,000 tonnes; the Ministry of Industries has sent the proposal to the Planning Commission."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Technology",
+      "event_date": "2026-11-24",
+      "exam_facts": "State Minister Bobby Hajjaj said the goal should be not AI for the Global South, but AI by the Global South. Dr Nazrul Islam, secretary (East and West) at the Ministry of Foreign Affairs, described the launch as timely and said he hoped the publication would play a significant role in Bangladesh's AI journey. Masud Jamil Khan underscored the need for AI adaptation and regulation, and in particular the need for the Global South to become capable in AI, and emphasised overcoming linguistic barriers to establish Bangla as a language for AI.",
+      "exam_relevance": "Artificial intelligence, Global South and Bangla in AI -- core BCS/Bank ICT and international affairs topics.",
+      "figures": "First AI-focused quarterly bulletin in Bangladesh; inaugural issue released 24 November 2026; launch attended by the State Minister for Primary and Mass Education",
+      "headline": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
+      "id": "CA12",
+      "key_people": "Bobby Hajjaj, State Minister for Primary and Mass Education; Masud Jamil Khan, editor of the bulletin and president of the Eelaia Foundation",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladeshs-first-ai-bulletin-ai-global-south-launched-1612921"
+        }
+      ],
+      "summary": "'AI for the Global South: A Quarterly Bulletin', Bangladesh's first AI-focused quarterly bulletin, was launched in Dhaka on 24 November 2026 with its inaugural issue. State Minister for Primary and Mass Education Bobby Hajjaj attended as chief guest. The bulletin is a joint initiative of the Eelaia Foundation, the Centre for Alternatives and Argus Diplomatic Intelligence. Editor Masud Jamil Khan said it aims to become a milestone in AI education in cities such as Nairobi, Sao Paulo and Jakarta, and to make Bangla a language for AI.",
+      "why_it_matters": "Bangladesh's first AI bulletin and its 'AI by the Global South' framing are the exact facts for BCS/Bank questions on artificial intelligence and the Global South, and the push to make Bangla a language for AI is the background for the next story on language technology.",
+      "one_liner": "'AI for the Global South: A Quarterly Bulletin', Bangladesh's first AI-focused quarterly bulletin, was launched in Dhaka on 24 November…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "First AI-focused quarterly bulletin in Bangladesh",
+          "original": "First AI-focused quarterly bulletin in Bangladesh"
+        },
+        {
+          "label": "",
+          "value": "inaugural issue released 24 November 2026",
+          "original": "inaugural issue released 24 November 2026"
+        }
+      ],
+      "what_happened": [
+        "State Minister for Primary and Mass Education Bobby Hajjaj attended as chief guest.",
+        "The bulletin is a joint initiative of the Eelaia Foundation, the Centre for Alternatives and Argus Diplomatic Intelligence.",
+        "Editor Masud Jamil Khan said it aims to become a milestone in AI education in cities such as Nairobi,"
+      ],
+      "exam_qa": [
+        {
+          "q": "When was 'AI for the Global South' launched?",
+          "a": "24 November 2026"
+        },
+        {
+          "q": "Who attended the launch as chief guest?",
+          "a": "State Minister Bobby Hajjaj"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "'AI for the Global South: A Quarterly Bulletin', Bangladesh's first AI-focused quarterly bulletin, was launched in Dhaka on ______ with its inaugural issue.",
+          "answer": "24 November 2026"
+        }
+      ],
+      "keywords": [
+        "technology",
+        "bangladesh",
+        "bulletin",
+        "global",
+        "south",
+        "launched"
+      ],
+      "detail": "'AI for the Global South: A Quarterly Bulletin', Bangladesh's first AI-focused quarterly bulletin, was launched in Dhaka on 24 November 2026 with its inaugural issue. State Minister for Primary and Mass Education Bobby Hajjaj attended as chief guest. The bulletin is a joint initiative of the Eelaia Foundation, the Centre for Alternatives and Argus Diplomatic Intelligence. Editor Masud Jamil Khan said it aims to become a milestone in AI education in cities such as Nairobi, Sao Paulo and Jakarta, and to make Bangla a language for AI."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "Bangladesh",
+      "event_date": "2026-11-01",
+      "exam_facts": "The column says standardised CAPEX and OPEX documents can reduce negotiation costs and give building owners and investors a clearer framework, and that competitive offers can deliver greater value than the minimum 10% free electricity share. It says defined responsibilities and exit arrangements can further strengthen contractual discipline, and that net-metering and quarterly settlement provisions are part of the notification. The column argues the challenge now is to make these arrangements commercially viable, technically reliable and institutionally implementable.",
+      "exam_relevance": "Renewable energy, rooftop solar and net-metering -- core BCS/Bank energy and environment topics.",
+      "figures": "Special Solar Power Installation Ordinance, 2026; Power Division notification of 1 November 2026; time-bound Tk10.5/kWh export incentive; minimum 10% free electricity share; 15-year contract; performance security of 3% of system value",
+      "headline": "New solar ordinance: Turning rooftop obligations into sustainable investment",
+      "id": "CA13",
+      "key_people": "",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "New solar ordinance: Turning rooftop obligations into sustainable investment",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/thoughts/new-solar-ordinance-turning-rooftop-obligations-sustainable-investment-1612276"
+        }
+      ],
+      "summary": "Bangladesh's Special Solar Power Installation Ordinance, 2026, backed by a Power Division notification of 1 November 2026, offers a time-bound Tk10.5/kWh export incentive for rooftop solar, the column argues -- but success depends on commercially viable terms. Under the OPEX model, the service provider finances, installs, operates and maintains the system, owners get a minimum 10% free electricity share, contracts run 15 years with free transfer at the end, and providers must furnish performance security of 3% of system value.",
+      "why_it_matters": "The Tk10.5/kWh incentive, the 10% free share and the 15-year OPEX contract are the exact facts for BCS/Bank questions on Bangladesh's renewable-energy policy, and the column's warning that grid readiness and commercial viability will decide the outcome is the background for the next story on energy transition.",
+      "one_liner": "Bangladesh's Special Solar Power Installation Ordinance, 2026, backed by a Power Division notification of 1 November 2026, offers a time-bound…",
+      "key_facts": [
+        {
+          "label": "time-bound /kWh export incentive",
+          "value": "Tk10.5",
+          "original": "time-bound Tk10.5/kWh export incentive"
+        },
+        {
+          "label": "year contract",
+          "value": "15",
+          "original": "15-year contract"
+        },
+        {
+          "label": "The column says standardised CAPEX and…",
+          "value": "10",
+          "original": "The column says standardised CAPEX and OPEX documents can reduce negotiation costs and give building owners and investors a clearer framework, and that competitive offers can deliver greater value than the minimum 10% free electricity share. It says defined responsibilities and exit arrangements can further strengthen contractual discipline, and that net-metering and quarterly settlement provisions are part of the notification. The column argues the challenge now is to make these arrangements commercially viable, technically reliable and institutionally implementable"
+        }
+      ],
+      "what_happened": [
+        "Under the OPEX model, the service provider finances, installs, operates and maintains the system, owners get a minimum 10% free electricity share,",
+        "contracts run 15 years with free transfer at the end, and providers must furnish performance security of 3% of system value."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is the export incentive for rooftop solar?",
+          "a": "Tk10.5/kWh"
+        },
+        {
+          "q": "How long do OPEX contracts run?",
+          "a": "15 years"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's Special Solar Power Installation Ordinance, 2026, backed by a Power Division notification of ______, offers a time-bound Tk10.5/kWh export incentive for rooftop solar, the column argues -- but success depends on commercially viable terms.",
+          "answer": "1 November 2026"
+        },
+        {
+          "cloze": "Under the OPEX model, the service provider finances, installs, operates and maintains the system, owners get a minimum ______% free electricity share, contracts run 15 years with free transfer at the end, and providers must furnish performance security of 3% of system value.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "solar",
+        "ordinance",
+        "turning",
+        "rooftop",
+        "obligations",
+        "sustainable",
+        "investment"
+      ],
+      "detail": "Bangladesh's Special Solar Power Installation Ordinance, 2026, backed by a Power Division notification of 1 November 2026, offers a time-bound Tk10.5/kWh export incentive for rooftop solar, the column argues -- but success depends on commercially viable terms. Under the OPEX model, the service provider finances, installs, operates and maintains the system, owners get a minimum 10% free electricity share, contracts run 15 years with free transfer at the end, and providers must furnish performance security of 3% of system value."
+    },
+    {
+      "article_date": "2026-11-24",
+      "category": "World",
+      "event_date": "2026-11-24",
+      "exam_facts": "The proposed tariffs are expected to cover most products exported from these nations, while steel, aluminium and automobiles are likely to remain subject to existing tariffs imposed on national security grounds. Economies without existing trade agreements with the United States, including Vietnam and India, are expected to face higher rates. The administration plans to adopt the framework used by former President Trump in 2025, before a Supreme Court decision overturned his earlier tariffs in February 2026.",
+      "exam_relevance": "Tariffs, trade wars and industrial subsidies -- core BCS/Bank international trade and economy topics.",
+      "figures": "China, the European Union and 14 other economies targeted, 16 in all; tariffs for Japan and the EU may be capped at around 15% or lower; China expected to face the highest tariff burden",
+      "headline": "US prepares new tariffs on China, EU and 14 other economies",
+      "id": "CA14",
+      "key_people": "Jamieson Greer, US Trade Representative",
+      "sources": [
+        {
+          "date": "2026-11-24",
+          "headline": "US prepares new tariffs on China, EU and 14 other economies",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/usa/us-prepares-new-tariffs-china-eu-and-14-other-economies-1613176"
+        }
+      ],
+      "summary": "The United States is preparing new tariffs on China, the European Union and 14 other economies -- 16 in all -- after an investigation into foreign industrial policies, per a Wall Street Journal report. US Trade Representative Jamieson Greer cited foreign industrial subsidies, with US officials arguing excessive state support created surplus production flooding global markets with cheaper goods. China faces the highest burden, while Japan and the EU, which have trade deals with Washington, may face tariffs capped at around 15% or lower.",
+      "why_it_matters": "The 16-economy tariff plan and the 15% cap for deal partners are the exact facts for BCS/Bank questions on US trade policy and industrial subsidies, and the revival of the 2025 Trump framework after the February 2026 Supreme Court ruling is the background for the next story on tariff law.",
+      "one_liner": "The United States is preparing new tariffs on China, the European Union and 14 other economies -- 16 in all…",
+      "key_facts": [
+        {
+          "label": "China, the European Union and other…",
+          "value": "14",
+          "original": "China, the European Union and 14 other economies targeted, 16 in all"
+        },
+        {
+          "label": "tariffs for Japan and the EU…",
+          "value": "15",
+          "original": "tariffs for Japan and the EU may be capped at around 15% or lower"
+        },
+        {
+          "label": "",
+          "value": "China expected to face the highest tariff burden",
+          "original": "China expected to face the highest tariff burden"
+        },
+        {
+          "label": "The proposed tariffs are expected to…",
+          "value": "2025,",
+          "original": "The proposed tariffs are expected to cover most products exported from these nations, while steel, aluminium and automobiles are likely to remain subject to existing tariffs imposed on national security grounds. Economies without existing trade agreements with the United States, including Vietnam and India, are expected to face higher rates. The administration plans to adopt the framework used by former President Trump in 2025, before a Supreme Court decision overturned his earlier tariffs in February 2026"
+        }
+      ],
+      "what_happened": [
+        "US Trade Representative Jamieson Greer cited foreign industrial subsidies, with US officials arguing excessive state support created surplus production flooding global markets with cheaper goods.",
+        "China faces the highest burden, while Japan and the EU, which have trade deals with Washington, may face tariffs capped at around 15% or lower."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many economies are targeted by the planned US tariffs?",
+          "a": "16 (China, the EU and 14 others)"
+        },
+        {
+          "q": "At what level may tariffs for Japan and the EU be capped?",
+          "a": "Around 15% or lower"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The United States is preparing new tariffs on China, the European Union and ______ other economies -- 16 in all -- after an investigation into foreign industrial policies, per a Wall Street Journal report.",
+          "answer": "14"
+        },
+        {
+          "cloze": "China faces the highest burden, while Japan and the EU, which have trade deals with Washington, may face tariffs capped at around ______% or lower.",
+          "answer": "15"
+        }
+      ],
+      "keywords": [
+        "world",
+        "prepares",
+        "tariffs",
+        "china",
+        "other",
+        "economies"
+      ],
+      "detail": "The United States is preparing new tariffs on China, the European Union and 14 other economies -- 16 in all -- after an investigation into foreign industrial policies, per a Wall Street Journal report. US Trade Representative Jamieson Greer cited foreign industrial subsidies, with US officials arguing excessive state support created surplus production flooding global markets with cheaper goods. China faces the highest burden, while Japan and the EU, which have trade deals with Washington, may face tariffs capped at around 15% or lower."
+    },
+    {
+      "article_date": "2026-11-25",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-25",
+      "exam_facts": "The board also set minimum monthly wages for different grades at Tk21,500 for Grade 1, Tk20,000 for Grade 2 and Tk19,200 for Grade 3. Babul Akter called for the new wages to be implemented quickly, urged workers to return to work, and said any further demands should be addressed through bilateral discussions. He said the demand should have been for a fair wage that allows workers to make a living, called for workers not to be harassed, and said those engaging in illegal protests from now on will be responsible for their actions.",
+      "exam_relevance": "Minimum wage, Minimum Wage Board and the garment sector -- core BCS/Bank labour, economy and industry topics.",
+      "figures": "Minimum wage Tk17,000 a month, effective from December; 4 of 6 board members voted in favour, 2 opposed; workers demanded Tk18,000, employers held at Tk17,000; Tk4,500 increase; Grade 1 Tk21,500, Grade 2 Tk20,000, Grade 3 Tk19,200",
+      "headline": "Minimum garment wage set at Tk 17,000 after vote, workers accept decision despite dissatisfaction",
+      "id": "CA15",
+      "key_people": "Syed Azad Subhani, Chairman, Minimum Wage Board; Babul Akter, workers' representative",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "Minimum garment wage set at Tk 17,000 after vote, workers accept decision despite dissatisfaction",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/rmg/minimum-garment-wage-set-tk17000-after-vote-workers-accept-decision-despite"
+        }
+      ],
+      "summary": "The minimum monthly wage for garment workers has been set at Tk17,000 after a 4-2 vote of the six-member Minimum Wage Board, effective from December, chairman Syed Azad Subhani announced after a meeting ending shortly after 4am on 25 November. The workers' side had demanded Tk18,000 while employers held at Tk17,000. Workers' representative Babul Akter said workers were not satisfied but had to accept the decision, calling the Tk4,500 rise -- the same increase as over the previous five years, now in three -- not insignificant.",
+      "why_it_matters": "The Tk17,000 wage, the 4-2 board vote and the Tk4,500 rise are the exact facts for BCS/Bank questions on Bangladesh's garment sector and minimum-wage setting, and the workers' reluctant acceptance after demanding Tk18,000 is the background for the next story on RMG labour unrest.",
+      "one_liner": "The minimum monthly wage for garment workers has been set at Tk17,000 after a 4-2 vote of the six-member Minimum…",
+      "key_facts": [
+        {
+          "label": "Minimum wage a month, effective from…",
+          "value": "Tk17,000",
+          "original": "Minimum wage Tk17,000 a month, effective from December"
+        },
+        {
+          "label": "of 6 board members voted in…",
+          "value": "4",
+          "original": "4 of 6 board members voted in favour, 2 opposed"
+        },
+        {
+          "label": "workers demanded employers held at Tk17,000",
+          "value": "Tk18,000,",
+          "original": "workers demanded Tk18,000, employers held at Tk17,000"
+        },
+        {
+          "label": "increase",
+          "value": "Tk4,500",
+          "original": "Tk4,500 increase"
+        }
+      ],
+      "what_happened": [
+        "The workers' side had demanded Tk18,000 while employers held at Tk17,000.",
+        "Workers' representative Babul Akter said workers were not satisfied but had to accept the decision, calling the Tk4,",
+        "500 rise -- the same increase as over the previous five years, now in three -- not insignificant."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is the new minimum garment wage?",
+          "a": "Tk17,000 a month"
+        },
+        {
+          "q": "What did the workers' side demand?",
+          "a": "Tk18,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The minimum monthly wage for garment workers has been set at Tk17,000 after a 4-2 vote of the six-member Minimum Wage Board, effective from December, chairman Syed Azad Subhani announced after a meeting ending shortly after 4am on ______.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "The workers' side had demanded Tk______ while employers held at Tk17,000.",
+          "answer": "18,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "minimum",
+        "garment",
+        "wage",
+        "vote",
+        "workers",
+        "accept",
+        "decision",
+        "despite",
+        "dissatisfaction"
+      ],
+      "detail": "The minimum monthly wage for garment workers has been set at Tk17,000 after a 4-2 vote of the six-member Minimum Wage Board, effective from December, chairman Syed Azad Subhani announced after a meeting ending shortly after 4am on 25 November. The workers' side had demanded Tk18,000 while employers held at Tk17,000. Workers' representative Babul Akter said workers were not satisfied but had to accept the decision, calling the Tk4,500 rise -- the same increase as over the previous five years, now in three -- not insignificant."
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "oligarchic",
+      "IPA": "/ˌɒlɪˈɡɑːkɪk/",
+      "Bangla phonetic": "অলিগারকিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অল্পসংখ্যক ক্ষমতাধর গোষ্ঠীর শাসন-সংক্রান্ত; গোষ্ঠীতান্ত্রিক",
+      "English definition": "Relating to rule by a small group of powerful people, especially wealthy families or business groups.",
+      "Synonyms": "elitist; plutocratic; exclusive",
+      "Antonyms": "democratic; egalitarian; popular",
+      "Word family / derivatives": "oligarchy; oligarch; oligarchically",
+      "Collocations / patterns": "oligarchic control; oligarchic rule; break oligarchic control",
+      "Original example": "We are reforming the sector precisely to break this oligarchic control.",
+      "Newspaper context note": "The adviser says the draft banking-law amendments aim to break oligarchic control of bank boards by a few families and business groups.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for bank governance, family control of banks and political economy passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "tenure",
+      "IPA": "/ˈtenjə(r)/",
+      "Bangla phonetic": "টেনিওর",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "মেয়াদ; পদে থাকার সময়কাল",
+      "English definition": "The period of time during which a person holds a particular office or position.",
+      "Synonyms": "term; term of office; period in office",
+      "Antonyms": "removal; dismissal; vacancy",
+      "Word family / derivatives": "tenured; tenures (plural)",
+      "Collocations / patterns": "tenure of office; tenure of a director; maximum consecutive tenure",
+      "Original example": "That is why we have proposed reducing the maximum consecutive tenure of a director from 12 years to six.",
+      "Newspaper context note": "The draft proposes cutting a bank director's maximum consecutive tenure from 12 years to six.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq",
+      "BCS / Bank relevance": "High-frequency BCS/Bank noun for appointments, service rules and bank-board questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "conceal",
+      "IPA": "/kənˈsiːl/",
+      "Bangla phonetic": "কনসিল",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "গোপন করা; লুকানো",
+      "English definition": "To hide something so that it cannot be seen or known.",
+      "Synonyms": "hide; cover up; disguise",
+      "Antonyms": "reveal; disclose; expose",
+      "Word family / derivatives": "concealment; concealed; concealing",
+      "Collocations / patterns": "conceal the ownership structure; conceal the truth; conceal information",
+      "Original example": "Opportunities to conceal the actual ownership structure through proxy shareholders, nominees and affiliated entities must be closed.",
+      "Newspaper context note": "The adviser says chances to conceal who really owns a bank, through proxy shareholders and nominees, must be closed.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq",
+      "BCS / Bank relevance": "Core BCS/Bank verb for governance, corruption and banking passages; concealment is a classic exam word family.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "proxy",
+      "IPA": "/ˈprɒksi/",
+      "Bangla phonetic": "প্রক্সি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রতিনিধি; অন্যের পক্ষে কাজ করা ব্যক্তি বা সংস্থা",
+      "English definition": "A person or company authorised to act for another, especially to vote or take decisions on their behalf.",
+      "Synonyms": "representative; agent; stand-in",
+      "Antonyms": "principal; owner in person",
+      "Word family / derivatives": "proxies (plural)",
+      "Collocations / patterns": "proxy shareholders; proxy vote; by proxy",
+      "Original example": "A business group can exert influence over a board through relatives, close associates, affiliated companies, proxy shareholders or companies linked to its interests, in addition to family members.",
+      "Newspaper context note": "Business groups can control a bank board through proxy shareholders who act for them, not just through family members.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq",
+      "BCS / Bank relevance": "Core BCS/Bank noun for bank governance, corporate control and shareholder questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "clarification",
+      "IPA": "/ˌklærɪfɪˈkeɪʃn/",
+      "Bangla phonetic": "ক্ল্যারিফিকেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্পষ্টীকরণ; ব্যাখ্যা",
+      "English definition": "An explanation that makes something clearer or easier to understand.",
+      "Synonyms": "explanation; elucidation; statement",
+      "Antonyms": "confusion; ambiguity; obscurity",
+      "Word family / derivatives": "clarify; clarified; clarifying",
+      "Collocations / patterns": "issue a clarification; seek clarification; clarification in a notice",
+      "Original example": "The central bank's Foreign Exchange Policy Department (FEPD) issued the clarification in a notice today (24 November).",
+      "Newspaper context note": "Bangladesh Bank issued a clarification on the cash assistance rates for fabric toy and tent exports.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856",
+      "BCS / Bank relevance": "High-frequency BCS/Bank noun for central-bank circulars, export policy and official notices.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "deteriorating",
+      "IPA": "/dɪˈtɪəriəreɪtɪŋ/",
+      "Bangla phonetic": "ডিটেরিওরেটিং",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অবনতিশীল; ক্রমশ খারাপ হচ্ছে এমন",
+      "English definition": "Becoming worse over time; declining in quality or condition.",
+      "Synonyms": "worsening; declining; degrading",
+      "Antonyms": "improving; recovering; strengthening",
+      "Word family / derivatives": "deteriorate; deterioration; deteriorated",
+      "Collocations / patterns": "deteriorating asset quality; deteriorating conditions; deteriorating situation",
+      "Original example": "The review, nearing completion, has revealed the extent of longstanding irregularities, poor loan management and deteriorating asset quality.",
+      "Newspaper context note": "Bangladesh Bank's asset quality review found deteriorating asset quality behind rising non-performing loans.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://bdnews24.com/business/cfy6siz3oi",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for banking, economy and current-affairs passages on decline.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "viability",
+      "IPA": "/ˌvaɪəˈbɪləti/",
+      "Bangla phonetic": "ভায়াবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "টিকে থাকার সক্ষমতা; কার্যকারিতা",
+      "English definition": "The ability of something to work successfully or to continue to exist.",
+      "Synonyms": "feasibility; sustainability; workability",
+      "Antonyms": "unviability; impracticability; failure",
+      "Word family / derivatives": "viable; viability of a bank; financial viability",
+      "Collocations / patterns": "financial viability; restore viability; economic viability",
+      "Original example": "Recovery and Structural Reform Bank-specific recovery and restructuring plans have been formulated to address vulnerabilities and restore financial viability.",
+      "Newspaper context note": "Bank-specific recovery plans aim to restore the financial viability of struggling banks.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://bdnews24.com/business/cfy6siz3oi",
+      "BCS / Bank relevance": "Core BCS/Bank noun for banking reform, business and project-appraisal questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "sustainable",
+      "IPA": "/səˈsteɪnəbəl/",
+      "Bangla phonetic": "সাসটেইনেবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "টেকসই",
+      "English definition": "Able to continue over a long period without harming resources or the environment; able to be maintained.",
+      "Synonyms": "durable; lasting; viable",
+      "Antonyms": "unsustainable; short-lived; temporary",
+      "Word family / derivatives": "sustainability; sustainably; sustain",
+      "Collocations / patterns": "sustainable economic growth; sustainable development; sustainable transition",
+      "Original example": "The central bank expects the four-year reform programme to establish a more stable, transparent and accountable financial sector, strengthen public confidence and support macroeconomic stability and sustainable economic growth.",
+      "Newspaper context note": "The four-year banking reform programme is expected to support sustainable economic growth.",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://bdnews24.com/business/cfy6siz3oi",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for economy, environment and development passages; a past BCS favourite.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "livelihood",
+      "IPA": "/ˈlaɪvlihʊd/",
+      "Bangla phonetic": "লাইভলিহুড",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "জীবিকা; জীবনধারণের উপায়",
+      "English definition": "The way in which a person earns money in order to live.",
+      "Synonyms": "living; income; occupation",
+      "Antonyms": "unemployment; destitution; joblessness",
+      "Word family / derivatives": "livelihoods (plural)",
+      "Collocations / patterns": "livelihood crisis; protect livelihoods; livelihoods of drivers",
+      "Original example": "Some 42.2 per cent of the drivers surveyed had faced a major livelihood crisis in the previous year.",
+      "Newspaper context note": "A BRAC-BIGD study found 42.2% of battery-rickshaw drivers had faced a major livelihood crisis in the previous year.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Battery-rickshaw drivers earn Tk 29,000 a month, pay Tk 10,323 in rent",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/8za4d69h1q",
+      "BCS / Bank relevance": "Core BCS/Bank noun for informal economy, labour and urban-livelihood questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "convenient",
+      "IPA": "/kənˈviːniənt/",
+      "Bangla phonetic": "কনভিনিয়েন্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Basic",
+      "Bangla meaning": "সুবিধাজনক",
+      "English definition": "Easy to use or suitable for a particular purpose; causing little difficulty.",
+      "Synonyms": "handy; suitable; easy",
+      "Antonyms": "inconvenient; awkward; difficult",
+      "Word family / derivatives": "convenience; conveniently",
+      "Collocations / patterns": "more convenient; convenient and accessible; convenient for customers",
+      "Original example": "The partnership aims to make motorcycle purchases more convenient and accessible by bringing together financing and vehicle insurance, according to a press release.",
+      "Newspaper context note": "Bank Asia and Bangladesh General Insurance aim to make motorcycle purchases more convenient by bundling loans with insurance.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bank Asia partners with Bangladesh General Insurance for two-wheeler coverage",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/bank-asia-partners-bangladesh-general-insurance-two-wheeler-coverage-1612896",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adjective for banking services, retail and formal writing passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "engagement",
+      "IPA": "/ɪnˈɡeɪdʒmənt/",
+      "Bangla phonetic": "এনগেজমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সম্পৃক্ততা; অংশগ্রহণ; যোগাযোগ",
+      "English definition": "Involvement in something, or the process of communicating with and involving people.",
+      "Synonyms": "involvement; participation; interaction",
+      "Antonyms": "disengagement; detachment; indifference",
+      "Word family / derivatives": "engage; engaged; engaging",
+      "Collocations / patterns": "customer engagement; constructive engagement; engagement programmes",
+      "Original example": "The agreement also provides for joint marketing initiatives, customer engagement programmes and promotional activities to raise awareness and improve access to financial and insurance services.",
+      "Newspaper context note": "The Bank Asia-BGIC agreement covers customer engagement programmes to widen access to financial and insurance services.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bank Asia partners with Bangladesh General Insurance for two-wheeler coverage",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/bank-asia-partners-bangladesh-general-insurance-two-wheeler-coverage-1612896",
+      "BCS / Bank relevance": "High-value BCS/Bank noun for banking, diplomacy and management passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "granular",
+      "IPA": "/ˈɡrænjələ(r)/",
+      "Bangla phonetic": "গ্র্যানিউলার",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "খুঁটিনাটি; অত্যন্ত বিস্তারিত",
+      "English definition": "Very detailed, breaking something down into small, specific parts.",
+      "Synonyms": "detailed; fine-grained; specific",
+      "Antonyms": "broad; general; coarse",
+      "Word family / derivatives": "granularity",
+      "Collocations / patterns": "granular data; granular detail; granular picture",
+      "Original example": "If designed with even modest foresight, it will generate something Bangladesh has never had before: real-time, granular, demand-side data on who owns a smartphone, what kind, at what price point, and where.",
+      "Newspaper context note": "NEIR could generate real-time, granular data on who owns a smartphone, what kind, at what price and where.",
+      "Source publication": "The Business Standard",
+      "Article headline": "NEIR could be a goldmine for Bangladesh's digital policymaking",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/neir-could-be-goldmine-bangladeshs-digital-policymaking-1613106",
+      "BCS / Bank relevance": "Live current-affairs adjective for ICT, data and policymaking passages; an exam-level data word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "exploiting",
+      "IPA": "/ɪkˈsplɔɪtɪŋ/",
+      "Bangla phonetic": "এক্সপ্লয়টিং",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সুযোগের অপব্যবহার করা; শোষণ করা",
+      "English definition": "Taking unfair advantage of a situation or of other people for one's own benefit.",
+      "Synonyms": "taking advantage of; manipulating; abusing",
+      "Antonyms": "protecting; supporting; overlooking",
+      "Word family / derivatives": "exploit; exploitation; exploited",
+      "Collocations / patterns": "exploiting demand; exploiting a shortage; exploiting loopholes",
+      "Original example": "The central bank found that aggregators were exploiting demand from large government payments to charge higher rates, driving up the cost of foreign currency in the market, a deputy managing director (DMD) and head of treasury at a private bank told The Business Standard on condition of anonymity.",
+      "Newspaper context note": "Bangladesh Bank found remittance aggregators were exploiting demand on large government payment days to charge higher dollar rates.",
+      "Source publication": "The Business Standard",
+      "Article headline": "BB to collect LC payment schedules early as aggregators exploit due dates",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/banking/bb-collect-lc-payment-schedules-early-aggregators-exploit-due-dates-1613166",
+      "BCS / Bank relevance": "Core BCS/Bank verb form for foreign-exchange, market and ethics passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "proportionate",
+      "IPA": "/prəˈpɔːʃənət/",
+      "Bangla phonetic": "প্রপোরশনেট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "আনুপাতিক; পরিস্থিতির উপযুক্ত মাত্রার",
+      "English definition": "Corresponding in size, amount or degree to something else; appropriate to the situation.",
+      "Synonyms": "proportional; commensurate; appropriate",
+      "Antonyms": "disproportionate; excessive; inadequate",
+      "Word family / derivatives": "proportion; proportionally; proportionate response",
+      "Collocations / patterns": "proportionate action; proportionate response; firm, professional and proportionate",
+      "Original example": "Law enforcement agencies had been instructed to take firm, professional and proportionate action, he added.",
+      "Newspaper context note": "Law enforcement was instructed to take firm, professional and proportionate action against the violence.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/178tc173bb",
+      "BCS / Bank relevance": "High-value BCS/Bank adjective for law-and-order, governance and formal writing passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "ancestral",
+      "IPA": "/ænˈsestrəl/",
+      "Bangla phonetic": "অ্যানসেস্ট্রাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পৈতৃক; পূর্বপুরুষের",
+      "English definition": "Relating to or inherited from one's ancestors; belonging to one's family for a long time.",
+      "Synonyms": "hereditary; inherited; family",
+      "Antonyms": "acquired; new; unrelated",
+      "Word family / derivatives": "ancestor; ancestry; ancestral home",
+      "Collocations / patterns": "ancestral home; ancestral property; ancestral land",
+      "Original example": "He added that the targets included his ancestral home in Chattogram, where he first launched the initiative that grew into Grameen Bank and where two of his younger brothers live with their families.",
+      "Newspaper context note": "Yunus said the targets included his ancestral home in Chattogram, where he first launched the initiative that grew into Grameen Bank.",
+      "Source publication": "Yahoo",
+      "Article headline": "Bangladesh's Yunus alleges arson attacks on his microlending banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/bangladeshs-yunus-alleges-arson-attacks-154832491.html",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adjective for biography, history and property passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "perpetrators",
+      "IPA": "/ˈpɜːpətreɪtəz/",
+      "Bangla phonetic": "পারপেট্রেটরস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অপরাধী; দুষ্কৃতকারী",
+      "English definition": "People who carry out a harmful, illegal or immoral act.",
+      "Synonyms": "offenders; culprits; wrongdoers",
+      "Antonyms": "victims; innocents; bystanders",
+      "Word family / derivatives": "perpetrator (singular); perpetrate; perpetration",
+      "Collocations / patterns": "bring the perpetrators to justice; perpetrators of violence; perpetrators of attacks",
+      "Original example": "Yunus urged the Bangladeshi government to protect Grameen Bank, of which the microcredit model has been replicated worldwide, and to bring the perpetrators to justice.",
+      "Newspaper context note": "Yunus urged the government to protect Grameen Bank and bring the perpetrators of the attacks to justice.",
+      "Source publication": "Yahoo",
+      "Article headline": "Bangladesh's Yunus alleges arson attacks on his microlending banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/bangladeshs-yunus-alleges-arson-attacks-154832491.html",
+      "BCS / Bank relevance": "Core BCS/Bank noun for law, crime and human-rights passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "ailing",
+      "IPA": "/ˈeɪlɪŋ/",
+      "Bangla phonetic": "এইলিং",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংকটে থাকা; দুর্দশাগ্রস্ত; অসুস্থ",
+      "English definition": "In poor condition; suffering serious problems and in need of help or revival.",
+      "Synonyms": "struggling; troubled; failing",
+      "Antonyms": "thriving; healthy; flourishing",
+      "Word family / derivatives": "ail; ailment",
+      "Collocations / patterns": "ailing industry; ailing state-owned enterprise; ailing mill",
+      "Original example": "Last October, BCIC Chairman Md Babul Miah visited KPM and discussed possible ways to revive the ailing state-owned industrial enterprises.",
+      "Newspaper context note": "BCIC discussed ways to revive the ailing state-owned Karnaphuli Paper Mills.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Govt moves to revive ailing Karnaphuli Paper Mills",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/business/local/oqjftm1pwo",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for state-owned enterprises, industry and economy passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "linguistic",
+      "IPA": "/lɪŋˈɡwɪstɪk/",
+      "Bangla phonetic": "লিঙ্গুইস্টিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ভাষাগত; ভাষা-সংক্রান্ত",
+      "English definition": "Relating to language or to the study of language.",
+      "Synonyms": "language-related; verbal; philological",
+      "Antonyms": "non-linguistic; non-verbal",
+      "Word family / derivatives": "linguistics; linguist; linguistically",
+      "Collocations / patterns": "linguistic barriers; linguistic diversity; linguistic skills",
+      "Original example": "Masud Jamil Khan also emphasised overcoming linguistic barriers to establish Bangla as a perfect language for AI.",
+      "Newspaper context note": "The AI bulletin editor emphasised overcoming linguistic barriers to establish Bangla as a language for AI.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladeshs-first-ai-bulletin-ai-global-south-launched-1612921",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for language, education and AI passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "viable",
+      "IPA": "/ˈvaɪəbəl/",
+      "Bangla phonetic": "ভায়াবল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কার্যকর; টেকসইভাবে চলার যোগ্য",
+      "English definition": "Able to work successfully; able to be maintained or continued.",
+      "Synonyms": "feasible; workable; sustainable",
+      "Antonyms": "unviable; impracticable; unworkable",
+      "Word family / derivatives": "viability; viably",
+      "Collocations / patterns": "commercially viable; financially viable; economically viable",
+      "Original example": "The challenge now is to make these arrangements commercially viable, technically reliable and institutionally implementable.",
+      "Newspaper context note": "The solar column says the challenge is to make rooftop-solar arrangements commercially viable.",
+      "Source publication": "The Business Standard",
+      "Article headline": "New solar ordinance: Turning rooftop obligations into sustainable investment",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/new-solar-ordinance-turning-rooftop-obligations-sustainable-investment-1612276",
+      "BCS / Bank relevance": "Core BCS/Bank adjective for energy, business and project-appraisal questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "insignificant",
+      "IPA": "/ˌɪnsɪɡˈnɪfɪkənt/",
+      "Bangla phonetic": "ইনসিগনিফিক্যান্ট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "তুচ্ছ; নগণ্য",
+      "English definition": "Too small or unimportant to be worth considering.",
+      "Synonyms": "trivial; negligible; minor",
+      "Antonyms": "significant; important; substantial",
+      "Word family / derivatives": "significance; significantly; significant",
+      "Collocations / patterns": "not insignificant; insignificant increase; insignificant amount",
+      "Original example": "However, he said the increase was not insignificant.",
+      "Newspaper context note": "Workers' representative Babul Akter said the Tk4,500 wage increase was not insignificant.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Minimum garment wage set at Tk 17,000 after vote, workers accept decision despite dissatisfaction",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/economy/rmg/minimum-garment-wage-set-tk17000-after-vote-workers-accept-decision-despite",
+      "BCS / Bank relevance": "High-frequency BCS/Bank adjective for economy, wage and formal writing passages; 'not insignificant' is a common newspaper phrase.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Headword / phrase": "prohibitive",
+      "IPA": "/prəˈhɪbɪtɪv/",
+      "Bangla phonetic": "প্রোহিবিটিভ",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নিষেধাজ্ঞামূলক; এত বেশি যে কিছু করা যায় না (খরচ)",
+      "English definition": "So high (of a cost or price) as to prevent something from happening.",
+      "Synonyms": "exorbitant; prohibitory; unaffordable",
+      "Antonyms": "affordable; reasonable; modest",
+      "Word family / derivatives": "prohibit; prohibition; prohibited; prohibitively",
+      "Collocations / patterns": "prohibitive costs; prohibitive prices; prohibitive tariffs",
+      "Original example": "If the costs of power, energy, transport, logistics, customs clearance, and financing remain prohibitive, businesses cannot reduce unit production costs unassisted.",
+      "Newspaper context note": "Fahmida Khatun argues high power, energy, transport and customs costs block Bangladesh's export competitiveness after LDC graduation.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Economy and reforms: LDC graduation window extended, challenges remain",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/ug7wl6hzno",
+      "BCS / Bank relevance": "Formal adjective common in BCS/Bank passages on costs, trade and competitiveness.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "imperative",
+      "IPA": "/ɪmˈperətɪv/",
+      "Bangla phonetic": "ইমপারেটিভ",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অপরিহার্য; জরুরি",
+      "English definition": "Of vital importance; essential and urgent.",
+      "Synonyms": "essential; crucial; urgent; indispensable",
+      "Antonyms": "optional; unnecessary; dispensable",
+      "Word family / derivatives": "imperatively; imperativeness",
+      "Collocations / patterns": "it is imperative to act; imperative that...; concrete actions are imperative",
+      "Original example": "For that, concrete actions and tough decisions are imperative.",
+      "Newspaper context note": "The columnist says extra time alone will not remove structural vulnerabilities; tough reforms are imperative.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Economy and reforms: LDC graduation window extended, challenges remain",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://en.prothomalo.com/opinion/op-ed/ug7wl6hzno",
+      "BCS / Bank relevance": "High-frequency exam adjective in editorials and formal writing; tested with synonyms.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "questionnaire",
+      "IPA": "/ˌkwestʃəˈneər/",
+      "Bangla phonetic": "কোয়েশ্চনেয়ার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রশ্নপত্র; প্রশ্নমালা",
+      "English definition": "A set of written questions used to collect information.",
+      "Synonyms": "survey; question paper; form",
+      "Antonyms": "—",
+      "Word family / derivatives": "question; questioner",
+      "Collocations / patterns": "a detailed questionnaire; fill in a questionnaire; a questionnaire on...",
+      "Original example": "He said Seoul had already communicated its position on the draft agreement to Bangladesh, along with a detailed questionnaire.",
+      "Newspaper context note": "South Korea sent its position on the CEPA draft plus a detailed questionnaire before the Dhaka meeting.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh, South Korea aim to finalise CEPA draft by December",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladesh-south-korea-aim-finalise-cepa-draft-december-1598301",
+      "BCS / Bank relevance": "Common noun in passages on surveys, negotiations and research; BCS vocabulary staple.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "reciprocal",
+      "IPA": "/rɪˈsɪprəkəl/",
+      "Bangla phonetic": "রিসিপ্রোকাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পারস্পরিক; উভয়পক্ষীয়",
+      "English definition": "Given or exchanged between two sides; mutual.",
+      "Synonyms": "mutual; bilateral; two-way",
+      "Antonyms": "one-sided; unilateral",
+      "Word family / derivatives": "reciprocate; reciprocity; reciprocally; reciprocation",
+      "Collocations / patterns": "reciprocal visits; reciprocal trade; reciprocal agreement",
+      "Original example": "According to diplomatic sources in Dhaka, since the BNP government took office, relations between Dhaka and Ankara have grown closer through reciprocal visits by the two countries' foreign ministers, a visit to Türkiye by the Bangladesh Army chief and high-level contacts.",
+      "Newspaper context note": "Dhaka-Ankara ties warmed through reciprocal foreign-minister visits before the Tarique-Erdogan meeting.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Tarique-Erdogan meeting in Antalya today as Dhaka-Ankara ties grow closer",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/jn1w442m85",
+      "BCS / Bank relevance": "Formal adjective in foreign-policy and trade passages; frequent in BCS synonyms/antonyms.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "institutional",
+      "IPA": "/ˌɪnstɪˈtjuːʃənəl/",
+      "Bangla phonetic": "ইনস্টিটিউশনাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রাতিষ্ঠানিক",
+      "English definition": "Relating to an institution, or established as part of a formal institution.",
+      "Synonyms": "organisational; formal; structural",
+      "Antonyms": "informal; personal; ad hoc",
+      "Word family / derivatives": "institution; institutionalise; institutionally",
+      "Collocations / patterns": "institutional footing; institutional reform; institutional capacity",
+      "Original example": "At the meeting, Erdogan called for placing bilateral relations on a more institutional footing.",
+      "Newspaper context note": "At their first meeting in New York, Erdogan urged a more institutional footing for Dhaka-Ankara relations.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Tarique-Erdogan meeting in Antalya today as Dhaka-Ankara ties grow closer",
+      "Publication date": "2026-11-10",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/jn1w442m85",
+      "BCS / Bank relevance": "Key adjective in governance and foreign-policy vocabulary; tested in BCS/Bank.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "cash assistance",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "নগদ সহায়তা",
+      "English explanation": "Money paid by the government to exporters as support, usually a percentage of export earnings.",
+      "Usage / register": "Formal, banking and export-policy reporting.",
+      "Original example 1": "Bangladesh Bank has clarified the applicable cash assistance rates for exports of fabric-made toys, including infant soft toys, and tents under an existing government policy.",
+      "Original example 2": "Under the government decision, exporters of these products will receive cash assistance at the rates specified in serial numbers 1, 2 and 5 of the table in Appendix A of FEPCD-1 Circular No 17, issued on 5 July 2026.",
+      "Common collocations / grammar pattern": "cash assistance rates; receive cash assistance; cash assistance for exports",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856",
+      "Exam value": "Core export-policy phrase for BCS/Bank questions on Bangladesh Bank circulars and export incentives."
+    },
+    {
+      "Phrase": "proxy shareholders",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "প্রক্সি শেয়ারহোল্ডার; অন্যের পক্ষে শেয়ার রাখা ব্যক্তি",
+      "English explanation": "Shareholders who hold shares and vote on behalf of someone else, often to hide the real owner.",
+      "Usage / register": "Formal, banking and corporate-governance reporting.",
+      "Original example 1": "A business group can exert influence over a board through relatives, close associates, affiliated companies, proxy shareholders or companies linked to its interests, in addition to family members.",
+      "Original example 2": "Opportunities to conceal the actual ownership structure through proxy shareholders, nominees and affiliated entities must be closed.",
+      "Common collocations / grammar pattern": "through proxy shareholders; proxy shareholders and nominees; conceal ownership through proxy shareholders",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq",
+      "Exam value": "Core bank-governance phrase for BCS/Bank questions on ownership, boards and the Bank Company Act."
+    },
+    {
+      "Phrase": "asset quality",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "সম্পদের মান",
+      "English explanation": "How sound a bank's loans and other assets are; poor asset quality means many loans may not be repaid.",
+      "Usage / register": "Formal, banking and central-bank reporting.",
+      "Original example 1": "Bangladesh Bank is conducting an asset quality review using internationally recognised methods to assess the financial condition of the banking sector, particularly struggling banks.",
+      "Original example 2": "The review, nearing completion, has revealed the extent of longstanding irregularities, poor loan management and deteriorating asset quality.",
+      "Common collocations / grammar pattern": "asset quality review; deteriorating asset quality; assess asset quality",
+      "Source publication": "bdnews24.com",
+      "Article headline": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://bdnews24.com/business/cfy6siz3oi",
+      "Exam value": "Core banking phrase for BCS/Bank questions on non-performing loans and bank reform."
+    },
+    {
+      "Phrase": "democratic transition",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "গণতান্ত্রিক উত্তরণ",
+      "English explanation": "The process by which a country moves towards, or consolidates, democratic rule after a period of non-democratic government.",
+      "Usage / register": "Formal, political and diplomatic reporting.",
+      "Original example 1": "Several Western diplomats, speaking on condition of anonymity, confirmed to this correspondent that the state minister had urged international partners to stand by Bangladesh and engage constructively during the country's democratic transition.",
+      "Original example 2": "He said the government was committed to ensuring that these incidents did not disrupt the country's democratic transition.",
+      "Common collocations / grammar pattern": "during the democratic transition; advance the democratic transition; disrupt the democratic transition",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/178tc173bb",
+      "Exam value": "Core politics phrase for BCS/Bank questions on Bangladesh's current transition and diplomacy."
+    },
+    {
+      "Phrase": "law enforcement agencies",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "আইনশৃঙ্খলা রক্ষাকারী সংস্থা",
+      "English explanation": "Government bodies, such as the police, responsible for enforcing the law and keeping order.",
+      "Usage / register": "Formal, law-and-order and political reporting.",
+      "Original example 1": "He said the party was trying to undermine peace and stability by provoking clashes with law enforcement agencies.",
+      "Original example 2": "Law enforcement agencies had been instructed to take firm, professional and proportionate action, he added.",
+      "Common collocations / grammar pattern": "clashes with law enforcement agencies; law enforcement agencies instructed to take action",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/178tc173bb",
+      "Exam value": "Core law-and-order phrase for BCS/Bank Bangladesh-affairs questions."
+    },
+    {
+      "Phrase": "atmosphere of fear",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "ভয়ের পরিবেশ",
+      "English explanation": "A widespread feeling of fear and insecurity among people, often created deliberately.",
+      "Usage / register": "Formal, political reporting.",
+      "Original example 1": "The government has told foreign diplomats that the activities-banned Awami League is creating an atmosphere of fear and insecurity in the country.",
+      "Original example 2": "Addressing the diplomats, Humaiun Kobir further said, “They (the Awami League) are trying to create an atmosphere of fear and insecurity among the people. They are provoking clashes with law enforcement agencies to create a perception of political chaos.”",
+      "Common collocations / grammar pattern": "create an atmosphere of fear; atmosphere of fear and insecurity",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/178tc173bb",
+      "Exam value": "Useful BCS/Bank collocation for politics, law-and-order and descriptive writing passages."
+    },
+    {
+      "Phrase": "trade agreements",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "বাণিজ্য চুক্তি",
+      "English explanation": "Formal deals between countries setting the terms on which they trade with each other.",
+      "Usage / register": "Formal, trade and international-affairs reporting.",
+      "Original example 1": "China is expected to face the highest tariff burden “due to the extent of its subsidies”, while countries that have previously reached trade agreements with Washington, including Japan and the EU, may face tariffs capped at “around 15% or lower”.",
+      "Original example 2": "Economies without existing trade agreements with the United States, including Vietnam and India, are expected to face higher rates.",
+      "Common collocations / grammar pattern": "reach trade agreements; existing trade agreements; trade agreements with Washington",
+      "Source publication": "The Business Standard",
+      "Article headline": "US prepares new tariffs on China, EU and 14 other economies",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/worldbiz/usa/us-prepares-new-tariffs-china-eu-and-14-other-economies-1613176",
+      "Exam value": "Core trade phrase for BCS/Bank questions on US tariffs, the EU and Bangladesh's trade partners."
+    },
+    {
+      "Phrase": "foreign exchange",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "বৈদেশিক মুদ্রা",
+      "English explanation": "The currency of other countries, and the system of buying and selling it.",
+      "Usage / register": "Formal, banking and economy reporting.",
+      "Original example 1": "The central bank's Foreign Exchange Policy Department (FEPD) issued the clarification in a notice today (24 November).",
+      "Original example 2": "The meeting at Bangladesh Bank headquarters reviewed the foreign exchange market and measures to stabilise it.",
+      "Common collocations / grammar pattern": "foreign exchange market; Foreign Exchange Policy Department; foreign exchange reserves",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856",
+      "Exam value": "Core BCS/Bank phrase for reserves, exchange rates and central-bank policy."
+    },
+    {
+      "Phrase": "foreign investment",
+      "Type": "Noun phrase / collocation",
+      "Bangla meaning": "বিদেশি বিনিয়োগ",
+      "English explanation": "Money invested in a country by people, companies or governments from other countries.",
+      "Usage / register": "Formal, industry and economy reporting.",
+      "Original example 1": "The options included foreign investment, Balancing, Modernization and Replacement (BMR), Public-Private Partnership (PPP) and Government-to-Government (G2G) arrangements.",
+      "Original example 2": "After reviewing it, the Commission informed KPM authorities that the government was seeking investment from both domestic and foreign sources.",
+      "Common collocations / grammar pattern": "attract foreign investment; foreign investment and PPP; seek foreign investment",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Govt moves to revive ailing Karnaphuli Paper Mills",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/business/local/oqjftm1pwo",
+      "Exam value": "Core BCS/Bank phrase for industry, revival of state-owned enterprises and economy questions. Note: example 2 contains the phrase's key words 'foreign' and 'investment' rather than the exact contiguous phrase."
+    },
+    {
+      "Phrase": "AI for the Global South",
+      "Type": "Noun phrase / proper name",
+      "Bangla meaning": "গ্লোবাল সাউথের জন্য এআই",
+      "English explanation": "The name of Bangladesh's first AI-focused quarterly bulletin, and the idea of artificial intelligence serving developing countries.",
+      "Usage / register": "Formal, ICT and education reporting; a publication title.",
+      "Original example 1": "\"AI for the Global South: A Quarterly Bulletin\", Bangladesh's first AI-focused quarterly bulletin, was launched today (24 November) with the release of its inaugural issue.",
+      "Original example 2": "Our goal should be not AI for the Global South, but AI by the Global South.",
+      "Common collocations / grammar pattern": "AI for the Global South bulletin; AI by the Global South; AI for the Global South launched",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladeshs-first-ai-bulletin-ai-global-south-launched-1612921",
+      "Exam value": "Live current-affairs title for BCS/Bank ICT questions on AI and the Global South."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Current Affairs",
+      "question": "Under the draft banking-law amendments, how many directors from a single family would be allowed on a bank board, down from three?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Four",
+        "D": "Six"
+      },
+      "correct": "B",
+      "explanation": "The adviser says the draft proposes reducing the maximum number of directors from a single family from three to two.",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Current Affairs",
+      "question": "At which serial numbers of Appendix A of FEPCD-1 Circular No 17 will fabric toy and tent exporters get cash assistance?",
+      "options": {
+        "A": "Serial numbers 1, 3 and 4",
+        "B": "Serial numbers 2, 3 and 5",
+        "C": "Serial numbers 1, 2 and 5",
+        "D": "Serial numbers 1, 4 and 6"
+      },
+      "correct": "C",
+      "explanation": "Bangladesh Bank clarified that exporters will get cash assistance at the rates in serial numbers 1, 2 and 5 of Appendix A of FEPCD-1 Circular No 17, dated 5 July 2026.",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Current Affairs",
+      "question": "How long is Bangladesh Bank's reform roadmap to restore public confidence in banks, and how many phases does it have?",
+      "options": {
+        "A": "A two-year, two-phase programme",
+        "B": "A five-year, three-phase programme",
+        "C": "A four-year, four-phase programme",
+        "D": "A three-year, four-phase programme"
+      },
+      "correct": "C",
+      "explanation": "Bangladesh Bank set out a four-year, four-phase reform roadmap to restore stability, good governance and public trust in banks.",
+      "source": "CA03"
+    },
+    {
+      "no": 4,
+      "section": "Current Affairs",
+      "question": "According to the BRAC-BIGD study, how much rent does a battery-rickshaw driver in Dhaka pay on average each month out of average earnings of Tk 29,000?",
+      "options": {
+        "A": "Tk 8,500",
+        "B": "Tk 9,200",
+        "C": "Tk 11,000",
+        "D": "Tk 10,323"
+      },
+      "correct": "D",
+      "explanation": "A driver earns an average of Tk 29,000 a month and pays Tk 10,323 of it, 38.6 per cent, in rent to the rickshaw owner.",
+      "source": "CA04"
+    },
+    {
+      "no": 5,
+      "section": "Current Affairs",
+      "question": "According to the Bangladesh Bureau of Statistics, what is the computer usage rate in Bangladesh cited in the NEIR column?",
+      "options": {
+        "A": "21.8%",
+        "B": "11.8%",
+        "C": "18.1%",
+        "D": "8.1%"
+      },
+      "correct": "B",
+      "explanation": "The column says that according to the Bangladesh Bureau of Statistics, the computer usage rate in the country stands at just 11.8%.",
+      "source": "CA06"
+    },
+    {
+      "no": 6,
+      "section": "Current Affairs",
+      "question": "What monthly dollar shortage has stalled interbank dollar trading in Bangladesh?",
+      "options": {
+        "A": "A monthly $1 billion shortage",
+        "B": "A monthly $500 million shortage",
+        "C": "A monthly $2 billion shortage",
+        "D": "A monthly $100 million shortage"
+      },
+      "correct": "A",
+      "explanation": "Bangladesh faces a monthly $1 billion dollar shortage that has stalled interbank dollar trading.",
+      "source": "CA07"
+    },
+    {
+      "no": 7,
+      "section": "Current Affairs",
+      "question": "How many incidents of violence at how many locations did the government record between 1 and 21 November, according to the state minister?",
+      "options": {
+        "A": "150 incidents at 30 locations",
+        "B": "121 incidents at 41 locations",
+        "C": "158 incidents at 41 locations",
+        "D": "185 incidents at 50 locations"
+      },
+      "correct": "C",
+      "explanation": "The state minister said the government had recorded 158 incidents of violence at 41 locations between 1 and 21 November.",
+      "source": "CA09"
+    },
+    {
+      "no": 8,
+      "section": "Current Affairs",
+      "question": "How many Grameen Bank branches did Muhammad Yunus allege had been attacked with petrol bombs, out of more than 2,500 branches?",
+      "options": {
+        "A": "Nearly 50 branches",
+        "B": "Nearly 200 branches",
+        "C": "Nearly 25 branches",
+        "D": "Nearly 100 branches"
+      },
+      "correct": "D",
+      "explanation": "Yunus alleged that nearly 100 branches of Grameen Bank have been attacked with petrol bombs, out of more than 2,500 branches nationwide.",
+      "source": "CA10"
+    },
+    {
+      "no": 9,
+      "section": "Current Affairs",
+      "question": "By about how much has Karnaphuli Paper Mills' annual production fallen from around 20,000 tonnes 15 years ago to about 3,000 tonnes now?",
+      "options": {
+        "A": "By about 87%",
+        "B": "By about 50%",
+        "C": "By about 30%",
+        "D": "By about 65%"
+      },
+      "correct": "A",
+      "explanation": "The mill, which produced around 20,000 tonnes a year 15 years ago, now produces only about 3,000 tonnes, a decline of about 87%.",
+      "source": "CA11"
+    },
+    {
+      "no": 10,
+      "section": "Current Affairs",
+      "question": "Who is the editor of 'AI for the Global South: A Quarterly Bulletin', Bangladesh's first AI-focused quarterly bulletin?",
+      "options": {
+        "A": "Bobby Hajjaj",
+        "B": "Masud Jamil Khan",
+        "C": "Nazrul Islam",
+        "D": "Argus Diplomatic Intelligence"
+      },
+      "correct": "B",
+      "explanation": "Masud Jamil Khan, editor of the bulletin and president of the Eelaia Foundation, said it aims to become a milestone in AI education.",
+      "source": "CA12"
+    },
+    {
+      "no": 11,
+      "section": "Current Affairs",
+      "question": "Under the Special Solar Power Installation Ordinance, 2026, what is the time-bound export incentive for rooftop solar?",
+      "options": {
+        "A": "Tk 8.5 per kWh",
+        "B": "Tk 12.5 per kWh",
+        "C": "Tk 9.5 per kWh",
+        "D": "Tk 10.5 per kWh"
+      },
+      "correct": "D",
+      "explanation": "The ordinance offers a time-bound Tk10.5/kWh export incentive for rooftop solar.",
+      "source": "CA13"
+    },
+    {
+      "no": 12,
+      "section": "Current Affairs",
+      "question": "On how many economies in all is the United States preparing new tariffs, according to the report?",
+      "options": {
+        "A": "14 economies",
+        "B": "15 economies",
+        "C": "16 economies",
+        "D": "18 economies"
+      },
+      "correct": "C",
+      "explanation": "The United States is preparing new tariffs on China, the European Union and 14 other economies -- 16 in all.",
+      "source": "CA14"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "What minimum monthly wage for garment workers was set by the Minimum Wage Board, effective from December?",
+      "options": {
+        "A": "Tk 17,000",
+        "B": "Tk 18,000",
+        "C": "Tk 15,700",
+        "D": "Tk 21,500"
+      },
+      "correct": "A",
+      "explanation": "The minimum monthly wage for garment workers has been set at Tk17,000 after a 4-2 vote, effective from December. Tk18,000 was the workers' demand and Tk21,500 is the Grade 1 wage.",
+      "source": "CA15"
+    },
+    {
+      "no": 14,
+      "section": "Vocabulary",
+      "question": "What does 'oligarchic' mean in the phrase 'break this oligarchic control'?",
+      "options": {
+        "A": "Control by elected local councils",
+        "B": "Control by foreign investors alone",
+        "C": "Control by a workers' cooperative",
+        "D": "Control by a few powerful families"
+      },
+      "correct": "D",
+      "explanation": "Oligarchic means relating to rule by a small group of powerful people; here it is family and business-group control of bank boards.",
+      "source": "CA01"
+    },
+    {
+      "no": 15,
+      "section": "Vocabulary",
+      "question": "In the draft banking amendments, what is being cut from 12 years to six years?",
+      "options": {
+        "A": "The break a director must take",
+        "B": "The maximum consecutive tenure",
+        "C": "The term of the Bank Company Act",
+        "D": "The age limit for bank directors"
+      },
+      "correct": "B",
+      "explanation": "The draft proposes reducing the maximum consecutive tenure of a director from 12 years to six.",
+      "source": "CA01"
+    },
+    {
+      "no": 16,
+      "section": "Vocabulary",
+      "question": "What does 'conceal' mean in 'Opportunities to conceal the actual ownership structure ... must be closed'?",
+      "options": {
+        "A": "To register ownership openly",
+        "B": "To transfer ownership legally",
+        "C": "To hide the real ownership",
+        "D": "To divide ownership equally"
+      },
+      "correct": "C",
+      "explanation": "Conceal means to hide something so it cannot be seen or known; here, hiding who really owns a bank.",
+      "source": "CA01"
+    },
+    {
+      "no": 17,
+      "section": "Vocabulary",
+      "question": "Who are 'proxy shareholders' in the banking article?",
+      "options": {
+        "A": "Shareholders acting for someone else",
+        "B": "Shareholders who own the largest single stake",
+        "C": "Shareholders appointed by Bangladesh Bank",
+        "D": "Shareholders who have sold all their shares"
+      },
+      "correct": "A",
+      "explanation": "A proxy is a person authorised to act for another; proxy shareholders hold shares and vote for the real owner behind them.",
+      "source": "CA01"
+    },
+    {
+      "no": 18,
+      "section": "Vocabulary",
+      "question": "What did Bangladesh Bank issue about cash assistance for fabric toy and tent exports?",
+      "options": {
+        "A": "A new tax on toy exports",
+        "B": "A ban on tent exports",
+        "C": "A loan for toy exporters",
+        "D": "A clarification of rates"
+      },
+      "correct": "D",
+      "explanation": "The Foreign Exchange Policy Department issued the clarification in a notice on 24 November, setting out the applicable cash assistance rates.",
+      "source": "CA02"
+    },
+    {
+      "no": 19,
+      "section": "Vocabulary",
+      "question": "What does 'deteriorating asset quality' mean in the Bangladesh Bank story?",
+      "options": {
+        "A": "Asset quality that is improving fast",
+        "B": "Asset quality that is becoming worse",
+        "C": "Asset quality that is unchanged",
+        "D": "Asset quality that is fully audited"
+      },
+      "correct": "B",
+      "explanation": "Deteriorating means becoming worse over time; the review found poor loan management and deteriorating asset quality.",
+      "source": "CA03"
+    },
+    {
+      "no": 20,
+      "section": "Vocabulary",
+      "question": "What does 'viability' mean in 'restore financial viability'?",
+      "options": {
+        "A": "A bank's ability to keep working",
+        "B": "The size of a bank's branch network",
+        "C": "The number of a bank's depositors",
+        "D": "The speed of a bank's loan approvals"
+      },
+      "correct": "A",
+      "explanation": "Viability means the ability to work successfully or continue to exist; here, restoring a struggling bank's financial viability.",
+      "source": "CA03"
+    },
+    {
+      "no": 21,
+      "section": "Vocabulary",
+      "question": "What is a 'livelihood crisis' as faced by 42.2% of the rickshaw drivers surveyed?",
+      "options": {
+        "A": "A crisis in earning a living",
+        "B": "A crisis in road traffic rules",
+        "C": "A crisis in vehicle manufacturing",
+        "D": "A crisis in fuel prices only"
+      },
+      "correct": "A",
+      "explanation": "Livelihood is the way a person earns money to live; a livelihood crisis means their means of earning a living was badly hit.",
+      "source": "CA04"
+    },
+    {
+      "no": 22,
+      "section": "Vocabulary",
+      "question": "What does 'granular' mean in 'real-time, granular, demand-side data'?",
+      "options": {
+        "A": "Data collected only once a year",
+        "B": "Data about grain production",
+        "C": "Data that is kept secret",
+        "D": "Very detailed data"
+      },
+      "correct": "D",
+      "explanation": "Granular means very detailed, breaking something down into small, specific parts; NEIR would give granular data on smartphone ownership.",
+      "source": "CA06"
+    },
+    {
+      "no": 23,
+      "section": "Vocabulary",
+      "question": "In the wage story, what does Babul Akter mean by saying the Tk4,500 increase 'was not insignificant'?",
+      "options": {
+        "A": "The increase was worthless",
+        "B": "The increase was not unimportant",
+        "C": "The increase was never paid",
+        "D": "The increase was larger than Tk18,000"
+      },
+      "correct": "B",
+      "explanation": "Insignificant means too small or unimportant to matter, so 'not insignificant' means the increase was not unimportant.",
+      "source": "CA15"
+    },
+    {
+      "no": 24,
+      "section": "Phrases",
+      "question": "What is 'cash assistance' in the Bangladesh Bank story?",
+      "options": {
+        "A": "A loan that exporters must repay with interest",
+        "B": "A tax charged on fabric toy exports",
+        "C": "Government money to support exporters",
+        "D": "A fine imposed on banks for late payments"
+      },
+      "correct": "C",
+      "explanation": "Cash assistance is money paid by the government to exporters as support; fabric toy and tent exporters receive it at the rates in Appendix A.",
+      "source": "CA02"
+    },
+    {
+      "no": 25,
+      "section": "Phrases",
+      "question": "Why do 'trade agreements' matter in the US tariffs story?",
+      "options": {
+        "A": "Countries with trade agreements face higher tariffs",
+        "B": "Countries without trade agreements are exempt",
+        "C": "Steel and aluminium are covered by them",
+        "D": "Deal partners may face tariffs capped near 15%"
+      },
+      "correct": "D",
+      "explanation": "Countries that have previously reached trade agreements with Washington, including Japan and the EU, may face tariffs capped at around 15% or lower, while those without agreements face higher rates.",
+      "source": "CA14"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "We are reforming the banking sector to break oligarchic control",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://en.prothomalo.com/opinion/interview/gu16lf21kq"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24.com",
+      "Headline / report": "Bangladesh Bank rolls out roadmap to restore public confidence in banks",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://bdnews24.com/business/cfy6siz3oi"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Battery-rickshaw drivers earn Tk 29,000 a month, pay Tk 10,323 in rent",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/8za4d69h1q"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bank Asia partners with Bangladesh General Insurance for two-wheeler coverage",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/economy/corporates/bank-asia-partners-bangladesh-general-insurance-two-wheeler-coverage-1612896"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "NEIR could be a goldmine for Bangladesh's digital policymaking",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/thoughts/neir-could-be-goldmine-bangladeshs-digital-policymaking-1613106"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "BB to collect LC payment schedules early as aggregators exploit due dates",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/economy/banking/bb-collect-lc-payment-schedules-early-aggregators-exploit-due-dates-1613166"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Awami League trying to undermine Bangladesh peace and stability: State Minister to diplomats",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/178tc173bb"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Yahoo",
+      "Headline / report": "Bangladesh's Yunus alleges arson attacks on his microlending banks",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.yahoo.com/news/world/articles/bangladeshs-yunus-alleges-arson-attacks-154832491.html"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Govt moves to revive ailing Karnaphuli Paper Mills",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://en.prothomalo.com/business/local/oqjftm1pwo"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/bangladeshs-first-ai-bulletin-ai-global-south-launched-1612921"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "New solar ordinance: Turning rooftop obligations into sustainable investment",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/thoughts/new-solar-ordinance-turning-rooftop-obligations-sustainable-investment-1612276"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "US prepares new tariffs on China, EU and 14 other economies",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.tbsnews.net/worldbiz/usa/us-prepares-new-tariffs-china-eu-and-14-other-economies-1613176"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Minimum garment wage set at Tk 17,000 after vote, workers accept decision despite dissatisfaction",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/economy/rmg/minimum-garment-wage-set-tk17000-after-vote-workers-accept-decision-despite"
+    }
+  ],
+  "approved_by": "auto-17/17 (Rudro's v1 rule 2026-11-13)",
+  "approval_notes": "Review 17/17. Longest-correct: 12/25 strict (all twelve are all-equal-option ties); 0/25 by the gate definition (unique longest, all-equal excluded). Manual spot-checks done by the operator: lead figures verified against source bodies for CA01 (directors 3 to 2, tenure 12 to 6 years), CA02 (serial nos. 1/2/5, FEPCD-1 Circular No 17, 5 July 2026), CA03 (4-year, 4-phase), CA04 (Tk 29,000, Tk 10,323, 38.6%, 450 drivers), CA15 (Tk 17,000, 4-2 vote, Tk 18,000 demand, Tk 4,500 rise, Grades Tk 21,500/Tk 20,000). Opinion attribution checked: CA01 interview fully attributed ('the adviser argues', 'he says'); CA06 NEIR column ('the column argues', 'the analysis says'); CA13 solar column ('the column argues', 'the column says'). Pack written by operator (agent), acting as the Claude Project. v1 fallback day: v2 failed at convert (11 fresh words vs 20 required — word-bank exhaustion; 196 of 207 matched words already used in earlier editions). Drops: CA08 (Google-News-only, Rule 8), ranker CA15 employment-led growth opinion (lede-only, no fetched body); promotion: TBS garment minimum-wage story (Tk 17,000) as CA15. Honest limit: checks 13 and 17 include proxy checks and manual spot-checks that got no human eye beyond the operator's checks above; the checks verify form, not content against sources."
+}

@@ -343,10 +343,23 @@
       "revision_words": 5,
       "sources": 15,
       "coverage": "23 Nov 2026, 7:47 AM to 2026-11-24, 7:47 AM (Asia/Dhaka)"
+    },
+    {
+      "edition_date": "2026-11-25",
+      "file": "data-2026-11-25.json",
+      "status": "published",
+      "review": "v1 fallback 17/17 passed; auto-published under Rudro's v1 rule (17/17 + longest-correct 0/25 gate-def); pack: agent (coordinator + writers). 14 stories; drops: CA08 Google-News-only, ranker CA15 employment-led growth opinion (lede-only, no body); promotion: TBS garment minimum-wage story Tk17,000 as CA15. V2 did not complete today (convert failed: 11 fresh words vs 20 required, word-bank exhaustion). v1 fallback does NOT advance the v2 proof; correct-consecutive stays 5.",
+      "stories": 14,
+      "words": 20,
+      "phrases": 10,
+      "mcqs": 25,
+      "revision_words": 5,
+      "sources": 14,
+      "coverage": "24 Nov 2026, 7:47 AM to 2026-11-25, 7:47 AM (Asia/Dhaka)"
     }
   ],
   "correct_consecutive_editions": 5,
-  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 5.",
+  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 5. Edition 19 (25 Nov 2026) is a v1-format fallback (v2 failed at convert: word-bank exhaustion) and does not advance the v2 proof.",
   "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
   "renovation_summary": {
     "format": "learning-module-v2",
