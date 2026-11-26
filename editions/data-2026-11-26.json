@@ -1,0 +1,2307 @@
+{
+  "edition_date": "2026-11-26",
+  "edition_day": "Thursday",
+  "coverage": "25 Nov 2026, 7:47 AM to 2026-11-26, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "id": "CA01",
+      "headline": "Impactful social relationships: A smarter investment for Bangladesh’s youth",
+      "category": "Editorial & Opinion",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Columnist M M Mahbub Hasan proposes “Impactful Social Relationships” (ISR): young people should invest their time and attention as carefully as money, since lost money can be earned again but lost time never returns. He cites the BBS Labour Force Survey 2024 — youth unemployment 8.07% against a national 3.66%, 885,000 of the 2.624 million unemployed being graduates, and 20.3% of youth (about 8.56 million) NEET — arguing purposeful relationships build the skills, confidence and contacts that certificates alone cannot, a youth-employment hook for BCS/Bank.",
+      "exam_facts": "The columnist illustrates his argument with two fictional but familiar university friends: Rakib spends his evenings at the tea stall and on his phone, while Tania’s small group meets twice a week to learn something new, a teacher has drawn her into research, and she volunteers regularly — so at graduation their certificates are identical but their experience, confidence and contacts are not. He says the causes of youth joblessness are structural — a limited job market, a skills mismatch and social barriers for women — and that solving them is chiefly for the state. The author draws on two decades in development research and banking.",
+      "figures": "Youth unemployment (ages 15–29) 8.07% vs national 3.66%; graduates 885,000 of 2.624 million unemployed; graduate jobless rate 13.54% (highest by education level); NEET 20.3% of youth, about 8.56 million (BBS Labour Force Survey 2024)",
+      "key_people": "M M Mahbub Hasan, banker and development researcher (columnist); Rakib and Tania, fictional university friends used as examples in the column",
+      "why_it_matters": "The 8.07% youth jobless rate, the 13.54% graduate rate and the 20.3% NEET share are the exact BBS 2024 figures BCS/Bank questions ask for on youth unemployment, and they sit alongside the structural causes — a limited job market, skills mismatch and barriers for women — that frame every follow-up story on graduate unemployment.",
+      "exam_relevance": "Youth unemployment, graduate unemployment, NEET, Labour Force Survey 2024, development and employment policy — core BCS/Bank topics on Bangladesh’s labour market.",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "Impactful social relationships: A smarter investment for Bangladesh’s youth",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/thoughts/impactful-social-relationships-smarter-investment-bangladeshs-youth-1613316"
+        }
+      ],
+      "one_liner": "Columnist M M Mahbub Hasan proposes “Impactful Social Relationships” (ISR): young people should invest their time and attention as carefully…",
+      "key_facts": [
+        {
+          "label": "Youth unemployment (ages ) 8.07% vs…",
+          "value": "15–29",
+          "original": "Youth unemployment (ages 15–29) 8.07% vs national 3.66%"
+        },
+        {
+          "label": "graduates of 2.624 million unemployed",
+          "value": "885,000",
+          "original": "graduates 885,000 of 2.624 million unemployed"
+        },
+        {
+          "label": "highest by education level",
+          "value": "graduate jobless rate 13.54%",
+          "original": "graduate jobless rate 13.54% (highest by education level)"
+        },
+        {
+          "label": "BBS Labour Force Survey 2024",
+          "value": "NEET 20.3% of youth, about 8.56 million",
+          "original": "NEET 20.3% of youth, about 8.56 million (BBS Labour Force Survey 2024)"
+        }
+      ],
+      "what_happened": [
+        "He cites the BBS Labour Force Survey 2024 — youth unemployment 8.07% against a national 3.66%,",
+        "885,000 of the 2.624 million unemployed being graduates, and 20.3% of youth (about 8.56 million) NEET — arguing purposeful relationships build the skills, confidence and contacts that certificates alone cannot, a youth-employment hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "What share of young people are NEET, per the BBS Labour Force Survey 2024?",
+          "a": "20.3% (about 8.56 million)"
+        },
+        {
+          "q": "What is the youth unemployment rate, against the national rate?",
+          "a": "8.07% vs 3.66%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "He cites the BBS Labour Force Survey ______ — youth unemployment 8.07% against a national 3.66%, 885,000 of the 2.624 million unemployed being graduates, and 20.3% of youth (about 8.56 million) NEET — arguing purposeful relationships build the skills, confidence and contacts that certificates alone cannot, a youth-employment hook for BCS/Bank.",
+          "answer": "2024"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "impactful",
+        "social",
+        "relationships",
+        "smarter",
+        "investment",
+        "bangladesh",
+        "youth"
+      ],
+      "detail": "Columnist M M Mahbub Hasan proposes “Impactful Social Relationships” (ISR): young people should invest their time and attention as carefully as money, since lost money can be earned again but lost time never returns. He cites the BBS Labour Force Survey 2024 — youth unemployment 8.07% against a national 3.66%, 885,000 of the 2.624 million unemployed being graduates, and 20.3% of youth (about 8.56 million) NEET — arguing purposeful relationships build the skills, confidence and contacts that certificates alone cannot, a youth-employment hook for BCS/Bank."
+    },
+    {
+      "id": "CA02",
+      "headline": "Bangladesh raises garment workers' minimum wage 36% after protests",
+      "category": "Economy & Banking",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Bangladesh raised garment workers’ minimum wage by 36% — from Tk 12,500 to Tk 17,000 ($139) — on 25 November after weeks of protests since October, the smallest rise in more than a decade. Workers had demanded Tk 30,000 ($240), saying pay lagged food, housing, transport and health costs. The BGMEA put protest losses at $428 million with $254 million of orders shifted abroad; the wage board voted for Tk 17,000 and the rise takes effect in January, feeding BCS/Bank questions on RMG wages and exports.",
+      "exam_facts": "The garment industry is the world’s second-biggest exporter behind China, accounts for four-fifths of Bangladesh’s export earnings and employs more than four million people. Workers previously got a wage revision every five years, but this time the revision came after three years. On 25 November several hundred protesters set up barricades in Gazipur, some hurling rocks, before police dispersed them with tear gas and stun grenades. Workers’ representative Babul Akhter said workers were “not completely satisfied” but the outcome was “not entirely bad”; union official Kamrul Hasan said workers accepted the offer, noting medium and small factories could not pay much more. MSN reported the rise as the smallest percentage increase since the sector’s first minimum wage was set in 1986.",
+      "figures": "Minimum wage Tk 12,500 to Tk 17,000 (+36%, $139); workers’ demand Tk 30,000 ($240); BGMEA losses $428 million; orders shifted abroad $254 million; RMG four-fifths of export earnings; more than 4 million workers; wage rise effective January",
+      "key_people": "Judge Syed Azad Subhani, chairman of the government-appointed garment industry wage board; Babul Akhter, workers’ representative on the wage board; Kamrul Hasan, senior union official, Ekota Garments Sramik Federation; Al Amin, garment worker in Gazipur; Mahdi Amin, prime minister’s adviser on labour",
+      "why_it_matters": "The Tk 17,000 figure, the 36% rise and the Tk 30,000 demand are the numbers for BCS/Bank questions on RMG wages, and with garments providing four-fifths of export earnings and over four million jobs, every wage round also moves the export and foreign-exchange story.",
+      "exam_relevance": "RMG minimum wage, wage board, BGMEA, export earnings, labour unrest — core BCS/Bank topics on Bangladesh’s garment economy.",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "Bangladesh garment workers win wage rise after weeks of protests",
+          "publication": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/bangladesh-garment-workers-win-wage-112509738.html"
+        },
+        {
+          "date": "2026-11-25",
+          "headline": "Bangladesh raises garment workers' minimum wage 36% after protests",
+          "publication": "MSN",
+          "url": "https://www.msn.com/en-us/money/economy/bangladesh-raises-garment-workers-minimum-wage-36-after-protests/ar-AA2iatmW"
+        }
+      ],
+      "one_liner": "Bangladesh raised garment workers’ minimum wage by 36% — from Tk 12,500 to Tk 17,000 ($139) — on 25 November…",
+      "key_facts": [
+        {
+          "label": "+36%, $139",
+          "value": "Minimum wage Tk 12,500 to Tk 17,000",
+          "original": "Minimum wage Tk 12,500 to Tk 17,000 (+36%, $139)"
+        },
+        {
+          "label": "$240",
+          "value": "workers’ demand Tk 30,000",
+          "original": "workers’ demand Tk 30,000 ($240)"
+        },
+        {
+          "label": "BGMEA losses",
+          "value": "$428 million",
+          "original": "BGMEA losses $428 million"
+        },
+        {
+          "label": "orders shifted abroad",
+          "value": "$254 million",
+          "original": "orders shifted abroad $254 million"
+        }
+      ],
+      "what_happened": [
+        "Workers had demanded Tk 30,000 ($240), saying pay lagged food, housing, transport and health costs.",
+        "The BGMEA put protest losses at $428 million with $254 million of orders shifted abroad; the wage board voted for Tk 17,",
+        "000 and the rise takes effect in January, feeding BCS/Bank questions on RMG wages and exports."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is the new garment workers' minimum wage?",
+          "a": "Tk 17,000 a month (+36%, up from Tk 12,500)"
+        },
+        {
+          "q": "What wage did the workers demand?",
+          "a": "Tk 30,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh raised garment workers’ minimum wage by 36% — from Tk 12,500 to Tk 17,000 ($139) — on ______ after weeks of protests since October, the smallest rise in more than a decade.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "Workers had demanded Tk ______ ($240), saying pay lagged food, housing, transport and health costs.",
+          "answer": "30,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "raises",
+        "garment",
+        "workers",
+        "minimum",
+        "wage",
+        "protests"
+      ],
+      "detail": "Bangladesh raised garment workers’ minimum wage by 36% — from Tk 12,500 to Tk 17,000 ($139) — on 25 November after weeks of protests since October, the smallest rise in more than a decade. Workers had demanded Tk 30,000 ($240), saying pay lagged food, housing, transport and health costs. The BGMEA put protest losses at $428 million with $254 million of orders shifted abroad; the wage board voted for Tk 17,000 and the rise takes effect in January, feeding BCS/Bank questions on RMG wages and exports."
+    },
+    {
+      "id": "CA03",
+      "headline": "US unveils proposed tariffs on major partners, including EU and China",
+      "category": "World",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "US President Donald Trump on 25 November proposed new tariffs on 14 trading partners, including Bangladesh, China, India and the EU, after an eight-month Section 301 probe into alleged excess industrial capacity. China faces the highest rate, 20%, blamed for flooding world markets with cheap steel, electric vehicles and solar products. The duties will not stack on some earlier tariff rounds or exceed negotiated caps, but MSCI’s world stock gauge fell 0.5% — a trade-policy and export question for BCS/Bank.",
+      "exam_facts": "The 14 partners named are Bangladesh, Cambodia, the European Union, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand, Vietnam and China; Mexico and Norway are excluded from the new levies. The duties would not apply to about $30 billion of Chinese imports the US is considering for tariff reductions, but would add to roughly 25% tariffs on China from Trump’s first term, and would not exceed a 20% cap for China under a year-old truce due to expire on 10 January. A Reuters/Ipsos poll found 62% of respondents would support repealing the tariffs, and Trump has said he plans to rebuild duties the US Supreme Court struck down in February. Note: a separate Prothom Alo headline put the number of partners at 16, against 14 in the main report and the Dhaka Tribune headline. China’s Foreign Ministry spokesperson Guo Jiakun called overcapacity “a false issue”.",
+      "figures": "14 trading partners; China up to 20%; about $30 billion of Chinese imports under consideration for tariff reductions; first-term China tariffs about 25%; MSCI world stocks down 0.5%; 62% in Reuters/Ipsos poll back repealing tariffs; 8-month Section 301 probe",
+      "key_people": "Donald Trump, President of the United States; Xi Jinping, President of China; Guo Jiakun, spokesperson, Chinese Foreign Ministry",
+      "why_it_matters": "Bangladesh is named among the 14 partners facing new US duties, so the proposal feeds BCS/Bank questions on RMG exports and trade policy, and the Section 301 probe and the February Supreme Court ruling striking down earlier duties are the background for the next round of tariff news.",
+      "exam_relevance": "US tariffs, Section 301, excess industrial capacity, Bangladesh–US trade, RMG exports — core BCS/Bank topics on trade and foreign policy.",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "US proposes up to 20pc new tariffs on 14 major trading partners, including Bangladesh, China, India",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/business/local/ffog42c7y5"
+        },
+        {
+          "date": "2026-11-25",
+          "headline": "US unveils proposed tariffs on major partners, including EU and China",
+          "publication": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/north-america/425757/us-unveils-proposed-tariffs-on-major-partners"
+        }
+      ],
+      "one_liner": "US President Donald Trump on 25 November proposed new tariffs on 14 trading partners, including Bangladesh, China, India and the…",
+      "key_facts": [
+        {
+          "label": "China up to %",
+          "value": "20",
+          "original": "China up to 20%"
+        },
+        {
+          "label": "about of Chinese imports under consideration…",
+          "value": "$30 billion",
+          "original": "about $30 billion of Chinese imports under consideration for tariff reductions"
+        },
+        {
+          "label": "first-term China tariffs about %",
+          "value": "25",
+          "original": "first-term China tariffs about 25%"
+        },
+        {
+          "label": "MSCI world stocks down %",
+          "value": "0.5",
+          "original": "MSCI world stocks down 0.5%"
+        }
+      ],
+      "what_happened": [
+        "China faces the highest rate, 20%, blamed for flooding world markets with cheap steel, electric vehicles and solar products.",
+        "The duties will not stack on some earlier tariff rounds or exceed negotiated caps, but MSCI’s world stock gauge fell 0.5% — a trade-policy and export question for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many trading partners face the proposed new US tariffs?",
+          "a": "14"
+        },
+        {
+          "q": "What is the highest proposed rate, and for which country?",
+          "a": "20% for China"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "US President Donald Trump on ______ proposed new tariffs on 14 trading partners, including Bangladesh, China, India and the EU, after an eight-month Section 301 probe into alleged excess industrial capacity.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "China faces the highest rate, ______%, blamed for flooding world markets with cheap steel, electric vehicles and solar products.",
+          "answer": "20"
+        }
+      ],
+      "keywords": [
+        "world",
+        "unveils",
+        "proposed",
+        "tariffs",
+        "major",
+        "partners",
+        "including",
+        "china"
+      ],
+      "detail": "US President Donald Trump on 25 November proposed new tariffs on 14 trading partners, including Bangladesh, China, India and the EU, after an eight-month Section 301 probe into alleged excess industrial capacity. China faces the highest rate, 20%, blamed for flooding world markets with cheap steel, electric vehicles and solar products. The duties will not stack on some earlier tariff rounds or exceed negotiated caps, but MSCI’s world stock gauge fell 0.5% — a trade-policy and export question for BCS/Bank."
+    },
+    {
+      "id": "CA04",
+      "headline": "Bangladesh Bank reserve heist probe report deferred for 100th time",
+      "category": "Economy & Banking",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "A Dhaka court deferred the Bangladesh Bank reserve heist probe report for the 100th time on 25 November, after the CID failed to submit it; Additional Chief Metropolitan Magistrate Jashita Islam set 30 December as the next date. Hackers stole $81 million from Bangladesh Bank’s account with the US Federal Reserve on 5 February 2016, and the CID has investigated ever since the court handed it the case on 16 March 2016 — a banking, cybercrime and money-laundering staple for BCS/Bank.",
+      "exam_facts": "The case was filed on 15 March 2016 by Zobayer Bin Huda, then deputy director of Bangladesh Bank’s Accounts and Budgeting Department, at Motijheel Police Station under the Money Laundering Prevention Act, against unidentified individuals. The stolen money is believed to have been laundered with the help of a network operating within the country. The deferment was confirmed by Ruknuzzaman, a sub-inspector of the Dhaka Metropolitan Police’s prosecution division.",
+      "figures": "$81 million stolen; 100th deferment; next submission date 30 December 2026; heist 5 February 2016; case filed 15 March 2016; CID took over investigation 16 March 2016",
+      "key_people": "Jashita Islam, Dhaka Additional Chief Metropolitan Magistrate; Ruknuzzaman, sub-inspector, Dhaka Metropolitan Police prosecution division; Zobayer Bin Huda, then deputy director, Bangladesh Bank Accounts and Budgeting Department",
+      "why_it_matters": "The $81 million heist, the 5 February 2016 date and the 100th deferment are the fixed facts for BCS/Bank questions on Bangladesh Bank, cybercrime and money laundering, and the decade-long CID investigation with no report yet is the background every new deferment story repeats.",
+      "exam_relevance": "Bangladesh Bank reserve heist, CID investigation, Money Laundering Prevention Act, cybercrime — core BCS/Bank topics on banking and financial crime.",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "Bangladesh Bank reserve heist probe report deferred for 100th time",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/bangladesh-bank-reserve-heist-probe-report-deferred-100th-time-1613416"
+        }
+      ],
+      "one_liner": "A Dhaka court deferred the Bangladesh Bank reserve heist probe report for the 100th time on 25 November, after the…",
+      "key_facts": [
+        {
+          "label": "stolen",
+          "value": "$81 million",
+          "original": "$81 million stolen"
+        },
+        {
+          "label": "th deferment",
+          "value": "100",
+          "original": "100th deferment"
+        },
+        {
+          "label": "",
+          "value": "next submission date 30 December 2026",
+          "original": "next submission date 30 December 2026"
+        },
+        {
+          "label": "",
+          "value": "heist 5 February 2016",
+          "original": "heist 5 February 2016"
+        }
+      ],
+      "what_happened": [
+        "Hackers stole $81 million from Bangladesh Bank’s account with the US Federal Reserve on 5 February 2016,",
+        "and the CID has investigated ever since the court handed it the case on 16 March 2016 — a banking, cybercrime and money-laundering staple for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much money was stolen in the Bangladesh Bank reserve heist?",
+          "a": "$81 million"
+        },
+        {
+          "q": "How many times has the probe report been deferred?",
+          "a": "100 times (next date 30 December 2026)"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "A Dhaka court deferred the Bangladesh Bank reserve heist probe report for the 100th time on ______, after the CID failed to submit it; Additional Chief Metropolitan Magistrate Jashita Islam set 30 December as the next date.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "Hackers stole $81 million from Bangladesh Bank’s account with the US Federal Reserve on ______, and the CID has investigated ever since the court handed it the case on 16 March 2016 — a banking, cybercrime and money-laundering staple for BCS/Bank.",
+          "answer": "5 February 2016"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "reserve",
+        "heist",
+        "probe",
+        "report",
+        "deferred",
+        "time"
+      ],
+      "detail": "A Dhaka court deferred the Bangladesh Bank reserve heist probe report for the 100th time on 25 November, after the CID failed to submit it; Additional Chief Metropolitan Magistrate Jashita Islam set 30 December as the next date. Hackers stole $81 million from Bangladesh Bank’s account with the US Federal Reserve on 5 February 2016, and the CID has investigated ever since the court handed it the case on 16 March 2016 — a banking, cybercrime and money-laundering staple for BCS/Bank."
+    },
+    {
+      "id": "CA05",
+      "headline": "Sparking the grid: Readiness challenges of the operating organisation of Rooppur NPP",
+      "category": "Bangladesh",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Columnist Mohammad Shawkat Akbar argues Bangladesh’s entry into the “global nuclear club” now depends on the readiness of Rooppur’s operating organisation, after Power Unit 1 reached initial criticality and entered Stage C of power start-up commissioning, clearing the way for first trial supply and first grid connection. He warns starting a reactor is like “riding a tiger” — irreversible once critical — and says 80% of the nuclear system lies beneath the surface, in safety, security, logistics and governance.",
+      "exam_facts": "The columnist says keeping the reactor under control requires flawless trial runs and secure provisional acceptance of the power unit from the vendor or general contractor, verifying all technical and economic metrics against the plant’s design. He says the plant’s survival depends on an institutional ecosystem: a specialised government body (NEPIO), a strictly independent national nuclear regulator, and the plant operating organisation, all sustained by expert Technical Support Organisations (TSOs). He says the operating organisation carries the heaviest responsibility for safety and sustainability throughout the plant’s decades-long lifecycle. Note: the collected body text was truncated at 4,000 characters, so the column’s later sections were not available to this writer.",
+      "figures": "Rooppur NPP Power Unit 1; Stage C of power start-up commissioning after initial criticality; first grid connection (FGC); about 80% of the nuclear system beneath the surface in the author’s iceberg comparison",
+      "key_people": "Mohammad Shawkat Akbar (columnist)",
+      "why_it_matters": "Rooppur’s first grid connection is the milestone BCS/Bank questions will ask about for Bangladesh’s nuclear power, and the author’s NEPIO–regulator–operating-organisation–TSO structure is the governance background behind every later story on whether the plant runs safely.",
+      "exam_relevance": "Rooppur Nuclear Power Plant, first grid connection, NEPIO, nuclear regulation, energy security — core BCS/Bank topics on Bangladesh’s power sector.",
+      "sources": [
+        {
+          "date": "2026-11-25",
+          "headline": "Sparking the grid: Readiness challenges of the operating organisation of Rooppur NPP",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/thoughts/sparking-grid-readiness-challenges-operating-organisation-rooppur-npp-1613311"
+        }
+      ],
+      "one_liner": "Columnist Mohammad Shawkat Akbar argues Bangladesh’s entry into the “global nuclear club” now depends on the readiness of Rooppur’s operating…",
+      "key_facts": [
+        {
+          "label": "Rooppur NPP Power Unit",
+          "value": "1",
+          "original": "Rooppur NPP Power Unit 1"
+        },
+        {
+          "label": "FGC",
+          "value": "first grid connection",
+          "original": "first grid connection (FGC)"
+        },
+        {
+          "label": "about % of the nuclear system…",
+          "value": "80",
+          "original": "about 80% of the nuclear system beneath the surface in the author’s iceberg comparison"
+        },
+        {
+          "label": "The columnist says keeping the reactor…",
+          "value": "4,000",
+          "original": "The columnist says keeping the reactor under control requires flawless trial runs and secure provisional acceptance of the power unit from the vendor or general contractor, verifying all technical and economic metrics against the plant’s design. He says the plant’s survival depends on an institutional ecosystem: a specialised government body (NEPIO), a strictly independent national nuclear regulator, and the plant operating organisation, all sustained by expert Technical Support Organisations (TSOs). He says the operating organisation carries the heaviest responsibility for safety and sustainability throughout the plant’s decades-long lifecycle. Note: the collected body text was truncated at 4,000 characters, so the column’s later sections were not available to this writer"
+        }
+      ],
+      "what_happened": [
+        "He warns starting a reactor is like “riding a tiger” — irreversible once critical — and says 80% of the nuclear system lies beneath the surface,",
+        "in safety, security, logistics and governance."
+      ],
+      "exam_qa": [
+        {
+          "q": "What stage has Rooppur Power Unit 1 reached?",
+          "a": "Initial criticality, Stage C of power start-up commissioning"
+        },
+        {
+          "q": "What share of the nuclear system does the author say lies beneath the surface?",
+          "a": "About 80%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist Mohammad Shawkat Akbar argues Bangladesh’s entry into the “global nuclear club” now depends on the readiness of Rooppur’s operating organisation, after Power Unit ______ reached initial criticality and entered Stage C of power start-up commissioning, clearing the way for first trial supply and first grid connection.",
+          "answer": "1"
+        },
+        {
+          "cloze": "He warns starting a reactor is like “riding a tiger” — irreversible once critical — and says ______% of the nuclear system lies beneath the surface, in safety, security, logistics and governance.",
+          "answer": "80"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "sparking",
+        "grid",
+        "readiness",
+        "challenges",
+        "operating",
+        "organisation",
+        "rooppur"
+      ],
+      "detail": "Columnist Mohammad Shawkat Akbar argues Bangladesh’s entry into the “global nuclear club” now depends on the readiness of Rooppur’s operating organisation, after Power Unit 1 reached initial criticality and entered Stage C of power start-up commissioning, clearing the way for first trial supply and first grid connection. He warns starting a reactor is like “riding a tiger” — irreversible once critical — and says 80% of the nuclear system lies beneath the surface, in safety, security, logistics and governance."
+    },
+    {
+      "id": "CA06",
+      "headline": "Hasina's return plan, extradition separate issues, says India's MEA",
+      "category": "Bangladesh",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "India's foreign ministry said on 25 November that Sheikh Hasina's reported plan to return voluntarily to Bangladesh and Dhaka's request for her extradition are two separate matters. MEA spokesperson Randhir Jaiswal said the extradition request is being examined under established procedures, while a citizen returning voluntarily with travel documents is a different issue. Hasina fled to India on 5 August 2024 and was sentenced to death on 17 November 2025; a Reuters report said she planned to return on 16 December.",
+      "exam_facts": "Hasina requested a Biman Bangladesh Airlines aircraft to bring her home from Delhi, according to the Reuters report cited by Prothom Alo. Prime Minister's Adviser Zahed Ur Rahman said on Tuesday the matter would be discussed with India. Jaiswal said India had no role in the question of whether she would be brought back in handcuffs, calling it a matter between Bangladesh's former prime minister and its current government. Jaiswal also said attacks on Hindu minorities in Bangladesh, including in Narail and Pabna, were a matter of concern and urged thorough investigation; Narail district police said Facebook reports of vandalism in Bendar Char village were false and fabricated and that there are no Hindu settlements there.",
+      "figures": "Fled to India 5 August 2024; death sentence 17 November 2025; reported return date 16 December; MEA briefing 25 November 2026",
+      "key_people": "Randhir Jaiswal, spokesperson, India's Ministry of External Affairs; Sheikh Hasina, former prime minister of Bangladesh; Zahed Ur Rahman, Prime Minister's Adviser",
+      "why_it_matters": "The MEA's separation of voluntary return from extradition, and the 17 November 2025 death sentence under the existing extradition treaty, are the exact facts for BCS questions on Bangladesh-India relations, extradition and the July uprising trials.",
+      "exam_relevance": "Bangladesh-India relations, extradition treaty, International Crimes Tribunal, July mass uprising - core BCS international affairs and Bangladesh affairs topics.",
+      "sources": [
+        {
+          "publication": "The Daily Star",
+          "headline": "Hasina's return plan, extradition separate issues - Says India's MEA",
+          "date": "2026-11-25",
+          "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/hasinas-return-plan-extradition-separate-issues-says-indias-mea-4333521"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Hasina's plan to return to Bangladesh, extradition request are separate matters: India",
+          "date": "2026-11-25",
+          "url": "https://en.prothomalo.com/international/india/m2psjurwf4"
+        }
+      ],
+      "one_liner": "India's foreign ministry said on 25 November that Sheikh Hasina's reported plan to return voluntarily to Bangladesh and Dhaka's request…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Fled to India 5 August 2024",
+          "original": "Fled to India 5 August 2024"
+        },
+        {
+          "label": "",
+          "value": "death sentence 17 November 2025",
+          "original": "death sentence 17 November 2025"
+        },
+        {
+          "label": "",
+          "value": "reported return date 16 December",
+          "original": "reported return date 16 December"
+        },
+        {
+          "label": "",
+          "value": "MEA briefing 25 November 2026",
+          "original": "MEA briefing 25 November 2026"
+        }
+      ],
+      "what_happened": [
+        "MEA spokesperson Randhir Jaiswal said the extradition request is being examined under established procedures, while a citizen returning voluntarily with travel documents is a different issue.",
+        "Hasina fled to India on 5 August 2024 and was sentenced to death on 17 November 2025; a Reuters report said she planned to return on 16 December."
+      ],
+      "exam_qa": [
+        {
+          "q": "When did Sheikh Hasina flee to India?",
+          "a": "5 August 2024"
+        },
+        {
+          "q": "When was she sentenced to death?",
+          "a": "17 November 2025"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "India's foreign ministry said on ______ that Sheikh Hasina's reported plan to return voluntarily to Bangladesh and Dhaka's request for her extradition are two separate matters.",
+          "answer": "25 November"
+        },
+        {
+          "cloze": "Hasina fled to India on ______ and was sentenced to death on 17 November 2025; a Reuters report said she planned to return on 16 December.",
+          "answer": "5 August 2024"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "hasina",
+        "return",
+        "plan",
+        "extradition",
+        "separate",
+        "issues",
+        "india"
+      ],
+      "detail": "India's foreign ministry said on 25 November that Sheikh Hasina's reported plan to return voluntarily to Bangladesh and Dhaka's request for her extradition are two separate matters. MEA spokesperson Randhir Jaiswal said the extradition request is being examined under established procedures, while a citizen returning voluntarily with travel documents is a different issue. Hasina fled to India on 5 August 2024 and was sentenced to death on 17 November 2025; a Reuters report said she planned to return on 16 December."
+    },
+    {
+      "id": "CA07",
+      "headline": "Turkish Sanko, local DBL to invest $300m in denim plant, create 4,400 jobs",
+      "category": "Economy & Banking",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Turkish conglomerate Sanko Holding and Bangladesh's DBL Group will jointly invest $300 million in an export-oriented denim plant at Sreehatta Economic Zone in Moulvibazar, with an integrated spinning unit. The plant will produce about 10 million metres of denim fabric a month and create about 4,400 direct jobs, with commercial operations expected in the first quarter of 2028. Sanko's family shareholders will own 49% and DBL Group 51%.",
+      "exam_facts": "The Sanko delegation was led by Vice Chairman Fatih Konukoglu and board member Hakan Konukoglu, and met Invest Bangladesh Chairman Ashik Chowdhury in Dhaka on 25 November, accompanied by DBL Group Managing Director MA Jabbar. Jabbar said construction would start soon, with the Turkish partner contributing manufacturing technology and technical expertise, and that most jobs would go to Bangladeshi workers. Denim requires heavy investment in machinery, technology, skilled manpower and production efficiency, and the plant is meant to bring international textile technology into Bangladesh's backward linkage industry.",
+      "figures": "$300 million investment; about 4,400 direct jobs; about 10 million metres of denim a month; Sanko family shareholders 49%, DBL Group 51%; commercial operations Q1 2028",
+      "key_people": "Fatih Konukoglu, Vice Chairman, Sanko Holding; Hakan Konukoglu, board member, Sanko Holding; Ashik Chowdhury, Chairman, Invest Bangladesh; MA Jabbar, Managing Director, DBL Group",
+      "why_it_matters": "A $300 million Turkish investment in denim backward linkage, 4,400 jobs and a 49/51 joint venture at Sreehatta Economic Zone is the exact FDI case study for BCS questions on export diversification, economic zones and Bangladesh-Turkiye economic ties.",
+      "exam_relevance": "FDI, economic zones, backward linkage industry, RMG/textile exports, Bangladesh-Turkiye relations - core BCS economy topics.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Turkish Sanko, local DBL to invest $300m in denim plant, create 4,400 jobs",
+          "date": "2026-11-25",
+          "url": "https://www.tbsnews.net/economy/turkish-sanko-local-dbl-invest-300m-denim-plant-create-4400-jobs-1613841"
+        }
+      ],
+      "one_liner": "Turkish conglomerate Sanko Holding and Bangladesh's DBL Group will jointly invest $300 million in an export-oriented denim plant at Sreehatta…",
+      "key_facts": [
+        {
+          "label": "investment",
+          "value": "$300 million",
+          "original": "$300 million investment"
+        },
+        {
+          "label": "about direct jobs",
+          "value": "4,400",
+          "original": "about 4,400 direct jobs"
+        },
+        {
+          "label": "about metres of denim a month",
+          "value": "10 million",
+          "original": "about 10 million metres of denim a month"
+        },
+        {
+          "label": "Sanko family shareholders %, DBL Group…",
+          "value": "49",
+          "original": "Sanko family shareholders 49%, DBL Group 51%"
+        }
+      ],
+      "what_happened": [
+        "The plant will produce about 10 million metres of denim fabric a month and create about 4,",
+        "400 direct jobs, with commercial operations expected in the first quarter of 2028.",
+        "Sanko's family shareholders will own 49% and DBL Group 51%."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much will Sanko and DBL invest in the denim plant?",
+          "a": "$300 million"
+        },
+        {
+          "q": "How many direct jobs will the plant create?",
+          "a": "About 4,400"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Turkish conglomerate Sanko Holding and Bangladesh's DBL Group will jointly invest $______ million in an export-oriented denim plant at Sreehatta Economic Zone in Moulvibazar, with an integrated spinning unit.",
+          "answer": "300"
+        },
+        {
+          "cloze": "The plant will produce about ______ million metres of denim fabric a month and create about 4,400 direct jobs, with commercial operations expected in the first quarter of 2028.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "turkish",
+        "sanko",
+        "local",
+        "invest",
+        "denim",
+        "plant",
+        "create",
+        "jobs"
+      ],
+      "detail": "Turkish conglomerate Sanko Holding and Bangladesh's DBL Group will jointly invest $300 million in an export-oriented denim plant at Sreehatta Economic Zone in Moulvibazar, with an integrated spinning unit. The plant will produce about 10 million metres of denim fabric a month and create about 4,400 direct jobs, with commercial operations expected in the first quarter of 2028. Sanko's family shareholders will own 49% and DBL Group 51%."
+    },
+    {
+      "id": "CA08",
+      "headline": "Prime Bank, Lloyds and Enigio take UK-Bangladesh digital trade to everyday scale",
+      "category": "Economy & Banking",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Prime Bank PLC, Lloyds and Enigio have completed multiple cross-border documentary collections for apparel shipments from Bangladesh to the UK, entirely in digital form — documents prepared and transferred in under an hour, and the full process done in 48 hours end to end. The step takes UK-Bangladesh digital trade to everyday scale, moving the corridor's trade documentation from paper to routine digital use. For BCS/Bank, it is the exam's live example of digital trade finance: banks in two countries settling trade documents without paper.",
+      "exam_facts": "The collections covered apparel shipments by Bangladeshi manufacturer Viyellatex Limited to a UK garment wholesaler; Prime Bank prepared and transferred the documents to Lloyds in under an hour using Enigio's trace:original solution, and the full process took 48 hours from creation of the digital documents in Bangladesh to release to the buyer. No original paper documents or courier services were used. The collections ran under the ICC's Uniform Rules for Collections (URC 522) and electronic URC, with the concurrence of Bangladesh Bank and under the UK Electronic Trade Documents Act 2023. Lloyds had completed its first digital trade transaction between Bangladesh and the UK earlier in November 2026.",
+      "figures": "Documents prepared and transferred in under an hour; full process 48 hours end to end; apparel shipments by Viyellatex Limited to a UK garment wholesaler.",
+      "key_people": "Faisal Rahman, Managing Director and CEO of Prime Bank; Surath Sengupta, Managing Director of Transaction Banking Products at Lloyds.",
+      "why_it_matters": "Multiple fully digital documentary collections on the Bangladesh-UK corridor, taken to everyday scale, are the concrete case for BCS/Bank questions on digital trade finance and paperless trade.",
+      "exam_relevance": "Digital trade finance, documentary collections, paperless trade, Bangladesh-UK banking links - BCS/Bank banking and trade topics.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Prime Bank, Lloyds complete multiple digital trade collections between Bangladesh and UK",
+          "date": "2026-11-25",
+          "url": "https://www.tbsnews.net/economy/corporates/prime-bank-lloyds-complete-multiple-digital-trade-collections-between-bangladesh"
+        },
+        {
+          "publication": "Dhaka Tribune",
+          "headline": "Prime Bank, Lloyds and Enigio take UK-Bangladesh digital trade to everyday scale",
+          "date": "2026-11-25",
+          "url": "https://www.dhakatribune.com/business/banks/425749/prime-bank-lloyds-and-enigio-take-uk-bd-digital"
+        }
+      ],
+      "one_liner": "Prime Bank PLC, Lloyds and Enigio have completed multiple cross-border documentary collections for apparel shipments from Bangladesh to the UK,…",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Documents prepared and transferred in under an hour",
+          "original": "Documents prepared and transferred in under an hour"
+        },
+        {
+          "label": "full process hours end to end",
+          "value": "48",
+          "original": "full process 48 hours end to end"
+        },
+        {
+          "label": "Prime Bank prepared and transferred the…",
+          "value": "48",
+          "original": "Prime Bank prepared and transferred the documents to Lloyds in under an hour using Enigio's trace:original solution, and the full process took 48 hours from creation of the digital documents in Bangladesh to release to the buyer. No original paper documents or courier services were used. The collections ran under the ICC's Uniform Rules for Collections (URC 522) and electronic URC, with the concurrence of Bangladesh Bank and under the UK Electronic Trade Documents Act 2023. Lloyds had completed its first digital trade transaction between Bangladesh and the UK earlier in November 2026"
+        }
+      ],
+      "what_happened": [
+        "The step takes UK-Bangladesh digital trade to everyday scale, moving the corridor's trade documentation from paper to routine digital use.",
+        "For BCS/Bank, it is the exam's live example of digital trade finance: banks in two countries settling trade documents without paper."
+      ],
+      "exam_qa": [
+        {
+          "q": "How long did the full digital trade process take end to end?",
+          "a": "48 hours"
+        },
+        {
+          "q": "How quickly were the documents prepared and transferred?",
+          "a": "In under an hour"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Prime Bank PLC, Lloyds and Enigio have completed multiple cross-border documentary collections for apparel shipments from Bangladesh to the UK, entirely in digital form — documents prepared and transferred in under an hour, and the full process done in ______ hours end to end.",
+          "answer": "48"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "prime",
+        "bank",
+        "lloyds",
+        "enigio",
+        "take",
+        "bangladesh",
+        "digital",
+        "trade",
+        "everyday",
+        "scale"
+      ],
+      "detail": "Prime Bank PLC, Lloyds and Enigio have completed multiple cross-border documentary collections for apparel shipments from Bangladesh to the UK, entirely in digital form — documents prepared and transferred in under an hour, and the full process done in 48 hours end to end. The step takes UK-Bangladesh digital trade to everyday scale, moving the corridor's trade documentation from paper to routine digital use. For BCS/Bank, it is the exam's live example of digital trade finance: banks in two countries settling trade documents without paper."
+    },
+    {
+      "id": "CA09",
+      "headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "category": "Bangladesh",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Bangladesh has called for a guaranteed water-flow provision in a new Ganges water-sharing agreement with India, as the 30-year treaty signed on 12 December 1996 expires on 12 December with no formal negotiations yet under way. Dhaka wants a guarantee clause like the 1977 agreement's, under which it received at least 80% of its stipulated share in any 10-day period of low flow. Water Resources Minister Md Shahid Uddin Chowdhury Anee said Bangladesh is ready for talks and has written to his Indian counterpart.",
+      "exam_facts": "Under the 1996 treaty, water is allocated every 10 days on Farakka flow: at 70,000 cusecs or less the two countries share it equally; between 70,000 and 75,000 cusecs Bangladesh receives 35,000 cusecs; at 75,000 cusecs or more India receives 40,000 cusecs and Bangladesh the rest. Flows are monitored at Farakka Barrage and Hardinge Bridge from 1 January to 31 May each year. The 91st Joint Rivers Commission meeting in Dhaka finalised the 2026 annual implementation report but did not discuss renewal. Bangladesh proposed negotiations in June, India sought a technical committee in August, and the minister wrote again on 17 November; a high-level technical committee led by Prime Minister's Adviser Professor Rashed Al Mahmud Titumir is preparing for talks.",
+      "figures": "Treaty signed 12 December 1996, 30-year term, expires 12 December 2026; 1977 guarantee at least 80% of stipulated share per 10-day period; sharing thresholds 70,000 and 75,000 cusecs, Bangladesh 35,000 cusecs in the middle band, India 40,000 cusecs at high flow; monitoring 1 January-31 May; 91st JRC meeting",
+      "key_people": "Md Shahid Uddin Chowdhury Anee, Water Resources Minister; Professor Rashed Al Mahmud Titumir, Prime Minister's Adviser on Finance and Planning; Dr Md Anwar Kadir, member, Joint Rivers Commission (Bangladesh)",
+      "why_it_matters": "The 12 December 2026 expiry, the missing 1977-style guarantee clause and the 70,000/75,000-cusec sharing formula are the exact numbers for BCS questions on the Ganges treaty, Farakka and Bangladesh-India water sharing.",
+      "exam_relevance": "Ganges water-sharing treaty 1996, Farakka Barrage, Joint Rivers Commission, Bangladesh-India relations - core BCS international affairs and geography topics.",
+      "sources": [
+        {
+          "publication": "The Financial Express",
+          "headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+          "date": "2026-11-25",
+          "url": "https://today.thefinancialexpress.com.bd/metro-news/dhaka-seeks-water-flow-guarantee-as-ganges-treaty-nears-expiry-1795624476"
+        },
+        {
+          "publication": "Prothom Alo English",
+          "headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+          "date": "2026-11-25",
+          "url": "https://en.prothomalo.com/bangladesh/government/9gjq4tmqxf"
+        }
+      ],
+      "one_liner": "Bangladesh has called for a guaranteed water-flow provision in a new Ganges water-sharing agreement with India, as the 30-year treaty…",
+      "key_facts": [
+        {
+          "label": "Treaty signed 12 December 1996, -year…",
+          "value": "30",
+          "original": "Treaty signed 12 December 1996, 30-year term, expires 12 December 2026"
+        },
+        {
+          "label": "guarantee at least 80% of stipulated…",
+          "value": "1977",
+          "original": "1977 guarantee at least 80% of stipulated share per 10-day period"
+        },
+        {
+          "label": "sharing thresholds and 75,000 cusecs, Bangladesh…",
+          "value": "70,000",
+          "original": "sharing thresholds 70,000 and 75,000 cusecs, Bangladesh 35,000 cusecs in the middle band, India 40,000 cusecs at high flow"
+        },
+        {
+          "label": "monitoring January-31 May",
+          "value": "1",
+          "original": "monitoring 1 January-31 May"
+        }
+      ],
+      "what_happened": [
+        "Dhaka wants a guarantee clause like the 1977 agreement's, under which it received at least 80% of its stipulated share in any 10-day period of low flow.",
+        "Water Resources Minister Md Shahid Uddin Chowdhury Anee said Bangladesh is ready for talks and has written to his Indian counterpart."
+      ],
+      "exam_qa": [
+        {
+          "q": "When does the 30-year Ganges treaty expire?",
+          "a": "12 December 2026"
+        },
+        {
+          "q": "Under the 1977 agreement, what water-flow guarantee did Bangladesh receive?",
+          "a": "At least 80% of its stipulated share in any 10-day low-flow period"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh has called for a guaranteed water-flow provision in a new Ganges water-sharing agreement with India, as the 30-year treaty signed on ______ expires on 12 December with no formal negotiations yet under way.",
+          "answer": "12 December 1996"
+        },
+        {
+          "cloze": "Dhaka wants a guarantee clause like the ______ agreement's, under which it received at least 80% of its stipulated share in any 10-day period of low flow.",
+          "answer": "1977"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "dhaka",
+        "seeks",
+        "water",
+        "flow",
+        "guarantee",
+        "ganges",
+        "treaty",
+        "nears",
+        "expiry"
+      ],
+      "detail": "Bangladesh has called for a guaranteed water-flow provision in a new Ganges water-sharing agreement with India, as the 30-year treaty signed on 12 December 1996 expires on 12 December with no formal negotiations yet under way. Dhaka wants a guarantee clause like the 1977 agreement's, under which it received at least 80% of its stipulated share in any 10-day period of low flow. Water Resources Minister Md Shahid Uddin Chowdhury Anee said Bangladesh is ready for talks and has written to his Indian counterpart."
+    },
+    {
+      "id": "CA11",
+      "headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "category": "Economy & Banking",
+      "article_date": "2026-11-24",
+      "event_date": "2026-11-24",
+      "summary": "Bangladesh's GDP growth has fallen to 3.2%, reportedly its lowest in more than 25 years, amid rising inflation and disruptions in industrial production, according to an article in Dhaka-based The Daily Star reported by National Herald. Weak remittances, sluggish exports, low foreign direct investment, tax evasion and banking-sector stress are worsening the pressure. Revenue collection in the first quarter of the current fiscal year fell short of target by Tk 42,000 crore, while the 2026-27 budget projects a deficit of Tk 2,00,000 crore.",
+      "exam_facts": "The article flags inflated costs of mega projects, rising non-performing loans in the banking sector and a credit crunch in industrial financing, and says inadequate FDI has constrained employment generation, industrial investment and export growth. It says bridging the fiscal gap could prove difficult given structural and administrative weaknesses of the National Board of Revenue, and calls for realistic budgeting of capital projects, cuts in unproductive and revenue expenditure and improvements in governance. It also notes the prime minister's decision to cut personal expenditure as a possible signal of fiscal discipline.",
+      "figures": "GDP growth 3.2%, lowest in over 25 years; revenue shortfall Tk 42,000 crore in Q1 of the current fiscal year; budget deficit projected Tk 2,00,000 crore for 2026-27",
+      "key_people": "No individuals named in the collected article.",
+      "why_it_matters": "A 3.2% growth rate, a Tk 42,000 crore revenue shortfall and a Tk 2,00,000 crore deficit are the headline numbers for BCS questions on Bangladesh's macroeconomy, but the collected article names no fiscal year for the 3.2% figure and cites an undated Daily Star article, so its vintage is unverified.",
+      "exam_relevance": "GDP growth, fiscal deficit, revenue collection, NPLs, FDI, remittance and exports - core BCS economy topics.",
+      "sources": [
+        {
+          "publication": "National Herald",
+          "headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+          "date": "2026-11-24",
+          "url": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes"
+        }
+      ],
+      "one_liner": "Bangladesh's GDP growth has fallen to 3.2%, reportedly its lowest in more than 25 years, amid rising inflation and disruptions…",
+      "key_facts": [
+        {
+          "label": "GDP growth %, lowest in over…",
+          "value": "3.2",
+          "original": "GDP growth 3.2%, lowest in over 25 years"
+        },
+        {
+          "label": "revenue shortfall crore in Q1 of…",
+          "value": "Tk 42,000",
+          "original": "revenue shortfall Tk 42,000 crore in Q1 of the current fiscal year"
+        },
+        {
+          "label": "budget deficit projected crore for 2026-27",
+          "value": "Tk 2,00,000",
+          "original": "budget deficit projected Tk 2,00,000 crore for 2026-27"
+        }
+      ],
+      "what_happened": [
+        "Weak remittances, sluggish exports, low foreign direct investment, tax evasion and banking-sector stress are worsening the pressure.",
+        "Revenue collection in the first quarter of the current fiscal year fell short of target by Tk 42,",
+        "000 crore, while the 2026-27 budget projects a deficit of Tk 2,00,000 crore."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is Bangladesh's GDP growth, reportedly its lowest in over 25 years?",
+          "a": "3.2%"
+        },
+        {
+          "q": "By how much did first-quarter revenue collection fall short of target?",
+          "a": "Tk 42,000 crore"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh's GDP growth has fallen to ______%, reportedly its lowest in more than 25 years, amid rising inflation and disruptions in industrial production, according to an article in Dhaka-based The Daily Star reported by National Herald.",
+          "answer": "3.2"
+        },
+        {
+          "cloze": "Revenue collection in the first quarter of the current fiscal year fell short of target by Tk ______ crore, while the 2026-27 budget projects a deficit of Tk 2,00,000 crore.",
+          "answer": "42,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "growth",
+        "hits",
+        "year",
+        "mounting",
+        "economic",
+        "woes"
+      ],
+      "detail": "Bangladesh's GDP growth has fallen to 3.2%, reportedly its lowest in more than 25 years, amid rising inflation and disruptions in industrial production, according to an article in Dhaka-based The Daily Star reported by National Herald. Weak remittances, sluggish exports, low foreign direct investment, tax evasion and banking-sector stress are worsening the pressure. Revenue collection in the first quarter of the current fiscal year fell short of target by Tk 42,000 crore, while the 2026-27 budget projects a deficit of Tk 2,00,000 crore."
+    },
+    {
+      "id": "CA12",
+      "headline": "51st BCS: PSC issues instructions for candidates, including entry to exam halls",
+      "category": "Bangladesh",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-23",
+      "summary": "The Bangladesh Public Service Commission has instructed candidates for the written (MCQ) examination of the 51st special BCS to enter their halls at least 30 minutes before the exam begins, and no candidate will be allowed in after 9:30am. The exam will be held only at Dhaka centres from 10:00am to 12:00pm on Friday 11 December. The special BCS will recruit 5,000 doctors - 4,700 assistant surgeons and 300 assistant dental surgeons - and 44,635 candidates have submitted final applications.",
+      "exam_facts": "The PSC notice, published on Monday 23 November, says registration numbers on attendance sheets will be arranged in even and odd sequences, and seats and rooms will be assigned through a random selection process on a room-by-room basis, which takes time - hence the early-entry rule. The BPSC published the circular on 24 September in response to requests from the Ministry of Health and Family Welfare and the Ministry of Public Administration to address the acute shortage of doctors in government hospitals. Hall and seating details will be published on the BPSC and Teletalk websites.",
+      "figures": "Exam 11 December 2026, 10:00am-12:00pm, Dhaka centres only; entry by 9:30am, at least 30 minutes early; 5,000 doctors (4,700 assistant surgeons, 300 assistant dental surgeons); 44,635 final applicants; circular 24 September 2026",
+      "key_people": "Bangladesh Public Service Commission (BPSC)",
+      "why_it_matters": "The 11 December exam date, the 9:30am cut-off, the 5,000-doctor intake and the 44,635 applicants are the exact facts BCS candidates need, and the special BCS itself is the exam's own live example of a cadre-recruitment drive to fix a doctor shortage.",
+      "exam_relevance": "BCS examination, BPSC, special BCS, cadre recruitment, health cadre - directly relevant to every BCS candidate reading this edition.",
+      "sources": [
+        {
+          "publication": "Prothom Alo English",
+          "headline": "51st BCS: PSC issues instructions for candidates, including entry to exam halls",
+          "date": "2026-11-25",
+          "url": "https://en.prothomalo.com/youth/employment/diouzfh9od"
+        }
+      ],
+      "one_liner": "The Bangladesh Public Service Commission has instructed candidates for the written (MCQ) examination of the 51st special BCS to enter…",
+      "key_facts": [
+        {
+          "label": "Exam 11 December 2026, 10",
+          "value": "00am-12:00pm, Dhaka centres only",
+          "original": "Exam 11 December 2026, 10:00am-12:00pm, Dhaka centres only"
+        },
+        {
+          "label": "entry by 9",
+          "value": "30am, at least 30 minutes early",
+          "original": "entry by 9:30am, at least 30 minutes early"
+        },
+        {
+          "label": "4,700 assistant surgeons, 300 assistant dental surgeons",
+          "value": "5,000 doctors",
+          "original": "5,000 doctors (4,700 assistant surgeons, 300 assistant dental surgeons)"
+        },
+        {
+          "label": "final applicants",
+          "value": "44,635",
+          "original": "44,635 final applicants"
+        }
+      ],
+      "what_happened": [
+        "The exam will be held only at Dhaka centres from 10:00am to 12:00pm on Friday 11 December.",
+        "The special BCS will recruit 5,000 doctors - 4,700 assistant surgeons and 300 assistant dental surgeons - and 44,635 candidates have submitted final applications."
+      ],
+      "exam_qa": [
+        {
+          "q": "When is the 51st special BCS written examination?",
+          "a": "11 December 2026, 10:00am-12:00pm"
+        },
+        {
+          "q": "How many doctors will the special BCS recruit?",
+          "a": "5,000 (4,700 assistant surgeons, 300 assistant dental surgeons)"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The Bangladesh Public Service Commission has instructed candidates for the written (MCQ) examination of the ______st special BCS to enter their halls at least 30 minutes before the exam begins, and no candidate will be allowed in after 9:30am.",
+          "answer": "51"
+        },
+        {
+          "cloze": "The exam will be held only at Dhaka centres from 10:00am to 12:00pm on Friday ______.",
+          "answer": "11 December"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "issues",
+        "instructions",
+        "candidates",
+        "including",
+        "entry",
+        "exam",
+        "halls"
+      ],
+      "detail": "The Bangladesh Public Service Commission has instructed candidates for the written (MCQ) examination of the 51st special BCS to enter their halls at least 30 minutes before the exam begins, and no candidate will be allowed in after 9:30am. The exam will be held only at Dhaka centres from 10:00am to 12:00pm on Friday 11 December. The special BCS will recruit 5,000 doctors - 4,700 assistant surgeons and 300 assistant dental surgeons - and 44,635 candidates have submitted final applications."
+    },
+    {
+      "id": "CA13",
+      "headline": "Climate justice is gender justice: Why climate action must address gender-based violence",
+      "category": "Editorial & Opinion",
+      "article_date": "2026-11-25",
+      "event_date": "2026-11-25",
+      "summary": "Columnist Farhana Afroz argues that climate justice is also gender justice: climate action that overlooks gender inequality cannot deliver inclusive or sustainable resilience. She writes that climate shocks disrupt livelihoods, displace families and weaken the support systems protecting women and girls, raising their exposure to violence and exploitation. She cites the BBS-UNFPA Violence Against Women Survey 2024: 81% of ever-married women in disaster-prone areas had experienced violence by their husbands in their lifetime, against 74% in non-disaster-prone areas.",
+      "exam_facts": "The columnist writes on the eve of the 16 Days of Activism against Gender-Based Violence. She argues that when families lose homes and income, women face greater financial dependency and unpaid care responsibilities, and that displacement and unsafe living conditions increase exposure to violence, exploitation and abuse. An International Rescue Committee assessment in southern Bangladesh found 66.9% of women and girls did not feel comfortable using cyclone shelters because of safety and facility-related concerns.",
+      "figures": "81% of ever-married women in disaster-prone areas experienced violence by husbands in their lifetime vs 74% in non-disaster-prone areas (BBS-UNFPA Violence Against Women Survey 2024); 66.9% of women and girls uncomfortable using cyclone shelters (IRC, southern Bangladesh)",
+      "key_people": "Farhana Afroz, columnist",
+      "why_it_matters": "The 81%-vs-74% disaster-area gap and the 66.9% cyclone-shelter figure are the exact numbers for BCS questions linking climate change, disaster management and gender-based violence in Bangladesh.",
+      "exam_relevance": "Climate change, gender justice, disaster management, violence against women, 16 Days of Activism - BCS social issues and Bangladesh affairs topics.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Climate justice is gender justice: Why climate action must address gender-based violence",
+          "date": "2026-11-25",
+          "url": "https://www.tbsnews.net/thoughts/climate-justice-gender-justice-why-climate-action-must-address-gender-based-violence"
+        }
+      ],
+      "one_liner": "Columnist Farhana Afroz argues that climate justice is also gender justice: climate action that overlooks gender inequality cannot deliver inclusive…",
+      "key_facts": [
+        {
+          "label": "BBS-UNFPA Violence Against Women Survey 2024",
+          "value": "81% of ever-married women in disaster-prone areas experienced violence by husbands in their lifetime vs 74% in non-disaster-prone areas",
+          "original": "81% of ever-married women in disaster-prone areas experienced violence by husbands in their lifetime vs 74% in non-disaster-prone areas (BBS-UNFPA Violence Against Women Survey 2024)"
+        },
+        {
+          "label": "IRC, southern Bangladesh",
+          "value": "66.9% of women and girls uncomfortable using cyclone shelters",
+          "original": "66.9% of women and girls uncomfortable using cyclone shelters (IRC, southern Bangladesh)"
+        },
+        {
+          "label": "The columnist writes on the eve…",
+          "value": "16",
+          "original": "The columnist writes on the eve of the 16 Days of Activism against Gender-Based Violence. She argues that when families lose homes and income, women face greater financial dependency and unpaid care responsibilities, and that displacement and unsafe living conditions increase exposure to violence, exploitation and abuse. An International Rescue Committee assessment in southern Bangladesh found 66.9% of women and girls did not feel comfortable using cyclone shelters because of safety and facility-related concerns"
+        }
+      ],
+      "what_happened": [
+        "She writes that climate shocks disrupt livelihoods, displace families and weaken the support systems protecting women and girls, raising their exposure to violence and exploitation.",
+        "She cites the BBS-UNFPA Violence Against Women Survey 2024: 81% of ever-married women in disaster-prone areas had experienced violence by their husbands in their lifetime,",
+        "against 74% in non-disaster-prone areas."
+      ],
+      "exam_qa": [
+        {
+          "q": "What share of ever-married women in disaster-prone areas experienced violence by their husbands?",
+          "a": "81% (vs 74% in non-disaster-prone areas)"
+        },
+        {
+          "q": "What share of women and girls felt uncomfortable using cyclone shelters?",
+          "a": "66.9%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "She cites the BBS-UNFPA Violence Against Women Survey 2024: ______% of ever-married women in disaster-prone areas had experienced violence by their husbands in their lifetime, against 74% in non-disaster-prone areas.",
+          "answer": "81"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "climate",
+        "justice",
+        "gender",
+        "action",
+        "must",
+        "address",
+        "based",
+        "violence"
+      ],
+      "detail": "Columnist Farhana Afroz argues that climate justice is also gender justice: climate action that overlooks gender inequality cannot deliver inclusive or sustainable resilience. She writes that climate shocks disrupt livelihoods, displace families and weaken the support systems protecting women and girls, raising their exposure to violence and exploitation. She cites the BBS-UNFPA Violence Against Women Survey 2024: 81% of ever-married women in disaster-prone areas had experienced violence by their husbands in their lifetime, against 74% in non-disaster-prone areas."
+    },
+    {
+      "id": "CA14",
+      "headline": "The men guarding Dhaka can barely afford to live in it",
+      "category": "Bangladesh",
+      "article_date": "2026-11-26",
+      "event_date": "2026-11-26",
+      "summary": "Dhaka's security guards work long shifts for modest wages, the TBS feature reports: Murad Ali, 44, a guard at a Chinese restaurant in Mirpur, earns Tk 8,000 a month plus Tk 3,000-4,000 from a share of restaurant sales and Tk 2,000 extra for sweeping and mopping, working from 6:30am with a three-hour break. Mushfiq, 32, guarding a diagnostic centre, earns Tk 16,000 after four years making capsule shells for Tk 115 a day. Rising prices leave both men little room to save, plan or marry.",
+      "exam_facts": "Murad has worked at the restaurant for two and a half years; his father sold the family land plot by plot to raise his siblings, and his son is an office peon while his wife is a garment worker and his daughter is in class seven. He got a Tk 500 tip at a pre-wedding ceremony on 11 November. Mushfiq, the eldest son in a family of eight from Jhalakathi Sadar, tried unsuccessfully to go abroad after higher secondary school; his security-company package includes a month's training, two uniforms, 32 days' annual leave, two Eid bonuses and food and accommodation costs, and from 7:30am he finds wheelchairs for elderly patients.",
+      "figures": "Murad Ali: salary Tk 8,000/month, sales share Tk 3,000-4,000, extra Tk 2,000 for cleaning, Tk 500 tip on 11 November; Mushfiq: Tk 16,000/month, previously Tk 115/day for four years; 32 days' annual leave, two Eid bonuses",
+      "key_people": "Murad Ali, 44, security guard, Mirpur; Mushfiq, 32, security guard, diagnostic centre",
+      "why_it_matters": "Two guards' pay - Tk 8,000-16,000 a month against Dhaka prices - is the human-scale evidence for BCS questions on the informal labour market, minimum wages and urban cost of living, the same week the garment minimum wage rose 36% to Tk 17,000.",
+      "exam_relevance": "Informal labour, wages, urban poverty, cost of living - BCS Bangladesh affairs and economy topics.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "The men guarding Dhaka can barely afford to live in it",
+          "date": "2026-11-26",
+          "url": "https://www.tbsnews.net/features/panorama/men-guarding-dhaka-can-barely-afford-live-it-1614231"
+        }
+      ],
+      "one_liner": "Dhaka's security guards work long shifts for modest wages, the TBS feature reports: Murad Ali, 44, a guard at a…",
+      "key_facts": [
+        {
+          "label": "Murad Ali",
+          "value": "salary Tk 8,000/month, sales share Tk 3,000-4,000, extra Tk 2,000 for cleaning, Tk 500 tip on 11 November",
+          "original": "Murad Ali: salary Tk 8,000/month, sales share Tk 3,000-4,000, extra Tk 2,000 for cleaning, Tk 500 tip on 11 November"
+        },
+        {
+          "label": "Mushfiq",
+          "value": "Tk 16,000/month, previously Tk 115/day for four years",
+          "original": "Mushfiq: Tk 16,000/month, previously Tk 115/day for four years"
+        },
+        {
+          "label": "days' annual leave, two Eid bonuses",
+          "value": "32",
+          "original": "32 days' annual leave, two Eid bonuses"
+        },
+        {
+          "label": "his father sold the family land…",
+          "value": "Tk 500",
+          "original": "his father sold the family land plot by plot to raise his siblings, and his son is an office peon while his wife is a garment worker and his daughter is in class seven. He got a Tk 500 tip at a pre-wedding ceremony on 11 November. Mushfiq, the eldest son in a family of eight from Jhalakathi Sadar, tried unsuccessfully to go abroad after higher secondary school"
+        }
+      ],
+      "what_happened": [
+        "Mushfiq, 32, guarding a diagnostic centre, earns Tk 16,000 after four years making capsule shells for Tk 115 a day.",
+        "Rising prices leave both men little room to save, plan or marry."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much does guard Murad Ali earn a month in salary?",
+          "a": "Tk 8,000"
+        },
+        {
+          "q": "How much does guard Mushfiq earn a month?",
+          "a": "Tk 16,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Dhaka's security guards work long shifts for modest wages, the TBS feature reports: Murad Ali, ______ a guard at a Chinese restaurant in Mirpur, earns Tk 8,000 a month plus Tk 3,000-4,000 from a share of restaurant sales and Tk 2,000 extra for sweeping and mopping, working from 6:30am with a three-hour break.",
+          "answer": "44,"
+        },
+        {
+          "cloze": "Mushfiq, ______ guarding a diagnostic centre, earns Tk 16,000 after four years making capsule shells for Tk 115 a day.",
+          "answer": "32,"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "guarding",
+        "dhaka",
+        "barely",
+        "afford",
+        "live"
+      ],
+      "detail": "Dhaka's security guards work long shifts for modest wages, the TBS feature reports: Murad Ali, 44, a guard at a Chinese restaurant in Mirpur, earns Tk 8,000 a month plus Tk 3,000-4,000 from a share of restaurant sales and Tk 2,000 extra for sweeping and mopping, working from 6:30am with a three-hour break. Mushfiq, 32, guarding a diagnostic centre, earns Tk 16,000 after four years making capsule shells for Tk 115 a day. Rising prices leave both men little room to save, plan or marry."
+    },
+    {
+      "id": "CA15",
+      "headline": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+      "category": "World",
+      "article_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "summary": "US President Donald Trump fired a new tariff salvo on Wednesday on 14 major trading partners, including China, Japan and the European Union, undeterred by his Republican Party's midterm losses. His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity, though the USTR said it intends to cap duties at lower levels agreed under trade deals. The move follows an eight-month Section 301 investigation and aims to rebuild tariff leverage after the Supreme Court struck down Trump's broad global duties in February.",
+      "exam_facts": "The USTR separately proposed a new 10% tariff on imports of Brazil's finished Embraer commercial aircraft and higher duties on Brazilian sugar imports above quotas, to push Brasilia to rectify alleged trade problems. The effort seeks to put Trump's tariffs on more solid legal and political ground by backing them with Section 301 of the Trade Act of 1974, described as a court-tested trade law, and addresses foreign subsidies and industrial policies viewed as major trade problems by both Republicans and Democrats. Note the figures differ between sources: CA03 reports the highest proposed rate as 20% for China, while this story reports maximum potential rates of 20% to 40%, with the USTR saying applied rates will be capped lower under trade deals.",
+      "figures": "14 trading partners; maximum potential tariff rates 20%-40%; 8-month Section 301 investigation; Supreme Court struck down broad global duties in February 2026; Brazil: new 10% tariff on Embraer aircraft, higher duties on sugar above quotas",
+      "key_people": "Donald Trump, US President; US Trade Representative (USTR)",
+      "why_it_matters": "The 20-40% maximum-potential range, the Section 301 legal basis and the separate Brazil Embraer and sugar tariffs are the distinct facts for BCS questions on US protectionism, and they sit alongside CA03's 20% ceiling for China, so the two stories must be read together.",
+      "exam_relevance": "US tariffs, Section 301, WTO/trade policy, US-China trade, Bangladesh's export exposure - core BCS international affairs and economy topics.",
+      "sources": [
+        {
+          "publication": "The Business Standard",
+          "headline": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+          "date": "2026-11-26",
+          "url": "https://www.tbsnews.net/worldbiz/usa/trump-unveils-new-tariffs-over-excess-industrial-capacity-undeterred-midterms-defeat"
+        }
+      ],
+      "one_liner": "US President Donald Trump fired a new tariff salvo on Wednesday on 14 major trading partners, including China, Japan and…",
+      "key_facts": [
+        {
+          "label": "trading partners",
+          "value": "14",
+          "original": "14 trading partners"
+        },
+        {
+          "label": "maximum potential tariff rates %-40%",
+          "value": "20",
+          "original": "maximum potential tariff rates 20%-40%"
+        },
+        {
+          "label": "month Section 301 investigation",
+          "value": "8",
+          "original": "8-month Section 301 investigation"
+        },
+        {
+          "label": "Brazil",
+          "value": "new 10% tariff on Embraer aircraft, higher duties on sugar above quotas",
+          "original": "Brazil: new 10% tariff on Embraer aircraft, higher duties on sugar above quotas"
+        }
+      ],
+      "what_happened": [
+        "His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity,",
+        "though the USTR said it intends to cap duties at lower levels agreed under trade deals.",
+        "The move follows an eight-month Section 301 investigation and aims to rebuild tariff leverage after the Supreme Court struck down Trump's broad global duties in February."
+      ],
+      "exam_qa": [
+        {
+          "q": "What are the maximum potential tariff rates proposed?",
+          "a": "20% to 40%"
+        },
+        {
+          "q": "What new tariff did the USTR propose on Brazil's Embraer aircraft?",
+          "a": "10%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "US President Donald Trump fired a new tariff salvo on Wednesday on ______ major trading partners, including China, Japan and the European Union, undeterred by his Republican Party's midterm losses.",
+          "answer": "14"
+        },
+        {
+          "cloze": "His administration proposed new maximum potential rates of ______% to 40% to counter excess industrial capacity, though the USTR said it intends to cap duties at lower levels agreed under trade deals.",
+          "answer": "20"
+        }
+      ],
+      "keywords": [
+        "world",
+        "trump",
+        "unveils",
+        "tariffs",
+        "excess",
+        "industrial",
+        "capacity",
+        "undeterred",
+        "midterms",
+        "defeat"
+      ],
+      "detail": "US President Donald Trump fired a new tariff salvo on Wednesday on 14 major trading partners, including China, Japan and the European Union, undeterred by his Republican Party's midterm losses. His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity, though the USTR said it intends to cap duties at lower levels agreed under trade deals. The move follows an eight-month Section 301 investigation and aims to rebuild tariff leverage after the Supreme Court struck down Trump's broad global duties in February."
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "morale",
+      "IPA": "/məˈrɑːl/",
+      "Bangla phonetic": "মোরাল",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "মনোবল; মানসিক দৃঢ়তা",
+      "English definition": "Confidence, enthusiasm and mental strength; the feeling of hope and determination in a person or group.",
+      "Synonyms": "confidence; spirit; enthusiasm",
+      "Antonyms": "discouragement; despair; low spirits",
+      "Word family / derivatives": "moral; morale-boosting",
+      "Collocations / patterns": "boost morale; low morale; staff morale; drain morale",
+      "Original example": "Who encourages them, who shows them the path to skills, and who silently drains their time and morale all shape their future.",
+      "Newspaper context note": "The writer argues that the people around a young person can drain their time and morale, shaping their future for better or worse.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Impactful social relationships: A smarter investment for Bangladesh's youth",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/impactful-social-relationships-smarter-investment-bangladeshs-youth-1613316",
+      "BCS / Bank relevance": "Core BCS/Bank word for passages on youth, motivation, workplace and leadership; often confused with 'moral'.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "provocation",
+      "IPA": "/ˌprɒvəˈkeɪʃn/",
+      "Bangla phonetic": "প্রোভোকেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উসকানি; প্ররোচনা",
+      "English definition": "An action or speech intended to make someone angry or to stir up trouble.",
+      "Synonyms": "incitement; instigation; goading",
+      "Antonyms": "pacification; calming; deterrence",
+      "Word family / derivatives": "provoke; provocative; provocatively",
+      "Collocations / patterns": "propaganda, provocation or misinformation; respond to provocation; avoid provocation",
+      "Original example": "\"Let us not be influenced by any kind of propaganda, provocation or misinformation,\" he said, the state-news agency BSS reported.",
+      "Newspaper context note": "A garment union leader urges workers not to be swayed by propaganda, provocation or misinformation during the wage protests.",
+      "Source publication": "Yahoo",
+      "Article headline": "Bangladesh garment workers win wage rise after weeks of protests",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.yahoo.com/news/videos/bangladesh-garment-workers-win-wage-112509738.html",
+      "BCS / Bank relevance": "High-frequency BCS/Bank noun for law-and-order, protest and diplomacy passages; family 'provoke/provocative' also tested.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "lifeline",
+      "IPA": "/ˈlaɪflaɪn/",
+      "Bangla phonetic": "লাইফলাইন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "জীবনরেখা; বাঁচার অবলম্বন",
+      "English definition": "Something essential that keeps a person, organisation or economy alive and functioning.",
+      "Synonyms": "mainstay; backbone; lifeblood",
+      "Antonyms": "burden; liability; drain",
+      "Word family / derivatives": "lifeline (compound noun); lifesaver",
+      "Collocations / patterns": "economic lifeline; a lifeline for the economy; the industry is a lifeline",
+      "Original example": "The garment industry, which clothes millions of consumers across Europe and North America, is Bangladesh's economic lifeline, accounting for four-fifths of export earnings and employing more than four million people.",
+      "Newspaper context note": "The article calls the garment industry Bangladesh's economic lifeline because it earns four-fifths of export income and employs over four million people.",
+      "Source publication": "Yahoo",
+      "Article headline": "Bangladesh garment workers win wage rise after weeks of protests",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.yahoo.com/news/videos/bangladesh-garment-workers-win-wage-112509738.html",
+      "BCS / Bank relevance": "Core metaphor for BCS/Bank economy passages on garments, remittance and exports; 'economic lifeline' is a set collocation.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "retaliation",
+      "IPA": "/rɪˌtæliˈeɪʃn/",
+      "Bangla phonetic": "রিট্যালিয়েশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রতিশোধ; পাল্টা আঘাত",
+      "English definition": "The act of striking back or taking revenge in response to an attack, injury or unfair action.",
+      "Synonyms": "revenge; reprisal; counteraction",
+      "Antonyms": "forgiveness; reconciliation; restraint",
+      "Word family / derivatives": "retaliate; retaliatory; retaliator",
+      "Collocations / patterns": "threaten retaliation; retaliation against tariffs; fear of retaliation",
+      "Original example": "Beijing earlier reiterated its opposition to \"trade wars\" and dismissed the notion of overcapacity, but stopped short of threatening retaliation.",
+      "Newspaper context note": "China rejected the idea of overcapacity behind the new US tariffs but did not threaten to hit back with tariffs of its own.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "US proposes up to 20pc new tariffs on 14 major trading partners, including Bangladesh, China, India",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/business/local/ffog42c7y5",
+      "BCS / Bank relevance": "Key trade-diplomacy noun for BCS/Bank international affairs and tariff questions; 'retaliatory tariff' is a standard phrase.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "undeterred",
+      "IPA": "/ˌʌndɪˈtɜːd/",
+      "Bangla phonetic": "আনডিটার্ড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অদম্য; দমে না গিয়ে; ভয় না পেয়ে",
+      "English definition": "Not discouraged or held back by difficulties, failures or opposition.",
+      "Synonyms": "undaunted; resolute; unfazed",
+      "Antonyms": "discouraged; deterred; intimidated",
+      "Word family / derivatives": "deter; deterrent; deterrence",
+      "Collocations / patterns": "undeterred by defeat; undeterred in his push; undeterred by losses",
+      "Original example": "US President Donald Trump on Wednesday (25 November) fired a new tariff salvo on 14 major trading ​partners, including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections.",
+      "Newspaper context note": "Trump pressed ahead with new tariffs despite his party's losses in the US midterm elections.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Trump proposes new tariffs on 14 trading partners to fight excess factory capacity",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/world/trump-proposes-new-tariffs-14-trading-partners-1614031",
+      "BCS / Bank relevance": "Advanced adjective for BCS/Bank comprehension and précis; the 'deter/deterrent/undeterred' family is a recurring test item.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "protectionism",
+      "IPA": "/prəˈtekʃənɪzəm/",
+      "Bangla phonetic": "প্রোটেকশনিজম",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সংরক্ষণবাদ; দেশীয় শিল্প রক্ষার নীতি",
+      "English definition": "The policy of protecting a country's own industries from foreign competition by taxing imports and limiting trade.",
+      "Synonyms": "trade protection; tariff barriers; economic nationalism",
+      "Antonyms": "free trade; liberalisation; open trade",
+      "Word family / derivatives": "protectionist; protect; protection",
+      "Collocations / patterns": "US protectionism; rising protectionism; protectionism is difficult to unwind",
+      "Original example": "\"It is another reminder that while the legal justification for tariffs keeps changing, US protectionism is becoming increasingly difficult to unwind,\" ING analysts wrote.",
+      "Newspaper context note": "ING analysts warn that American protectionism is getting harder to reverse even as the legal basis for the tariffs keeps changing.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "US proposes up to 20pc new tariffs on 14 major trading partners, including Bangladesh, China, India",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/business/local/ffog42c7y5",
+      "BCS / Bank relevance": "Central BCS/Bank economics term for trade, tariff and globalisation questions; pairs with 'free trade' and 'liberalisation'.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "postponement",
+      "IPA": "/pəʊstˈpəʊnmənt/",
+      "Bangla phonetic": "পোস্টপোনমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "স্থগিতকরণ; মুলতবি",
+      "English definition": "The act of delaying something to a later time than originally planned.",
+      "Synonyms": "deferral; delay; adjournment",
+      "Antonyms": "advancement; promptness",
+      "Word family / derivatives": "postpone; postponed",
+      "Collocations / patterns": "the 100th postponement; postponement of the report; repeated postponement",
+      "Original example": "The submission of the investigation report in the Bangladesh Bank reserve heist case has been deferred once again, marking the 100th postponement.",
+      "Newspaper context note": "The CID again failed to submit its probe report on the 2016 reserve heist, the 100th time the submission has been put off.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank reserve heist probe report deferred for 100th time",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladesh-bank-reserve-heist-probe-report-deferred-100th-time-1613416",
+      "BCS / Bank relevance": "Standard BCS/Bank noun for court, investigation and administrative-delay passages; 'postpone/postponement' is a frequent test pair.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "heist",
+      "IPA": "/haɪst/",
+      "Bangla phonetic": "হাইস্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বড় ধরনের চুরি; ডাকাতি",
+      "English definition": "A large-scale robbery or theft, especially of money or valuables from a bank or institution.",
+      "Synonyms": "robbery; theft; burglary",
+      "Antonyms": "restitution; lawful recovery",
+      "Word family / derivatives": "heist (also a verb)",
+      "Collocations / patterns": "reserve heist; bank heist; the 2016 heist",
+      "Original example": "The submission of the investigation report in the Bangladesh Bank reserve heist case has been deferred once again, marking the 100th postponement.",
+      "Newspaper context note": "The case concerns the 2016 theft of $81 million from Bangladesh Bank's account with the US Federal Reserve Bank.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh Bank reserve heist probe report deferred for 100th time",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/bangladesh-bank-reserve-heist-probe-report-deferred-100th-time-1613416",
+      "BCS / Bank relevance": "The 2016 Bangladesh Bank reserve heist is a staple BCS/Bank current-affairs topic; 'heist' itself is a common exam word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "commissioning",
+      "IPA": "/kəˈmɪʃənɪŋ/",
+      "Bangla phonetic": "কমিশনিং",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "চালুকরণ; পরীক্ষামূলক চালু করার প্রক্রিয়া",
+      "English definition": "The process of testing and starting up a new plant, machine or system so that it is ready for regular operation.",
+      "Synonyms": "start-up; activation; inauguration",
+      "Antonyms": "decommissioning; shutdown",
+      "Word family / derivatives": "commission; decommission; decommissioning",
+      "Collocations / patterns": "power start-up commissioning; commissioning stage; enter Stage C of commissioning",
+      "Original example": "Power Unit 1 of the Rooppur Nuclear Power Plant (Rooppur NPP) has officially entered Stage C of its power start-up commissioning after successfully achieving initial criticality.",
+      "Newspaper context note": "Rooppur's first reactor has reached initial criticality and is moving through the start-up stages towards supplying power to the national grid.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Sparking the grid: Readiness challenges of the operating organisation of Rooppur NPP",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/sparking-grid-readiness-challenges-operating-organisation-rooppur-npp-1613311",
+      "BCS / Bank relevance": "Technical noun for BCS/Bank science, energy and infrastructure questions; Rooppur is a recurring exam topic.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "provisional",
+      "IPA": "/prəˈvɪʒənl/",
+      "Bangla phonetic": "প্রোভিশনাল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অস্থায়ী; সাময়িক",
+      "English definition": "Temporary and conditional; arranged for the present time but likely to change before becoming final.",
+      "Synonyms": "temporary; interim; conditional",
+      "Antonyms": "permanent; final; definitive",
+      "Word family / derivatives": "provision; provisionally",
+      "Collocations / patterns": "provisional acceptance; provisional estimate; provisional arrangement",
+      "Original example": "Keeping this \"tiger\" under control requires flawless trial runs and secure provisional acceptance of the power unit from the vendor or general contractor, verifying all technical and economic metrics against the plant's design.",
+      "Newspaper context note": "Before Rooppur's reactor can run fully, the plant needs secure provisional acceptance of the unit from its vendor, with all technical and economic measures checked against the design.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Sparking the grid: Readiness challenges of the operating organisation of Rooppur NPP",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/sparking-grid-readiness-challenges-operating-organisation-rooppur-npp-1613311",
+      "BCS / Bank relevance": "Common BCS/Bank adjective for administration, results and appointment passages; contrasts with 'permanent' and 'final'.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "ousted",
+      "IPA": "/ˈaʊstɪd/",
+      "Bangla phonetic": "আউস্টেড",
+      "Part of speech / type": "Adjective / Verb (past participle)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ক্ষমতাচ্যুত; উৎখাতকৃত",
+      "English definition": "Forcibly removed from a position of power, especially a political office.",
+      "Synonyms": "deposed; overthrown; removed",
+      "Antonyms": "installed; elected; reinstated",
+      "Word family / derivatives": "oust; ouster",
+      "Collocations / patterns": "ousted prime minister; ousted from power; ousted leader",
+      "Original example": "Sheikh Hasina fled to India on 5 August 2024 after being ousted from power amid a mass uprising.",
+      "Newspaper context note": "The article recalls that Hasina left for India after losing power in the July mass uprising of 2024.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Hasina's plan to return to Bangladesh, extradition request are separate matters: India",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/international/india/m2psjurwf4",
+      "BCS / Bank relevance": "Key political vocabulary for BCS/Bank questions on the 2024 uprising and regime change; 'oust/ouster' is a standard test family.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "stipulated",
+      "IPA": "/ˈstɪpjəleɪtɪd/",
+      "Bangla phonetic": "স্টিপিউলেটেড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "নির্ধারিত; শর্তে উল্লিখিত",
+      "English definition": "Stated or agreed as a condition in an agreement, law or contract; fixed as a requirement.",
+      "Synonyms": "specified; agreed; prescribed",
+      "Antonyms": "unspecified; unstated",
+      "Word family / derivatives": "stipulate; stipulation",
+      "Collocations / patterns": "stipulated share; stipulated deadline; stipulated timeframe",
+      "Original example": "Under the 1977 agreement, Bangladesh was entitled to receive at least 80 percent of its stipulated share during any 10-day period when water availability at Farakka during the dry season.",
+      "Newspaper context note": "The 1977 water-sharing agreement entitled Bangladesh to at least 80 percent of its agreed share in any 10-day dry-season period, a guarantee missing from the 1996 treaty.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/9gjq4tmqxf",
+      "BCS / Bank relevance": "Formal legal adjective for BCS/Bank treaty, agreement and contract passages; 'stipulate/stipulation' is a recurring test family.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "scarcity",
+      "IPA": "/ˈskeəsəti/",
+      "Bangla phonetic": "স্কেয়ারসিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ঘাটতি; অভাব",
+      "English definition": "A situation in which something is in short supply; not enough of something to meet demand.",
+      "Synonyms": "shortage; dearth; insufficiency",
+      "Antonyms": "abundance; surplus; plenty",
+      "Word family / derivatives": "scarce; scarcely; scarceness",
+      "Collocations / patterns": "periods of scarcity; water scarcity; scarcity of resources",
+      "Original example": "Bangladesh wants a similar safeguard incorporated into the new arrangement to protect its water entitlement during periods of scarcity.",
+      "Newspaper context note": "Dhaka wants a guarantee clause in the new Ganges agreement so its water share is protected when river flows fall in the dry season.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/9gjq4tmqxf",
+      "BCS / Bank relevance": "Core economics and environment noun for BCS/Bank questions on water, resources and the Ganges treaty.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "jurisdiction",
+      "IPA": "/ˌdʒʊərɪsˈdɪkʃn/",
+      "Bangla phonetic": "জুরিসডিকশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "এখতিয়ার; অধিক্ষেত্র",
+      "English definition": "The official power or authority to make legal decisions and judgements over a particular area, subject or matter.",
+      "Synonyms": "authority; domain; purview",
+      "Antonyms": "lack of authority; exclusion",
+      "Word family / derivatives": "jurisdictional; jurisprudence",
+      "Collocations / patterns": "fall under the jurisdiction of; outside the jurisdiction; under the court's jurisdiction",
+      "Original example": "However, treaty renewal was not discussed at the meeting, as negotiations on a new agreement fall under the jurisdiction of the two governments and their political leadership.",
+      "Newspaper context note": "Renewing the Ganges treaty was not on the Joint Rivers Commission's agenda because it belongs to the two governments, not the commission.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/government/9gjq4tmqxf",
+      "BCS / Bank relevance": "Central legal noun for BCS/Bank polity, court and treaty questions; 'jurisdiction/jurisprudence' is a classic test family.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "evasion",
+      "IPA": "/ɪˈveɪʒn/",
+      "Bangla phonetic": "ইভেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ফাঁকি; এড়িয়ে যাওয়া",
+      "English definition": "The act of avoiding something that should be done, especially avoiding paying tax or obeying a law.",
+      "Synonyms": "avoidance; dodging; non-payment",
+      "Antonyms": "compliance; payment; honesty",
+      "Word family / derivatives": "evade; evasive; evasively",
+      "Collocations / patterns": "tax evasion; widespread tax evasion; evasion of duty",
+      "Original example": "Widespread tax evasion has further compounded the country's economic difficulties.",
+      "Newspaper context note": "The article lists tax evasion among the pressures behind Bangladesh's 25-year low GDP growth of 3.2 percent.",
+      "Source publication": "National Herald",
+      "Article headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes",
+      "BCS / Bank relevance": "Core BCS/Bank economics word for revenue, NBR and fiscal questions; 'tax evasion' is a set collocation.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "accountability",
+      "IPA": "/əˌkaʊntəˈbɪləti/",
+      "Bangla phonetic": "অ্যাকাউন্ট্যাবিলিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "জবাবদিহি; দায়বদ্ধতা",
+      "English definition": "The duty to explain one's actions and accept responsibility for them; being answerable for what one does.",
+      "Synonyms": "responsibility; answerability; transparency",
+      "Antonyms": "impunity; unaccountability; irresponsibility",
+      "Word family / derivatives": "accountable; account; accountably",
+      "Collocations / patterns": "inadequate accountability; accountability and transparency; demand accountability",
+      "Original example": "Weak governance, lack of transparency and inadequate accountability have contributed to corruption over the years, the article observes, adding that it remains unclear whether the country has moved beyond these longstanding problems.",
+      "Newspaper context note": "The article blames weak governance and poor accountability for the corruption that has worsened Bangladesh's economic pressures.",
+      "Source publication": "National Herald",
+      "Article headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes",
+      "BCS / Bank relevance": "Foundational BCS/Bank governance word for good-governance, corruption and public-administration questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "displacement",
+      "IPA": "/dɪsˈpleɪsmənt/",
+      "Bangla phonetic": "ডিসপ্লেসমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বাস্তুচ্যুতি; স্থানচ্যুতি",
+      "English definition": "The act of forcing people to leave their homes or the place where they live, often because of disaster, conflict or development.",
+      "Synonyms": "dislocation; uprooting; eviction",
+      "Antonyms": "resettlement; stability; rootedness",
+      "Word family / derivatives": "displace; displaced",
+      "Collocations / patterns": "climate displacement; displacement and unsafe living conditions; mass displacement",
+      "Original example": "Displacement and unsafe living conditions can also increase their exposure to violence, exploitation, and other forms of abuse.",
+      "Newspaper context note": "Climate shocks displace families and push them into unsafe living conditions, raising the risk of violence against women and girls.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Climate justice is gender justice: Why climate action must address gender-based violence",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/climate-justice-gender-justice-why-climate-action-must-address-gender-based-violence",
+      "BCS / Bank relevance": "Key BCS/Bank climate, disaster and migration term; 'displaced people' and climate displacement recur in exam passages.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "breadwinner",
+      "IPA": "/ˈbredwɪnə(r)/",
+      "Bangla phonetic": "ব্রেডউইনার",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পরিবারের উপার্জনকারী; রোজগারকারী",
+      "English definition": "The member of a family who earns the money that the family lives on.",
+      "Synonyms": "earner; provider; supporter",
+      "Antonyms": "dependent; non-earner",
+      "Word family / derivatives": "breadwinning",
+      "Collocations / patterns": "sole breadwinner; the family breadwinner; main breadwinner",
+      "Original example": "In the village, he was the sole breadwinner.",
+      "Newspaper context note": "Security guard Murad Ali used to be the only earner in his village family before his son and wife also started working in Dhaka.",
+      "Source publication": "The Business Standard",
+      "Article headline": "The men guarding Dhaka can barely afford to live in it",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/men-guarding-dhaka-can-barely-afford-live-it-1614231",
+      "BCS / Bank relevance": "Everyday BCS/Bank vocabulary for passages on wages, poverty and family economics; 'sole breadwinner' is a set phrase.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "meagre",
+      "IPA": "/ˈmiːɡə(r)/",
+      "Bangla phonetic": "মিগার",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সামান্য; অপ্রতুল; নগণ্য",
+      "English definition": "Very small in amount or quantity; much less than what is needed or expected.",
+      "Synonyms": "scanty; paltry; inadequate",
+      "Antonyms": "generous; abundant; ample",
+      "Word family / derivatives": "meagrely; meagreness",
+      "Collocations / patterns": "a meagre wage; meagre earnings; a meagre income",
+      "Original example": "He spent four years making capsule shells at a pharmaceutical factory for a meagre Tk115 a day.",
+      "Newspaper context note": "Guard Mushfiq once earned only Tk115 a day making capsule shells at a pharmaceutical factory, a wage the article calls meagre.",
+      "Source publication": "The Business Standard",
+      "Article headline": "The men guarding Dhaka can barely afford to live in it",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/men-guarding-dhaka-can-barely-afford-live-it-1614231",
+      "BCS / Bank relevance": "Advanced BCS/Bank adjective for wage, poverty and living-standard passages; a classic synonym/antonym test word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "rectify",
+      "IPA": "/ˈrektɪfaɪ/",
+      "Bangla phonetic": "রেক্টিফাই",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সংশোধন করা; ঠিক করা",
+      "English definition": "To correct something that is wrong; to put right a mistake, fault or unfair practice.",
+      "Synonyms": "correct; remedy; amend",
+      "Antonyms": "worsen; corrupt; damage",
+      "Word family / derivatives": "rectification; rectifiable",
+      "Collocations / patterns": "rectify unfair trade practices; rectify a mistake; rectify the situation",
+      "Original example": "Separately, the United States Trade Representative proposed a new 10% tariff on imports of Brazil's finished Embraer commercial aircraft, and to raise duties on imports of Brazilian sugar that exceed quotas as part of an effort to push Brasilia to rectify alleged unfair trade practices.",
+      "Newspaper context note": "The US is using tariff pressure to push Brazil to correct what it calls unfair trade practices in aircraft and sugar.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Trump proposes new tariffs on 14 trading partners to fight excess factory capacity",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/world/trump-proposes-new-tariffs-14-trading-partners-1614031",
+      "BCS / Bank relevance": "Common BCS/Bank verb for trade, governance and error-correction passages; 'rectify/rectification' is a standard test pair.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Headword / phrase": "irregularities",
+      "IPA": "/ɪˌreɡjəˈlærətiz/",
+      "Bangla phonetic": "ইরেগিউল্যারিটিজ",
+      "Part of speech / type": "Noun (plural)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অনিয়ম; নিয়মবহির্ভূত কাজ",
+      "English definition": "Actions or situations that break rules, laws or proper procedures.",
+      "Synonyms": "misconduct; malpractice; anomalies; violations",
+      "Antonyms": "regularity; compliance; propriety",
+      "Word family / derivatives": "irregular; irregularity; irregularly",
+      "Collocations / patterns": "alleged irregularities; financial irregularities; investigate irregularities",
+      "Original example": "Urban planners, architects and transport experts have called the government's decision to scrap the dedicated lanes of the Dhaka-Gazipur Bus Rapid Transit (BRT) project 'illogical and suicidal', demanding an investigation into alleged irregularities and a white paper.",
+      "Newspaper context note": "Experts demand a probe into alleged irregularities in the Dhaka-Gazipur BRT project.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Experts call scrapping Dhaka-Gazipur BRT lanes 'suicidal', demand probe, white paper",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — governance, audit and corruption questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "infrastructure",
+      "IPA": "/ˈɪnfrəstrʌktʃər/",
+      "Bangla phonetic": "ইনফ্রাস্ট্রাকচার",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "অবকাঠামো; রাস্তা, সেতু, বিদ্যুৎ ইত্যাদি মৌলিক কাঠামো",
+      "English definition": "The basic physical systems of a country or organisation, such as transport, power and water.",
+      "Synonyms": "facilities; framework; installations; foundations",
+      "Antonyms": "—",
+      "Word family / derivatives": "infrastructural; infrastructure development",
+      "Collocations / patterns": "transport infrastructure; build infrastructure; infrastructure project",
+      "Original example": "At a press conference at the National Press Club yesterday (11 November), they opposed the cabinet's 18 October decision to convert the BRT corridor into a six-lane highway after spending around Tk2,800 crore and completing nearly 97% of its infrastructure without launching bus services.",
+      "Newspaper context note": "Nearly 97% of the Dhaka-Gazipur BRT infrastructure was complete when the government decided to scrap its lanes.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Experts call scrapping Dhaka-Gazipur BRT lanes 'suicidal', demand probe, white paper",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/transport/experts-call-scrapping-dhaka-gazipur-brt-lanes-suicidal-demand-probe-white",
+      "BCS / Bank relevance": "Core BCS/Bank economy and development vocabulary — infrastructure is a standard written-topic word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "extradition",
+      "IPA": "/ˌekstrəˈdɪʃən/",
+      "Bangla phonetic": "এক্সট্রাডিশন",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "প্রত্যর্পণ; অভিযুক্তকে অন্য দেশের কাছে হস্তান্তর",
+      "English definition": "The formal handing over of an accused person to another country for trial.",
+      "Synonyms": "handover; surrender; rendition",
+      "Antonyms": "asylum; refuge; sanctuary",
+      "Word family / derivatives": "extradite; extraditable; extraditing",
+      "Collocations / patterns": "seek extradition; extradition treaty; extradition request",
+      "Original example": "Bangladesh's government challenged her on Tuesday to seek extradition from India if she was genuinely determined to return.",
+      "Newspaper context note": "Dhaka challenged Hasina to seek extradition from India if she genuinely wants to return.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank polity and international-relations vocabulary — extradition treaties are a standard topic.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "rhetoric",
+      "IPA": "/ˈretərɪk/",
+      "Bangla phonetic": "রেটোরিক",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বাগাড়ম্বর; প্রভাব বিস্তারের জন্য সাজানো বক্তব্য",
+      "English definition": "Language that is persuasive but often exaggerated or empty of real substance.",
+      "Synonyms": "oratory; bombast; grandstanding; empty words",
+      "Antonyms": "plain speaking; candour; understatement",
+      "Word family / derivatives": "rhetorical; rhetorically; rhetorician",
+      "Collocations / patterns": "political rhetoric; empty rhetoric; rhetoric designed to rally",
+      "Original example": "Analysts say the pledge may be rhetoric designed to rally the banned party's supporters.",
+      "Newspaper context note": "Analysts say Hasina's return pledge may be rhetoric to keep her party energised.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank English — rhetoric is a frequent vocabulary and comprehension word.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "defiance",
+      "IPA": "/dɪˈfaɪəns/",
+      "Bangla phonetic": "ডিফায়ান্স",
+      "Part of speech / type": "Noun (uncountable)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "অবাধ্যতা; আদেশ অমান্য করার মনোভাব",
+      "English definition": "Open resistance or refusal to obey authority.",
+      "Synonyms": "resistance; disobedience; boldness; recalcitrance",
+      "Antonyms": "compliance; obedience; submission",
+      "Word family / derivatives": "defy; defiant; defiantly",
+      "Collocations / patterns": "act of defiance; in defiance of; show defiance",
+      "Original example": "Her defiance may be less a death wish than a bid to remain politically relevant, maintain her supporters' loyalty and keep alive a party that once dominated Bangladesh but is now banned.",
+      "Newspaper context note": "Analysts read Hasina's return vow as defiance aimed at staying politically relevant.",
+      "Source publication": "Yahoo News / AFP",
+      "Article headline": "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh",
+      "Publication date": "2026-11-11",
+      "Direct source URL": "https://www.yahoo.com/news/world/articles/key-questions-fugitive-ex-pm-102417831.html",
+      "BCS / Bank relevance": "BCS/Bank vocabulary — defiance/defy appear regularly in English sections.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Phrase": "in response to",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "কোনো কিছুর জবাবে; প্রতিক্রিয়ায়",
+      "English explanation": "As an answer or reaction to something that has happened or been asked.",
+      "Usage / register": "Formal, news and official-statement reporting.",
+      "Original example 1": "It could do so in response to a lawful domestic request or on its own initiative.",
+      "Original example 2": "The BPSC published the circular for the 51st special BCS on 24 September in response to requests from the Ministry of Health and Family Welfare and the Ministry of Public Administration to address the acute shortage of doctors in government hospitals across the country.",
+      "Common collocations / grammar pattern": "in response to a request; in response to questions; in response to criticism",
+      "Source publication": "The Business Standard",
+      "Article headline": "Proposed law seeks RJSC power to share company data with foreign agencies",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/economy/proposed-law-seeks-rjsc-power-share-company-data-foreign-agencies-1614161",
+      "Exam value": "High-frequency BCS/Bank phrase for comprehension and translation; appears in official statements, circulars and diplomacy."
+    },
+    {
+      "Phrase": "over the years",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "বছরের পর বছর ধরে; কালক্রমে",
+      "English explanation": "During a long period of time; gradually, as time passed.",
+      "Usage / register": "Neutral, used in news, history and economics writing.",
+      "Original example 1": "Weak governance, lack of transparency and inadequate accountability have contributed to corruption over the years, the article observes, adding that it remains unclear whether the country has moved beyond these longstanding problems.",
+      "Original example 2": "Bangladesh’s economy has been in a prolonged downturn since 2022, driven by external and domestic challenges, with pressures intensifying over the years because of inadequate policy measures.",
+      "Common collocations / grammar pattern": "over the years; over the past few years; over the decades",
+      "Source publication": "National Herald",
+      "Article headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes",
+      "Exam value": "Standard time phrase for BCS/Bank writing and comprehension; useful for describing long-term trends in essays and précis."
+    },
+    {
+      "Phrase": "in the first quarter of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "প্রথম ত্রৈমাসিকে; বছরের প্রথম তিন মাসে",
+      "English explanation": "During the first three months of a financial year or calendar year.",
+      "Usage / register": "Formal, economics and business reporting.",
+      "Original example 1": "Revenue collection in the first quarter of the current fiscal year fell short of the target by Tk 42,000 crore, while the national budget for 2026-27 has projected a substantial deficit of Tk 2,00,000 crore.",
+      "Original example 2": "Commercial operations are expected to begin in the first quarter of 2028, Jabbar told TBS.",
+      "Common collocations / grammar pattern": "in the first quarter of the fiscal year; in the first quarter of 2028; in the second quarter of",
+      "Source publication": "National Herald",
+      "Article headline": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes",
+      "Exam value": "Core BCS/Bank time phrase for budget, revenue and investment questions; 'quarter' is a standard exam term."
+    },
+    {
+      "Phrase": "short of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "কম; ঘাটতি নিয়ে; লক্ষ্যে না পৌঁছে",
+      "English explanation": "Less than the amount needed or expected; failing to reach a target or demand.",
+      "Usage / register": "Neutral to formal, news and economics reporting.",
+      "Original example 1": "The sector's smallest percentage raise in four decades has left workers short of their demands and manufacturers pressing brands to share the cost.",
+      "Original example 2": "Revenue collection in the first quarter of the current fiscal year fell short of the target by Tk 42,000 crore, while the national budget for 2026-27 has projected a substantial deficit of Tk 2,00,000 crore.",
+      "Common collocations / grammar pattern": "short of the target; short of demands; fall short of; stop short of",
+      "Source publication": "MSN",
+      "Article headline": "Too Much, Too Little: Bangladesh's Wage Hike Pleases No One",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.msn.com/en-us/news/other/too-much-too-little-bangladeshs-wage-hike-pleases-no-one/ar-AA2ieHEX",
+      "Exam value": "Very common BCS/Bank phrase; 'fall short of' and 'stop short of' are both frequent in comprehension and translation."
+    },
+    {
+      "Phrase": "due to",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "কারণে; ফলে",
+      "English explanation": "Because of; as a result of something.",
+      "Usage / register": "Neutral, used across news, official and academic writing.",
+      "Original example 1": "Md Nurul Anwar Sandwip, Chattogram Published: 25 Nov 2026, 02: 13 Due to shrinking grazing lands and legal complications surrounding the ‘marking’ system, as well as political and administrative factors, buffalo farms are at risk of disappearing.",
+      "Original example 2": "However, the number of coastal buffaloes and bathan (buffalo farms) is currently declining at an alarming rate due to various adverse circumstances.",
+      "Common collocations / grammar pattern": "due to + noun; due to the fact that; due to expire",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Coastal buffalo farms at risk of disappearing",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/environment/ayhcmann77",
+      "Exam value": "Essential BCS/Bank connector for cause-and-effect sentences in writing, translation and comprehension."
+    },
+    {
+      "Phrase": "in favour of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "পক্ষে; সমর্থনে",
+      "English explanation": "In support of something; showing approval for a person, proposal or amount.",
+      "Usage / register": "Formal, voting, court and meeting reports.",
+      "Original example 1": "Six board members cast their votes: the two workers’ representatives voted in favour of Tk 18,000, while the remaining four members voted for Tk 17,000—ultimately settling the minimum wage at Tk 17,000.",
+      "Original example 2": "Two votes were cast in favour of the workers’ proposal, while the employers’ proposal received four votes.",
+      "Common collocations / grammar pattern": "vote in favour of; be in favour of; decide in favour of",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Wage board vote fixes minimum wage at Tk 17,000",
+      "Publication date": "2026-11-24",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/5al6bw0goi",
+      "Exam value": "Standard BCS/Bank phrase for voting, court and decision-making passages; pairs with 'in favour of' vs 'against'."
+    },
+    {
+      "Phrase": "on the eve of",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "প্রাক্কালে; ঠিক আগে",
+      "English explanation": "Just before an important event happens; on the day or night before it.",
+      "Usage / register": "Formal, news and ceremonial writing.",
+      "Original example 1": "On the eve of the 16 Days of Activism against Gender-Based Violence, climate action must recognise how climate shocks deepen existing inequalities and increase protection risks for women and girls.",
+      "Original example 2": "On the eve of the 16 Days of Activism against Gender-Based Violence (GBV), we are reminded that climate justice is also gender justice.",
+      "Common collocations / grammar pattern": "on the eve of the campaign; on the eve of the election; on the eve of victory",
+      "Source publication": "The Business Standard",
+      "Article headline": "Climate justice is gender justice: Why climate action must address gender-based violence",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/climate-justice-gender-justice-why-climate-action-must-address-gender-based-violence",
+      "Exam value": "Elegant BCS/Bank time phrase for writing and comprehension; common in editorials and ceremonial reporting."
+    },
+    {
+      "Phrase": "set up",
+      "Type": "Phrasal verb",
+      "Bangla meaning": "স্থাপন করা; গঠন করা",
+      "English explanation": "To establish, create or arrange something, such as an organisation, a factory or a committee.",
+      "Usage / register": "Neutral, used in business, administration and news reporting.",
+      "Original example 1": "\"Although we are not completely satisfied, the outcome is not entirely bad either,\" Babul Akhter, the workers' representative on a wage board set up to resolve the crisis, told reporters.",
+      "Original example 2": "The export-oriented factory, to be set up at Sreehatta Economic Zone, will include an integrated spinning unit.",
+      "Common collocations / grammar pattern": "set up a board; set up a factory; set up a committee",
+      "Source publication": "Yahoo",
+      "Article headline": "Bangladesh garment workers win wage rise after weeks of protests",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://www.yahoo.com/news/videos/bangladesh-garment-workers-win-wage-112509738.html",
+      "Exam value": "One of the most tested BCS/Bank phrasal verbs; 'set up' covers establishing institutions, factories and committees."
+    },
+    {
+      "Phrase": "for the first time",
+      "Type": "Adverbial phrase",
+      "Bangla meaning": "প্রথমবারের মতো; প্রথমবার",
+      "English explanation": "On the first occasion that something happens; never having happened before.",
+      "Usage / register": "Neutral, used across news, education and history writing.",
+      "Original example 1": "Of them, 5,548 candidates who had initially failed passed, while 1,620 others got GPA-5 for the first time.",
+      "Original example 2": "Re-evaluation of answer scripts was introduced for the first time with this year's SSC examinations.",
+      "Common collocations / grammar pattern": "for the first time in history; for the first time ever; introduced for the first time",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Students spend Tk 355m on answer script re-evaluation",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/youth/education/sv6evagxi3",
+      "Exam value": "Basic but high-frequency BCS/Bank time phrase for history, education and current-affairs questions."
+    },
+    {
+      "Phrase": "in accordance with",
+      "Type": "Prepositional phrase",
+      "Bangla meaning": "অনুযায়ী; মোতাবেক",
+      "English explanation": "In a way that follows or agrees with a rule, law, instruction or procedure.",
+      "Usage / register": "Formal, legal and official writing.",
+      "Original example 1": "In accordance with the instructions from Principal Selim Bhuiya, a central BNP organising secretary (Cumilla Division), Khaled Hossain Mahbub, a member of parliament for Brahmanbaria-3 (Sadar and Bijoynagar) constituency and district BNP president, and Sirajul Islam, general secretary of the district BNP and Brahmanbaria administrator, made this request.",
+      "Original example 2": "One was the request for Hasina’s extradition, which was being examined in accordance with India’s established procedures.",
+      "Common collocations / grammar pattern": "in accordance with the law; in accordance with established procedures; in accordance with instructions",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "BNP stages protest at Akhaura land port over reports of Nanak and Nasim's visit to Agartala",
+      "Publication date": "2026-11-25",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/t26c9hald7",
+      "Exam value": "Formal BCS/Bank phrase for legal, treaty and procedural passages; a standard translation and comprehension item."
+    }
+  ],
+  "mcqs": [
+    {
+      "no": 1,
+      "section": "Current Affairs",
+      "question": "According to the Labour Force Survey 2024 cited in the article, what share of young people in Bangladesh are NEET — in neither education, employment nor training?",
+      "options": {
+        "A": "3.66%",
+        "B": "8.07%",
+        "C": "20.3%",
+        "D": "13.54%"
+      },
+      "correct": "C",
+      "explanation": "The survey shows 20.3 per cent of young people, roughly 8.56 million, are NEET; 8.07% is the youth unemployment rate and 13.54% is the graduate jobless rate.",
+      "source": "CA01"
+    },
+    {
+      "no": 2,
+      "section": "Current Affairs",
+      "question": "What is the new minimum monthly wage fixed for garment workers?",
+      "options": {
+        "A": "Tk 12,500",
+        "B": "Tk 17,000",
+        "C": "Tk 18,000",
+        "D": "Tk 30,000"
+      },
+      "correct": "B",
+      "explanation": "The wage board fixed Tk 17,000, up 36% from Tk 12,500; workers had demanded Tk 30,000, and their representatives voted for Tk 18,000.",
+      "source": "CA02"
+    },
+    {
+      "no": 3,
+      "section": "Current Affairs",
+      "question": "Which country faces the highest proposed new US tariff rate of 20 per cent?",
+      "options": {
+        "A": "China",
+        "B": "Bangladesh",
+        "C": "India",
+        "D": "Japan"
+      },
+      "correct": "A",
+      "explanation": "The highest rate of 20 per cent would hit China, which Washington blames for flooding world markets with cheap exports.",
+      "source": "CA03"
+    },
+    {
+      "no": 4,
+      "section": "Current Affairs",
+      "question": "How many times has the submission of the investigation report in the Bangladesh Bank reserve heist case now been deferred?",
+      "options": {
+        "A": "Ninety-nine postponements",
+        "B": "Fifty postponements in all",
+        "C": "Ten postponements in all",
+        "D": "One hundred postponements"
+      },
+      "correct": "D",
+      "explanation": "The report's submission was deferred once again, marking the 100th postponement; the court set 30 December as the next date.",
+      "source": "CA04"
+    },
+    {
+      "no": 5,
+      "section": "Current Affairs",
+      "question": "Which stage of power start-up commissioning has Power Unit 1 of the Rooppur Nuclear Power Plant entered?",
+      "options": {
+        "A": "Stage A",
+        "B": "Stage C",
+        "C": "Stage B",
+        "D": "Stage D"
+      },
+      "correct": "B",
+      "explanation": "Power Unit 1 has officially entered Stage C of its power start-up commissioning after successfully achieving initial criticality.",
+      "source": "CA05"
+    },
+    {
+      "no": 6,
+      "section": "Current Affairs",
+      "question": "When did Sheikh Hasina flee to India after being ousted from power?",
+      "options": {
+        "A": "5 August 2024",
+        "B": "17 November 2025",
+        "C": "16 December 2026",
+        "D": "5 August 2025"
+      },
+      "correct": "A",
+      "explanation": "Hasina fled to India on 5 August 2024; on 17 November 2025, International Crimes Tribunal-1 sentenced her to death.",
+      "source": "CA06"
+    },
+    {
+      "no": 7,
+      "section": "Current Affairs",
+      "question": "How many direct jobs is the planned Sanko–DBL denim factory expected to create?",
+      "options": {
+        "A": "300",
+        "B": "1,500",
+        "C": "3,000",
+        "D": "4,400"
+      },
+      "correct": "D",
+      "explanation": "The $300 million factory at Sreehatta Economic Zone will produce about 10 million metres of denim a month and create about 4,400 direct jobs.",
+      "source": "CA07"
+    },
+    {
+      "no": 8,
+      "section": "Current Affairs",
+      "question": "Which three organisations completed multiple cross-border documentary collections between Bangladesh and the UK entirely in digital form?",
+      "options": {
+        "A": "Prime Bank, HSBC and Enigio",
+        "B": "Lloyds, Standard Chartered and Prime Bank",
+        "C": "Prime Bank, Lloyds and Enigio",
+        "D": "Enigio, BRAC Bank and Lloyds"
+      },
+      "correct": "C",
+      "explanation": "Prime Bank PLC, Lloyds and Enigio completed multiple cross-border documentary collections between Bangladesh and the UK, entirely in digital form.",
+      "source": "CA08"
+    },
+    {
+      "no": 9,
+      "section": "Current Affairs",
+      "question": "When is the 30-year Ganges water-sharing treaty set to expire?",
+      "options": {
+        "A": "12 December 2026",
+        "B": "12 December 1996",
+        "C": "1 January 2027",
+        "D": "17 November 2026"
+      },
+      "correct": "A",
+      "explanation": "The treaty, signed on 12 December 1996, is set to expire on December 12, and Bangladesh is seeking a guaranteed water-flow provision in a new agreement.",
+      "source": "CA09"
+    },
+    {
+      "no": 10,
+      "section": "Current Affairs",
+      "question": "According to the article, Bangladesh's GDP growth has hit a 25-year low of what?",
+      "options": {
+        "A": "2.3%",
+        "B": "3.2%",
+        "C": "4.2%",
+        "D": "5.2%"
+      },
+      "correct": "B",
+      "explanation": "GDP growth has hit a 25-year low of 3.2% amid weak remittances, sluggish exports, low FDI, tax evasion and banking-sector stress.",
+      "source": "CA11"
+    },
+    {
+      "no": 11,
+      "section": "Current Affairs",
+      "question": "According to the BBS-UNFPA Violence Against Women Survey 2024, what share of ever-married women in disaster-prone areas had experienced violence by their husbands during their lifetime?",
+      "options": {
+        "A": "20.3%",
+        "B": "66.9%",
+        "C": "74%",
+        "D": "81%"
+      },
+      "correct": "D",
+      "explanation": "The survey found 81% of ever-married women in disaster-prone areas had experienced violence by their husbands, compared with 74% in non-disaster-prone areas.",
+      "source": "CA13"
+    },
+    {
+      "no": 12,
+      "section": "Current Affairs",
+      "question": "What is security guard Murad Ali's monthly salary at the Chinese restaurant in Mirpur?",
+      "options": {
+        "A": "Tk 2,000",
+        "B": "Tk 3,000",
+        "C": "Tk 8,000",
+        "D": "Tk 16,000"
+      },
+      "correct": "C",
+      "explanation": "Murad's salary is Tk 8,000, with Tk 3,000–4,000 more from a share of restaurant sales; Tk 16,000 is fellow guard Mushfiq's pay.",
+      "source": "CA14"
+    },
+    {
+      "no": 13,
+      "section": "Current Affairs",
+      "question": "How many trading partners did the US propose new tariffs on, including Bangladesh, China and the EU?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "16",
+        "D": "14"
+      },
+      "correct": "D",
+      "explanation": "The administration proposed levies on 14 trading partners to combat what it calls structural excess industrial capacity.",
+      "source": "CA03"
+    },
+    {
+      "no": 14,
+      "section": "Vocabulary",
+      "question": "What does 'morale' mean in the sentence 'who silently drains their time and morale'?",
+      "options": {
+        "A": "Confidence and mental strength",
+        "B": "A large sum of money saved for the future",
+        "C": "A formal written agreement between friends",
+        "D": "Physical strength built through exercise"
+      },
+      "correct": "A",
+      "explanation": "Morale means confidence, enthusiasm and mental strength; here, bad company drains a young person's time and morale.",
+      "source": "CA01"
+    },
+    {
+      "no": 15,
+      "section": "Vocabulary",
+      "question": "What does 'provocation' mean?",
+      "options": {
+        "A": "A peaceful settlement of a dispute",
+        "B": "An act meant to stir anger or trouble",
+        "C": "A government order closing a factory",
+        "D": "A formal apology issued after a protest"
+      },
+      "correct": "B",
+      "explanation": "Provocation means an act intended to provoke anger or unrest; the union leader warned workers not to be influenced by propaganda, provocation or misinformation.",
+      "source": "CA02"
+    },
+    {
+      "no": 16,
+      "section": "Vocabulary",
+      "question": "In 'the garment industry is Bangladesh's economic lifeline', what does 'lifeline' mean?",
+      "options": {
+        "A": "A rope used by sailors to climb a ship",
+        "B": "A new law that protects factory owners from closure",
+        "C": "Something vital that keeps the economy alive",
+        "D": "A loan taken from a foreign bank"
+      },
+      "correct": "C",
+      "explanation": "A lifeline is something essential for survival; garments account for four-fifths of Bangladesh's export earnings.",
+      "source": "CA02"
+    },
+    {
+      "no": 17,
+      "section": "Vocabulary",
+      "question": "What does 'retaliation' mean in 'stopped short of threatening retaliation'?",
+      "options": {
+        "A": "A public apology for a trade dispute",
+        "B": "A request for new trade talks",
+        "C": "A promise to lower import duties",
+        "D": "Hitting back after an attack"
+      },
+      "correct": "D",
+      "explanation": "Retaliation means striking back; Beijing dismissed overcapacity claims but did not threaten to hit back with its own tariffs.",
+      "source": "CA03"
+    },
+    {
+      "no": 18,
+      "section": "Vocabulary",
+      "question": "What does 'undeterred' mean in 'undeterred in his protectionist push'?",
+      "options": {
+        "A": "Not discouraged or held back",
+        "B": "Angry and ready to resign",
+        "C": "Confused by the election results",
+        "D": "Forced to change his policy"
+      },
+      "correct": "A",
+      "explanation": "Undeterred means not put off; Trump pressed ahead with new tariffs despite his party's midterm losses.",
+      "source": "CA03"
+    },
+    {
+      "no": 19,
+      "section": "Vocabulary",
+      "question": "What is 'protectionism'?",
+      "options": {
+        "A": "Free trade with no import duties at all",
+        "B": "Shielding home industries with tariffs",
+        "C": "A ban on all exports from a country",
+        "D": "A system of fixed exchange rates"
+      },
+      "correct": "B",
+      "explanation": "Protectionism is the policy of protecting home industries from foreign competition through tariffs and other barriers.",
+      "source": "CA03"
+    },
+    {
+      "no": 20,
+      "section": "Vocabulary",
+      "question": "What does 'postponement' mean in 'marking the 100th postponement'?",
+      "options": {
+        "A": "The final approval of a report",
+        "B": "The public release of secret documents",
+        "C": "Putting something off to a later date",
+        "D": "The arrest of a suspect in a case"
+      },
+      "correct": "C",
+      "explanation": "Postponement means delaying to a later time; the CID again failed to submit the reserve-heist probe report, the 100th delay.",
+      "source": "CA04"
+    },
+    {
+      "no": 21,
+      "section": "Vocabulary",
+      "question": "What does 'heist' mean in 'the Bangladesh Bank reserve heist case'?",
+      "options": {
+        "A": "A new banking regulation",
+        "B": "A court order to freeze accounts",
+        "C": "An official audit of foreign reserves",
+        "D": "A large-scale robbery or theft"
+      },
+      "correct": "D",
+      "explanation": "A heist is a major robbery; hackers stole $81 million from Bangladesh Bank's account with the US Federal Reserve in February 2016.",
+      "source": "CA04"
+    },
+    {
+      "no": 22,
+      "section": "Vocabulary",
+      "question": "What does 'commissioning' mean in 'Stage C of its power start-up commissioning'?",
+      "options": {
+        "A": "Bringing a new plant into operation",
+        "B": "A tax charged on electricity sales",
+        "C": "A meeting of the plant's safety committee",
+        "D": "The sale of a power plant to a private buyer"
+      },
+      "correct": "A",
+      "explanation": "Commissioning is the testing and start-up process that brings a new plant into service; Rooppur Unit 1 has entered Stage C after initial criticality.",
+      "source": "CA05"
+    },
+    {
+      "no": 23,
+      "section": "Vocabulary",
+      "question": "What does 'provisional' mean in 'secure provisional acceptance of the power unit'?",
+      "options": {
+        "A": "Permanent and legally final",
+        "B": "Temporary, not yet final",
+        "C": "Rejected after a safety inspection",
+        "D": "Granted only to foreign experts"
+      },
+      "correct": "B",
+      "explanation": "Provisional means temporary or conditional; the plant needs secure provisional acceptance from the vendor before full operation.",
+      "source": "CA05"
+    },
+    {
+      "no": 24,
+      "section": "Phrases",
+      "question": "What does 'in response to' mean in 'made the remarks in response to questions from journalists'?",
+      "options": {
+        "A": "Before any request is made",
+        "B": "Without waiting for permission",
+        "C": "As a reply or reaction",
+        "D": "In place of a formal request"
+      },
+      "correct": "C",
+      "explanation": "'In response to' means as a reply or reaction to something; the MEA spokesperson spoke in response to journalists' questions.",
+      "source": "CA06"
+    },
+    {
+      "no": 25,
+      "section": "Phrases",
+      "question": "What does 'on the eve of' mean in 'On the eve of the 16 Days of Activism against Gender-Based Violence'?",
+      "options": {
+        "A": "Long after the event has ended",
+        "B": "During the middle of the event",
+        "C": "In celebration of the event",
+        "D": "Just before the event begins"
+      },
+      "correct": "D",
+      "explanation": "'On the eve of' means just before something happens; the article was written just before the 16 Days of Activism campaign.",
+      "source": "CA13"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Impactful social relationships: A smarter investment for Bangladesh’s youth",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/thoughts/impactful-social-relationships-smarter-investment-bangladeshs-youth-1613316"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Yahoo",
+      "Headline / report": "Bangladesh garment workers win wage rise after weeks of protests",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.yahoo.com/news/videos/bangladesh-garment-workers-win-wage-112509738.html"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "MSN",
+      "Headline / report": "Bangladesh raises garment workers' minimum wage 36% after protests",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.msn.com/en-us/money/economy/bangladesh-raises-garment-workers-minimum-wage-36-after-protests/ar-AA2iatmW"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "US proposes up to 20pc new tariffs on 14 major trading partners, including Bangladesh, China, India",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://en.prothomalo.com/business/local/ffog42c7y5"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "US unveils proposed tariffs on major partners, including EU and China",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.dhakatribune.com/world/north-america/425757/us-unveils-proposed-tariffs-on-major-partners"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh Bank reserve heist probe report deferred for 100th time",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/bangladesh-bank-reserve-heist-probe-report-deferred-100th-time-1613416"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Sparking the grid: Readiness challenges of the operating organisation of Rooppur NPP",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/thoughts/sparking-grid-readiness-challenges-operating-organisation-rooppur-npp-1613311"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "Hasina's return plan, extradition separate issues - Says India's MEA",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/hasinas-return-plan-extradition-separate-issues-says-indias-mea-4333521"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Hasina's plan to return to Bangladesh, extradition request are separate matters: India",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://en.prothomalo.com/international/india/m2psjurwf4"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Turkish Sanko, local DBL to invest $300m in denim plant, create 4,400 jobs",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/economy/turkish-sanko-local-dbl-invest-300m-denim-plant-create-4400-jobs-1613841"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Prime Bank, Lloyds complete multiple digital trade collections between Bangladesh and UK",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/economy/corporates/prime-bank-lloyds-complete-multiple-digital-trade-collections-between-bangladesh"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Dhaka Tribune",
+      "Headline / report": "Prime Bank, Lloyds and Enigio take UK-Bangladesh digital trade to everyday scale",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.dhakatribune.com/business/banks/425749/prime-bank-lloyds-and-enigio-take-uk-bd-digital"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/metro-news/dhaka-seeks-water-flow-guarantee-as-ganges-treaty-nears-expiry-1795624476"
+    },
+    {
+      "Source ID": "S02",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Dhaka seeks water-flow guarantee as Ganges treaty nears expiry",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/government/9gjq4tmqxf"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "National Herald",
+      "Headline / report": "Bangladesh's GDP growth hits 25-year low of 3.2% amid mounting economic woes",
+      "Publication date": "2026-11-24",
+      "Direct URL": "https://www.nationalheraldindia.com/international/bangladeshs-gdp-growth-hits-25-year-low-of-32-per-cent-amid-mounting-economic-woes"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "51st BCS: PSC issues instructions for candidates, including entry to exam halls",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://en.prothomalo.com/youth/employment/diouzfh9od"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Climate justice is gender justice: Why climate action must address gender-based violence",
+      "Publication date": "2026-11-25",
+      "Direct URL": "https://www.tbsnews.net/thoughts/climate-justice-gender-justice-why-climate-action-must-address-gender-based-violence"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "The men guarding Dhaka can barely afford to live in it",
+      "Publication date": "2026-11-26",
+      "Direct URL": "https://www.tbsnews.net/features/panorama/men-guarding-dhaka-can-barely-afford-live-it-1614231"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+      "Publication date": "2026-11-26",
+      "Direct URL": "https://www.tbsnews.net/worldbiz/usa/trump-unveils-new-tariffs-over-excess-industrial-capacity-undeterred-midterms-defeat"
+    }
+  ],
+  "approved_by": "auto-17/17 (Rudro's rule 2026-11-13)",
+  "approval_notes": "v1 fallback day: v2 failed at convert (only 7 fresh words vs 20 needed, word-bank exhaustion). Review 17/17 passed after two pack fixes; longest-correct gate-def 0/25 (strict 6/25, all all-equal ties), letters A6/B6/C6/D7. Manual spot-checks (operator, from collected source texts): lead figures verified for CA01 (7/7), CA02 (6/6), CA03 (20pc/25pc/62pc wording), CA11 (3/3 in National Herald body), CA15 (4/4); CA08 figures (48 hours, under an hour) verified live from the resolved TBS article. Opinion attribution verified for CA01, CA05, CA13. CA10 dropped: NEIR story already published as Edition 19 CA06 (same URL) - edition ships 14 stories. CA08 TBS URL added via runbook 2b resolver (verified direct URL); importer flags it 'not collected' - sanctioned resolver path, not an invented URL. Caveats: CA11 GDP 3.2% is second-hand (National Herald reporting an undated Daily Star piece), no fiscal year named - summary attributes it ('reportedly', 'according to'); CA05 body truncated at 4,000 chars; Bangla meanings not re-checked entry by entry. Honest limit: the 17 checks verify form, not content against sources (Edition 7 lesson) - checks 13/17 got the operator spot-checks above, no human eye beyond that."
+}
