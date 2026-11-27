@@ -369,16 +369,37 @@
       "revision_words": 5,
       "sources": 19,
       "coverage": "25 Nov 2026, 7:47 AM to 2026-11-26, 7:47 AM (Asia/Dhaka)"
+    },
+    {
+      "edition_date": "2026-11-27",
+      "file": "data-2026-11-27.json",
+      "status": "published",
+      "review": "v1 fallback 17/17 passed; auto-published under Rudro's v1 rule (17/17 + longest-correct 3/25 gate-def); pack: agent (coordinator + writers). 14 stories; drops: CA08 garment wage (repeat of Ed 20 CA02, same Yahoo URL), CA15 Bangladesh Bank reform (Google-News-only); promotion: CA16 Gazipur wage unrest (Prothom Alo, fetched body). Fixes in pack: 'viability' duplicate of Ed 6/7/13/15 -> 'congestion' (verbatim CA10 example); CA13 summary trimmed 95->89 words; CA14 figure 1.5C added (live TBS fetch); MCQ letters shuffled 19A/4B/2C/0D -> 6/6/6/7. First sentences rewritten (EN 10 + BN 12) to the 20-word one-liner rule; derive + exam_qa top-up done (2/story EN+BN). V2 did not complete today (convert failed: 4 fresh words vs 20 required, word-bank exhaustion, 3rd straight day; one-liner validator crash on period-less headline a397). v1 fallback does NOT advance the v2 proof; correct-consecutive stays 5.",
+      "stories": 14,
+      "words": 20,
+      "phrases": 10,
+      "mcqs": 25,
+      "revision_words": 5,
+      "sources": 14,
+      "coverage": "26 Nov 2026, 7:47 AM to 2026-11-27, 7:47 AM (Asia/Dhaka)"
     }
   ],
   "correct_consecutive_editions": 5,
-  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate (CONTRACTS.md). The v1 run closed at 7/7 (Editions 9-15 Nov 2026, 17/17); the count reset to 0 at the first v2 edition (Edition 11, 17 Nov 2026, Rudro's rule 2026-11-15), so the v2 run is 5. Edition 19 (25 Nov 2026) is a v1-format fallback (v2 failed at convert: word-bank exhaustion) and does not advance the v2 proof. Edition 20 (26 Nov 2026) is a v1-format fallback (v2 failed at convert: word-bank exhaustion) and does not advance the v2 proof.",
-  "daily_run": "08:00 Asia/Dhaka, cron sarangsho-plus-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
+  "correct_rule": "A v2 edition counts as correct only if published after passing the full 15-check v2 gate. Editions 25-27 Nov 2026 are v1-format fallbacks (v2 failed: word-bank exhaustion, 11/7/4 fresh words vs 20 required); they passed 17/17 under Rudro's v1 rule but do NOT advance the v2 proof; correct-consecutive stays 5 (Editions 11, 21-24 Nov).",
+  "daily_run": "08:00 Asia/Dhaka, cron nirjas-daily-engine; since 2026-11-13, a draft passing 17/17 with longest-correct at most 10/25 auto-publishes under Rudro's rule; anything below stops at the human review gate.",
   "renovation_summary": {
     "format": "learning-module-v2",
-    "date": "2026-11-18",
-    "editions": 16,
-    "stories": 225,
-    "note": "Each story carries a learning_module in the 11-section v2 format (hero + news summary + verified facts + topic GK + institutions + extra knowledge + MCQ practice + written prep + vocabulary + revision + deep prep). News facts and GK facts are in separate sections with separate sources; exam_notes is dropped, its content split into institutions and extra knowledge."
+    "date": "2026-11-27",
+    "editions": 27,
+    "stories": 381,
+    "note": "Each story carries a learning_module in the 11-section v2 format (hero + news summary + verified facts + topic GK + institutions + extra knowledge + MCQ practice + written prep + vocabulary + revision + deep prep). News facts and GK facts are in separate sections with separate sources; exam_notes is dropped. Editions 17-26 (142 stories) renovated 2026-11-26, with timeline, per-paper viewpoints, knowledge-map and verified chart series added where a verified source exists. UI Directions enrichment 2026-11-26 (staged, not yet live): timelines deepened to 119 multi-event (817 events), knowledge maps to 5-7 branches on all 142 stories, 142 'Learn the connection' prompts, 24 case challenges merged into the edition files; 23 stories remain anchor-only and 2 map nodes lack detail_bn (see ui-directions-enriched-17-26/REPORT.md).",
+    "ui_directions_enrichment": {
+      "date": "2026-11-26",
+      "multi_event_timelines": 119,
+      "timeline_events": 817,
+      "anchor_only_stories": 23,
+      "connection_prompts": 142,
+      "case_challenges": 24
+    }
   }
 }
