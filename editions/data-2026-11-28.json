@@ -1,0 +1,2220 @@
+{
+  "edition_date": "2026-11-28",
+  "edition_day": "Saturday",
+  "coverage": "27 Nov 2026, 7:47 AM to 2026-11-28, 7:47 AM (Asia/Dhaka)",
+  "status": "published",
+  "counts": {
+    "stories": 14,
+    "words": 20,
+    "phrases": 10,
+    "mcqs": 25,
+    "revision_words": 5
+  },
+  "stories": [
+    {
+      "article_date": "2026-11-27",
+      "category": "World",
+      "event_date": "2026-11-27",
+      "exam_facts": "The state minister said the government, under Prime Minister Tarique Rahman's leadership, was pursuing a 'Bangladesh First' policy, maintaining strategic balance while placing the interests of the people at the centre of its decisions. She also emphasised stronger collaboration between the Global South and Global North, saying such partnerships should deliver mutual benefits, and said Bangladesh remained committed to democracy, multilateralism, a rules-based international order and respect for international law. The roundtable brought together think tanks, international non-governmental organisations, practitioners, policymakers and experts to discuss partnerships between and within the Global South and Global North. Note: the figure of more than 1.2 million Rohingya refugees comes from the full live article, as the collected body text was truncated before that passage.",
+      "exam_relevance": "Foreign policy, economic security, supply-chain diversification, Germany–Bangladesh relations, Rohingya repatriation — BCS Bangladesh affairs / international affairs.",
+      "figures": "More than 1.2 million Rohingya refugees in Bangladesh (cited in the article); roundtable in Berlin on 27 November 2026",
+      "headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "id": "CA01",
+      "key_people": "Shama Obaed Islam, State Minister for Foreign Affairs; Tarique Rahman, Prime Minister",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061"
+        }
+      ],
+      "summary": "State Minister Shama Obaed Islam said in Berlin on 27 November that Bangladesh seeks economic security and diversified supply chains. She told the 'Strategic Partnership in a Changing Global Order' roundtable that Bangladesh wants pragmatic partnerships to safeguard national interests and ensure long-term prosperity, working with trusted partners including Germany. She listed climate change, renewable energy, skills, employment and technology sharing as cooperation areas, and highlighted repatriation of more than 1.2 million Rohingya refugees — a foreign-policy hook for BCS/Bank.",
+      "why_it_matters": "The 'Bangladesh First' policy and the Germany partnership list are the exact foreign-policy facts for BCS/Bank questions on economic security and supply-chain diversification, and the 1.2-million Rohingya figure anchors every follow-up on the repatriation issue.",
+      "one_liner": "State Minister Shama Obaed Islam said in Berlin on 27 November that Bangladesh seeks economic security and diversified supply chains.",
+      "key_facts": [
+        {
+          "label": "cited in the article",
+          "value": "More than 1.2 million Rohingya refugees in Bangladesh",
+          "original": "More than 1.2 million Rohingya refugees in Bangladesh (cited in the article)"
+        },
+        {
+          "label": "",
+          "value": "roundtable in Berlin on 27 November 2026",
+          "original": "roundtable in Berlin on 27 November 2026"
+        },
+        {
+          "label": "The state minister said the government,…",
+          "value": "1.2 million",
+          "original": "The state minister said the government, under Prime Minister Tarique Rahman's leadership, was pursuing a 'Bangladesh First' policy, maintaining strategic balance while placing the interests of the people at the centre of its decisions. She also emphasised stronger collaboration between the Global South and Global North, saying such partnerships should deliver mutual benefits, and said Bangladesh remained committed to democracy, multilateralism, a rules-based international order and respect for international law. The roundtable brought together think tanks, international non-governmental organisations, practitioners, policymakers and experts to discuss partnerships between and within the Global South and Global North. Note: the figure of more than 1.2 million Rohingya refugees comes from the full live article, as the collected body text was truncated before that passage"
+        }
+      ],
+      "what_happened": [
+        "She told the 'Strategic Partnership in a Changing Global Order' roundtable that Bangladesh wants pragmatic partnerships to safeguard national interests and ensure long-term prosperity,",
+        "working with trusted partners including Germany.",
+        "She listed climate change, renewable energy, skills, employment and technology sharing as cooperation areas, and highlighted repatriation of more than 1.2 million Rohingya refugees — a foreign-policy hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many Rohingya refugees are in Bangladesh, according to the article?",
+          "a": "More than 1.2 million"
+        },
+        {
+          "q": "What policy is the government pursuing, in the state minister's words?",
+          "a": "'Bangladesh First'"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "State Minister Shama Obaed Islam said in Berlin on ______ that Bangladesh seeks economic security and diversified supply chains.",
+          "answer": "27 November"
+        },
+        {
+          "cloze": "She listed climate change, renewable energy, skills, employment and technology sharing as cooperation areas, and highlighted repatriation of more than ______ million Rohingya refugees — a foreign-policy hook for BCS/Bank.",
+          "answer": "1.2"
+        }
+      ],
+      "keywords": [
+        "world",
+        "bangladesh",
+        "seeks",
+        "economic",
+        "security",
+        "diversified",
+        "supply",
+        "chains",
+        "shama",
+        "obaed"
+      ],
+      "detail": "State Minister Shama Obaed Islam said in Berlin on 27 November that Bangladesh seeks economic security and diversified supply chains. She told the 'Strategic Partnership in a Changing Global Order' roundtable that Bangladesh wants pragmatic partnerships to safeguard national interests and ensure long-term prosperity, working with trusted partners including Germany. She listed climate change, renewable energy, skills, employment and technology sharing as cooperation areas, and highlighted repatriation of more than 1.2 million Rohingya refugees — a foreign-policy hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-27",
+      "exam_facts": "The first-phase districts are Manikganj, Feni, Naogaon, Jhenaidah, Bhola, Habiganj, Rangpur and Netrokona, and Bangladesh Bank has assigned a lead bank to handle financing in each upazila. Netrokona recorded the highest number of applications at 5,351, followed by Rangpur with 2,745 and Naogaon with 2,456; Jhenaidah had 2,191, Habiganj 1,552, Bhola 1,545, Manikganj 1,343 and Feni 1,261. Applications were accepted through commercial bank branches at upazila level from 16 September to 15 October, and the programme guidelines were issued on 13 September, targeting entrepreneurs aged up to 28. Eligible businesses include agriculture, food processing, handicrafts, fisheries, livestock, tourism, services, renewable energy, light engineering and technology-based start-ups, as well as other lawful ventures. The central bank published the selected names and identification numbers but did not disclose the loan amounts or business sectors.",
+      "exam_relevance": "Bangladesh Bank, youth entrepreneurship, collateral-free credit, SME finance, employment generation — BCS Bangladesh affairs / economy and banking.",
+      "figures": "640 young entrepreneurs selected, 10 from each of 64 upazilas in 8 districts; 18,444 applications; up to Tk 2 million per entrepreneur (Tk 1 million loan + Tk 1 million grant)",
+      "headline": "Bangladesh Bank names 640 for collateral-free 'Udyog' loans",
+      "id": "CA02",
+      "key_people": "No individuals are named in the collected text",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Bangladesh Bank names 640 for collateral-free 'Udyog' loans",
+          "publication": "bdnews24",
+          "url": "https://bdnews24.com/economy/obat5skc9f"
+        }
+      ],
+      "summary": "Bangladesh Bank has named 640 young entrepreneurs for collateral-free financing under its Udyog programme. It selected 10 applicants from each of 64 upazilas across eight districts, after 18,444 applications, and each entrepreneur can receive up to Tk 2 million — a Tk 1 million loan plus a Tk 1 million one-time grant, disbursed together. If the loan is not repaid, the grant converts into a loan — a youth-employment hook for BCS/Bank.",
+      "why_it_matters": "The 640 selections, the Tk 2 million package and the 18,444 applications are the exact figures for BCS/Bank questions on youth entrepreneurship and central-bank credit schemes, and the grant-converts-to-loan condition is the detail examiners probe next.",
+      "one_liner": "Bangladesh Bank has named 640 young entrepreneurs for collateral-free financing under its Udyog programme.",
+      "key_facts": [
+        {
+          "label": "young entrepreneurs selected, 10 from each…",
+          "value": "640",
+          "original": "640 young entrepreneurs selected, 10 from each of 64 upazilas in 8 districts"
+        },
+        {
+          "label": "Tk 1 million loan + Tk 1 million grant",
+          "value": "up to Tk 2 million per entrepreneur",
+          "original": "up to Tk 2 million per entrepreneur (Tk 1 million loan + Tk 1 million grant)"
+        },
+        {
+          "label": "The first-phase districts are Manikganj, Feni,…",
+          "value": "5,351,",
+          "original": "The first-phase districts are Manikganj, Feni, Naogaon, Jhenaidah, Bhola, Habiganj, Rangpur and Netrokona, and Bangladesh Bank has assigned a lead bank to handle financing in each upazila. Netrokona recorded the highest number of applications at 5,351, followed by Rangpur with 2,745 and Naogaon with 2,456"
+        },
+        {
+          "label": "Jhenaidah had Habiganj 1,552, Bhola 1,545,…",
+          "value": "2,191,",
+          "original": "Jhenaidah had 2,191, Habiganj 1,552, Bhola 1,545, Manikganj 1,343 and Feni 1,261. Applications were accepted through commercial bank branches at upazila level from 16 September to 15 October, and the programme guidelines were issued on 13 September, targeting entrepreneurs aged up to 28. Eligible businesses include agriculture, food processing, handicrafts, fisheries, livestock, tourism, services, renewable energy, light engineering and technology-based start-ups, as well as other lawful ventures. The central bank published the selected names and identification numbers but did not disclose the loan amounts or business sectors"
+        }
+      ],
+      "what_happened": [
+        "It selected 10 applicants from each of 64 upazilas across eight districts, after 18,444 applications, and each entrepreneur can receive up to Tk 2 million — a Tk 1 million loan plus a Tk 1 million one-time grant,",
+        "disbursed together.",
+        "If the loan is not repaid, the grant converts into a loan — a youth-employment hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many young entrepreneurs were selected, and how many applications were there?",
+          "a": "640 selected from 18,444 applications"
+        },
+        {
+          "q": "How much can each entrepreneur receive, and in what form?",
+          "a": "Up to Tk 2 million -- Tk 1 million loan plus Tk 1 million one-time grant"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank has named ______ young entrepreneurs for collateral-free financing under its Udyog programme.",
+          "answer": "640"
+        },
+        {
+          "cloze": "It selected ______ applicants from each of 64 upazilas across eight districts, after 18,444 applications, and each entrepreneur can receive up to Tk 2 million — a Tk 1 million loan plus a Tk 1 million one-time grant, disbursed together.",
+          "answer": "10"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "bank",
+        "names",
+        "collateral",
+        "free",
+        "udyog",
+        "loans"
+      ],
+      "detail": "Bangladesh Bank has named 640 young entrepreneurs for collateral-free financing under its Udyog programme. It selected 10 applicants from each of 64 upazilas across eight districts, after 18,444 applications, and each entrepreneur can receive up to Tk 2 million — a Tk 1 million loan plus a Tk 1 million one-time grant, disbursed together. If the loan is not repaid, the grant converts into a loan — a youth-employment hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "World",
+      "event_date": "2026-11-26",
+      "exam_facts": "Kazi Muntashir Murshed, Minister and Chargé d'Affaires of the Bangladesh Embassy in Poland; Adam Mokrysz; Maciej Stachura, Vice-President of the City of Katowice; and Tomasz Zjawiony, representing the Chamber of Commerce and Industry in Katowice, spoke at the inaugural ceremony, which included a ribbon-cutting event. The formal proceedings concluded with a group photograph, followed by a networking session, according to a press release issued by the Bangladesh Embassy in Poland. The newly inaugurated office is also expected to strengthen cultural and academic exchanges and facilitate engagement with the Bangladeshi community in southern Poland, and the embassy congratulated Mokrysz and said it would work closely with him to strengthen bilateral relations.",
+      "exam_relevance": "Bangladesh–Poland relations, honorary consulates, diplomatic missions, trade and investment promotion — BCS Bangladesh affairs / international affairs.",
+      "figures": "1 Honorary Consul in Poland (Adam Mokrysz); jurisdiction over the Silesian Voivodeship; inaugurated 26 November 2026",
+      "headline": "Bangladesh's Honorary Consulate inaugurated in Katowice, Poland",
+      "id": "CA03",
+      "key_people": "Adam Mokrysz, Honorary Consul of Bangladesh in Katowice; Kazi Muntashir Murshed, Minister and Chargé d'Affaires of the Bangladesh Embassy in Poland; Maciej Stachura, Vice-President of the City of Katowice; Tomasz Zjawiony, Chamber of Commerce and Industry in Katowice",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Bangladesh's Honorary Consulate inaugurated in Katowice, Poland",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/foreign-policy/bangladeshs-honorary-consulate-inaugurated-katowice-poland-1615986"
+        }
+      ],
+      "summary": "Bangladesh opened its Honorary Consulate in Katowice, Poland, on 26 November, headed by Honorary Consul Adam Mokrysz. The office, Bangladesh's only honorary consulate in Poland, has jurisdiction over the Silesian Voivodeship and is expected to promote trade, investment and cultural exchanges with the region. Chargé d'Affaires Kazi Muntashir Murshed urged Polish entrepreneurs to explore manufacturing, agro-processing, pharmaceuticals, engineering, energy and technology in Bangladesh — a diplomacy hook for BCS/Bank.",
+      "why_it_matters": "The Silesian jurisdiction and the single-consul fact are the exact details for BCS/Bank questions on Bangladesh's diplomatic presence in Poland, and the trade-and-investment brief explains why a consulate opened in Katowice rather than Warsaw.",
+      "one_liner": "Bangladesh opened its Honorary Consulate in Katowice, Poland, on 26 November, headed by Honorary Consul Adam Mokrysz.",
+      "key_facts": [
+        {
+          "label": "Adam Mokrysz",
+          "value": "1 Honorary Consul in Poland",
+          "original": "1 Honorary Consul in Poland (Adam Mokrysz)"
+        },
+        {
+          "label": "",
+          "value": "inaugurated 26 November 2026",
+          "original": "inaugurated 26 November 2026"
+        },
+        {
+          "label": "",
+          "value": "Maciej Stachura, Vice-President of the City of Katowice",
+          "original": "Maciej Stachura, Vice-President of the City of Katowice"
+        }
+      ],
+      "what_happened": [
+        "The office, Bangladesh's only honorary consulate in Poland, has jurisdiction over the Silesian Voivodeship and is expected to promote trade, investment and cultural exchanges with the region.",
+        "Chargé d'Affaires Kazi Muntashir Murshed urged Polish entrepreneurs to explore manufacturing, agro-processing, pharmaceuticals, engineering, energy and technology in Bangladesh — a diplomacy hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "Where is Bangladesh's only Honorary Consulate in Poland, and who heads it?",
+          "a": "Katowice; Honorary Consul Adam Mokrysz"
+        },
+        {
+          "q": "Which region does the consulate cover?",
+          "a": "The Silesian Voivodeship"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh opened its Honorary Consulate in Katowice, Poland, on ______, headed by Honorary Consul Adam Mokrysz.",
+          "answer": "26 November"
+        }
+      ],
+      "keywords": [
+        "world",
+        "bangladesh",
+        "honorary",
+        "consulate",
+        "inaugurated",
+        "katowice",
+        "poland"
+      ],
+      "detail": "Bangladesh opened its Honorary Consulate in Katowice, Poland, on 26 November, headed by Honorary Consul Adam Mokrysz. The office, Bangladesh's only honorary consulate in Poland, has jurisdiction over the Silesian Voivodeship and is expected to promote trade, investment and cultural exchanges with the region. Chargé d'Affaires Kazi Muntashir Murshed urged Polish entrepreneurs to explore manufacturing, agro-processing, pharmaceuticals, engineering, energy and technology in Bangladesh — a diplomacy hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-28",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-25",
+      "exam_facts": "The author says the USTR document runs to several hundred pages and follows a nine-month investigation, using terms such as 'structural excess capacity', 'unreasonable', 'burden' and 'restrict', and that the proposed 18% rate is net of the existing Section 301 forced-labour tariffs. He writes that in Dhaka the same morning the machines in Mirpur and Narayanganj were already running, and that the 'excess capacity' Washington investigated is, on the factory floor, the sound of the needle and the arithmetic of a lunch break. He argues the February compact 'did not buy exemption from American pressure. It created a performance review, and the reviewer is the plaintiff.' Note: the collected body text was truncated mid-sentence, so the analysis's later sections were not available to this writer.",
+      "exam_relevance": "Bangladesh–US trade, Section 301, reciprocal tariffs, USTR, Supreme Court tariff ruling, RMG exports — BCS Bangladesh affairs / international trade and economy.",
+      "figures": "Proposed rate up to 18%, net of existing Section 301 forced-labour tariffs, rising to 20% if consultations are 'unsatisfactory'; February Agreement cut reciprocal tariff from 37% to 19%; US Supreme Court ruling 20 February 2026 (Learning Resources, Inc. v Trump)",
+      "headline": "Bangladesh needs to reassess its US trade strategy",
+      "id": "CA04",
+      "key_people": "Zakir Kibria, author of the analysis; no other individuals are named in the collected text",
+      "sources": [
+        {
+          "date": "2026-11-28",
+          "headline": "Bangladesh needs to reassess its US trade strategy",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/features/panorama/bangladesh-needs-reassess-its-us-trade-strategy-1616116"
+        }
+      ],
+      "summary": "The analysis argues Bangladesh must reassess its United States trade strategy after fresh American duties of up to 18%. The author says the USTR published Section 301 determinations on 25 November 2026, with the rate rising to 20% if consultations are found 'unsatisfactory'. The author notes the February compact cut the tariff from 37% to 19% but bought no exemption, and that on 20 February 2026 the Supreme Court ruled in Learning Resources, Inc. v Trump that the emergency-powers law does not authorise tariffs — a hook for BCS/Bank.",
+      "why_it_matters": "The 18% proposed rate, the 20% escalation clause and the 37%-to-19% February cut are the exact figures for BCS/Bank questions on the US Section 301 case, and the Supreme Court's 20 February ruling invalidating the reciprocal-tariff regime is the legal background for every follow-up on the deal.",
+      "one_liner": "The analysis argues Bangladesh must reassess its United States trade strategy after fresh American duties of up to 18%.",
+      "key_facts": [
+        {
+          "label": "Proposed rate up to %, net…",
+          "value": "18",
+          "original": "Proposed rate up to 18%, net of existing Section 301 forced-labour tariffs, rising to 20% if consultations are 'unsatisfactory'"
+        },
+        {
+          "label": "February Agreement cut reciprocal tariff from…",
+          "value": "37",
+          "original": "February Agreement cut reciprocal tariff from 37% to 19%"
+        },
+        {
+          "label": "Learning Resources, Inc. v Trump",
+          "value": "US Supreme Court ruling 20 February 2026",
+          "original": "US Supreme Court ruling 20 February 2026 (Learning Resources, Inc. v Trump)"
+        },
+        {
+          "label": "The author says the USTR document…",
+          "value": "18",
+          "original": "The author says the USTR document runs to several hundred pages and follows a nine-month investigation, using terms such as 'structural excess capacity', 'unreasonable', 'burden' and 'restrict', and that the proposed 18% rate is net of the existing Section 301 forced-labour tariffs. He writes that in Dhaka the same morning the machines in Mirpur and Narayanganj were already running, and that the 'excess capacity' Washington investigated is, on the factory floor, the sound of the needle and the arithmetic of a lunch break. He argues the February compact 'did not buy exemption from American pressure. It created a performance review, and the reviewer is the plaintiff.' Note: the collected body text was truncated mid-sentence, so the analysis's later sections were not available to this writer"
+        }
+      ],
+      "what_happened": [
+        "The author says the USTR published Section 301 determinations on 25 November 2026, with the rate rising to 20% if consultations are found 'unsatisfactory'.",
+        "The author notes the February compact cut the tariff from 37% to 19% but bought no exemption,",
+        "and that on 20 February 2026 the Supreme Court ruled in Learning Resources, Inc."
+      ],
+      "exam_qa": [
+        {
+          "q": "What tariff rate is Washington proposing, and what happens if consultations are 'unsatisfactory'?",
+          "a": "Up to 18%, rising to 20%"
+        },
+        {
+          "q": "What did the February compact cut the reciprocal tariff from and to?",
+          "a": "From 37% to 19%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "The analysis argues Bangladesh must reassess its United States trade strategy after fresh American duties of up to ______%.",
+          "answer": "18"
+        },
+        {
+          "cloze": "The author says the USTR published Section 301 determinations on ______, with the rate rising to 20% if consultations are found 'unsatisfactory'.",
+          "answer": "25 November 2026"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "bangladesh",
+        "needs",
+        "reassess",
+        "trade",
+        "strategy"
+      ],
+      "detail": "The analysis argues Bangladesh must reassess its United States trade strategy after fresh American duties of up to 18%. The author says the USTR published Section 301 determinations on 25 November 2026, with the rate rising to 20% if consultations are found 'unsatisfactory'. The author notes the February compact cut the tariff from 37% to 19% but bought no exemption, and that on 20 February 2026 the Supreme Court ruled in Learning Resources, Inc. v Trump that the emergency-powers law does not authorise tariffs — a hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Politics",
+      "event_date": "2026-11-27",
+      "exam_facts": "The minister said the ousted autocrat would never be allowed to return to power, saying: 'They are trying to create arson-related terrorism. We know their past record. We will never allow their attempts to unleash arson terrorism in this country to succeed.' He said the minimum wage for ready-made garment workers had been determined through the wage board, but some miscreants were still trying to create unrest using the workers' names, and they had been identified. He called for unity to protect democracy and sovereignty, saying parties must build the democratic unity they forged against fascist forces, and said people of different religions, ethnic communities and smaller ethnic groups lived together without problems, as equal citizens united by Bangladeshi nationalism. On the Khatme Nabuwwat conference demands, he said the demands previously raised by religious leaders remained unchanged and the government would try to implement them through legal means. The programme was chaired by Maulana Abdul Hamid Madhupur Pir, founder of the madrasah; Munshiganj-1 lawmaker Sheikh Md Abdullah addressed it as special guest, and Deputy Commissioner Syed Nur Mahal Ashrafi and Superintendent of Police Md Badruddoza were present. The three-day gathering drew a large crowd on Friday, its second day.",
+      "exam_relevance": "Law and order, political violence, arson investigations, Gopalganj, banned Awami League activities — BCS Bangladesh affairs / politics.",
+      "figures": "53rd annual Waz Mahfil; houses of two BNP lawmakers and a hospital owned by a BNP lawmaker set on fire; police stations torched in Tungipara and Muksudpur, Gopalganj; three-day congregation, Friday the second day",
+      "headline": "Those who torched police stations, hospitals identified: Home minister",
+      "id": "CA05",
+      "key_people": "Salahuddin Ahmed, Home Affairs Minister; Maulana Abdul Hamid Madhupur Pir, founder of Jamia Islamia Halimia Madhupur Madrasah; Sheikh Md Abdullah, Munshiganj-1 lawmaker; Syed Nur Mahal Ashrafi, Munshiganj Deputy Commissioner; Md Badruddoza, Superintendent of Police",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Those who torched police stations, hospitals identified: Home minister",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/l0gud6s437"
+        }
+      ],
+      "summary": "Home Minister Salahuddin Ahmed said those who torched police stations, hospitals and shops in Gopalganj have been identified. Speaking at the 53rd annual Waz Mahfil in Sirajdikhan, Munshiganj, on Friday 27 November, he alleged that instructions to set fires were issued regularly through audio and video messages from across the border. Awami League activists, whose activities are banned, set fire to police stations in Tungipara and Muksudpur, and to the houses of two BNP lawmakers and a hospital owned by a BNP lawmaker — a law-and-order hook for BCS/Bank.",
+      "why_it_matters": "The identification claim and the Tungipara–Muksudpur arson cases are the exact facts for BCS/Bank questions on post-uprising law and order in Gopalganj, and the minister's cross-border incitement allegation is the background for every follow-up on arson investigations.",
+      "one_liner": "Home Minister Salahuddin Ahmed said those who torched police stations, hospitals and shops in Gopalganj have been identified.",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "police stations torched in Tungipara and Muksudpur, Gopalganj",
+          "original": "police stations torched in Tungipara and Muksudpur, Gopalganj"
+        },
+        {
+          "label": "",
+          "value": "three-day congregation, Friday the second day",
+          "original": "three-day congregation, Friday the second day"
+        },
+        {
+          "label": "Munshiganj- lawmaker Sheikh Md Abdullah addressed…",
+          "value": "1",
+          "original": "Munshiganj-1 lawmaker Sheikh Md Abdullah addressed it as special guest, and Deputy Commissioner Syed Nur Mahal Ashrafi and Superintendent of Police Md Badruddoza were present. The three-day gathering drew a large crowd on Friday, its second day"
+        }
+      ],
+      "what_happened": [
+        "Speaking at the 53rd annual Waz Mahfil in Sirajdikhan, Munshiganj, on Friday 27 November, he alleged that instructions to set fires were issued regularly through audio and video messages from across the border.",
+        "Awami League activists, whose activities are banned, set fire to police stations in Tungipara and Muksudpur,",
+        "and to the houses of two BNP lawmakers and a hospital owned by a BNP lawmaker — a law-and-order hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "Where were police stations torched, according to the home minister?",
+          "a": "Tungipara and Muksudpur in Gopalganj"
+        },
+        {
+          "q": "At which event did the home minister speak on 27 November?",
+          "a": "The 53rd annual Waz Mahfil in Sirajdikhan, Munshiganj"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Speaking at the 53rd annual Waz Mahfil in Sirajdikhan, Munshiganj, on Friday ______, he alleged that instructions to set fires were issued regularly through audio and video messages from across the border.",
+          "answer": "27 November"
+        }
+      ],
+      "keywords": [
+        "politics",
+        "torched",
+        "police",
+        "stations",
+        "hospitals",
+        "identified",
+        "home",
+        "minister"
+      ],
+      "detail": "Home Minister Salahuddin Ahmed said those who torched police stations, hospitals and shops in Gopalganj have been identified. Speaking at the 53rd annual Waz Mahfil in Sirajdikhan, Munshiganj, on Friday 27 November, he alleged that instructions to set fires were issued regularly through audio and video messages from across the border. Awami League activists, whose activities are banned, set fire to police stations in Tungipara and Muksudpur, and to the houses of two BNP lawmakers and a hospital owned by a BNP lawmaker — a law-and-order hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-28",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-26",
+      "exam_facts": "More than 80 per cent of global merchandise trade is carried by sea. The Strait of Hormuz carries roughly a fifth of the world's oil supply; before the disruption around 120 vessels crossed it daily, and by early March traffic measured by gross tonnage had fallen by approximately 95 per cent, UNCTAD said. Chattogram Port, which handles around 92 per cent of Bangladesh's external trade, handled 3.4 million 20-foot equivalent units (TEUs) of containers in 2025, up 4.07 per cent from 2024; total cargo throughput reached 820 million tonnes, up 11.43 per cent, and vessel calls rose 10.5 per cent to 4,273. The port ranked 68th among the world's top 100 container ports in Lloyd's List's 2025 assessment. Syed Aref Sarwar of Red Sea Gateway Terminal, operator of Patenga Container Terminal, said the terminal had yet to experience a slowdown. Dr M Masrur Reaz of Policy Exchange Bangladesh warned the disruptions and higher bunker fuel costs could fuel inflation at a time when price pressures were already elevated.",
+      "exam_relevance": "UNCTAD, seaborne trade, Strait of Hormuz, Red Sea shipping, Chattogram Port, freight costs and export competitiveness — core BCS/Bank topics on trade, economy and geography.",
+      "figures": "Global seaborne trade projected to grow 0% in 2026, down from 1.9% in 2025; freight charge Tk 10,000 risen to Tk 30,000; more than 80% of global merchandise trade carried by sea; Chattogram Port handles around 92% of Bangladesh's external trade; 3.4 million TEUs in 2025, up 4.07%",
+      "headline": "Bangladesh economy burdened with swelling seaborne trade cost",
+      "id": "CA06",
+      "key_people": "Kamruzzaman Kamal, director of marketing at Pran-RFL Group; Syed Aref Sarwar, head of commercial and public affairs at Red Sea Gateway Terminal; Dr M Masrur Reaz, chairman and chief executive of Policy Exchange Bangladesh",
+      "sources": [
+        {
+          "date": "2026-11-28",
+          "headline": "Bangladesh economy burdened with swelling seaborne trade cost",
+          "publication": "The Financial Express",
+          "url": "https://today.thefinancialexpress.com.bd/first-page/bangladesh-economy-burdened-with-swelling-seaborne-trade-cost-1795802777"
+        }
+      ],
+      "summary": "Global seaborne trade is projected to grow zero per cent in 2026, down from 1.9 per cent in 2025. UNCTAD blames disruptions in the Strait of Hormuz and the Red Sea, which force ships around the Cape of Good Hope. A PRAN-RFL director says a freight charge that was Tk 10,000 has risen to Tk 30,000. Higher freight, longer transit and surcharges threaten garment exports and raise costs for energy, chemicals and cotton imports — a trade-and-logistics hook for BCS/Bank.",
+      "why_it_matters": "The zero-growth projection for 2026 against 1.9 per cent in 2025, and Chattogram's 92 per cent share of Bangladesh's external trade, are the exact figures BCS/Bank questions use on maritime trade, and the Hormuz–Red Sea disruption explains why freight costs feed into garment competitiveness and inflation.",
+      "one_liner": "Global seaborne trade is projected to grow zero per cent in 2026, down from 1.9 per cent in 2025.",
+      "key_facts": [
+        {
+          "label": "Global seaborne trade projected to grow…",
+          "value": "0",
+          "original": "Global seaborne trade projected to grow 0% in 2026, down from 1.9% in 2025"
+        },
+        {
+          "label": "freight charge risen to Tk 30,000",
+          "value": "Tk 10,000",
+          "original": "freight charge Tk 10,000 risen to Tk 30,000"
+        },
+        {
+          "label": "more than % of global merchandise…",
+          "value": "80",
+          "original": "more than 80% of global merchandise trade carried by sea"
+        },
+        {
+          "label": "Chattogram Port handles around % of…",
+          "value": "92",
+          "original": "Chattogram Port handles around 92% of Bangladesh's external trade"
+        }
+      ],
+      "what_happened": [
+        "UNCTAD blames disruptions in the Strait of Hormuz and the Red Sea, which force ships around the Cape of Good Hope.",
+        "A PRAN-RFL director says a freight charge that was Tk 10,000 has risen to Tk 30,000.",
+        "Higher freight, longer transit and surcharges threaten garment exports and raise costs for energy, chemicals and cotton imports — a trade-and-logistics hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "What is global seaborne trade projected to grow in 2026, versus 2025?",
+          "a": "0% in 2026, down from 1.9% in 2025"
+        },
+        {
+          "q": "What share of Bangladesh's external trade does Chattogram Port handle?",
+          "a": "Around 92%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Global seaborne trade is projected to grow zero per cent in ______ down from 1.9 per cent in 2025.",
+          "answer": "2026,"
+        },
+        {
+          "cloze": "A PRAN-RFL director says a freight charge that was Tk ______ has risen to Tk 30,000.",
+          "answer": "10,000"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bangladesh",
+        "economy",
+        "burdened",
+        "swelling",
+        "seaborne",
+        "trade",
+        "cost"
+      ],
+      "detail": "Global seaborne trade is projected to grow zero per cent in 2026, down from 1.9 per cent in 2025. UNCTAD blames disruptions in the Strait of Hormuz and the Red Sea, which force ships around the Cape of Good Hope. A PRAN-RFL director says a freight charge that was Tk 10,000 has risen to Tk 30,000. Higher freight, longer transit and surcharges threaten garment exports and raise costs for energy, chemicals and cotton imports — a trade-and-logistics hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Bangladesh",
+      "event_date": "2026-11-27",
+      "exam_facts": "Under the Child Marriage Restraint Act 2017, a marriage involving a girl under the age of 18 or a boy under the age of 21 is considered child marriage, and the law provides for a maximum of two years' imprisonment for contracting, solemnising or conducting one. The Department of Women Affairs prevented 1,474 child marriages in 2024 and 968 in 2025, after 1,846 in 2023; figures for prevention after June 2026 have not yet been compiled. Calls to the National Emergency Service 999 reporting child marriage fell from 6,499 in 2023 to 4,109 in 2024 and 3,045 in 2025, from an average of five complaints a day three years ago. Prothom Alo spoke to a schoolgirl from Rangabali upazila in Patuakhali, president of a local adolescent club run by the Village Education Resource Centre (VERC) with support from Manusher Jonno Foundation, who was forced to marry three months before her Secondary School Certificate examination and was divorced within three months after her husband pressed her for a dowry. Laila Khondkar, convenor of Shishurai Shob, said people were treating child marriage as normal and giving up, believing it cannot be eliminated. Note: the collected body text was truncated after 'From January to August this', so the 2026 figure for 999 calls was not available to this writer.",
+      "exam_relevance": "Child marriage, Child Marriage Restraint Act 2017, adolescent health and education, Department of Women Affairs, National Emergency Service 999 — core BCS/Bank topics on social policy, law and Bangladesh affairs.",
+      "figures": "One in two girls a victim of child marriage; more than 64 years to eliminate at the current rate; complaints and prevention down as much as 40% in three years; 479 marriages prevented in January–June 2026 vs 1,846 in 2023; 999 calls 6,499 in 2023, 4,109 in 2024, 3,045 in 2025",
+      "headline": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+      "id": "CA07",
+      "key_people": "Naznin Akhter (reporter); Laila Khondkar, convenor of Shishurai Shob; Kaniz Sultana, project officer at Village Education Resource Centre (VERC); the victim, a schoolgirl from Rangabali, Patuakhali, is unnamed in the article",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/x2altyq03k"
+        }
+      ],
+      "summary": "One in every two girls in Bangladesh is a victim of child marriage, Prothom Alo reports. At the current rate of progress, it will take more than 64 years to eliminate the practice. Complaints and prevention efforts have fallen by as much as 40 per cent over three years: only 479 marriages were prevented in January–June 2026, against 1,846 in 2023. Experts say families now arrange marriages secretly and treat the practice as normal, so cases go unreported — a social-policy hook for BCS/Bank.",
+      "why_it_matters": "The 40 per cent fall in complaints and prevention, against the 64-year elimination timeline and the one-in-two prevalence, is the exact contrast BCS/Bank questions test on child marriage, and the Child Marriage Restraint Act 2017's age limits of 18 and 21 are the legal anchor behind every follow-up.",
+      "one_liner": "One in every two girls in Bangladesh is a victim of child marriage, Prothom Alo reports.",
+      "key_facts": [
+        {
+          "label": "more than years to eliminate at…",
+          "value": "64",
+          "original": "more than 64 years to eliminate at the current rate"
+        },
+        {
+          "label": "complaints and prevention down as much…",
+          "value": "40",
+          "original": "complaints and prevention down as much as 40% in three years"
+        },
+        {
+          "label": "marriages prevented in January–June 2026 vs…",
+          "value": "479",
+          "original": "479 marriages prevented in January–June 2026 vs 1,846 in 2023"
+        },
+        {
+          "label": "calls 6,499 in 2023, 4,109 in…",
+          "value": "999",
+          "original": "999 calls 6,499 in 2023, 4,109 in 2024, 3,045 in 2025"
+        }
+      ],
+      "what_happened": [
+        "At the current rate of progress, it will take more than 64 years to eliminate the practice.",
+        "Complaints and prevention efforts have fallen by as much as 40 per cent over three years: only 479 marriages were prevented in January–June 2026, against 1,846 in 2023.",
+        "Experts say families now arrange marriages secretly and treat the practice as normal, so cases go unreported — a social-policy hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How long will it take to eliminate child marriage at the current rate?",
+          "a": "More than 64 years"
+        },
+        {
+          "q": "Under the Child Marriage Restraint Act 2017, below what ages is a marriage a child marriage?",
+          "a": "Girl under 18 or boy under 21"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "At the current rate of progress, it will take more than ______ years to eliminate the practice.",
+          "answer": "64"
+        },
+        {
+          "cloze": "Complaints and prevention efforts have fallen by as much as 40 per cent over three years: only 479 marriages were prevented in January–______26, against 1,846 in 2023.",
+          "answer": "June 20"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "child",
+        "marriage",
+        "fewer",
+        "cases",
+        "being",
+        "reported"
+      ],
+      "detail": "One in every two girls in Bangladesh is a victim of child marriage, Prothom Alo reports. At the current rate of progress, it will take more than 64 years to eliminate the practice. Complaints and prevention efforts have fallen by as much as 40 per cent over three years: only 479 marriages were prevented in January–June 2026, against 1,846 in 2023. Experts say families now arrange marriages secretly and treat the practice as normal, so cases go unreported — a social-policy hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Bangladesh",
+      "event_date": "2026-11-17",
+      "exam_facts": "The three floating hospitals will specialise in ophthalmology (eye care), maternal and child healthcare, and orthopaedic surgery, with each vessel also housing general medicine physicians in its outpatient department. The fourth vessel will be reserved for hosting various programmes of the Ministry of Shipping and other government ministries. A tripartite meeting on utilising the four vessels was held on 17 November in the conference room of the Ministry of Shipping at the Secretariat, chaired by State Minister for Shipping Rajib Ahsan, with officials from the Ministry of Shipping, the Ministry of Health and BIWTC. The meeting agreed the vessels' core structural design must remain unaltered while converting them, with only one staircase modified into a ramp for patients. The two older vessels, MV Bangali and MV Modhumoti, were procured from Western Marine Shipyard in 2014 and 2015 at a cost of Tk 540 million. BIWTC says private sector vessels have also shut down following the opening of the Padma Bridge, cutting its revenue, while industry insiders note the corporation has shown no visible initiative to explore alternative waterways.",
+      "exam_relevance": "BIWTC, inland water transport, floating hospitals, public health in haor, island and char areas, Padma Bridge impact, public-sector losses — core BCS/Bank topics on transport, health and Bangladesh affairs.",
+      "figures": "Four vessels bought for Tk 1.22 billion combined; MV Rupsha and MV Sugandha Tk 680 million, idle nine months at Sadarghat; MV Bangali and MV Modhumoti Tk 540 million (2014–2015); three floating hospitals planned",
+      "headline": "3 of 4 idle BIWTC vessels to become floating hospitals",
+      "id": "CA08",
+      "key_people": "Rajib Ahsan, State Minister for Shipping; Arifur Rahman (reporter); no other individuals are named in the collected text",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "3 of 4 idle BIWTC vessels to become floating hospitals",
+          "publication": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/koi9xktuap"
+        }
+      ],
+      "summary": "Three of four idle BIWTC passenger vessels will become floating hospitals, the shipping ministry says. All four were bought during the previous Awami League government for a combined Tk 1.22 billion. The two new Dhaka–Barishal ships, MV Rupsha and MV Sugandha, cost Tk 680 million and have sat idle at Sadarghat for nine months for want of passengers and mechanical defects. The hospitals will serve haor, island and char residents — a public-health-and-transport hook for BCS/Bank.",
+      "why_it_matters": "The Tk 1.22 billion spent on four idle vessels and their conversion into floating hospitals for haor, island and char areas give BCS/Bank candidates the concrete case on public-sector losses and asset repurposing, and the Padma Bridge's effect on inland water transport is the background for every follow-up on BIWTC.",
+      "one_liner": "Three of four idle BIWTC passenger vessels will become floating hospitals, the shipping ministry says.",
+      "key_facts": [
+        {
+          "label": "Four vessels bought for combined",
+          "value": "Tk 1.22 billion",
+          "original": "Four vessels bought for Tk 1.22 billion combined"
+        },
+        {
+          "label": "MV Rupsha and MV Sugandha ,…",
+          "value": "Tk 680 million",
+          "original": "MV Rupsha and MV Sugandha Tk 680 million, idle nine months at Sadarghat"
+        },
+        {
+          "label": "2014–2015",
+          "value": "MV Bangali and MV Modhumoti Tk 540 million",
+          "original": "MV Bangali and MV Modhumoti Tk 540 million (2014–2015)"
+        },
+        {
+          "label": "",
+          "value": "three floating hospitals planned",
+          "original": "three floating hospitals planned"
+        }
+      ],
+      "what_happened": [
+        "All four were bought during the previous Awami League government for a combined Tk 1.22 billion.",
+        "The two new Dhaka–Barishal ships, MV Rupsha and MV Sugandha, cost Tk 680 million and have sat idle at Sadarghat for nine months for want of passengers and mechanical defects.",
+        "The hospitals will serve haor, island and char residents — a public-health-and-transport hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much did the four BIWTC vessels cost altogether?",
+          "a": "Tk 1.22 billion"
+        },
+        {
+          "q": "What will the three floating hospitals specialise in?",
+          "a": "Ophthalmology, maternal and child healthcare, and orthopaedic surgery"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "All four were bought during the previous Awami League government for a combined Tk ______ billion.",
+          "answer": "1.22"
+        },
+        {
+          "cloze": "The two new Dhaka–Barishal ships, MV Rupsha and MV Sugandha, cost Tk ______ million and have sat idle at Sadarghat for nine months for want of passengers and mechanical defects.",
+          "answer": "680"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "idle",
+        "biwtc",
+        "vessels",
+        "become",
+        "floating",
+        "hospitals"
+      ],
+      "detail": "Three of four idle BIWTC passenger vessels will become floating hospitals, the shipping ministry says. All four were bought during the previous Awami League government for a combined Tk 1.22 billion. The two new Dhaka–Barishal ships, MV Rupsha and MV Sugandha, cost Tk 680 million and have sat idle at Sadarghat for nine months for want of passengers and mechanical defects. The hospitals will serve haor, island and char residents — a public-health-and-transport hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-22",
+      "exam_facts": "According to a press release, the seven-day 13th National SME Product Fair, organised by the SME Foundation under the Ministry of Industries, began on 22 November at the Bangladesh-China Friendship Conference Centre in Agargaon and runs until 28 November. The bank says it has joined Bangladesh Bank refinance schemes including the Tk 1,500 crore FSFDMSME scheme and the Tk 3,000 crore CMSME Cluster Financing Scheme, and on 8 September 2026 signed a participation agreement under the Tk 5,000 crore CMSME Working Capital Refinance Fund, under which working-capital loans run at 9%. The bank says women entrepreneurs can obtain collateral-free loans of up to Tk 50 lakh and secured loans of up to Tk 1 crore under the refinance facility. It also offers 8% loans under the SME Foundation's Credit Wholesaling Programme and 9% long-term financing under a JICA-supported Food Value Chain Improvement Project. Bank Asia says it is working towards a long-term target of raising the combined share of SME and retail financing to 40% of its total loan portfolio within three to four years, and says it is supporting young entrepreneurs through Bangladesh Bank's Udyog programme and promoting Bangla QR payments at the fair.",
+      "exam_relevance": "SME and CMSME financing, Bangladesh Bank refinance schemes, SME Foundation, women entrepreneurs, financial inclusion — core BCS/Bank topics on banking, economy and Bangladesh affairs.",
+      "figures": "Loans at 5–9% interest; 7% under Bangladesh Bank refinance schemes; up to 5% for women entrepreneurs under Subarno; more than 450 enterprises, about 60% women-owned or led; refinance schemes of Tk 1,500 crore, Tk 3,000 crore and Tk 5,000 crore",
+      "headline": "Bank Asia offers SME loans at 5–9% interest at National SME Product Fair",
+      "id": "CA09",
+      "key_people": "Mohammad Saifuddoula, Bank Asia Head of Small Business",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Bank Asia offers SME loans at 5–9% interest at National SME Product Fair",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/economy/corporates/bank-asia-offers-sme-loans-5-9-interest-national-sme-product-fair-1615631"
+        }
+      ],
+      "summary": "Bank Asia says it is offering SME loans at 5–9% interest at the National SME Product Fair. The bank, a gold sponsor at the seven-day fair that began on 22 November, says loans run at 7% under Bangladesh Bank refinance schemes and up to 5% for women entrepreneurs under its Subarno product. More than 450 enterprises are taking part, about 60% of them women-owned or led, at the Bangladesh-China Friendship Conference Centre — a banking-and-SME hook for BCS/Bank.",
+      "why_it_matters": "The 5–9% rate band, the Tk 1,500 crore and Tk 3,000 crore refinance schemes and the 60% women-led share of the fair's 450 enterprises are the exact figures BCS/Bank questions use on SME financing, and Bangladesh Bank's refinance route is the mechanism behind every follow-up story on cheap credit for small firms.",
+      "one_liner": "Bank Asia says it is offering SME loans at 5–9% interest at the National SME Product Fair.",
+      "key_facts": [
+        {
+          "label": "up to % for women entrepreneurs…",
+          "value": "5",
+          "original": "up to 5% for women entrepreneurs under Subarno"
+        },
+        {
+          "label": "more than enterprises, about 60% women-owned…",
+          "value": "450",
+          "original": "more than 450 enterprises, about 60% women-owned or led"
+        },
+        {
+          "label": "refinance schemes of crore, Tk 3,000…",
+          "value": "Tk 1,500",
+          "original": "refinance schemes of Tk 1,500 crore, Tk 3,000 crore and Tk 5,000 crore"
+        },
+        {
+          "label": "According to a press release, the…",
+          "value": "13",
+          "original": "According to a press release, the seven-day 13th National SME Product Fair, organised by the SME Foundation under the Ministry of Industries, began on 22 November at the Bangladesh-China Friendship Conference Centre in Agargaon and runs until 28 November. The bank says it has joined Bangladesh Bank refinance schemes including the Tk 1,500 crore FSFDMSME scheme and the Tk 3,000 crore CMSME Cluster Financing Scheme, and on 8 September 2026 signed a participation agreement under the Tk 5,000 crore CMSME Working Capital Refinance Fund, under which working-capital loans run at 9%. The bank says women entrepreneurs can obtain collateral-free loans of up to Tk 50 lakh and secured loans of up to Tk 1 crore under the refinance facility. It also offers 8% loans under the SME Foundation's Credit Wholesaling Programme and 9% long-term financing under a JICA-supported Food Value Chain Improvement Project. Bank Asia says it is working towards a long-term target of raising the combined share of SME and retail financing to 40% of its total loan portfolio within three to four years, and says it is supporting young entrepreneurs through Bangladesh Bank's Udyog programme and promoting Bangla QR payments at the fair"
+        }
+      ],
+      "what_happened": [
+        "The bank, a gold sponsor at the seven-day fair that began on 22 November, says loans run at 7% under Bangladesh Bank refinance schemes and up to 5% for women entrepreneurs under its Subarno product.",
+        "More than 450 enterprises are taking part, about 60% of them women-owned or led, at the Bangladesh-China Friendship Conference Centre — a banking-and-SME hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "What interest rates is Bank Asia offering at the SME fair?",
+          "a": "5-9%; 7% under Bangladesh Bank refinance schemes"
+        },
+        {
+          "q": "How many enterprises are at the fair, and what share are women-owned or led?",
+          "a": "More than 450; about 60%"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bank Asia says it is offering SME loans at ______% interest at the National SME Product Fair.",
+          "answer": "5–9"
+        },
+        {
+          "cloze": "The bank, a gold sponsor at the seven-day fair that began on ______, says loans run at 7% under Bangladesh Bank refinance schemes and up to 5% for women entrepreneurs under its Subarno product.",
+          "answer": "22 November"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "bank",
+        "asia",
+        "offers",
+        "loans",
+        "interest",
+        "national",
+        "product",
+        "fair"
+      ],
+      "detail": "Bank Asia says it is offering SME loans at 5–9% interest at the National SME Product Fair. The bank, a gold sponsor at the seven-day fair that began on 22 November, says loans run at 7% under Bangladesh Bank refinance schemes and up to 5% for women entrepreneurs under its Subarno product. More than 450 enterprises are taking part, about 60% of them women-owned or led, at the Bangladesh-China Friendship Conference Centre — a banking-and-SME hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-25",
+      "exam_facts": "The columnist says the bargaining began more than two weeks before the vote, following the wage board's first meeting on 9 November, when the workers' representative proposed Tk 32,000. He says the proposal also took the industry's capacity into account. He says a Prothom Alo report traces the concessions in detail. He argues that, as things stand, Bangladesh needs to consider what a more transparent and evidence-based wage-setting process would look like, and how the shortcomings of this round can be addressed before the next review. Note: the collected body text was truncated after the Prothom Alo sentence, so the column's later sections were not available to this writer.",
+      "exam_relevance": "RMG minimum wage, wage board, labour relations, garment industry, wage-setting process — core BCS/Bank topics on Bangladesh's economy and labour policy.",
+      "figures": "Workers opened at Tk 32,000 a month, owners at Tk 15,000; final vote: four members for Tk 17,000, both workers' representatives for Tk 18,000; family budget cited Tk 45,000–60,000 a month for a family of four; first meeting 9 November, vote in early hours of 25 November",
+      "headline": "How did the RMG wage board arrive at Tk 17,000?",
+      "id": "CA10",
+      "key_people": "M Niaz Asadullah (columnist)",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "How did the RMG wage board arrive at Tk 17,000?",
+          "publication": "The Daily Star",
+          "url": "https://www.thedailystar.net/opinion/views/news/how-did-the-rmg-wage-board-arrive-tk-17000-4334286"
+        }
+      ],
+      "summary": "Columnist M Niaz Asadullah asks how the wage board arrived at Tk 17,000. He notes workers opened at Tk 32,000 a month and owners at Tk 15,000, and the board voted in the early hours of 25 November, with four members backing Tk 17,000 and both workers' representatives backing Tk 18,000. He notes the workers' case cited a Tk 45,000–60,000 monthly budget for a family of four, but says public accounts give little detail on how either side reached its figure — a wage-setting hook for BCS/Bank.",
+      "why_it_matters": "The columnist's Tk 32,000-versus-Tk 15,000 opening positions and the 4–2 vote for Tk 17,000 over Tk 18,000 give BCS/Bank candidates the exact bargaining numbers behind the garment minimum wage, and his transparency critique is the background for every follow-up on the next wage review.",
+      "one_liner": "Columnist M Niaz Asadullah asks how the wage board arrived at Tk 17,000.",
+      "key_facts": [
+        {
+          "label": "Workers opened at a month, owners…",
+          "value": "Tk 32,000",
+          "original": "Workers opened at Tk 32,000 a month, owners at Tk 15,000"
+        },
+        {
+          "label": "final vote",
+          "value": "four members for Tk 17,000, both workers' representatives for Tk 18,000",
+          "original": "final vote: four members for Tk 17,000, both workers' representatives for Tk 18,000"
+        },
+        {
+          "label": "family budget cited a month for…",
+          "value": "Tk 45,000–60,000",
+          "original": "family budget cited Tk 45,000–60,000 a month for a family of four"
+        },
+        {
+          "label": "The columnist says the bargaining began…",
+          "value": "Tk 32,000",
+          "original": "The columnist says the bargaining began more than two weeks before the vote, following the wage board's first meeting on 9 November, when the workers' representative proposed Tk 32,000. He says the proposal also took the industry's capacity into account. He says a Prothom Alo report traces the concessions in detail. He argues that, as things stand, Bangladesh needs to consider what a more transparent and evidence-based wage-setting process would look like, and how the shortcomings of this round can be addressed before the next review. Note: the collected body text was truncated after the Prothom Alo sentence, so the column's later sections were not available to this writer"
+        }
+      ],
+      "what_happened": [
+        "He notes workers opened at Tk 32,000 a month and owners at Tk 15,000, and the board voted in the early hours of 25 November,",
+        "with four members backing Tk 17,000 and both workers' representatives backing Tk 18,000.",
+        "He notes the workers' case cited a Tk 45,000–60,000 monthly budget for a family of four,"
+      ],
+      "exam_qa": [
+        {
+          "q": "What did the workers' representatives open at, and the owners?",
+          "a": "Workers Tk 32,000 a month; owners Tk 15,000"
+        },
+        {
+          "q": "How did the final vote split?",
+          "a": "Four members for Tk 17,000; both workers' representatives for Tk 18,000"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Columnist M Niaz Asadullah asks how the wage board arrived at Tk ______.",
+          "answer": "17,000"
+        },
+        {
+          "cloze": "He notes workers opened at Tk 32,000 a month and owners at Tk 15,000, and the board voted in the early hours of ______, with four members backing Tk 17,000 and both workers' representatives backing Tk 18,000.",
+          "answer": "25 November"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "wage",
+        "board",
+        "arrive"
+      ],
+      "detail": "Columnist M Niaz Asadullah asks how the wage board arrived at Tk 17,000. He notes workers opened at Tk 32,000 a month and owners at Tk 15,000, and the board voted in the early hours of 25 November, with four members backing Tk 17,000 and both workers' representatives backing Tk 18,000. He notes the workers' case cited a Tk 45,000–60,000 monthly budget for a family of four, but says public accounts give little detail on how either side reached its figure — a wage-setting hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-28",
+      "category": "Economy & Banking",
+      "event_date": "2026-11-27",
+      "exam_facts": "Khosru spoke as chief guest at the American Alumni Association Award 2026 ceremony at the Grand Ballroom of Hotel Westin in Dhaka, chaired by American Alumni Association President Sharif Zahir. He said Bangladesh could benefit from cooperation with the United States and other countries with successful creative economy models, and that international cooperation would be needed to develop the sector. He also emphasised quality publications and the development of professional art critics, and observed that many Bangladeshi artists do not receive fair prices for their paintings and other creative works.",
+      "exam_relevance": "Creative economy, cultural industries, reverse brain drain, art markets and auction systems — BCS/Bank topics on Bangladesh's economy, culture and development policy.",
+      "figures": "7 creative sectors named: painting, sculpture, handicrafts, theatre, music, literature and films; remarks made 27 November 2026",
+      "headline": "Khosru calls for developing creative economy",
+      "id": "CA11",
+      "key_people": "Amir Khosru Mahmud Chowdhury, Finance Minister; Sharif Zahir, President, American Alumni Association (chaired the programme)",
+      "sources": [
+        {
+          "date": "2026-11-28",
+          "headline": "Khosru calls for developing creative economy",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/khosru-calls-developing-creative-economy-1616076"
+        }
+      ],
+      "summary": "Finance Minister Amir Khosru Mahmud Chowdhury on 27 November called for building Bangladesh's creative economy. The government is launching a 'Creative Economy' initiative to make arts and culture economically viable, covering 7 creative sectors — painting, sculpture, handicrafts, theatre, music, literature and films. He wants fair prices for artists, proper valuation of artworks, professional art critics, an auction system and a good theatre in Dhaka, plus expatriates returning home — a creative-industry hook for BCS/Bank.",
+      "why_it_matters": "The 'Creative Economy' initiative and its seven named sectors — painting, sculpture, handicrafts, theatre, music, literature and films — are the exact facts for BCS/Bank questions on culture-led growth, and the auction-system and fair-pricing proposals are the background for every follow-up story on valuing Bangladeshi art.",
+      "one_liner": "Finance Minister Amir Khosru Mahmud Chowdhury on 27 November called for building Bangladesh's creative economy.",
+      "key_facts": [
+        {
+          "label": "7 creative sectors named",
+          "value": "painting, sculpture, handicrafts, theatre, music, literature and films",
+          "original": "7 creative sectors named: painting, sculpture, handicrafts, theatre, music, literature and films"
+        },
+        {
+          "label": "",
+          "value": "remarks made 27 November 2026",
+          "original": "remarks made 27 November 2026"
+        },
+        {
+          "label": "Khosru spoke as chief guest at…",
+          "value": "2026",
+          "original": "Khosru spoke as chief guest at the American Alumni Association Award 2026 ceremony at the Grand Ballroom of Hotel Westin in Dhaka, chaired by American Alumni Association President Sharif Zahir. He said Bangladesh could benefit from cooperation with the United States and other countries with successful creative economy models, and that international cooperation would be needed to develop the sector. He also emphasised quality publications and the development of professional art critics, and observed that many Bangladeshi artists do not receive fair prices for their paintings and other creative works"
+        }
+      ],
+      "what_happened": [
+        "The government is launching a 'Creative Economy' initiative to make arts and culture economically viable, covering 7 creative sectors — painting, sculpture, handicrafts, theatre, music, literature and films.",
+        "He wants fair prices for artists, proper valuation of artworks, professional art critics, an auction system and a good theatre in Dhaka,",
+        "plus expatriates returning home — a creative-industry hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "Name the 7 creative sectors in the initiative.",
+          "a": "Painting, sculpture, handicrafts, theatre, music, literature and films"
+        },
+        {
+          "q": "Where did Khosru speak on 27 November?",
+          "a": "American Alumni Association Award 2026 ceremony, Hotel Westin, Dhaka"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Finance Minister Amir Khosru Mahmud Chowdhury on ______ called for building Bangladesh's creative economy.",
+          "answer": "27 November"
+        },
+        {
+          "cloze": "The government is launching a 'Creative Economy' initiative to make arts and culture economically viable, covering ______ creative sectors — painting, sculpture, handicrafts, theatre, music, literature and films.",
+          "answer": "7"
+        }
+      ],
+      "keywords": [
+        "economy & banking",
+        "khosru",
+        "calls",
+        "developing",
+        "creative",
+        "economy"
+      ],
+      "detail": "Finance Minister Amir Khosru Mahmud Chowdhury on 27 November called for building Bangladesh's creative economy. The government is launching a 'Creative Economy' initiative to make arts and culture economically viable, covering 7 creative sectors — painting, sculpture, handicrafts, theatre, music, literature and films. He wants fair prices for artists, proper valuation of artworks, professional art critics, an auction system and a good theatre in Dhaka, plus expatriates returning home — a creative-industry hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Bangladesh",
+      "event_date": "2026-11-27",
+      "exam_facts": "Shafiqur made the remarks while exchanging views with representatives of different university student unions, titled 'Beyond Campus: Leading Tomorrow', at his official residence on Minto Road in Dhaka. He alleged that some people were providing shelter and support to those responsible for the previous regime's repression in exchange for money, personal interests, votes and a share of resources, which he described as a clear betrayal of those killed and injured during the July uprising. He said the political understanding among the parties that existed until 5 August 2024 had changed after the fall of the previous government, and that the youth who shed blood in 2024 would neither allow fascism to return nor let it establish itself in Bangladesh. Representatives of the Dhaka University Central Students' Union (Ducsu), Rajshahi University Central Students' Union (Rucsu), Jahangirnagar University Central Students' Union (Jucsu), Chittagong University Central Students' Union (Cucsu) and Jagannath University Central Students' Union (Jnucsu) attended the programme.",
+      "exam_relevance": "Referendum verdict, July uprising, post-2024 party politics, BNP–Jamaat relations — core BCS/Bank topics on Bangladesh's recent political history.",
+      "figures": "15 years of what Shafiqur called fascist rule, ended by the July uprising; political understanding among parties until 5 August 2024; remarks made 27 November 2026",
+      "headline": "Shafiqur accuses BNP of paving the way for return of fascists",
+      "id": "CA12",
+      "key_people": "Shafiqur Rahman, Jamaat-e-Islami Ameer and Opposition Leader; representatives of Ducsu, Rucsu, Jucsu, Cucsu and Jnucsu (attended the programme)",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "Shafiqur accuses BNP of paving the way for return of fascists",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/politics/shafiqur-accuses-bnp-paving-way-return-fascists-1616096"
+        }
+      ],
+      "summary": "Opposition Leader Shafiqur Rahman on 27 November accused the BNP of paving the way for fascism's return. He alleged the BNP, after securing a majority, rejected the referendum verdict and patronised those behind the previous regime's repression, creating a crisis. He said the July uprising ended 15 years of what he called fascist rule, and alleged corruption, extortion, terrorism, land grabbing and false cases were continuing at an increased pace — a political-allegation hook for BCS/Bank.",
+      "why_it_matters": "The referendum-verdict rejection charge and the 15-year figure are the exact facts for BCS/Bank questions on post-uprising politics, and Shafiqur's 'paving the way' allegation against the BNP is the background for every follow-up story on the referendum and the July uprising's legacy.",
+      "one_liner": "Opposition Leader Shafiqur Rahman on 27 November accused the BNP of paving the way for fascism's return.",
+      "key_facts": [
+        {
+          "label": "years of what Shafiqur called fascist…",
+          "value": "15",
+          "original": "15 years of what Shafiqur called fascist rule, ended by the July uprising"
+        },
+        {
+          "label": "",
+          "value": "political understanding among parties until 5 August 2024",
+          "original": "political understanding among parties until 5 August 2024"
+        },
+        {
+          "label": "",
+          "value": "remarks made 27 November 2026",
+          "original": "remarks made 27 November 2026"
+        },
+        {
+          "label": "Shafiqur made the remarks while exchanging…",
+          "value": "2024",
+          "original": "Shafiqur made the remarks while exchanging views with representatives of different university student unions, titled 'Beyond Campus: Leading Tomorrow', at his official residence on Minto Road in Dhaka. He alleged that some people were providing shelter and support to those responsible for the previous regime's repression in exchange for money, personal interests, votes and a share of resources, which he described as a clear betrayal of those killed and injured during the July uprising. He said the political understanding among the parties that existed until 5 August 2024 had changed after the fall of the previous government, and that the youth who shed blood in 2024 would neither allow fascism to return nor let it establish itself in Bangladesh. Representatives of the Dhaka University Central Students' Union (Ducsu), Rajshahi University Central Students' Union (Rucsu), Jahangirnagar University Central Students' Union (Jucsu), Chittagong University Central Students' Union (Cucsu) and Jagannath University Central Students' Union (Jnucsu) attended the programme"
+        }
+      ],
+      "what_happened": [
+        "He alleged the BNP, after securing a majority, rejected the referendum verdict and patronised those behind the previous regime's repression, creating a crisis.",
+        "He said the July uprising ended 15 years of what he called fascist rule, and alleged corruption,",
+        "extortion, terrorism, land grabbing and false cases were continuing at an increased pace — a political-allegation hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How many years of fascist rule did Shafiqur say the July uprising ended?",
+          "a": "15 years"
+        },
+        {
+          "q": "Where did Shafiqur make the remarks?",
+          "a": "His official residence on Minto Road, Dhaka, at 'Beyond Campus: Leading Tomorrow'"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Opposition Leader Shafiqur Rahman on ______ accused the BNP of paving the way for fascism's return.",
+          "answer": "27 November"
+        },
+        {
+          "cloze": "He said the July uprising ended ______ years of what he called fascist rule, and alleged corruption, extortion, terrorism, land grabbing and false cases were continuing at an increased pace — a political-allegation hook for BCS/Bank.",
+          "answer": "15"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "shafiqur",
+        "accuses",
+        "paving",
+        "return",
+        "fascists"
+      ],
+      "detail": "Opposition Leader Shafiqur Rahman on 27 November accused the BNP of paving the way for fascism's return. He alleged the BNP, after securing a majority, rejected the referendum verdict and patronised those behind the previous regime's repression, creating a crisis. He said the July uprising ended 15 years of what he called fascist rule, and alleged corruption, extortion, terrorism, land grabbing and false cases were continuing at an increased pace — a political-allegation hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Bangladesh",
+      "event_date": "2026-11-27",
+      "exam_facts": "Bangladesh Petroleum Exploration and Production Company Limited (Bapex) says a 10th well, Bhola North-3, is now being tested for a further 20 to 25 million cubic feet a day. Nationally, demand is about 3,800 million cubic feet a day, while supply averaged about 2,650 million in the 2025-26 fiscal year up to April 2026, according to the energy minister. Intraco Refueling Station signed a 10-year agreement with the state-owned Sundarban Gas Company in May 2023, with supply to industries around Dhaka beginning that December; the contract calls for 5 million cubic feet a day, rising to 25 million, but Intraco was carrying only about 3.5 million before its supply was largely suspended from November 2025 over safety licensing of its trailers, resuming fully in August 2026 after the Department of Explosives cleared them. By ferry, the cost for a single pickup truck is about Tk15,000, while carrying gas by road can cost up to almost Tk20,000, and drivers say a Dhaka-Bhola trip that took around 10 to 11 hours by road can now be done in about six to seven hours by vessel. The Carnival Wave's wide deck can hold up to 40 private cars, or 20 to 25 larger vehicles such as trucks, and its sister ferry is the MV Carnival Cruise.",
+      "exam_relevance": "Natural gas reserves, Bapex, energy supply gap, river transport and island districts — core BCS/Bank topics on Bangladesh's energy, geography and infrastructure.",
+      "figures": "Bhola's nine wells: about 182 million cubic feet of gas a day; reserves around 2 trillion cubic feet; island uses about 75 million cubic feet a day, over 100 million a day unused; national demand about 3,800 million a day vs supply about 2,650 million (2025-26 to April 2026)",
+      "headline": "The river road carrying Bhola's gas to Dhaka",
+      "id": "CA13",
+      "key_people": "Hasan Jamilur Rahman Saikat, author; Ismail Mia, Intraco driver; Mizanur Rahman, manager of the Carnival ghat at Ilisha; Abdul Karim and Rafiqul Hasan, truck drivers",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "The river road carrying Bhola's gas to Dhaka",
+          "publication": "The Business Standard",
+          "url": "https://www.tbsnews.net/features/panorama/river-road-carrying-bholas-gas-dhaka-1616111"
+        }
+      ],
+      "summary": "Bhola's nine gas wells produce about 182 million cubic feet of gas a day, but the island has no pipeline. Reserves stand at around 2 trillion cubic feet, while the island uses about 75 million a day, leaving over 100 million unused. Compressed gas travels by Intraco truck and Carnival Wave ferry from Hasnabad to Ilisha, a seven-hour river crossing, for Dhaka's industries — an energy-and-transport hook for BCS/Bank.",
+      "why_it_matters": "The 182-million-cubic-feet daily output, the 2-trillion-cubic-feet reserve and the 3,800-versus-2,650-million national demand-supply gap are the exact figures for BCS/Bank questions on gas and energy, and the ferry-as-pipeline workaround is the background for every follow-up story on Bhola's stranded gas.",
+      "one_liner": "Bhola's nine gas wells produce about 182 million cubic feet of gas a day, but the island has no pipeline.",
+      "key_facts": [
+        {
+          "label": "Bhola's nine wells",
+          "value": "about 182 million cubic feet of gas a day",
+          "original": "Bhola's nine wells: about 182 million cubic feet of gas a day"
+        },
+        {
+          "label": "reserves around trillion cubic feet",
+          "value": "2",
+          "original": "reserves around 2 trillion cubic feet"
+        },
+        {
+          "label": "island uses about cubic feet a…",
+          "value": "75 million",
+          "original": "island uses about 75 million cubic feet a day, over 100 million a day unused"
+        },
+        {
+          "label": "2025-26 to April 2026",
+          "value": "national demand about 3,800 million a day vs supply about 2,650 million",
+          "original": "national demand about 3,800 million a day vs supply about 2,650 million (2025-26 to April 2026)"
+        }
+      ],
+      "what_happened": [
+        "Reserves stand at around 2 trillion cubic feet, while the island uses about 75 million a day, leaving over 100 million unused.",
+        "Compressed gas travels by Intraco truck and Carnival Wave ferry from Hasnabad to Ilisha, a seven-hour river crossing, for Dhaka's industries — an energy-and-transport hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "How much gas do Bhola's nine wells produce a day, and what are the reserves?",
+          "a": "About 182 million cubic feet a day; reserves around 2 trillion cubic feet"
+        },
+        {
+          "q": "How long is the Hasnabad-Ilisha river crossing?",
+          "a": "Seven hours"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bhola's nine gas wells produce about ______ million cubic feet of gas a day, but the island has no pipeline.",
+          "answer": "182"
+        },
+        {
+          "cloze": "Reserves stand at around ______ trillion cubic feet, while the island uses about 75 million a day, leaving over 100 million unused.",
+          "answer": "2"
+        }
+      ],
+      "keywords": [
+        "bangladesh",
+        "river",
+        "road",
+        "carrying",
+        "bhola",
+        "dhaka"
+      ],
+      "detail": "Bhola's nine gas wells produce about 182 million cubic feet of gas a day, but the island has no pipeline. Reserves stand at around 2 trillion cubic feet, while the island uses about 75 million a day, leaving over 100 million unused. Compressed gas travels by Intraco truck and Carnival Wave ferry from Hasnabad to Ilisha, a seven-hour river crossing, for Dhaka's industries — an energy-and-transport hook for BCS/Bank."
+    },
+    {
+      "article_date": "2026-11-27",
+      "category": "Editorial & Opinion",
+      "event_date": "2026-11-24",
+      "exam_facts": "According to the editorial, the Asset Quality Review is learnt to be nearing completion, particularly for the troubled banks, and pending that diagnostic work the central bank has been helping banks in need of liquidity with funds and guarantees while reconstituting boards, inducting independent directors and replacing chief executives where necessary. The editorial says the tasks ahead include dealing with the legacy of Non-Performing Loans (NPLs) and replenishing the capital of banks whose losses have eaten into their capital base, and it reports the central bank's optimism about making significant progress in addressing the NPL issue by December this year, while noting the public would like to know how much of such loans could actually be recovered rather than rescheduled. The final stage's measures include better protection of deposits, more rigorous scrutiny of borrowers' creditworthiness and gradual phasing out of emergency support, and the editorial argues the banking regulator itself needs the freedom to enforce discipline in lending irrespective of changes in the government's policy stance, given the history of bank loans concentrated in a few business groups.",
+      "exam_relevance": "Bangladesh Bank, Asset Quality Review, non-performing loans, banking-sector reform and monetary policy — core BCS/Bank topics on Bangladesh's economy and banking.",
+      "figures": "Four-year master plan in four stages; Made public 24 November 2026; AQR nearing completion for troubled banks; NPL progress expected by December 2026; Four stages: diagnosis, emergency support, recovery, safeguards",
+      "headline": "BB's 4-yr master plan to salvage banking sector",
+      "id": "CA14",
+      "key_people": "Shamsul Huq Zahid, author of the editorial; Bangladesh Bank (BB), the banking regulator",
+      "sources": [
+        {
+          "date": "2026-11-27",
+          "headline": "BB's 4-yr master plan to salvage banking sector",
+          "publication": "The Financial Express",
+          "url": "https://thefinancialexpress.com.bd/editorial/bbs-4-yr-master-plan-to-salvage-banking-sector"
+        }
+      ],
+      "summary": "Bangladesh Bank on 24 November unveiled a four-year master plan to salvage the banking sector in four stages. The plan starts with an Asset Quality Review to measure the damage, then emergency liquidity support, bank-by-bank recovery programmes and finally safeguards against repeat crises. The editorial warns the central bank cannot keep funding sick banks by minting money while fighting inflation — a banking-reform hook for BCS/Bank.",
+      "why_it_matters": "The four-year, four-stage structure and the December 2026 non-performing-loan deadline are the exact facts for BCS/Bank questions on banking reform, and the editorial's warning about minting money to fund sick banks is the background for every follow-up story on Asset Quality Review and non-performing loans.",
+      "one_liner": "Bangladesh Bank on 24 November unveiled a four-year master plan to salvage the banking sector in four stages.",
+      "key_facts": [
+        {
+          "label": "",
+          "value": "Four-year master plan in four stages",
+          "original": "Four-year master plan in four stages"
+        },
+        {
+          "label": "",
+          "value": "Made public 24 November 2026",
+          "original": "Made public 24 November 2026"
+        },
+        {
+          "label": "",
+          "value": "AQR nearing completion for troubled banks",
+          "original": "AQR nearing completion for troubled banks"
+        },
+        {
+          "label": "",
+          "value": "NPL progress expected by December 2026",
+          "original": "NPL progress expected by December 2026"
+        }
+      ],
+      "what_happened": [
+        "The plan starts with an Asset Quality Review to measure the damage, then emergency liquidity support, bank-by-bank recovery programmes and finally safeguards against repeat crises.",
+        "The editorial warns the central bank cannot keep funding sick banks by minting money while fighting inflation — a banking-reform hook for BCS/Bank."
+      ],
+      "exam_qa": [
+        {
+          "q": "When did Bangladesh Bank unveil the master plan, and how long does it run?",
+          "a": "24 November 2026; four years, in four stages"
+        },
+        {
+          "q": "What is the first stage of the plan?",
+          "a": "An Asset Quality Review (AQR) to measure the damage"
+        }
+      ],
+      "recall_cards": [
+        {
+          "cloze": "Bangladesh Bank on ______ unveiled a four-year master plan to salvage the banking sector in four stages.",
+          "answer": "24 November"
+        }
+      ],
+      "keywords": [
+        "editorial & opinion",
+        "master",
+        "plan",
+        "salvage",
+        "banking",
+        "sector"
+      ],
+      "detail": "Bangladesh Bank on 24 November unveiled a four-year master plan to salvage the banking sector in four stages. The plan starts with an Asset Quality Review to measure the damage, then emergency liquidity support, bank-by-bank recovery programmes and finally safeguards against repeat crises. The editorial warns the central bank cannot keep funding sick banks by minting money while fighting inflation — a banking-reform hook for BCS/Bank."
+    }
+  ],
+  "words": [
+    {
+      "Headword / phrase": "resuscitated",
+      "IPA": "/rɪˈsʌsɪteɪtɪd/",
+      "Bangla phonetic": "রিসাসিটেটেড",
+      "Part of speech / type": "Adjective (past participle)",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "পুনরুজ্জীবিত; মৃতপ্রায় অবস্থা থেকে ফিরিয়ে আনা",
+      "English definition": "Brought back to life or healthy activity after being nearly dead or inactive; revived.",
+      "Synonyms": "revived; restored; rejuvenated",
+      "Antonyms": "extinguished; destroyed; abandoned",
+      "Word family / derivatives": "resuscitate; resuscitation; resuscitator",
+      "Collocations / patterns": "resuscitated banks; a resuscitated economy; once resuscitated",
+      "Original example": "As for the final stage of the master plan, the issue is one of ensuring that the banks, once resuscitated, are not exposed again to the risks that led to their present predicament.",
+      "Newspaper context note": "The editorial uses resuscitated for banks revived under Bangladesh Bank four-year master plan after years of bad loans and lost capital.",
+      "Source publication": "The Financial Express",
+      "Article headline": "BB's 4-yr master plan to salvage banking sector",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://thefinancialexpress.com.bd/editorial/bbs-4-yr-master-plan-to-salvage-banking-sector",
+      "BCS / Bank relevance": "High exam value: formal vocabulary for economics and banking passages; the resuscitate family is BCS English material.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "prosperity",
+      "IPA": "/prɒˈsperəti/",
+      "Bangla phonetic": "প্রসপারিটি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সমৃদ্ধি; উন্নতি",
+      "English definition": "The state of being successful and having a good standard of living, especially economic well-being.",
+      "Synonyms": "affluence; well-being; success",
+      "Antonyms": "poverty; decline; hardship",
+      "Word family / derivatives": "prosperous; prosper; prosperously",
+      "Collocations / patterns": "long-term prosperity; economic prosperity; national prosperity",
+      "Original example": "Shama Obaed said Bangladesh attached importance to pragmatic and strategic partnerships to safeguard its national interests and ensure long-term prosperity.",
+      "Newspaper context note": "The state minister says pragmatic partnerships should safeguard national interests and ensure long-term prosperity.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
+      "BCS / Bank relevance": "Core economics vocabulary for BCS/Bank; appears in development, trade and foreign-policy questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "pragmatic",
+      "IPA": "/præɡˈmætɪk/",
+      "Bangla phonetic": "প্র্যাগম্যাটিক",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বাস্তববাদী; কাজের উপযোগী",
+      "English definition": "Dealing with problems in a practical way based on real conditions rather than on theories or ideals.",
+      "Synonyms": "practical; realistic; sensible",
+      "Antonyms": "idealistic; impractical; dogmatic",
+      "Word family / derivatives": "pragmatism; pragmatist; pragmatically",
+      "Collocations / patterns": "pragmatic partnerships; pragmatic approach; pragmatic policy",
+      "Original example": "Shama Obaed said Bangladesh attached importance to pragmatic and strategic partnerships to safeguard its national interests and ensure long-term prosperity.",
+      "Newspaper context note": "The state minister describes Bangladesh's foreign partnerships as pragmatic and strategic.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
+      "BCS / Bank relevance": "High-frequency BCS vocabulary word, tested directly and through synonyms and antonyms; essential for describing foreign policy.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "empowerment",
+      "IPA": "/ɪmˈpaʊəmənt/",
+      "Bangla phonetic": "এমপাওয়ারমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ক্ষমতায়ন; সক্ষম করে তোলা",
+      "English definition": "The process of giving people, especially women, more power, confidence and control over their lives.",
+      "Synonyms": "upliftment; enablement; liberation",
+      "Antonyms": "disempowerment; oppression; marginalisation",
+      "Word family / derivatives": "empower; empowered; empowering",
+      "Collocations / patterns": "women's empowerment; economic empowerment; youth empowerment",
+      "Original example": "She identified climate change, disaster management, renewable energy, energy efficiency, sustainable development, skills training, employment, technology sharing, human and social development, girls' education and women's empowerment as key areas for cooperation.",
+      "Newspaper context note": "Women's empowerment is listed among the key areas for cooperation with development partners.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
+      "BCS / Bank relevance": "Standard BCS/Bank word for gender, development and social-policy questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "mutual",
+      "IPA": "/ˈmjuːtʃuəl/",
+      "Bangla phonetic": "মিউচুয়াল",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "পারস্পরিক; উভয় পক্ষের",
+      "English definition": "Felt or done by two or more people or groups equally, for the benefit of all sides.",
+      "Synonyms": "reciprocal; shared; common",
+      "Antonyms": "one-sided; unilateral; unequal",
+      "Word family / derivatives": "mutually; mutuality",
+      "Collocations / patterns": "mutual benefits; mutual understanding; mutual cooperation",
+      "Original example": "The state minister also emphasised stronger collaboration between the Global South and Global North, saying such partnerships should deliver mutual benefits.",
+      "Newspaper context note": "Partnerships between the Global South and Global North should deliver mutual benefits, the minister says.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061",
+      "BCS / Bank relevance": "Everyday exam adjective for trade, diplomacy and cooperation passages; 'mutual benefit' is a standard collocation.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "retain",
+      "IPA": "/rɪˈteɪn/",
+      "Bangla phonetic": "রিটেইন",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ধরে রাখা; বজায় রাখা",
+      "English definition": "To keep something, or to continue to have it, rather than losing or giving it away.",
+      "Synonyms": "keep; preserve; hold on to",
+      "Antonyms": "lose; forfeit; surrender",
+      "Word family / derivatives": "retention; retainer; retained",
+      "Collocations / patterns": "retain the grant; retain control; retain talent",
+      "Original example": "Entrepreneurs must therefore repay the full loan to retain the grant.",
+      "Newspaper context note": "Udyog loan recipients must repay the full loan to retain the one-time grant of up to Tk 1 million.",
+      "Source publication": "Bdnews24.com",
+      "Article headline": "Bangladesh Bank names 640 for collateral-free ‘Udyog’ loans",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://bdnews24.com/economy/obat5skc9f",
+      "BCS / Bank relevance": "Common BCS/Bank verb, tested with synonyms and in banking and finance passages; 'retain' versus 'forfeit' is a classic pair.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "betrayal",
+      "IPA": "/bɪˈtreɪəl/",
+      "Bangla phonetic": "বিট্রেয়াল",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "বিশ্বাসঘাতকতা; প্রতারণা",
+      "English definition": "The act of breaking trust or going against people who trusted you, especially for personal gain.",
+      "Synonyms": "treachery; disloyalty; double-cross",
+      "Antonyms": "loyalty; fidelity; allegiance",
+      "Word family / derivatives": "betray; betrayer; betrayed",
+      "Collocations / patterns": "a clear betrayal; betrayal of trust; betrayal of the martyrs",
+      "Original example": "Describing such arrangements as a clear betrayal of those killed and injured during the July uprising, he said neither the victims nor the country's young generation wanted such developments.",
+      "Newspaper context note": "The Jamaat chief calls deals sheltering the former regime's enforcers a clear betrayal of those killed and injured in the July uprising.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Shafiqur accuses BNP of paving the way for return of fascists",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/politics/shafiqur-accuses-bnp-paving-way-return-fascists-1616096",
+      "BCS / Bank relevance": "Key political vocabulary for BCS; 'betrayal of trust' recurs in politics and history questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "proceedings",
+      "IPA": "/prəˈsiːdɪŋz/",
+      "Bangla phonetic": "প্রসিডিংস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "কার্যক্রম; আনুষ্ঠানিক কার্যবিবরণী",
+      "English definition": "The formal activities or events that take place as part of an official ceremony, meeting or legal process.",
+      "Synonyms": "ceremony; formalities; transactions",
+      "Antonyms": "informality; disorder",
+      "Word family / derivatives": "proceed; proceeding; procedural",
+      "Collocations / patterns": "formal proceedings; legal proceedings; the proceedings concluded",
+      "Original example": "The formal proceedings concluded with a group photograph, followed by a networking session, according to a press release issued by the Bangladesh Embassy in Poland.",
+      "Newspaper context note": "The formal proceedings of the consulate inauguration in Katowice concluded with a group photograph and a networking session.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh's Honorary Consulate inaugurated in Katowice, Poland",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/bangladeshs-honorary-consulate-inaugurated-katowice-poland-1615986",
+      "BCS / Bank relevance": "Formal noun used in diplomacy, law and parliamentary reporting; BCS tests 'proceedings' in comprehension and synonym questions.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "distortion",
+      "IPA": "/dɪˈstɔːʃn/",
+      "Bangla phonetic": "ডিসটরশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বিকৃতি; অস্বাভাবিক অবস্থা",
+      "English definition": "Something that twists or misrepresents the true shape or nature of a thing, such as a market or an economy.",
+      "Synonyms": "twisting; misrepresentation; imbalance",
+      "Antonyms": "accuracy; balance; correction",
+      "Word family / derivatives": "distort; distorted; distorting",
+      "Collocations / patterns": "market distortion; a distortion of trade; price distortion",
+      "Original example": "The USTR calls it a distortion.",
+      "Newspaper context note": "The USTR calls Bangladesh's excess garment capacity a distortion; Dhaka's factory floors call it a shift.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh needs to reassess its US trade strategy",
+      "Publication date": "2026-11-28",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/bangladesh-needs-reassess-its-us-trade-strategy-1616116",
+      "BCS / Bank relevance": "Advanced economics and trade term; 'distortion' appears in WTO, tariff and market questions in BCS/Bank.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "determinations",
+      "IPA": "/dɪˌtɜːmɪˈneɪʃnz/",
+      "Bangla phonetic": "ডিটারমিনেশনস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "সিদ্ধান্ত; নির্ধারণ",
+      "English definition": "Official decisions or findings reached after a formal investigation, especially by a government authority.",
+      "Synonyms": "findings; rulings; decisions",
+      "Antonyms": "indecision; uncertainty; postponement",
+      "Word family / derivatives": "determine; determination; determined",
+      "Collocations / patterns": "USTR determinations; publish its determinations; Section 301 determinations",
+      "Original example": "On 25 November 2026, the Office of the United States Trade Representative (USTR) published its determinations under Section 301 of the Trade Act of 1974.",
+      "Newspaper context note": "The USTR published its determinations under Section 301 of the US Trade Act of 1974 on 25 November 2026.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh needs to reassess its US trade strategy",
+      "Publication date": "2026-11-28",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/bangladesh-needs-reassess-its-us-trade-strategy-1616116",
+      "BCS / Bank relevance": "Formal legal-trade vocabulary; useful for trade, WTO and US-policy passages in BCS/Bank.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "escalation",
+      "IPA": "/ˌeskəˈleɪʃn/",
+      "Bangla phonetic": "এস্কেলেশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "বৃদ্ধি; তীব্রতা বাড়া",
+      "English definition": "An increase in the seriousness or intensity of something, such as tariffs or a conflict.",
+      "Synonyms": "intensification; increase; aggravation",
+      "Antonyms": "de-escalation; reduction; easing",
+      "Word family / derivatives": "escalate; escalating; escalated",
+      "Collocations / patterns": "escalation clause; tariff escalation; escalation of tensions",
+      "Original example": "The escalation clause is explicit.",
+      "Newspaper context note": "The USTR's escalation clause is explicit: if commitments are found unsatisfactory, the rate for Bangladesh rises to 20%.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bangladesh needs to reassess its US trade strategy",
+      "Publication date": "2026-11-28",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/bangladesh-needs-reassess-its-us-trade-strategy-1616116",
+      "BCS / Bank relevance": "High-value current-affairs term for trade and conflict questions; 'escalation clause' is a live exam phrase.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "incitement",
+      "IPA": "/ɪnˈsaɪtmənt/",
+      "Bangla phonetic": "ইনসাইটমেন্ট",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "উসকানি; প্ররোচনা",
+      "English definition": "The act of encouraging or urging people to do something violent or unlawful, such as arson.",
+      "Synonyms": "provocation; instigation; encouragement",
+      "Antonyms": "deterrence; discouragement; restraint",
+      "Word family / derivatives": "incite; inciting; inciter",
+      "Collocations / patterns": "incitement to violence; incitement to arson; incitement to set fire",
+      "Original example": "He also said that incitement to set fire to places in Bangladesh is being issued regularly through audio and video messages from across the border.",
+      "Newspaper context note": "The home minister says incitement to set fire to places in Bangladesh is being issued regularly through audio and video messages from across the border.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Those who torched police stations, hospitals identified: Home minister",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/l0gud6s437",
+      "BCS / Bank relevance": "Legal term for law-and-order and criminal-law questions in BCS/Bank; pairs with 'incite' and 'sedition'.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "sovereignty",
+      "IPA": "/ˈsɒvrənti/",
+      "Bangla phonetic": "সভরেন্টি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "সার্বভৌমত্ব; স্বাধীনতা",
+      "English definition": "The full right of a country to govern itself without interference from outside powers.",
+      "Synonyms": "independence; autonomy; self-rule",
+      "Antonyms": "dependence; subjugation; foreign rule",
+      "Word family / derivatives": "sovereign; sovereign state",
+      "Collocations / patterns": "protect democracy and sovereignty; national sovereignty; territorial sovereignty",
+      "Original example": "Calling for unity to protect democracy and sovereignty, the minister said that although political parties had differences of opinion and engaged in debates, they must once again build the kind of democratic unity they had forged against fascist forces.",
+      "Newspaper context note": "The minister calls for unity to protect democracy and sovereignty and to build a truly democratic state.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Those who torched police stations, hospitals identified: Home minister",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/l0gud6s437",
+      "BCS / Bank relevance": "Foundational political-science term for BCS; asked in constitution, foreign-policy and international-relations questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "alarming",
+      "IPA": "/əˈlɑːmɪŋ/",
+      "Bangla phonetic": "অ্যালার্মিং",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "উদ্বেগজনক; ভীতিকর",
+      "English definition": "Causing worry or fear because something dangerous or serious is happening.",
+      "Synonyms": "worrying; disturbing; frightening",
+      "Antonyms": "reassuring; encouraging; comforting",
+      "Word family / derivatives": "alarm; alarmed; alarmingly",
+      "Collocations / patterns": "an alarming level; alarming rate; alarming situation",
+      "Original example": "After visiting those areas, I felt that the situation regarding child marriage has reached an alarming level.",
+      "Newspaper context note": "A visitor to child-marriage-prone areas says the situation has reached an alarming level, with cases treated as normal.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/x2altyq03k",
+      "BCS / Bank relevance": "Common descriptive adjective in BCS comprehension and vocabulary sections; pairs with 'level', 'rate' and 'rise'.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "prevention",
+      "IPA": "/prɪˈvenʃn/",
+      "Bangla phonetic": "প্রিভেনশন",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "প্রতিরোধ; নিবারণ",
+      "English definition": "Action taken to stop something bad, such as child marriage, from happening.",
+      "Synonyms": "deterrence; avoidance; precaution",
+      "Antonyms": "promotion; encouragement; causation",
+      "Word family / derivatives": "prevent; preventive; preventable",
+      "Collocations / patterns": "prevention efforts; child marriage prevention; disease prevention",
+      "Original example": "A comparison with the figures from the past three years shows that complaints and prevention efforts have declined by as much as 40 per cent.",
+      "Newspaper context note": "Complaints and prevention efforts against child marriage have declined by as much as 40 per cent in three years.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/x2altyq03k",
+      "BCS / Bank relevance": "Core social-issues vocabulary for BCS/Bank; 'prevention' appears in health, law and women-and-children questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "dowry",
+      "IPA": "/ˈdaʊri/",
+      "Bangla phonetic": "ডাউরি",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Basic",
+      "Bangla meaning": "যৌতুক",
+      "English definition": "Money or property that a bride's family gives to the groom's family at marriage, a practice that is illegal in Bangladesh.",
+      "Synonyms": "bride-price; marriage payment",
+      "Antonyms": "dower; mahr",
+      "Word family / derivatives": "dowry system; dowry-related",
+      "Collocations / patterns": "demand a dowry; dowry to finance his business; dowry-related violence",
+      "Original example": "However, within a month of the wedding, her husband began pressuring her for a dowry to finance his business.",
+      "Newspaper context note": "A child bride's husband began pressuring her for a dowry to finance his business within a month of the wedding.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/x2altyq03k",
+      "BCS / Bank relevance": "Essential social-issues word for BCS/Bank; dowry is a punishable offence under Bangladeshi law and recurs in women-and-children questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "repurpose",
+      "IPA": "/riːˈpɜːpəs/",
+      "Bangla phonetic": "রিপারপাস",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নতুন কাজে লাগানো; পুনঃব্যবহার",
+      "English definition": "To find a new use for something, especially something old or idle, instead of throwing it away.",
+      "Synonyms": "reuse; convert; adapt",
+      "Antonyms": "discard; scrap; abandon",
+      "Word family / derivatives": "repurposing; repurposed",
+      "Collocations / patterns": "repurpose the vessels; repurpose idle assets; repurpose old buildings",
+      "Original example": "To curb losses, the BNP (Bangladesh Nationalist Party) government now wants to repurpose the four idle vessels.",
+      "Newspaper context note": "The government wants to repurpose four idle BIWTC vessels, turning three into floating hospitals.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "3 of 4 idle BIWTC vessels to become floating hospitals",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/koi9xktuap",
+      "BCS / Bank relevance": "Modern governance and environment word for BCS/Bank; 'repurpose' fits asset-management and sustainability passages.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "tripartite",
+      "IPA": "/traɪˈpɑːtaɪt/",
+      "Bangla phonetic": "ট্রাইপার্টাইট",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Advanced",
+      "Bangla meaning": "ত্রিপক্ষীয়; তিন পক্ষের",
+      "English definition": "Involving three parties or groups, such as three ministries or three sides in a negotiation.",
+      "Synonyms": "three-party; trilateral; three-way",
+      "Antonyms": "bilateral; unilateral; single-party",
+      "Word family / derivatives": "tripartite agreement; tripartite meeting",
+      "Collocations / patterns": "tripartite meeting; tripartite agreement; tripartite committee",
+      "Original example": "On 17 November, a tripartite meeting regarding the utilisation of the four vessels was held in the conference room of the Ministry of Shipping at the Secretariat.",
+      "Newspaper context note": "A tripartite meeting of the shipping, health and BIWTC officials was held on 17 November about using the four vessels.",
+      "Source publication": "Prothom Alo English",
+      "Article headline": "3 of 4 idle BIWTC vessels to become floating hospitals",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/koi9xktuap",
+      "BCS / Bank relevance": "Formal diplomatic and labour-relations adjective; 'tripartite' appears in ILO, wage-board and negotiation questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "dedicated",
+      "IPA": "/ˈdedɪkeɪtɪd/",
+      "Bangla phonetic": "ডেডিকেটেড",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "নিবেদিত; বিশেষভাবে নির্ধারিত",
+      "English definition": "Set aside for one particular purpose, or giving all your time and effort to something.",
+      "Synonyms": "committed; devoted; designated",
+      "Antonyms": "neglectful; casual; shared",
+      "Word family / derivatives": "dedicate; dedication; dedicating",
+      "Collocations / patterns": "a dedicated stall; dedicated team; dedicated to a cause",
+      "Original example": "the 33 stalls allocated to banks and financial institutions, Bank Asia has set up a dedicated stall where entrepreneurs can receive information and guidance on loan eligibility, financing terms, required documentation and application procedures.",
+      "Newspaper context note": "Bank Asia has set up a dedicated stall at the SME fair where entrepreneurs can get guidance on loan eligibility and financing terms.",
+      "Source publication": "The Business Standard",
+      "Article headline": "Bank Asia offers SME loans at 5–9% interest at National SME Product Fair",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.tbsnews.net/economy/corporates/bank-asia-offers-sme-loans-5-9-interest-national-sme-product-fair-1615631",
+      "BCS / Bank relevance": "Common BCS adjective for banking, fair and service passages; 'dedicated' is tested with synonyms and in cloze tests.",
+      "Priority": "Medium"
+    },
+    {
+      "Headword / phrase": "shortcomings",
+      "IPA": "/ˈʃɔːtkʌmɪŋz/",
+      "Bangla phonetic": "শর্টকামিংস",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "ত্রুটি; ঘাটতি",
+      "English definition": "Faults or weaknesses in something, such as a process or a policy, that stop it working well.",
+      "Synonyms": "flaws; weaknesses; deficiencies",
+      "Antonyms": "strengths; merits; advantages",
+      "Word family / derivatives": "shortcoming; come short; fall short",
+      "Collocations / patterns": "shortcomings of the process; address the shortcomings; shortcomings of this round",
+      "Original example": "‘As things stand, we need to consider what a more transparent and evidence-based wage-setting process would look like, and how the shortcomings of this round can be addressed before the next review.’",
+      "Newspaper context note": "The columnist argues a more transparent, evidence-based wage-setting process is needed and asks how the shortcomings of this round can be addressed before the next review.",
+      "Source publication": "The Daily Star",
+      "Article headline": "How did the RMG wage board arrive at Tk 17,000?",
+      "Publication date": "2026-11-27",
+      "Direct source URL": "https://www.thedailystar.net/opinion/views/news/how-did-the-rmg-wage-board-arrive-tk-17000-4334286",
+      "BCS / Bank relevance": "Standard exam noun for evaluation and review passages; 'shortcomings' is a frequent synonym and antonym test word in BCS/Bank.",
+      "Priority": "High"
+    }
+  ],
+  "revision_words": [
+    {
+      "Headword / phrase": "escalate",
+      "IPA": "/ˈeskəleɪt/",
+      "Bangla phonetic": "এস্কালেট",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "তীব্রতর হওয়া; দ্রুত বেড়ে যাওয়া",
+      "English definition": "To become more intense or serious; to increase rapidly.",
+      "Synonyms": "intensify; heighten; worsen; flare up",
+      "Antonyms": "ease; de-escalate; subside",
+      "Word family / derivatives": "escalation; escalated; escalating",
+      "Collocations / patterns": "escalate rapidly; escalate unnaturally fast; tensions escalate",
+      "Original example": "The movement escalated unnaturally fast, and the tension has yet to ease.",
+      "Newspaper context note": "The garment workers' movement escalated unnaturally fast in early November.",
+      "Source publication": "The Business Standard",
+      "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+      "BCS / Bank relevance": "BCS/Bank vocabulary for unrest, conflict and crisis reporting.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "scarce",
+      "IPA": "/skeəs/",
+      "Bangla phonetic": "স্কেয়ার্স",
+      "Part of speech / type": "Adjective",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "দুষ্প্রাপ্য; অপ্রতুল",
+      "English definition": "Not enough; hard to find or get.",
+      "Synonyms": "rare; limited; in short supply; insufficient",
+      "Antonyms": "abundant; plentiful; ample",
+      "Word family / derivatives": "scarcity; scarcely",
+      "Collocations / patterns": "scarce opportunities; scarce resources; scarce jobs",
+      "Original example": "Inflation is eroding purchasing power, investment remains weak and employment opportunities are scarce.",
+      "Newspaper context note": "Employment opportunities are scarce as inflation erodes purchasing power.",
+      "Source publication": "The Business Standard",
+      "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+      "BCS / Bank relevance": "Core BCS/Bank economy vocabulary — scarcity is a fundamental economics concept.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "absorb",
+      "IPA": "/əbˈzɔːb/",
+      "Bangla phonetic": "অ্যাবজর্ব",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "শোষণ করা; (চাকরির বাজারে) অন্তর্ভুক্ত করা",
+      "English definition": "To take in and include something, especially people into a system or market.",
+      "Synonyms": "take in; assimilate; accommodate; soak up",
+      "Antonyms": "exclude; expel; reject",
+      "Word family / derivatives": "absorption; absorbent; absorbed",
+      "Collocations / patterns": "absorb workers; absorb shocks; absorb costs",
+      "Original example": "The formal job market remained unable to absorb the country's young people.",
+      "Newspaper context note": "The formal job market cannot absorb Bangladesh's young people, the analysis says.",
+      "Source publication": "The Business Standard",
+      "Article headline": "After RMG, could the economy send more Bangladeshis back to the streets?",
+      "Publication date": "2026-11-14",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/after-rmg-could-economy-send-more-bangladeshis-back-streets-1601731",
+      "BCS / Bank relevance": "BCS/Bank economy and labour-market vocabulary — absorbing workers is a standard employment topic.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "appeal",
+      "IPA": "/əˈpiːl/",
+      "Bangla phonetic": "আপিল",
+      "Part of speech / type": "Verb",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আপিল করা; রায়ের বিরুদ্ধে উচ্চ আদালতে আবেদন করা",
+      "English definition": "To ask a higher court to change the decision of a lower court.",
+      "Synonyms": "challenge; contest; petition",
+      "Antonyms": "accept; abide by",
+      "Word family / derivatives": "appeal (noun); appellant; appealed",
+      "Collocations / patterns": "appeal against a sentence; file an appeal; right of appeal",
+      "Original example": "New Delhi reportedly wants assurances that Hasina will be allowed to appeal against her death sentence and receive a fresh trial over allegations of killings during the July 2024 uprising.",
+      "Newspaper context note": "New Delhi reportedly wants Hasina to be allowed to appeal against her death sentence.",
+      "Source publication": "The Business Standard",
+      "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+      "Publication date": "2026-11-13",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+      "BCS / Bank relevance": "Core BCS/Bank legal vocabulary — appeals are central to court and extradition questions.",
+      "Priority": "High"
+    },
+    {
+      "Headword / phrase": "assurance",
+      "IPA": "/əˈʃʊərəns/",
+      "Bangla phonetic": "অ্যাশিওরেন্স",
+      "Part of speech / type": "Noun",
+      "Difficulty": "Intermediate",
+      "Bangla meaning": "আশ্বাস; নিশ্চয়তা",
+      "English definition": "A promise or guarantee that something will happen or be true.",
+      "Synonyms": "guarantee; promise; pledge; commitment",
+      "Antonyms": "doubt; uncertainty",
+      "Word family / derivatives": "assure; assured; assurances",
+      "Collocations / patterns": "seek assurance; give assurance; assurance of a fair trial",
+      "Original example": "Asked about reports that India wanted Bangladesh to send a military aircraft to bring Hasina home and wanted assurances of a fair trial for her, Jaiswal also declined to comment.",
+      "Newspaper context note": "India is reported to want assurances of a fair trial for Sheikh Hasina.",
+      "Source publication": "The Business Standard",
+      "Article headline": "India declines comment on Hasina's possible return to Bangladesh 'by military aircraft'",
+      "Publication date": "2026-11-13",
+      "Direct source URL": "https://www.tbsnews.net/foreign-policy/india-declines-comment-hasinas-possible-return-bangladesh-military-aircraft-1601661",
+      "BCS / Bank relevance": "Diplomacy and law vocabulary — assurances are central to extradition and trial discussions.",
+      "Priority": "High"
+    }
+  ],
+  "phrases": [
+    {
+      "Article headline": "The river road carrying Bhola's gas to Dhaka",
+      "Bangla meaning": "রওনা দেওয়া; যাত্রা শুরু করা",
+      "Common collocations / grammar pattern": "set out for (a place); set out at (a time); set out to do something",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/river-road-carrying-bholas-gas-dhaka-1616111",
+      "English explanation": "To begin a journey, or to start doing something.",
+      "Exam value": "High-frequency BCS/Bank phrasal verb for narrative and comprehension passages; 'set out to' + verb is a set pattern.",
+      "Original example 1": "That was the hour I set out for Hasnabad.",
+      "Original example 2": "Eighteen hours had passed since I set out at three.",
+      "Phrase": "set out",
+      "Publication date": "2026-11-27",
+      "Source publication": "The Business Standard",
+      "Type": "Phrasal verb",
+      "Usage / register": "Neutral; narrative and news writing, used for journeys and for starting a task."
+    },
+    {
+      "Article headline": "Building a climate-resilient Bangladesh: The role of architecture beyond COP31",
+      "Bangla meaning": "একই সঙ্গে; একই সময়ে",
+      "Common collocations / grammar pattern": "at the same time as (something); at the same time, (a second development follows)",
+      "Direct source URL": "https://www.tbsnews.net/thoughts/building-climate-resilient-bangladesh-role-architecture-beyond-cop31-1615416",
+      "English explanation": "Together with that; while something else is also happening.",
+      "Exam value": "Standard BCS/Bank connector for translation and comprehension; links two simultaneous developments.",
+      "Original example 1": "At the same time, major cities such as Dhaka and Chattogram are grappling with the consequences of uncontrolled urban growth, wetland encroachment, shrinking green spaces, traffic congestion, air pollution and rising urban temperatures.",
+      "Original example 2": "At the same time, through reconstituting boards, inducting independent directors and replacing chief executives where necessary, efforts have been there to restore discipline.",
+      "Phrase": "at the same time",
+      "Publication date": "2026-11-26",
+      "Source publication": "The Business Standard",
+      "Type": "Adverbial phrase (discourse connector)",
+      "Usage / register": "Formal and neutral; news, essays and official reports."
+    },
+    {
+      "Article headline": "Masked youths stage demonstration in London, demand ban on Bangladeshi politics",
+      "Bangla meaning": "ফলে; এর ফলে",
+      "Common collocations / grammar pattern": "as a result of (something); as a result, (a consequence follows)",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/torzrdizb4",
+      "English explanation": "Because of something that happened before; consequently.",
+      "Exam value": "Core BCS/Bank connector for cause-and-effect in comprehension and translation.",
+      "Original example 1": "They said expatriate Bangladeshis were facing severe criticism from right-wing politicians in the UK as a result.",
+      "Original example 2": "As a result, not all cases are being reported.",
+      "Phrase": "as a result",
+      "Publication date": "2026-11-27",
+      "Source publication": "Prothom Alo English",
+      "Type": "Adverbial phrase (discourse connector)",
+      "Usage / register": "Formal and neutral; news, reports and essays."
+    },
+    {
+      "Article headline": "Five crude bombs explode at five Dhaka locations; one arrested",
+      "Bangla meaning": "সামনে; ...-এর সামনে",
+      "Common collocations / grammar pattern": "in front of (a building / place / person); stand / sit in front of",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/crime/five-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
+      "English explanation": "Directly before someone or something; ahead of.",
+      "Exam value": "Basic but high-frequency BCS/Bank prepositional phrase for location in comprehension and translation.",
+      "Original example 1": "Earlier, at around 10:35pm, another crude bomb exploded in front of Rapa Plaza in Dhanmondi-27.",
+      "Original example 2": "Earlier, at around 6:30pm, two crude bombs exploded in front of Eastern Plaza in the Hatirpool area.",
+      "Phrase": "in front of",
+      "Publication date": "2026-11-27",
+      "Source publication": "The Business Standard",
+      "Type": "Prepositional phrase",
+      "Usage / register": "Neutral; news and everyday reporting of places and events."
+    },
+    {
+      "Article headline": "Pakistan to host Saudi Arabia, Turkey talks under trilateral defence pact",
+      "Bangla meaning": "এদিকে; এর মধ্যে; ইতিমধ্যে",
+      "Common collocations / grammar pattern": "meanwhile, (a parallel development follows); in the meanwhile",
+      "Direct source URL": "https://www.tbsnews.net/world/pakistan-host-saudi-arabia-turkey-talks-under-trilateral-defence-pact-1615916",
+      "English explanation": "In the period between two events; at the same time as something else.",
+      "Exam value": "High-frequency BCS/Bank connector for narrative passages and news comprehension.",
+      "Original example 1": "Meanwhile, Turkish President Recep Tayyip Erdogan formally approved the three-nation agreement, completing Turkey's ratification process, according to the country's Official Gazette on Friday.",
+      "Original example 2": "Meanwhile, the young Bangladeshi Badal Farazi entered India on 13 July.",
+      "Phrase": "meanwhile",
+      "Publication date": "2026-11-27",
+      "Source publication": "The Business Standard",
+      "Type": "Adverb (sentence connector)",
+      "Usage / register": "Formal and neutral; news reporting and narrative writing."
+    },
+    {
+      "Article headline": "The river road carrying Bhola's gas to Dhaka",
+      "Bangla meaning": "ফিরে আসা",
+      "Common collocations / grammar pattern": "come back to (a place); come back with (something); come back to me (memory)",
+      "Direct source URL": "https://www.tbsnews.net/features/panorama/river-road-carrying-bholas-gas-dhaka-1616111",
+      "English explanation": "To return to a place, or to return to one's memory or mind.",
+      "Exam value": "Core BCS/Bank phrasal verb; 'come back' is tested in both its literal and figurative senses.",
+      "Original example 1": "Intraco's trucks go from Dhaka to Ilisha with nothing to deliver, and come back with full tanks.",
+      "Original example 2": "Every twist and turn in my journalistic journey covering Badal Farazi since 2016 seemed to come back to me during those few minutes of conversation.",
+      "Phrase": "come back",
+      "Publication date": "2026-11-27",
+      "Source publication": "The Business Standard",
+      "Type": "Phrasal verb",
+      "Usage / register": "Neutral; news, narrative and everyday English."
+    },
+    {
+      "Article headline": "BB's 4-yr master plan to salvage banking sector",
+      "Bangla meaning": "বছরের পর বছর ধরে; বিগত বছরগুলোতে",
+      "Common collocations / grammar pattern": "over the years; over the past few years; over the last decade",
+      "Direct source URL": "https://thefinancialexpress.com.bd/editorial/bbs-4-yr-master-plan-to-salvage-banking-sector",
+      "English explanation": "During a long period of time; gradually across many years.",
+      "Exam value": "High-frequency BCS/Bank time phrase for history, economy and society passages.",
+      "Original example 1": "The approach is based on the premise that without first knowing the extent of the damage done to the banks over the years, it would be difficult to devise a proper strategy to salvage those.",
+      "Original example 2": "The youths also gathered at Altab Ali Park in east London, a well-known venue for various political, social and cultural programmes organised by expatriate Bangladeshis over the years.",
+      "Phrase": "over the years",
+      "Publication date": "2026-11-27",
+      "Source publication": "The Financial Express",
+      "Type": "Prepositional phrase (time)",
+      "Usage / register": "Formal and neutral; news, reports and essays."
+    },
+    {
+      "Article headline": "Bangladesh Bank names 640 for collateral-free ‘Udyog’ loans",
+      "Bangla meaning": "পর্যন্ত; সর্বোচ্চ ... পর্যন্ত",
+      "Common collocations / grammar pattern": "up to (a number); up to Tk (an amount); hold / receive up to",
+      "Direct source URL": "https://bdnews24.com/economy/obat5skc9f",
+      "English explanation": "As far as, or as much as, a stated limit.",
+      "Exam value": "High-frequency BCS/Bank phrase for figures, limits and capacity in comprehension and translation.",
+      "Original example 1": "Each entrepreneur can receive up to Tk 2 million, comprising a loan of up to Tk 1 million and a one-time grant of up to Tk 1 million.",
+      "Original example 2": "Its wide deck can hold up to 40 private cars, or 20 to 25 larger vehicles such as trucks.",
+      "Phrase": "up to",
+      "Publication date": "2026-11-27",
+      "Source publication": "Bdnews24.Com",
+      "Type": "Prepositional phrase",
+      "Usage / register": "Neutral; news, finance and official reporting of figures and limits."
+    },
+    {
+      "Article headline": "Those who torched police stations, hospitals identified: Home minister",
+      "Bangla meaning": "জড়িত; ...-এর সঙ্গে যুক্ত",
+      "Common collocations / grammar pattern": "involved in (violence / politics / a case); get involved in; be involved in",
+      "Direct source URL": "https://en.prothomalo.com/bangladesh/local-news/l0gud6s437",
+      "English explanation": "Taking part in something, or connected with it, often something bad.",
+      "Exam value": "High-frequency BCS/Bank collocation for crime, politics and law passages; 'involve / involved' is a regular test item.",
+      "Original example 1": "Home Minister Salahuddin Ahmed has said that those involved in the violence in Gopalganj have been identified.",
+      "Original example 2": "When asked about this later, he said the Chhatra Dal leaders and activists present at the scene were involved in Chhatra Dal politics in Chawkbazar.",
+      "Phrase": "involved in",
+      "Publication date": "2026-11-27",
+      "Source publication": "Prothom Alo English",
+      "Type": "Adjective + preposition (collocation)",
+      "Usage / register": "Formal; crime, politics and law reporting."
+    },
+    {
+      "Article headline": "Khosru calls for developing creative economy",
+      "Bangla meaning": "দাবি জানানো; আহ্বান জানানো",
+      "Common collocations / grammar pattern": "call for (a change / reform / action); call for something to be done",
+      "Direct source URL": "https://www.tbsnews.net/bangladesh/khosru-calls-developing-creative-economy-1616076",
+      "English explanation": "To publicly demand or ask for something.",
+      "Exam value": "Core BCS/Bank phrasal verb for politics and policy passages; 'call for' + noun is a set pattern.",
+      "Original example 1": "He called for introducing an auction system for artworks in Bangladesh to ensure their proper valuation and create a market for local artists.",
+      "Original example 2": "Finance Minister Amir Khosru Mahmud Chowdhury yesterday (27 November) called for developing Bangladesh's creative economy and encouraging expatriate professionals to return home and contribute to national development through a process of reverse brain drain.",
+      "Phrase": "call for",
+      "Publication date": "2026-11-28",
+      "Source publication": "The Business Standard",
+      "Type": "Phrasal verb",
+      "Usage / register": "Formal; politics and policy reporting."
+    }
+  ],
+  "mcqs": [
+    {
+      "correct": "C",
+      "explanation": "The editorial says the final stage of the plan must ensure the banks, “once resuscitated”, are not exposed again to the risks that led to their predicament — resuscitated means revived, brought back to life or activity.",
+      "no": 1,
+      "options": {
+        "A": "Closed down permanently after losing all their money in bad loans and fraud",
+        "B": "Merged with a foreign bank under government orders",
+        "C": "Brought back to healthy activity after being nearly dead",
+        "D": "Sold off to private owners at a discount"
+      },
+      "question": "What does “resuscitated” mean in the sentence about the banks in the master plan?",
+      "section": "Vocabulary",
+      "source": "CA14"
+    },
+    {
+      "correct": "B",
+      "explanation": "The pack defines 'prosperity' as the state of being successful and having a good standard of living, especially economic well-being, which is what the minister says pragmatic partnerships should ensure in the long term.",
+      "no": 2,
+      "options": {
+        "A": "A period of political unrest and hardship",
+        "B": "The state of being successful and having a good standard of living",
+        "C": "A promise to repay a loan on time",
+        "D": "A system of collecting taxes from citizens to pay for government services"
+      },
+      "question": "What does 'prosperity' mean in the sentence '...pragmatic and strategic partnerships to safeguard its national interests and ensure long-term prosperity'?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "D",
+      "explanation": "The pack defines 'pragmatic' as dealing with problems in a practical way based on real conditions rather than on theories or ideals, which is how the minister describes Bangladesh's foreign partnerships.",
+      "no": 3,
+      "options": {
+        "A": "Following strict theories without any regard to the facts on the ground at all",
+        "B": "Making decisions based only on emotions",
+        "C": "Refusing to cooperate with other countries",
+        "D": "Dealing with problems in a practical way based on real conditions"
+      },
+      "question": "In the sentence 'Bangladesh attached importance to pragmatic and strategic partnerships', what does 'pragmatic' mean?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "A",
+      "explanation": "The pack defines 'empowerment' as the process of giving people, especially women, more power, confidence and control over their lives; women's empowerment is listed among the key areas for cooperation.",
+      "no": 4,
+      "options": {
+        "A": "Giving people more power, confidence and control over their lives",
+        "B": "Taking power away from a group of people and keeping them dependent on others",
+        "C": "A government tax on women's income",
+        "D": "A law that bans women from working"
+      },
+      "question": "What does 'empowerment' mean in the phrase 'women's empowerment' listed among the key areas for cooperation?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "The pack defines 'mutual' as felt or done by two or more people or groups equally, for the benefit of all sides; the minister says partnerships between the Global South and Global North should deliver mutual benefits.",
+      "no": 5,
+      "options": {
+        "A": "Done by one side only, for its own benefit",
+        "B": "Secretly agreed without either side knowing what the other had promised",
+        "C": "Felt or done by two or more sides equally, for the benefit of all",
+        "D": "Imposed by force on a weaker country"
+      },
+      "question": "In the sentence 'such partnerships should deliver mutual benefits', what does 'mutual' mean?",
+      "section": "Vocabulary",
+      "source": "CA01"
+    },
+    {
+      "correct": "B",
+      "explanation": "The pack defines 'retain' as to keep something, or to continue to have it, rather than losing or giving it away; Udyog recipients must repay the full loan to retain the one-time grant of up to Tk 1 million.",
+      "no": 6,
+      "options": {
+        "A": "To give something back to the lender immediately after borrowing it",
+        "B": "To keep something rather than losing or giving it away",
+        "C": "To spend something before it is received",
+        "D": "To divide something equally among several people"
+      },
+      "question": "In the sentence 'Entrepreneurs must therefore repay the full loan to retain the grant', what does 'retain' mean?",
+      "section": "Vocabulary",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "The pack defines 'betrayal' as the act of breaking trust or going against people who trusted you, especially for personal gain; Shafiqur Rahman calls sheltering the former regime's enforcers a clear betrayal of those killed and injured during the July uprising.",
+      "no": 7,
+      "options": {
+        "A": "A formal agreement between two political parties to share power after an election",
+        "B": "Loyalty and faithful service to a cause",
+        "C": "A public apology for a past mistake",
+        "D": "Breaking trust or going against people who trusted you"
+      },
+      "question": "In the sentence 'Describing such arrangements as a clear betrayal of those killed and injured during the July uprising', what does 'betrayal' mean?",
+      "section": "Vocabulary",
+      "source": "CA12"
+    },
+    {
+      "correct": "A",
+      "explanation": "The pack defines 'proceedings' as the formal activities or events that take place as part of an official ceremony, meeting or legal process; the formal proceedings of the Katowice consulate inauguration concluded with a group photograph and a networking session.",
+      "no": 8,
+      "options": {
+        "A": "The formal activities of an official ceremony, meeting or legal process",
+        "B": "The informal gossip and rumours shared by guests after a formal meeting ends",
+        "C": "The travel arrangements for foreign guests",
+        "D": "The money collected as entry fees at an event"
+      },
+      "question": "In the sentence 'The formal proceedings concluded with a group photograph, followed by a networking session', what does 'proceedings' mean?",
+      "section": "Vocabulary",
+      "source": "CA03"
+    },
+    {
+      "correct": "B",
+      "explanation": "The pack defines 'distortion' as something that twists or misrepresents the true shape or nature of a thing, such as a market or an economy; the USTR calls Bangladesh's excess garment capacity a distortion.",
+      "no": 9,
+      "options": {
+        "A": "A fair and accurate picture of a market, drawn from honest official data",
+        "B": "Something that twists or misrepresents the true shape of a thing",
+        "C": "A sudden rise in the price of a product",
+        "D": "A legal ban on all foreign imports"
+      },
+      "question": "In the sentence 'The USTR calls it a distortion', what does 'distortion' mean?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "C",
+      "explanation": "The pack defines 'determinations' as official decisions or findings reached after a formal investigation, especially by a government authority; on 25 November 2026 the USTR published its determinations under Section 301 of the Trade Act of 1974.",
+      "no": 10,
+      "options": {
+        "A": "Uncertain guesses made before any investigation has even started at all",
+        "B": "A decision to postpone a meeting indefinitely",
+        "C": "Official decisions or findings reached after a formal investigation",
+        "D": "Private opinions shared by journalists"
+      },
+      "question": "In the sentence 'the Office of the United States Trade Representative (USTR) published its determinations under Section 301 of the Trade Act of 1974', what do 'determinations' mean?",
+      "section": "Vocabulary",
+      "source": "CA04"
+    },
+    {
+      "correct": "D",
+      "explanation": "The pack explains 'set out' as to begin a journey, or to start doing something; the writer says 'That was the hour I set out for Hasnabad.'",
+      "no": 11,
+      "options": {
+        "A": "To arrive at a destination after a long delay",
+        "B": "To cancel a planned journey",
+        "C": "To send goods to another country by ship",
+        "D": "To begin a journey, or to start doing something"
+      },
+      "question": "In the sentence 'That was the hour I set out for Hasnabad', what does 'set out' mean?",
+      "section": "Phrases",
+      "source": "CA13"
+    },
+    {
+      "correct": "A",
+      "explanation": "The pack explains 'at the same time' as together with that, while something else is also happening; in its example, Dhaka and Chattogram are grappling with uncontrolled urban growth at the same time as other developments.",
+      "no": 12,
+      "options": {
+        "A": "Together with that; while something else is also happening",
+        "B": "One after another, in a fixed order",
+        "C": "Much later, after a long gap",
+        "D": "In a completely different place"
+      },
+      "question": "In the sentence 'At the same time, major cities such as Dhaka and Chattogram are grappling with the consequences of uncontrolled urban growth', what does 'at the same time' mean?",
+      "section": "Phrases",
+      "source": "CA14"
+    },
+    {
+      "correct": "B",
+      "explanation": "The CA01 story states that Bangladesh hosts more than 1.2 million Rohingya refugees, a figure the state minister highlighted when speaking in Berlin on 27 November.",
+      "no": 13,
+      "options": {
+        "A": "About 120,000",
+        "B": "More than 1.2 million",
+        "C": "Around 2 million",
+        "D": "Fewer than 500,000"
+      },
+      "question": "According to the story, how many Rohingya refugees are in Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA01"
+    },
+    {
+      "correct": "C",
+      "explanation": "The CA02 story states that Bangladesh Bank named 640 young entrepreneurs for collateral-free financing under the Udyog programme, selecting 10 from each of 64 upazilas after 18,444 applications.",
+      "no": 14,
+      "options": {
+        "A": "64",
+        "B": "1,846",
+        "C": "640",
+        "D": "18,444"
+      },
+      "question": "How many young entrepreneurs were selected under Bangladesh Bank's Udyog programme?",
+      "section": "Current Affairs",
+      "source": "CA02"
+    },
+    {
+      "correct": "D",
+      "explanation": "The CA03 story states that the new Honorary Consulate in Katowice, headed by Adam Mokrysz, has jurisdiction over the Silesian Voivodeship and is Bangladesh's only honorary consulate in Poland.",
+      "no": 15,
+      "options": {
+        "A": "The Warsaw metropolitan area",
+        "B": "The whole of Poland",
+        "C": "The Masovian Voivodeship",
+        "D": "The Silesian Voivodeship"
+      },
+      "question": "Over which region does Bangladesh's new Honorary Consulate in Katowice have jurisdiction?",
+      "section": "Current Affairs",
+      "source": "CA03"
+    },
+    {
+      "correct": "A",
+      "explanation": "The CA04 story states that the USTR published Section 301 determinations on 25 November 2026 with a proposed rate of up to 18%, rising to 20% if consultations are found 'unsatisfactory'.",
+      "no": 16,
+      "options": {
+        "A": "Up to 18%, rising to 20%",
+        "B": "19%, rising to 37%",
+        "C": "10%, rising to 15%",
+        "D": "25%, rising to 30%"
+      },
+      "question": "What is the proposed US tariff rate for Bangladesh under the Section 301 determinations, and to what does it rise if consultations are 'unsatisfactory'?",
+      "section": "Current Affairs",
+      "source": "CA04"
+    },
+    {
+      "correct": "B",
+      "explanation": "The CA05 story states that Awami League activists set fire to police stations in Tungipara and Muksudpur in Gopalganj, and to the houses of two BNP lawmakers and a hospital owned by a BNP lawmaker.",
+      "no": 17,
+      "options": {
+        "A": "Mirpur and Narayanganj",
+        "B": "Tungipara and Muksudpur, Gopalganj",
+        "C": "Sirajdikhan and Munshiganj",
+        "D": "Rangpur and Netrokona"
+      },
+      "question": "In which two places were police stations torched, according to Home Minister Salahuddin Ahmed?",
+      "section": "Current Affairs",
+      "source": "CA05"
+    },
+    {
+      "correct": "C",
+      "explanation": "The CA06 story states that global seaborne trade is projected to grow zero per cent in 2026, down from 1.9 per cent in 2025, because of disruptions in the Strait of Hormuz and the Red Sea.",
+      "no": 18,
+      "options": {
+        "A": "1.9% in 2026, up from 0% in 2025",
+        "B": "4.07% in 2026, up from 3.4% in 2025",
+        "C": "0% in 2026, down from 1.9% in 2025",
+        "D": "11.43% in 2026, up from 10.5% in 2025"
+      },
+      "question": "By how much is global seaborne trade projected to grow in 2026, compared with 2025?",
+      "section": "Current Affairs",
+      "source": "CA06"
+    },
+    {
+      "correct": "D",
+      "explanation": "The CA07 story states that one in every two girls in Bangladesh is a victim of child marriage and that, at the current rate of progress, it will take more than 64 years to eliminate the practice.",
+      "no": 19,
+      "options": {
+        "A": "About 10 years",
+        "B": "Around 25 years",
+        "C": "Fewer than 5 years",
+        "D": "More than 64 years"
+      },
+      "question": "At the current rate of progress, how long will it take to eliminate child marriage in Bangladesh?",
+      "section": "Current Affairs",
+      "source": "CA07"
+    },
+    {
+      "correct": "A",
+      "explanation": "The CA08 story states that all four idle BIWTC vessels were bought during the previous government for a combined Tk 1.22 billion, and three of them will become floating hospitals.",
+      "no": 20,
+      "options": {
+        "A": "Tk 1.22 billion",
+        "B": "Tk 540 million",
+        "C": "Tk 680 million",
+        "D": "Tk 2 billion"
+      },
+      "question": "How much was spent in total on the four idle BIWTC passenger vessels?",
+      "section": "Current Affairs",
+      "source": "CA08"
+    },
+    {
+      "correct": "B",
+      "explanation": "The CA09 story states that Bank Asia is offering SME loans at 5-9% interest at the National SME Product Fair, with loans at 7% under Bangladesh Bank refinance schemes and up to 5% for women entrepreneurs under Subarno.",
+      "no": 21,
+      "options": {
+        "A": "2-4%",
+        "B": "5-9%",
+        "C": "9-12%",
+        "D": "12-15%"
+      },
+      "question": "At what interest rate band is Bank Asia offering SME loans at the National SME Product Fair?",
+      "section": "Current Affairs",
+      "source": "CA09"
+    },
+    {
+      "correct": "C",
+      "explanation": "The CA10 story states that the wage board voted in the early hours of 25 November, with four members backing Tk 17,000 and both workers' representatives backing Tk 18,000; workers had opened at Tk 32,000 and owners at Tk 15,000.",
+      "no": 22,
+      "options": {
+        "A": "Tk 15,000",
+        "B": "Tk 18,000",
+        "C": "Tk 17,000",
+        "D": "Tk 32,000"
+      },
+      "question": "What minimum monthly wage did the RMG wage board vote for garment workers?",
+      "section": "Current Affairs",
+      "source": "CA10"
+    },
+    {
+      "correct": "D",
+      "explanation": "The CA11 story states that the government's 'Creative Economy' initiative covers 7 creative sectors: painting, sculpture, handicrafts, theatre, music, literature and films.",
+      "no": 23,
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "10",
+        "D": "7"
+      },
+      "question": "How many creative sectors does the government's 'Creative Economy' initiative cover?",
+      "section": "Current Affairs",
+      "source": "CA11"
+    },
+    {
+      "correct": "A",
+      "explanation": "The CA12 story states that Shafiqur Rahman said the July uprising ended 15 years of what he called fascist rule, and accused the BNP of paving the way for fascism's return.",
+      "no": 24,
+      "options": {
+        "A": "15 years",
+        "B": "5 years",
+        "C": "10 years",
+        "D": "20 years"
+      },
+      "question": "According to Shafiqur Rahman, how many years of what he called fascist rule did the July uprising end?",
+      "section": "Current Affairs",
+      "source": "CA12"
+    },
+    {
+      "correct": "B",
+      "explanation": "The CA13 story states that Bhola's nine gas wells produce about 182 million cubic feet of gas a day, while reserves stand at around 2 trillion cubic feet and the island uses only about 75 million cubic feet a day.",
+      "no": 25,
+      "options": {
+        "A": "About 75 million cubic feet",
+        "B": "About 182 million cubic feet",
+        "C": "About 2,650 million cubic feet",
+        "D": "About 3,800 million cubic feet"
+      },
+      "question": "How much gas a day do Bhola's nine wells produce?",
+      "section": "Current Affairs",
+      "source": "CA13"
+    }
+  ],
+  "sources": [
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh seeks economic security, diversified supply chains: Shama Obaed",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-economic-security-diversified-supply-chains-shama-obaed-1616061"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "bdnews24",
+      "Headline / report": "Bangladesh Bank names 640 for collateral-free 'Udyog' loans",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://bdnews24.com/economy/obat5skc9f"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh's Honorary Consulate inaugurated in Katowice, Poland",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.tbsnews.net/foreign-policy/bangladeshs-honorary-consulate-inaugurated-katowice-poland-1615986"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bangladesh needs to reassess its US trade strategy",
+      "Publication date": "2026-11-28",
+      "Direct URL": "https://www.tbsnews.net/features/panorama/bangladesh-needs-reassess-its-us-trade-strategy-1616116"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Those who torched police stations, hospitals identified: Home minister",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/local-news/l0gud6s437"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "Bangladesh economy burdened with swelling seaborne trade cost",
+      "Publication date": "2026-11-28",
+      "Direct URL": "https://today.thefinancialexpress.com.bd/first-page/bangladesh-economy-burdened-with-swelling-seaborne-trade-cost-1795802777"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "Child marriage in Bangladesh: Why are fewer cases being reported?",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/x2altyq03k"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "Prothom Alo English",
+      "Headline / report": "3 of 4 idle BIWTC vessels to become floating hospitals",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://en.prothomalo.com/bangladesh/koi9xktuap"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Bank Asia offers SME loans at 5–9% interest at National SME Product Fair",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.tbsnews.net/economy/corporates/bank-asia-offers-sme-loans-5-9-interest-national-sme-product-fair-1615631"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Daily Star",
+      "Headline / report": "How did the RMG wage board arrive at Tk 17,000?",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.thedailystar.net/opinion/views/news/how-did-the-rmg-wage-board-arrive-tk-17000-4334286"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Khosru calls for developing creative economy",
+      "Publication date": "2026-11-28",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/khosru-calls-developing-creative-economy-1616076"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "Shafiqur accuses BNP of paving the way for return of fascists",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.tbsnews.net/bangladesh/politics/shafiqur-accuses-bnp-paving-way-return-fascists-1616096"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Business Standard",
+      "Headline / report": "The river road carrying Bhola's gas to Dhaka",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://www.tbsnews.net/features/panorama/river-road-carrying-bholas-gas-dhaka-1616111"
+    },
+    {
+      "Source ID": "S01",
+      "Publication / organisation": "The Financial Express",
+      "Headline / report": "BB's 4-yr master plan to salvage banking sector",
+      "Publication date": "2026-11-27",
+      "Direct URL": "https://thefinancialexpress.com.bd/editorial/bbs-4-yr-master-plan-to-salvage-banking-sector"
+    }
+  ],
+  "approved_by": "auto-17/17",
+  "approval_notes": "Auto-approval per Rudro's rule (2026-11-15): review 17/17 passed, longest-correct 7/25 (gate limit <=10). v1 fallback edition (v2 failed: convert crash + only 6 fresh words). Manual spot-checks done by operator: 5 lead figures verified against sources (CA02, CA06, CA08, CA10, CA13; CA01 also verified); opinion attribution verified CA04/CA10/CA14. Honest limit: the 17 checks verify form, not content against sources."
+}
